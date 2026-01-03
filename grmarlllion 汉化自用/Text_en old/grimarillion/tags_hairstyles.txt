@@ -1,0 +1,129 @@
+//Quality//Color//
+tagHairBrown=^m(Brown Hair) 
+tagHairBlack=^s(Black Hair)
+tagHairBlonde=^k(Blonde Hair)
+tagHairGrey=^w(Grey Hair)
+tagHairAuburn=^o(Auburn Hair)
+tagHairPurple=^p(Purple Hair)
+tagHairPink=^f(Pink Hair)
+tagHairBlue=^b(Blue Hair)
+tagHairGreen=^g(Green Hair)
+
+
+
+
+//Styles//
+tagHairPulledBack=Ponytail
+tagHairUnkempt=Unkempt 
+tagHairTiedLoose=Tied Back
+tagHairSlick=Swept-Back
+tagHairPunk=Punk 
+tagHairBuzzPunk=Buzzed Punk 
+tagHairDefault=Pixie
+tagHairBald=Shaved
+tagHairNymph1=Half Crown Braid
+tagHairNymph2=Greek Bun
+tagHairNymph3=Floral Curls 
+tagHairNymph4=Messy Bun
+tagHairNymph5=Goddess Braid
+tagHairNymph6=Wild Mane
+tagHairPlant=Plant Head
+
+//Hair Credits//
+tagHairNymphCredit=^sA fanciful hairstyle created by Nargil66 and modified by ASYLUM101
+
+
+//NPC//
+tagBarberNPC001=Mendez
+tagBarberNPC001_Profession=The Barber
+tagBarberNPC001_DESC01=Snip snip!
+tagBarberNPC001_DESC02=The barber can give you some really great style!
+tagBarberNPC001_DESC03=
+tagBarberNPC001_DESC04={^n}The Barber cannot grant equipment bonuses.
+
+//Crafting//
+tagFormula_Hair_001_a=Craft Brown Ponytail
+tagFormula_Hair_001_b=Craft Black Ponytail
+tagFormula_Hair_001_c=Craft Blonde Ponytail
+tagFormula_Hair_001_d=Craft Grey Ponytail
+tagFormula_Hair_001_e=Craft Auburn Ponytail
+tagFormula_Hair_001_f=Craft  
+tagFormula_Hair_001_g=Craft  
+tagFormula_Hair_002_a=Craft Grey Unkempt
+tagFormula_Hair_002_b=Craft Black Unkempt
+tagFormula_Hair_002_c=Craft Blonde Unkempt
+tagFormula_Hair_002_d=Craft Brown Unkempt
+tagFormula_Hair_002_e=Craft  
+tagFormula_Hair_002_f=Craft  
+tagFormula_Hair_002_g=Craft  
+tagFormula_Hair_003_a=Craft Brown Swept-Back
+tagFormula_Hair_003_b=Craft Brown Swept-Back
+tagFormula_Hair_003_c=Craft Brown Swept-Back
+tagFormula_Hair_003_d=Craft Brown Swept-Back
+tagFormula_Hair_003_e=Craft Brown Swept-Back
+tagFormula_Hair_003_f=Craft Brown Swept-Back
+tagFormula_Hair_003_g=Craft Brown Swept-Back
+tagFormula_Hair_003_h=Craft Brown Swept-Back 
+tagFormula_Hair_004_a=Craft Brown Punk
+tagFormula_Hair_004_b=Craft Black Punk
+tagFormula_Hair_004_c=Craft Blonde Punk
+tagFormula_Hair_004_d=Craft Grey Punk
+tagFormula_Hair_004_e=Craft Auburn Punk
+tagFormula_Hair_004_f=Craft  
+tagFormula_Hair_004_g=Craft  
+tagFormula_Hair_005_a=Craft Brown Buzzed Punk
+tagFormula_Hair_005_b=Craft Black Buzzed Punk
+tagFormula_Hair_005_c=Craft Blonde Buzzed Punk
+tagFormula_Hair_005_d=Craft Grey Buzzed Punk
+tagFormula_Hair_005_e=Craft Auburn Buzzed Punk
+tagFormula_Hair_005_f=Craft  
+tagFormula_Hair_005_g=Craft  
+tagFormula_Hair_006_a=Craft Brown Default
+tagFormula_Hair_006_b=Craft Shaved
+tagFormula_Hair_006_c=Craft  
+tagFormula_Hair_006_d=Craft  
+tagFormula_Hair_006_e=Craft  
+tagFormula_Hair_006_f=Craft  
+tagFormula_Hair_006_g=Craft  
+tagFormula_Hair_007_a=Craft Purple Half Crown Braid
+tagFormula_Hair_007_b=Craft Gold Half Crown Braid
+tagFormula_Hair_007_c=Craft Pink Half Crown Braid
+tagFormula_Hair_007_d=Craft Green Half Crown Braid
+tagFormula_Hair_007_e=Craft Blue Half Crown Braid
+tagFormula_Hair_007_f=Craft Grey Half Crown Braid
+tagFormula_Hair_007_g=Craft Black Half Crown Braid
+tagFormula_Hair_008_a=Craft Purple Greek Bun
+tagFormula_Hair_008_b=Craft Gold Greek Bun
+tagFormula_Hair_008_c=Craft Pink Greek Bun
+tagFormula_Hair_008_d=Craft Green Greek Bun
+tagFormula_Hair_008_e=Craft Blue Greek Bun
+tagFormula_Hair_008_f=Craft Grey Greek Bun
+tagFormula_Hair_008_g=Craft Black Greek Bun
+tagFormula_Hair_009_a=Craft Purple Floral Curls
+tagFormula_Hair_009_b=Craft Gold Floral Curls
+tagFormula_Hair_009_c=Craft Pink Floral Curls
+tagFormula_Hair_009_d=Craft Green Floral Curls
+tagFormula_Hair_009_e=Craft Blue Floral Curls
+tagFormula_Hair_009_f=Craft Grey Floral Curls
+tagFormula_Hair_009_g=Craft Black Floral Curls
+tagFormula_Hair_010_a=Craft Purple Messy Bun
+tagFormula_Hair_010_b=Craft Gold Messy Bun
+tagFormula_Hair_010_c=Craft Pink Messy Bun
+tagFormula_Hair_010_d=Craft Green Messy Bun
+tagFormula_Hair_010_e=Craft Blue Messy Bun
+tagFormula_Hair_010_f=Craft Grey Messy Bun
+tagFormula_Hair_010_g=Craft Black Messy Bun
+tagFormula_Hair_011_a=Craft Purple Goddess Braids
+tagFormula_Hair_011_b=Craft Gold Goddess Braids
+tagFormula_Hair_011_c=Craft Pink Goddess Braids
+tagFormula_Hair_011_d=Craft Green Goddess Braids
+tagFormula_Hair_011_e=Craft Blue Goddess Braids
+tagFormula_Hair_011_f=Craft Grey Goddess Braids
+tagFormula_Hair_011_g=Craft Black Goddess Braids
+tagFormula_Hair_012_a=Craft Purple Wild Mane
+tagFormula_Hair_012_b=Craft Gold Wild Mane
+tagFormula_Hair_012_c=Craft Pink Wild Mane
+tagFormula_Hair_012_d=Craft Green Wild Mane
+tagFormula_Hair_012_e=Craft Blue Wild Mane
+tagFormula_Hair_012_f=Craft Grey Wild Mane
+tagFormula_Hair_012_g=Craft Black Wild Mane

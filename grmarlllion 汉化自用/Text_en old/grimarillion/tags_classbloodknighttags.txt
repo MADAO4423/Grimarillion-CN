@@ -1,0 +1,140 @@
+
+tagSkillClassName37=Blood Knight
+tagSkillClassName0137=Knight Commander
+tagSkillClassName0237=Worldender
+tagSkillClassName0337=Doom Knight
+tagSkillClassName0437=Voidseeker
+tagSkillClassName0537=[ms]Blood Sorcerer [fs]Blood Sorceress
+tagSkillClassName0637=Bloodcaller
+tagSkillClassName0737=Eradicator
+tagSkillClassName0837=Blood Lord
+tagSkillClassName0937=Oathbringer
+tagSkillClassName1037=Bloodshaper
+tagSkillClassName1137=[ms]Blood Witcher [fs]Blood Witch
+tagSkillClassName1237=Forbringer
+tagSkillClassName1337=Blood Mage
+tagSkillClassName1437=Profanator
+tagSkillClassName1537=[ms]Dark Emperor [fs]Dark Empress
+tagSkillClassName3637=Blood Hunter
+
+
+tagSkillClassDescriptionBloodKnight=Blood Knights are vanquishers of evil creatures that feed on enemies' life, entrap them in deadly shadows summoned with cursed strength, and rely on their trusty weapons to maintain distance from danger. And if all else fails, they may just succumb to the unholy abomination within themselves that is vying for control of their humanity.  ^n^sAdapted by Grimer for the Diablo 3 Mod
+
+#ClassBloodKnight
+tagClassBloodKnightSkillName00=Blood Knight
+tagClassBloodKnightSkillDescription00="All that remains of my life, vowed against the darkness."
+
+tagClassBloodKnightSkillName01A=Emissary of Chaos
+tagClassBloodKnightSkillDescription01A=All your damage and health is increased and chaos damage is added to your attacks. ^oRequires a melee weapon.{^n}{^n}{^y}Obsidian Armor {^o}(Unlocked at Skill Level 12){^n}^wYour armor is increased by 25%.
+
+tagClassBloodKnightSkillName02A=Rive
+tagClassBloodKnightSkillDescription02A=Your attacks become imbued with chaos damage and cause vitality decay to enemies. When used as a default weapon attack, Rive increases the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the bonuses.{^n}{^n}{^y}Hemostasis {^o}(Unlocked at Skill Level 16){^n}^wYou gain 25% bleeding resistance while Rive is active.
+
+tagClassBloodKnightSkillName02B=Iron Will
+tagClassBloodKnightSkillDescription02B=Rive grants you armor, health regeneration and resistance to stun effects.
+
+tagClassBloodKnightSkillName02C=Eviscerate
+tagClassBloodKnightSkillDescription02C=Becomes more aggressive, causing enemies to bleed and gaining chance to strike foes with a vital blow.
+
+
+tagClassBloodKnightSkillName02D=Voidfire
+tagClassBloodKnightSkillDescription02D=Imbue your attacks with dark flames from the void.
+
+
+tagClassBloodKnightSkillName03A=Leaping Smash
+tagClassBloodKnightSkillDescription03A=Jump into the air and smash the ground with your weapon, causing an entropic blast that deals damage and reduces the attack speed of enemies in the area. ^oActivates off of default weapon attacks and requires a melee weapon.{^n}{^n}{^y}Before the Dust Settles {^o}(Unlocked at Skill Level 10){^n}^wEnemies have 35% chance to miss melee attacks for 3 seconds.
+
+tagClassBloodKnightSkillName04A=Vicious Lift
+tagClassBloodKnightSkillDescription04A=Strike an area in front of you, causing obsidian spikes to erupt from the ground, dealing damage and stunning enemies for a brief moment. ^oActivates off of default weapon attacks and requires a melee weapon.{^n}{^n}{^y}Devastate {^o}(Unlocked at Skill Level 10){^n}^wVicious Lift gains 35% crit damage.
+
+tagClassBloodKnightSkillName05A=Shadow's Edge
+tagClassBloodKnightSkillDescription05A=Hurl a blade of pure shadow energy that splits into three fragments after hitting a target. If a fragment doesn't hit an enemy, terrain or structure, it will travel back to you, striking any foe on its way and replicating the initial damage. ^oRequires a melee weapon.{^n}{^n}{^y}Weakening {^o}(Unlocked at Skill Level 16){^n}^wShadow's Edge reduces the damage of enemies by 20% for 2 seconds.
+
+tagClassBloodKnightSkillName05B=Lethal Projection
+tagClassBloodKnightSkillDescription05B=The shadow blade also deals vitality decay damage and gains chance to pierce through enemies. Once the blade passes through a target, fragments that may return to you will replicate the damage to all enemies on its way. Base damage is increased.
+
+tagClassBloodKnightSkillName06A=Wave of Blood
+tagClassBloodKnightSkillDescription06A=Expel a wave of blood that deals vitality and chaos damage and slows enemies on its way.{^n}{^n}{^y}Fountain of Despair {^o}(Unlocked at Skill Level 16){^n}^wWave of Blood gains 35% chance to confuse enemies.
+
+tagClassBloodKnightSkillName06B=Death Tide
+tagClassBloodKnightSkillDescription06B=Wave of blood deals vitality decay damage to enemies and reduces their resistances over 3 seconds. Base damage is increased.
+
+tagClassBloodKnightSkillName06C=Darkflame River
+tagClassBloodKnightSkillDescription06C=Wave of blood turns into a river of voidfire.
+
+tagClassBloodKnightSkillName07A=Blood Rush
+tagClassBloodKnightSkillDescription07A=Rush foward in a straight path, dealing damage to all enemies on the way and releasing a blood nova when you arrive. Blood nova deals damage only to enemies that were not hit by you while moving.{^n}{^n}{^y}Transfusion {^o}(Unlocked at Skill Level 16){^n}^w30% of the damage dealt returns to you as health.
+
+tagClassBloodKnightSkillName07B=Trails of the Void
+tagClassBloodKnightSkillDescription07B=Creates fissures in the path you have rushed on. After a brief moment, the ground erupts in a burst of void energy, dealing damage and knocking enemies into the air.
+
+tagClassBloodKnightSkillName07C=Tearing Ride
+tagClassBloodKnightSkillDescription07C=Blood rush causes enemies to bleed and reduces their defensive ability over 3 seconds. Base damage is increased.
+
+tagClassBloodKnightSkillName08A=Siphon of Blood
+tagClassBloodKnightSkillDescription08A=Conjure an aura that increases your defensive ability, grants you resistance to health reduction and life leech, while it continuously deals damage to enemies around you, converting a portion of the damage dealt to your health.{^n}{^n}{^y}Universal Recipient {^o}(Unlocked at Skill Level 12){^n}^wHealing effects are increased by 35% while Siphon of Blood is active.
+
+tagClassBloodKnightSkillName08B=Entropy
+tagClassBloodKnightSkillDescription08B=The aura also deals chaos damage and reduces the offensive ability of enemies for 2 seconds. Base damage is increased.
+
+tagClassBloodKnightSkillName09A=Whirling Strike
+tagClassBloodKnightSkillDescription09A=Whirl your weapon around you multiple times, perfoming up to 4 strikes at enemies and stunning them for a few seconds. ^oRequires a melee weapon.{^n}{^n}{^y}Enfeeblement {^o}(Unlocked at Skill Level 16){^n}^wReduces the total speed of enemies by 25% over 3 seconds.
+
+tagClassBloodKnightSkillName09B=Death Blossom
+tagClassBloodKnightSkillDescription09B=Become a vector of void energy, releasing chaos bolts that explode, dealing damage to nearby enemies and reducing their damage over 3 seconds.
+
+tagClassBloodKnightSkillName10A=Ravage
+tagClassBloodKnightSkillDescription10A=Perform a double sweep that unleashes waves of void energy, dealing chaos damage to multiple enemies in front of you. ^oRequires a melee weapon.{^n}{^n}{^y}Eradicate {^o}(Unlocked at Skill Level 16){^n}^wThe angle of the sweeps is increased and the number of targets you can hit becomes unlimited.
+
+tagClassBloodKnightSkillName10B=Annihilation
+tagClassBloodKnightSkillDescription10B=Ravage also deals vitality damage and vitality decay to enemies over 3 seconds. Base damage is increased.
+
+tagClassBloodKnightSkillName11A=Mephitic Cloud
+tagClassBloodKnightSkillDescription11A=Release a toxic cloud around you that affects enemies over 6 seconds, impairing their sight, reducing defensive ability and granting a chance to confuse them for a few seconds. Affected enemies also take chaos damage over the duration.{^n}{^n}{^y}Anemia {^o}(Unlocked at Skill Level 12){^n}^wMephitic Cloud reduces the health regeneration of enemies by 70%.
+
+tagClassBloodKnightSkillName11B=Hemoplague
+tagClassBloodKnightSkillDescription11B=The cloud reduces some resistances of enemies with a virulent plague that deals vitality damage and causes them to bleed.
+
+tagClassBloodKnightSkillName12A=Shroud of Night
+tagClassBloodKnightSkillDescription12A=Shroud yourself and nearby allies in darkness, increasing defensive ability and physical resistance, while also grants bonus health and health regeneration.{^n}{^n}{^y}See No Evil {^o}(Unlocked at Skill Level 12){^n}^wThe dark shroud reduces the damage you and your allies take from Beastkin and Chthonian creatures by 10%.
+
+tagClassBloodKnightSkillName12B=Tainted Heart
+tagClassBloodKnightSkillDescription12B=Increases damage and grants you and your allies resistance to chaos and vitality damage.
+
+tagClassBloodKnightSkillName13A=Blood Hunt
+tagClassBloodKnightSkillDescription13A=Awake your seek for revenge against those responsible for your curse, increasing all damage, total speed and slow resistance for a few seconds. While Blood Hunt is active, you also deal increased damage to Beastkin and Chthonic creatures. ^oActivates when taking damage. {^n}{^n}{^y}Night Vision {^o}(Unlocked at Skill Level 12){^n}^wGain 30% chance to deflect projectiles.
+
+tagClassBloodKnightSkillName14A=Coagulate
+tagClassBloodKnightSkillDescription14A=Engulf yourself in a vessel of blood, gaining resistance to control impairing effects and absorbing all damage taken for a few seconds. {^n}{^n}{^y}Hematic Power {^o}(Unlocked at Skill Level 12){^n}^wYour offensive ability is increased by 20% while Coagulate is active.
+
+tagClassBloodKnightSkillName15A=Swarm of Bats
+tagClassBloodKnightSkillDescription15A=Call a cloud of bats that pursuits foes, dealing vitality and chaos damage to enemies and making them bleed for 2 seconds. ^oSwarm of Bats scales with player damage bonuses. {^n}{^n}{^y}Oversight {^o}(Unlocked at Skill Level 16){^n}^w5% of the damage dealt by the bats is converted to your health.
+
+tagClassBloodKnightSkillName15PetSkill=Winged Menace
+tagClassBloodKnightSkillName15PetCounter=Current Number of Swarm of Bats Conjured
+
+tagChestBloodKnight=A Bloody Gift
+
+Rune Effects
+
+tagWingedProtection=^cRune Effect
+tagWingedProtectionDesc=You are taking 20% reduced damage by standing close to Swarm of Bats.
+
+tagBloodKnightRune01=^cBloodline's Pride
+tagBloodKnightRune01Desc=While ^rShroud of Night ^wis active, you cast an alternate version of Coagulate whenever you are under 50% health, becoming invulnerable for 3 seconds. However, you no longer can use health potions. ^oThis effect has a internal cooldown, which can be reduced by CDR.{^n}{^n}{^y}Runeword: {^c}BacTal
+tagBloodKnightRune01B=^cRune Effect
+tagBloodKnightRune01BDesc=You are invulnerable for 3 seconds.
+
+tagBloodKnightRune02=^cSiphoner's Carnage
+tagBloodKnightRune02Desc=While ^rSiphon of Blood ^wis active, every enemy attacked by you becomes involved by an alternate version of the skill. Affected targets deal vitality, chaos and bleeding damage to nearby foes, transfering a portion of the damage dealt to your health.{^n}{^n}{^y}Runeword: {^c}NeoXal
+tagBloodKnightRune02b=^cRune Effect
+tagBloodKnightRune02bDesc=Target currently involved by Siphon of Blood.
+tagBloodKnightRune02C=^cEnhanced Siphoner's Carnage
+tagBloodKnightRune02CDesc=Every enemy hit by ^rSiphon of Blood ^wbecomes involved by an alternate version of the skill. Affected targets deal vitality, chaos and bleeding damage to nearby foes, transfering a portion of the damage dealt to your health.{^n}{^n}{^y}Runeword: {^c}NeoXal (Enhanced)
+
+tagBloodKnightRune03=^cCrimson Fate
+tagBloodKnightRune03Desc=Critical attacks performed by ^rLeaping Smash ^wcurse enemies around you. Cursed enemies have their chaos and vitality resistances reduced by 10% over 10 seconds. Whenever a cursed enemy goes under 20% health, it has 10% chance to die instantly. ^oEnemies must be cursed ^rbefore ^othey hit the 20% threshold.{^n}{^n}{^y}Runeword: {^c}CemKry
+tagBloodKnightRune03b=^cRune Effect
+tagBloodKnightRune03bDesc=This enemy is currently cursed by Leaping Strike.
+tagBloodKnightRune03c=^cCrimson Death
+

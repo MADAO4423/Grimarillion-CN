@@ -1,0 +1,583 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Version #
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tagQuests=Active Quests (v094a)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Difficulty Tags
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagRDifficultyTitle01=Grimmer
+tagRDifficultyTitle02=El Grimmest
+tagRDifficultyTitle03=Ul Grimmest
+tagChallengeDifficulty=Vet Grimmest
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Loading Tips
+Jokingly modded in Grimmest
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagJiacoTip01={^g}Tip: {^w}When things go bad, you can always run, unless you are trapped, then you can't.
+tagJiacoTip02={^g}Tip: {^w}If you find a Devotion Shrine you cannot restore yet, you are likely going to die soon.
+tagJiacoTip03={^g}Tip: {^w}You can view Tutorial Tips again at any time in the Codex Window, for a fee.
+tagJiacoTip04={^g}Tip: {^w}Enemies significantly below your level do not exist. If they do, kill them.
+tagJiacoTip05={^g}Tip: {^w}Everytime you have to reverse course due to a random barrier, curse Grava.
+tagJiacoTip06={^g}Tip: {^w}Visit www.GrimDawn.com. It is a cool place. You do not even need to type the www. part.
+tagJiacoTip07={^g}Tip: {^w}Hero Monsters (marked by a Star) are the best part about this game.
+tagJiacoTip08={^g}Tip: {^w}Your inventory will fill up with Rare Crafting Materials and a ton of other stuff.
+tagJiacoTip09={^g}Tip: {^w}On El Grimmest Difficulty, your core resistances are reduced by 2500%, going up to 50000% on El Ultimate.
+tagJiacoTip10={^g}Tip: {^w}There are many secret places in the world of Cairn. Or at least they were secret.
+tagJiacoTip11={^g}Tip: {^w}On Grimmest Difficulty and above, Bosses will try to gang up on you. Run Away!
+tagJiacoTip12={^g}Tip: {^w}Explore the world to find One-Shot Chests, and monsters that can one-shot you.
+tagJiacoTip13={^g}Tip: {^w}Epic and Legendary items grant you bragging rights back at the tavern after your rampage.
+tagJiacoTip14={^g}Tip: {^w}Infrequently, some monsters can drop stuff. More frequently, they drop lots of stuff.
+tagJiacoTip15={^g}Tip: {^w}Legendary items are incredibly powerful and should be used to maximize the death around you.
+tagJiacoTip16={^g}Tip: {^w}Set items have powerful bonuses, if worn together, and look quite stylish covered in blood.
+tagJiacoTip17={^g}Tip: {^w}Components drop all over the place, run over them and they can clutter your inventory.
+tagJiacoTip18={^g}Tip: {^w}I kill stuff therefore there is stuff.
+tagJiacoTip19={^g}Tip: {^w}Many Components can only be crafted. This is called monopoly.
+tagJiacoTip20={^g}Tip: {^w}You have better chance of finding great loot if you play upside-down.
+tagJiacoTip21={^g}Tip: {^w}If you zoom in to max, you move faster. 
+tagGrimerTip01={^g}Tip: {^w}Some monster shrines now spawn Diablo 3 bosses. They have different visuals and are marked with an icon over them. Beware.
+tagGrimerTip02={^g}Tip: {^w}You can convert two-handed melee weapons into one-handed versions and wield them as a Crusader, using the Hold Your Ground passive.
+tagAsylumTip01={^g}Tip: {^w}There are rumors of a hideout somewhere near Devil's Crossing... try looking behind the outhouse.
+tagAsylumTip02={^g}Tip: {^w}There was an explosion recently, south east of Devil's Crossing. You should check it out and look for the ruins.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vanilla Class Descriptions (added credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassDescription01=Soldiers of the imperial army were trained to survive in the most hellish conditions and hold the line against the deadliest enemies of the empire. Soldiers prefer the use of close combat weaponry, such as a sword and shield, but can also prove formidable with firearms. What a Soldier may lack in outright damage output is made up for in fortitude and leadership. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription02=Pyrotechnic masters of the imperial army, Demolitionists are part engineer and part sorcerer. They were used to break enemy ranks and breach fortifications with their devastating array of explosives and destructive magic. They usually prefer to fight at range; engaging enemies with guns, traps and explosives but they can also be proficient with melee weapons. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription03=Once hunted by imperial forces in an effort to control eldritch power, the Occultist's craft focuses heavily on summoning and borrowed powers granted by the three witch "gods" Bysmiel, Solael and Dreeg. Their diverse arts include abhorrent curses and spells that inflict damage with poison, acid, and entropic energy. Excelling with neither sword nor gun, they can use either to augment their offense. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription04=Nightblades were clandestine warriors that sold their services to the great houses of the empire. Nightblades excel with all manner of martial weapons, but are even more feared for the deadly blade magic that is the secret of their trade. Nightblades are not suited to go toe to toe with tougher enemies and rely on illusion to close for quick, devastating attacks or fight from a distance with phantasmal blades. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed melee weapons, but can easily adapt to other tools of war when conjuring their primal powers. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription07=As members of the esteemed Luminari Order, Inquisitors were responsible for protecting the Erulan Empire from the dangers of the arcane and the occult. Over the centuries, the Inquisitors gathered countless relics of unimaginable power, but duty sometimes overcomes safety, and some of these relics were studied and in turn replicated for use by the inquisition. While they excel with ranged weapons, Inquisitors are armed with an arsenal of relics and arcane runes that allow them to be more than capable in close-quarters combat. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription08=Though most modern Necromancers hail from the Order of Death's Vigil and the training of the mysterious Uroboruuk, not all choose the secluded life. While their profession naturally inspires fear and revulsion, the Necromancers of Cairn seek balance through research and mastery over the ultimate fate that awaits all mortals: death. Necromancers make heavy use of conjuring forth skeletal minions and sapping the very vitality from their unwary foes, though entering the fray themselves with martial weapons is not unheard of. ^n^sCreated by Crate Ent. for Grim Dawn
+
+tagSkillClassDescription09=Whether they hail from the Temple of Menhir, or offer their souls to the Witch Gods, all Oathkeepers have two things in common: unflinching loyalty and zealous fury. Oathkeepers are the guardians of sacred tombs, keepers of the faithful and ardent enforcers of celestial will. They do not merely hide behind a shield or their divine powers; to Oathkeepers, these are weapons upon which they shall spill the blood of the unworthy and exact their righteous wrath. ^n^sCreated by Crate Ent. for Grim Dawn
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Misc UI Edits
+~~~~~~~~~~~~~~~~~~~~~~~~
+tagSpear=Spear
+tagStaff=Staff
+tagCraftingSpears=SPEARS
+tagCraftingStaves=STAVES
+tagWeaponUnknown=Unknown
+tagDevotion_RequiresMagic=^o Requires a scepter, dagger, or caster off-hand.
+tagDevotion_RequiresSword=^oRequires a sword or spear.
+tagDevotion_RequiresRange=^oRequires a ranged weapon or staff.
+tagDevotion_Requires2h=^oRequires a two-handed melee, two-handed ranged weapon, or staff.
+tagDamageModifierSleep={%+.0f0}% {^E}Sleep Duration
+tagDefenseSleep={%.0f0}% {^E}Reduced Sleep Duration
+tagDefenseSleepModifier={%+.0f0}% {^E}Reduced Sleep Duration
+
+
+DefenseProtectionModifier={^H}{%+.0f0}% {^E}Armor Rating
+
+DamageModifierPierceRatio={^H}{%.0f0}% {^E}Increased Armor Piercing
+DamageModifierPierceRatioR={^H}{%.0f0}-{%.0f1}% {^E}Increased Armor Piercing
+ 
+DefenseAbsorptionModifier={^H}{%.0f0}% {^E}Increased Armor Absorption
+DefenseAbsorptionModifierR={^H}{%.0f0}-{%.0f1}% {^E}Increased Armor Absorption
+
+tagCharLifeRegenModifier={^H}{%+.0f0}% {^E}Health Regeneration
+tagCharManaRegenModifier={^H}{%+.0f0}% {^E}Energy Regeneration
+tagCharLifeRegenModifierR={^H}{%.0f0}-{%.0f1}% {^E} Health Regeneration
+tagCharManaRegenModifierR={^H}{%.0f0}-{%.0f1}% {^E} Energy Regeneration
+
+SkillPetLimitMod={%d0} {^E}Summon Limit
+tagSkillPetTimeToLive={^H}{%.1f0}{^E} Seconds Summon Duration//tagSkillPetTimeToLive={^E}Lives for {^H}{%.1f0} {^E}Seconds
+tagSkillPetTimeToLiveMod={^H}{%+.1f0}{^E} Seconds Summon Duration//tagSkillPetTimeToLiveMod={^E}Lives for {^H}{%+.1f0} {^E}Seconds
+SkillPetBurstSpawn={^E}Summons {^H}{%d0} Per Cast//skills
+SkillPetBurstSpawnMod=+{%d0} {^E}Summon Per Cast//items
+SkillPetBurstSpawnsMod=+{%d0} {^E}Summons Per Cast//items with multiple summons?
+
+tagCharHealIncreaseModifier={^H}{%+.0f0}% {^E}Healing Effects
+tagCharHealIncreaseModifierR={^H}{%.0f0}% - {%.0f1}% {^E}Healing Effects
+
+
+DefensePhysical={%+.0f0}% {^K}Physical Resistance{^E}
+DefensePierce={%+.0f0}% {^R}Pierce Resistance{^E}
+DefenseElementalResistance={%+.0f0}% {^Y}Elemental Resistance{^E}
+DefenseCold={%+.0f0}% {^C}Cold Resistance{^E}
+DefenseFire={%+.0f0}% {^O}Fire Resistance{^E}
+DefenseAether={%+.0f0}% {^A}Aether Resistance{^E}
+DefenseChaos={%+.0f0}% {^P}Chaos Resistance{^E}
+DefensePoison={%+.0f0}% {^L}Poison & Acid Resistance{^E}
+DefenseLightning={%+.0f0}% {^Z}Lightning Resistance{^E}
+DefenseBleeding={%+.0f0}% {^R}Bleeding Resistance{^E}
+DefenseLife={%+.0f0}% {^M}Vitality Resistance{^E}
+DefenseLifeLeach={%+.0f0}% {^E}Life Leech Resistance
+DefenseManaLeach={%+.0f0}% {^E}Energy Leech Resistance
+DefensePercentCurrentLife={%+.0f0}% {^E}Resistance to Life Reduction
+DefenseReflectResist={%+.0f0}% {^E}Reflected Damage Reduction
+tagCharBonusPierceDmg=Bonus Piercing Damage:
+tagCharStatsPierceAbsDmg=Piercing Damage
+tagCharStatsPierceAbsDmgInfo=The Piercing Damage done per hit with your weapon attacks, including bonuses.
+tagCharStatsPiercePercentDmg=Piercing Modifier
+tagCharStatsPiercePercentDmgInfo=The percent bonus to all Piercing Damage dealt by attacks and spells, not including the bonus from Cunning. % All Damage is included.
+tagCharStatsPierce=Piercing
+tagCharStatsPetPierceResist=Piercing Resist
+tagCharStatsPetPierceResistInfo=The percent bonus to the Piercing Resistance of your pets and summoned minions.
+tagCharStatsPierceRet=Piercing
+tagCharStatsPierceRetInfo=The Piercing Damage dealt to an attacker whenever you are hit.
+tagCharStatsPiercePercentRet=Piercing Modifier
+tagCharStatsPiercePercentRetInfo=The percent bonus to all Piercing Damage Retaliation effects. % All Damage does not affect Retaliation damage.
+tagQualifyingDamagePierce=Piercing
+DamageModifierPierce={%+.0f0}% {^R}Piercing Damage{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}Piercing Damage{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}Piercing Retaliation{^E}
+DefensePierce={%.0f0}% {^R}Piercing Resistance{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}Piercing Resistance{^E}
+DefensePierceModifier={^R}Increases Current Piercing Resistance by {^H}{%.0f0}%{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}Maximum Piercing Resistance{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}Maximum Piercing Resistance{^E}
+
+
+DefenseStun={%+.0f0}% {^E}Stun Resistance
+DefenseStunNegative={%+.0f0}% {^E}Stun Resistance
+tagTotalSpeedResistance={%+.0f0}% {^E}Slow Resistance
+DefenseTrap={%+.0f0}% {^E}Trap Resistance
+DefenseTrapNegative={%+.0f0}% {^E}Trap Resistance
+DefenseFreeze={%+.0f0}% {^E}Freeze Resistance
+DefenseFreezeNegative={%+.0f0}% {^E}Freeze Resistance
+DefenseKnockdown={%+.0f0}% {^E}Knockdown Resistance
+DefenseKnockdownNegative={%+.0f0}% {^E}Knockdown Resistance
+DefensePetrify={%+.0f0}% {^E}Petrify Resistance
+DefensePetrifyNegative={%+.0f0}% {^E}Petrify Resistance
+DefenseTaunt={%+.0f0}% {^E}Taunt Resistance (Doesn't Affect Players)
+DefenseConvert={%+.0f0}% {^E}Mind Control Resistance (Doesn't Affect Players)
+DefenseFear={%+.0f0}% {^E}Terrify Resistance
+DefenseConfusion={%+.0f0}% {^E}Confusion Resistance
+DefenseDisruption={%+.0f0}% {^E}Disruption Resistance
+
+
+SkillEnhancement=+{%d0} {^X}to all skills{^E}
+ItemAllSkillIncrement={+%d0} {^X}to all skills{^E}
+SkillCooldownReductionModifier={^E}Total Skill Recharge Modified by {^H}{%.0f0}%
+DamageLifeLeech={^H}+{%t0}% {^E}Life Steal //{%t0}% {^E}
+
+
+tagCharStatsTrapResistInfo=Resistance to trapping effects which prevent you from moving.
+DamageTrap={^E}Trap target{%t0}
+RetaliationTrap={%t0} of Trap Retaliation
+
+DefenseTrap={%.0f0}% {^E}Reduced Trap Duration
+DefenseTrapNegative={%.0f0}% {^E}Trap Resistance
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}Reduced Trap Duration
+DefenseTrapMaxResist={%+.0f0}% {^E}Maximum Reduced Trap Duration
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Trap Duration
+
+DamageManaDrain={%t0}% {^E}Energy Burn
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}of Energy Burnt dealt as damage)
+DamageModifierManaBurn={%.0f0}% {^E}of Energy Burnt causes Damage
+
+ItemMasteryIncrement={+%d0} {^X}to {%s1} skills{^E}
+ItemAllSkillIncrement={+%d0} {^X}to all skills{^E}
+
+//ItemMasteryIncrement={+%d0} {^E}to all skills in {%s1}
+//ItemAllSkillIncrement={+%d0} {^E}to all Skills
+
+tagAutoSkillCondition08= (Passively Active)
+
+tagCharAttributeDescription01=^wImproves your combat technique, which affects your effectiveness with weapons and ^ophysical^w-based attacks. Every point of Cunning increases health by 1.0, your ^ophysical^w and ^spierce^w damage by 0.41%, ^rbleed^w and ^ointernal trauma^w damage by 0.46% and Offensive Ability by 0.4, which affects your ability to hit and critically hit your enemies. 
+
+tagCharAttributeDescription02=^wImproves your physical conditioning, the ability and strength to fight in heavier gear and the agility to avoid enemy attacks. Every point of Physique increases your health by 2.5, health regeneration by 0.05 and Defensive Ability by 0.4, which affects your enemies' ability to hit and critically hit you. 
+
+tagCharAttributeDescription03=^wImproves the flow of energy into your being. Every point of Spirit increases your health by 1.0, magical damage by 0.47%, magical duration damage by 0.5%, energy by 2 and energy regeneration by 0.01 + 0.26%.^n^nThe damage types affected by Spirit are: ^yFire^w, ^yBurn^w, ^bCold^w, ^bFrostburn^w, ^cLightning^w, ^cElectrocute^w, ^lAcid^w, ^lPoison^w, ^pVitality^w, ^pVitality Decay^w, ^tAether^w and ^mChaos^w.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Map Tag Colorization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//tweaks to riftgate map to make certain areas more easily identifiable//
+
+
+tagWorldMapBurrwitchEstates=Burrwitch{^n}Estates
+tagWorldMapAbandonedWaterFront=Abandoned{^n}Waterfront
+tagWorldMapBurrwitchVillage=Burrwitch{^n}Village
+tagWorldMapHallowedHill=Hallowed{^n}Hill
+tagWorldMapEastMarsh01=East Marsh
+tagWorldMapEastMarsh02=Craig's Crags
+tagWorldMapMudRow=Mud{^n}Row
+tagWorldMapMolderingFields=Moldering{^n}Fields
+tagWorldMapBurrwitchGraveyard=Burrwitch{^n}Graveyard
+tagWorldMapBurrwitchOutskirts=Burrwitch{^n}Outskirts
+tagWorldMapTheFoggyBank=The Foggy{^n}Bank
+tagWorldMapSoddenHollow=Sodden{^n}Hollow
+tagWorldMapWightmire=Wightmire
+tagWorldMapTheOldDump=The Old{^n}Dump
+tagWorldMapBurialHill=Burial{^n}Hill
+tagWorldMapLowerCrossing=Lower{^n}Crossing
+tagWorldMapDevilsCrossing=^lDevil's{^n}^lCrossing
+tagWorldMapKymonsRetreat=Kymon's{^n}Retreat
+tagWorldMapArkovianFoothills=Arkovian{^n}Foothills
+tagWorldMapCrumblingWatch=Crumbling{^n}Watch
+tagWorldMapTheRockyCoast=The Rocky{^n}Coast
+tagWorldMapStauntonMine=Staunton{^n}Mine
+tagWorldMapNewHarbor=New{^n}Harbor
+tagWorldMapTheFourHills=The Four{^n}Hills
+tagWorldMapOldArkovia=^lOld{^n}^lArkovia
+tagWorldMapTheStepsOfTorment=^rThe Steps{^n}^rOf Torment
+tagWorldMapBrokenHills=Broken Hills
+tagWorldMapTwinFalls=Twin Falls
+tagWorldMapBarrenHighlands=Barren{^n}Highlands
+tagWorldMapSmugglersPass=Smuggler's{^n}Pass
+tagWorldMapProspectorsTrail=Prospector's{^n}Trail
+tagWorldMapDeadmansGulch=Deadman's Gulch
+tagWorldMapImmolation=Immolation
+tagWorldMapMountainDeeps=Mountain{^n}Deeps
+tagWorldMapPineBarrens=Pine{^n}Barrens
+tagWorldMapJaggedWaste=Jagged{^n}Waste
+tagWorldMapShadedBasin=Shaded Basin
+tagWorldMapTyrantsHold=Tyrant's{^n}Hold
+tagWorldMapAureateValley=Aureate{^n}Valley
+tagWorldMapWitheringFields=Withering{^n}Fields
+tagWorldMapHomestead=^lHomestead
+tagWorldMapConflagration=Conflagration
+tagWorldMapInfestedFarms=Infested Farms
+tagWorldMapRottingCroplands=Rotting{^n}Croplands
+tagWorldMapGruesomeHarvest=The Gruesome{^n}Harvest
+tagWorldMapSorrowsBastionRoad=Fallow Fields
+tagWorldMapSorrowsBastion=^lSorrow's Bastion
+tagWorldMapBloodGrove=Blood{^n}Grove
+tagWorldMapDarkvaleMill=Gryver's{^n}Mill
+tagWorldMapDarkvale=Village Of{^n}Darkvale
+tagWorldMapDarkvaleGate=Darkvale Gate
+tagWorldMapFactionFort=Fort Haron
+tagWorldMapBloodGroveMine=Morton's{^n}Claim
+tagWorldMapFortIkon=^lFort Ikon
+tagWorldMapBattlefield=Plains{^n}Of Strife
+tagWorldMapNecropolis=The Necropolis
+tagWorldMapAsterkarnRoad=Asterkarn{^n}Road
+tagWorldMapAsterkarnValley=Asterkarn{^n}Valley
+tagWorldMapBastionOfChaos=^rBastion{^n}^rOf Chaos
+tagWorldMapTombofWatchers=Tomb Of{^n}The Watchers
+tagWorldMapTombofArchon=Tomb Of{^n}The Archon
+tagWorldMapNecropolisGates=Gates{^n}Of Necropolis
+tagWorldMapHiddenPath=^rThe Hidden Path
+tagWorldMapWitchGodTemple=^rTemple of the Three
+tagWorldMapWitchGodBoss=^rSanctum of the Witch Gods
+tagWorldMapCorpseCave=^rFoundation{^n}^r of Corpses
+
+tagWorldMapPortValbury=^rPort Valbury
+
+
+tagGDX1WorldMapGloomwald=Gloomwald
+tagGDX1WorldMapUgdenbog=Ugdenbog
+tagGDX1WorldMapUgdenbogVillage=^lBarrowholm
+tagGDX1WorldMapUgdenbogCoven=^lCoven's{^n}^lRefuge
+
+tagGDX1WorldMapMalmouthOutskirts=Mourndale
+tagGDX1WorldMapMalmouthOutskirtsRuins=Malmouth{^n}Outskirts
+tagGDX1WorldMapMalmouthMine=Jerrethon{^n}Mine
+tagGDX1WorldMapMalmouthEntry=Lone Watch
+tagGDX1WorldMapMalmouth=Malmouth
+tagGDX1WorldMapMalmouthSlums=Candle{^n}District
+tagGDX1WorldMapMalmouthIndustrial=Steelcap{^n}District
+tagGDX1WorldMapMalmouthInner=Crown{^n}Hill
+tagGDX1WorldMapMalmouthDocks=Malmouth{^n}Harbor
+tagGDX1WorldMapMalmouthFactory=Fleshworks
+
+tagGDX1WorldMapBeastRoguelike=^rAncient{^n}^rGrove
+
+
+tagGDX2WorldMapWitchGodBase=^lConclave{^n}^lOf the Three
+tagGDX2WorldMapArea01=Korvan{^n}Plateau
+tagGDX2WorldMapRuinedTempleCity01=Temple City{^n}Of Osyr
+tagGDX2WorldMapRuinedTemple01=Temple{^n}Of Osyr
+tagGDX2WorldMapArea02=Korvan{^n}Sands
+tagGDX2WorldMapRuinedCity01=Cairan{^n}Docks
+tagGDX2WorldMapOasis=Sunbane{^n}Oasis
+tagGDX2WorldMapChasm=Howling{^n}Chasm
+tagGDX2WorldMapDeadLake=Bonebleach{^n}Basin
+tagGDX2WorldMapArea03=Basalt{^n}Crags
+tagGDX2WorldMapRuinedCity02=Ruins{^n}Of Abyd
+tagGDX2WorldMapArea04=Infernal{^n}Wastes
+tagGDX2WorldMapVolcano01=Eye{^n}Of Ulzuin
+tagGDX2WorldMapVolcano02=Maw{^n}Of Apesh
+tagGDX2WorldMapTombValley=Valley Of{^n}The Chosen
+tagGDX2WorldMapArea05=Remnants Of{^n}Korvan City
+tagGDX2WorldMapRaisedTemple=Sunward{^n}Spire
+tagGDX2WorldMapMessengersVolcano=Pit Of{^n}Atonement
+tagGDX2WorldMapRoadToKorvaakTemple=Path Of{^n}Ascension
+tagGDX2WorldMapKorvaakTomb=Tomb Of The{^n}Eldritch Sun
+tagGDX2WorldMapVanguard=^lVanguard{^n}^lOf the Three
+tagGDX2WorldMapRoguelike=^rTomb Of{^n}^rThe Heretic
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Other Stuff
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tagGrimar_SpawnEmissary=A stranger beckons...
+tagSwap_Complete=Item Swap Completed!
+tagTotem_Spawned=^yA nearby totem has been corrupted by a powerful evil... ^n^yMake sure you're prepared for a difficult fight.
+tagSwap_NPC=Magnusson
+tagSwap_NPC_Profession=Artificer
+tagSwap_D3Style=Hellforged
+tagSwap_PriestStyle=Reverent
+tagNotifier_Eternal=Remains of an old house, littered all over the place. I should investigate the cellar.
+tagNotifier_Hideout=A rowboat? I wonder where it goes.
+tagNotifier_Swapper=What is this device? The codex might say something in the Grimarillion section.
+tagNotifier_NewPath=Hm, what's beyond that boardwalk?
+
+tagGrimar_TutorialTip1Title=∙Grimarillion Guide 003: Corrupt Totems
+
+tagGrimar_TutorialTip1SubTitleA=^nCorrupt Totems
+tagGrimar_TutorialTip1TextA=^nIn your adventures you may come across some dangerous Monster Totems, but occasionally, these totems can be corrupted by the minions of Hell. This is totally random, and doesn't happen every time you find a totem in this location. When this happens, you will have a grueling fight ahead of you if you decide to purge the totem. These totems do not need to be cleansed, so if you're worried you're not up for the challenge - that's okay. You can always wait until you're comfortable with your power level to challenge these hellfiends. 
+
+
+
+tagGrimar_TutorialTip1SubTitleB=^nMinions of Hell
+(image of the map icons and shrine icons)
+tagGrimar_TutorialTip1TextB=^nAbove are the icons for the Corrupt Totems, with slightly different coloring depending on the boss who corrupts the totem (other than the Diablo and Malthael icons). If you activate one of these totems you will run into one of the powerful minions of Hell. ^n^nHere is a list of them:
+tagGrimar_TutorialTip1TextC=^n∙Adria : A powerful blood witch corrupted by the temptation of power. She can deal a wide variety of damage types such as physical, chaos, vitality, bleeding, and elemental.
+tagGrimar_TutorialTip1TextD=^n∙Azmodan : A lesser Evil, the Lord of Sin. He deals physical, chaos and fire damage.
+tagGrimar_TutorialTip1TextE=^n∙Belial : A lesser Evil, the Lord of Lies. He deals aether and acid damage.
+tagGrimar_TutorialTip1TextF=^n∙The Butcher : A masochistic demon who relishes in tearing the flesh from his foes and devouring their meat. He deals physical, fire, and bleeding damage.
+tagGrimar_TutorialTip1TextG=^n∙The Cow King : King of the Hell Bovine, the Cow King was given sentience by Diablo and driven mad by the heroes of Tristram. He deals physical, elemental, and bleeding damage.
+tagGrimar_TutorialTip1TextH=^n∙Diablo : One of the Prime Evils, the Lord of Terror. Diablo is capable of dealing physical, chaos, and fire damage.
+tagGrimar_TutorialTip1TextI=^n∙Leoric : A king from a lost kingdom, he was corrupted by Diablo's temptations of power. He deals physical, cold, and vitality damage.
+tagGrimar_TutorialTip1TextJ=^n∙Malthael : The Angel of Death, corrupted by a Black Soulstone. He deals a wide variety of damage types such as physical, fire, cold, chaos, vitality, and aether
+tagGrimar_TutorialTip1TextK=^n∙Tyrael : The Angel of Justice, fallen from grace. He deals physical and elemental damage.
+tagGrimar_TutorialTip1TextL=^n∙Zoltun Kulle : A powerful horadrim corrupted by the temptation of power. He can deal physical, fire, and elemental damage.
+tagGrimar_TutorialTip1TextM=^n^n
+
+tagGrimar_TutorialTip2Title=∙Grimarillion Guide 005: Eternal
+tagGrimar_TutorialTip2TextA=^nIf you head southeast from the Devil's Crossing riftgate, you will stumble across some rickety stairs. Down the stairs, past the personal hideout rowboat, you'll find a mysterious agent and a demolished shack. Enter the ruins of the shack to find yourself in-between worlds, a ruined cellar floating in the abyss. Continue through the ruins, and you'll find a portal which will take you into the Precipice of Lunacy, a lost domain. In this new area you will find many NPC's and an arena. The arena will not activate until you speak to Priestess Luna and approach the gate. 
+
+tagGrimar_TutorialTip2SubTitleB=^nThe Arena
+tagGrimar_TutorialTip2TextB=^nJust beyond the obsidian gate, you'll find a large obsidian arena, and a summoning stone. Speak with the summoning stone to begin your participation in the Eternal Arena. As you progress through this trial by combat, you'll come across nearly every enemy you can encounter in Grim Dawn, and they will drop their loot. So this means you can farm all the game's MI in one spot. In addition you'll be rewarded with iron bits, experience, and eternal shards for completing waves. You'll get more rewards the better you perform, so try your best!
+
+tagGrimar_TutorialTip2SubTitleC=^nServices
+tagGrimar_TutorialTip2TextC=^nWithin this hellscape you can find several helpful people in the safe area to aid you in your attempt to clear the Eternal waves. You have Narisk the Alchemist who can convert your eternal shards into various goodies, you have Priestess Luna who can grant faction rewards, devotion points, player levels, iron bits and other things. And beyond these two NPCs, you have a collection of other faction NPCs, crafters, caravans, and so on.
+
+tagGrimar_TutorialTip3Title=∙Grimarillion Guide 097: Events
+tagGrimar_TutorialTip3TextA=^nOccasionaly ASYLUM101 spends too much of his freetime adding fun little events and minigames into Grimarillion. At the time of writing this, there was an active Winter Event, which involved chasing down loot gnomes for their gingerbread which you could use to purchase various goodies, such as items and pets! Previously we had a Halloween Event where pumpkin monsters invaded Cairn and dropped candies for you to buy pets and items.
+
+tagGrimar_TutorialTip4Title=∙Grimarillion Guide 002: Grimmest
+tagGrimar_TutorialTip4TextA=^nGrimmest is a dynamic difficulty system that can make the game harder or simply more fun. If you believe you have a build strong enough to entertain a higher challenge, visit the Personal Hideout and look for Zeke, the Heavy Metal Enthusiast, who should be very near the riftgate. He will give two options, to adjust Hero Rate or Density - Hero Rate will increase how many heroes you encounter, which could make the game very difficult, and Density will simply double the amount of monsters you find. Note: You can only double density ONCE. You can't increase the mobs past 2x.
+
+tagGrimar_TutorialTip4SubtitleB=^nHero Rate
+tagGrimar_TutorialTip4TextB=^nThere are several stages of Hero Rate that you can attempt:
+tagGrimar_TutorialTip4TextC=^n∙Ungrim : The default mode, this is the vanilla setting with no hero rate increases.
+tagGrimar_TutorialTip4TextD=^n∙Grim : Level 1, about 2% chance when a mob spawns to add a hero to it.
+tagGrimar_TutorialTip4TextE=^n∙Grimmer : Level 2, about 5% chance when a mob spawns to add a hero to it.
+tagGrimar_TutorialTip4TextF=^n∙Extra Grim : Level 3, about 10% chance when a mob spawns to add up to two heroes to it.
+tagGrimar_TutorialTip4TextG=^n∙Ultra Grim : Level 4, about 20% chance when a mob spawns to add up to three heroes to it.
+tagGrimar_TutorialTip4TextH=^n∙GRIMMEST : Max Level, about 50% chance when a mob spawns to add up to five heroes to it.
+tagGrimar_TutorialTip4TextI=^n∙LEVEL 11: Beyond Grimmest : about 50% chance when a mob spawns to add up to seven heroes to it. Maybe more. Maybe they won't stop coming.
+tagGrimar_TutorialTip4TextJ=^n^n
+
+tagGrimar_TutorialTip5Title=∙Grimarillion Guide 001: Personal Hideout
+tagGrimar_TutorialTip5TextA=^nIf you head southeast from the Devil's Crossing riftgate, you will stumble across some rickety stairs. Down the stairs, you'll see a small rowboat docked in the swamps. Take it, and you'll find yourself in the Personal Hideout. In this area you'll find an army of NPC's scattered around, eager to assist you in your Grimarillion crafting and faction needs
+
+tagGrimar_TutorialTip5SubtitleB=^n^nServices
+tagGrimar_TutorialTip5TextB=^nYou'll find specialized crafters for the modded classes, specialized crafters for converting currency, specialized NPCs for tweaking gameplay, and every faction vendor you'll ever need. Some of the NPCs you'll find include:
+tagGrimar_TutorialTip5TextC=^n∙Various faction vendors for all your faction specific purchases. (Every faction should be included here)^n
+tagGrimar_TutorialTip5TextD=^n∙Haedrig Eamon NPC, who can craft items for Diablo 3 masteries
+tagGrimar_TutorialTip5TextE=^n∙Damara NPC, who can craft runes for Diablo 3 masteries
+tagGrimar_TutorialTip5TextF=^n∙Pelanis the Satyr NPC, who can craft items for Titan Quest masteries
+tagGrimar_TutorialTip5TextG=^n∙Tendo NPC, who can craft items for Darkest Dawn masteries
+tagGrimar_TutorialTip5TextH=^n∙The Incarnate NPC, who can craft items for Zenith masteries.
+tagGrimar_TutorialTip5TextI=^n∙The Grimmest NPC, Zeke, who will allow you to adjust gameplay settings.
+tagGrimar_TutorialTip5TextJ=^n∙Inusat, the Grim Armory NPC who can trade your augury cards for items, and more!
+tagGrimar_TutorialTip5TextK=^n∙Masamune, the Shattered Affix NPC who can trade Shattered Orbs for a chance to give random affixes to legendary equipment!
+tagGrimar_TutorialTip5TextL=^n∙Infernus, the Reskill NPC who can trade legendary items for reskill gems to empower your character in new ways!
+tagGrimar_TutorialTip5TextM=^n∙Mendez, the Barber who can tidy up your hairstyle and give you a fresh look.
+tagGrimar_TutorialTip5TextN=^n∙Mercedes, the currency trader NPC who can swap currency from one mod to another
+tagGrimar_TutorialTip5TextO=^n^nAlongside these integral NPCs, you will also find all kinds of other useful NPCs in the hideout! Such as a stash, a skill reallocator, an illusionist, and a soup guy! (And occasionally, an event NPC)
+tagGrimar_TutorialTip5TextP=^n^n
+
+tagGrimar_TutorialTip6Title=∙Grimarillion Guide 004: Item Swapper
+tagGrimar_TutorialTip6TextA=^nIn the heart of the Personal Hideout, you will find a strange man and an even stranger device. Magnusson, the Artificer is able to some of the vanilla items and replace them with mod variants. There are several legendary items that are included in this, but primarily this includes Monster Infrequents. Better still - unlike Tendo, the Replica Smith, these MIs will not only be replaced with the variant, but they will retain all their affixes so you won't lose your perfectly affixed gear! When you swap a vanilla item into a D3 item, it becomes "Hellforged", a Darkest Dawn item becomes a "Replica", and a Priest item becomes "Reverent". See below for the lists of swappable items:
+
+tagGrimar_TutorialTip6SubtitleB=^n^nDarkest Dawn Swaps:
+tagGrimar_TutorialTip6TextB=^nAbaddoth's Sermons^nAlkamos' Warsword^nAscendant Authority^nAscendant Cowl^nAscendant Source^nAscended Casque^nAscended Diadem^nBalegor's Crusher^nBarthollem's Gavel^nBasilisk Crest^nBlaze Herald^nBloodfeast's Mark^nBloodlord's Blade^nBloodsworn Codex^nBloodsworn Repeater^nBloodsworn Scepter^nBloodsworn Sigil^nBolvar's Pendant^nBonespike^nBound Wraith^nChillblood's Carcass^nChosen Mask^nColossal Defender^nCompelled Wraith^nCrimson's Arcane Scepter^nDeath-Watcher Pendant^nDeath's Whisper Hood^nEllena's Necklace^nFleshwarped Codex^nGaleslice's Mark^nGargoyle Gaze^nGargoyle Visage^nGaze of Ungoliax^nGroble Sand Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nGroble Toxic Effigy^nGroble Vile Effigy^nGrundleplith's Tail^nGulgazor's Heart^nGutworm's Mark^nHalion's Crest^nIlgorr's Eternal Vigil^nIncendiary Casque^nKorvan Gaze^nKorvan Reaping Halberd^nKorvan Storm Halberd^nKymon's Badge^nKyzogg's Skull^nLagoth'Ak's Bloodbinding^nLagoth'Ak's Voidbinding^nLucius Blade-Arm^nMagi Visage^nMark of Nacrathan^nMark of Plagius^nMartin's Crest^nNamadea's Eye^nNamadea's Horns^nNight Herald^nObsidian Defender^nPackla's Skins^nPackla's Visage^nPulsing Shard^nPutrid Necklace^nRag'Nadar's Maw^nRagrathar's Horn^nRavna's Claw^nRolderathis' Tome^nRonaprax's Sting^nRutnick's Blaster^nRylok Mark^nScorpius Pummeler^nSegarius' Tainted Blade^nSlathsarr's Crest^nSpectral Arbalest^nSpectral Battle Axe^nSpectral Bludgeon^nSpectral War Shield^nSpectral Warmaul^nStorm Herald^nTerrnox's Aether Tome^nUgdenbog Bilelauncher^nUgdenbog Boltthrower^nUgdenbog Chillstrife^nUgdenbog Flamestrife^nUgdenbog Howler^nUgdenbog Sparkthrower^nUgdenbog Venom Launcher^nUlraprax's Sting^nVampiric Bonewall^nVilgazor's Heart^nViper Hemorrhager^nWarden's Judgment^nWendigo Eye^nWradlith's Bulwark^nZaria's Pendant
+
+tagGrimar_TutorialTip6SubtitleC=^n^nDiablo 3 Swaps:
+tagGrimar_TutorialTip6TextC=^nAbaddoth's Sermons^nAetherscorched Cleaver^nAlkamos' Warsword^nAscendant Authority^nAscendant Cowl^nAscendant Hood^nAscendant Source^nAscended Casque^nAscended Diadem^nAvatar of Chaos^nBalegor's Crusher^nBalthazar's Crest^nBane'Gargoth's Shard^nBargoll's Core^nBargoll's Heart^nBargoll's Root^nBarrog's Bloody Arm^nBarthollem's Gavel^nBarthollem's Warmaul^nBasilisk Crest^nBasilisk Fang^nBasilisk Mark^nBlaze Herald^nBlood Sigil of Ch'Thon^nBloodbriar's Thorn^nBloodfeast's Mark^nBloodlord's Blade^nBloodlord's Vengeance^nBloodsworn Codex^nBloodsworn Repeater^nBloodsworn Scepter^nBloodsworn Sigil^nBlugrug's Plagued Edge^nBolvar's Pendant^nBoneblade^nBonebleach Halberd^nBonescythe^nBoneslicer^nBonespike^nBound Wraith^nChillblood's Carcass^nChosen Gaze^nChosen Mask^nChosen Visage^nCodex of Violent Rifts^nCoerced Wraith^nColossal Defender^nColossal Fortress^nCompelled Wraith^nCord of Deception^nCosmic Invoker^nCrimson's Arcane Scepter^nCrimson's Vile Scepter^nDeath-Watcher Pendant^nDeath's Reach^nDeath's Whisper Hood^nDefender of the Three^nDermapteran Slicer^nEllena's Necklace^nEnslaved Wraith^nFang of Ch'thon^nFleshwarped Archive^nFleshwarped Bulwark^nFleshwarped Carbine^nFleshwarped Casque^nFleshwarped Codex^nFleshwarped Defender^nFleshwarped Incinerator^nFleshwarped Shard^nFleshwarped Tome^nGaleslice's Mark^nGannar'vakkar's Sting^nGargoyle Gaze^nGargoyle Visage^nGaze of Ungoliax^nGroble Death Effigy^nGroble Ember Effigy^nGroble Sand Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nGroble Toxic Effigy^nGroble Vile Effigy^nGrundleplith's Tail^nGutworm's Mark^nHalion's Crest^nHarbinger of Eternal Suffering^nHarbinger's Grasp^nIkrix Scale^nIlgorr's Eternal Curse^nIlgorr's Eternal Vigil^nIncendiary Casque^nKalis'Ka's Harvest^nKilrian's Skullbreaker^nKorvaak's Burning-Blade^nKorvaak's Storm-Blade^nKorvan Burning Halberd^nKorvan Casque^nKorvan Celestial Halberd^nKorvan Eldritch Halberd^nKorvan Gaze^nKorvan Helm^nKorvan Reaping Halberd^nKorvan Storm Halberd^nKymon's Badge^nKymon's Sanctified Blade^nKyzogg's Skull^nLagoth'Ak's Bloodbinding^nLagoth'Ak's Voidbinding^nLeafmane Horn^nLeafmane Trophy^nLoxmere's Frostblade^nLucius' Blade-Arm^nMagi Visage^nMalkadarr's Dreadblade^nMark of Harvoul^nMark of Nacrathan^nMark of Plagius^nMask of the Harbinger^nMessenger's Blaze Cannon^nMessenger's Repeater^nMilton's Casque^nMogara's Fangs^nMoltenclaw Slicer^nMurderer's Cowl^nMutant Bludgeon^nNamadea's Eye^nNamadea's Horns^nNaren Kur's Blade^nNight Herald^nNimble Crest^nNosferattis^nObsidian Bulwark^nObsidian Defender^nObsidian Juggernaut^nObsidian War Cleaver^nOverseer Eye^nPackla's Skins^nPackla's Visage^nPit Master's Axe^nPulsing Shard^nPusquill's Tail^nRag'Nadar's Maw^nRagrathar's Horn^nRah'Zin's Armor^nRah'Zin's Gem^nRah'Zin's Shoulderguards^nRah'Zin's Waistguard^nRavna's Claw^nRift Scourge Slicer^nRiftclaw Slicer^nRolderathis' Tome^nRonaprax's Sting^nRotgheist Emblem^nRutnick's Blaster^nRylok Crest^nRylok Mark^nSandclaw Slicer^nSash of the Bloodlord^nScarab Carapace^nScarab Shell^nScorpius Bludgeon^nScorpius Pummeler^nSegarius' Sacred Blade^nSegarius' Tainted Blade^nServitor's Cleaver^nServitor's Corruptor^nServitor's Slicer^nShambler's Heart^nSkybreaker Circlet^nSlathsarr's Crest^nSoulrend^nSpectral Arbalest^nSpectral Battle Axe^nSpectral Bludgeon^nSpectral Crown^nSpectral Longsword^nSpectral War Shield^nSpectral Warmaul^nSteward's Halberd^nStorm Herald^nSunherald's Claymore^nTerrnox's Aether Tome^nTerrnox's Arcane Tome^nTroll Bonecrusher^nUgdenbog Arcaneweaver^nUgdenbog Bilelauncher^nUgdenbog Boltthrower^nUgdenbog Chillstrife^nUgdenbog Flamestrife^nUgdenbog Flamethrower^nUgdenbog Howler^nUgdenbog Repeater^nUgdenbog Sparkthrower^nUgdenbog Stormstrife^nUlraprax's Sting^nValguur's Focus^nValguur's Gems^nValguur's Raiment^nVampiric Bonewall^nVampirris^nVilgazor's Heart^nViper Hemorrhager^nViper Sandspitter^nVoidrend Talons^nVoldrak's Crusher^nWarden's Fortress^nWarden's Judgment^nWatcher Crest^nWendigo Barb^nWendigo Claw^nWendigo Eye^nWendigo Gaze^nWendigo Glare^nWrath of Tenebris^nYeti Horn^nZaria's Pendant^nZarthuzellan's Archive^nZarthuzellan's Codex
+
+tagGrimar_TutorialTip6SubtitleD=^n^nPriest Swaps:
+tagGrimar_TutorialTip6TextD=^nAlkamos' Scythe^nAlkamos' Warsword^nAscendant Hood^nAscendant Source^nAscended Diadem^nBlaze Herald^nBloodsworn Scepter^nChosen Mask^nCoerced Wraith^nCrimson's Arcane Scepter^nDeath-Watcher Pendant^nDeath's Whisper Hood^nFleshwarped Codex^nFleshwarped Tome^nGaze of Ungoliax^nGroble Ember Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nIlgorr's Eternal Vigil^nKorvaak's Storm-Blade^nKorvan Helm^nKymon's Sanctified Blade^nMalkadarr's Dreadblade^nMartin's Crest^nNight Herald^nOverseer Eye^nPulsing Shard^nRolderathis' Tome^nSegarius' Sacred Blade^nSkybreaker Circlet^nSlathsarr's Crest^nSpectral Arbalest^nSpectral Longsword^nSpectral Warmaul^nStorm Herald^nUgdenbog Arcaneweaver^nUlraprax's Sting^nWendigo Eye^nZarthuzellan's Codex
+
+
+
+tagGrimar_TutorialTip7Title=∙Grimarillion Guide 006: SR Modifications
+tagGrimar_TutorialTip7TextA=^nGrimarillion at it's heart, is an expansion of Grim Dawn and intends to give freedom where possible. The Shattered Realm is no exception, and ASYLUM101 did what he could to open this mode up a little. When you speak to Mazaan to delve into the Shattered Realm, you have two new options if you play Grimarillion. You can use a Loot Stone, or an Arena Stone. These two stones will replace the existing Shattered Realm with a new one that is *slightly* different.
+tagGrimar_TutorialTip7SubtitleB=^nLoot Stone: 
+tagGrimar_TutorialTip7TextB=^nUsing this stone allows the player to dive into Shattered Realm and loot the enemies who spawn there, including any potential MI that they may have equipped.
+tagGrimar_TutorialTip7SubtitleC=^nArena Stone:
+tagGrimar_TutorialTip7TextC=^nUsing this stone allows the player to fight only boss chunks in the Shattered Realm, effectively turning it into a Boss Rush mode.
+
+tagGrimar_TutorialTip8Title=∙Grimarillion Guide 007: Reskill
+tagGrimar_TutorialTip8TextA=^nIn the mod crafter section of the Personal Hideout you'll discover Infernus, the Runecarver.
+
+Image (Show infernus' location)
+
+tagGrimar_TutorialTip8SubtitleB=^nInfernus, the Runecarver
+tagGrimar_TutorialTip8TextB=^nInfernus is the Reskill Gem crafter. If you provide Infernus with a weapon that has a granted skill that you want to use, but you don't want it that weapon... Infernus can create a Skill Rune from that weapon.
+
+Image (show an image of the crafting screen)
+
+tagGrimar_TutorialTip8TextC=^nSkill Runes serve as versatile components that can be very powerful, but they will require you to make a sacrifice and destroy one the item that has the granted skill you want. In addition, some of these Skill Runes are limited to which item slots they can be applied to.
+
+tagGrimar_TutorialTip9Title=∙Grimarillion Guide 008: Grim Armory
+tagGrimar_TutorialTip9Subtitle=^nMain Gameplay Features:
+tagGrimar_TutorialTip9TextA=^nGrim Armory introduces a large number of Legendary items to the game, currently in the form of item sets, but individual, standalone items are a possibility in the future. These items are designed and balanced around the vanilla Grim Dawn experience, and should land within the curve of Grim Dawn's power scaling, so as not to feel like "modded power creep".
+
+image (show crafter)
+
+tagGrimar_TutorialTip9TextB=^n^nThe Augury feature allows users to target-farm a wider array of items, including all of the new items introduced by the mod. When players reach Honored Faction rank with any of the endgame Factions (Black Legion, Malmouth Resistance, Witch Covens), they may purchase a "Mysterious Card" that allows them to summon an NPC who will convert Augury Cards into items. Augury Cards drop from specific enemies throughout the world, and behave like Partial Components, requiring players to get enough of a certain card to create a Completed Component which can be converted into a usable item at the Augury Smith NPC.
+
+image (show card)
+
+tagGrimar_TutorialTip10Title=∙Grimarillion Guide 009: Crusader Weapons
+tagGrimar_TutorialTip10TextA=^nThe Diablo 3 mod offers a unique way to equip two-handed weapons in ONE hand. Keep in mind, this isn't a global passive that works with all two handers, only special Crusader-styled weapons that you can craft from Haedrig, at the Personal Hideout. 
+
+Image (Show the crusader weapons in the blacksmith inventory, have one selected so the 10k physique requirement is visible)
+
+tagGrimar_TutorialTip10TextB=^nOnce you obtain a Crusader weapon, you'll notice the exceptionally high stat requirement. 10,000 Physique??? How can anyone possibly equip this?! Well, Haedrig tells you exactly how if you view his crafting table:
+
+Image (Show the Haedrig tooltip)
+
+tagGrimar_TutorialTip10TextC=^nTo equip a Crusader weapon, you need to have the Crusader mastery, and the Hold Your Ground skill must be maxed out (10/10). Now the final and simplest step: Equip a shield! Once you fulfill all these requirements, the Crusader weapon can be equipped!
+
+image (Show the Hold your ground skill at 10/10)
+
+
+tagGrimar_TutorialTip11Title=∙Grimarillion Guide 010: Mod Currencies
+tagGrimar_TutorialTip11TextA=^nIn Grimarillion, some of the mods have their own currency types that can drop randomly, mostly from heroes and bosses but you can rarely find them from other places as well. Whenever a constitution item drops in Grimarillion, it triggers a script and this script will basically roll a dice for you to determine A) should a currency drop and then B) which currency should be dropped. At the time of writing this guide, there are 3 currencies.
+tagGrimar_TutorialTip11SubtitleA=^nTypes of Currency:
+tagGrimar_TutorialTip11TextB=^nForgotten Souls:^n^nThis currency is used for crafting various Diablo 3 items by visiting Haedrig in the Personal Hideout. You can use these souls to convert weapons into Crusader Variants, Kanai Cubes, and even gamble them for random unique Diablo 3 equipment.
+
+Image (show icon) 
+
+tagGrimar_TutorialTip11TextC=^nElectrum Coins:^n^nThis currency is used for crafting various Titan Quest items by visiting Pelanis in the Personal Hideout. You can use these coins to craft artifacts, rare equipment for filling build holes, or even gamble them for random unique Titan Quest equipment.
+
+Image (show icon) 
+
+tagGrimar_TutorialTip11TextD=^nZenitham:^n^nThis currency is used for crafting various Zenith items by visiting The Incarnate in the Personal Hideout. You can use zenitham to craft upgradable relics and rare equipment for Zenith classes.
+
+Image (show icon)
+
+tagGrimar_TutorialTip11TextE=^nIn addition, Zenith gear also uses other materials that must be crafted from Zenitham, each one is associated with one of the 6 Zenith classes.
+
+Image (show icons)
+
+tagGrimar_TutorialTip12Title=∙Grimarillion Guide 098: FAQ
+tagGrimar_TutorialTip12SubtitleA=^nWill I ever get in trouble for using a mod?
+tagGrimar_TutorialTip12TextA=^nNo! Use as many mods as you want! Use rainbow mod, dpyes, grimarillion - knock yourself out.
+tagGrimar_TutorialTip12SubtitleB=^nI keep crashing, what can I do?
+tagGrimar_TutorialTip12TextB=^nMake sure you have AOM (Ashes of Malmouth) and FG (Forgotten Gods) installed and fully updated. Not doing so can result in crashes or weird bugs.^n^n* Make sure you have the most recent version of Grimarillion installed, FRESH. Delete the old mod folder for grimarillion and install the newest version, just to be sure nothing is wrong.^n*Make sure you try both versions of Grim Dawn if one is crashing for you; if 64bit is crashing, try 32bit.^n*If it continues to crash, try to test without playing Grimarillion, just play vanilla. If there is no crash, we know it is something from Grimarillion.^n*Try to find a way to replicate the crash 100% without fail, if we know exactly what causes the crash we can try to fix it.^n*Disable Auto-Item Tooltips, unfortunately this can cause crashes for some people, not sure why but... try it out if you're crashing.
+tagGrimar_TutorialTip12SubtitleC=^nI'm trying to craft an item, but the button doesn't seem to do anything! Now nothing else will craft!
+tagGrimar_TutorialTip12TextC=^nOn rare occasion, there are items that have a lower level limit and if you attempt to craft an item when you're below this limit, nothing will be crafted. You just need to level up more and try again. Diablo 3 items have this issue and the crafter will specifically say what level you should be.
+tagGrimar_TutorialTip12SubtitleD=^nMultiplayer doesn't seem to work right! 
+tagGrimar_TutorialTip12TextD=^nSadly this is out of our control as modders, so if you must play multiplayer, just keep that in mind. The best thing you can do is to let the host manage all quest interactions and special NPC interactions. Try swapping hosts if it doesn't work in one configuration, maybe another will be better. 
+tagGrimar_TutorialTip12SubtitleE=^nThis mod is awesome, where can I talk to other people about it? Where can I find builds?
+tagGrimar_TutorialTip12TextE=^nGrimarillion has a small community you can find on the official Grim Dawn forums: https://forums.crateentertainment.com/t/rel-grimarillion-v93/46587^nAs well as a community on Discord:https://discord.com/invite/GNqqDUz
+tagGrimar_TutorialTip12SubtitleF=^nI think I found a bug, where can I report it?
+tagGrimar_TutorialTip12TextF=^nYou can report bugs on the official Grimarillion nexus page, or the forum page mentioned above. There's also a dedicated bug-report section on the Discord. Just try to be as specific as possible.
+tagGrimar_TutorialTip12SubtitleG=^nMy UI is too big! I can'ta see! How can I make it smaller?
+tagGrimar_TutorialTip12TextG=^nSadly, the only real option you have is to lower your resolution and UI scaling. 
+tagGrimar_TutorialTip12SubtitleH=^nMy UI is too small! I have so many items!
+tagGrimar_TutorialTip12TextH=^nYou have a few options available, you can sell gear, dismantle gear (Inventor NPC), or transmute gear (Inventor NPC). If that's not what you want, and you really wanna hoard your gear, you can look into third-party options, such as GDStash or GD Item Assistant. Grimarillion is not guaranteed to work with these all the time, so you use at your own risk and consult other players or the developers of those tools for any help you may need, please do not bother ASYLUM101 with any questions you have about these tools.
+tagGrimar_TutorialTip12SubtitleI=^nIs there a way I can calculate my DPS or something? Like a DPS meter?
+tagGrimar_TutorialTip12TextI=^nAnother third-party option is DPYes, which among many many other features, has a DPS meter.
+tagGrimar_TutorialTip12SubtitleJ=^nWhat's the best build? I only play the best builds.
+tagGrimar_TutorialTip12TextJ=^nOnce you get a feel of the mechanics and gameplay, you can discover the synergies that help give your builds the tools they need to succeed at any level!
+
+tagGrimar_TutorialTip14Title=∙Grimarillion Guide 099: Credits
+tagGrimar_TutorialTip14SubtitleA=^nGrim Quest
+tagGrimar_TutorialTip14TextA=^nCreated by ASYLUM101
+tagGrimar_TutorialTip14SubtitleB=^nZenith
+tagGrimar_TutorialTip14TextB=^nCreated by Ceno
+tagGrimar_TutorialTip14SubtitleC=^nDiablo 3
+tagGrimar_TutorialTip14TextC=^nCreated by Grimer with some help by Okami
+tagGrimar_TutorialTip14SubtitleD=^nGrimmest
+tagGrimar_TutorialTip14TextD=^nCreated by jiaco, updated by mamba.
+tagGrimar_TutorialTip14SubtitleF=^nHairstylist
+tagGrimar_TutorialTip14TextF=^nCreated by Mendez42 and ASYLUM101.
+tagGrimar_TutorialTip14SubtitleG=^nShattered Affixes
+tagGrimar_TutorialTip14TextG=^nCreated by Okami, edits by ASYLUM101. 
+tagGrimar_TutorialTip14SubtitleH=^nJournal Multi-Page and Numbers
+tagGrimar_TutorialTip14TextH=^nCreated by lornlynx
+tagGrimar_TutorialTip14SubtitleI=^nFaction Goods Info
+tagGrimar_TutorialTip14TextI=^nCreated by lornlynx
+tagGrimar_TutorialTip14SubtitleJ=^nReskill
+tagGrimar_TutorialTip14TextJ=^nCreated by Ceno, edits by ASYLUM101
+tagGrimar_TutorialTip14SubtitleK=^nPersonal Hideout
+tagGrimar_TutorialTip14TextK=^nCreated by Van_Houck, edits by ASYLUM101
+tagGrimar_TutorialTip14SubtitleL=^nGrim UI
+tagGrimar_TutorialTip14TextL=^nCreated by JMD, edits by ASYLUM101
+tagGrimar_TutorialTip14SubtitleM=^nGrim Armory
+tagGrimar_TutorialTip14TextM=^nCreated by Ceno
+tagGrimar_TutorialTip14SubtitleN=^nPriest
+tagGrimar_TutorialTip14TextN=^nCreated by Grimer
+tagGrimar_TutorialTip14SubtitleO=^nDarkest Dawn Reborn
+tagGrimar_TutorialTip14TextO=^nCreated by Bane, original mod created by T3ndo
+tagGrimar_TutorialTip14SubtitleP=^nEternal
+tagGrimar_TutorialTip14TextP=^nCreated by Princess Luna, modernized and integrated by ASYLUM101
+tagGrimar_TutorialTip14SubtitleQ=^nNymph Meshes and Hairstyles
+tagGrimar_TutorialTip14TextQ=^nCreated by Nargil66
+tagGrimar_TutorialTip14SubtitleR=^nUnique Artifact Bitmaps
+tagGrimar_TutorialTip14TextR=^nCreated by Catnyss
+tagGrimar_TutorialTip14SubtitleS=^nGrimarillion
+tagGrimar_TutorialTip14TextS=^nOriginally created by jiaco, now maintained and updated by ASYLUM101
+
+tagGrimar_TutorialTip15Title=∙Grimarillion Guide 011: Faction Goods Info
+tagGrimar_TutorialTip15TextA=^nAt the bottom the info-page for each faction (when you press J), there are now detailed infos about all the available consumables and all augments! They not only include the name but also color-coded information about what they do, this means you can check on-the-fly what every faction offers you. This is useful when you are searching for new augments to enchant your stuff and when you need to refill your potions and you forgot who offers them.
+(example Image?)
+tagGrimar_TutorialTip15SubtitleB=^nLegend:
+tagGrimar_TutorialTip15TextB=^nRed:Damage^nBlue:Racial Damage and Defense^nIndigo:  Health, Energy, or Regen, also Constitution and Health/Energy Leech^nKhaki:  OA/DA, Spirit, Attributes and Armor^nGreen: Status Effects and Other Effects or Special Skills^nCyan: Resists and Reduced Effect Durations^nGrey: Pet Bonuses^nWhite: Retaliation^nBrown:  Shield
+tagGrimar_TutorialTip15TextC=^n^nThe abbreviations should be understandable I think,  otherwise here is a list of most of them: 
+tagGrimar_TutorialTip15SubtitleD=^nCharacter Stats:
+tagGrimar_TutorialTip15TextD=Hp: Health^nEn: Energy^nReg: Regeneration^nAttSp: Attack-speed^nToSp: Total-speed^nMoSp: Movement-speed^nOA: Offensive Ability^nDA: Defensive Ability^nSP: Spirit^nConst: Constitution
+tagGrimar_TutorialTip15SubtitleE=^nDefensive Stats
+tagGrimar_TutorialTip15TextE=Ar: Armor^nArAbs: Armor-Absorption^nShBlCh: Shield-Block-Chance^nShDaBl: Shield-Damage-Blocked^nR: Resistance		
+tagGrimar_TutorialTip15SubtitleF=^nDamage Type:
+tagGrimar_TutorialTip15TextF=El: Elemental^nFi: Fire^nBrn: Burn^nCo: Cold^nFrb: Frostburn^nLi: Lightning^nElc: Electrocute^nAe: Aether^nCh: Chtonic^nVi: Vitality^nViDec: Vitality-decay^nPh: Physical^nPi: Pierce^nBld: Bleeding^nInT: Internal Trauma^nPoi: Poison^nAc: Acid
+tagGrimar_TutorialTip15SubtitleG=^nOther:
+tagGrimar_TutorialTip15TextG=Dur: Duration^nSkRe: Skill-Recharge^nRad: Radius^nAd: Attack-damage^nSp: Speed^nInc: Increase^nRed: Reduction^nRet: Retaliation^nPetri: Pertify^nConfu: Confuse^nChaT: Chance to hit Target with…^nT: Target
+
+tagGrimar_TutorialTip16Title=∙Grimarillion Guide 012: Runewords
+tagGrimar_TutorialTip16TextA=^nIntroducing a new crafting system, the Runewords are a combination of two different runes, which may unlock powerful secondary effects to your skills, or even drastically modify their playstyle.
+(tooltip img1, 2, 3)
+rune icon 1 , 2 , 3
+tagGrimar_TutorialTip16TextB=^nRunewords can only be used on helms, some of them can be upgraded or have a transmutation, to support different types of damage. Only Diablo 3 masteries have Runewords.
+tagGrimar_TutorialTip16TextC=^nDamara, the Runewright, is the new NPC located in the Personal Hideout, near Haedrig, the other Diablo 3 Blacksmith. She is the responsible for crafting the Runewords.
+tagGrimar_TutorialTip16TextD=^n33 runes added to the game, in order to work with the new Runewords system.
+tagGrimar_TutorialTip16TextE=^nRunes have 20% chance to be dropped by most bosses. 
+
+Damara image
+
+tagGrimarTutorialQuickTip1=_Grimarillion: Corrupt Totems
+tagGrimarTutorialQuickTip2=_Grimarillion: Eternal
+tagGrimarTutorialQuickTip4=_Grimarillion: Grimmest
+tagGrimarTutorialQuickTip5=_Grimarillion: Personal Hideout
+tagGrimarTutorialQuickTip6=_Grimarillion: Swapper
+tagGrimarTutorialQuickTip7=_Grimarillion: Shattered Realm Modifications
+tagGrimarTutorialQuickTip8=_Grimarillion: Reskill
+tagGrimarTutorialQuickTip9=_Grimarillion: Grim Armory
+tagGrimarTutorialQuickTip10=_Grimarillion: Crusader Weapons 
+tagGrimarTutorialQuickTip11=_Grimarillion: Mod Currency
+tagGrimarTutorialQuickTip3=_Grimarillion: Events
+tagGrimarTutorialQuickTip12=_Grimarillion: FAQ
+tagGrimarTutorialQuickTip13=_Grimarillion: Third Party Stuff
+tagGrimarTutorialQuickTip14=_Grimarillion: Faction Goods Info
+tagGrimarTutorialQuickTip15=_Grimarillion: Runewords
+

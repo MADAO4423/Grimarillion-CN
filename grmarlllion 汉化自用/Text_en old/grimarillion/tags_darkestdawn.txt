@@ -1,0 +1,761 @@
+﻿################
+# Darkest Dawn #
+################
+
+#1: Soldier
+#2: Demolitionist
+#3: Occultist
+#4: Nightblade
+#5: Arcanist
+#6: Shaman
+#7: Inquisitor
+#8: Necromancer
+#9: Oathkeeper
+#10: Reanimator
+#11: Illusionist
+
+tagDDSkillClassName01=Reanimator
+tagSkillClassName34=Reanimator
+
+#tagSkillClassName0110=Executioner
+#tagSkillClassName0210=Alchemist
+#tagSkillClassName0310=Witch Doctor
+#tagSkillClassName0410=Dreadblade
+#tagSkillClassName0510=Sapper
+#tagSkillClassName0610=Fleshweaver
+#tagSkillClassName0710=Heretic
+#tagSkillClassName0810=Wraithspeaker
+#tagSkillClassName0910=Hierophant
+
+#tagSkillClassName1011=Savant
+
+tagDDSkillClassName02=Illusionist
+tagSkillClassName36=Illusionist
+
+#tagSkillClassName0111=Harbinger
+#tagSkillClassName0211=Stalker
+#tagSkillClassName0311=Voidcaller
+#tagSkillClassName0411=Mastermind
+#tagSkillClassName0511=Archmage
+#tagSkillClassName0611=Channeler
+#tagSkillClassName0711=Exorcist
+#tagSkillClassName0811=Theurgist
+#tagSkillClassName0911=Diviner
+
+
+tagDDSkillClassDescription01=Some followers of Uroboruuk study spiritual and flesh arts in different ways and often seem as "heretics" to members of Death Vigil. To the skilled Reanimator, death is but a threshold that may be crossed both ways, as they animate walking bones and spirits to fight back to back instead of hiding behind mindless abominations. Should the conjured dead not suffice, a Reanimator's affinity towards life allows them to claim it with their own hands and morbid spells.  ^n^sCreated by T3nd0 for the Darkest Dawn Mod, updated by Bane
+
+tagDDSkillClassDescription02=Rumored to be a small sect within the Emperor's Nightblades, Illusionists are semi-mythical manipulators and puppetmasters. They kill not with a whirlwind of blades, but with a drop of rage directly instilled into a target's head, with paralysis, and with confusion. The battlefield is but a play waiting to be orchestrated, and the Illusionist's willpower determines the outcome. ^n^sCreated by T3nd0 for the Darkest Dawn Mod, updated by Bane
+
+#REANIMATOR
+
+tagDDClass01SkillName00A=Reanimator
+tagDDClass01SkillDescription00A=The connection to souls long gone from this world.
+
+tagDDClass01SkillName01A=Exoskeletal Armor
+tagDDClass01SkillDescription01A=To the Reanimator, bones and flesh are loyal servants, deadly weapons, and heavy armor. This spell offers the protection one would expect from such a morbid suit, while cutting into the flesh of the ones that dare strike it.
+tagDDClass01SkillName01B=Bizzare Shell
+tagDDClass01SkillDescription01B=By selecting sharper bones for your makeshift armor, you greatly increase its harmful potential.
+
+tagDDClass01SkillName02A=Reaper's Touch
+tagDDClass01SkillDescription02A=Channeling their control over life into regular weaponry, Reanimators rip the will to live right out of their unlucky victims. ^oThis skill is not a default attack replacer and requires a melee or ranged weapon. When used with melee weapon, Reaper's Touch hits multiple targets. 
+tagDDClass01SkillName02B=Frostbite
+tagDDClass01SkillDescription02B=Adding more force to the strike, you blast the area around target with a deathly chill.
+tagDDClass01SkillName02C=Brittle
+tagDDClass01SkillDescription02C=Experienced reanimators cover their weapons with deadly cold, softening the victim's body and causing severe bleeding with every hit. ^oRanged weapons will also penetrate adjacent targets.
+
+tagDDClass01SkillName03A=Flesh Rot
+tagDDClass01SkillDescription03A=To accelerate the shift from life and death, you command a nefarious plague that cripples and damages while it eats itself from victim to victim.
+tagDDClass01SkillName03B=Chilling Death
+tagDDClass01SkillDescription03B=The plague induces the chilling feeling of upcoming death, as it ravages the immune system and sabotages any attempts to avoid the inevitable.
+tagDDClass01SkillName03C=Infestation
+tagDDClass01SkillDescription03C=In its final stage, Flesh Rot clings and infests muscle fibers, disabling the affected's ability to move and resist.
+tagDDClass01SkillName03D=Synergetic Link
+tagDDClass01SkillDescription03D=Using an eldritch incantation, the ever gestalting bacteria transfer the target's flesh to their master, restoring their physical shape.
+
+tagDDClass01SkillName04A=Rip Blood
+tagDDClass01SkillDescription04A=Fires a tendril to a single enemy, creating coagulated blood spheres around it. Spheres hover to nearby enemies and detonate after 2 seconds or upon exceeding maximum summon limit. ^oPets spawned by this skill scale with player damage bonuses.
+tagDDClass01SkillName04B=Evisceration
+tagDDClass01SkillDescription04B=The main tendril impales the target, causing intense pain and bleeding.
+tagDDClass01SkillName04C=Crimson Flood
+tagDDClass01SkillDescription04C=As the accelerated tendril is driven into the flesh, it releases additional blood spheres which hurts more targets.
+tagDDClass01SkillName04D=Marrow Drinker
+tagDDClass01SkillDescription04D=Your overwhelming magical prowess connects prey and hunter. You watch as the tendril sucks the very life out of your unlucky victim, dealing devastating damage.
+tagDDClass01SkillName04E=Malevolence
+tagDDClass01SkillDescription04E=Not content with a mere impact, you focus your mind on a single powerful cast, causing fatal consequences on enemy body.
+tagDDClass01SkillName04F=Frozen Blood
+tagDDClass01SkillDescription04F=The knowledge gained from Asterkarn tribes allows you to convert tendril into powerful cold wave, freezing targets blood.
+
+#pet name and skills
+tagDDClass01SkillName04G=Coagulated Blood
+tagDDClass01SkillDescription04G=
+tagDDClass01SkillName04H=Frozen Blood
+tagDDClass01SkillDescription04H=
+#pet name and skills
+
+tagDDClass01SkillName05A=One with Death
+tagDDClass01SkillDescription05A=Become a God that gives life and death or fall to the corruption like most of the world. Either way - your devotion has brought you closer to understanding.
+
+tagDDClass01SkillName06A=Raise Bone Colossus
+tagDDClass01SkillDescription06A=Animate a dread champion from the North to stand with you and fight back to back. ^oBone Colossus scales with player bonuses.
+tagDDClass01SkillName06B=Chilling Strikes
+tagDDClass01SkillDescription06B=The former Champion remembers yet another combat technique. He imbues his weapons with chilling cold of the north, reducing enemy ability to fight properly. ^oAffects only Ice Cleave skill from Bone Colossus.
+tagDDClass01SkillName06C=Shield Throw
+tagDDClass01SkillDescription06C=As your bond with dread champion grows, the warrior ia able to rediscover one of its old skills - a powerful shield throw which chains from enemy to enemy with a great force.
+tagDDClass01SkillName06D=Lord of Bones
+tagDDClass01SkillDescription06D=In a final step of mastery, your undead friend recall advanced defensive maneuvers, greatly increasing your and your allies survivability.
+tagDDClass01SkillTracker06A=Current Number of Bone Colossuss Conjured
+
+#pet name and skills
+tagDDClass01SkillName06E=Bone Colossus
+tagDDClass01SkillDescription06E=
+tagDDClass01SkillName06F=Ice Cleave
+tagDDClass01SkillDescription06F=
+tagDDClass01SkillName06G=Chilling Presence
+tagDDClass01SkillDescription06G=As your bond with dread champion grows, the warrior ia able to rediscover one of its old skills - a powerful chilling aura which slows and weakens enemies.
+#pet name and skills
+
+tagDDClass01SkillName07A=Corrosive Swarm
+tagDDClass01SkillDescription07A=Conjure a trio of foul ravens to orbit around you, poisoning any target they hit before dissipating.
+tagDDClass01SkillName07B=Atonement
+tagDDClass01SkillDescription07B=The ravens become empowered with vitality magic, increasing their destructive and disruptive power.
+tagDDClass01SkillName07C=Eldritch Might
+tagDDClass01SkillDescription07C=With the will of Eldritch Gods, swing the air with mighty two-hander to let the swarm consume everything on their path. ^oThis technique requires a two-handed melee weapon.
+
+tagDDClass01SkillName08A=Blood Ritual
+tagDDClass01SkillDescription08A=In an effort to overwhelm a dedicated foe or many foes, you use a heretic spell to boost combat capabilities and heal the wounds. ^oThis effect is also applied to nearby allies.
+tagDDClass01SkillName08B=Flesh to Power
+tagDDClass01SkillDescription08B=Skilled reanimators spend years to greatly enhance the rituals effect. Let nothing stand in your way.
+tagDDClass01SkillName08C=Boiling Blood
+tagDDClass01SkillDescription08C=The taint of the ritual overflows in a chasm of blood and chaotic energies, increasing the healing potential and protecting the group from leeching and hindering effects.
+tagDDClass01SkillName08D=Ritual of Flesh
+tagDDClass01SkillDescription08D=Some reanimators prefer to use special armaments and to increase their survival and prevent early exhaustion in battle they developed extra spell to enhance original ritual. ^oRequires a Shield or Caster Off-Hand.
+
+tagDDClass01SkillName09A=Conjure Rotten Mummy
+tagDDClass01SkillDescription09A=Conjure a long forgotten mummy to corrupt the ground and cause eldritch miasms upon enemies. ^oRotten Mummy scale with player bonuses.
+tagDDClass01SkillName09B=Desecrated Ground
+tagDDClass01SkillDescription09B=You command a loyal mummy to corrupt the very ground below enemies and melt them with eldritch acid.
+tagDDClass01SkillTracker09A=Current Number of Rotten Mummies Conjured
+
+#pet name and skills
+tagDDClass01SkillName09C=Rotten Mummy
+tagDDClass01SkillDescription09C=
+tagDDClass01SkillName09D=Eldritch Slam
+tagDDClass01SkillDescription09D=
+tagDDClass01SkillName09E=Poison Breath
+tagDDClass01SkillDescription09E=
+#pet name and skills
+
+tagDDClass01SkillName10A=Summon Restless Wraith
+tagDDClass01SkillDescription10A=Call a restless wendigo soul to leech the blood of foes and give it to you instead. ^oRestless Wraith scale with player bonuses. Striking a target directly with Vampiric Blast inflicts double damage.
+tagDDClass01SkillName10B=Vampiric Drain
+tagDDClass01SkillDescription10B=By focusing their ancient magic into a concentrated ray, the Wraith rips the life of affected target and transfers it to master. ^oUp to 3 enemies can remain tethered at any given time.
+tagDDClass01SkillName10C=Vampiric Feast
+tagDDClass01SkillDescription10C=Wraith reveals it's final form to feed upon poor souls, increasing damage potential against enemy masses.
+tagDDClass01SkillTracker10A=Current Number of Restless Wraiths Conjured
+
+#pet name and skills
+tagDDClass01SkillName10D=Restless Wraith
+tagDDClass01SkillDescription10D=
+tagDDClass01SkillName10E=Vampiric Blast
+tagDDClass01SkillDescription10E=
+tagDDClass01SkillName10F=Vampiric Curse
+tagDDClass01SkillDescription10F=
+#pet name and skills
+
+tagDDClass01SkillName11A=Circle of Protection
+tagDDClass01SkillDescription11A=Experience with the unliving leads to understanding of their strengths and weaknesses. You create a special sigil on the ground, which protects allies inside and deals damage to every foe which goes through it. ^oCircle of Protection scales with player bonuses.
+
+#pet name and skills
+tagDDClass01SkillName11B=Circle of Protection
+tagDDClass01SkillDescription11B=
+tagDDClass01SkillName11C=Ancient Ward
+tagDDClass01SkillDescription11C=Greatly increases health regeneration and resistance to life-diminishing effects.
+tagDDClass01SkillName11D=Repulsion
+tagDDClass01SkillDescription11D=
+#pet name and skills
+
+
+
+#ILLUSIONIST
+
+tagDDClass02SkillName00A=Illusionist
+tagDDClass02SkillDescription00A=The ability to manipulate others with sheer willpower.
+
+tagDDClass02SkillName01A=Illusion Dagger
+tagDDClass02SkillDescription01A=Throw a single illusory dagger which seeks nearby targets, catching the foes that escape your mindbending magic off-guard. 
+tagDDClass02SkillName01B=Shocking Arrival
+tagDDClass02SkillDescription01B=Increases lethality of dagger causing it to explode on contact, releasing deadly arcane clouds.
+tagDDClass02SkillName01C=Dispersion
+tagDDClass02SkillDescription01C=The knife gets charged with a volatile arcane charge, adding a considerable crit damage to the effects it carries.
+
+tagDDClass02SkillName02A=Time Stop
+tagDDClass02SkillDescription02A=Send out a powerful ripple that expands outward over time, slowing down everyone nearby, before bringing them to a complete standstill. A popular defensive tool among many Illusionists.
+tagDDClass02SkillName02B=Downfall
+tagDDClass02SkillDescription02B=Time Stop resonates with the target's inner organs, causing slow, permanent damage.
+
+tagDDClass02SkillName03A=Through the Veil
+tagDDClass02SkillDescription03A=Amygdala was known for experimenting with void energies, until they consume her fully, she developed a technique to escape the harsh situations easily.
+tagDDClass02SkillName03B=Tearing Rift
+tagDDClass02SkillDescription03B=In their desperate attempts to avoid grim fate, helpless foes neglect their defenses and remain wide open.
+
+tagDDClass02SkillName04A=Halo Effect
+tagDDClass02SkillDescription04A=You've begun to channel your skill into an impressive aura that makes you shine boldly, revitalizing body and soul. ^oActivates when taking damage.
+tagDDClass02SkillName04B=Devil Mind
+tagDDClass02SkillDescription04B=In the time of need, your mental locks start to crumble, revealing inner demon to instill fear in enemy minds.
+
+tagDDClass02SkillName05A=Enrage
+tagDDClass02SkillDescription05A=The Illusionist's touch is like a sharp needle, aimed at the very rage dwelling within every living being. It burns enemy from within and can spread to nearby targets.
+tagDDClass02SkillName05B=Hysteria
+tagDDClass02SkillDescription05B=The Illusionist deeply ingrains their fearsome magic, causing it to make the target fight with a zealot's fury, blind to any alliance it may have had once.
+
+tagDDClass02SkillName06A=Gyrus' Sphere of Repulsion
+tagDDClass02SkillDescription06A=Gyrus was a Spellbinder learning under master Maiven. Not content with mere protection, he built upon Maiven's signature spell and enhanced it with disruptive properties that would damage the attacker.
+
+tagDDClass02SkillName07A=Striat's Vortex
+tagDDClass02SkillDescription07A=A technique developed by Striat, one of the original Illusionists. After becoming a "taken", Striat lost the trust of his comrades and was forced into exile. The next generation of Illusionists tried to hunt him down with considerable manpower, but he created a swirling vortex of psychic energy to pull hunters in, so they never came back.
+tagDDClass02SkillName07B=Unbounded Storm
+tagDDClass02SkillDescription07B=Greatly increases the potency of spell at the cost of more mental energy drain from caster.
+
+tagDDClass02SkillName08A=Amygdala's Cut
+tagDDClass02SkillDescription08A=The legendary Illusionist Amygdala was famous for infusing her weaponry with magic that would build up and disable the target. ^oWhen used as your default weapon attack, Amygdala's Cut inflict additional damage.
+tagDDClass02SkillName08B=Mindfray
+tagDDClass02SkillDescription08B=A skilled user of the technique, your arcane injection breaks the target's will and bones alike.
+tagDDClass02SkillName08C=Cryptomnesia
+tagDDClass02SkillDescription08C=By spontaneously combusting the stored energy, your attacks disable the ability to go through complex motions.
+tagDDClass02SkillName08D=Edge of Sanity
+tagDDClass02SkillDescription08D=Absolute mastery over Amygdala's technique directly cuts the will to live out of the target by haunting target's mind with vile illusions, leaving it intensely vulnerable. ^oVile Illusions scale with player damage bonuses.
+tagDDClass02SkillName08E=Weight of the World
+tagDDClass02SkillDescription08E=Become a herald of nightmares, striking foes with heavy weapons as if it was from the world itself. ^oRequires a two-handed melee or ranged weapon.
+tagDDClass02SkillName08F=Retaliatory Strike
+tagDDClass02SkillDescription08F=Imbues the skill with Gyrus techniques, allowing to focus retaliation potential into powerful strikes. ^oRequires a shield.
+
+#pet name and skills
+tagDDClass02SkillName08G=Vile Illusion
+tagDDClass02SkillDescription08G=
+tagDDClass02SkillName08H=Vicious Strike
+tagDDClass02SkillDescription08H=
+#pet name and skills
+
+tagDDClass02SkillName09A=Veil of Darkness
+tagDDClass02SkillDescription09A=Create a veil of pure void energies around you which sends horrific visions to minds of those who dare to come too close.
+tagDDClass02SkillName09B=Troubled Dreams
+tagDDClass02SkillDescription09B=Visions consumes the target's body like a dark void, a nightmare made reality, reducing their resistances.
+tagDDClass02SkillName09C=Dream Eater
+tagDDClass02SkillDescription09C=And in the dark void, the masterful Illusionist lurks, sucking the lifeforce directly out of the unlucky target - so that it may never wake up again.
+tagDDClass02SkillName09D=Aether Corruption
+tagDDClass02SkillDescription09D=Corrupts the veil with aetheric energies to assault enemy with visions of outworlds, warping their mind and body further.
+
+tagDDClass02SkillName10A=Void Affinity
+tagDDClass02SkillDescription10A=In a great effort of large-scale manipulation, this spell creates a bond with void itself to enhance caster's abilities.
+tagDDClass02SkillName10B=Vanish
+tagDDClass02SkillDescription10B=Your physical form becomes unstable, increasing the chances to avoid any damage.
+tagDDClass02SkillName10C=Growing Shadows
+tagDDClass02SkillDescription10C=Further strengthens the bond with shadows, you receive additional benefits from the dying god.
+tagDDClass02SkillName10D=Touch of the Void
+tagDDClass02SkillDescription10D=The touch of the void does not pass without consequences. Accept the gift or deny - the choice is yours.
+
+tagDDClass02SkillName11A=Summon Living Horror
+tagDDClass02SkillDescription11A=A manifestation of nightmares, these living horrors do not gnaw on the flesh, but on the mind. ^oLiving Horrors scale with player damage bonuses.
+tagDDClass02SkillName11B=Burning Horrors
+tagDDClass02SkillDescription11B=The mere presence of such horror burns out the mind and flesh of enemy.
+tagDDClass02SkillName11C=Retaliating Echoes
+tagDDClass02SkillDescription11C=Wrapped in a shroud of disruptive magic, merely touching the vortex disheartens the attacker, and renders him vulnerable to follow-up attacks.
+tagDDClass02SkillName11D=Wrath of the Aether
+tagDDClass02SkillDescription11D=By turning your mind to the aetherial forces, you hear the whispers telling secret techniques for you to use. ^oConversions are only for visual purposes and do not affect the pet.
+tagDDClass02SkillName11E=Summon Mindeater
+tagDDClass02SkillDescription11E=Learning from aetherials allows you to conjure a warped mindeater, which slowly drains enemy sanity. ^oMindeaters scale with player damage bonuses.
+tagDDClass02SkillName11F=Bend the Will
+tagDDClass02SkillDescription11F=The mere presence of something unimaginable corrupts the very soul of the enemy, reducing their resistances for further damage.
+tagDDClass02SkillName11G=Shattered Mind
+tagDDClass02SkillDescription11G=Shapeless mindeater blasts the area with psychic energy, shattering minds of everyone who get caught.
+
+#pet name and skills
+tagDDClass02SkillName11H=Living Horror
+tagDDClass02SkillDescription11H=
+tagDDClass02SkillName11I=Hungering Void
+tagDDClass02SkillDescription11I=
+tagDDClass02SkillName11J=Retaliating Echo
+tagDDClass02SkillDescription10J=
+#pet name and skills
+
+#pet name and skills
+tagDDClass02SkillName11K=Mindeater
+tagDDClass02SkillDescription11K=
+tagDDClass02SkillName11L=Aether Field
+tagDDClass02SkillDescription11L=
+tagDDClass02SkillName11M=Shattered Mind
+tagDDClass02SkillDescription11M=
+#pet name and skills
+
+tagDDClass02SkillName12A=Amygdala's Sight
+tagDDClass02SkillDescription12A=At the height of her ability, combat Illusionist Amygdala was able to analyze and dig up any opponent's weaknesses within the blink of an eye. This technique may only be a shadow of what she could do, but its the most any living Illusionist can hope to achieve.
+
+tagDDClass02SkillName13A=Mind Cage
+tagDDClass02SkillDescription13A=Afraid to follow the fate of some of their most prominent members, many Illusionists strengthen their mind against Aetherial forces.
+
+#NPC Info
+tagReplicaSmithName=Tendo
+tagReplicaSmithTitle=Replica Smith
+tagReplicaSmithEnhancements01=Replica Crafting
+tagReplicaSmithEnhancements02=Tendo can skillfully dismantle and reassemble items to create a replica that serves a new function. 
+tagReplicaSmithEnhancements03=
+tagReplicaSmithEnhancements04=Tendo cannot grant equipment bonuses.
+
+#REPLICAS
+tagDDReplicaBloodswornScepter1Name={^Q}Replica {^L}Bloodsworn Scepter
+tagDDReplicaAbaddothSermons1Name={^Q}Replica {^L}Abaddoth's Sermons
+tagDDReplicaRylokMark1Name={^Q}Replica {^L}Rylok Mark
+tagDDReplicaZariaPendant1Name={^Q}Replica {^L}Zaria's Pendant
+tagDDReplicaWardenJudgment1Name={^Q}Replica {^L}Warden's Judgment
+tagDDReplicaWardenJudgment1SkillName=Warden's Judgment
+tagDDReplicaWardenJudgment1SkillDesc="They call me a monster, an abomination. But now i'm the law here, and only me decides who to live and who to die".
+tagDDReplicaTerrnoxAetherTome1Name={^Q}Replica {^L}Terrnox's Aether Tome
+tagDDReplicaAscendedCasque1Name={^Q}Replica {^L}Ascended Casque
+tagDDReplicaUlrapraxSting1Name={^Q}Replica {^L}Ulraprax's Sting
+tagDDReplicaAscendedDiadem1Name={^Q}Replica {^L}Ascended Diadem
+tagDDReplicaMarkOfNacrathan1Name={^Q}Replica {^L}Mark of Nacrathan
+tagDDReplicaStormHerald1Name={^Q}Replica {^L}Storm Herald
+tagDDReplicaGrobleStoneEffigy1Name={^Q}Replica {^L}Groble Stone Effigy
+tagDDReplicaBlazeHerald1Name={^Q}Replica {^L}Blaze Herald
+tagDDReplicaPulsingShard1Name={^Q}Replica {^L}Pulsing Shard
+tagDDReplicaAscendantCowl1Name={^Q}Replica {^L}Ascendant Cowl
+tagDDReplicaSlathsarrCrest1Name={^Q}Replica {^L}Slathsarr's Crest
+tagDDReplicaBloodswornSigil1Name={^Q}Replica {^L}Bloodsworn Sigil
+tagDDReplicaBloodswornRepeater1Name={^Q}Replica {^L}Bloodsworn Repeater
+tagDDReplicaBloodswornCodex1Name={^Q}Replica {^L}Bloodsworn Codex
+tagDDReplicaGrobleSkyEffigy1Name={^Q}Replica {^L}Groble Sky Effigy
+tagDDReplicaKyzoggSkull1Name={^Q}Replica {^L}Kyzogg's Skull
+tagDDReplicaAscendantAuthority1Name={^Q}Replica {^L}Ascendant Authority
+tagDDReplicaAscendantSource1Name={^Q}Replica {^L}Ascendant Source
+tagDDReplicaCrimsonArcaneScepter1Name={^Q}Replica {^L}Crimson's Arcane Scepter
+tagDDReplicaChosenMask1Name={^Q}Replica {^L}Chosen Mask
+tagDDReplicaUgdenbogFlamestrife1Name={^Q}Replica {^L}Ugdenbog Flamestrife
+tagDDReplicaCompelledWraith1Name={^Q}Replica {^L}Compelled Wraith
+tagDDReplicaIncendiaryCasque1Name={^Q}Replica {^L}Incendiary Casque
+tagDDReplicaVilgazorHeart1Name={^Q}Replica {^L}Vilgazor's Heart
+tagDDReplicaSegariusTaintedBlade1Name={^Q}Replica {^L}Segarius' Tainted Blade
+tagDDReplicaLagothAkVoidbinding1Name={^Q}Replica {^L}Lagoth'Ak's Voidbinding
+tagDDReplicaFleshwarpedCodex1Name={^Q}Replica {^L}Fleshwarped Codex
+tagDDReplicaKymonBadge1Name={^Q}Replica {^L}Kymon's Badge
+tagDDReplicaRagNadarMaw1Name={^Q}Replica {^L}Rag'Nadar's Maw
+tagDDReplicaBloodlordBlade1Name={^Q}Replica {^L}Bloodlord's Blade
+tagDDReplicaObsidianDefender1Name={^Q}Replica {^L}Obsidian Defender
+tagDDReplicaPacklaSkins1Name={^Q}Replica {^L}Packla's Skins
+tagDDReplicaGrundleplithTail1Name={^Q}Replica {^L}Grundleplith's Tail
+tagDDReplicaGazeOfUngoliax1Name={^Q}Replica {^L}Gaze of Ungoliax
+tagDDReplicaNamadeaEye1Name={^Q}Replica {^L}Namadea's Eye
+tagDDReplicaUgdenbogSparkthrower1Name={^Q}Replica {^L}Ugdenbog Sparkthrower
+tagDDReplicaRutnickBlaster1Name={^Q}Replica {^L}Rutnick's Blaster
+tagDDReplicaLuciusBladeArm1Name={^Q}Replica {^L}Lucius Blade-Arm
+tagDDReplicaDeathWatcherPendant1Name={^Q}Replica {^L}Death-Watcher Pendant
+tagDDReplicaSpectralArbalest1Name={^Q}Replica {^L}Spectral Arbalest
+tagDDReplicaKorvanStormHalberd1Name={^Q}Replica {^L}Korvan Storm Halberd
+tagDDReplicaMartinCrest1Name={^Q}Replica {^L}Martin's Crest
+tagDDReplicaBarthollemGavel1Name={^Q}Replica {^L}Barthollem's Gavel
+tagDDReplicaColossalDefender1Name={^Q}Replica {^L}Colossal Defender
+tagDDReplicaBalegorCrusher1Name={^Q}Replica {^L}Balegor's Crusher
+tagDDReplicaBalegorCrusher1SkillName=Swamp King's Fumes
+tagDDReplicaBalegorCrusher1SkillDesc=Attacks spontaneously release poisonous fumes and vapors that eat enemy eyes and noses. Warning, mask is not included!
+tagDDReplicaKorvanReapingHalberd1Name={^Q}Replica {^L}Korvan Reaping Halberd
+tagDDReplicaRavnaClaw1Name={^Q}Replica {^L}Ravna's Claw
+tagDDReplicaKorvanGaze1Name={^Q}Replica {^L}Korvan Gaze
+tagDDReplicaRonapraxSting1Name={^Q}Replica {^L}Ronaprax's Sting
+tagDDReplicaBasiliskCrest1Name={^Q}Replica {^L}Basilisk Crest
+tagDDReplicaUgdenbogVenomLauncher1Name={^Q}Replica {^L}Ugdenbog Venom Launcher
+tagDDReplicaGrobleToxicEffigy1Name={^Q}Replica {^L}Groble Toxic Effigy
+tagDDReplicaSpectralWarmaul1Name={^Q}Replica {^L}Spectral Warmaul
+tagDDReplicaGargoyleGaze1Name={^Q}Replica {^L}Gargoyle Gaze
+tagDDReplicaGulgazorHeart1Name={^Q}Replica {^L}Gulgazor's Heart
+tagDDReplicaMarkOfPlagius1Name={^Q}Replica {^L}Mark of Plagius
+tagDDReplicaSpectralBattleAxe1Name={^Q}Replica {^L}Spectral Battle Axe
+tagDDReplicaUgdenbogBoltthrower1Name={^Q}Replica {^L}Ugdenbog Boltthrower
+tagDDReplicaRagratharHorn1Name={^Q}Replica {^L}Ragrathar's Horn
+tagDDReplicaChillbloodCarcass1Name={^Q}Replica {^L}Chillblood's Carcass
+tagDDReplicaNamadeaHorns1Name={^Q}Replica {^L}Namadea's Horns
+tagDDReplicaEllenaNecklace1Name={^Q}Replica {^L}Ellena's Necklace
+tagDDReplicaGutwormMark1Name={^Q}Replica {^L}Gutworm's Mark
+tagDDReplicaUgdenbogChillstrife1Name={^Q}Replica {^L}Ugdenbog Chillstrife
+tagDDReplicaAlkamosWarsword1Name={^Q}Replica {^L}Alkamos' Warsword
+tagDDReplicaWradlithBulwark1Name={^Q}Replica {^L}Wradlith's Bulwark
+tagDDReplicaGalesliceMark1Name={^Q}Replica {^L}Galeslice's Mark
+tagDDReplicaScorpiusPummeler1Name={^Q}Replica {^L}Scorpius Pummeler
+tagDDReplicaGrobleVileEffigy1Name={^Q}Replica {^L}Groble Vile Effigy
+tagDDReplicaUgdenbogBilelauncher1Name={^Q}Replica {^L}Ugdenbog Bilelauncher
+tagDDReplicaMagiVisage1Name={^Q}Replica {^L}Magi Visage
+tagDDReplicaPutridNecklace1Name={^Q}Replica {^L}Putrid Necklace
+tagDDReplicaHalionCrest1Name={^Q}Replica {^L}Halion's Crest
+tagDDReplicaUgdenbogHowler1Name={^Q}Replica {^L}Ugdenbog Howler
+tagDDReplicaViperHemorrhager1Name={^Q}Replica {^L}Viper Hemorrhager
+tagDDReplicaVampiricBonewall1Name={^Q}Replica {^L}Vampiric Bonewall
+tagDDReplicaGargoyleVisage1Name={^Q}Replica {^L}Gargoyle Visage
+tagDDReplicaBolvarPendant1Name={^Q}Replica {^L}Bolvar's Pendant
+tagDDReplicaLagothAkBloodbinding1Name={^Q}Replica {^L}Lagoth'Ak's Bloodbinding
+tagDDReplicaBonespike1Name={^Q}Replica {^L}Bonespike
+tagDDReplicaGrobleSandEffigy1Name={^Q}Replica {^L}Groble Sand Effigy
+tagDDReplicaSpectralWarShield1Name={^Q}Replica {^L}Spectral War Shield
+tagDDReplicaPacklaVisage1Name={^Q}Replica {^L}Packla's Visage
+tagDDReplicaBloodfeastMark1Name={^Q}Replica {^L}Bloodfeast's Mark
+tagDDReplicaNightHerald1Name={^Q}Replica {^L}Night Herald
+tagDDReplicaRolderathisTome1Name={^Q}Replica {^L}Rolderathis' Tome
+tagDDReplicaWendigoEye1Name={^Q}Replica {^L}Wendigo Eye
+tagDDReplicaSpectralBludgeon1Name={^Q}Replica {^L}Spectral Bludgeon
+tagDDReplicaBoundWraith1Name={^Q}Replica {^L}Bound Wraith
+tagDDReplicaDeathWhisperHood1Name={^Q}Replica {^L}Death's Whisper Hood
+tagDDReplicaIlgorrEternalVigil1Name={^Q}Replica {^L}Ilgorr's Eternal Vigil
+
+tagDDReplicaAlkamosScythe1Name=
+tagDDReplicaAlkamosScytheSkill1Name=Land of the Dead
+tagDDReplicaAlkamosScytheSkill1Desc="Those who disturb the dead must be punished. Death and eternal suffering awaits..."
+tagDDClass02SkillName06B=Gyrus' Litany of Blades
+tagDDClass02SkillDescription06B=A swarm of illusory blades appear around enemy, sawing them 2 times per spells duration.
+
+
+
+
+
+
+#ITEMS
+tagDDReanimatorBelt01Name={^G}Revenant's Girdle
+tagDDIllusionistBelt01Name={^G}Amygdala's Cord
+tagDDItemD001Waist01Name={^I}Belt of the Survivor
+tagDDItemD001Waist01Desc="Years of training did not pass by, you have learned how to survive these harsh lands."
+
+tagDDD001Dagger01Name={^I}Cold Iron Point
+tagDDD001Dagger01Desc="There is nothing more brutal than a simple blade wielded with rage."
+tagDDD001Dagger01SkillName=Critical Overcharge
+tagDDD001Dagger01SkillDesc=Temporary boosts crit damage, allowing you to overcrit.
+
+tagDDD001Blunt2h01Name={^I}Prostagma
+tagDDD001Blunt2h01Desc="An ancient weapon with immeasureable power. How can anyone even able to wield it?"
+tagDDD001Blunt2hSkillName=Overburdened
+tagDDD001Blunt2hSkillDesc=This massive weapon weight makes you clumsy and slower overall. ^oThis is a passive bonus.
+
+tagDDD001Axe2h01Name={^I}Kingmaker
+tagDDD001Axe2h01Desc="A King and his people are linked together like a soul and a beating heart. Both can be severed by a same edge, then forged anew."
+tagDDD001Axe2hSkillName=King's Presence
+tagDDD001Axe2hSkillDesc="My people, the time has come, your support is making us as one."
+
+tagDDD001Ring01Name={^I}The Infinity Ring
+tagDDD001Ring01Desc="The end is written into the beginning."
+tagDDD001Ring01SkillName=Cosmic Curse
+tagDDD001Ring01SkillDesc="Unending nightmares are haunting your enemy."
+
+tagDDD001Necklace01Name={^I}Heart of Targo
+tagDDD001Necklace01Desc="Filled with stoicism and unmatched physical conditioning."
+
+tagDDD002Necklace01Name={^I}Blessing of Ishtak
+tagDDD002Necklace01Desc="The breath of life is yours to give."
+tagDDD002Necklace01SkillName=Life Recoup
+tagDDD002Necklace01SkillDesc=Soothing waves of Ishtak are mending your wounds.
+
+tagDDD002Ring01Name={^I}Shaper's Dream
+tagDDD002Ring01Desc="The first step in a dream takes you further than a thousand in this world."
+
+tagDDD001Shield01Name={^I}Font of Thunder
+tagDDD001Shield01Desc="The lightning fears not the flame."
+tagDDD001Shield01SkillName=Shock Bash
+tagDDD001Shield01SkillDesc=Smash the maggots with an ultimate storm power.
+
+tagDDD001Focus01Name={^I}Gate to Solael
+tagDDD001Focus01Desc="The legend says there's an item which takes you right into Eldritch realm, where Solael resides, among other Witch Gods."
+tagDDD001Focus01SkillName=Words of Solael
+tagDDD001Focus01SkillDesc="Some words hit harder than a sword. Let the non-believers hear them, my fellow zealots."
+
+#ITEM SETS
+tagDDSetRandomCraft01Name=Legendary DD Set Parts
+tagDDSetRandomCraft01Desc=The blacksmith combines the raw arcane power within these objects to create a 94 level Legendary item. Can only be used on 94+ level characters.
+
+tagDDSetD001Dagger01Name=(S) {^I}Amygdala's Veilslicer
+tagDDSetD001Dagger01SkillName=Timeless Void
+tagDDSetD001Dagger01SkillDesc=Pull enemies into the void itself, forever to be imprisoned.
+tagDDSetD001Shoulders01Name=(S) {^I}Amygdala's Mantle
+tagDDSetD001Torso01Name=(S) {^I}Amygdala's Robe
+tagDDSetD001Head01Name=(S) {^I}Amygdala's Visor
+tagDDSetD001Necklace01Name=(S) {^I}Amygdala's Corruption
+tagDDSetD001Full01Name=Amygdala's Legacy
+tagDDSetD001Full01Desc=Vestments of legendary illusionist Amygdala, one of the first masters who has fallen to the corruptive void energies.
+tagDDSetD001FullSkill01Name=Phantasmal Skulls
+tagDDSetD001FullSkill01Desc=Phantasmal skulls orbits around you, striking nearby foes with vile energies. ^oUp to 5 skulls may orbit around you, each one lasting for 8 seconds.
+
+tagDDSetD002Axe01Name=(S) {^I}Bonelord's Scythe
+tagDDSetD002Shoulders01Name=(S) {^I}Bonelord's Shoulderguards
+tagDDsetD002Torso01Name=(S) {^I}Bonelord's Shroud
+tagDDSetD002Head01Name=(S) {^I}Bonelord's Gaze
+tagDDSetD002Necklace01Name=(S) {^I}Bonelord's Heart
+tagDDSetD002Full01Name=Bonelord's Vestments
+tagDDSetD002Full01Desc=Vestments of the first reanimator Zandarr, who betrayed Uroboruuk and formed his own circle of loyal alchemists and bone-speakers to study healing and soulbinding techniques.
+tagDDSetD002FullSkill01Name=Summon Skeleton Archmage
+tagDDSetD002FullSkill01Desc=Summons a powerful skeletal archmage to freeze your enemies. ^oSkeleton Archmage scale with player damage bonuses.
+tagDDSetD002FullSkill01PetName=Skeleton Archmage
+tagDDSetD002FullSkill01PetSkill01Name=Ice Blast
+
+tagDDSetD003Medal01Name=(S) {^I}Hexer's Sacrifice
+tagDDSetD003Necklace01Name=(S) {^I}Hexer's Malediction
+tagDDSetD003Ring01Name=(S) {^I}Hexer's Decay
+tagDDSetD003Ring02Name=(S) {^I}Hexer's Despair
+tagDDSetD003Full01Name=Hexer's Gems
+tagDDSetD003Full01Desc=Found on a dead occultist in Loghorrean tomb, they might be useful for something, but merely touching the gems trigger unnatural whispers around you.
+tagDDSetD003FullSkill01Name=Hexblast
+tagDDSetD003FullSkill01Desc=Explode the guts of dead enemy to damage everything around it and leech some life back.
+
+tagDDSetD004Head01Name=(S) {^I}Black Knight Casque
+tagDDSetD004Shoulders01Name=(S) {^I}Black Knight Shoulders
+tagDDSetD004Torso01Name=(S) {^I}Black Knight Armor
+tagDDSetD004Hands01Name=(S) {^I}Black Knight Gloves
+tagDDSetD004Full01Name=The Black Knight
+tagDDSetD004Full01Desc=Armor of the loyal Yugol servant. The gear parts are drippling with black blood.
+tagDDSetD004FullSkill01Name=Yugol Echo
+tagDDSetD004FullSkill01Desc=The armor resonates with you, echoing the master's decree - kill and devour, the neverending circle.
+
+tagDDSetD005Head01Name=(S) {^I}Time Traveler Gaze
+tagDDSetD005Shoulders01Name=(S) {^I}Time Traveler Pauldrons
+tagDDSetD005Torso01Name=(S) {^I}Time Traveler Hauberk
+tagDDSetD005Hands01Name=(S) {^I}Time Traveler Grip
+tagDDSetD005Full01Name=The Time Traveler
+tagDDSetD005Full01Desc="I have traveled thousand of light years and many centuries to meet your world, human. My aetheric brothers wouldn't hesitate with you, but me, i'll help you to regain Cairn, with a price of you being my vessel forever. Do we have a deal, human?"
+tagDDSetD005FullSkill01Name=Spark of Time
+tagDDSetD005FullSkill01Desc=Conjure a wisp of unstable aether energy to blast your foes.
+tagDDSetD005FullSkill01PetName=Spark of Time
+tagDDSetD005FullSkill01PetSkill01Name=Cosmic Burn
+tagDDSetD005FullSkill01PetSkill02Name=Explosion
+
+tagDDSetD006Head01Name=(S) {^I}Exorcist Crown
+tagDDSetD006Torso01Name=(S) {^I}Exorcist Raiment
+tagDDSetD006Hands01Name=(S) {^I}Exorcist Grip
+tagDDSetD006Necklace01Name=(S) {^I}Exorcist Ward
+tagDDSetD006Full01Name=Exorcist Regalia
+tagDDSetD006Full01Desc=Regalia of famous exorcist Victor Alrikson, who used aether as main instrument to purge chthonic souls and torture bloodsworn heretics to death. Later his methods were banned among inquisitor members due to unnecessary cruelty.
+tagDDSetD006FullSkill01Name=Purge the Heresy
+tagDDSetD006FullSkill01Desc=Exude the banishing energies of aetheric nature to punish chthonic and undead heretics.
+
+tagDDSetD007Torso01Name=(S) {^I}Sky Seer's Robes
+tagDDSetD007Shoulders01Name=(S) {^I}Sky Seer's Mantle
+tagDDSetD007Focus01Name=(S) {^I}Sky Seer's Tome
+tagDDSetD007Necklace01Name=(S) {^I}Sky Seer's Shard
+tagDDSetD007Full01Name=Sky Seer
+tagDDSetD007Full01Desc=Regalia of legendary seer Aldara Lightspire, whose lightning spells were blessed by Ultos himself and delivered devastating results on the battlefield of Cairn.
+tagDDSetD007FullSkill01Name=Storm Cloud
+tagDDSetD007FullSkill01Desc=Conjure a living cloud to shock enemies standing below it.
+
+tagDDSetD008Torso01Name=(S) {^I}Shroud of the Grave
+tagDDSetD008Shoulders01Name=(S) {^I}Mantle of the Grave
+tagDDSetD008Head01Name=(S) {^I}Veil of the Grave
+tagDDSetD008Necklace01Name=(S) {^I}Amulet of the Grave
+tagDDSetD008Full01Name=The Cold Grave
+tagDDSetD008Full01Desc="I was lying here, deep below the surface, in the cold grave until master Uroboruuk awoken me".
+tagDDSetD008FullSkill01Name=Bone Nova
+tagDDSetD008FullSkill01Desc=Multiple bone fragments unleashes from you to pierce nearby enemies.
+
+tagDDSetD009Torso01Name=(S) {^I}Fleshweaver Raiment
+tagDDSetD009Shoulders01Name=(S) {^I}Fleshweaver Shoulderguards
+tagDDSetD009Waist01Name=(S) {^I}Fleshweaver Waistguard
+tagDDSetD009Necklace01Name=(S) {^I}Fleshweaver Gem
+tagDDSetD009Full01Name=Fleshweaver
+tagDDSetD009Full01Desc="The discomfort shown by the others is amusing, but none can deny that my work has made quite the splash".
+tagDDSetD009FullSkill01Name=Conjure Abomination
+tagDDSetD009FullSkill01Desc=Assemble a horrific creature from various flesh parts to rip your enemies. ^oAbomination scale with player damage bonuses.
+tagDDSetD009FullSkill01PetName=Abomination
+tagDDSetD009FullSkill01PetSkill01Name=Rotting Claws
+tagDDSetD009FullSkill01PetSkill02Name=Blight Presence
+
+tagDDSetD010Torso01Name=(S) {^I}Cadaver's Chestguard
+tagDDSetD010Shoulders01Name=(S) {^I}Cadaver's Shoulderguards
+tagDDSetD010Head01Name=(S) {^I}Cadaver's Mask
+tagDDSetD010Necklace01Name=(S) {^I}Cadaver's Emblem
+tagDDSetD010Full01Name=The Old One
+tagDDSetD010Full01Desc="In order to receive, one must give... without hesitation".
+tagDDSetD010FullSkill01Name=Cadaver's Rage
+tagDDSetD010FullSkill01Desc=Unleash a grim roar empowering your body with blight energies.
+
+tagDDSetD011Gun2h01Name=(S) {^I}Void Bolter
+tagDDSetD011Shoulders01Name=(S) {^I}Mantle of the Void
+tagDDSetD011Head01Name=(S) {^I}Mask of the Void
+tagDDSetD011Necklace01Name=(S) {^I}Emblem of the Void
+tagDDSetD011Full01Name=Void Echo
+tagDDSetD011Full01Desc="Strange voices are emanating from this gear, asking for help.. and offering power?".
+tagDDSetD011FullSkill01Name=Void Echo
+tagDDSetD011FullSkill01Desc=Curses target with void hex, echoing itself between other nearby enemies.
+
+tagDDSetD012Focus01Name=(S) {^I}Whispering Orb
+tagDDSetD012Shoulders01Name=(S) {^I}Whispering Epaulets
+tagDDSetD012Head01Name=(S) {^I}Whispering Visage
+tagDDSetD012Full01Name=Whispering Darkness
+tagDDSetD012Full01Desc="My brothers, dying god is speaking through me, hear his decree once and all!".
+
+tagDDSetD013Head01Name=(S) {^I}Cowl of Burned Dreams
+tagDDSetD013Shoulders01Name=(S) {^I}Shoulders of Burned Dreams
+tagDDSetD013Hands01Name=(S) {^I}Grips of Burned Dreams
+tagDDSetD013Gun1h01Name=(S) {^I}Revolver of Burned Dreams
+tagDDSetD013Full01Name=Burned Dreams
+tagDDSetD013Full01Desc=
+tagDDSetD013FullSkill01Name=Dreamscorcher
+tagDDSetD013FullSkill01Desc=Covers enemy with lingering flames, reducing fire resistance and burning their dreams.
+
+tagDDSetD014Head01Name=(S) {^I}Mask of Ghoulish Hunger
+tagDDSetD014Shoulders01Name=(S) {^I}Shoulders of Ghoulish Hunger
+tagDDSetD014Torso01Name=(S) {^I}Chest of Ghoulish Hunger
+tagDDSetD014Focus01Name=(S) {^I}Effigy of Ghoulish Hunger
+tagDDSetD014Full01Name=Insatible King
+tagDDSetD014Full01Desc=
+tagDDSetD014FullSkill01Name=Endless Feast
+tagDDSetD014FullSkill01Desc=Your very own blood erupts from body upon hit, forming a heretic glyph below enemy feet which causes them to bleed intensely.
+
+tagDDSetD015Head01Name=(S) {^I}Bloodgorger Cowl
+tagDDSetD015Shoulders01Name=(S) {^I}Bloodgorger Shoulders
+tagDDSetD015Torso01Name=(S) {^I}Bloodgorger Robes
+tagDDSetD015Focus01Name=(S) {^I}Bloodgorger Codex
+tagDDSetD015Full01Name=Bloodgorger
+tagDDSetD015Full01Desc=
+tagDDSetD015FullSkill01Name=Siphoning Totem
+tagDDSetD015FullSkill01Desc=Conjure a vicious totem which applies life draining beams to a number of nearby enemies, restoring life and energy for player. ^oSiphoning Totem scale with player damage bonuses.
+tagDDSetD015FullSkill01PetName=Siphoning Totem
+tagDDSetD015FullSkill01PetSkill01Name=Siphon Life
+tagDDSetD015FullSkill01PetSkill02Name=Life Curse
+
+tagDDSetD016Head01Name=(S) {^I}Rebel's Helm
+tagDDSetD016Shoulders01Name=(S) {^I}Rebel's Mantle
+tagDDSetD016Torso01Name=(S) {^I}Rebel's Tunic
+tagDDSetD016Medal01Name=(S) {^I}Rebel's Insignia
+tagDDSetD016Full01Name=Legend of Malmouth
+tagDDSetD016Full01Desc=Lost gear of Malmouth's avenger, a legendary rebel Joseph Silvertide, who was known for assaults on aetherial convoys, until being caught and beheaded by cosmic beings.
+tagDDSetD016FullSkill01Name=Ethereal Burst
+tagDDSetD016FullSkill01Desc=Throws multiple warped daggers in front of you. Let the aetherials taste their own medicine!
+
+tagDDSetD017Head01Name=(S) {^I}Visage of Dark Fate
+tagDDSetD017Shoulders01Name=(S) {^I}Epaulets of Dark Fate
+tagDDSetD017Torso01Name=(S) {^I}Regalia of Dark Fate
+tagDDSetD017Scepter01Name=(S) {^I}Scepter of Dark Fate
+tagDDSetD017Full01Name=Visioneer of Dark Fate
+tagDDSetD017Full01Desc=
+tagDDSetD017FullSkill01Name=Dark Fate
+tagDDSetD017FullSkill01Desc=Blasts the area with life diminishing magic, releasing haunted spirits to seek nearby targets.
+
+tagDDSetD018Head01Name=(S) {^I}Warped Visor
+tagDDSetD018Shoulders01Name=(S) {^I}Warped Pauldrons
+tagDDSetD018Torso01Name=(S) {^I}Warped Chestguard
+tagDDSetD018Blunt2h01Name=(S) {^I}Warped Crusher
+tagDDSetD018Full01Name=Warped Praetorian
+tagDDSetD018Full01Desc=
+tagDDSetD018FullSkill01Name=Summon Chthonian Vanguard
+tagDDSetD018FullSkill01Desc=Conjure the harbinger of destruction, a horrific chthonian vanguard which aid you in battle with mighty attacks. ^oVanguard scales with player damage bonuses.
+tagDDSetD018FullSkill01PetName=Chthonian Vanguard
+tagDDSetD018FullSkill01PetSkill01Name=Void Cleave
+tagDDSetD018FullSkill01PetSkill02Name=Chthonic Presence
+
+tagDDSetD019Waist01Name=Mageblood Girdle
+tagDDSetD019Ring01Name=Mageblood Seal
+tagDDSetD019Ring02Name=Mageblood Sigil
+tagDDSetD019Full01Name=The Mageblood
+tagDDSetD019Full01Desc=
+tagDDSetD019FullSkill01Name=Mageblood
+tagDDSetD019FullSkill01Desc="Rivers of power course through your veins." ^oThis is a passive bonus.
+
+tagDDSetD020Ring01Name=Rising Storm
+tagDDSetD020Ring02Name=Ending Storm
+tagDDSetD020Full01Name=Storm Secret
+tagDDSetD020Full01Desc=
+tagDDSetD020FullSkill01Name=Shocking Discovery
+tagDDSetD020FullSkill01Desc="Lightning lives in a endless circle, requiring a constant conductor to spark." ^oThis is a passive bonus.
+
+tagDDSetD021Torso01Name=Ravenswatch Armor
+tagDDSetD021Shoulders01Name=Ravenswatch Mantle
+tagDDSetD021Necklace01Name=Ravenswatch Pendant
+tagDDSetD021Medal01Name=Ravenswatch Mark
+tagDDSetD021Full01Name=Blood Raven
+tagDDSetD021Full01Desc="From the sky high they watch, they stalk, they feast. The hunt finally begins!".
+
+tagDDSetD022Blunt01Name=Meatgrinder the First
+tagDDSetD022Blunt01Desc="Let's pack a punch."
+tagDDSetD022Blunt01SkillName=Brutal Weaponry
+tagDDSetD022Blunt01SkillDesc=The Berek was well known for his cruelty, all because his victims were mutilated beyond recognition. ^oThis is a melee dual-wielding passive bonus. Also enables the ability to dual wield melee weapons.
+tagDDSetD022Blunt02Name=Meatgrinder the Second
+tagDDSetD022Blunt02Desc="Adding few spikes to a chunk of metal was quite effective."
+tagDDSetD022Blunt02SkillName=Grievous Wound
+tagDDSetD022Blunt02SkillDesc=Strike with both of your weapons, dealing a devastating blow to an enemy, overpowering and knocking it down.
+tagDDSetD022Full01Name=Instruments of Berek
+tagDDSetD022Full01Desc="Grievous instruments of Berek the Meatgrinder, who tortured hundreds of innocents in Burrwitch before the Grim Dawn happened."
+tagDDSetD022FullSkill01Name=Meatgrinder
+tagDDSetD022FullSkill01Desc=Strike three times in a quick succession, inflicting severe wounds and profuse bleeding.
+
+
+
+#COMPONENTS
+tagDDComp01Name=^kCursed Flesh
+tagDDComp01Desc="A thick flesh with a rough surface, taken from void habitants. Greatly increases your constitution, but arcane capacity is dampened."^w^n(Used in belt)
+tagDDComp02Name=^kChthonic Lens
+tagDDComp02Desc="A locus for the arcane flows of the hidden worlds. It seems to stare back at you."^w^n(Used in belt)
+tagDDComp03Name=^kVoid Spark
+tagDDComp03Desc="A spark of the most potent void energies. Somehow, this item exhaust you faster."^w^n(Used in belt)
+tagDDComp04Name=^kTainted Diamond
+tagDDComp04Desc="The core shimmers with tainted power. You feel weaker for unknown reason."^w^n(Used in belt)
+tagDDComp05Name=^kSolael Mirror
+tagDDComp05Desc="The surface of the mirror shifts with claws and hands trying to break through, peering into it induces a painful headache, as if staring into another realm of reality."^w^n(Used in belt)
+
+tagDDComp06Name=^kWarped Plating
+tagDDComp06Desc="Plating from a once a huge flesh hulk, now sundered to pieces. Adding it to armor makes your more resilient to physical harm, but even slightest arcane blast shatters the gear."^w^n(Used in belt)
+tagDDComp07Name=^kWhispering Skull
+tagDDComp07Desc="The bones of a haunted paladin slain in a battle for Malmouth. You still feel unnatural voices coming from this skull."^w^n(Used in belt)
+tagDDComp08Name=^kDreadstone
+tagDDComp08Desc="Found from the corpse of fallen Terraformer, this stone yearns to be returned to their aetheric construction."^w^n(Used in belt)
+tagDDComp09Name=^kAetheric Blood
+tagDDComp09Desc="Taken from still living Aetherial Abomination, the blood possesses extreme regeneration possibilities, but rejects any magic in a instant."^w^n(Used in belt)
+tagDDComp10Name=^kAetherwarped Ruby
+tagDDComp10Desc="A strange cyan flame dances within the facets of this gem. As you bring ears closer, a horrific screams can be heard."^w^n(Used in belt)
+
+tagDDComp11Name=^kYugol Essence
+tagDDComp11Desc="Rumored to be a droplet from hunger God, this essence makes you feeling hungry."^w^n(Used in belt)
+tagDDComp12Name=^kEldritch Remains
+tagDDComp12Desc="The remains of an eldritch being denied its rightful peace."^w^n(Used in belt)
+tagDDComp13Name=^kDesecrated Ground
+tagDDComp13Desc="Dirt from the base of the standing stones of Witch Gods."^w^n(Used in belt)
+tagDDComp14Name=^kBlight Crystal
+tagDDComp14Desc="The once pearl-white crystal was found in the fanatic's cauldron, who served Witch Gods. It is unknown in how many rituals the crystal was bathed in."^w^n(Used in belt)
+tagDDComp15Name=^kKorvaak Scale
+tagDDComp15Desc="Found in the ancient burial ground, this scale has eldritch runes, possibly drawn by Korvaak himself."^w^n(Used in belt)
+
+
+#RELICS
+tagDDIllusionistRelicc01Name=Silhouette
+tagDDIllusionistRelicc01Desc="An ancient silhouette lost in time.. Can you help them find the way out?"
+tagDDIllusionistRelicc01SkillName=Slippery Shadows
+tagDDIllusionistRelicc01SkillDesc=An otherworld mist surrounds you, making enemy attacks less accurate.
+
+tagDDIllusionistRelicd01Name=Veilbreaker
+tagDDIllusionistRelicd01Desc="I have harnessed the shadows that stride from world to world to sow death and madness."
+tagDDIllusionistRelicd01SkillName=Veilbreaker
+tagDDIllusionistRelicd01SkillDesc=The veil has finally fallen, now you see the chthonic and aetherial weaknesses like now one else. Use this knowledge to lead a counterattack against their invasion.
+
+tagDDIllusionistRelicd02Name=Phantasm
+tagDDIllusionistRelicd02Desc="The sound of a thousand spirits calls for blood echo for eternity."
+tagDDIllusionistRelicd02SkillName=Haunting Phantasm
+tagDDIllusionistRelicd02SkillDesc=Invoke a summoning of otherworldly spirits that will haunt your enemies minds and bodies.
+
+tagDDIllusionistRelicd03Name=Voidborn
+tagDDIllusionistRelicd03Desc="Failure. Ambivalence. Death. A final abyss of unending darkness."
+tagDDIllusionistRelicd03SkillName=Voidborn
+tagDDIllusionistRelicd03SkillDesc=The Dying God has blessed you with void powers. But was it worth the price?
+
+tagDDReanimatorRelicc01Name=Devour
+tagDDReanimatorRelicc01Desc="In darkness, beast and man alike clamour to survive. But we? We slowly devour them apart."
+tagDDReanimatorRelicc01SkillName=Devouring Touch
+tagDDReanimatorRelicc01SkillDesc=Slowly rips enemy body apart, feasting upon their remnants like a wendigo.
+
+tagDDReanimatorRelicd01Name=Wither
+tagDDReanimatorRelicd01Desc="Blood turns the soil to mud. The very ground seems to wither when you step on it."
+tagDDReanimatorRelicd01SkillName=Withering Nova
+tagDDReanimatorRelicd01SkillDesc=Blast the air with rotten fumes, causing unbearable stench, internal damage and blurring enemy vision.
+
+tagDDReanimatorRelicd02Name=Bonechill
+tagDDReanimatorRelicd02Desc="Beware the dark pool at the bottom of our hearts. In its icy, black depths dwell strange and twisted creatures it is best not to disturb."
+tagDDReanimatorRelicd02SkillName=Chilling Wave
+tagDDReanimatorRelicd02SkillDesc=Sends out a rigid cold wave that break your enemy bones like a soft paper.
+
+tagDDReanimatorRelicd03Name=Revenant
+tagDDReanimatorRelicd03Desc="The dead ask to be remembered, but such requests are seldom met."
+tagDDReanimatorRelicd03SkillName=Undying Spirit
+tagDDReanimatorRelicd03SkillDesc=The key to immortality is simply not dying. I learned that long ago.
+
+
+#PREFIXES
+tagDDIllusionistWeaponPrefixb01Name=Voidspeaker's

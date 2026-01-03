@@ -1,0 +1,170 @@
+
+tagSkillClassName14=Crusader
+tagSkillClassName0114=Legionnaire
+tagSkillClassName0214=Arbitrator
+tagSkillClassName0314=Oathbreaker
+tagSkillClassName0414=Holyblade
+tagSkillClassName0514=Guardian
+tagSkillClassName0614=Storm Cleric
+tagSkillClassName0714=Justiciar
+tagSkillClassName0814=Dread Knight
+tagSkillClassName0914=Centurion
+tagSkillClassName1014=Siegebreaker
+tagSkillClassName1114=Apothecary
+tagSkillClassName1214=Exemplar
+tagSkillClassName1314=Seraph
+
+
+tagSkillClassDescriptionCrusader=Crusaders are unbending champions of faith and law. These living fortresses use impenetrable plate and towering shields to wade through scores of foes, leaving demonic bodies smoldering in their wake. ^n^sAdapted by Grimer for the Diablo 3 Mod
+
+#ClassCrusader
+tagClassCrusaderSkillName00=Crusader
+tagClassCrusaderSkillDescription00="The crusade calls me...So I go."
+
+tagClassCrusaderSkillName01A=Punish
+tagClassCrusaderSkillDescription01A=Strike your enemies with empowered attacks, causing electrocute damage over 3 seconds and increasing your block chance for 5 seconds. ^oPunish can be used as a default weapon attack and requires a melee weapon. All bonuses from modifiers also last for 5 seconds.{^n}{^n}{^y}Rebirth {^o}(Unlocked at Skill Level 16){^n}^wYour health regeneration is increased by 100%.
+
+tagClassCrusaderSkillName01B=Retaliate
+tagClassCrusaderSkillDescription01B=Punish grants you physical retaliation and elemental resistance, while adding a portion of your retaliation to your attack damage. 
+
+tagClassCrusaderSkillName01C=Fury
+tagClassCrusaderSkillDescription01C=Damage is increased and your attacks cause internal trauma damage to enemies over 3 seconds.
+
+tagClassCrusaderSkillName02A=Shield Bash
+tagClassCrusaderSkillDescription02A=Charge at your enemy, bashing him and nearby foes, dealing physical and lightning damage to all of them. Enemies hit are stunned for a few seconds. ^oRequires a shield.{^n}{^n}{^y}Shattered Shield {^o}(Unlocked at Skill Level 16){^n}^w20% of your retaliation damage is added to Shield Bash.
+
+tagClassCrusaderSkillName02B=Pound
+tagClassCrusaderSkillDescription02B=Damage is increased and Shield Bash causes internal trauma to enemies, reducing their defensive ability for 3 seconds.
+
+tagClassCrusaderSkillName02C=Crumble
+tagClassCrusaderSkillDescription02C=Shield Bash causes a holy impact, dealing increased damage to Chthonics and Undead creatures.
+
+tagClassCrusaderSkillName03A=Slash
+tagClassCrusaderSkillDescription03A=Ignite the air in front of you, dealing fire damage to enemies. ^oRequires a melee weapon.{^n}{^n}{^y}Crush {^o}(Unlocked at Skill Level 16){^n}^wSlash gains 35% crit damage.
+
+tagClassCrusaderSkillName03B=Carve
+tagClassCrusaderSkillDescription03B=Carve a larger area in front of you to hit multiple enemies, dealing physical damage and burning them for 3 seconds. Fire damage is increased.
+
+tagClassCrusaderSkillName04A=Shield Glare
+tagClassCrusaderSkillDescription04A=Light erupts from your shield, causing enemies to miss attacks and reducing their defensive ability for a few seconds. ^oRequires a shield.{^n}{^n}{^y}Divine Verdict {^o}(Unlocked at Skill Level 10){^n}^wShield Glare reduces all resistances of enemies by 25 for 5 seconds.
+
+tagClassCrusaderSkillName05A=Iron Skin
+tagClassCrusaderSkillDescription05A=Your skin turns to iron, absorbing 50% up to 100% of all incoming damage for 4 seconds.{^n}{^n}{^y}Reflective Skin {^o}(Unlocked at Skill Level 10){^n}^wWhile Iron Skin is active, you gain physical retaliation.
+
+tagClassCrusaderSkillName06A=Smite
+tagClassCrusaderSkillDescription06A=Smite enemies with holy chains. The chains break off and strike up to 3 additional enemies, dealing holy damage to all of them.{^n}{^n}{^y}Shackle {^o}(Unlocked at Skill Level 16){^n}^wEnemies hit by the chains have a 12% chance to be stunned for brief moment.
+
+tagClassCrusaderSkillName06B=Shatter
+tagClassCrusaderSkillDescription06B=The holy chains explode on hit, causing electrocute and burn damage to enemies over 3 seconds. Enemies caught in the explosion are also slowed for 3 seconds.
+
+tagClassCrusaderSkillName06C=Reaping
+tagClassCrusaderSkillDescription06C=Increases your holy damage and health regeneration for 4 seconds. ^oReaping affects all your skills.
+
+tagClassCrusaderSkillName06D=Holy Cause
+
+tagClassCrusaderSkillName07A=Blessed Hammer
+tagClassCrusaderSkillDescription07A=Summon 6 blessed hammers that spin around you over 8 seconds, dealing holy damage to enemies. ^oAvoid entering or leaving zones such as caves and gates while Blessed Hammer is active, otherwise you won't be able to recast it. {^n}{^n}{^y}Brute Force {^o}(Unlocked at Skill Level 16){^n}^wBlessed Hammer gains 10% chance to stun enemies.
+
+tagClassCrusaderSkillName07B=Burning Wrath
+tagClassCrusaderSkillDescription07B=Blessed Hammer burns enemies and reduces their attack speed for 2 seconds.
+
+tagClassCrusaderSkillName08A=Justice
+tagClassCrusaderSkillDescription08A=Hurl a hammer of justice that travels in a straight line, dealing physical and lightning damage to the target.{^n}{^n}{^y}Crack {^o}(Unlocked at Skill Level 16){^n}^wThe hammer splits into smaller hammers on impact, replicating the damage to nearby enemies.
+
+tagClassCrusaderSkillName08B=Burst
+tagClassCrusaderSkillDescription08B=The hammer strikes harder, with a chance to pierce through enemies, causing internal trauma and electrocuting enemies over 3 seconds. Enemies have chance to be stunned for a short duration.
+
+tagClassCrusaderSkillName08C=Holy Bolt
+tagClassCrusaderSkillDescription08C=The hammer turns into a bolt of holy power that converts portion of the damage dealt to your health. Holy Bolt deals additional damage to Chthonics and Undead.
+
+
+tagClassCrusaderSkillName08E=Holy Bolt's Buff
+
+tagClassCrusaderSkillName08D=Holy Healing
+
+tagClassCrusaderSkillName09A=Consecration
+tagClassCrusaderSkillDescription09A=Consecrate the ground around you for 6 seconds, dealing holy damage and reducing the damage dealt by all enemies standing on it.{^n}{^n}{^y}Bed of Nails {^o}(Unlocked at Skill Level 12){^n}^w10% of your retaliation damage is inflicted on enemies standing in the consecrated ground.
+
+
+tagClassCrusaderSkillName09B=Shattered Ground
+tagClassCrusaderSkillDescription09B=The consecrated ground burns enemies and reduces their offensive ability over 2 seconds. Consecration's damage is increased.
+
+tagClassCrusaderSkillName09C=Consecrated Ground
+
+tagClassCrusaderSkillName09D=Aegis Purgatory
+
+tagClassCrusaderSkillName09E=Bathed in Light
+
+tagClassCrusaderSkillName10A=Laws of Valor
+tagClassCrusaderSkillDescription10A=Empower the Law of Valor, granting you and your allies additional damage and offensive ability.{^n}{^n}{^y}Critical {^o}(Unlocked at Skill Level 12){^n}^wThe crit damage of you and your allies is increased by 30%.
+
+tagClassCrusaderSkillName11A=Laws of Justice
+tagClassCrusaderSkillDescription11A=Empower the Law of Justice, granting you and your allies reduction to duration of stun and freeze effects, and bonus resistance to chaos and vitality damage.
+
+tagClassCrusaderSkillName12A=Laws of Hope
+tagClassCrusaderSkillDescription12A=Empowers the Law of Hope, granting you and your allies health regenerated, defensive ability and physical resistance.
+
+tagClassCrusaderSkillName13A=Divine Fortress
+tagClassCrusaderSkillDescription13A=Grants you increased health, additional armor and defenses against Chthonics and Undead.{^n}{^n}{^y}Insurmountable {^o}(Unlocked at Skill Level 10){^n}^wYour armor absorption is increased by 25%.
+
+tagClassCrusaderSkillName14A=Blunt
+tagClassCrusaderSkillDescription14A=Increases the damage of Justice and Blessed Hammer.
+
+tagClassCrusaderSkillName15A=Indestructible
+tagClassCrusaderSkillDescription15A=When you receive fatal damage, you instead become immune to any harm, gaining increased damage and bonus health regeneration per second. While Indestructible is active, you receive massive resistance to control impairing effects.
+
+tagClassCrusaderSkillName16A=Akarat's Champion
+tagClassCrusaderSkillDescription16A=Explode with the power of the order, increasing your damage, all retaliation and defensive ability. While Akarat's Champion is active, your attacks burn enemies and you gain resistance to control impairing effects.{^n}{^n}{^y}Prophet {^o}(Unlocked at Skill Level 12){^n}^wIncreases your armor by 35%.
+
+tagClassCrusaderSkillName17A=Condemn
+tagClassCrusaderSkillDescription17A=Enter in a combat stance that deals lightning damage to enemies melee attackers and increases all your retaliation damage. Periodically, you also unleash a explosion that deals physical and lightning damage, and electrocutes all enemies around you.{^n}{^n}{^y}Shattering Explosion {^o}(Unlocked at Skill Level 16){^n}^wCrit damage is increased by 35%.
+
+tagClassCrusaderSkillName18A=Bombardment
+tagClassCrusaderSkillDescription18A=Call in an assault from afar, raining spheres of burning pitch and stone onto enemies, dealing massive physical and fire damage. Bombardment also reduces the physical resistance of enemies hit for 5 seconds.{^n}{^n}{^y}Fallen Spikes {^o}(Unlocked at Skill Level 16){^n}^w20% of your retaliation damage is added to Bombardment.
+
+tagClassCrusaderSkillName19A=Hold Your Ground
+tagClassCrusaderSkillDescription19A=Reduces your shield recovery time and increases the damage blocked by your shield, while also granting you chance to avoid projectiles. ^oRequires a shield.{^n}{^n}{^y}Heavenly Strength {^o}(Unlocked at Skill Level 10){^n}^wRemove the physique requirement to wield one-handed melee weapons. It allows you to use, in your main hand, special two-handed melee weapons crafted by Haedrig, the new blacksmith in Devil's Crossing.
+
+tagClassCrusaderSkillName20A=Fervor
+tagClassCrusaderSkillDescription20A=Your offensive speed and all damage are increased.{^n}{^n}{^y}Wrathful {^o}(Unlocked at Skill Level 10){^n}^wHealing Effects are increased by 15%.
+
+tagClassCrusaderSkillName21A=Phalanx
+tagClassCrusaderSkillDescription21A=Summon five Avatars to fight by your side for 10 seconds. ^oAvatar of the Order scales with player damage bonuses.{^n}{^n}{^y}Bodyguards {^o}(Unlocked at Skill Level 12){^n}^wAvatars increase bleeding and pierce resistance of you and your allies by 30%.
+
+tagPetAvatarOrder=Avatar of the Order
+
+tagClassCrusaderSkillName21D=Slash of Justice
+
+tagClassCrusaderSkillName21B=Crossbowmen
+tagClassCrusaderSkillDescription21B=Not available yet.
+
+tagClassCrusaderSkillName21C=Burning Ground
+
+tagClassCrusaderSkillName21E=Rise Brothers
+
+tagClassCrusaderSkillName21F=Bodyguard's Protection
+
+tagClassCrusaderSkillName22A=Heaven's Fury
+tagClassCrusaderSkillDescription22A=Call down a furious ray of heavenly power that deals holy damage in the area, reducing fire and lightning resistances of all enemies it passes through.{^n}{^n}{^y}Blessed Ground {^o}(Unlocked at Skill Level 12){^n}^wHeavens Fury deals additional damage to Undead and Chthonics.
+
+tagHeavensFury=Ray of Holy Power
+tagHeavensFury02=Beam of Light
+tagHeavensFury03=Rune Effect
+tagHeavensFury03Desc=This enemy is bounded by Heaven's Fury's holy chains granted by Heaven on Earth.
+
+tagClassCrusaderSkillName23A=Sweep Attack
+tagClassCrusaderSkillDescription23A=Perform a strike in an arc form, dealing physical damage and electrocuting multiple enemies in front of you. ^oRequires a melee weapon and activates off of default weapon attacks.{^n}{^n}{^y}Trip Attack {^o}(Unlocked at Skill Level 12){^n}^wEnemies are stunned for one second.
+
+RUNE EFFECTS
+
+tagCrusaderRune01=^cI Can Do This All Day
+tagCrusaderRune01Desc=While ^cCondemn ^wis active, taking a melee hit grants you 25% damage absorption and increases your total retaliation damage by 15% for 3 seconds. However, when your take another melee hit, the attack speed of nearby enemies is increased by 150% for 5 seconds. {^n}{^n}{^y}Runeword: {^c}XolThul
+tagCrusaderRune01b=Rune Effect
+tagCrusaderRune01bDesc=Your damage taken is reduced by 25% and your total retaliation damage is increased by 15%.
+tagCrusaderRune01cDesc=The attack speed of this enemy is increased by a rune effect.
+
+tagCrusaderRune02=^cSacred Lotus
+tagCrusaderRune02Desc=^kConsecration ^wnow releases blessed hammers that swirl around it and return towards the runic circle, dealing massive damage to enemies standing on the center of the consecrated ground. {^n}{^n}{^y}Runeword: {^c}LithEom
+
+tagCrusaderRune02b=Rune Effect
+tagCrusaderRune02bDesc=All your skills is increased by 1 due a successful block.

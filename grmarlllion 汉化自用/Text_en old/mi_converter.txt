@@ -1,0 +1,21 @@
+Magnusson
+"Ah, a curious one, I see. Allow me to introduce myself, I am Magnusson - an artificer, a craftsman of the esoteric, a weaver of the improbable. Using my Eldritch Loom, I tap into the hidden threads of reality - snagging echoes of what could have been and forging them into what now is.{^n}{^n}Your weapon, your armor, your trinkets... they exist in countless variations across the strands of fate. I can pluck these echoes from the void, shape them, and present you with a different incarnation - stronger, stranger, perhaps even more fitting for your path. But be warned... once changed, there is no turning back.{^n}{^n}So, tell me, traveler... shall we reshape destiny?"
+Eldritch Loom?
+"Ah, the Eldritch Loom? A marvel of  engineering! It doesn't just alter objects - it reshapes their very potential. Every item exists in countless variations across infinite possibilities. With the right application of ley-line harmonics and a touch of forbidden theory, I can nudge reality itself to bring forth a different form."{^n}{^n}"Does it make sense? No? Good! That means it's working. Now, shall we see what the Loom can do for you?"
+Right...
+
+Uh, okay, sounds good!
+
+Tell me which forgery you wish to perform, then drop the item you wish to swap on the ground nearby. The new version will be fabricated directly in your bags.
+Swap an MI with a Diablo 3 hellforge
+Swap an MI with a Darkest Dawn replica.
+Swap an MI with a Priest chapelforge
+Debug - Give item
+Other Info
+Not all MIs are supported, and not all mods have MI swaps. Currently you can choose Diablo 3, Darkest Dawn, or Priest swaps.{^n}{^n}Impotant Note:{^n}Diablo 3 swaps have some crossover with Priest, but will prioritize Bloodknight if there are conflicts.{^n}Priest swaps have some crossover with Diablo 3, but will prioritize Priest if there are conflicts.{^n}Once swapped, the items cannot be swapped back.{^n}{^n}After swapping, you must interact again to swap another item.{^n}
+How will I know which items are supported?
+Check your Codex for the Grimarillion Guide, it should be there.
+Oh, okay.
+
+I see.
+

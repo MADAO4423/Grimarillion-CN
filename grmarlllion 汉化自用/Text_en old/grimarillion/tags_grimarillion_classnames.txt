@@ -1,0 +1,1554 @@
+~~~~~~~~
+Soldier
+~~~~~~~~
+01 and 02
+tagSkillClassName0102=Commando
+01 and 03
+tagSkillClassName0103=Witchblade
+01 and 04
+tagSkillClassName0104=Blademaster
+01 and 05
+tagSkillClassName0105=Battlemage
+01 and 06
+tagSkillClassName0106=Warder
+01 and 07
+tagSkillClassName0107=Tactician
+01 and 08
+tagSkillClassName0108=Death Knight
+01 and 09
+tagSkillClassName0109=Warlord
+01 and 10
+tagSkillClassName0110=Exterminator
+01 and 11
+tagSkillClassName0111=Witch Warrior
+01 and 12
+tagSkillClassName0112=Warpriest
+01 and 13
+tagSkillClassName0113=Warmage
+01 and 14
+tagSkillClassName0114=Legionnaire
+01 and 15
+tagSkillClassName0115=Dark Commander
+01 and 16
+tagSkillClassName0116=Fearmonger
+01 and 17
+tagSkillClassName0117=Arcane Knight
+01 and 18
+tagSkillClassName0118=Bounty Hunter
+01 and 19
+tagSkillClassName0119=Shock Trooper
+01 and 20
+tagSkillClassName0120=Riftstriker
+01 and 21
+tagSkillClassName0121=General
+01 and 22
+tagSkillClassName0122=Imperial Guard
+01 and 23
+tagSkillClassName0123=Warwolf
+01 and 24
+tagSkillClassName0124=Licheguard
+01 and 25
+tagSkillClassName0125=Warmonger
+01 and 26
+tagSkillClassName0126=Survivalist
+01 and 27
+tagSkillClassName0127=Scoundrel
+01 and 28
+tagSkillClassName0128=Searing Guardsman
+01 and 29
+tagSkillClassName0129=Stormshield
+01 and 30
+tagSkillClassName0130=Wiccan
+01 and 31
+tagSkillClassName0131=Gladiator
+01 and 32
+tagSkillClassName0132=Rune Wielder
+01 and 33
+tagSkillClassName0133=Jiang
+01 and 34
+tagSkillClassName0134=Rot Knight
+01 and 35
+tagSkillClassName0135=Adversary
+01 and 36
+tagSkillClassName0136=Shadow Warrior
+01 and 37
+tagSkillClassName0137=Knight Commander
+01 and 38
+tagSkillClassName0138=Soldier+Berserker
+~~~~~~~~
+Demolitionist
+~~~~~~~~
+02 and 03
+tagSkillClassName0203=Pyromancer
+02 and 04
+tagSkillClassName0204=Saboteur
+02 and 05
+tagSkillClassName0205=[ms]Sorcerer[fs]Sorceress
+02 and 06
+tagSkillClassName0206=Elementalist
+02 and 07
+tagSkillClassName0207=Purifier
+02 and 08
+tagSkillClassName0208=Defiler
+02 and 09
+tagSkillClassName0209=Shieldbreaker
+02 and 10
+tagSkillClassName0210=Arsonist
+02 and 11
+tagSkillClassName0211=Pyrodoctor
+02 and 12
+tagSkillClassName0212=Lightcarrier
+02 and 13
+tagSkillClassName0213=Hexgunner
+02 and 14
+tagSkillClassName0214=Arbitrator
+02 and 15
+tagSkillClassName0215=Pyromaster
+02 and 16
+tagSkillClassName0216=Ravager
+02 and 17
+tagSkillClassName0217=Alchemancer
+02 and 18
+tagSkillClassName0218=Professional Killer
+02 and 19
+tagSkillClassName0219=Liberator
+02 and 20
+tagSkillClassName0220=Gatecrasher
+02 and 21
+tagSkillClassName0221=Goremonger
+02 and 22
+tagSkillClassName0222=Burning Watcher
+02 and 23
+tagSkillClassName0223=Ashstalker
+02 and 24
+tagSkillClassName0224=Burning Soul
+02 and 25
+tagSkillClassName0225=Mercenary
+02 and 26
+tagSkillClassName0226=Ash Sower
+02 and 27
+tagSkillClassName0227=Searing Blade
+02 and 28
+tagSkillClassName0228=Emberweaver
+02 and 29
+tagSkillClassName0229=Hellsbane
+02 and 30
+tagSkillClassName0230=Pyrokineticist
+02 and 31
+tagSkillClassName0231=Destroyer
+02 and 32
+tagSkillClassName0232=Dynamo
+02 and 33
+tagSkillClassName0233=Firelancer
+02 and 34
+tagSkillClassName0234=Alchemist
+02 and 35
+tagSkillClassName0235=Conflagrator
+02 and 36
+tagSkillClassName0236=Headhunter
+02 and 37
+tagSkillClassName0237=Worldender
+02 and 38
+tagSkillClassName0238=Demolitionist+Berserker
+~~~~~~~~
+Occultist
+~~~~~~~~
+03 and 04
+tagSkillClassName0304=Witch Hunter
+03 and 05
+tagSkillClassName0305=Warlock
+03 and 06
+tagSkillClassName0306=Conjurer
+03 and 07
+tagSkillClassName0307=Deceiver
+03 and 08
+tagSkillClassName0308=Cabalist
+03 and 09
+tagSkillClassName0309=Sentinel
+03 and 10
+tagSkillClassName0310=Harbinger
+03 and 11
+tagSkillClassName0311=Ceremonialist
+03 and 12
+tagSkillClassName0312=Corrupter
+03 and 13
+tagSkillClassName0313=Thaumaturge
+03 and 14
+tagSkillClassName0314=Oathbreaker
+03 and 15
+tagSkillClassName0315=Demonologist
+03 and 16
+tagSkillClassName0316=Eldritch Knight
+03 and 17
+tagSkillClassName0317=Hexer
+03 and 18
+tagSkillClassName0318=Malfeasant
+03 and 19
+tagSkillClassName0319=Eldritch Champion
+03 and 20
+tagSkillClassName0320=Riftcloser
+03 and 21
+tagSkillClassName0321=Chaotician
+03 and 22
+tagSkillClassName0322=Witchguard
+03 and 23
+tagSkillClassName0323=Witchstalker
+03 and 24
+tagSkillClassName0324=Soul Warden
+03 and 25
+tagSkillClassName0325=Blade of Insanity
+03 and 26
+tagSkillClassName0326=Warped Hermit
+03 and 27
+tagSkillClassName0327=Sacrificer
+03 and 28
+tagSkillClassName0328=Firelord
+03 and 29
+tagSkillClassName0329=[ms]Sky Warlock[fs]Sky Witch
+03 and 30
+tagSkillClassName0330= Entropic Adept
+03 and 31
+tagSkillClassName0331=Heathen
+03 and 32
+tagSkillClassName0332=Dark Sigilist
+03 and 33
+tagSkillClassName0333=Gongtau
+03 and 34
+tagSkillClassName0334=Harvester
+03 and 35
+tagSkillClassName0335=Schismatic
+03 and 36
+tagSkillClassName0336=Voidcaller
+03 and 37
+tagSkillClassName0337=Doom Knight
+03 and 38
+tagSkillClassName0338=Occultist+Berserker
+~~~~~~~~
+Nightblade
+~~~~~~~~
+04 and 05
+tagSkillClassName0405=Spellbreaker
+04 and 06
+tagSkillClassName0406=Trickster
+04 and 07
+tagSkillClassName0407=Infiltrator
+04 and 08
+tagSkillClassName0408=Reaper
+04 and 09
+tagSkillClassName0409=Dervish
+04 and 10
+tagSkillClassName0410=Shadow Hunter
+04 and 11
+tagSkillClassName0411=Shadow Priest
+04 and 12
+tagSkillClassName0412=Bladedancer
+04 and 13
+tagSkillClassName0413=Shadowcaster
+04 and 14
+tagSkillClassName0414=Holyblade
+04 and 15
+tagSkillClassName0415=Deathblade
+04 and 16
+tagSkillClassName0416=Enforcer
+04 and 17
+tagSkillClassName0417=Harmonist
+04 and 18
+tagSkillClassName0418=Shadestriker
+04 and 19
+tagSkillClassName0419=Dawnbreaker
+04 and 20
+tagSkillClassName0420=Horizon Walker
+04 and 21
+tagSkillClassName0421=Zealot
+04 and 22
+tagSkillClassName0422=Duelist
+04 and 23
+tagSkillClassName0423=Nightstalker
+04 and 24
+tagSkillClassName0424=Licheblade
+04 and 25
+tagSkillClassName0425=Cutthroat
+04 and 26
+tagSkillClassName0426=Sworn of Gaea
+04 and 27
+tagSkillClassName0427=Swashbuckler
+04 and 28
+tagSkillClassName0428=Doomsayer
+04 and 29
+tagSkillClassName0429=Swordstreak
+04 and 30
+tagSkillClassName0430=Shadowdancer
+04 and 31
+tagSkillClassName0431=Bladebreaker
+04 and 32
+tagSkillClassName0432=Reaver
+04 and 33
+tagSkillClassName0433=Vishkanya
+04 and 34
+tagSkillClassName0434=Dreadblade
+04 and 35
+tagSkillClassName0435=Phantomblade
+04 and 36
+tagSkillClassName0436=Mastermind
+04 and 37
+tagSkillClassName0437=Voidseeker
+04 and 38
+tagSkillClassName0438=Nightblade+Berserker
+~~~~~~~~
+Arcanist
+~~~~~~~~
+05 and 06
+tagSkillClassName0506=Druid
+05 and 07
+tagSkillClassName0507=Mage Hunter
+05 and 08
+tagSkillClassName0508=Spellbinder
+05 and 09
+tagSkillClassName0509=Templar
+05 and 10
+tagSkillClassName0510=Artificer
+05 and 11
+tagSkillClassName0511=Arcane Doctor
+05 and 12
+tagSkillClassName0512=Prophet
+05 and 13
+tagSkillClassName0513=Enchanter
+05 and 14
+tagSkillClassName0514=Guardian
+05 and 15
+tagSkillClassName0515=Aetherwalker
+05 and 16
+tagSkillClassName0516=Dreadmaster
+05 and 17
+tagSkillClassName0517=Savant
+05 and 18
+tagSkillClassName0518=Cleanser
+05 and 19
+tagSkillClassName0519=Havoc Mage
+05 and 20
+tagSkillClassName0520=Void Disciple
+05 and 21
+tagSkillClassName0521=Forsaker
+05 and 22
+tagSkillClassName0522=Grand Protector
+05 and 23
+tagSkillClassName0523=Seeker
+05 and 24
+tagSkillClassName0524=Black Magus
+05 and 25
+tagSkillClassName0525=Hierarch
+05 and 26
+tagSkillClassName0526=Visionary
+05 and 27
+tagSkillClassName0527=Eccentric
+05 and 28
+tagSkillClassName0528=[ms]Enchanter[fs]Enchantress
+05 and 29
+tagSkillClassName0529=Thaumaturgist
+05 and 30
+tagSkillClassName0530=Weaver
+05 and 31
+tagSkillClassName0531=Arcane Titan
+05 and 32
+tagSkillClassName0532=Runecaster
+05 and 33
+tagSkillClassName0533=Daoshi
+05 and 34
+tagSkillClassName0534=Sapper
+05 and 35
+tagSkillClassName0535=Aetheric Cleric
+05 and 36
+tagSkillClassName0536=Grand Magus
+05 and 37
+tagSkillClassName0537=[ms]Blood Sorcerer [fs]Blood Sorceress
+05 and 38
+tagSkillClassName0538=Arcanist+Berserker
+~~~~~~~~
+Shaman
+~~~~~~~~
+06 and 07
+tagSkillClassName0607=Vindicator
+06 and 08
+tagSkillClassName0608=Ritualist
+06 and 09
+tagSkillClassName0609=Archon
+06 and 10
+tagSkillClassName0610=Savage Hunter
+06 and 11
+tagSkillClassName0611=Subjugator
+06 and 12
+tagSkillClassName0612=Thunderlord
+06 and 13
+tagSkillClassName0613=Spiritualist
+06 and 14
+tagSkillClassName0614=Storm Cleric
+06 and 15
+tagSkillClassName0615=Beastmaster
+06 and 16
+tagSkillClassName0616=Lifedrinker
+06 and 17
+tagSkillClassName0617=Loremaster
+06 and 18
+tagSkillClassName0618=Omen Ender
+06 and 19
+tagSkillClassName0619=Chosen
+06 and 20
+tagSkillClassName0620=Bereft
+06 and 21
+tagSkillClassName0621=Effigy Master
+06 and 22
+tagSkillClassName0622=Huskarl
+06 and 23
+tagSkillClassName0623=Pack Leader
+06 and 24
+tagSkillClassName0624=Medium
+06 and 25
+tagSkillClassName0625=Stormborn
+06 and 26
+tagSkillClassName0626=Woad Warrior
+06 and 27
+tagSkillClassName0627=Blood Gypsy
+06 and 28
+tagSkillClassName0628=Eye of Gaia
+06 and 29
+tagSkillClassName0629=Stormlord
+06 and 30
+tagSkillClassName0630=Farseer
+06 and 31
+tagSkillClassName0631=Hellion
+06 and 32
+tagSkillClassName0632=Feral Mage
+06 and 33
+tagSkillClassName0633=Musogin
+06 and 34
+tagSkillClassName0634=Fleshweaver
+06 and 35
+tagSkillClassName0635=Anchorite
+06 and 36
+tagSkillClassName0636=Acolyte
+06 and 37
+tagSkillClassName0637=Bloodcaller
+06 and 38
+tagSkillClassName0638=Shaman+Berserker
+~~~~~~~~
+Inquisitor
+~~~~~~~~
+07 and 08
+tagSkillClassName0708=Apostate
+07 and 09
+tagSkillClassName0709=Paladin
+07 and 10
+tagSkillClassName0710=Interrogator
+07 and 11
+tagSkillClassName0711=Runepriest
+07 and 12
+tagSkillClassName0712=Keśin
+07 and 13
+tagSkillClassName0713=Spellslinger
+07 and 14
+tagSkillClassName0714=Justiciar
+07 and 15
+tagSkillClassName0715=Banisher
+07 and 16
+tagSkillClassName0716=Smiter
+07 and 17
+tagSkillClassName0717=Traitor
+07 and 18
+tagSkillClassName0718=Lead Dealer
+07 and 19
+tagSkillClassName0719=Marshall
+07 and 20
+tagSkillClassName0720=Witcher
+07 and 21
+tagSkillClassName0721=Rune Corrupter
+07 and 22
+tagSkillClassName0722=Captain
+07 and 23
+tagSkillClassName0723=Sharpshooter
+07 and 24
+tagSkillClassName0724=Betrayer
+07 and 25
+tagSkillClassName0725=Magebane
+07 and 26
+tagSkillClassName0726=Protector
+07 and 27
+tagSkillClassName0727=Outlaw
+07 and 28
+tagSkillClassName0728=Runeshaper
+07 and 29
+tagSkillClassName0729=Tempest
+07 and 30
+tagSkillClassName0730=Dreamslayer
+07 and 31
+tagSkillClassName0731=Tyrant
+07 and 32
+tagSkillClassName0732=Vaultkeeper
+07 and 33
+tagSkillClassName0733=Jitong
+07 and 34
+tagSkillClassName0734=Heretic
+07 and 35
+tagSkillClassName0735=Ecclesiarch
+07 and 36
+tagSkillClassName0736=Exorcist
+07 and 37
+tagSkillClassName0737=Eradicator
+07 and 38
+tagSkillClassName0738=Inquisitor(07)+Berserker
+~~~~~~~~
+Necromancer
+~~~~~~~~
+08 and 09
+tagSkillClassName0809=Oppressor
+08 and 10
+tagSkillClassName0810=Hellborn
+08 and 11
+tagSkillClassName0811=Soul Harvester
+08 and 12
+tagSkillClassName0812=Soulbinder
+08 and 13
+tagSkillClassName0813=Necromage
+08 and 14
+tagSkillClassName0814=Dread Knight
+08 and 15
+tagSkillClassName0815=Deathlord
+08 and 16
+tagSkillClassName0816=Horror
+08 and 17
+tagSkillClassName0817=Outcast
+08 and 18
+tagSkillClassName0818=Plaguespreader
+08 and 19
+tagSkillClassName0819=Violator
+08 and 20
+tagSkillClassName0820=Siphonist
+08 and 21
+tagSkillClassName0821=Dirge
+08 and 22
+tagSkillClassName0822=Wretched Sentry
+08 and 23
+tagSkillClassName0823=Spectral Hunter
+08 and 24
+tagSkillClassName0824=Grand Necromancer
+08 and 25
+tagSkillClassName0825=Death's Champion
+08 and 26
+tagSkillClassName0826=Seer
+08 and 27
+tagSkillClassName0827=Death's Blade
+08 and 28
+tagSkillClassName0828=Diabolist
+08 and 29
+tagSkillClassName0829=Storm Lich
+08 and 30
+tagSkillClassName0830=Bringer of Sleep
+08 and 31
+tagSkillClassName0831=Executioner
+08 and 32
+tagSkillClassName0832=Deadbinder
+08 and 33
+tagSkillClassName0833=Tang-ki
+08 and 34
+tagSkillClassName0834=Wraithspeaker
+08 and 35
+tagSkillClassName0835=Deathspeaker
+08 and 36
+tagSkillClassName0836=Theurgist
+08 and 37
+tagSkillClassName0837=Blood Lord
+08 and 38
+tagSkillClassName0838=Necromancer(08)+Berserker
+~~~~~~~~
+Oathkeeper
+~~~~~~~~
+09 and 10
+tagSkillClassName0910=Demonslayer
+09 and 11
+tagSkillClassName0911=Daivrat
+09 and 12
+tagSkillClassName0912=Ascetic
+09 and 13
+tagSkillClassName0913=Arcane Keeper
+09 and 14
+tagSkillClassName0914=Centurion
+09 and 15
+tagSkillClassName0915=Dreadguard
+09 and 16
+tagSkillClassName0916=Infernal Knight
+09 and 17
+tagSkillClassName0917=Elemental Keeper
+09 and 18
+tagSkillClassName0918=Pilferer
+09 and 19
+tagSkillClassName0919=Holy Guardian
+09 and 20
+tagSkillClassName0920=Riftkeeper
+09 and 21
+tagSkillClassName0921=Profane
+09 and 22
+tagSkillClassName0922=Chevalier
+09 and 23
+tagSkillClassName0923=Oath Hunter
+09 and 24
+tagSkillClassName0924=Evocator
+09 and 25
+tagSkillClassName0925=Myrmidon
+09 and 26
+tagSkillClassName0926=Preserver
+09 and 27
+tagSkillClassName0927=Errant
+09 and 28
+tagSkillClassName0928=Sun Seeker
+09 and 29
+tagSkillClassName0929=Cloud Seeker
+09 and 30
+tagSkillClassName0930=Ascendant
+09 and 31
+tagSkillClassName0931=Battle Templar
+09 and 32
+tagSkillClassName0932=Glyphkeeper
+09 and 33
+tagSkillClassName0933=Sōhei
+09 and 34
+tagSkillClassName0934=Hierophant
+09 and 35
+tagSkillClassName0935=Archbishop
+09 and 36
+tagSkillClassName0936=Diviner
+09 and 37
+tagSkillClassName0937=Oathbringer
+09 and 38
+tagSkillClassName0938=Oathkeeper (09)+Berserker
+~~~~~~~~
+DemonHunter
+~~~~~~~~
+10 and 11
+tagSkillClassName1011=Mystic Hunter
+10 and 12
+tagSkillClassName1012=Holy Hunter
+10 and 13
+tagSkillClassName1013=Magic Ranger
+10 and 14
+tagSkillClassName1014=Siegebreaker
+10 and 15
+tagSkillClassName1015=Dark Ranger
+10 and 16
+tagSkillClassName1016=Avatar of Vengance
+10 and 17
+tagSkillClassName1017=Elemental Curator
+10 and 18
+tagSkillClassName1018=Gunslinger
+10 and 19
+tagSkillClassName1019=Demonbuster
+10 and 20
+tagSkillClassName1020=Shadow Walker
+10 and 21
+tagSkillClassName1021=Ghastly Pathfinder
+10 and 22
+tagSkillClassName1022=Partisan
+10 and 23
+tagSkillClassName1023=Strategist
+10 and 24
+tagSkillClassName1024=Banshee
+10 and 25
+tagSkillClassName1025=Eviscerator
+10 and 26
+tagSkillClassName1026=Wild Reaper
+10 and 27
+tagSkillClassName1027=Shinobi
+10 and 28
+tagSkillClassName1028=Immolator
+10 and 29
+tagSkillClassName1029=Sky Stalker
+10 and 30
+tagSkillClassName1030=Phantasm
+10 and 31
+tagSkillClassName1031=Raider
+10 and 32
+tagSkillClassName1032=Demonbinder
+10 and 33
+tagSkillClassName1033=Ryōshi
+10 and 34
+tagSkillClassName1034=Puppeteer
+10 and 35
+tagSkillClassName1035=Blessed Slayer
+10 and 36
+tagSkillClassName1036=Ebonshade Stalker
+10 and 37
+tagSkillClassName1037=Blood Hunter
+10 and 38
+tagSkillClassName1038=DemonHunter (10)+Berserker
+~~~~~~~~
+WitchDoctor
+~~~~~~~~
+11 and 12
+tagSkillClassName1112=Channeler
+11 and 13
+tagSkillClassName1113=Spiritbinder
+11 and 14
+tagSkillClassName1114=Apothecary
+11 and 15
+tagSkillClassName1115=Resurrector
+11 and 16
+tagSkillClassName1116=Blight Fiend
+11 and 17
+tagSkillClassName1117=Wormtongue
+11 and 18
+tagSkillClassName1118=Gun Hexer
+11 and 19
+tagSkillClassName1119=Fallen Seraphim
+11 and 20
+tagSkillClassName1120=Planestalker
+11 and 21
+tagSkillClassName1121=Vile Devourer
+11 and 22
+tagSkillClassName1122=Spirit Guardian
+11 and 23
+tagSkillClassName1123=Swamp Stalker
+11 and 24
+tagSkillClassName1124=Essence Drinker
+11 and 25
+tagSkillClassName1125=Warchief
+11 and 26
+tagSkillClassName1126=Plague Lord
+11 and 27
+tagSkillClassName1127=Miasma Master
+11 and 28
+tagSkillClassName1128=Speaker of the Depths
+11 and 29
+tagSkillClassName1129=Stormhexer
+11 and 30
+tagSkillClassName1130=Bonespeaker
+11 and 31
+tagSkillClassName1131=Tribalist
+11 and 32
+tagSkillClassName1132=Obeah
+11 and 33
+tagSkillClassName1133=Soultwister
+11 and 34
+tagSkillClassName1134=Necrologist
+11 and 35
+tagSkillClassName1135=Hedgewitch
+11 and 36
+tagSkillClassName1136=Hexweaver
+11 and 37
+tagSkillClassName1137=Blood Witch
+11 and 38
+tagSkillClassName1138=WitchDoctor(11)+Berserker
+~~~~~~~~
+Monk
+~~~~~~~~
+12 and 13
+tagSkillClassName1213=Mageseeker
+12 and 14
+tagSkillClassName1214=Exemplar
+12 and 15
+tagSkillClassName1215=Death Priest
+12 and 16
+tagSkillClassName1216=Unholy Apostle
+12 and 17
+tagSkillClassName1217=Sentinel of the Prism
+12 and 18
+tagSkillClassName1218=Paragon
+12 and 19
+tagSkillClassName1219=Arbiter
+12 and 20
+tagSkillClassName1220=Warp Priest
+12 and 21
+tagSkillClassName1221=Tormentor
+12 and 22
+tagSkillClassName1222=Peacekeeper
+12 and 23
+tagSkillClassName1223=Valkyrie
+12 and 24
+tagSkillClassName1224=Spiritual Entity
+12 and 25
+tagSkillClassName1225=Combatant
+12 and 26
+tagSkillClassName1226=Elder
+12 and 27
+tagSkillClassName1227=Martial Artist
+12 and 28
+tagSkillClassName1228=Firebender
+12 and 29
+tagSkillClassName1229=Airbender
+12 and 30
+tagSkillClassName1230=Hypnotist
+12 and 31
+tagSkillClassName1231=Brawler
+12 and 32
+tagSkillClassName1232=Vicar of the Arcane
+12 and 33
+tagSkillClassName1233=Budoka
+12 and 34
+tagSkillClassName1234=Dismantler
+12 and 35
+tagSkillClassName1235=Temple Guardian
+12 and 36
+tagSkillClassName1236=Illusory Martialist
+12 and 37
+tagSkillClassName1237=Forbringer
+12 and 38
+tagSkillClassName1238=Monk(12)+Berserker
+~~~~~~~~
+Wizard
+~~~~~~~~
+13 and 14
+tagSkillClassName1314=Seraph
+13 and 15
+tagSkillClassName1315=Dark Mage
+13 and 16
+tagSkillClassName1316=Doomcaster
+13 and 17
+tagSkillClassName1317=Master of Magic
+13 and 18
+tagSkillClassName1318=Incanter
+13 and 19
+tagSkillClassName1319=Overlord
+13 and 20
+tagSkillClassName1320=Riftmage
+13 and 21
+tagSkillClassName1321=Void Shaper
+13 and 22
+tagSkillClassName1322=Vizier
+13 and 23
+tagSkillClassName1323=Chimera
+13 and 24
+tagSkillClassName1324=Spectral Mage
+13 and 25
+tagSkillClassName1325=Arcane Marauder
+13 and 26
+tagSkillClassName1326=White Magi
+13 and 27
+tagSkillClassName1327=Spellthief
+13 and 28
+tagSkillClassName1328=Incinerator
+13 and 29
+tagSkillClassName1329=Aeromancer
+13 and 30
+tagSkillClassName1330=Clairvoyant
+13 and 31
+tagSkillClassName1331=Wild Mage
+13 and 32
+tagSkillClassName1332=Mesmer
+13 and 33
+tagSkillClassName1333=Wu-Jen
+13 and 34
+tagSkillClassName1334=Obliterator
+13 and 35
+tagSkillClassName1335=Divine Sorcerer
+13 and 36
+tagSkillClassName1336=Sacramentor
+13 and 37
+tagSkillClassName1337=Blood Mage
+13 and 38
+tagSkillClassName1338=Wizard(13)+Berserker
+~~~~~~~~
+Crusader
+~~~~~~~~
+14 and 15
+tagSkillClassName1415=Dark Cleric
+14 and 16
+tagSkillClassName1416=Cursed Knight
+14 and 17
+tagSkillClassName1417=Guardian of the Elements
+14 and 18
+tagSkillClassName1418=Vanquisher
+14 and 19
+tagSkillClassName1419=Lawbringer
+14 and 20
+tagSkillClassName1420=Wraith
+14 and 21
+tagSkillClassName1421=Massacrist
+14 and 22
+tagSkillClassName1422=Vanguard
+14 and 23
+tagSkillClassName1423=Arrow of Justice
+14 and 24
+tagSkillClassName1424=Efreet
+14 and 25
+tagSkillClassName1425=Bruiser
+14 and 26
+tagSkillClassName1426=Primal Warden
+14 and 27
+tagSkillClassName1427=Marauder
+14 and 28
+tagSkillClassName1428=Stonemarcher
+14 and 29
+tagSkillClassName1429=Stormrider
+14 and 30
+tagSkillClassName1430=Mind Wrecker
+14 and 31
+tagSkillClassName1431=[ms]Chieftain[fs]Valkyrie
+14 and 32
+tagSkillClassName1432=Esoteric Dragoon
+14 and 33
+tagSkillClassName1433=Shugenja
+14 and 34
+tagSkillClassName1434=Fallen
+14 and 35
+tagSkillClassName1435=Sanctifier
+14 and 36
+tagSkillClassName1436=Faithweaver
+14 and 37
+tagSkillClassName1437=Profanator
+14 and 38
+tagSkillClassName1438=Crusader(14)+Berserker
+~~~~~~~~
+D3Necro
+~~~~~~~~
+15 and 16
+tagSkillClassName1516=Gorefiend
+15 and 17
+tagSkillClassName1517=Deathwind
+15 and 18
+tagSkillClassName1518=Deathdealer
+15 and 19
+tagSkillClassName1519=Hexblade
+15 and 20
+tagSkillClassName1520=Tenebrae
+15 and 21
+tagSkillClassName1521=Abomination
+15 and 22
+tagSkillClassName1522=Undying Warder
+15 and 23
+tagSkillClassName1523=Restless Ranger
+15 and 24
+tagSkillClassName1524=Soul Weaver
+15 and 25
+tagSkillClassName1525=Fallen Headsman
+15 and 26
+tagSkillClassName1526=Desecrator
+15 and 27
+tagSkillClassName1527=Dread Pirate
+15 and 28
+tagSkillClassName1528=Order of the Blackflame
+15 and 29
+tagSkillClassName1529=Dread Warlock
+15 and 30
+tagSkillClassName1530=Netherseer
+15 and 31
+tagSkillClassName1531=Revenant
+15 and 32
+tagSkillClassName1532=Bonecaster
+15 and 33
+tagSkillClassName1533=Maho-Tsukai
+15 and 34
+tagSkillClassName1534=Fleshcrafter
+15 and 35
+tagSkillClassName1535=Crypt Keeper
+15 and 36
+tagSkillClassName1536=Wraithweaver
+15 and 37
+tagSkillClassName1537=[ms]Dark Emperor [fs]Dark Empress
+15 and 38
+tagSkillClassName1538=D3Necro(15)+Berserker
+~~~~~~~~
+Terror Knight
+~~~~~~~~
+16 and 17
+tagSkillClassName1617=Terrormage
+16 and 18
+tagSkillClassName1618=[ms]Hell Hunter[fs]Hell Huntress
+16 and 19
+tagSkillClassName1619=Dreadnaught
+16 and 20
+tagSkillClassName1620=Desolator
+16 and 21
+tagSkillClassName1621=Void Knight
+16 and 22
+tagSkillClassName1622=Bloodguard
+16 and 23
+tagSkillClassName1623=Foe Hunter
+16 and 24
+tagSkillClassName1624=Ghostwalker
+16 and 25
+tagSkillClassName1625=Warmaster
+16 and 26
+tagSkillClassName1626=Ronin
+16 and 27
+tagSkillClassName1627=Malconvoker
+16 and 28
+tagSkillClassName1628=Flame Fanatic
+16 and 29
+tagSkillClassName1629=Stormforged
+16 and 30
+tagSkillClassName1630=Doomdreamer
+16 and 31
+tagSkillClassName1631=Annihilator
+16 and 32
+tagSkillClassName1632=Conquistador
+16 and 33
+tagSkillClassName1633=Oni
+16 and 34
+tagSkillClassName1634=Terrorbringer
+16 and 35
+tagSkillClassName1635=Prophet of Terror
+16 and 36
+tagSkillClassName1636=Herald of Terror
+16 and 37
+tagSkillClassName1637=Savage Knight
+16 and 38
+tagSkillClassName1638=Terror Knight+Berserker
+~~~~~~~~
+Evocatus
+~~~~~~~~
+17 and 18
+tagSkillClassName1718=Gunmage
+17 and 19
+tagSkillClassName1719=Archmage
+17 and 20
+tagSkillClassName1720=Subverter
+17 and 21
+tagSkillClassName1721=Sinner
+17 and 22
+tagSkillClassName1722=Elemental Scion
+17 and 23
+tagSkillClassName1723=Arcane Archer
+17 and 24
+tagSkillClassName1724=Theurge
+17 and 25
+tagSkillClassName1725=Spellsword
+17 and 26
+tagSkillClassName1726=Wild Magus
+17 and 27
+tagSkillClassName1727=Arcane Traitor
+17 and 28
+tagSkillClassName1728=Earthblessed
+17 and 29
+tagSkillClassName1729=Thunder Guide
+17 and 30
+tagSkillClassName1730=Metamind
+17 and 31
+tagSkillClassName1731=Mystic Fighter
+17 and 32
+tagSkillClassName1732=Primal Magus
+17 and 33
+tagSkillClassName1733=Onmyouji
+17 and 34
+tagSkillClassName1734=Soul Shrieker
+17 and 35
+tagSkillClassName1735=Sacralyte
+17 and 36
+tagSkillClassName1736=Phantasmal Mage
+17 and 37
+tagSkillClassName1737=Cursed Invoker
+17 and 38
+tagSkillClassName1738=Elementalist+Berserker
+~~~~~~~~
+Outrider
+~~~~~~~~
+18 and 19
+tagSkillClassName1819=Stalker
+18 and 20
+tagSkillClassName1820=Disruptor
+18 and 21
+tagSkillClassName1821=Vagabond
+18 and 22
+tagSkillClassName1822=Deadeye
+18 and 23
+tagSkillClassName1823=Deepwood Sniper
+18 and 24
+tagSkillClassName1824=Soul Sniper
+18 and 25
+tagSkillClassName1825=Bloodbound
+18 and 26
+tagSkillClassName1826=Houndsman
+18 and 27
+tagSkillClassName1827=Fortune's Friend
+18 and 28
+tagSkillClassName1828=Primordial Agent
+18 and 29
+tagSkillClassName1829=Windrider
+18 and 30
+tagSkillClassName1830=Fatespinner
+18 and 31
+tagSkillClassName1831=Outlander
+18 and 32
+tagSkillClassName1832=Mystic Vanguard
+18 and 33
+tagSkillClassName1833=Cike
+18 and 34
+tagSkillClassName1834=Dread Sniper
+18 and 35
+tagSkillClassName1835=Dissenter
+18 and 36
+tagSkillClassName1836=Mirage
+18 and 37
+tagSkillClassName1837=Renegade
+18 and 38
+tagSkillClassName1838=Outrider+Berserker
+~~~~~~~~
+Champion
+~~~~~~~~
+19 and 20
+tagSkillClassName1920=Skirmisher
+19 and 21
+tagSkillClassName1921=Overlord
+19 and 22
+tagSkillClassName1922=Cataphract
+19 and 23
+tagSkillClassName1923=Animal Lord
+19 and 24
+tagSkillClassName1924=Ironsoul Champion
+19 and 25
+tagSkillClassName1925=Cavalier
+19 and 26
+tagSkillClassName1926=Apostle of Peace
+19 and 27
+tagSkillClassName1927=Janissary
+19 and 28
+tagSkillClassName1928=Everburning
+19 and 29
+tagSkillClassName1929=Sturmkrieger
+19 and 30
+tagSkillClassName1930=Martyr
+19 and 31
+tagSkillClassName1931=Battle Herald
+19 and 32
+tagSkillClassName1932=Defender of the Nine
+19 and 33
+tagSkillClassName1933=Youxia
+19 and 34
+tagSkillClassName1934=Chaos Knight
+19 and 35
+tagSkillClassName1935=Knight-Enchanter
+19 and 36
+tagSkillClassName1936=Pious Fighter
+19 and 37
+tagSkillClassName1937=Twilight Knight
+19 and 38
+tagSkillClassName1938=Champion+Berserker
+~~~~~~~~
+Riftstalker
+~~~~~~~~
+20 and 21
+tagSkillClassName2021=Pursuer
+20 and 22
+tagSkillClassName2022=Doomguard
+20 and 23
+tagSkillClassName2023=Abolisher
+20 and 24
+tagSkillClassName2024=Umbrawalker
+20 and 25
+tagSkillClassName2025=Chirurgeon
+20 and 26
+tagSkillClassName2026=Tamer of Beasts
+20 and 27
+tagSkillClassName2027=Ethereal Butcher
+20 and 28
+tagSkillClassName2028=Planescorcher
+20 and 29
+tagSkillClassName2029=Realmwarper
+20 and 30
+tagSkillClassName2030=Mindspy
+20 and 31
+tagSkillClassName2031=Rift Titan
+20 and 32
+tagSkillClassName2032=Worldwalker
+20 and 33
+tagSkillClassName2033=Etheric Traveler
+20 and 34
+tagSkillClassName2034=Dark Stalker
+20 and 35
+tagSkillClassName2035=Planeswalker
+20 and 36
+tagSkillClassName2036=Arcane Pugilist
+20 and 37
+tagSkillClassName2037=Netherblade
+20 and 38
+tagSkillClassName2038=Riftstalker+Berserker
+~~~~~~~~
+Necrotic
+~~~~~~~~
+21 and 22
+tagSkillClassName2122=Black Guard
+21 and 23
+tagSkillClassName2123=Mortal Hunter
+21 and 24
+tagSkillClassName2124=Pale Master
+21 and 25
+tagSkillClassName2125=Corruptor
+21 and 26
+tagSkillClassName2126=Blighter
+21 and 27
+tagSkillClassName2127=Wight
+21 and 28
+tagSkillClassName2128=Scourge
+21 and 29
+tagSkillClassName2129=Primevil
+21 and 30
+tagSkillClassName2130=Nightmare
+21 and 31
+tagSkillClassName2131=Predator
+21 and 32
+tagSkillClassName2132=Inyanga
+21 and 33
+tagSkillClassName2133=Jiang-shi
+21 and 34
+tagSkillClassName2134=Hellcaller
+21 and 35
+tagSkillClassName2135=Bloodvine
+21 and 36
+tagSkillClassName2136=Bloodcharmer
+21 and 37
+tagSkillClassName2137=Dissolver
+21 and 38
+tagSkillClassName2138=Necrotic+Berserker
+~~~~~~~~
+Necrotic
+~~~~~~~~
+21 and 22
+tagSkillClassName2122=Black Guard
+21 and 23
+tagSkillClassName2123=Mortal Hunter
+21 and 24
+tagSkillClassName2124=Pale Master
+21 and 25
+tagSkillClassName2125=Corruptor
+21 and 26
+tagSkillClassName2126=Blighter
+21 and 27
+tagSkillClassName2127=Wight
+21 and 28
+tagSkillClassName2128=Scourge
+21 and 29
+tagSkillClassName2129=Primevil
+21 and 30
+tagSkillClassName2130=Nightmare
+21 and 31
+tagSkillClassName2131=Predator
+21 and 32
+tagSkillClassName2132=Inyanga
+21 and 33
+tagSkillClassName2133=Jiang-shi
+21 and 34
+tagSkillClassName2134=Hellcaller
+21 and 35
+tagSkillClassName2135=Bloodvine
+21 and 36
+tagSkillClassName2136=Bloodcharmer
+21 and 37
+tagSkillClassName2137=Dissolver
+21 and 38
+tagSkillClassName2138=Necrotic+Berserker
+~~~~~~~~
+Defense
+~~~~~~~~
+22 and 23
+tagSkillClassName2223=TQ Warden
+22 and 24
+tagSkillClassName2224=TQ Spellbinder
+22 and 25
+tagSkillClassName2225=TQ Conqueror
+22 and 26
+tagSkillClassName2226=TQ Guardian
+22 and 27
+tagSkillClassName2227=TQ Corsair
+22 and 28
+tagSkillClassName2228=TQ Juggernaut
+22 and 29
+tagSkillClassName2229=TQ Paladin
+22 and 30
+tagSkillClassName2230=TQ Templar
+22 and 31
+tagSkillClassName2231=Hoplite
+22 and 32
+tagSkillClassName2232=TQ Runesmith
+22 and 33
+tagSkillClassName2233=TQ Monk
+22 and 34
+tagSkillClassName2234=Coagulator
+22 and 35
+tagSkillClassName2235=Defender of Faith
+22 and 36
+tagSkillClassName2236=Stonefist
+22 and 37
+tagSkillClassName2237=Breacher
+22 and 38
+tagSkillClassName2238=Defense+Berserker
+~~~~~~~~
+Hunting
+~~~~~~~~
+23 and 24
+tagSkillClassName2324=TQ Bone Charmer
+23 and 25
+tagSkillClassName2325=TQ Slayer
+23 and 26
+tagSkillClassName2326=TQ Ranger
+23 and 27
+tagSkillClassName2327=TQ Brigand
+23 and 28
+tagSkillClassName2328=TQ Avenger
+23 and 29
+tagSkillClassName2329=TQ Sage
+23 and 30
+tagSkillClassName2330=TQ Haruspex
+23 and 31
+tagSkillClassName2331=Highlander
+23 and 32
+tagSkillClassName2332=TQ Dragon Hunter
+23 and 33
+tagSkillClassName2333=TQ Pilgrim
+23 and 34
+tagSkillClassName2334=Rot Seeker
+23 and 35
+tagSkillClassName2335=Pagan Hunter
+23 and 36
+tagSkillClassName2336=Herbalist
+23 and 37
+tagSkillClassName2337=Ruthless Tracker
+23 and 38
+tagSkillClassName2338=Hunting+Berserker
+~~~~~~~~
+Spirit
+~~~~~~~~
+24 and 25
+tagSkillClassName2425=TQ Spellbreaker
+24 and 26
+tagSkillClassName2426=TQ Soothsayer
+24 and 27
+tagSkillClassName2427=TQ Warlock
+24 and 28
+tagSkillClassName2428=TQ Conjurer
+24 and 29
+tagSkillClassName2429=TQ Oracle
+24 and 30
+tagSkillClassName2430=TQ Diviner
+24 and 31
+tagSkillClassName2431=Harrower
+24 and 32
+tagSkillClassName2432=TQ Shaman
+24 and 33
+tagSkillClassName2433=TQ Spiritualist
+24 and 34
+tagSkillClassName2434=Soulbringer
+24 and 35
+tagSkillClassName2435=Veilpiercer
+24 and 36
+tagSkillClassName2436=Bone Puppeteer
+24 and 37
+tagSkillClassName2437=Apparition
+24 and 38
+tagSkillClassName2438=Spirit+Berserker
+~~~~~~~~
+Warfare
+~~~~~~~~
+25 and 26
+tagSkillClassName2526=TQ Champion
+25 and 27
+tagSkillClassName2527=TQ Assassin
+25 and 28
+tagSkillClassName2528=TQ Battlemage
+25 and 29
+tagSkillClassName2529=TQ Thane
+25 and 30
+tagSkillClassName2530=TQ Harbinger
+25 and 31
+tagSkillClassName2531=Furibund
+25 and 32
+tagSkillClassName2532=TQ Berserker
+25 and 33
+tagSkillClassName2533=TQ Daoist
+25 and 34
+tagSkillClassName2534=Warbringer
+25 and 35
+tagSkillClassName2535=Castigator
+25 and 36
+tagSkillClassName2536=Phantom
+25 and 37
+tagSkillClassName2537=Formation Breaker
+25 and 38
+tagSkillClassName2538=Warfare+Berserker
+~~~~~~~~
+Nature
+~~~~~~~~
+26 and 27
+tagSkillClassName2627=TQ Illusionist
+26 and 28
+tagSkillClassName2628=TQ Summoner
+26 and 29
+tagSkillClassName2629=TQ Druid
+26 and 30
+tagSkillClassName2630=TQ Ritualist
+26 and 31
+tagSkillClassName2631=Forest Titan
+26 and 32
+tagSkillClassName2632=TQ Skinchanger
+26 and 33
+tagSkillClassName2633=TQ Hermit
+26 and 34
+tagSkillClassName2634=Plaguebringer
+26 and 35
+tagSkillClassName2635=Lifewarden
+26 and 36
+tagSkillClassName2636=Naturalist
+26 and 37
+tagSkillClassName2637=Witherer
+26 and 38
+tagSkillClassName2638=Nature+Berserker
+~~~~~~~~
+Rogue
+~~~~~~~~
+27 and 28
+tagSkillClassName2728=TQ Magician
+27 and 29
+tagSkillClassName2729=TQ Sorcerer
+27 and 30
+tagSkillClassName2730=TQ Dreamkiller
+27 and 31
+tagSkillClassName2731=Nomad
+27 and 32
+tagSkillClassName2732=TQ Trickster
+27 and 33
+tagSkillClassName2733=TQ Disruptor
+27 and 34
+tagSkillClassName2734=Bone Assassin
+27 and 35
+tagSkillClassName2735=Shadowcleric
+27 and 36
+tagSkillClassName2736=Bard
+27 and 37
+tagSkillClassName2737=Despoiler
+27 and 38
+tagSkillClassName2738=Rogue+Berserker
+~~~~~~~~
+Earth
+~~~~~~~~
+28 and 29
+tagSkillClassName2829=TQ Elementalist
+28 and 30
+tagSkillClassName2830=TQ Evoker
+28 and 31
+tagSkillClassName2831=Inferno Titan
+28 and 32
+tagSkillClassName2832=TQ Stonespeaker
+28 and 33
+tagSkillClassName2833=TQ Wu
+28 and 34
+tagSkillClassName2834=Scorcher
+28 and 35
+tagSkillClassName2835=Emberpriest
+28 and 36
+tagSkillClassName2836=Gaiamancer
+28 and 37
+tagSkillClassName2837=Dominator
+28 and 38
+tagSkillClassName2838=Earth+Berserker
+~~~~~~~~
+Storm
+~~~~~~~~
+29 and 30
+tagSkillClassName2930=TQ Prophet
+29 and 31
+tagSkillClassName2931=Storm Titan
+29 and 32
+tagSkillClassName2932=TQ Thunderer
+29 and 33
+tagSkillClassName2933=TQ Channeler
+29 and 34
+tagSkillClassName2934=Temestarii
+29 and 35
+tagSkillClassName2935=Tempestrian
+29 and 36
+tagSkillClassName2936=Harmonizer
+29 and 37
+tagSkillClassName2937=Dark Vortex
+29 and 38
+tagSkillClassName2938=Storm+Berserker
+~~~~~~~~
+Dream
+~~~~~~~~
+30 and 31
+tagSkillClassName3031=Dreamcatcher
+30 and 32
+tagSkillClassName3032=TQ Seidr Worker
+30 and 33
+tagSkillClassName3033=TQ Contemplator
+30 and 34
+tagSkillClassName3034=Elder Seer
+30 and 35
+tagSkillClassName3035=Dreamtender
+30 and 36
+tagSkillClassName3036=Mindshaker
+30 and 37
+tagSkillClassName3037=Dreameater
+30 and 38
+tagSkillClassName3038=Dream+Berserker
+~~~~~~~~
+Barbarian 
+~~~~~~~~
+31 and 32
+tagSkillClassName3132=Glyphlord
+31 and 33
+tagSkillClassName3133=Banjin
+31 and 34
+tagSkillClassName3134=Soul Reaver
+31 and 35
+tagSkillClassName3135=Bloodsaint
+31 and 36
+tagSkillClassName3136=Bloodrager
+31 and 37
+tagSkillClassName3137=Devastator
+31 and 38
+tagSkillClassName3138=Barbarian+Berserker
+~~~~~~~~
+Runes
+~~~~~~~~
+32 and 33
+tagSkillClassName3233=TQ Esoterist
+32 and 34
+tagSkillClassName3234=Acheron
+32 and 35
+tagSkillClassName3235=Rune Chaplain
+32 and 36
+tagSkillClassName3236=Spellshaper
+32 and 37
+tagSkillClassName3237=Hexcarver
+32 and 38
+tagSkillClassName3238=Runes+Berserker
+~~~~~~~~
+Neidan
+~~~~~~~~
+33 and 34
+tagSkillClassName3334=Blightsinger
+33 and 35
+tagSkillClassName3335=Taoist
+33 and 36
+tagSkillClassName3336=Luminant
+33 and 37
+tagSkillClassName3337=Bloodmixer
+33 and 38
+tagSkillClassName3338=Neidan+Berserker
+~~~~~~~~
+Reanimator
+~~~~~~~~
+34 and 35
+tagSkillClassName3435=Soul Reaper
+34 and 36
+tagSkillClassName3436=Omenologist
+34 and 37
+tagSkillClassName3437=Manipulator
+34 and 38
+tagSkillClassName3438=Reanimator+Berserker
+~~~~~~~~
+Priest
+~~~~~~~~
+35 and 36
+tagSkillClassName3536=Envoy
+35 and 37
+tagSkillClassName3537=Transgressor
+35 and 38
+tagSkillClassName3538=Priest+Berserker
+~~~~~~~~
+Illusionist
+~~~~~~~~
+36 and 37
+tagSkillClassName3637=Intimidator
+36 and 38
+tagSkillClassName3638=Illusionist+Berserker
+~~~~~~~~
+Blood Knight
+~~~~~~~~
+37 and 38
+tagSkillClassName3738=Bloodshaper
