@@ -1,0 +1,4920 @@
+#Grim Quest NPCs
+
+tagGQForgemaster001=佩拉尼斯，萨梯
+tagGQForgemaster001_Profession=Grim Quest 锻造大师
+tagGQForgemaster001_DESC01={}英雄之炉
+tagGQForgemaster001_DESC02=佩拉尼斯掌握古老的锻造技艺，能够打造被英雄与诸神使用的远古装备。
+tagGQForgemaster001_DESC03=
+tagGQForgemaster001_DESC04=佩拉尼斯无法赋予装备额外属性加成。
+
+#Grim Quest Class Names
+
+tagClassName01=防御
+tagClassName02=狩猎
+tagClassName03=TQ死靈
+tagClassName04=战争
+tagClassName05=自然
+tagClassName06=盗贼
+tagClassName07=大地
+tagClassName08=风暴
+tagClassName09=梦境
+tagClassName10=符文
+tagClassName11=内丹
+//solo classes//
+tagSkillClassName22=守护者
+tagSkillClassName23=[ms]猎人[fs]女猎手
+tagSkillClassName24=通灵师
+tagSkillClassName25=战士
+tagSkillClassName26=漫游者
+tagSkillClassName27=游侠
+tagSkillClassName28=地法师
+tagSkillClassName29=风暴使
+tagSkillClassName30=预言者
+tagSkillClassName32=符文大师
+tagSkillClassName33=内丹大师
+
+#Grim Quest Class Descriptions
+tagSkillClassDescription_TQ01=守护者擅长在战斗中生存，但对输出增益贡献有限。许多技能专注于利用盾牌格挡攻击并削弱敌人。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ02=弓箭与长矛战斗大师。穿透攻击能够突破敌人护甲，高级弓技能能撕裂大群敌人。猎人必须依靠速度与射程来保持安全距离。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ03=通灵师将攻防结合，利用吸取敌人生命的技能增强自身。在高等级时，召唤强大的巫妖王能显著提升伤害能力。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ04=战士擅长造成物理伤害，但防御能力不足。随着精通等级提升，战士可以同时攻击多个敌人。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ05=漫游者能召唤森林中的生灵攻击敌人并保护队友。治疗与防御光环使队友存活更久并提升战斗效率。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ06=盗贼擅长对单个敌人造成快速伤害，或利用毒与流血持续削弱敌人。依赖游击战术，游侠不擅长面对大量敌人，必须巧妙躲避以避免被压制。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ07=地法师擅长对大群敌人造成毁灭性打击。大部分技能以输出为主，地法师依靠巨大的土元素吸引敌人注意力。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ08=风暴使擅长对单体或小群敌人造成强力闪电和冰霜伤害。个人防御有限，但可通过冰冻和雷击技能减速、冻结或眩晕敌人。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ09=预言者借助梦境世界的力量，以意志主宰战场。心灵、时间与现实的奥秘尽在掌控之中。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ10=北方战士-萨满将符文铭刻在武器与护甲上，或施放于战场以掌控局势。他们从战斗的狂热中汲取力量，既精通近战又能释放魔法怒火。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+tagSkillClassDescription_TQ11=内丹大师精通内外丹术。结合致命药剂与内力运用技能，内丹大师是一支不可忽视的力量。 ^n^s由 Asylum101 为 Grim Quest 模组改编
+
+#防御技能
+
+tagSkillName116=防御精通{^K} 「防御」^-
+tagSkillDescription116=提供坚韧与力量，使你掌握保护自己和他人的技能。
+
+tagSkillName133=幽灵壁垒{^K} 「防御」^-
+tagSkillDescription133=^b[法术] [环绕] [定时]^n^n^w召唤一个环绕施法者旋转的幽灵武器。敌人可被此投射物多次击中，命中时攻击速度会短暂减缓。 ^o每个投射物持续5秒，最多可维持10个。
+
+tagSkillName134=撕裂护甲{^K} 「防御」^-
+tagSkillDescription134=^b[修饰符]^n^n^w增强幽灵壁垒的效果，使其以足够的力量削弱敌人的物理抗性。
+
+tagSkillName203=震击一击{^K} 「防御」^-
+tagSkillDescription203=^b[修饰符]^n^n^w增加眩晕敌人的概率并提升伤害。
+
+tagOrbitShieldBNAME=狂野投掷{^K} 「防御」^-
+tagOrbitShieldBDESC=^b[转化器]^n^o[盾牌]^n^n^w大幅提升幽灵壁垒的伤害，但此增益仅对盾牌有效。//移除冷却，但会使灵魂盾快速远离你。
+
+tagSkillName137=重装冲锋{^K} 「防御」^-
+tagSkillDescription137=^b[法术] [移动] [嘲讽]^n^n^w一次冲刺攻击，撞击敌人并眩晕。 ^o若携带盾牌，则盾牌伤害将被叠加。
+
+tagSkillName119=破坏{^K} 「防御」^-
+tagSkillDescription119=^b[修饰符]^n^n^w增强盾牌冲锋的冲击效果，击中附近敌人并短时间打断其技能使用。
+
+tagSkillName132=巨力步伐{^K} 「防御」^-
+tagSkillDescription132=^b[次要修饰符] [范围]^n^n^w每一步巨力防御者的脚步都会引发震动，接近防御者的敌人如果未被践踏致死，将受到自然之力的伤害。
+
+tagShieldTossNAME=极乐圣盾{^K} 「防御」^-
+tagShieldTossDESC=^b[法术] [连锁]^n^o[盾牌]^n^n^w召唤一面古老的盾牌并投向敌人。盾牌会自动引导到附近敌人并造成伤害，然后返回你手中。 ^o需要持有盾牌。
+
+tagSkillName118=赎罪{^K} 「防御」^-
+tagSkillDescription118=^b[修饰符]^n^n^w使极乐圣盾造成流血伤害，同时增加盾牌在返回前可进行的弹射次数。 //在肾上腺素激增时提升伤害与攻击速度。
+
+tagSkillName129=蛇发护符{^K} 「防御」^-
+tagSkillDescription129=^b[次要修饰符] [范围]^n^n^w极乐圣盾受到蛇发护符的强化，这一古老符号展示美杜莎之首并作为护身符。每次盾牌击中都会产生冲击波，对半径内敌人造成伤害并眩晕。 ^o此半径仅造成本技能说明中的伤害，不包括极乐圣盾的基础伤害。
+
+tagSkillName117=肾上腺素{^K} 「防御」^-
+tagSkillDescription117=^b[增益] [定时] [生命阈值]^n^n^w每次命中敌人都有机会触发肾上腺素激增，提升生命回复速度。
+
+tagSkillName121=护甲操控{^K} 「防御」^-
+tagSkillDescription121=^b[被动]^n^n^w掌握正确的护甲调整与移动方法，使你能够穿戴比同等力量的未训练战士更重的护甲和盾牌。
+
+tagSkillName120=快速恢复{^K} 「防御」^-
+tagSkillDescription120=^b[被动]^n^o[盾牌]^n^n^w强壮的盾手能更频繁地格挡强力攻击。 ^o需要盾牌。
+
+tagSkillName130=集结{^K} 「防御」^-
+tagSkillDescription130=^b[范围] [增益] [治疗] [定时]^n^n^w号角的坚定号令可扭转战局，激励范围内的所有队友以焕发的活力作战。
+
+tagSkillName123=鼓舞{^K} 「防御」^-
+tagSkillDescription123=^b[修饰符]^n^n^w鼓舞队友，使其战斗更卖力，提升攻击能力与伤害。
+
+tagSkillName122=战斗感知{^K} 「防御」^-
+tagSkillDescription122=^b[范围] [增益]^n^n^w进入高度警觉状态，使你及周围队友更有效地察觉并应对攻击。
+
+tagSkillName124=反抗{^K} 「防御」^-
+tagSkillDescription124=^b[修饰符]^n^n^w赋予队友抵御巨大逆境的决心。
+
+tagShieldTrainingNAME=盾牌专精{^K} 「防御」^-
+tagShieldTrainingDESC=^b[被动]^n^o[盾牌]^n^n^w经过正确训练，防御者能将盾牌用作武器与防御工具。 ^o需要盾牌。
+
+tagSkillName125=盾击{^K} 「防御」^-
+tagSkillDescription125=^b[武器技能] [近战]^n^o[盾牌]^n^n^w使用盾牌的战斗技巧，可同时造成武器与盾牌伤害。 ^o此为近战武器与盾牌组合技，需同时装备近战武器与盾牌。
+
+tagSkillName126=击晕{^K} 「防御」^-
+tagSkillDescription126=^b[武器技能] [近战]^n^o[盾牌]^n^n^w使用盾牌压制敌人，使其失去平衡。 ^o此为近战武器与盾牌组合技，需同时装备近战武器与盾牌。
+
+tagSkillName127=粉碎{^K} 「防御」^-
+tagSkillDescription127=^b[武器技能] [近战] [波动] [嘲讽]^n^o[盾牌]^n^n^w使用盾牌猛击地面，释放强力冲击波。 ^o此为近战武器与盾牌组合技，需同时装备近战武器与盾牌。
+
+#打击技能
+
+tagBatterSkillNAME=猛击{^K} 「防御」^-
+tagBatterSkillDESC=^b[攻击] [范围]^n^o[近战]^n^n^w一次横扫攻击，击中你附近的多名敌人。 ^o需要近战武器。
+
+tagBatterSkill2NAME=击倒{^K} 「防御」^-
+tagBatterSkill2DESC=^b[修饰符]^n^n^w使用残忍的技巧，猛击可以击中更多敌人，并提高命中率，有时造成毁灭性打击。
+
+tagBatterBNAME=猛力{^K} 「防御」^-
+tagBatterBDESC=^b[转化器]^n^n^w强化猛击，显著增加伤害，但会延长冷却时间。
+
+tagSkillName135=巨像形态{^K} 「防御」^-
+tagSkillDescription135=^b[定时] [增益]^n^n^w化身为高大的巨像，碾压敌人。在此形态下，你的伤害和伤害吸收能力大幅提升。
+
+tagSkillName163=韧性{^K} 「防御」^-
+tagSkillDescription163=提高触发肾上腺素激增的频率。
+
+tagIntimidate1NAME=怨恨{^K} 「防御」^-
+tagIntimidate1DESC=^b[法术] [新星] [定时] [减益] [嘲讽]^n^n^w激怒附近敌人，迫使他们在短时间内攻击你。被嘲讽的敌人会暴露破绽，便于反击。
+
+tagIntimidate2NAME=审判{^K} 「防御」^-
+tagIntimidate2DESC=^b[次要修饰符] [光环]^n^n^w你周围的空气化作复仇之力，在审判生效期间对附近敌人造成伤害。
+
+tagIntimidateBNAME=盲目怒火{^K} 「防御」^-
+tagIntimidateBDESC=^b[转化器]^n^n^w受怨恨影响的敌人因你的恐吓而疯狂攻击，暴露出更多弱点。
+
+tagColossus3NAME=不屈方阵{^K} 「防御」^-
+tagColossus3DESC=^b[玩家等级宠物] [墙]^n^n^w召唤已阵亡盟友的幽影再次与你并肩，阻止任何接近的敌人。幽影会用盾牌撞击接近敌人，将其击退，并偶尔践踏大地，对更远的敌人造成伤害。 ^o不屈方阵可根据召唤空间最多召唤5名极乐士兵，在狭窄空间召唤数量会减少。极乐士兵的伤害随玩家等级而提升。
+
+tagFrontlineSpectreNAME=极乐士兵
+tagPhalanxPetSkillName01=方阵攻击
+tagPhalanxPetSkillName02=极乐猛击
+tagPhalanxPetSkillName03=击退
+
+tagDefenseEx1NAME=阿德雷斯的复仇{^K} 「防御」^-
+tagDefenseEx1DESC=^b[专属] [增益]^n^o[盾牌]^n^n^w阿德雷斯是复仇女神。虔诚信奉阿德雷斯者将受其均衡保护。 ^o需要盾牌。
+
+tagDefenseEx2NAME=雅典娜的智慧{^K} 「防御」^-
+tagDefenseEx2DESC=^b[专属] [范围] [增益]^n^n^w雅典娜是战神女神，时刻准备战斗。虔诚信奉雅典娜者将获得部分战术智慧。
+
+#狩猎技能
+
+tagSkillName076=狩猎精通
+tagSkillDescription076=赋予捕猎所需的野性与狡黠。
+
+tagSkillName081=捕兽陷阱{^K} 「狩猎」^-
+tagSkillDescription081=^b[范围] [定时] [减益]^n^n^w将敌人困于钩网中。附近敌人也会被困。被困敌人无法移动，但仍可攻击。
+
+tagSkillName078=束缚{^K} 「狩猎」^-
+tagSkillDescription078=^b[次要修饰符] [束缚]^n^n^w用来束缚敌人的重网现在被绑定到你身上。施放技能后，一条链条将你与目标相连。目标及任何经过链条的敌人都会减速并受到伤害。
+
+tagSkillName089=击倒{^K} 「狩猎」^-
+tagSkillDescription089=^b[法术] [移动]^n^n^w武器的猛烈刺击造成毁灭性穿刺伤害，并削减敌人部分总生命。 ^o需要近战武器（长矛）。
+
+tagSkillName090=剜裂{^K} 「狩猎」^-
+tagSkillDescription090=^b[修饰符]^n^n^w锁定敌人要害部位造成持续流血伤害，偶尔击中真正的致命点造成暴击伤害。
+
+tagAotHBNAME=瘟疫武器{^K} 「狩猎」^-
+tagAotHBDESC=^b[转化器]^n^n^w猎人将武器涂上毒药，借助可穿透护甲和肉体的酸液轻松猎杀更强猎物。 //^o需要长矛。
+
+tagSkillName095=研究猎物{^K} 「狩猎」^-
+tagSkillDescription095=^b[范围] [定时] [减益]^n^n^w远距离观察猎物可能发现其弱点，从而造成更高穿刺伤害。
+
+tagSkillName096=驱逐{^K} 「狩猎」^-
+tagSkillDescription096=^b[修饰符]^n^n^w将敌人引出掩体，使其更容易被攻击。
+
+tagSkillName084=狩猎之道{^K} 「狩猎」^-
+tagSkillDescription084=^b[范围] [增益]^n^n^w狩猎经验让你在战斗中占据优势，大幅提升猎杀野兽的能力以及穿刺和毒素伤害。
+
+tagSkillName093=开路先锋{^K} 「狩猎」^-
+tagSkillDescription093=^b[修饰符]^n^n^w授予追猎者持久力，使其能不断追踪猎物，即使最密集的灌木丛也无法减缓追击。
+
+tagSkillName094=寻找掩护{^K} 「狩猎」^-
+tagSkillDescription094=^b[修饰符]^n^n^w利用可用掩护进行攻击，帮助你避免不必要的伤害。
+
+#远程技能
+
+tagSkillName169=射击精通{^K} 「狩猎」^-
+tagSkillDescription169=^b[攻击替代]^n^o[远程]^n^n^w射击精通技能使你能够制作并发射飞行更快、穿透力更强的箭矢。 ^o作为默认武器攻击使用时，射击精通会造成额外伤害。 ^o需要远程武器。
+
+tagSkillName170=穿透箭{^K} 「狩猎」^-
+tagSkillDescription170=^b[修饰符] [穿透]^n^n^w将更流线型的箭杆整合入箭矢，使其能够穿透目标并击中路径上的其他敌人。
+
+tagSkillName088=利用弱点{^K} 「狩猎」^-
+tagSkillDescription088=^b[修饰符]^n^n^w瞄准敌人的盔甲薄弱点，使射击精通造成额外闪电伤害，并有可能将敌人击倒。
+
+tagSkillName171=散射箭{^K} 「狩猎」^-
+tagSkillDescription171=^b[修饰符]^n^n^w精湛制箭师的秘密技艺：打造特殊箭头，击中目标时爆裂，向四周发射锋利碎片。每片碎片对击中的敌人造成穿刺伤害。
+
+tagMarksmanshipBNAME=冻原猎手{^K} 「狩猎」^-
+tagMarksmanshipBDESC=^b[转化器]^n^n^w一些猎人不依赖火器或其他远程武器的穿透力，而是使用特殊弹药，此处为冰霜弹药。 ^o需要单手或双手远程武器，不适用于法杖。
+
+#近战风暴技能
+
+tagSpearTempestNAME=旋风风暴{^K} 「风暴」^-
+tagSpearTempestDESC=^b[法术] [新星]^n^o[近战]^n^n^w用近战武器扫击周围区域，打击多个敌人。 ^o需要近战武器。
+
+tagStormStrikeNAME=风暴打击{^K} 「风暴」^-
+tagStormStrikeDESC=^b[修饰符]^n^n^w在施法过程中空气中充满风暴魔力，对击中的敌人造成闪电伤害。
+
+tagTempestBNAME=暴怒{^K} 「风暴」^-
+tagTempestBDESC=^b[转化器]^n^n^w旋风风暴受到阿波罗烈焰的祝福，蕴含太阳之力。
+
+#猎人增益技能
+
+tagSkillName079=狩猎之召{^K} 「狩猎」^-
+tagSkillDescription079=^b[定时] [增益]^n^o[暴击时]^n^n^w成功^o暴击^w时，猎人回应狩猎之召，获得力量与敏捷的提升。 //响应狩猎之召者将以更高速度与狡猾进行战斗。
+
+tagSkillName097=怪物诱饵{^K} 「狩猎」^-
+tagSkillDescription097=^b[玩家等级宠物] [嘲讽]^n^n^w投放诱饵以吸引附近怪物注意。投放后短时间内，诱饵受重甲保护。敌人接近时，机关触发定时炸弹，使诱饵爆炸，火焰碎片四散。 ^o诱饵伤害随玩家加成而提升。
+
+tagSkillName193=引爆{^K} 「狩猎」^-
+tagSkillDescription193=为怪物诱饵添加隐藏炸药，破坏时会引爆。引爆需要诱饵满能量。
+
+tagGQPetSkill01=带刺结构{^K} 「狩猎」^-
+tagMonsterLureInitialSkillNAME=坚固构造
+
+#草药技能
+
+tagSkillName091=草药疗法{^K} 「狩猎」^-
+tagSkillDescription091=^b[范围] [增益] [治疗] [定时]^n^n^w依靠大自然生存，你学会辨认和使用药用植物制作治疗膏药。施用后，可抵抗毒素并在一段时间内加速治疗效果。 ^o此效果同时作用于附近盟友。
+
+tagHerbalismBNAME=奇伦教导{^K} 「狩猎」^-
+tagHerbalismBDESC=^b[转化器]^n^n^w奇伦的教导使你最大化利用草药疗法，缩短冷却时间并提高能量恢复。 ^o需要长矛或任何双手武器。
+
+#专属祝福技能
+
+tagFlayerNAME=阿尔忒弥斯月光祝福{^K} 「狩猎」^-
+tagFlayerDESC=^b[专属] [增益]^n^n^w狩猎与月亮女神阿尔忒弥斯祝福虔诚信奉者。月光祝福使武器锋利，并附加闪电之力。
+
+tagTrapperSenseNAME=阿波罗太阳祝福{^K} 「狩猎」^-
+tagTrapperSenseDESC=^b[专属] [增益]^n^n^w弓术与太阳之神阿波罗祝福虔诚信奉者。太阳祝福提升体力，并附加火焰之力于武器。
+
+#自然/猎人武器技能
+
+tagSkillName077=林木学识{^K} 「狩猎」^-
+tagSkillDescription077=^b[被动]^n^o[长矛] [远程]^n^n^w在荒野生存中，能够熟练使用武器进行狩猎至关重要。对这些武器的熟练掌握使你能够以极高的速度和精度使用它们。 ^o提供长矛和远程武器加成。
+
+tagSkillName172=割裂{^K} 「狩猎」^-
+tagSkillDescription172=^b[武器池技能] [多重投射] [多次攻击]^n^o[长矛] [远程]^n^n^w一项战斗技巧，可造成深度创伤并引发持续流血。 ^o需要长矛或远程武器。激活于默认武器攻击。
+
+tagSkillName173=连射{^K} 「狩猎」^-
+tagSkillDescription173=^b[武器池技能] [多重投射] [多次攻击]^n^o[长矛] [远程]^n^n^w一项战斗技巧，快速连续攻击三次。每次攻击发射指定数量的投射物。 ^o需要长矛或远程武器。激活于默认武器攻击。
+
+tagSerpentStrikeNAME=蛇击{^K} 「狩猎」^-
+tagSerpentStrikeDESC=^b[武器池技能]^n^o[长矛] [远程]^n^n^w增加短时间内攻击两次的几率。每次攻击发射指定数量的投射物。 ^o需要长矛或远程武器。激活于默认武器攻击。
+
+#投射/陷阱宠物技能
+
+tagFletchetteBombNAME=集束地雷{^K} 「狩猎」^-
+tagFletchetteBombDESC=^b[玩家等级宠物] [陷阱] [多重投射]^n^n^w在指定位置放置炸弹。当敌人靠近时触发，引爆时发射多枚酸液集束炸弹。爆炸时释放更小的酸液碎片。 ^o酸液集束炸弹需要1.5秒激活，并随玩家伤害加成增强。
+
+tagImprovedTrapsNAME=反应装置{^K} 「狩猎」^-
+tagImprovedTrapsDESC=^b[宠物技能] [范围] [初始攻击]^n^n^w为集束炸弹添加机制，使其更具爆炸性，放置后瞬间喷射毒液，对敌人造成酸液伤害并使其眩晕。 //通过改良集束炸弹构造技术，提高伤害。
+
+tagBarbedNailsNAME=强化弹药{^K} 「狩猎」^-
+tagBarbedNailsDESC=^b[宠物修饰符]^n^n^w集束炸弹装填更危险的弹药，提高伤害并降低被击中敌人的攻击速度。
+
+tagFletchetteBombSkillNAME=酸液扫射{^K} 「狩猎」^-
+tagFletchetteBombSkillNAMEB=烈焰扫射{^K} 「狩猎」^-
+
+tagEnsnareBombPet=酸液集束炸弹
+tagEnsnareBombBPet=烈焰集束地雷
+
+tagFletchetteBombBNAME=烈焰集束地雷{^K} 「狩猎」^-
+tagFletchetteBombBDESC=^b[转化器] [宠物替换]^n^n^w猎人祈求赫淮斯托斯的力量，制造火焰陷阱代替毒液陷阱。 谁想让猎物中毒呢？不如烧烤它。
+
+tagImprovedTrapsBDESC=为烈焰集束地雷添加机制，使其更具爆炸性，放置后瞬间喷射火焰，对敌人造成伤害并使其眩晕。
+
+#弓箭/远程投射宠物技能
+
+tagArrowCurtainNAME=天射箭雨{^K} 「狩猎」^-
+tagArrowCurtainDESC=^b[玩家等级宠物] [投射物下落] [固定]^n^n^w放置迫击炮，发射高空爆炸弹，爆炸后在区域内下落燃烧箭雨。 ^o天射箭雨随玩家伤害加成增强。
+
+tagSignalFirePet=天射箭雨发射器
+
+tagSpectralHunterNAME=雷霆弹药{^K} 「狩猎」^-
+tagSpectralHunterDESC=^b[修饰符]^n^n^w为天射箭雨填充特殊弹药，使其造成闪电伤害并有几率使敌人眩晕。
+
+
+
+
+
+
+
+#TQ死靈技能
+
+tagSkillName030=精神掌握{^K} 「TQ死靈」^-
+tagSkillDescription030=提供研究控制灵魂黑暗艺术所需的奥术知识与心智训练。
+
+tagSkillName032=死亡幻象{^K} 「TQ死靈」^-
+tagSkillDescription032=^b[范围] [法术] [持续]^n^n^w以自身死亡的幻象攻击周围敌人的心智，使胆小者变得虚弱且行动迟缓。
+
+tagSkillName214=恐惧洪流{^K} 「TQ死靈」^-
+tagSkillDescription214=^b[修饰符]^n^n^w疯狂更加深重，被恐惧洪流困住的敌人有几率被幻象压倒。//古文明的魔法师设计了许多阴险技巧以增强破坏力。
+
+tagSkillName039=死亡守护{^K} 「TQ死靈」^-
+tagSkillDescription039=^b[增益] [持续] [生命阈值]^n^n^w在玩家身上施加魔法守护，当生命值降至危险水平时恢复生命以防死亡。
+
+tagSkillName035=死寒光环{^K} 「TQ死靈」^-
+tagSkillDescription035=^b[减益] [光环]^n^n^w从角色身上散发死寂寒气，减缓敌人的速度并削弱其力量。
+
+tagSkillName037=腐朽{^K} 「TQ死靈」^-
+tagSkillDescription037=^b[修饰符] [减益]^n^n^w削弱受死寒光环影响敌人的体质，使其更容易受到寒冷、死灵魔法和虚灵魔法的伤害。
+
+tagSkillName048=力量之环{^K} 「TQ死靈」^-
+tagSkillDescription048=^b[玩家等级宠物] [固定] [范围] [增益]^n^n^w创造一个力量之环，为其中的单位赋予强大魔力，增强其魔法能力。
+tagCircleOfPowerSkill1Name=吸取能量
+tagCircleOfPowerSkill2Name=转移能量
+
+tagSkillName155=暗之契约{^K} 「TQ死靈」^-
+tagSkillDescription155=^b[范围] [增益] [持续]^n^n^w神秘的异界实体为能与之沟通的精神掌握者提供强大力量。
+
+tagSkillName046=超凡力量{^K} 「TQ死靈」^-
+tagSkillDescription046=^b[修饰符]^n^n^w汲取更强大的异界力量，为自己和盟友在战斗中提供增强。
+
+tagBoneSpireNAME=以太化{^K} 「TQ死靈」^-
+tagBoneSpireDESC=^b[转化器] ^n^o[近战]^n^n^w通过召唤大量古灵，术士可将巨大力量注入近战武器，而非从法杖发射爆炸能量。
+
+tagBoneSpire2NAME=冥界契约{^K} 「TQ死靈」^-
+tagBoneSpire2DESC=^b[修饰符]^n^n^w利用黑暗腐朽能量，武器中的幽灵侵入护甲，强化身体并进一步提升攻击力。 //强大的幽灵尖塔能撕裂肉体，并击碎被击中者的本质。
+
+tagBoneSpire3NAME=时间蹂躏{^K} 「TQ死靈」^-
+tagBoneSpire3DESC=^b[次级修饰符] [光环]^n^n^w古文明的魔法师设计了许多阴险技巧以提升战斗致命性。利用这些奥术知识，你可散发黑暗精华，削弱敌人的生命与力量。 //掌握这些方法可解锁攻击的真正力量。尖塔代表失落灵魂的扭曲恶能，击中敌人会造成伤害并暂时削弱其能力。
+
+tagDeathchillBNAME=蹂躏{^K} 「TQ死靈」^-
+tagDeathchillBDESC=^b[武器池技能]^n^o[暴击触发]^n^n^w对敌人本质进行阴暗打击，暴击可使目标灵魂爆炸，对周围敌人造成伤害。 //珀耳塞福涅的神力使你的攻击符合其双重性，活力伤害转化为毒性，物理伤害转化为冰冷。
+
+tagSkillName045=召唤巫妖王{^K} 「TQ死靈」^-
+tagSkillDescription045=^b[宠物] [远程]^n^n^w古代强大法师学习欺骗冥界，使自己在死亡后化为不死巫妖。术士可将古老巫妖的灵魂束缚于自身意志，从而获得其力量。 ^o一次只能召唤一只巫妖，巫妖会随宠物加成提升。
+
+tagMonsterName1195=被束缚的巫妖王
+tagSkillName217=幽灵能量箭{^K} 「TQ死靈」^-
+tagSkillDescription217=从天空释放幽灵能量箭，接触到的生物生命值下降。
+
+tagSkillName232=高级领域{^K} 「TQ死靈」^-
+tagSkillDescription232=施加保护护盾，减少玩家及附近盟友受到的不死生物攻击伤害。
+
+tagSkillName042=灵魂枯萎{^K} 「TQ死靈」^-
+tagSkillDescription042=让巫妖王产生负能量爆炸，削弱敌人的体质，使其更易受到各种伤害。
+
+tagSkillName207=死亡新星{^K} 「TQ死靈」^-
+tagSkillDescription207=^b[宠物技能] [范围] [新星]^n^n^w释放死亡波动，削减接触生物的生命值。
+
+tagSkillName044=幽影护甲{^K} 「TQ死靈」^-
+tagSkillDescription044=^b[宠物增益] [范围]^n^n^w部分强大不死生物极其坚韧，可将这种韧性扩展到附近盟友。 //允许巫妖王减弱自身实体存在，使其对各种伤害更不易受损。
+
+tagSkillName201=幽灵弹幕{^K} 「TQ死靈」^-
+tagSkillDescription201=^b[宠物技能] [投射物下落] [范围]^n^n^w巫妖王利用古代奥术制造致命死能能量弹并发射至敌人。
+
+tagWraithlordBNAME=骨魔{^K} 「TQ死靈」^-
+tagWraithlordBDESC=^b[转化器] [宠物替换]^n^n^w骨魔是一种古老的恐怖，其名字早已遗忘。它汲取亡者的灵魂力量，并无尽地从冥河直接吸取能量。骨魔替换巫妖王召唤，其虚化伤害被替换为寒冷伤害。
+
+tagBonefiendNAME=骨魔{^K} 「TQ死靈」^-
+tagBonefiendDESC=骨魔是一种古老的恐怖，其名字早已遗忘。它汲取亡者的灵魂力量，并无尽地从冥河直接吸取能量。^o一次只能召唤一只骨魔。骨魔随宠物加成提升。
+
+tagBoneclaws=骨爪{^K} 「TQ死靈」^-
+tagBoneSpiritBreath=灵魂吐息{^K} 「TQ死靈」^-
+tagBoneSpiritBreathDESC=从其古老的身体中吸取以太能量，骨魔向敌人吐出致命毒气。
+
+tagBonefiendShellNAME=幽影护甲{^K} 「TQ死靈」^-
+tagBonefiendShellDESC=允许骨魔减弱其实体存在，使其对各种伤害更不易受损。
+
+tagBonePound=冥河尖塔{^K} 「TQ死靈」^-
+tagBonePoundDESC=释放一圈幽灵骨尖塔，接触的生物生命值会被消耗。
+
+tagInDeathIsDeathNAME=灵魂守护{^K} 「TQ死靈」^-
+tagInDeathIsDeathDESC=^b[范围] [增益]^n^n^w施加保护护盾，可保护你免受伤害，对不死生物效果更佳。//减少受护盾影响者受到的不死生物攻击伤害，并增加施法速度、生命力和能量恢复。
+
+tagServeThyMasterNAME=灵魂克星{^K} 「TQ死靈」^-
+tagServeThyMasterDESC=^b[修饰符]^n^n^w在灵魂守护效果下，大幅提升你的奥术熟练度。//在灵魂守护效果下提升造成的伤害，对不死生物的伤害进一步放大。
+
+tagAetherboltNAME=生命吸取{^K} 「TQ死靈」^-
+tagAetherboltDESC=^b[引导] [远程] [法术] [连锁]^n^n^w灵魂施法者的主要恢复手段，通过吸取他人的生命力来恢复自身。^o这是一个引导技能，需要持续按下施放。在100%施法速度下，生命吸取每0.3秒造成伤害并消耗能量。
+
+tagGraspingDeadNAME=死者之握{^K} 「TQ死靈」^-
+tagGraspingDeadDESC=^b[次级修饰符] [范围]^n^n^w死亡幻象更加明显，亡者的灵魂穿越面纱抓挠范围内的敌人，束缚并吸取其生命。
+
+tagSoulCascadeNAME=灵魂倾泻{^K} 「TQ死靈」^-
+tagSoulCascadeDESC=^b[修饰符] [连锁]^n^n^w施法者增强对灵魂风暴中目标的掌控，从其身上吸取更多生命力。
+
+tagLifeDrainBNAME=吞噬{^K} 「TQ死靈」^-
+tagLifeDrainBDESC=^b[转化器]^n^n^w与其仅吸取少量生命不同，你尝试完全抽干目标的生命精华。使用后需短暂冷却，因为技能极其消耗能量。
+
+tagSpiritWPSNAME=幽灵尖塔{^K} 「TQ死靈」^-
+tagSpiritWPSDESC=^b[武器池技能] [波]^n^n^w通过召唤大量休眠魔力，术士可竖起巨大的尖塔撕裂大地，对路径上的敌人造成毁灭性伤害。^o可通过所有默认武器攻击触发。
+
+tagSkillName213=三重攻击{^K} 「TQ死靈」^-
+tagSkillDescription213=^b[攻击] [多重投射物] [范围]^n^o[远程] [法杖]^n^n^w这个强大的法师技巧使你的武器发射三枚投射物，将魔法能量注入武器。初始每次命中威力低于普通攻击，但效果随等级提升。^o需要远程武器或法杖。
+
+tagSkillName212=灵魂盛宴{^K} 「TQ死靈」^-
+tagSkillDescription212=^b[新星] [持续] [减益]^n^n^w穿透敌人的意识屏障，束缚其灵魂，将生命强行转移到自身。被奴役的敌人短时间迷惑，生命精华传输给你。
+
+tagEnslaveBNAME=冥河之心{^K} 「TQ死靈」^-
+tagEnslaveBDESC=^b[转化器]^n^n^w利用冥河冰冷的水域，使你能够延长冻结敌人灵魂的时间。
+
+tagMiasmaNAME=阴险瘴气{^K} 「TQ死靈」^-
+tagMiasmaDESC=^b[修饰符] [减益]^n^n^w有毒蒸汽环绕目标，削弱其体质，使其更易受到寄生攻击。
+
+tagSummonSkeletonNAME=骷髅士兵{^K} 「TQ死靈」^-
+tagSummonSkeletonDESC=^b[宠物] [部队] [近战]^n^n^w最凶残的亡者最渴望重返生者世界。即使是新手，也能诱导这些邪恶灵魂为己所用。^o骷髅士兵随宠物加成提升。等级越高，可同时控制的骷髅数量越多。
+
+tagSkellyShieldSmackNAME=盾击
+tagRelentlessNAME=不屈亡者
+tagRelentlessDESC=^b[宠物增益] [嘲讽]^n^n^w赋予骷髅士兵通过自身制造的杀戮来强化自身的能力。
+
+tagSkillName202=召唤异界者{^K} 「TQ死靈」^-
+tagSkillDescription202=^b[宠物] [近战] [持续]^n^n^w从以太之外召唤强大的异界实体。连接只能维持短时间。^o一次只能召唤一名异界者。异界者随宠物加成提升。
+
+tagMonsterName1324=以太之主
+tagSkillName216=以太打击
+tagSkillDescription216=以超凡的能量打击敌人，其力量可撕裂敌人的灵魂，甚至破坏现实的结构。
+
+tagPlanarStepNAME=位面跃步{^K} 「TQ死靈」^-
+
+# 战斗技能
+tagSkillName001=战斗精通
+tagSkillDescription001=提供身体素质和纪律训练，使角色能够掌握战士的各种技能。
+
+tagSkillName005=猛攻{^K} 「战斗专精」^-
+tagSkillDescription005=^b[攻击替换]^n^n^w作为默认武器攻击时，每次命中都会增加攻击伤害。首次命中总是将猛攻充能至技能的第一级，并持续充能直至达到当前技能等级。不主动攻击时，猛攻充能会快速消散。^o积累充能可增强加成效果。
+
+tagSkillName007=无视疼痛{^K} 「战斗专精」^-
+tagSkillDescription007=^b[修饰符]^n^n^w在战斗的高压下保持全神贯注，使你忽视物理和穿刺伤害。
+
+tagSkillName006=攻击热情{^K} 「战斗专精」^-
+tagSkillDescription006=^b[修饰符]^n^n^w随着推进攻击，你积聚动能，使攻击更迅速、更凶猛。
+
+tagOnslaughtBNAME=屠戮{^K} 「战斗专精」^-
+tagOnslaughtBDESC=^b[转化器]^n^o[双持]^n^n^w双持近战武器时，猛攻将得到强化。^o这是双持技巧。
+
+tagSkillName010=双持{^K} 「战斗专精」^-
+tagSkillDescription010=^b[被动]^n^o[双持]^n^n^w学习有效双持武器。^o这是近战双持加成，同时启用双持功能。
+
+tagSkillName012=劈砍{^K} 「战斗专精」^-
+tagSkillDescription012=^b[武器池技能]^n^o[双持] [近战]^n^n^w使用双武器进行攻击的战斗技巧。^o这是激活默认武器攻击的近战双持技巧。
+
+tagSkillName009=横斩{^K} 「战斗专精」^-
+tagSkillDescription009=^b[武器池技能] [范围]^n^o[双持] [近战]^n^n^w使用交叉剪切动作攻击多个敌人的战斗技巧。^o这是激活默认武器攻击的近战双持技巧。
+
+tagSkillName008=旋风{^K} 「战斗专精」^-
+tagSkillDescription008=^b[武器池技能] [范围]^n^o[双持] [近战]^n^n^w使用旋转斩攻击周围多个敌人的战斗技巧。^o这是激活默认武器攻击的近战双持技巧。
+
+tagWardanceNAME=无情猛攻{^K} 「战斗专精」^-
+tagWardanceDESC=^b[修饰符]^n^n^w武器训练的巅峰，你的武器技巧变得更致命。^o这是一个技能修饰符，仅适用于^y旋风^o、^y横斩^o和^y劈砍^o，需要先解锁。
+
+tagSkillName017=武器训练{^K} 「战斗专精」^-
+tagSkillDescription017=^b[被动]^n^n^w多年的战斗训练让你攻击更快，对敌人的攻击反应更敏捷。
+
+tagSkillName014=战风{^K} 「战斗专精」^-
+tagSkillDescription014=^b[引导] [攻击] [范围]^n^o[近战]^n^n^w执行一次毁灭性的旋转攻击，可伤害多个敌人。每次命中初期威力低于普通攻击，但随等级增加。^o需要近战武器。^o这是一个引导技能，需要持续施放。100%攻击速度下，每0.16秒造成伤害并消耗能量。
+
+tagSkillName015=割裂{^K} 「战斗专精」^-
+tagSkillDescription015=^b[修饰符]^n^n^w为战风增加出血伤害，并暂时降低敌人的防御。
+
+tagWarwindBNAME=战意{^K} 「战斗专精」^-
+tagWarwindBDESC=^b[转化器]^n^o[双手近战]^n^n^w武器越大，战风越强。^o需要双手近战武器。
+
+tagSkillName002=战意狂怒{^K} 「战斗专精」^-
+tagSkillDescription002=^b[增益] [持续]^n^o[受击触发]^n^n^w每次命中敌人有几率触发战意狂怒，在短时间内增加攻击伤害和进攻能力。
+
+tagSkillName003=重击{^K} 「战斗专精」^-
+tagSkillDescription003=^b[修饰符]^n^n^w在战意狂怒状态下，攻击有几率造成额外伤害。
+
+tagSkillName016=战争号角{^K} 「战斗专精」^-
+tagSkillDescription016=^b[法术] [范围]^n^n^w你战争号角的凯歌使敌人暂时眩晕。
+
+tagSkillName138=末日号角{^K} 「战斗专精」^-
+tagSkillDescription138=^b[修饰符]^n^n^w你的战争号角宣告敌人的末日，震撼他们的神经，减少他们的防御能力。
+
+tagShrillHornNAME=刺耳号角{^K} 「战斗专精」^-
+tagShrillHornDESC=^b[转化器]^n^n^w迅速吹响战号，产生一个不会令人眩晕但会导致耳朵更加剧烈流血的声音。
+
+tagSkillName192=闪避攻击{^K} 「战斗专精」^-
+tagSkillDescription192=^b[增益] [持续] [生命阈值]^n^n^w即使是最坚固的盔甲也有其弱点。保持生命的最佳方式是避免被击中。
+
+tagSkillName174=战斗旗帜{^K} 「战斗专精」^-
+tagSkillDescription174=^b[范围] [增益]^n^n^w扔下强大的战旗，激励周围盟友的心志。
+
+tagGloryNAME=荣耀{^K} 「战斗专精」^-
+tagGloryDESC=^b[修饰符]^n^n^w你的旗帜为你和你的盟友赢得更大的声誉，激励你们在战斗中发挥近乎传奇的壮举。
+
+tagSkillName139=祖先号角{^K} 「战斗专精」^-
+tagSkillDescription139=^b[玩家加成宠物] [近战]^n^n^w这件古老的传家宝发出的神秘号角召唤古老的幽灵英雄，从极乐世界归来，再次战斗。^o 祖先随玩家的伤害加成提升。
+
+tagMonsterName1326=祖先战士
+tagPetSkillName002=祖先攻击
+tagSkillName179=凯旋
+tagSkillDescription179=^b[宠物光环] [减益]^n^n^w看着你凯旋的必然，敌人失去希望，防御效果大幅降低。
+
+x3tagSkillWarfareLineSlam=泰坦重击{^K} 「战斗专精」^-
+x3tagSkillWarfareLineSlamDesc=^b[法术] [波动]^n^o[近战] [法杖]^n^n^w以巨大力量击中直线上的所有敌人，打乱他们的瞄准和施法。
+
+tagSkillName004=不必要的暴力{^K} 「战斗专精」^-
+tagSkillDescription004=^b[修饰符]^n^n^w大地因暴力的冲击而震动，受到波及的敌人将遭受额外伤害并开始大量出血。
+
+tagVigorNAME=血与肠{^K} 「战斗专精」^-
+tagVigorDESC=^b[次要修饰符] [范围]^n^o[击杀时]^n^n^w被泰坦重击击杀的敌人爆炸，喷出一片血肉，对附近敌人造成伤害。
+
+tagBattleRageBNAME=双重重击{^K} 「战斗专精」^-
+tagBattleRageBDESC=^b[转化器]^n^o[双持]^n^n^w双持近战武器时，泰坦重击的施放时间缩短，每把武器的伤害会被加入攻击中。
+
+tagWarleapNAME=英雄跃步{^K} 「战斗专精」^-
+tagWarleapDESC=^b[法术] [移动]^n^n^w战士面对死亡与恐惧，毫不退缩。事实上，给予机会，一位伟大的战士会以强大的跃步冲入战斗。
+
+tagSkillName011=奥林匹克力量{^K} 「战斗专精」^-
+tagSkillDescription011=^b[修饰符]^n^n^w利用奥林匹克的肌肉，你可以跃得更远，并且你的跃击会造成更多伤害。//攻击敌人的双腿会减少敌人的奔跑能力，并使其在短时间内变得更加脆弱。
+
+tagEnyoLustNAME=厄女神的血怒{^K} 「战斗专精」^-
+tagEnyoLustDESC=^b[专属] [增益]^n^n^w厄女神的精神通过你流动。随着她的血怒充盈你，你便成为了一件战争武器，以她的名义进行无情屠戮，表现出惊人的暴虐行为。
+
+tagFuryOfAresNAME=阿瑞斯的愤怒{^K} 「战斗专精」^-
+tagFuryOfAresDESC=^b[专属] [增益]^n^n^w阿瑞斯的精神通过你流动。随着他的怒火充盈你，你变成了一台无法阻挡的战争机器。^o这是一个近战双持技能，必须切换激活以维持其效果。
+
+# 自然技能
+tagSkillName065=自然精通
+tagSkillDescription065=赋予你内在的和谐与耐性，使你能够学习野生生物的语言，并掌握大自然的隐藏力量。
+
+tagSkillName068=避难所{^K} 「自然精通」^-
+tagSkillDescription068=^b[玩家加成宠物] [静止] [范围] [增益]^n^n^w在你附近生长出一片保护性荆棘，散发出一种恢复气息，能够恢复周围生物的生命，并减少所受的伤害。^o荆棘守护随着玩家的伤害加成提升。
+
+tagSkillName190=刺痛荨麻{^K} 「自然精通」^-
+tagSkillDescription190=^b[宠物光环] [减益]^n^n^w在荆棘附近创造一片毒区，刺痛那些接近的敌人。
+
+tagMonsterName216=荆棘守护{^K} 「自然精通」^-
+tagSkillDescription069=避难所恢复范围内所有生物的生命，提高他们的抗性和再生能力。
+
+tagSkillName141=瘟疫{^K} 「自然精通」^-
+tagSkillDescription141=^b[法术] [传染性] [减益]^n^n^w瘟疫让附近敌人染上致命的病症，造成毒素伤害并迅速蔓延至其他周围生物。
+
+tagSkillName186=疲劳{^K} 「自然精通」^-
+tagSkillDescription186=^b[修饰符] [减益]^n^n^w吸取生病敌人的力量，使他们的行动变得更缓慢，战斗效率降低。
+
+tagSkillName187=易感{^K} 「自然精通」^-
+tagSkillDescription187=^b[修饰符] [减益]^n^n^w削弱受影响敌人的体质，使他们对生命、元素和毒素伤害更加脆弱。
+
+tagPlagueBNAME=奥术诅咒{^K} 「自然精通」^-
+tagPlagueBDESC=将瘟疫转化为一种元素魔法类的疾病。它不再中毒，而是让受害者被各种奥术魔法纠缠，同时灼烧、冰冻并电击他们。
+
+tagSkillName159=野性召唤{^K} 「自然精通」^-
+tagSkillDescription159=^b[宠物] [群体] [近战] [挑衅]^n^n^w召唤一只雄狼与你并肩作战。^o 狼类随宠物加成提升。
+
+tagMonsterName350=雄狼//野狼
+tagSkillName071=生存本能{^K} 「自然精通」^-
+tagSkillDescription071=^b[宠物增益] [持续] [生命阈值]^n^n^w当生命值低时，触发生存本能，激发强烈的生存意志。
+
+tagSkillName177=猛击{^K} 「自然精通」^-
+tagSkillDescription177=一种咬击攻击，撕裂敌人的肉体，造成短时间的流血伤害。
+
+tagPackDogsNAME=敏锐感知{^K} 「自然精通」^-
+tagPackDogsDESC=^b[宠物光环] [减益]^n^n^w狼类具有敏锐的嗅觉和听觉，通过这些原始的感知，召唤出的狼能够洞察敌人的弱点并将其击溃。
+
+tagSkillName191=狼群之力{^K} 「自然精通」^-
+tagSkillDescription191=^b[宠物增益] [范围]^n^n^w你狼群的嚎叫激励着听到的盟友，使他们战斗得更加猛烈。^o 这一效果也会作用于附近的盟友。
+
+tagWolfBSkillNAME=雄狼{^K} 「自然精通」^-
+tagWolfBSkillDESC=与其召唤一群狼，不如召唤一只雄狼？雄狼能够轻松击败一群普通狼。
+
+tagWolfBNAME=狼群{^K} 「自然精通」^-
+tagWolfBDESC=^b[转化器] [宠物替代]^n^n^w用来召唤较弱的狼群，虽然它们的生命力和力量较低，但你可以召唤更多的狼。
+
+tagDireWolf01=雄狼
+tagWolfNameB=狼伴侣
+
+tagSkillName160=橡树之心{^K} 「自然精通」^-
+tagSkillDescription160=^b[范围] [增益]^n^n^w增强你和周围盟友的生命力。
+
+tagSkillName161=水之宁静{^K} 「自然精通」^-
+tagSkillDescription161=^b[修饰符]^n^n^w增加受到橡树之心光环影响的目标的能量再生和吸收能力。
+
+tagSkillName162=石之永恒{^K} 「自然精通」^-
+tagSkillDescription162=^b[修饰符]^n^n^w赋予石般的坚韧，减少物理和元素攻击造成的伤害。
+
+tagForceofNature=自然之力
+tagForceofNatureNAME=自然之力
+tagForceofNatureDESC=^b[宠物] [近战] [持续]^n^n^w召唤一只巨大而强大的“阿斯卡福斯”与你并肩作战。^o 每次只能召唤一个阿斯卡福斯，阿斯卡福斯的力量随宠物加成提升。
+
+tagRoots=根须
+tagStomp=践踏
+tagAttack=幽灵攻击
+tagTreeSmackNAME=重击
+
+tagFungalBombNAME=真菌群爆{^K} 「自然精通」^-
+tagFungalBombDESC=^b[持续] [法术] [远程] [锥形]^n^n^w在一个地点召唤真菌群落。这群真菌可以喷射到施法者前方的中距离区域。^o这是一个持续技能，必须按住以保持。100%施法速度下，真菌群爆每0.3秒造成伤害并消耗能量。
+
+xtagFungalBombDetonate=真菌爆炸
+tagSporeBombNAME=腐蚀{^K} 「自然精通」^-
+tagSporeBombDESC=^b[修饰符]^n^n^w真菌群的酸性与毒素变得更加强大，轻松溶解盔甲。
+
+tagCorrosionNAME=溃烂孢子{^K} 「自然精通」^-
+tagCorrosionDESC=^b[修饰符]^n^n^w群聚的真菌将受害者覆盖上恶心的水疱，带来极度的不适和痛苦，极大削弱他们的反抗能力。
+
+tagFungalSwarm3NAME=瘟疫{^K} 「自然精通」^-
+tagFungalSwarm3DESC=^b[修饰符]^n^n^w瘟疫喷雾变得更加有毒，造成更多的持续伤害，并在每次伤害间隔中增加额外的固定伤害。
+
+tagFungalBombBNAME=赫卡忒的魔法喷雾{^K} 「自然精通」^-
+tagFungalBombBDESC=腐化遍布各地，甚至忠于得墨忒尔的人也可能被黑暗魔法的诱惑所影响，受到赫卡忒的影响。
+
+tagWildSpiritNAME=木灵{^K} 「自然精通」^-
+tagWildSpiritDESC=^b[范围] [治疗] [增益]^n^n^w从附近的树木召唤出一位古老的精神灵体来帮助你。这个灵体偶尔会治疗附近的盟友，并给附近的敌人施加负担。^o木灵随玩家加成提升。每次只能召唤一位木灵。
+
+tagKodamaDebuffNAME=木灵复仇
+tagKodamaDebuffDESC=木灵的精神增幅生命力和酸性伤害类型。
+
+tagRegrowthBNAME=持续生长
+tagRegrowthBDESC=^b[宠物修饰符]^n^n^w木灵的治疗魔法会持续在空中旋转，复苏附近盟友的身体。
+
+
+tagNatureExclusive2NAME=德墨忒尔的神圣法则{^K} 「自然精通」^-
+tagNatureExclusive2DESC=^b[独占] [增益]^n^n^w德墨忒尔会祝福那些忠诚于她的人。作为一位强大的女神，她的力量甚至超越了宙斯，因为没有她对农业生长的掌控，所有的生命都会灭绝。她所祝福的子民皮肤坚硬如橡木，并且更能利用自然魔法，指挥野生生物。//木灵的光辉辐射周围区域，增加附近盟友的战斗能力，提升攻击能力和伤害。
+
+tagKodamaBuffNAME=赫拉的支配{^K} 「自然精通」^-
+tagKodamaBuffDESC=^b[独占] [增益]^n^n^w赫拉，奥林匹斯诸神的女王，女性和家庭的女神。她常被描绘为宙斯的复仇妻子，虽然她对动物有深厚的感情，并且有许多被她视为神圣的动物，尤其是孔雀。借用她的支配权，虽然会激怒她，但你能利用她的力量强化你的宠物。
+
+tagNaturePassiveNAME=林间精通{^K} 「自然精通」^-
+tagNaturePassiveDESC=^b[宠物修饰符]^n^n^w一个熟练的自然召唤者与自然融为一体，从而增强那些愿意协助他们的自然生物。^o这个修饰符只应用于^g野性召唤^o、^g林间精灵^o和^g荆棘精灵^o，解锁后可用。
+
+tagSkillName158=林间精灵{^K} 「自然精通」^-
+tagSkillDescription158=^b[宠物] [远程] [多重投射]^n^n^w召唤一位强大的树精，她能用魔法弓箭击倒敌人。^o每次只能召唤一位林间精灵，林间精灵的力量随宠物加成提升。
+
+tagNymphANAME=林间精灵
+tagSkillName227=弓箭攻击
+tagSkillName189=大自然的愤怒
+tagSkillDescription189=^b[宠物技能] [投射物] [链式]^n^n^w林间精灵射出一支注入魔法的箭矢，箭矢击中目标后会追踪附近的敌人。击中点附近的敌人将受到元素魔法和毒素的伤害。//让林间精灵的攻击带上元素之力。
+
+tagNymphBNAME=梅丽亚德{^K} 「自然精通」^-
+tagNymphBDESC=^b[转化器] [宠物替代]^n^n^w你召唤出的是一位灰木精，而非树精。梅丽亚德被赋予了黑暗的冥界魔法，通常被视为“堕落”的精灵。//精灵对其所接触的魔法极为敏感，黑暗能量如混沌和吸血会导致精灵变得堕落，改变它们的外形与魔法。因此，林间精灵被转化为堕落精灵，其魔法由元素转变为生命力。
+
+tagNymphCNAME=梅丽亚德
+tagNymphDNAME=花精
+tagNymphENAME=云精
+
+tagThornSpritesNAME=荆棘精灵{^K} 「自然精通」^-
+tagThornSpritesDESC=^b[宠物] [群体] [远程]^n^n^w让漫游者从虚界召唤出一群顽皮的荆棘精灵。虽然它们造成的伤害较少，但精灵的刺痛能够分散敌人的注意力，它们的毒液会导致敌人产生迷乱甚至昏迷。^o荆棘精灵的力量随宠物加成提升。
+
+tagThornSprite=荆棘精灵
+tagThornSpriteB=荆棘小鬼
+tagThornSpriteC=冰霜精灵
+tagThornSpriteD=冰霜小鬼
+tagThornSpriteE=血液精灵
+tagThornSpriteF=血液小鬼
+tagThornSpriteG=混沌精灵
+tagThornSpriteH=混沌小鬼
+
+tagSpriteStats2=酸液爆发
+tagFabricalDischargeNAME=荆棘雨{^K} 「自然精通」^-
+tagFabricalDischargeDESC=^b[宠物技能] [多重投射]^n^n^w荆棘精灵向目标处发射一阵荆棘雨，给被击中的敌人造成大量毒素伤害。
+
+tagVenom=荆棘射击
+tagPoof=死亡云雾
+tagSpriteBNAME=荆棘小鬼
+tagSpriteBDESC=^b[转化器] [近战] [宠物替代]^n^n^w使你能够召唤不同的虚界精灵，主要是荆棘小鬼。它们用集中的魔法攻击附近的敌人，并且在返回虚界时会留下一个魔法池，造成池中敌人持续伤害。
+
+tagNymphPierceSkillNAME=穿刺
+tagSkillName072=再生{^K} 「自然精通」^-
+tagSkillDescription072=一波治疗能量迅速恢复目标盟友的生命。
+
+tagSkillName073=传播{^K} 「自然精通」^-
+tagSkillDescription073=让再生能量从初始目标扩散并跳跃至其他附近盟友。
+
+tagSkillName075=加速生长{^K} 「自然精通」^-
+tagSkillDescription075=为木灵提供一个自我增益，提升其能量再生速度，使木灵能够更频繁地施放再生。同时，当再生施放时，木灵会发出一个生命再生光环，持续一段时间。
+
+tagSkillName188=过度生长{^K} 「自然精通」^-
+tagSkillDescription188=^b[增益] [持续]^n^o[受击时]^n^n^w创造一个保护性的生命盾牌，吸收伤害并对攻击者造成伤害。
+
+tagSkillName074=刷新{^K} 「自然精通」^-
+tagSkillDescription074=减少技能冷却时间，让你可以更频繁地使用它们。
+
+#盗贼
+
+tagSkillName050=盗贼精通
+tagSkillDescription050=提供必要的体能训练和秘密知识，使你能成为一名盗贼。
+
+tagSkillName053=刀刃磨砺{^K} 「盗贼精通」^-
+tagSkillDescription053=^b[被动]^n^o[剑][匕首][长矛][远程]^n^n^w确保你的武器和智慧始终保持锋利。^o需要一把带刃的近战武器或任何远程武器。//确保你的武器始终保持锋利并造成增加的穿刺伤害。
+
+tagSkillName054=精确打击{^K} 「盗贼精通」^-
+tagSkillDescription054=^b[攻击替换]^n^n^w用它替代普通攻击，每第三次击打都会造成更高的伤害。^o当作为默认武器攻击使用时，精确打击会增强每第三次单次武器攻击的威力。
+
+tagSkillName142=幸运一击{^K} 「盗贼精通」^-
+tagSkillDescription142=^b[修饰符]^n^n^w不常见的好运为你提供一个机会，使得精确打击能够穿透敌人的盔甲并造成巨大伤害。
+
+tagSkillName056=杀手本能{^K} 「盗贼精通」^-
+tagSkillDescription056=^b[修饰符] [穿透] [范围]^n^n^w完美的攻击角度使得多个敌人被穿透并留下重伤流血。//^b[第二修饰符] [增益]^n^n^w每当精确打击命中时，激发盗贼的杀戮本能，推动他们更加猛烈地战斗以完成任务。^o杀手本能影响所有攻击。
+
+tagCacluclatedStrikeBNAME=痛苦{^K} 「盗贼精通」^-
+tagCacluclatedStrikeBDESC=^b[转化器]^n^n^w神秘主义不仅仅是魔法艺术，在某些情况下，它还可以成为一种战斗技艺，尤其是在使用神秘的魔法时。
+
+tagCausticAcidNAME=阿卡尼的毒刺{^K} 「盗贼精通」^-
+tagCausticAcidDESC=^b[武器池技能] [范围]^n^n^w盗贼总是能找到方法创新并提升他们的秘密技艺，这项技艺使得盗贼在释放攻击时能够提取致命的蜘蛛毒液。^o可以与所有默认武器攻击激活。//此外，通过巧妙的手法，旋转的回旋刃会被释放，进一步增加混乱。
+
+tagDarkVaporNAME=皮托之咬{^K} 「盗贼精通」^-
+tagDarkVaporDESC=^b[武器池技能] [范围]^n^n^w一种黑暗咒语准备的诡异技艺，将神秘学与战斗技巧结合，你的攻击会让敌人腐烂和腐化。^o可以与所有默认武器攻击激活。//作为盗贼愤怒的最终步骤，将神秘学融入暗杀技巧，创造完美的致命武器。通过执行一个邪恶的咒语，在攻击敌人时，伤口会变得诅咒，接触后腐烂并冒泡。
+
+tagSkillName057=毒化{^K} 「盗贼精通」^-
+tagSkillDescription057=^b[范围] [增益]^n^n^w在激活时，将你的武器涂上致命的毒素。
+
+tagSkillName062=免疫{^K} 「盗贼精通」^-
+tagSkillDescription062=^b[修饰符]^n^n^w多次接触死亡魔法后，盗贼变得对其致命效果更加抗性。//从致命的夜影植物中提取的油使你的毒化武器能减缓敌人。
+
+tagSkillName055=炼金刺激剂{^K} 「盗贼精通」^-
+tagSkillDescription055=^b[修饰符]^n^n^w运用你的炼金术知识，你制造了一种能够提升你的速度和持续作战能力的药剂。
+
+tagOcculticVenomNAME=神秘毒液{^K} 「盗贼精通」^-
+tagOcculticVenomDESC=^b[转化器]^n^n^w通过利用邪恶法师创造的毒液，盗贼可以改变他们的毒药，制造出一种恶毒的毒药，即便是最好的解毒药也无法治愈。
+
+tagSliceDiceNAME=科里班特斯的优雅{^K} 「盗贼精通」^-
+tagSliceDiceDESC=^b[治疗] [持续] [增益]^n^n^w科里班特斯是被崇敬的战士和舞者，他们的动作优雅至极。掌握这种流畅的动作技巧对盗贼来说非常重要，尽管非常难学，但一旦掌握将极为珍贵。
+
+tagShadowshroudBNAME=影之披风{^K} 「盗贼精通」^-
+tagShadowshroudBDESC=^b[转化器]^n^o[双持]^n^n^w盗贼是欺骗的高手，善于利用任何有利的局面。借助魔法，隐入阴影使自己在战斗中更容易保护自己。
+
+tagSkillName058=闪光粉{^K} 「盗贼精通」^-
+tagSkillDescription058=^b[减益] [投射物] [持续]^n^n^w一种魔术技巧被用于更恶劣的目的，闪光粉能够使邻近的敌人目眩，使他们的攻击难以命中。
+
+tagLethalStrikeNAME=致命打击{^K} 「盗贼精通」^-
+tagLethalStrikeDESC=^b[攻击] [范围]^n^n^w熟练的盗贼明白战斗中最重要的方面是理解敌人，并掌握完美的时机。这个毁灭性技巧释放出一记致命的一击，放大普通武器攻击的伤害。
+
+tagSkillName197=致命伤{^K} 「盗贼精通」^-
+tagSkillDescription197=^b[修饰符]^n^n^w大大增强致命打击的伤害，并给目标造成一个严重的伤口，使目标出现严重出血。
+
+tagSkillName143=虚空打击{^K} 「盗贼精通」^-
+tagSkillDescription143=^b[转化器]^n^n^w虚空魔法脉动进入你的武器，使其被黑暗能量充能，并将穿刺伤害转化为活力伤害。
+
+tagSkillName052=投掷匕首{^K} 「盗贼精通」^-
+tagSkillDescription052=^b[多重投射物] [穿透] [魔法]^n^n^w投掷一把穿透敌人的匕首，能造成长时间的流血伤害。
+
+tagFlickWristNAME=手腕一弹{^K} 「盗贼精通」^-
+tagFlickWristDESC=^b[修饰符]^n^n^w通过巧妙的手法，盗贼能为投掷匕首添加额外的魔力，使其飞行更快等。
+
+tagDeadlyGuileNAME=致命诡计{^K} 「盗贼精通」^-
+tagDeadlyGuileDESC=^b[修饰符]^n^n^w以卓越的技巧，盗贼能以极高的速度投掷匕首，并精确瞄准位置以增加伤害。
+
+tagThrowingKnifeBNAME=终结一击{^K} 「盗贼精通」^-
+tagThrowingKnifeBDESC=^b[转化器]^n^n^w有些盗贼不愿浪费力量投掷华丽的匕首，而是选择用每一把匕首狠狠地停住敌人的脚步，并最大化每次投掷的效果。这样会造成更为灾难性的伤害，但也会消耗更多的法力。
+
+tagSkillName194=毒气炸弹{^K} 「盗贼精通」^-
+tagSkillDescription194=^b[手雷] [分裂] [范围] [魔法]^n^n^w投掷一颗炸弹，爆炸后释放出有毒气体，造成伤害并削弱敌人的攻击。
+
+tagSkillName195=弹片{^K} 「盗贼精通」^-
+tagSkillDescription195=^b[修饰符]^n^n^w毒气炸弹内部装满了易燃液体和金属碎片，炸弹爆炸时会剧烈爆炸，炸弹碎片会散布四周，对敌人造成穿刺伤害。
+
+tagDarkArtsNAME=毒气乱舞{^K} 「盗贼精通」^-
+tagDarkArtsDESC=^b[修饰符]^n^n^w使毒气炸弹不仅能在物理和精神上削弱敌人，而且增加其伤害。
+
+tagAphoticIchorNAME=幽冥之汁{^K} 「盗贼精通」^-
+tagAphoticIchorDESC=^b[转化器]^n^n^w利用恶臭物质制造毒气炸弹，使其中的毒素更为邪恶，撕裂敌人的灵魂，而不仅仅是身体。//在混合物中加入黑暗碎片，这些碎片爆炸时会释放有毒气体，降低敌人。
+
+tagSkillName083=布置陷阱{^K} 「盗贼精通」^-
+tagSkillDescription083=^b[玩家加成宠物] [固定] [远程]^n^n^w放置一个机械捕兽夹，当敌人靠近时，夹子会触发并迅速发射致命的箭矢。^o 陷阱的威力与玩家的伤害加成相关。
+
+tagTrap01=弩箭陷阱
+
+tagSkillName082=改进射击机制{^K} 「盗贼精通」^-
+tagSkillDescription082=对弩箭陷阱的改进增加了每轮发射的箭矢数量。
+
+tagSkillName087=快速建造{^K} 「盗贼精通」^-
+tagSkillDescription087=精通制作陷阱的技术可以减少在设置一个陷阱后再次建造新陷阱所需的时间。
+
+tagPiercingBoltsNAME=穿刺箭矢{^K} 「盗贼精通」^-
+tagPiercingBoltsDESC=^b[宠物修饰符] [穿透]^n^n^w盗贼使用了更强力的弩箭陷阱，改进的箭矢可以穿透敌人并造成更大的伤害。
+
+tagPiercingBoltsBNAME=爆炸炸弹{^K} 「盗贼精通」^-
+tagPiercingBoltsBDESC=^b[宠物修饰符]^n^n^w盗贼使用了更强力的弩箭陷阱，改进的炸弹在爆炸时能够造成更大范围的伤害。
+
+tagBoltTrapBNAME=毒箭陷阱{^K} 「盗贼精通」^-
+tagBoltTrapBDESC=^b[转化器] [宠物替换]^n^n^w经过改装的陷阱，能发射数十颗毒性炸弹，而不是普通箭矢。穿刺和流血伤害被酸性和毒素伤害取代。//通过将弩箭陷阱的攻击力分散，盗贼制造了一种具有不同目的的装置，而不是集中火力准确打击一个位置，而是向一个区域喷射较弱的攻击。
+
+tagRapidFireNAME=改进射击机制{^K} 「盗贼精通」^-
+tagRapidFireDESC=^b[宠物修饰符]^n^n^w通过更换一些齿轮和改进发射部件，盗贼制造了一台可以发射更锐利箭矢的机械。
+
+tagRapidFireBNAME=改进射击机制{^K} 「盗贼精通」^-
+tagRapidFireBDESC=^b[宠物修饰符]^n^n^w通过更换一些齿轮和改进发射部件，盗贼制造了一台可以发射更多毒性炸弹的机械。
+
+tagRogueEx1NAME=赫尔墨斯的狡诈{^K} 「盗贼精通」^-
+tagRogueEx1DESC=^b[专属] [增益]^n^n^w赫尔墨斯的名字久已消逝，他是古代伟大的诡计大师。你成为了狡诈和技巧的化身。
+
+tagRogueEx2NAME=赫卡忒的巫术{^K} 「盗贼精通」^-
+tagRogueEx2DESC=^b[专属] [增益]^n^n^w赫卡忒的名字久已消逝，她是巫术、魔法与植物之神。一个精通赫卡忒知识的弟子能学习赫卡忒所传授的技艺，成为更强大的法师。
+
+
+tagRogueOccultSummonNAME=召唤埃皮亚洛斯
+tagRogueOccultSummonDESC=^b[玩家加成宠物] [远程]^n^n^w利用只有盗贼法师才能掌握的黑暗魔法，你使用被遗弃的神秘术法召唤来自冥界的恶魔来协助你。它用弯钩般的触手攻击敌人，并喷吐出其肚中的内容物。^o埃皮亚洛斯的伤害与玩家的伤害加成挂钩。
+
+tagEpialosTracker=当前召唤的埃皮亚洛斯数量
+
+tagRogueOccultCreatureNAME=埃皮亚洛斯
+tagEpialosSpitSkillNAME=生命之颅
+tagEpialosSpitSkillBNAME=毒液之颅
+
+tagIrregularityAuraNAME=折磨{^K} 「盗贼精通」^-
+tagIrregularityAuraDESC=^b[宠物修饰符] [减益]^n^n^w“埃皮亚洛斯的颅骨喷吐技能得到强化，现造成额外的持续伤害，并削弱被射中的敌人或站在它所制造的毒池中的敌人的抗性。”
+
+tagIrregularityPowerNAME=梅拉斯·欧尼罗斯{^K} 「盗贼精通」^-
+tagIrregularityPowerDESC=^b[宠物技能] [减益]^n^n^w“黑梦”，这是许多涉及恶魔炼金术的法师所称呼你召唤出来的生物的名字。原因很简单，它是活生生的噩梦，以接触到的人的思想和梦境为食。任何它认为是“食物”的生物会立刻后悔与埃皮亚洛斯相遇。
+
+tagRogueOccultPetAttackNAME=剥皮触手
+
+tagEpialosCNAME=沼泽恶魔{^K} 「盗贼精通」^-
+tagEpialosCDESC=^b[转化器] [宠物替换]^n^n^w你并非召唤来自黑暗的恶魔，而是召唤一种完全不同的物种。你召唤出的埃皮亚洛斯是一种毒性类型的恶魔，而非幽暗类型，因此它的伤害类型也发生了变化。
+
+# 大地技能
+tagSkillName098=大地精通
+tagSkillDescription098=训练你的思维和精神，掌握古老的技艺，能够从大地中汲取力量并掌控岩石与火焰。
+
+tagSkillName105=大地附魔{^K} 「大地精通」^-
+tagSkillDescription105=^b[范围] [增益]^n^n^w赋予你和附近盟友的武器岩石与火焰的力量。
+
+tagSkillName100=石肤{^K} 「大地精通」^-
+tagSkillDescription100=^b[修饰符]^n^n^w在大地附魔的作用下，强化你的护甲，增加保护力和火焰抗性。
+
+tagHephaNAME=赫淮斯托斯之砧{^K} 「大地精通」^-
+tagHephaDESC=^b[修饰符]^n^n^w大地法师通常会忠于赫淮斯托斯，因此他们掌握了使用应该超出他们能力范围的盔甲和武器的技巧，同时增强了他们的速度和抗性，无论他们装备了什么。
+
+tagTartarusFlameNAME=普罗米修斯的礼物{^K} 「大地精通」^-
+tagTartarusFlameDESC=^b[转化器]^n^n^w将你和你的宠物的部分物理伤害转化为火焰伤害。
+
+tagSkillName114=火山之球{^K} 「大地精通」^-
+tagSkillDescription114=^b[范围] [手雷] [分裂] [魔法]^n^n^w投掷一个燃烧的火焰地狱球，爆炸时会剧烈爆炸，释放出岩石碎片，对小范围内的敌人造成火焰和物理伤害。
+
+tagSkillName101=大火焰{^K} 「大地精通」^-
+tagSkillDescription101=^b[修饰符] [范围]^n^n^w火山之球在爆炸时引发炽热的火焰，使被击中的敌人起火并遭受燃烧伤害。
+
+tagSkillName106=碎裂{^K} 「大地精通」^-
+tagSkillDescription106=^b[修饰符]^n^n^w增强火山之球碎片爆炸的爆炸范围和威力。
+
+tagVolcanicOrbBNAME=熵{^K} 「大地精通」^-
+tagVolcanicOrbBDESC=^b[转化器] [穿透]^n^n^w被污染的能量使火焰球变成一颗缓慢移动的熵球，沿直线前进，穿透目标，而不是在一个大范围内爆炸。
+
+tagAttunementNAME=焚烧{^K} 「大地精通」^-
+tagAttunementDESC=^b[武器池技能]^n^n^w点燃敌人，使他们如同干草般化为灰烬。^o可以通过所有默认武器攻击激活。//与大地同步，使你获得增加的能量恢复速度，并可以吸收魔法来为自己提供能量。
+
+tagSkillName104=深渊狂暴{^K} 「大地精通」^-
+tagSkillDescription104=^b[武器池技能] [波动]^n^n^w利用你体内的混沌能量，对附近敌人发动猛烈的攻击。^o可以通过所有默认武器攻击激活。//大地法师有时能借用来自冥界的力量，将火焰和火灾转化为更加混沌的形式。
+
+tagSkillName112=召唤核心守护者{^K} 「大地精通」^-
+tagSkillDescription112=^b[宠物] [近战] [嘲讽]^n^n^w从大地的炽热深处召唤出一位强大的元素守护者。^o每次只能召唤一个核心守护者。核心守护者的能力随着宠物加成而提升。
+
+tagMonsterName1197=核心守护者
+
+tagPetSkillName001=核心守护者攻击
+
+tagSkillName154=挑衅{^K} 「大地精通」^-
+tagSkillDescription154=挑衅敌人，吸引敌人的注意力，保护队友。
+
+tagSkillName108=内在火焰 I{^K} 「大地精通」^-
+tagSkillDescription108=增加核心守护者的速度，并为其攻击添加火焰伤害。
+
+tagSkillName153=内在火焰II{^K} 「大地精通」^-
+tagSkillDescription153=核心守护者从地面撕下石块并将其投掷到目标区域，造成巨大的物理和火焰伤害。//增加核心守护者的速度并为其攻击添加火焰伤害。
+
+tagSkillName115=内在火焰III{^K} 「大地精通」^-
+tagSkillDescription115=^b[宠物技能] [新星] [范围]^n^n^w从核心守护者体内释放出极高的热量，形成一个焚烧区域，周围的敌人都会被灼烧。
+
+tagSkillName099=变形{^K} 「大地精通」^-
+tagSkillDescription099=^b[宠物修饰符]^n^n^w在极度的热量和压力下，核心守护者的构成变得更加坚硬，使其更能抵抗伤害。
+
+tagBoulder=巨石投掷
+
+tagSkillName109=喷发{^K} 「大地精通」^-
+tagSkillDescription109=^b[魔法] [分裂] [范围] [定时]^n^n^w地面上裂开火山裂缝，喷射出致命的火山喷泉和炽热的岩石碎片。每个碎片造成物理和火焰伤害。
+
+tagMoltenLavaNAME=熔岩{^K} 「大地精通」^-
+tagMoltenLavaDESC=^b[修饰符]^n^n^w使熔岩从裂缝中喷涌而出，造成持续的燃烧伤害并减缓敌人。
+
+tagSkillName110=火焰之环{^K} 「大地精通」^-
+tagSkillDescription110=^b[减益] [光环]^n^n^w在你周围形成一个炙热的火焰光环，任何进入其范围的敌人都会受到灼烧。
+
+tagSkillName182=软化金属{^K} 「大地精通」^-
+tagSkillDescription182=^b[修饰符] [减益]^n^n^w火焰之环中的强烈热量使敌人的盔甲和武器金属变软，降低它们的效能。
+
+tagRingFlameBNAME=混沌烈焰{^K} 「大地精通」^-
+tagRingFlameBDESC=火焰术士的灼热光辉被混沌所污染。附近的敌人将失去混沌抗性。同时，火焰术士的火焰光环会变得更加强烈，消耗更多能量并覆盖更大的范围。
+
+tagSkillName113=火焰冲击{^K} 「大地精通」^-
+tagSkillDescription113=^b[手雷] [多个投射物] [魔法]^n^n^w从施法者的双手喷射出三股火焰，对敌人造成灼烧的火焰伤害。
+
+tagSkillName185=灼热{^K} 「大地精通」^-
+tagSkillDescription185=^b[修饰符] [范围]^n^n^w提高火焰冲击穿透目标的能力，可能使敌人暂时晕眩并造成更多的火焰和燃烧伤害。
+
+tagSkillName103=火焰弓{^K} 「大地精通」^-
+tagSkillDescription103=^b[修饰符] [多个投射物]^n^n^w增加火焰冲击的伤害，并增加火焰喷射的数量。
+
+tagFlameSurgeBNAME=地狱火波
+tagFlameSurgeBDESC=^b[转化器]^n^n^w将火焰冲击转化为混沌魔法，改变其性质。
+
+tagSkillName111=大地甲壳{^K} 「大地精通」^-
+tagSkillDescription111=^b[增益]^n^n^w地元素法师分配一部分魔法来创造一个保护屏障。这个屏障虽然代价很高，但提供了一层坚固的石质外壳，减少所有受到的伤害，并且能够迅速自我修复。
+
+tagSkillName152=牢不可破{^K} 「大地精通」^-
+tagSkillDescription152=^b[修饰符]^n^n^w强化大地甲壳的保护效果，提高其修复速度，并允许你突破那些本应令你停滞不前的效果。
+
+tagSkillName183=波动性{^K} 「大地精通」^-
+tagSkillDescription183=^b[被动]^n^n^w借助大地的剧烈能量，你的火焰攻击有几率造成极大增幅的伤害。
+
+tagSkillName184=热能护盾{^K} 「大地精通」^-
+tagSkillDescription184=^b[增益] [新星]^n^o[受击时]^n^n^w在你周围释放一个保护热能护盾，任何攻击此护盾的敌人都会被灼烧。
+
+tagRupture1=裂解{^K} 「大地精通」^-
+tagRupture2=^b[攻击] [范围]^n^o[双手武器]^n^n^w将玩家的地元素能量连接到武器上，使攻击在击中时爆炸。^o不会触发WPS。需要双手武器。
+
+tagCremate1=焚化{^K} 「大地精通」^-
+tagCremate2=^b[修饰符]^n^n^w裂解变为超高温，造成更多的火焰伤害。
+
+tagFlare1=火焰闪光{^K} 「大地精通」^-
+tagFlare2=^b[次要修饰符] [范围]^n^n^w裂解在击中时会释放火焰闪光，对范围内的敌人造成伤害，比初始攻击范围更广。
+
+tagFlareAutoCast=延迟爆炸
+
+tagRuptureBNAME=火山之力{^K} 「大地精通」^-
+tagRuptureBDESC=当通过双手武器或法杖施放时，裂解会造成毁灭性的伤害。^o需要法杖、双手近战武器或双手远程武器。
+
+tagMeteorNAME=火焰雨{^K} 「大地精通」^-
+tagMeteorDESC=^b[投射物落下] [定时] [魔法] [范围]^n^n^w将星星拉下来，投掷到敌人周围的地面上。//引下一个极具爆炸性的陨石并将其投向目标区域，摧毁所有区域内的敌人。
+
+tagInfernoNAME=陨石撞击{^K} 「大地精通」^-
+tagInfernoDESC=^b[投射物落下] [魔法] [范围]^n^n^w从天而降一个爆炸性陨石，撞击敌人。//在你所在的区域爆炸，造成物理和火焰伤害，导致敌人在攻击时短暂颤抖。
+
+#风暴
+
+tagSkillName018=风暴精通
+tagSkillDescription018=提供精神控制和专注，使你能够超脱尘世纷扰，学习驾驭天气的元素力量。
+
+tagSkillName022=冰晶{^K} 「风暴精通」^-
+tagSkillDescription022=^b[投射物落下] [魔法]^n^n^w投射一颗致命的冰晶，造成冰霜伤害。
+
+tagSkillName023=速度{^K} 「风暴精通」^-
+tagSkillDescription023=^b[修饰符]^n^n^w增加冰晶的伤害，使每颗冰晶有机会穿透目标并继续前进。
+
+tagSkillName024=激流{^K} 「风暴精通」^-
+tagSkillDescription024=^b[多个投射物] [修饰符]^n^n^w发射的冰晶变得更致命，造成更高的伤害并影响击中区域的小范围敌人。
+
+tagIceShardBName=冻结冰晶{^K} 「风暴精通」^-
+tagIceShardBDESC=^b[转化器]^n^n^w释放的冰块变得更冷，击中敌人时会将其冻结并造成更多伤害，但冷却时间也有所增加。
+
+tagSkillName019=冰霜护甲//风暴之潮{^K} 「风暴精通」^-
+tagSkillDescription019=冰层包围风暴法师，保护法师免受某些攻击，前提是正在施放寒潮技能。
+
+tagColdSnapNAME=风暴之潮{^K} 「风暴精通」^-
+tagColdSnapDESC=^b[增益] [新星]^n^o[受击时]^n^n^w激活时，每个被击中的敌人有机会释放出猛烈的暴风雪，对周围的敌人造成瞬时冻结效果。
+
+tagSkillName020=震撼暴风{^K} 「风暴精通」^-
+tagSkillDescription020=^b[次要修饰符] [链式反应]^n^n^w受到风暴之潮影响的敌人将触发连锁反应，电击远处的敌人。每次击中目标都会为你回复生命。
+
+tagSkillName025=闪电链{^K} 「风暴精通」^-
+tagSkillDescription025=^b[魔法] [范围]^n^n^w召唤一道强大的闪电击中目标，造成大量伤害。^o直接击中目标时，造成双倍伤害。
+
+tagSkillName026=雷球{^K} 「风暴精通」^-
+tagSkillDescription026=^b[魔法] [分裂] [范围]^n^n^w投掷一个缓慢移动的雷电球，在小范围内对敌人造成伤害。
+
+tagSkillName021=震荡爆炸{^K} 「风暴精通」^-
+tagSkillDescription021=^b[修饰符]^n^n^w增强雷球的威力，增加眩晕几率并提升造成的伤害。
+
+tagChainLightning3NAME=雷霆扫荡{^K} 「风暴精通」^-
+tagChainLightning3DESC=^b[修饰符] [范围]^n^n^w使雷球及其碎片扩展影响范围，并造成额外的伤害。
+
+tagSparkNAME=雷霆炸弹{^K} 「风暴精通」^-
+tagSparkDESC=^b[转化器]^n^n^w雷球变得更加爆炸性，造成更大范围的伤害，并产生更强的效果。
+
+tagSkillName027=宙斯之怒{^K} 「风暴精通」^-
+tagSkillDescription027=^b[专属] [增益]^n^n^w一些风暴召唤者声称自己是宙斯的后裔。作为力量的象征，他们通过释放纯粹的风暴能量光环，赋予周围盟友一部分他们的力量。
+
+tagIceSongNAME=哈迪斯遗产{^K} 「风暴精通」^-
+tagIceSongDESC=^b[专属] [增益]^n^n^w利用冥界的精华，一些风暴召唤者使用禁忌技法唤醒冥界的灵魂来增强他们的魔法和周围人的魔法。这样做的副作用是，风暴魔法会被扭曲，接近死灵法术的层面。
+
+tagSkillName151=暴风{^K} 「风暴精通」^-
+tagSkillDescription151=^b[魔法] [范围] [减益]^n^n^w在目标区域制造一场风暴，减缓并伤害其中的敌人。
+
+tagSkillName204=冰霜旋风{^K} 「风暴精通」^-
+tagSkillDescription204=^b[修饰符] [减益]^n^n^w风暴揭示了被困敌人的弱点，使他们更容易受到某些类型伤害的影响。//将冰霜法术轰向敌人，击中后爆炸，并使周围的敌人减速并更易受到特定伤害类型的影响。//将敌人包裹在冰霜中，冻结他们并使他们更容易受到某些类型伤害的影响。
+
+tagSkillName180=能量护盾{^K} 「风暴精通」^-
+tagSkillDescription180=^b[增益] [定时] [生命值阈值]^n^n^w一层能量护盾保护施法者免受攻击，并增强其元素防御力。
+
+tagFrozenBlastNAME=冬季之风{^K} 「风暴精通」^-
+tagFrozenBlastDESC=^b[引导] [近战] [攻击] [范围]^n^n^w著名的风暴召唤者技能，冬季之风让他们能够吸收下方的空气并创造一个旋涡。此旋涡可以被控制，并随施法者移动，直到施法者保持专注。^o需要近战武器或法杖。在100%攻击速度下，冬季之风每0.16秒造成伤害并消耗能量。
+
+tagFrozenBlast2NAME=低温症{^K} 「风暴精通」^-
+tagFrozenBlast2DESC=^b[次要修饰符] [范围]^n^n^w冬季之风将敌人冰冻至骨，并有机会将其冻住。
+
+tagFrozenBlastBNAME=强力爆发{^K} 「风暴精通」^-
+tagFrozenBlastBDESC=^b[转化器]^n^o[双手近战] [法杖]^n^n^w当使用法杖或强力双手近战武器时，冬季之风的力量和范围将被放大。^o需要双手近战武器或法杖。
+
+tagStormChannelNAME=北风之息{^K} 「风暴精通」^-
+tagStormChannelDESC=^b[引导] [魔法] [远程] [锥形]^n^n^w借助北风的力量，风暴召唤者能够从周围环境中引入天气元素，并将它们集中成一个强烈的风暴。^o这是一个需要引导的技能，必须持续按住才能维持。在100%施法速度下，北风之息每0.3秒造成伤害并消耗能量。
+
+tagStrengtheningWindNAME=雷霆台风{^K} 「风暴精通」^-
+tagStrengtheningWindDESC=^b[修饰符]^n^n^w增强风暴的能量，使其造成更多的伤害，并有机会触发雷电伤害。
+
+tagArcticEmanationNAME=极地气息{^K} 「风暴精通」^-
+tagArcticEmanationDESC=^b[修饰符]^n^n^w风暴通道释放出干燥、冰冷的气息，造成寒冷伤害并降低被困敌人的防御力。//施法者能够集中冷系攻击的力量，大幅提高伤害。
+
+tagEnergyShield2NAME=法术震荡{^K} 「风暴精通」^-
+tagEnergyShield2DESC=^b[武器池技能]^n^n^w通过将能量充盈到武器中，能够让武器对敌人造成短暂的禁锢，突破敌人的盔甲并直接冲击其神经系统。^o可以通过所有默认的武器攻击激活。//能量护盾充满能量，屏障本身变得更强，并增强施法者的法力回复。
+
+tagWindArmorNAME=寒潮{^K} 「风暴精通」^-
+tagWindArmorDESC=^b[武器池技能] [范围]^n^n^w通过控制风暴法师的力量，冻结攻击到的敌人。^o可以通过所有默认的武器攻击激活。//通过被动引导风之灵力，增强身体的移动速度并补充能量。
+
+tagLightningBlast3NAME=天空之怒{^K} 「风暴精通」^-
+tagLightningBlast3DESC=^b[被动]^n^n^w经过训练的风暴召唤者成为真正的威胁，他们将精神力量磨砺成一件危险的武器。
+
+tagWindsoftheStorm2NAME=风暴光环{^K} 「风暴精通」^-
+tagWindsoftheStorm2DESC=^b[范围] [增益]^n^n^w当技能激活时，施法者和附近的盟友将被赋予风暴的力量，使攻击带有寒冷和雷电伤害。//将自己和附近盟友赋予古老的魔法，来自被遗忘的生物——风暴鹫，这些生物因能为盟友赋予强大的风暴光环而成为冒险者的噩梦。
+
+tagSkillName029=静电充能{^K} 「风暴精通」^-
+tagSkillDescription029=^b[修饰符]^n^n^w在风暴光环激活时，施法者和附近的盟友将积累电能，使他们的武器对敌人造成电击伤害。此电能还减少减速效果和敌人攻击的效果。
+
+tagHeartofFrostNAME=冰霜之心{^K} 「风暴精通」^-
+tagHeartofFrostDESC=^b[修饰符]^n^n^w当风暴光环激活时，施法者和附近的盟友将被寒气保护，削弱穿透攻击并无效化冻结效果。这层寒气变得极其强大，施法者的攻击也将被冰冷的霜冻力量强化。
+
+tagStormNimbusTRANSNAME=以太光环{^K} 「风暴精通」^-
+tagStormNimbusTRANSDESC=秘法师以掌控以太的纯净能量而著称，而风暴法师与秘法师非常接近，虽然他们更专注于操控自然天气现象来获得优势。通过扭曲风暴的雷电能量为以太能量，魔法变得更像是以太风暴。
+
+tagIceSpriteSkillNAME=冬季精灵{^K} 「风暴精通」^-
+tagIceSpriteSkillDESC=^b[宠物] [近战] [挑衅]^n^n^w允许风暴召唤者召唤一个由基欧尼的意志驱动的冬季精灵。精灵会跟随召唤者直至死亡，每三次攻击造成一次范围伤害。^o精灵的技能根据宠物加成进行强化。
+
+tagIceSpriteSkill1NAME=北风猛击{^K} 「风暴精通」^-
+tagIceSpriteSkill1DESC=^b[宠物技能] [穿透] [投射物] [范围]^n^n^w强大的冬季精灵攻击可以引发冰霜魔法爆炸，对周围的敌人造成寒冷伤害并将其冻结。^o每三次攻击触发一次。
+
+tagIceSpriteSkill2NAME=霜息
+tagIceSpriteAttackNAME=基础攻击伤害
+tagIceSpriteAttack2NAME=劈砍
+
+tagMonsterName037=风暴精灵
+
+tagSkillName219=等离子烧灼{^K} 「风暴精通」^-
+tagSkillDescription219=用元素能量的爆发灼烧敌人。
+
+#梦境
+
+xtagSkillDreamName001=梦境精通
+xtagSkillDreamDescription001=扩展你的意识，从梦境领域中汲取更多的力量，并将你的意志施加于物质现实之上。
+
+xtagSkillDreamName002=心灵触碰{^K} 「梦境精通」^-
+xtagSkillDreamDescription002=^b[攻击] [范围]^n^n^w集中在武器中的心灵能量会在接触敌人时产生一种骨骼粉碎的共鸣。此能量会折射，直到它从目标中爆发，伤害周围的敌人。^o不触发武器技能。
+
+tagDisturbanceNAME=心灵灼烧{^K} 「梦境精通」^-
+tagDisturbanceDESC=^b[修饰符]^n^n^w目标体内的心灵能量被点燃，穿透其物质形态并造成极大的伤害。
+
+tagPsionicTouchBSkillNAME=冥想{^K} 「梦境精通」^-
+tagPsionicTouchBSkillDESC=^b[变换器]^n^n^w将心灵触碰技能的能量扭曲，使其转化为纯粹的梦境能量。
+
+xtagSkillDreamName003=心灵光束{^K} 「梦境精通」^-
+xtagSkillDreamDescription003=^b[引导] [魔法] [远程] [光束]^n^n^w将心灵能量投射到外部，迅速击中区域内的所有敌人。^o这是一个需要引导的技能，必须持续按住才能维持。在100%施法速度下，心灵光束每0.3秒造成伤害并消耗能量。
+
+tagPsionicArteryNAME=心灵汲取{^K} 「梦境精通」^-
+tagPsionicArteryDESC=^b[修饰符]^n^n^w允许施法者与心灵共鸣同步，大大增强心灵灼烧的效果，同时可以从受影响的目标身上汲取生命值。
+
+xtagSkillDreamName004=扭曲波{^K} 「梦境精通」^-
+xtagSkillDreamDescription004=^b[魔法] [波动]^n^n^w释放出一波力量，形成混乱的波动，撕裂现实的结构，并对敌人的身体和精神造成毁灭性的伤害。
+
+xtagSkillDreamName005=混乱共鸣{^K} 「梦境精通」^-
+xtagSkillDreamDescription005=^b[修饰符]^n^n^w增强物理扭曲效应，使其波动混乱，对受到击中的敌人造成混乱伤害。
+
+xtagSkillDreamName018=心灵自焚{^K} 「梦境精通」^-
+xtagSkillDreamDescription018=^b[修饰符]^n^n^w现实扭曲魔法增强，受影响的敌人会随着每一波的冲击而撕裂部分本质。如果敌人在波动到来时措手不及，将会被晕眩。
+
+tagAnomalyNAME=异常
+tagAnomalyDESC=^b[变换器]^n^n^w混乱能量溢出扭曲波，创造出一种异常现象。
+
+tagDistortionWaveBNAME=涟漪
+tagDistortionWaveBDESC=^b[变换器]^n^o[法杖] [副手] [双手]^n^n^w不再引导单一、强力的现实扭曲波，而是释放多个较小的涟漪。^o需要双手武器、法杖或施法者副手。
+
+xtagSkillDreamName006=扭曲领域{^K} 「梦境精通」^-
+xtagSkillDreamDescription006=^b[增益] [定时] [生命阈值]^n^n^w当你的生命开始下降时，心灵力量的领域弯曲了周围的现实结构，减少敌人攻击造成的伤害，并对攻击你的敌人造成反击伤害。
+
+xtagSkillDreamName007=预知{^K} 「梦境精通」^-
+xtagSkillDreamDescription007=^b[被动]^n^n^w对即将发生的未来有着预知感，使你在战斗中领先一步，始终保持在敌人前面。
+
+xtagSkillDreamName023=时间涌动{^K} 「梦境精通」^-
+xtagSkillDreamDescription023=^b[被动]^n^n^w轻微的时间加速使施法者的移动更加迅速，能够预判敌人攻击，并抵消敌方技能造成的减速效果。
+
+xtagSkillDreamName016=清醒梦境{^K} 「梦境精通」^-
+xtagSkillDreamDescription016=^b[被动]^n^n^w对梦境状态的增强意识控制提升了所有来源于梦境世界的能力。
+
+xtagSkillDreamName008=扭曲现实{^K} 「梦境精通」^-
+xtagSkillDreamDescription008=^b[魔法] [新星] [范围]^n^n^w释放出一股强大的扭曲能量波动，撕裂现实的结构，对范围内的敌人造成严重伤害。
+
+xtagSkillDreamName022=时间裂缝
+xtagSkillDreamDescription022=^b[修饰符]^n^n^w增强扭曲波的力量，释放出一股心灵能量浪潮，造成巨大的伤害。
+
+tagDistortRealityBNAME=消融//重现噩梦
+tagDistortRealityBDESC=^b[变换器]^n^n^w不再仅仅释放较小的扭曲波，而是能量与集中力的汇聚使你能够释放出强大的一击。这使你在短时间内无法再释放该技能，但它的威力会大幅提升。//通过释放较弱的现实扭曲魔法，可以更快地施放它们。
+
+xtagSkillDreamName010=幻影打击{^K} 「梦境精通」^-
+xtagSkillDreamDescription010=^b[魔法] [移动]^n^n^w从现实世界消失，瞬间出现在目标敌人面前，给予其一记强力攻击。
+
+xtagSkillDreamName011=梦魇盗贼{^K} 「梦境精通」^-
+xtagSkillDreamDescription011=^b[修饰符]^n^n^w摧毁敌人并从他们的梦境中夺取力量，撕裂他们的心灵。
+
+xtagSkillDreamName015=催眠诅咒{^K} 「梦境精通」^-
+xtagSkillDreamDescription015=^b[次要修饰符] [范围]^n^n^w在梦境行走时，你会被催眠能量包围。当你重新进入现实世界时，这些能量会扩散到附近的敌人身上。^o需要击中敌人才能触发。//占卜者能够从被诅咒者的潜意识中拖出恐怖，令他们每走一步都充满恐惧，并降低他们的警觉性。
+
+xtagSkillDreamName012=召唤梦魇{^K} 「梦境精通」^-
+xtagSkillDreamDescription012=^b[宠物] [远程]^n^n^w从梦境世界召唤出一只梦魇幻象，作为你的召唤兽。^o每次只能召唤一个梦魇。梦魇的能力根据宠物加成进行提升。
+
+xtagMonsterDreamPet002=梦魇
+
+xtagSkillDreamName029=心灵光束{^K} 「梦境精通」^-
+xtagSkillDreamDescription029=一束心灵能量射入敌人，造成可怕的伤害。
+
+xtagSkillDreamName026=梦境激流{^K} 「梦境精通」^-
+xtagSkillDreamDescription026=^b[宠物技能] [范围]^n^n^w从梦境世界扩散出的能量波动，伤害所有敌人。
+
+xtagSkillDreamName024=催眠凝视{^K} 「梦境精通」^-
+xtagSkillDreamDescription024=梦魇的催眠目光能够支配较弱的心灵，让敌人陷入混乱，导致他们漫无目的地徘徊并攻击虚幻的影像。
+
+xtagSkillDreamName013=催眠凝视{^K} 「梦境精通」^-
+xtagSkillDreamDescription013=梦魇的催眠眼光能够支配较弱怪物的心灵，控制它们的行动。
+
+xtagSkillDreamName014=主脑{^K} 「梦境精通」^-
+xtagSkillDreamDescription014=^b[宠物增益] [范围]^n^n^w梦魇能够与附近的盟友心灵沟通，协调他们的攻击，使其在战斗中更加有效。
+
+xtagSkillDreamName019=愤怒的恍惚{^K} 「梦境精通」^-
+xtagSkillDreamDescription019=^b[减益] [光环]^n^n^w心灵能量包围着玩家，轰击附近敌人，并燃烧他们的身体。
+
+xtagSkillDreamName020=康复恍惚{^K} 「梦境精通」^-
+xtagSkillDreamDescription020=^b[范围] [增益]^n^n^w一种安宁的心境状态增加玩家和盟友的恢复速度和抗性。^o此技能需要切换以保持效果。
+
+xtagSkillDreamName021=共鸣{^K} 「梦境精通」^-
+xtagSkillDreamDescription021=^b[修饰符]^n^n^w通过与敌人建立心灵链接，强迫他们分担对你造成的伤害，将痛苦传递给他们。
+
+tagTroubledDreamsNAME=沉睡之沙{^K} 「梦境精通」^-
+tagTroubledDreamsDESC=^b[范围][定时][减益]^n^n^w使敌人陷入沉睡，令他们无法行动并失去战斗能力，直到他们被攻击或时间结束。
+
+tagDreamEX2NAME=摩耳甫斯的恩赐{^K} 「梦境精通」^-
+tagDreamEX2DESC=^b[专属] [增益]^n^n^w梦神摩耳甫斯负责将梦境降临到人类的睡梦中。在他的翅膀人形形态下，他会在梦境中显现为一种天使般的形象。当占卜者获得摩耳甫斯的力量时，掌握梦境的真正力量会增强他们对天界魔法的控制，如以太和雷电。^o此技能需要切换以保持效果。
+
+tagDreamEX1NAME=伊克罗斯的恐惧{^K} 「梦境精通」^-
+tagDreamEX1DESC=^b[专属] [增益]^n^n^w梦神伊克罗斯，亦被人称为恐惧之神，负责将噩梦和恐惧带入人类的睡梦中。伊克罗斯常以兽类和蛇类的形态在梦中显现。当占卜者获得伊克罗斯的力量时，掌握噩梦的能力会增强他们对混沌魔法的控制。
+
+tagPhantasmNAME=星界裂缝{^K} 「梦境精通」^-
+tagPhantasmDESC=^b[玩家加成宠物] [范围]^n^n^w召唤一个星界裂缝，它会在召唤者附近持续存在，并用梦境魔法的攻击弹幕轰击周围的敌人。^o星界裂缝的能力根据玩家的伤害加成进行提升。
+
+tagPhantasmPet=星界裂缝
+
+tagPhantasmAuraNAME=幻象
+
+tagRiftBurstNAME=裂缝爆发
+
+tagConvertAuraNAME=先知之视{^K} 「梦境精通」^-
+tagConvertAuraDESC=^b[定时] [增益]^n^n^w透过梦境世界，你可以预见未来并调整自己的命运。通过将这些预见的力量集中在单一目标上，你与他们的存在建立了联系，将你所承受的伤害转移给他们。^o每次只能有一个敌人受到先知之视的影响。
+
+#Runes Skills
+
+x2tagSkillRunesName001=符文精通
+x2tagSkillRunesDescription001=学习符文的秘密，训练将战斗的愤怒转化为魔法的力量。
+
+x2tagSkillRunesName002=雷霆一击{^K} 「符文精通」^-
+x2tagSkillRunesDescription002=^b[攻击] [范围]^n^o[近战]^n^n^w一种奥术武器技巧，借用雷电之力，击中多个敌人并造成震撼伤害。
+
+x2tagSkillRunesName003=释放{^K} 「符文精通」^-
+x2tagSkillRunesDescription003=^b[次要修饰符] [范围]^n^n^w释放攻击的全部威力，使敌人被电击并昏迷，波及广泛区域。
+
+tagThunderStrikeBNAME=滚雷{^K} 「符文精通」^-
+tagThunderStrikeBDESC=^b[转化] [穿透] [多重投射] ^n^o[远程]^n^n^w使用远程武器时，雷霆一击会发射多重投射物。 ^o使雷霆一击可与远程武器一起使用。
+
+x2tagSkillRunesName005=符文词：爆炸{^K} 「符文精通」^-
+x2tagSkillRunesDescription005=^b[武器池技能] [范围]^n^n^w刻有此强大符文的武器在成功击中时，会引发爆炸，击中多个敌人。 ^o可以通过所有默认武器攻击激活。
+
+x2tagSkillRunesName006=符文词：燃烧{^K} 「符文精通」^-
+x2tagSkillRunesDescription006=^b[武器池技能] [碎片化]^n^o[远程]^n^n^w让你的攻击爆炸并释放剧烈热量，投射物会分裂成燃烧的碎片。 ^o这是一个远程技巧，可以通过默认武器攻击触发。
+
+x2tagSkillRunesName008=符文词：吸收{^K} 「符文精通」^-
+x2tagSkillRunesDescription008=^b[被动]^n^n^w将盾牌或武器附加上吸收敌人攻击和法术能量的能力，并将其转化为你的力量。
+
+x2tagSkillRunesName009=能量护甲{^K} 「符文精通」^-
+x2tagSkillRunesDescription009=^b[增益] [定时] [HP阈值]^n^n^w编织大量能量形成魔法护甲，保护你免受物理攻击。
+
+x2tagSkillRunesName010=鲁莽进攻{^K} 「符文精通」^-
+x2tagSkillRunesDescription010=^b[武器池技能] ^n^o[近战]^n^n^w追随狂战士之道的人以愤怒的动物心态战斗，放弃策略，进行无畏攻击。 ^o这是一个近战技巧，可以通过默认武器攻击触发。
+
+x2tagSkillRunesName011=生命符文{^K} 「符文精通」^-
+x2tagSkillRunesDescription011=^b[范围] [增益]^n^n^w为自己或盟友施放生命符文，抵抗黑暗魔法并增加耐力。
+
+tagLifeRune2NAME=力量符文{^K} 「符文精通」^-
+tagLifeRune2DESC=^b[修饰符]^n^n^w赋予生命符文第二效果，在生命符文的影响下，提升你和附近盟友所造成的伤害。
+
+x2tagSkillRunesName012=符文地雷{^K} 「符文精通」^-
+x2tagSkillRunesDescription012=^b[光环] [魔法] [范围]^n^n^w在你脚下画出一个符文，复制它到每个范围内的敌人脚下。
+
+x2tagSkillRunesName013=冰冻地雷{^K} 「符文精通」^-
+x2tagSkillRunesDescription013=^b[修饰符]^n^n^w增强符文地雷的寒冷效果，使敌人被拉向爆炸中心并冻结。
+
+tagRuneMinefieldNAME=符文阵地{^K} 「符文精通」^-
+tagRuneMinefieldDESC=^b[修饰符]^n^n^w成为真正的符文大师需要理解符文应用，并能通过符文增强基础魔法。
+
+tagMinesBNAME=邪恶符文{^K} 「符文精通」^-
+tagMinesBDESC=^b[转化]^n^n^w创造充满来自死亡领域破坏力量的邪恶符文。
+
+x2tagSkillRunesName014=命运封印{^K} 「符文精通」^-
+x2tagSkillRunesDescription014=^b[玩家加成宠物] [固定] [范围]^n^n^w在地面画出一个精致的符号，符号爆炸时立即对区域内敌人造成伤害，然后3秒后再次爆炸。被符文困住的敌人会被减速。^o此符文的伤害与玩家的伤害加成有关。
+
+x2tagSkillRunesName015=余震{^K} 「符文精通」^-
+x2tagSkillRunesDescription015=^b[宠物修饰符]^n^n^w最终爆炸的震荡即便敌人幸存，也会让他们受到重创，几乎无法继续战斗。
+
+tagSealOfFateSkill01NAME=减速符文
+tagSealOfFateSkill02NAME=符文过载
+tagSealOfFateBNAME=命运封印{^K} 「符文精通」^-
+tagSealOfFateBDESC=^b[转化] [宠物替换]^n^n^w在地面放置一个命运封印，封印中包含混沌能量，爆炸时对敌人造成混沌伤害。 ^o这不是一个真正的转化，因此伤害可以被“转换两次”。
+
+x2tagSkillRunesName016=符文武器{^K} 「符文精通」^-
+x2tagSkillRunesDescription016=^b[攻击替换]^n^n^w在辉煌的战斗中，每一次攻击都让你的心灵进入一种陶醉的状态，从而增强你的魔法能力。 ^o积累充能会提升增益效果。
+
+x2tagSkillRunesName017=魔法充能{^K} 「符文精通」^-
+x2tagSkillRunesDescription017=^b[修饰符]^n^n^w随着战斗的进行，积聚的力量点燃你的符文武器，燃烧任何接触到你的敌人。
+
+x2tagSkillRunesName007=符文词：羽毛{^K} 「符文精通」^-
+x2tagSkillRunesDescription007=^b[修饰符]^n^n^w每个符文大师都会学会的基本雕刻技艺，减少武器的重量，让他们能够优雅而精准地挥动重型武器。
+
+tagRuneWeaponBNAME=尼德霍格的饥饿{^K} 「符文精通」^-
+tagRuneWeaponBDESC=^b[转化]^n^n^w元素符文魔法被黑暗领域的腐化所扭曲，变得如同尼德霍格的毒息一样致命。
+
+x2tagSkillRunesName020=神圣愤怒{^K} 「符文精通」^-
+x2tagSkillRunesDescription020=^b[次要修饰符] [定时] [增益]^n^o[攻击时]^n^n^w在你可怕的战斗展示后，变得更加强大，增强你的战斗能力。 //在战斗中受伤只会加速狂战士进入狂怒状态，令那些未能及时击败他们的敌人感到深深的悔恨。
+
+x2tagSkillRunesName021=可怕力量{^K} 「符文精通」^-
+x2tagSkillRunesDescription021=^b[法术] [范围] [减益]^n^n^w发出一声可怕的尖叫，削弱附近敌人的战斗力。
+
+x2tagSkillRunesName022=颤栗巨石{^K} 「符文精通」^-
+x2tagSkillRunesDescription022=^b[玩家加成宠物] [固定] [范围] [增益]^n^n^w召唤一根较小的符文石柱，阻挡并分散敌人的注意。^o该石柱的力量随着玩家的伤害加成而增强。
+
+tagMenhirWallSkill02NAME=震动
+tagStoneAuraNAME=石之契约
+tagWallStoneSkill1NAME=大地脉冲{^K} 「符文精通」^-
+tagWallStoneSkill1DESC=^b[宠物技能] [范围]^n^n^w偶尔，巨石会撕裂大地，对敌人造成巨大的伤害并将其击倒。
+
+x2tagSkillRunesName023=守护石{^K} 「符文精通」^-
+x2tagSkillRunesDescription023=^b[玩家加成宠物] [固定] [束缚] [定时]^n^n^w召唤一颗更强大的符文石，它会对进入其神圣领域的敌人进行魔法攻击。这些石柱会将敌人绑定，并在一段时间内不断对其造成伤害。^o守护石的力量随着玩家的伤害加成而增强。
+
+x2tagSkillRunesName024=元素闪电
+
+tagRunePrisonNAME=石牢{^K} 「符文精通」^-
+tagRunePrisonDESC=^b[玩家加成宠物] [墙壁] [挑衅] [减益]^n^n^w召唤一圈巨石，将附近的敌人困在其中。靠近监牢的敌人会降低物理和流血抗性。当石牢消失时，会释放二次诅咒，刷新减益效果。^o此监牢根据玩家伤害加成进行加成。
+
+tagRunePrisonPetNAME=监牢墙
+tagRunePrisonPetSkillNAME=囚禁
+
+tagGaldrRuneNAME=火炬符文{^K} 「符文精通」^-
+tagGaldrRuneDESC=^b[玩家加成宠物] [宠物光环] [固定] [减益]^n^n^w在地面刻画多个符文并燃烧，产生符文烈焰，令被其影响的敌人更加脆弱。^o这些符文随着玩家的伤害加成而增强。
+
+tagTorchRunePetNAME=火炬符文
+tagRunicMinesSkill01NAME=符文烈焰
+tagGaldrRuneBNAME=张开虚空{^K} 「符文精通」^-
+tagGaldrRuneBDESC=^b[转化] [宠物替换]^n^n^w在地面刻画一个符文，释放来自吉农加普（Ginnungagap）的混沌虚空能量，摧残被困于符文内的灵魂。此符文现在会削弱穿透、混沌和毒素抗性。^o这不被认为是“真正的转换”，因此伤害可以被“转换两次”。
+
+tagRuneStormNAME=符文风暴{^K} 「符文精通」^-
+tagRuneStormDESC=^b[法术] [传染性] [减益]^n^n^w当局势需要时，将不匹配的符文组合在一起，创造出一种危险的风暴，带来无法预料的效果。
+
+tagRuneStormBNAME=纷争符文{^K} 「符文精通」^-
+tagRuneStormBDESC=^b[转化]^n^n^w将纷争符文召唤到敌人身上，使敌人受到毒素和混沌伤害，而不是火焰和冰霜伤害。
+
+tagRuneExplodeNAME=符文爆炸
+tagRuneExclusive2NAME=誓言效忠瓦尼尔{^K} 「符文精通」^-
+tagRuneExclusive2DESC=^b[专属] [增益]^n^n^w一些符文大师誓言效忠瓦尼尔（Vanir），作为回报，瓦尼尔赐予他们只有塞德尔（Seidr）术士才能获得的巨大力量。塞德尔术士能够操控命运，扭曲元素并随心所欲地掌控它们。
+
+tagRuneExclusive1NAME=赫尔的信徒{^K} 「符文精通」^-
+tagRuneExclusive1DESC=^b[专属] [增益]^n^n^w将服务奉献给死者之地，符文大师能够获得不同于同类的力量。与黑暗力量结盟，能够控制死亡与腐化，而非元素之力。
+
+#内丹技能
+
+x4tagNeidanMastery=内丹精通
+x4tagNeidanMasteryDescription=成为内丹的高手，一位神秘的炼金术士，使用致命的药剂和能力来消灭敌人。
+
+x4tagSkillNeidanPotionBuff=强效灵药{^K} 「内丹精通」^-
+x4tagSkillNeidanPotionBuffDesc=^b[次要修饰符] [增益]^n^o[药水]^n^n^w内丹修炼者常常改变其药剂配方，使它们在服用时给予额外的增益效果。^o此增益在使用生命或能量药水时触发。
+
+x4tagSkillNeidanEbbandFlow=翡翠精华{^K} 「内丹精通」^-
+x4tagSkillNeidanEbbandFlowDesc={^b}[次要修饰符] [增益]^n^o[药水]{^n}{^n}{^w}使用翡翠这种强大而神秘的矿物，进一步提升你的攻击技巧，使你获得更强的以太和酸性伤害。^o此增益在使用生命或能量药水时触发。
+
+x4tagSkillNeidanPotionB=琼浆药水{^K} 「内丹精通」^-
+x4tagSkillNeidanPotionBDESC=^b[转化]^n^o[药水]^n^n^w你的生命和能量药水现在都会恢复部分生命和能量，但使用之间的延迟被增加了。
+
+oldx4tagSkillNeidanPotionBuff=强效灵药{^K} 「内丹精通」^-
+oldx4tagSkillNeidanPotionBuffDesc=^b[增益]^n^n^w内丹修炼者常常改变其药剂配方，使它们在服用时给予额外的增益效果。
+
+oldx4tagSkillNeidanEbbandFlow=内在平衡{^K} 「内丹精通」^-
+oldx4tagSkillNeidanEbbandFlowDesc={^b}[修饰符]{^n}{^n}{^w}当^b强效灵药^w处于激活状态时，平衡体内能量，提升以太和酸性伤害。
+
+oldx4tagSkillNeidanPotionB=琼浆药水II{^K} 「内丹精通」^-
+oldx4tagSkillNeidanPotionBDESC=你的药水效果变得更加强大，但现在需要更长时间才能再次生效。^o增加药水冷却时间至8秒，但增加药水治疗量。
+
+
+x4tagSkillNeidanConvergence=汇聚{^K} 「内丹精通」^-
+x4tagSkillNeidanConvergenceDesc=^b[专属][可切换][范围][增益]^n^n^w有时，通过将多种药水和原料融合在一起，内丹修炼者能够创造出惊人的药水。
+
+x4tagSkillNeidanEnergyDrain=气脉重整{^K} 「内丹精通」^-
+x4tagSkillNeidanEnergyDrainDesc=^b[增益][定时][无法移动]^n^n^w开始引导3秒并重新整合气脉，恢复生命并在此期间变得无敌。
+
+x4tagSkillNeidanEnergyDrainDisruption=回响{^K} 「内丹精通」^-
+x4tagSkillNeidanEnergyDrainDisruptionDesc=^b[次要修饰符][爆发]^n^n^w在你引导以重新整合气脉时，你释放出能量，从附近的敌人身上吸取生命，并留下持久的后果。
+
+x4tagSkillNeidanShenPao=神炮{^K} 「内丹精通」^-
+x4tagSkillNeidanShenPaoDesc=^b[法术][范围][定时]^n^n^w向敌人投掷一瓶神能药剂，药剂在撞击时爆炸，并点燃地面，激发神火。
+
+x4tagSkillNeidanShenPao3=外丹焰{^K} 「内丹精通」^-
+x4tagSkillNeidanShenPaoDESC3=^b[修饰符]^n^N^w利用外丹技艺，内丹修炼者可以通过炼金火焰增强神能炸弹的威力。
+
+x4tagSkillNeidanDeathBomb=祖先回响{^K} 「内丹精通」^-
+x4tagSkillNeidanDeathBombDesc=^b[修饰符][次要效果]^n^o[击杀时]^n^n^w用神炮击败敌人后，从被击杀的敌人身上散发出冲击波，对其他附近敌人造成伤害。{^n}{^o}可以在敌人死亡时触发。
+
+x4tagSkillNeidanShenPaoB=炸弹{^K} 「内丹精通」^-
+x4tagSkillNeidanShenPaoBDESC=与其依赖神炮慢慢摧毁敌人，不如创造一个瞬间爆炸的炸弹。^o这会改变神炮的投射方式，使其不再具有持续时间。
+
+x4tagSkillNeidanDash=冲刺{^K} 「内丹精通」^-
+x4tagSkillNeidanDashDesc=^b[增益]^n^n^w引导你的气脉，以提高你的移动速度和灵活性。
+
+x4tagSkillNeidanDashPhase=阶段{^K} 「内丹精通」^-
+x4tagSkillNeidanDashPhaseDesc=^b[修饰符]^n^n^w集中你的气脉，提升你的灵活性，避免敌人的攻击。
+
+x4tagSkillNeidanWeakestChakra=最弱的脉轮{^K} 「内丹精通」^-
+x4tagSkillNeidanWeakestChakraDesc=^b[专属][可切换][范围][光环]^n^n^w你变得与元素相协调，为你和附近的盟友注入致命的能量，削弱敌人的生命和防御。^n^o此技能需要切换开启才能保持效果。
+
+x4tagSkillNeidanDragonsBreath=魔焰{^K} 「内丹精通」^-
+x4tagSkillNeidanDragonsBreathDesc=^b[法术][波]^n^n^w你释放负能量，向前方的敌人攻击，令他们陷入迷惑。
+
+x4tagSkillNeidanDragonsBreathFearAndFumble=古老之声{^K} 「内丹精通」^-
+x4tagSkillNeidanDragonsBreathFearAndFumbleDesc=^b[修饰符]^n^n^w被魔焰波及的敌人将会遭遇古代力量的愤怒。
+
+x4tagSkillNeidanDragonsBreath2=毒气{^K} 「内丹精通」^-
+x4tagSkillNeidanDragonsBreath2Desc=^b[次要修饰符][光环]^n^n^w释放魔焰后，你的身体被魔力笼罩，对附近的敌人造成额外伤害。
+
+x4tagSkillNeidanDragonsBreathB=狮吼{^K} 「内丹精通」^-
+x4tagSkillNeidanDragonsBreathBDESC=释放大量负能量，覆盖更大范围，增加攻击的距离和扇形宽度。
+
+x4tagSkillNeidanLuckyFind=金蟾的祝福{^K} 「内丹精通」^-
+x4tagSkillNeidanLuckyFindDesc=^b[被动]^n^o[击杀时]^n^n^w金蟾的祝福降临到你身上，提升你的火焰和酸性伤害。此外，击杀敌人时有机会掉落额外的铁块。{^n}{^o}可以在敌人死亡时触发。额外的技能等级增加掉落的金币数量。
+
+x4tagSkillNeidanGoodFortune=好运
+
+x4tagSkillNeidanAuraOfTranquility=宁静光环{^K} 「内丹精通」^-
+x4tagSkillNeidanAuraOfTranquilityDesc=^b[增益]^n^n^w你的心智既是武器又是盾牌。你用气脉创造出一个可再生的屏障，保护自己。
+
+x4tagSkillNeidanMeldingArmor=融铸铠甲{^K} 「内丹精通」^-
+x4tagSkillNeidanMeldingArmorDesc=^b[修饰符]^n^n^w你气脉的流动强度如此之大，以至于你的屏障获得了额外的保护能量。
+
+x4tagSkillNeidanTerracottaServant=召唤陶土战士{^K} 「内丹精通」^-
+x4tagSkillNeidanTerracottaServantDesc=^b[宠物] [近战]^n^n^w投掷一瓶精妙的炼金药剂，在撞击点创造一个陶土战士来为你效力。^o一次只能召唤一个陶土战士。陶土战士的能力随着宠物加成而增强。
+
+x4tagSkillNeidanTerracottaServantPetNAME=陶土战士
+x4tagSkillNeidanTerracottaServantPetSkillA=基础攻击
+x4tagSkillNeidanTerracottaServantPetSkillB=致命一击
+x4tagSkillNeidanTerracottaServantShatter=碎裂{^K} 「内丹精通」^-
+x4tagSkillNeidanTerracottaServantShatterDesc=^b[宠物技能][范围]^n^o[死亡时]^n^n^w即使死亡也无法打破忠诚的束缚。当陶土战士死亡或被击杀时，它会爆炸，对周围敌人造成伤害。
+
+x4tagSkillNeidanTerracottaServantTeachingsOfTheMaster=火铸锻造{^K} 「内丹精通」^-
+x4tagSkillNeidanTerracottaServantTeachingsOfTheMasterDesc=^b[宠物光环]^n^n^w陶土战士不断燃烧，对附近敌人造成伤害。
+
+x4tagSkillNeidanTerracottaServantB=火泥{^K} 「内丹精通」^-
+x4tagSkillNeidanTerracottaServantBDESC=通过稍微调整你的炼金药剂，陶土战士在战斗中会燃烧得更加炽烈，用火焰伤害敌人。
+
+x4tagSkillNeidanConsequences=后果{^K} 「内丹精通」^-
+x4tagSkillNeidanConsequencesDesc=^b[范围][定时][减益]^n^n^w你将力量传导到体内，降低敌人的抗性，使他们更容易受到伤害。
+
+x4tagSkillNeidanSpreadingRot=相互痛苦{^K} 「内丹精通」^-
+x4tagSkillNeidanSpreadingRotDesc=^b[修饰符]^n^n^w受^o后果^w影响的敌人将会受到一个折磨的诅咒，影响他们的身体和灵魂。^b后果^w的范围和持续时间也会增加。
+
+x4tagSkillNeidanLastingConsequences=黄帝恩泽{^K} 「内丹精通」^-
+x4tagSkillNeidanLastingConsequencesDesc=^b[攻击替代]^n^n^w你引导古代皇帝的愤怒，以神能打击敌人。^o当作为默认武器攻击时，黄帝恩泽将放大每一次单次武器攻击的威力。
+
+x4tagSkillNeidanSplash=扩散影响{^K} 「内丹精通」^-
+x4tagSkillNeidanSplashDesc=^b[修饰符]^n^n^w击中敌人时，你的攻击将在一个区域内造成伤害，伤害周围的敌人。
+
+x4tagSkillNeidanHuangdi3=天帝之击{^K} 「内丹精通」^-
+x4tagSkillNeidanHuangdi3DESC=^b[修饰符]^n^n^w偶尔会导致黄帝恩泽的攻击在目标灵魂中回响，点燃敌人的灵魂，有时还会使其石化一段时间。
+
+x4tagSkillNeidanLastingConsequencesB=雷公恩泽{^K} 「内丹精通」^-
+x4tagSkillNeidanLastingConsequencesBDESC=雷公赐予你雷霆之力，让你能以雷电审判敌人。
+
+x4tagSkillNeidanSmokeBomb=烟雾弹{^K} 「内丹精通」^-
+x4tagSkillNeidanSmokeBombDesc=^b[减益][投射物][定时]^n^n^w你投掷少量精细粉末，释放出一股能量爆发，使敌人眼盲并妨碍他们的行动。
+
+x4tagSkillNeidanSummonDemon=召唤妖怪{^K} 「内丹精通」^-
+x4tagSkillNeidanSummonDemonDESC=^b[光束][宠物][定时]^n^n^w所有人类都有他们内心的魔鬼，像虫子一样在体内滋生。内丹修炼者通过一项技术，集中负面能量并将其引导至敌人，召唤出他们的魔鬼并指挥它们为你战斗一段时间。^o妖怪的能力随着宠物加成而增强。
+
+x4tagSkillNeidanSummonDemonPetNAME=妖怪
+x4tagSkillNeidanSummonDemonPetAttackA=魔爪
+
+# Artifact Names (神器名称)
+tagArtifactName001=神器 ~ 梦境卷轴
+tagArtifactName002=神器 ~ 死亡之声
+tagArtifactName003=神器 ~ 熔火之珠
+tagArtifactName004=神器 ~ 幽灵守护
+tagArtifactName005=神器 ~ 琥珀瓶
+tagArtifactName006=神器 ~ 星心
+tagArtifactName007=神器 ~ 永夜之幕
+tagArtifactName008=神器 ~ 苍白月亮
+tagArtifactName009=神器 ~ 天火吊坠
+tagArtifactName010=神器 ~ 傻子的触摸
+tagArtifactName011=神器 ~ 混沌之立方
+tagArtifactName012=神器 ~ 叶歌
+tagArtifactName013=神器 ~ 烬雷
+tagArtifactName014=神器 ~ 灵魂颤动
+tagArtifactName015=神器 ~ 剃刀爪
+tagArtifactName016=神器 ~ 蛇之歌
+tagArtifactName017=神器 ~ 太阳石
+tagArtifactName018=神器 ~ 血之狂怒
+tagArtifactName019=神器 ~ 水晶泪
+tagArtifactName020=神器 ~ 翡翠羽毛
+tagArtifactName021=神器 ~ 玉神像
+tagArtifactName022=神器 ~ 黑暗核心
+tagArtifactName023=神器 ~ 影之护符
+tagArtifactName024=神器 ~ 精神腐化
+tagArtifactName025=神器 ~ 大地护符
+tagArtifactName026=神器 ~ 乌鸦的阴影
+tagArtifactName027=神器 ~ 疯狂之枢
+tagArtifactName028=神器 ~ 召唤者图腾
+tagArtifactName029=神器 ~ 变形之书
+tagArtifactName030=神器 ~ 乌木球体
+tagArtifactName031=神器 ~ 火焰之舌
+tagArtifactName032=神器 ~ 雷拳
+tagArtifactName033=神器 ~ 豹神像
+tagArtifactName034=神器 ~ 银心
+tagArtifactName035=神器 ~ 少女之吻
+tagArtifactName036=神器 ~ 空灵面纱
+tagArtifactName037=神器 ~ 梦境之书
+tagArtifactName038=神器 ~ 灵魂棱镜
+tagArtifactName039=神器 ~ 德鲁伊花环
+tagArtifactName040=神器 ~ 影之面纱
+tagArtifactName041=神器 ~ 时代之怒
+tagArtifactName042=神器 ~ 天眼
+tagArtifactName043=神器 ~ 龙之舌
+tagArtifactName044=神器 ~ 弑君者
+tagArtifactName045=神器 ~ 狮心
+tagArtifactName046=神器 ~ 天火神像
+tagArtifactName047=神器 ~ 永恒之球
+tagArtifactName048=神器 ~ 血宝石
+tagArtifactName049=神器 ~ 最终一息
+tagArtifactName050=神器 ~ 赤毒蛇
+tagArtifactName051=神器 ~ 盖亚之手
+tagArtifactName052=神器 ~ 大地之心
+tagArtifactName053=神器 ~ 征服者的印记
+tagArtifactName054=神器 ~ 暴君之拳
+tagArtifactName055=神器 ~ 荣耀使者
+tagArtifactName056=神器 ~ 元素之怒
+tagArtifactName057=神器 ~ 万象符号
+tagArtifactName058=神器 ~ 奥术镜
+tagArtifactName059=神器 ~ 阿尔忒弥斯的新月
+tagArtifactName060=神器 ~ 波塞冬之网
+tagArtifactName061=神器 ~ 德墨忒尔的恩赐
+tagArtifactName062=神器 ~ 赫菲斯托斯的力量
+tagArtifactName063=神器 ~ 阿瑞斯之血
+tagArtifactName064=神器 ~ 奥西里斯的权杖
+tagArtifactName065=神器 ~ 伊希斯的结
+tagArtifactName066=神器 ~ 孙悟空的金眼
+tagArtifactName067=神器 ~ 玉帝的护符
+tagArtifactName068=神器 ~ 莫尔菲斯的梦网
+tagArtifactName069=神器 ~ 巴斯特的符号
+tagArtifactName070=神器 ~ 马尔杜克的命运石板
+tagArtifactName071=神器 ~ 拉的眼睛
+tagArtifactName072=神器 ~ 托特的荣耀
+tagArtifactName073=神器 ~ 宙斯的图标
+tagArtifactName074=神器 ~ 阿波罗的竖琴
+tagArtifactName075=神器 ~ 伊丝塔尔之星
+tagArtifactName076=神器 ~ 利莫斯之饥
+tagArtifactName077=神器 ~ 伊登的苹果
+tagArtifactName078=神器 ~ 斯瓦尔塔法尔誓言
+tagArtifactName079=神器 ~ 塔拉尼斯之轮
+tagArtifactName080=神器 ~ 达瓦林的仿像
+tagArtifactName080BPDesc=一件神秘的遗物，据说能够创造出你自己的镜像。^n^o在制作时，完成奖励会支持其中一个Grim Quest的专精，并授予该专精支持技能。
+
+tagArtifactName080_Reroll=神器 ~ 达瓦林的仿像 - 重置
+tagArtifactName080_RerollBPDesc=^r这将摧毁你库存或储藏中一个随机的达瓦林的仿像，并重新生成一个新的！确保你想重置的仿像在你的库存中，而不是储藏室。
+
+tagArtifactName080a=守卫者仿像
+tagArtifactName080b=预言者仿像
+tagArtifactName080c=火焰法师仿像
+tagArtifactName080d=猎人仿像
+tagArtifactName080e=流浪者仿像
+tagArtifactName080f=盗贼仿像
+tagArtifactName080g=符文大师仿像
+tagArtifactName080h=神术师仿像
+tagArtifactName080i=神器 ~ 风暴召唤者仿像
+tagArtifactName080j=神器 ~ 战士仿像
+tagArtifactName080k=神器 ~ 内丹仿像
+tagArtifactName081=神器 ~ 甘巴坦
+tagArtifactName082=神器 ~ 赫尔雅角
+tagArtifactName083=神器 ~ 卡尔尼克斯号角
+tagArtifactName084=神器 ~ 黄金腰带
+tagArtifactName085=神器 ~ 西德尔之骨
+tagArtifactName086=神器 ~ 辛伽斯坦
+tagArtifactName087=神器 ~ 昆仑纪律
+tagArtifactName088=神器 ~ 四海龙王之球
+tagArtifactName089=神器 ~ 不朽之桃
+tagArtifactName090=神器 ~ 盘古之力
+tagArtifactName091=神器 ~ 赫梅拉的王冠
+tagArtifactName092=神器 ~ 潘神的长笛
+tagArtifactName093=神器 ~ 赫尔的镰刀
+tagArtifactName094=神器 ~ 灯笼女神的火炬
+tagArtifactName095=神器 ~ 拉塔托斯克的坚果
+tagArtifactName096=神器 ~ 黑卡蒂的符号
+tagArtifactName097=神器 ~ 尼克斯的暗面
+
+# Artifact Skills (神器技能)
+
+tagArtifactSkill001=梦境卷轴
+tagArtifactSkill001D=当这卷轴感知到危险时，它会立刻将敌人催眠，并让他们经历生动的噩梦。
+
+tagArtifactSkill002=死亡之声
+tagArtifactSkill002D=响起的响尾蛇声提高了佩戴者的攻击速度。
+
+tagArtifactSkill003=熔火之珠
+tagArtifactSkill003D=向目标区域降下火焰之珠，对小范围内的敌人造成火焰和物理伤害。
+
+tagArtifactSkill004=幽灵守护
+tagArtifactSkill004D=释放死亡气息，对附近的敌人造成生命值损失并吸取其健康。
+
+tagArtifactSkill005=琥珀瓶
+tagArtifactSkill005D=仅需一小口魔法瓶中的液体，就能让你恢复活力。
+
+tagArtifactSkill006=星心
+tagArtifactSkill006D=偶尔能保护佩戴者免受元素攻击。
+
+tagArtifactSkill007=永夜之幕
+tagArtifactSkill007D=使附近的敌人视线受损，并对他们造成伤害。
+
+tagArtifactSkill008=苍白月亮
+tagArtifactSkill008D=召唤月亮照亮一个区域，增加佩戴者的魔法能力，并让敌人更易被击败。^o苍白月亮随着玩家的伤害加成而增强。
+
+tagArtifactPet008=月光
+tagArtifactPet008Skill1=光辉
+tagArtifactPet008Skill2=照亮
+
+tagArtifactSkill009=天火爆炸
+tagArtifactSkill009D=吊坠释放一场风暴，将天火爆炸到靠近佩戴者的敌人身上。
+
+tagArtifactPet009=天火风暴
+tagArtifactPet009Skill1=天火爆炸
+
+tagArtifactSkill010=傻子的触摸
+tagArtifactSkill010D=当受到攻击时，神器会以致命的疾病进行反击，使敌人无法有效地进行反击，且动作不协调。
+
+tagArtifactSkill011=混沌立方
+tagArtifactSkill011D=你手中的立方体会自我复制并围绕你旋转，伤害任何接触到它的敌人。
+
+tagArtifactSkill012=叶歌
+tagArtifactSkill012D=当风吹过时，从这束树叶中可以听到歌声，赋予佩戴者更强的战斗能力。
+
+tagArtifactSkill013=烬雷
+tagArtifactSkill013D=发射一波火焰箭矢，点燃并穿透周围的敌人，同时有小几率使敌人陷入混乱。
+
+tagArtifactSkill014=灵魂颤动
+tagArtifactSkill014D=从目标身上吸取生命力来治愈自己。
+
+tagArtifactSkill015=剃刀爪
+tagArtifactSkill015D=召唤一只野性的鬣狗为玩家战斗。这只鬣狗拥有一个增强穿透和流血伤害的光环，并具有击中周围敌人的移动能力。最后，当鬣狗接近死亡时，它会进入狂暴状态，极大地提升其伤害和速度。^o野性鬣狗随着宠物加成而增强。
+
+tagArtifactPet015=野性鬣狗
+tagArtifactPet015Skill1=撕咬
+tagArtifactPet015Skill2=剃刀爪光环  // 旧版
+tagArtifactPet015Skill2D=鬣狗受到剃刀爪神器的增强，将其一部分力量传递给附近的盟友。
+tagArtifactPet015Skill3=狂暴  // 旧版
+tagArtifactPet015Skill4=猛扑  // 旧版
+
+tagArtifactSkill016=蛇神之歌
+tagArtifactSkill016D=触发时，蛇神帮助玩家灵活移动，帮助规避伤害，并变得更像蛇，增强毒素伤害。
+
+tagArtifactSkill017=太阳石
+tagArtifactSkill017D=用一束集中的阳光攻击一个区域，造成重度火焰和混沌伤害。
+
+tagArtifactSkill018=血之狂怒
+tagArtifactSkill018D=当受到攻击时，这件神器使玩家进入血腥愤怒状态，显著增强他们的战斗反应能力。
+tagArtifactSkill019=水晶泪
+tagArtifactSkill019D=极大地增强了发现敌人弱点的能力，给你提供完美的攻击机会，并通过强力的暴击击溃敌人。
+
+tagArtifactSkill020=翡翠羽毛
+tagArtifactSkill020D=每次攻击有几率发射一支毒箭，毒箭在击中时爆炸。
+
+tagArtifactSkill021=翡翠偶像
+tagArtifactSkill021D=增强你的防御力，准备迎接敌人的猛烈进攻。
+
+tagArtifactSkill022=黑暗核心
+tagArtifactSkill022D=打开通往未知魔法领域的裂缝，通过裂缝飞来的是黑暗魔法的碎片，接触时会爆炸。
+
+tagArtifactSkill023=阴影护符
+tagArtifactSkill023D=从护符中逃脱的阴险触手，造成伤害并吸取生命力。
+
+tagArtifactSkill024=精神枯萎
+tagArtifactSkill024D=一只古老的不死生物从神器中逃脱，但目前可以控制它。这只生物带有恶性气息，增加毒素伤害，并有一个横扫攻击，能对附近的敌人造成毒素和物理伤害。最后，它会对周围的敌人持续造成毒素伤害。^o腐臭猎犬随着宠物加成而增强。
+
+tagArtifactPet024=腐臭猎犬
+tagArtifactPet024Skill1=腐烂爪
+tagArtifactPet024Skill2=毒咬
+tagArtifactPet024Skill3=恶性
+tagArtifactPet024Skill3D=这只猎犬由精神枯萎神器增强，将它的部分力量扩展给附近的盟友。
+tagArtifactPet024Skill4=腐臭排放
+
+tagArtifactSkill025=大地护符
+tagArtifactSkill025D=强烈的热量在施法者周围积聚，点燃附近的敌人，并使他们更易受到元素伤害。
+
+tagArtifactSkill026=乌鸦的阴影
+tagArtifactSkill026D=佩戴此神器时，一群不祥的乌鸦跟随着施法者。当受到攻击时，一只乌鸦会从天而降，啄出敢于攻击你的傻瓜的眼睛。^o乌鸦随玩家的伤害加成而增强。
+
+tagArtifactPet026=乌鸦
+tagArtifactPet026Skill1=快速啄击
+tagArtifactPet026Skill2=啄眼
+
+tagArtifactSkill027=疯狂之源
+tagArtifactSkill027D=盒子里传来的声音会扩展到附近的敌人，并进一步蔓延到周围的其他敌人。所有受到影响的人都会听到声音并变得更难作战，同时从混乱的声音中受到伤害。
+
+tagArtifactSkill028=召唤者图腾
+tagArtifactSkill028D=召唤出一条熔炉龙为玩家战斗。熔炉龙能够在一个方向上释放它的气息，焚烧所有被混乱火焰困住的敌人，也可以选择吐出一个单独的火焰宝珠，将一颗混沌火球投掷给敌人。熔炉龙是一只巨大的生物，偶尔它会用爪子扫过多个敌人，造成大量的混沌和燃烧伤害。^o熔炉龙随着宠物加成而增强。
+
+tagArtifactPet028=熔炉龙
+tagArtifactPet028Skill1=龙之打击
+tagArtifactPet028Skill2=横扫攻击
+tagArtifactPet028Skill3=地狱火息
+tagArtifactPet028Skill4=火焰宝珠 // 旧版
+
+tagArtifactSkill029=变化之书
+tagArtifactSkill029D=这本书在被持有时能够完全改变使用者的物理极限。它将部分由战士造成的物理伤害转化为元素伤害。
+
+tagArtifactSkill030=乌木之球
+tagArtifactSkill030D=一颗魔法之球环绕在施法者周围，保护他们免受伤害，并使大多数攻击完全错过。此外，攻击者如果击中该球，会受到割伤并开始流血。
+
+tagArtifactSkill031=火焰之舌
+tagArtifactSkill031D=这包含一个简单的法术，“火焰之言”，施放时会产生一个火焰泡泡，伤害附近的敌人。一段时间后，火焰球会爆炸，对附近的所有敌人造成更多的伤害。^o火焰之言随玩家的伤害加成而增强。
+
+tagArtifactPet031=火焰之言
+tagArtifactPet031Skill1=燃烧
+tagArtifactPet031Skill2=火焰爆裂
+
+tagArtifactSkill032=雷霆之拳
+tagArtifactSkill032D=一次强力的攻击，制造出冲击波，造成闪电和物理伤害。
+
+tagArtifactSkill033=豹神雕像
+tagArtifactSkill033D=赋予佩戴者猫一样的敏捷性，让他们能够用穿透伤害猛击前方的多个敌人。
+
+xtagPantherEffigyProc=豹神之爪 // 旧版
+
+tagArtifactSkill034=银心
+tagArtifactSkill034D=从施法者释放出如风暴般的爆发，造成闪电和寒冷伤害，并对异世界生物造成额外伤害。
+
+tagArtifactSkill035=少女之吻
+tagArtifactSkill035D=一种渴望的情感激励着你，更加努力地战斗并生存。
+
+tagArtifactSkill036=虚无面纱
+tagArtifactSkill036D=从神器中召唤出一个无形的存在，它会四处游荡，对任何靠近的敌人造成伤害。^o虚无面纱随着玩家的伤害加成而增强。
+tagArtifactPet036=虚无面纱
+
+tagArtifactSkill037=梦想之书
+tagArtifactSkill037D=强大的梦境魔法撞击附近的敌人，造成伤害并从敌人身上吸取一部分生命。
+
+tagArtifactSkill038=死灵术
+tagArtifactSkill038D=从一名刚刚被杀死的敌人身上复生一位不死战士。^o骷髅士兵随宠物加成而增强。
+
+tagArtifactPet038=复生的死者
+tagArtifactPet038Skill1=骨拳
+
+tagArtifactSkill039=德鲁伊花环
+tagArtifactPet039Skill1=治愈花环
+tagArtifactPet039Skill2=毒花环
+tagArtifactSkill039D=德鲁伊魔法保护施法者，治愈附近的盟友并毒害附近的敌人。^o德鲁伊花环随玩家伤害加成而增强。
+
+tagArtifactSkill040=阴影浪潮
+tagArtifactSkill040D=一波纯粹的黑暗从玩家的脚下爆发，伤害所有附近的敌人。
+
+tagArtifactSkill041=时代的愤怒
+tagArtifactSkill041D=佩戴盾牌时，时代的愤怒会在你格挡时反击，击打面前的敌人。
+
+tagArtifactSkill042=潮汐波浪
+tagArtifactSkill042D=用三股强大的冰冻水流打击你的敌人。
+
+tagArtifactSkill043=龙之舌
+tagArtifactSkill043D=龙的舌头是一个极易点燃的物体，简单地指向某个方向就会引发自燃。
+
+tagArtifactSkill044=屠王者
+tagArtifactSkill044D=强大的屠王者技巧创造出地动的波纹，摧毁被卷入的敌人并将他们击倒。
+
+tagArtifactSkill045=狮子吼
+tagArtifactSkill045D=释放一声强大的吼叫，大幅提升玩家和附近盟友的战斗技能，持续一段时间。
+
+tagArtifactSkill046=闪电激增
+tagArtifactSkill046D=向你的敌人发射一连串的闪电攻击。
+
+tagArtifactSkill047=永恒之球
+tagArtifactSkill047D=永恒之力通过神器流入你的体内，极大地增强你的力量，持续一段时间。
+
+tagArtifactSkill048=撕裂
+tagArtifactSkill048D=可以在所有默认武器攻击时激活。使用近战武器时，攻击会打击多个附近的目标。
+
+tagArtifactSkill006=血液沸腾 // 旧版
+tagArtifactSkill006=使所有附近的对手血液沸腾，伤害他们并在同一时间魔法般地恢复玩家的生命。 // 旧版
+
+tagArtifactSkill049=最后一息
+tagArtifactSkill049D=当你接近死亡时，这件神器爆发，拉近所有敌人并将他们摔倒，将他们的生命力转移给你。
+
+tagArtifactSkill050=毒蛇之牙
+tagArtifactSkill050D=毒箭从玩家身上射出，向四面八方发射。
+
+tagArtifactSkill051=盖亚之手
+tagArtifactSkill051D=盖亚之手将召唤出她最美丽的植物来保护玩家。这些植物会向任何敌对生物发射尖锐的刺，造成流血和毒素伤害。那些试图摘取花朵的敌人会遭遇一场猛烈的刺击。^o盖亚的荆棘藤随宠物加成而增强。
+
+tagArtifactPet051=盖亚的荆棘藤
+tagArtifactPet051Skill1=刺击射击
+tagArtifactPet051Skill2=飞刺爆炸
+
+tagArtifactSkill052=火心的气息//火焰打击
+tagArtifactSkill052D=用熔岩核心的力量强化自己和你的盟友。//从天而降火焰陨石。
+
+tagArtifactSkill053=征服者的印记
+tagArtifactSkill053D=为了展示他们的力量，征服者将在某个区域打上力量的符号，削弱敌人的决心。
+
+tagArtifactSkill054=暴君之拳
+tagArtifactSkill054D=挥舞你的武器扫过周围的空气，造成混沌伤害给所有在攻击范围内的敌人。
+
+tagArtifactSkill055=荣耀之光
+tagArtifactSkill055D=这件来自古代角斗士时代的神器，在你受到伤害时赋予你角斗场的力量。受到攻击后，你的斗志会被激发，推动你前进，并帮助你为下次战斗做好准备。
+
+tagArtifactSkill056=元素混沌
+tagArtifactSkill056D=召唤出原始的元素力量——火与冰，它们相互碰撞，爆发出可怕的能量。
+
+tagArtifactSkill057=博学之象征
+tagArtifactSkill057D=文艺复兴的男人，万事通，博学者的代名词。这件象征唤醒内在的潜力，让玩家做任何事时都更加出色。任何人都可以充分利用这件物品。
+
+tagArtifactSkill058D=一个保护性屏障出现在玩家周围，治愈玩家并吸收伤害，持续一段时间。
+
+tagArtifactSkill058=镜面墙
+
+tagArtifactSkill059=阿耳忒弥斯之战舞
+tagArtifactSkill059D=以神圣的优雅移动，短时间内提升你的战斗能力。
+
+tagArtifactSkill060=波塞冬的网
+tagArtifactSkill060D=用海神的力量困住一大群怪物。
+
+tagArtifactSkill061=德墨忒尔的恩赐
+tagArtifactSkill061D=恢复玩家和附近盟友的生命，持续一段时间。
+
+tagArtifactSkill062=铁拳
+tagArtifactSkill062D=将玩家的近战力量提升到史诗级水平。
+
+tagArtifactSkill063=血泪
+tagArtifactSkill063D=来自战神阿瑞斯的血火泪水降临到地球，造成流血和火焰伤害给所有被击中的敌人。
+
+tagArtifactSkill064=灵魂吸取
+tagArtifactSkill064D=试图吸取敌人的灵魂，造成足够的伤害以杀死所有敌人，除非是最强的敌人，并将他们的生命转移给玩家。
+tagArtifactSkill065=治疗瀑布
+tagArtifactSkill065D=偶尔恢复玩家及附近盟友的生命。
+
+tagArtifactSkill066=灵魂窃贼
+tagArtifactSkill066D=攻击所有附近的敌人，并从造成的伤害中恢复一定的生命。
+
+tagArtifactSkill067=玉帝的马乌杜伊恩
+tagArtifactSkill067D=强大的皇帝指引你和你的盟友在战斗中取得胜利。
+
+tagArtifactSkill068=梦暴风
+tagArtifactSkill068D=从玩家身上扩散出一团黑暗的梦境，令所有敌人入睡。当他们醒来时，会充满困惑、恐惧和嗜睡。
+
+tagArtifactSkill069=巴斯特的化身
+tagArtifactPet069=巴斯特的化身
+tagArtifactSkill069D=召唤巴斯特的化身——一只幽灵般的剑齿虎——来肆虐你的敌人。^o每次只能召唤一个化身。化身随宠物加成而增强。
+tagArtifactPet069Skill1=顶级掠食者
+tagArtifactPet069Skill2=咬击
+tagArtifactPet069Skill3=粉碎
+tagArtifactPet069Skill4=冲锋
+xtagArtifactPet069Skill5=爪牙与獠牙 // 旧版
+
+tagArtifactSkill070=马尔杜克的愤怒//命运之盾
+tagArtifactSkill070D=成为天界力量的旋风，斩击那些敢于阻挡你愤怒的人。^o需要近战武器。
+
+tagArtifactSkill071=拉的之眼
+tagArtifactSkill071D=用灼热的火焰包围你周围的区域，仅对敌人造成伤害。^o拉的之眼随玩家伤害加成而增强。
+
+tagArtifactSkill072=托特的荣耀
+tagArtifactSkill072D=托特能在你需要时援助你，暂时使你周围的敌人瘫痪。
+
+tagArtifactSkill073=雷暴
+tagArtifactSkill073D=召唤一片雷云降临玩家上方——即便是在室内——从中降下宙斯的闪电攻击所有敌人。
+
+tagArtifactSkill074=阿波罗之歌
+tagArtifactSkill074D=阿波罗的竖琴回荡着他的歌声，激励附近的所有听到的人。//发出一波音波能量，震慑并伤害路径上的所有敌人。
+
+tagArtifactSkill075=女王的战路
+tagArtifactSkill075D=一连串的毁灭向外扩展，象征着天堂女王伊什塔尔的愤怒。
+
+tagArtifactSkill076=召唤利摩斯
+tagArtifactSkill076D=召唤一只古老的生物，它的饥饿无止境。它能吸取附近敌人的生命并将其困在骨骼的牢笼中。^o每次只能召唤一个利摩斯。利摩斯随宠物加成而增强。
+tagArtifactPet076=利摩斯
+tagArtifactPet076Skill1=爪击
+
+tagArtifactSkill077=不朽
+tagArtifactSkill077D=恢复所有附近盟友的生命，并使他们在短时间内更加难以被杀死。
+
+tagArtifactSkill078=精灵法术
+tagArtifactSkill078D=精灵们天生优雅，并与自然与魔法保持和谐。这使得他们能以最小的努力施放出复杂的咒语。^o 这是一项杖类技能。
+
+tagArtifactSkill079=塔拉尼斯之轮
+tagArtifactSkill079D=从你现在拥有的神圣之轮中，一道神秘的火花向外迸发，给敌人带来毁灭。
+
+tagArtifactSkill080=德瓦林的模拟体
+tagArtifactSkill080D=召唤一个模拟体与你并肩作战。此模拟体的技能基于所制造的模拟体类型。^n^o模拟体随玩家伤害加成而增强。
+
+tagArtifactSkill081=甘班泰恩
+tagArtifactSkill081D=向你的目标发射2轮魔法箭矢。^o这是一项远程双手或法杖技术，基于默认武器攻击激活。
+
+tagArtifactSkill082=吉阿尔霍恩
+tagArtifactSkill082D=从吉阿尔霍恩中传出一声可怕的声音，伤害附近听到它的敌人。
+
+tagArtifactSkill083=激怒
+tagArtifactSkill083D=战争之曲激励附近的盟友，帮助他们重新振作，战斗力更强。
+
+tagArtifactSkill084=巨人屠戮者
+tagArtifactSkill084D=用一个巨大的打击摧毁敌人，造成重伤。^o这是一项近战技能，基于默认武器攻击激活。
+
+tagArtifactSkill085=神圣之地
+tagArtifactSkill085D=创建一个神圣的区域，增强进入该区域的玩家和盟友的力量。进入该区域的敌人会受到伤害。^o神圣之地随玩家伤害加成而增强。
+
+tagArtifactSkill085B=责罚
+
+tagArtifactSkill086=召唤辛加斯特恩
+tagArtifactSkill086D=从地面升起一块歌唱的石头来协助你。^o辛加斯特恩随玩家伤害加成而增强。
+tagArtifactPet086=辛加斯特恩
+tagArtifactPet086Skill1=音波冲击
+
+tagArtifactSkill087=气宝
+tagArtifactSkill087D=向敌人发射一波气能爆发。
+
+tagArtifactSkill088=龙王的赏金
+tagArtifactSkill088D=四海已为你目标贴上赏金，圣珠使其更加脆弱，你可以去夺取它。
+
+tagArtifactSkill089=蟠桃
+tagArtifactSkill089D=食用一片蟠桃后赋予自己临时的神力。
+
+tagArtifactSkill090=成为大地
+tagArtifactSkill090D=赋予自己和盟友大地古老的精灵力量，毒素和火焰成为你的命令。^o该技能必须保持激活才能维持效果。
+
+tagArtifactSkill091=破晓
+tagArtifactSkill091D=赫梅拉的皇冠发射明亮的阳光电流，在你周围旋转。
+
+tagArtifactSkill092=西林克斯之歌
+tagArtifactSkill092D=神秘的笛音从魔法的芦笛中回荡出来，偶尔显现出附近的灵魂，并协助你作战。
+
+tagArtifactSkill093=赫尔海姆的气息
+tagArtifactSkill093D=神圣的镰刀笼罩你和附近的盟友，带来死亡的力量。
+
+tagArtifactSkill094=召唤灯火
+tagArtifactSkill094D=^o灯火随宠物加成而增强。
+tagArtifact094Pet=灯火
+tagArtifact094PetSkill1=黑暗火焰
+
+tagArtifactSkill095=松鼠的奔跑
+tagArtifactSkill095D=^o松鼠随宠物加成而增强。
+tagArtifact095Pet=松鼠
+tagArtifact095PetSkill1=小爪子
+
+tagArtifactSkill096=女巫之印
+tagArtifactSkill096D=一个诅咒的符号刻印在大地上，立即引爆，将被困在爆炸中的敌人腐化，用古老的女神魔法把他们摧毁。
+
+tagArtifactSkill097=黄昏 //已删除
+tagArtifactSkill097D=一片阴影云雾从你身上扩散，暂时将附近敌人送入充满噩梦的沉睡。//已删除
+
+tagArtifactBPName001=神器蓝图 ~ 梦境卷轴
+tagArtifactBPName002=神器蓝图 ~ 死亡之响
+tagArtifactBPName003=神器蓝图 ~ 熔火宝珠
+tagArtifactBPName004=神器蓝图 ~ 幽影护符
+tagArtifactBPName005=神器蓝图 ~ 琥珀瓶
+tagArtifactBPName006=神器蓝图 ~ 星之心
+tagArtifactBPName007=神器蓝图 ~ 永夜披风
+tagArtifactBPName008=神器蓝图 ~ 苍白之月
+tagArtifactBPName009=神器蓝图 ~ 天火挂坠
+tagArtifactBPName010=神器蓝图 ~ 傻子之触
+tagArtifactBPName011=神器蓝图 ~ 混沌立方
+tagArtifactBPName012=神器蓝图 ~ 叶歌
+tagArtifactBPName013=神器蓝图 ~ 烈焰之箭
+tagArtifactBPName014=神器蓝图 ~ 灵魂战栗
+tagArtifactBPName015=神器蓝图 ~ 剃刃爪
+tagArtifactBPName016=神器蓝图 ~ 蛇神之歌
+tagArtifactBPName017=神器蓝图 ~ 太阳石
+tagArtifactBPName018=神器蓝图 ~ 血怒
+tagArtifactBPName019=神器蓝图 ~ 水晶泪
+tagArtifactBPName020=神器蓝图 ~ 翡翠羽毛
+tagArtifactBPName021=神器蓝图 ~ 玉雕神像
+tagArtifactBPName022=神器蓝图 ~ 黑暗核心
+tagArtifactBPName023=神器蓝图 ~ 阴影护符
+tagArtifactBPName024=神器蓝图 ~ 精魂枯萎
+tagArtifactBPName025=神器蓝图 ~ 大地护符
+tagArtifactBPName026=神器蓝图 ~ 乌鸦之影
+tagArtifactBPName027=神器蓝图 ~ 疯狂之源
+tagArtifactBPName028=神器蓝图 ~ 召唤者图腾
+tagArtifactBPName029=神器蓝图 ~ 变形之书
+tagArtifactBPName030=神器蓝图 ~ 乌木宝珠
+tagArtifactBPName031=神器蓝图 ~ 火焰之舌
+tagArtifactBPName032=神器蓝图 ~ 雷拳
+tagArtifactBPName033=神器蓝图 ~ 豹神雕像
+tagArtifactBPName034=神器蓝图 ~ 银心
+tagArtifactBPName035=神器蓝图 ~ 娘神之吻
+tagArtifactBPName036=神器蓝图 ~ 虚无面纱
+tagArtifactBPName037=神器蓝图 ~ 梦之书
+tagArtifactBPName038=神器蓝图 ~ 灵魂水晶
+tagArtifactBPName039=神器蓝图 ~ 德鲁伊花环
+tagArtifactBPName040=神器蓝图 ~ 影面披风
+tagArtifactBPName041=神器蓝图 ~ 世纪之怒
+tagArtifactBPName042=神器蓝图 ~ 天眼
+tagArtifactBPName043=神器蓝图 ~ 龙之舌
+tagArtifactBPName044=神器蓝图 ~ 弑君者
+tagArtifactBPName045=神器蓝图 ~ 狮心
+tagArtifactBPName046=神器蓝图 ~ 天火雕像
+tagArtifactBPName047=神器蓝图 ~ 永恒之球
+tagArtifactBPName048=神器蓝图 ~ 血之宝石
+tagArtifactBPName049=神器蓝图 ~ 最后一息
+tagArtifactBPName050=神器蓝图 ~ 深红毒蛇
+tagArtifactBPName051=神器蓝图 ~ 盖亚之手
+tagArtifactBPName052=神器蓝图 ~ 大地之心
+tagArtifactBPName053=神器蓝图 ~ 征服者的印记
+tagArtifactBPName054=神器蓝图 ~ 暴君之拳
+tagArtifactBPName055=神器蓝图 ~ 荣光之带
+tagArtifactBPName056=神器蓝图 ~ 元素之怒
+tagArtifactBPName057=神器蓝图 ~ 万能象征
+tagArtifactBPName058=神器蓝图 ~ 奥术镜像
+tagArtifactBPName059=神器蓝图 ~ 阿尔忒弥斯的弯月
+tagArtifactBPName060=神器蓝图 ~ 波塞冬的网
+tagArtifactBPName061=神器蓝图 ~ 德墨忒尔的恩赐
+tagArtifactBPName062=神器蓝图 ~ 赫菲斯托斯的力量
+tagArtifactBPName063=神器蓝图 ~ 阿瑞斯之血
+tagArtifactBPName064=神器蓝图 ~ 奥西里斯的法杖
+tagArtifactBPName065=神器蓝图 ~ 伊西斯之结
+tagArtifactBPName066=神器蓝图 ~ 孙悟空的金眼
+tagArtifactBPName067=神器蓝图 ~ 玉帝的护符
+tagArtifactBPName068=神器蓝图 ~ 莫尔菲斯的梦网
+tagArtifactBPName069=神器蓝图 ~ 巴斯特的符印
+tagArtifactBPName070=神器蓝图 ~ 马尔杜克的命运石板
+tagArtifactBPName071=神器蓝图 ~ 拉的之眼
+tagArtifactBPName072=神器蓝图 ~ 托特的荣耀
+tagArtifactBPName073=神器蓝图 ~ 宙斯的圣像
+tagArtifactBPName074=神器蓝图 ~ 阿波罗的竖琴
+tagArtifactBPName075=神器蓝图 ~ 伊什塔尔之星
+tagArtifactBPName076=神器蓝图 ~ 利摩斯的饥饿
+tagArtifactBPName077=神器蓝图 ~ 伊登的苹果
+tagArtifactBPName078=神器蓝图 ~ 斯瓦尔特尔法誓言
+tagArtifactBPName079=神器蓝图 ~ 塔拉尼斯之轮
+tagArtifactBPName080=神器蓝图 ~ 德瓦林的模拟体
+tagArtifactBPName081=神器蓝图 ~ 甘班泰恩
+tagArtifactBPName082=神器蓝图 ~ 吉阿尔霍恩
+tagArtifactBPName083=神器蓝图 ~ 卡尼克斯
+tagArtifactBPName084=神器蓝图 ~ 金腰带
+tagArtifactBPName085=神器蓝图 ~ 赛德尔骨
+tagArtifactBPName086=神器蓝图 ~ 辛加斯特恩
+tagArtifactBPName087=神器蓝图 ~ 昆仑学说
+tagArtifactBPName088=神器蓝图 ~ 四海龙王的宝珠
+tagArtifactBPName089=神器蓝图 ~ 不朽之桃
+tagArtifactBPName090=神器蓝图 ~ 盘古之力
+tagArtifactBPName091=神器蓝图 ~ 赫梅拉的王冠
+tagArtifactBPName092=神器蓝图 ~ 潘神的长笛
+tagArtifactBPName093=神器蓝图 ~ 赫尔的镰刀
+tagArtifactBPName094=神器蓝图 ~ 灯火的火炬
+tagArtifactBPName095=神器蓝图 ~ 拉塔托斯克的果实
+tagArtifactBPName096=神器蓝图 ~ 赫卡忒的符号
+tagArtifactBPName097=神器蓝图 ~ 奈克斯的黑暗面纱
+
+xtagArtifactFlavor001="这张卷轴上的图像在移动，仿佛透过别人的梦境在看。"
+xtagArtifactFlavor002="骷髅的空洞眼窝似乎在回望你。"
+xtagArtifactFlavor003="一团火焰在这个宝珠内翻滚，仿佛被某种东西激发。"
+xtagArtifactFlavor004="一种绿色的光芒从这块诡异的盾牌中散发出来。"
+xtagArtifactFlavor005="一个空瓶，意外地反射光线表现得非常好。"
+xtagArtifactFlavor006="星星闪耀着明亮的光芒。"
+xtagArtifactFlavor007="凝视这无尽的夜空地平线。"
+xtagArtifactFlavor008="在黑暗中，一切都被照亮。"
+xtagArtifactFlavor009="在这个挂坠中，可以看到一个外星的天空。"
+xtagArtifactFlavor010="小丑可不是傻瓜。"
+xtagArtifactFlavor011="维度中包含着维度，这个立方体似乎违背了现实。"
+xtagArtifactFlavor012="从这束叶子中可以听到一首柔和的旋律。"
+xtagArtifactFlavor013="这支箭燃烧的时间似乎是永恒的。"
+xtagArtifactFlavor014="从这个让人寒颤的物品中可以感觉到一种黑暗的气息。"
+xtagArtifactFlavor015="来自一种神秘兽类的爪子，爪子锋利得不可思议。"
+xtagArtifactFlavor016="蛇在滑行时，周围传来一种奇异的嗡嗡声。"
+xtagArtifactFlavor017="一块石头，在阳光下它冒烟并变得炙热。"
+xtagArtifactFlavor018="一个瓶子，里面盛着沸腾的血液，握住它似乎会引发愤怒。"
+xtagArtifactFlavor019="据说这是一个无价之宝。"
+xtagArtifactFlavor020="一根奇异的绿色羽毛，似乎轻盈得几乎随风飘动。"
+xtagArtifactFlavor021="一个神秘的小饰品，似乎能够减轻持有者的精神负担。"
+xtagArtifactFlavor022="一个阴森的玻璃球，球内有一场黑暗风暴。"
+xtagArtifactFlavor023="这个盒子似乎吸收所有的光线，即使在阳光下，它也不会投下影子，表面也没有任何细节。"
+xtagArtifactFlavor024="死灵法师将一个恶意实体封印在其中，但它的力量仍然渗透出来。"
+xtagArtifactFlavor025="在这个护符中，一只黑龙正在沉睡。"
+xtagArtifactFlavor026="一只鸟的影子在尾随。"
+xtagArtifactFlavor027="仅仅持有这个物品就会使人产生幻觉并听到声音。"
+xtagArtifactFlavor028="一面紫色的旗帜，能鼓舞部队士气。"
+xtagArtifactFlavor029="一本详细描述如何施展各种法术的书。"
+xtagArtifactFlavor030="一个纯黑檀木制成的破裂的宝珠。"
+xtagArtifactFlavor031="一名死去的火焰法师的舌头，依然保有热量。"
+xtagArtifactFlavor032="一只被电击震惊的手，依然紧握着，仿佛抓住了一道雷电。"
+xtagArtifactFlavor033="一只豹子的头，似乎让那些拥有它的人具备更强的狩猎能力。"
+xtagArtifactFlavor034="由银制成的心脏，既能防止邪恶，又是一种相当不错的导电体。"
+xtagArtifactFlavor035="一封信，封印着一位女性的吻，仍然保留着她的气息。"
+xtagArtifactFlavor036="一瓶寒冷的云朵，捕捉到了无法捉摸的存在。"
+xtagArtifactFlavor037="一本预言者的指南，描述了掌控梦境的过程。"
+xtagArtifactFlavor038="一块闪亮的蓝色棱镜，里面关押着亡者的灵魂，允许使用者随意操控。"
+xtagArtifactFlavor039="由一个古老组织创造，这个花环象征着强大的力量。"
+xtagArtifactFlavor040="披上了阴影的精髓和黑暗的决心。"
+//一件完全由阴影制成的斗篷。
+xtagArtifactFlavor041="一个包含了经过无数战争和纷争积累的愤怒的宝珠。"
+xtagArtifactFlavor042="暴风雨在瞳孔中酝酿。"
+xtagArtifactFlavor043="一条古老龙的舌头，已转化为火焰法师的力量符号。"
+xtagArtifactFlavor044="传说中的‘屠王者’的精华，据说它拥有巨大的力量，适合战士使用。"
+xtagArtifactFlavor045="这只狮子的心脏依旧跳动，每一次跳动都将勇气注入它的持有者的心中。"
+xtagArtifactFlavor046="一个燃烧着魔法能量的雕像，仔细聆听时，你可以听到其中有风暴在肆虐。"
+xtagArtifactFlavor047="一颗先知的水晶宝珠，能够揭示过去与未来的奥秘。"
+xtagArtifactFlavor048="这颗滴血的深红色石头，如果靠近垂死之人，它似乎会沸腾。"
+xtagArtifactFlavor049="一个阴森的图腾，旨在驱赶死者，死灵法师用它来控制他们的召唤物。"
+xtagArtifactFlavor050="盗贼常喜欢与蛇为伍，尤其是这条。"
+xtagArtifactFlavor051="由荆棘制成的雕像，一只手代表着与自然的纽带。"
+xtagArtifactFlavor052="由泥土与岩浆混合而成，最终硬化成了心形。"
+xtagArtifactFlavor053="一个曾被多个军阀使用的标记。"
+xtagArtifactFlavor054="一只古老的木乃伊拳头，赋予使用者无可比拟的力量。"
+xtagArtifactFlavor055="阿基琉斯亲自留下的无时间象征，减轻世界的重量，并驱散死者的阴影。"
+xtagArtifactFlavor056="一片永不融化的冰，触摸时却感到炙热。仔细观察时，可以看到红色闪电在其中肆虐。"
+xtagArtifactFlavor057="持有此符号的人被认为是‘万能者’。"
+xtagArtifactFlavor058="一面魔法镜，能够无效化各种类型的魔法，并将恶意攻击反弹。"
+xtagArtifactFlavor059="来自新月的石头在战斗中闪闪发光，赋予阿耳忒弥斯的敏捷。"
+xtagArtifactFlavor060="海神波塞冬给予的礼物，凡是持有他渔网一部分的人，都会获得祝福。"
+xtagArtifactFlavor061="一只装满了无尽食物和药品的丰收之角。"
+xtagArtifactFlavor062="赫淮斯托斯授予了工艺与火焰的知识，既能创造，也能摧毁。"
+xtagArtifactFlavor063="战神阿瑞斯的神血，因愤怒而燃烧，触碰它的人会进入狂怒状态。"
+xtagArtifactFlavor064="永生永世，与死后世界的守护者永远相连。"
+//奥西里斯的权杖散发出异界能量，驱散死者及其魔法。
+xtagArtifactFlavor065="古老的符号守护着凡界与超凡界之间的一切。"
+//代表婚姻与生命的象征，伊西斯的结绳闪烁着奇迹般的光芒。
+xtagArtifactFlavor066="孙悟空的狡诈嘲笑生命本身，他的眼睛闪烁着光辉，仿佛仍蕴藏着他的力量。"
+xtagArtifactFlavor067="传说这件护符曾是那位不朽的皇帝亲自佩戴的。"
+xtagArtifactFlavor068="梦网据说拥有操控梦境的力量，甚至能控制那些反抗梦神摩耳甫斯的人。"
+xtagArtifactFlavor069="通过无法理解的方式召唤而来，一股曾被认为无法获得的力量。"
+//一枚刻有猫神图腾的徽章，象征着对兽人族群的支配。
+xtagArtifactFlavor070="一块古老的石板碎片散发出无尽的力量，似乎与地球本身一样古老。"
+xtagArtifactFlavor071="以永恒的力量，至高无上地统治。"
+//拉的火焰瞳孔从天上注视，焚烧一切。
+xtagArtifactFlavor072="无尽的智慧，由天文之神亲自赐予。"
+//托特的智慧与荣耀被封存在其中。
+xtagArtifactFlavor073="这个符号代表着宙斯的力量，宙斯是天空与其他诸神的主宰。"
+xtagArtifactFlavor074="由阿波罗亲自创作的神曲，在他的传奇七弦琴的碎片中依然回响。"
+xtagArtifactFlavor075="伊什塔尔的星星据说能在战争与爱情中带来平衡。传说她至今仍在保护那些忠于她的人。"
+xtagArtifactFlavor076="利莫斯的诅咒让口腔、喉咙、肺部和血管充满一种空洞感，激起无法抑制的饥渴。"
+xtagArtifactFlavor077="这些金苹果甚至能驱散死亡的阴影。"
+xtagArtifactFlavor078="打开你的心扉，黑暗精灵会赐予你祝福。"
+xtagArtifactFlavor079="这辆战车的轮子上闪烁着神秘的雷电。"
+xtagArtifactFlavor080="一种用来迷惑敌人的装置，能制造出自身的幻象。"
+xtagArtifactFlavor081="一把来自森林的魔法武器。"
+xtagArtifactFlavor082="这只响亮的号角召唤着末日的来临。"
+xtagArtifactFlavor083="这个乐器回响着战斗的圣歌。"
+xtagArtifactFlavor084="一个适合巨人的恐怖腰带。"
+xtagArtifactFlavor085="一个被遗忘的故事，关于丢失的骨头。"
+xtagArtifactFlavor086="海洋的歌声从这块石头中传出。"
+xtagArtifactFlavor087="一种由众神传授给人类的武术风格。"
+xtagArtifactFlavor088="一个由西海创造的天体宝珠，赋予他洞察万象的能力。"
+xtagArtifactFlavor089="这颗果实是神祇专用的食物，能保证他们的长生与神性。"
+xtagArtifactFlavor090="传说第一个人类盘古能挪动山川、海洋，甚至天空。"
+xtagArtifactFlavor091="一顶象征日神的火焰皇冠。"
+xtagArtifactFlavor092="潘的挚爱将自己化作芦苇来躲避潘的欲望。于是他将这些芦苇做成了笛子。"
+xtagArtifactFlavor093="一把令人厌恶的镰刀，覆盖着腐朽与魔力。"
+xtagArtifactFlavor094="赫卡忒的追随者用于各种仪式的火炬。"
+xtagArtifactFlavor095="一颗奇怪的坚果，里面能听到窸窣声……松鼠？"
+xtagArtifactFlavor096="一个被时间遗忘的符号，其含义只被女巫女神的虔诚信徒所知。"
+xtagArtifactFlavor097="一层纯粹的黑暗之幕；看不见的双眼正从中盯着你。"
+
+Item Skills
+
+#Affixes
+tagX4Prefix006SkillNAME=虚弱诅咒
+tagX4Prefix006SkillDESC=被击杀的敌人可能散布虚弱的诅咒。
+
+#Medals
+tagGQMedalD001SkillNAME=反击
+tagGQMedalD001SkillDESC=即便在激烈的战斗中，埃阿斯也能将每一击回敬敌人。
+tagGQMedalD004SkillNAME=女神的悲伤
+tagGQMedalD004SkillDESC=珀耳塞福涅在冥界的来回穿梭赋予了她对生死的掌控，她的眼泪甚至能令生命枯萎。
+tagGQMedalD006SkillNAME=重击
+tagGQMedalD006SkillDESC=挡在赫拉克勒斯面前通常被认为是一个严重的错误。
+tagGQMedalD011SkillNAME=雷霆苍穹
+tagGQMedalD011SkillDESC=宙斯掌控着整个天空，只要他下令，天地便会随之而动。
+tagGQMedalD012SkillNAME=生命祝福
+tagGQMedalD012SkillDESC=天后庇护她的所有子民，当她的虔诚者受伤时，她会以神光滋养他们。
+tagX2MedalD008Skill=全父之护
+tagX2MedalD008SkillDESC=全父洞察一切，庇护所有虔诚的追随者，有时他会保护他们免受伤害。
+
+#Amulets
+tagX2AmuletD001Skill=战争先驱
+tagX2AmuletD001SkillDESC=在地上插下远古战旗，鼓舞附近的盟友奋力战斗。
+tagX2AmuletD001Pet=战争战旗
+tagX2AmuletD001PetSkill=鼓舞
+tagAphroditesFavorSkillNAME=阿佛洛狄忒的恩惠
+tagAphroditesFavorSkillDESC=阿佛洛狄忒会眷顾佩戴她护符的人，在他们受伤时赐予生命之力。
+tagIxionStoneSkillNAME=伊克西翁的不灭之怒
+tagIxionStoneSkillDESC=伊克西翁的怒火即便在塔耳塔罗斯也从未熄灭，如今它燃烧着深渊原初的混沌。
+tagBlessingOfTheGodsSkillNAME=神意干预
+tagBlessingOfTheGodsSkillDESC=诸神的意志庇护你，短暂阻止死亡降临。
+tagCerberusCollarSkillNAME=看门者之嚎
+tagCerberusCollarSkillDESC=可怕的怒吼从看门者的项圈中回荡。你的仆从将被疯狂血欲驱动，而你也会获得强化。
+tagShavosRelicSkillNAME=召唤沙沃的化身
+tagShavosRelicSkillDESC=召唤一个地狱的精灵协助你战斗。^o同一时间只能召唤一个精灵。该精灵随宠物加成成长。
+tagShavosRelicPetNAME=沙沃的化身
+tagSongoftheSirenSkillNAME=海妖之歌
+tagSongoftheSirenSkillDESC=诅咒般的旋律响起，使附近的敌人随机受到状态效果并粉碎其防御。
+
+#Rings
+tagBandOfSoulsSkillNAME=召唤复仇女神
+tagBandOfSoulsSkillDESC=呼唤其中一位复仇女神来惩戒凡人的灵魂。^o复仇女神随玩家加成成长。
+tagBandOfSoulsPetNAME=复仇女神
+tagBandOfSoulsPetSkill1NAME=寒冷之触
+tagBandOfSoulsPetSkill2NAME=恐惧光环
+tagGladiatorsCreedSkillNAME=超越
+tagGladiatorsCreedSkillDESC=真正的角斗士会以压倒性的力量统治所有敌人。
+tagThothsMarkSkillNAME=灵魂撕裂
+tagThothsMarkSkillDESC=托特的古老魔法在你战斗时爆发，短暂地环绕你旋转。
+tagStarOfElysiumSkillNAME=极乐之刃
+tagStarOfElysiumSkillDESC=一圈幽灵之剑围绕你旋转，对附近的敌人造成伤害。
+tagApollosWillSkillNAME=箭雨
+tagApollosWillSkillDESC=一阵箭矢从你身上爆发，追踪目标。
+tagArbruringSkillNAME=亵渎
+tagArbruringSkillDESC=黑暗迷雾蔓延战场，使敌人更易受到流血与生命腐蚀伤害。
+tagArchimedesCogwheelSkillNAME=阿基米德冲击
+tagArchimedesCogwheelSkillDESC=激活时，此戒指会向目标召唤一道太阳光束。
+tagChironsLoopSkillNAME=毒云
+tagChironsLoopSkillDESC=当你造成暴击时，附近敌人脚下会喷发有毒云雾。
+tagCelestialBandSkillNAME=天启激励
+tagCelestialBandSkillDESC=神圣的存在激励你的召唤物更奋力战斗。
+tagEurydiceWeddingBandSkillNAME=震击拥抱
+tagEurydiceWeddingBandSkillDESC=尤丽狄茜的爱仍停留在这枚戒指中，当你造成暴击时，一道暴烈的锁链会抽击附近敌人。
+tagEyeOfHorusSkillNAME=神秘风暴
+tagEyeOfHorusSkillDESC=在暴击时，霍鲁斯会召唤一场风暴，持续时间内打击任何附近的敌人。
+tagEyeOfReveriesSkillNAME=梦者的梦
+tagEyeOfReveriesSkillDESC=你被梦境和记忆充满，这些梦境赋予你力量。
+tagMarkOfAresSkillNAME=铁拳
+tagMarkOfAresSkillDESC=一只石质拳头从大地中喷发，狠狠地给你的敌人上一课。
+tagMarkOverlordSkillNAME=狂怒
+tagMarkOverlordSkillDESC=在战斗中受到攻击时，你会陷入疯狂，提升你的速度和伤害。
+tagPersephonesRingSkillNAME=珀耳塞福涅之握
+tagPersephonesRingSkillDESC=珀耳塞福涅与哈迪斯及冥界关系密切，如果她抓住了她不喜欢的人，他们的命运将注定悲惨。
+tagRingOfGaiaSkillNAME=大地守护
+tagRingOfGaiaSkillDESC=盖亚是大自然的守护者，她的祝福将帮助你守护生命的圣洁。
+tagSealOfHephaestusSkillNAME=赫淮斯托斯之力
+tagSealOfHephaestusSkillDESC=当你受到攻击时，戒指会充满你的力量，赋予你赫淮斯托斯的力量。
+tagSkillsAmulet=巧妙护符
+tagSkillsRing=巧妙戒指
+tagCursedJewelsSkillNAME=诅咒宝石
+tagCursedJewelsSkillDESC=你携带的巨大黑珍珠吸取了你的力量，但却增强了你的追随者。
+tagCrestOfMuRongSkillNAME=铁血意志
+tagCrestOfMuRongSkillDESC=在战斗中，戒指会发出光辉，填补佩戴者的生命力。
+tagX2RingD001Skill=Draugr的复仇
+tagX2RingD001Desc=用Draugr的复仇诅咒你的敌人。
+tagX2RingD002Skill=滴金
+tagX2RingD002Desc=不确定这个戒指具体有什么作用，但它感觉几乎像是液体。
+tagX2RingD003Skill=阿尔法之恩
+tagX2RingD003Desc=暴击后，你会陷入疯狂，赋予你精灵般的优雅。
+tagX2RingD004Skill=塔拉尼斯之印
+tagX2RingD004Desc=用塔拉尼斯之轮诅咒你的敌人。
+tagX2RingD005Skill=龙之克星
+tagX2RingD005Desc=一支火焰之箭穿透你的敌人。
+tagX2RingD006Skill=布迪卡的诏令
+tagX2RingD006Desc=布迪卡遗忘的戒指依然持有女王的诏令，这个无法忽视的死亡诏令。
+tagX2RingD007Skill=旋转钢铁
+tagX2RingD007Desc=一道钢铁闪现而过，以非自然的速度击打附近的目标。
+tagX2RingD008Skill=矿渣轮
+tagX2RingD008Desc=一圈矿渣环绕着你。
+tagX2RingD009Skill=永冻
+tagX2RingD009Desc=用古老的寒冷打击你的敌人，这股寒冷能够冻结一切。
+tagX2RingD010Skill=眼池
+tagX2RingD010Desc=巴洛尔之眼蕴藏着无限的血液，这些血液凝结成一滩腐臭的液体，流淌在你敌人脚下。
+tagX2RingD011Skill=安德瓦纳特的幸运
+tagX2RingD011Desc=你在佩戴这枚戒指时感到异常幸运……这实在太奇怪了。
+tagX2RingD011SkillB=安德瓦纳特的诅咒
+tagX2RingD011DescB=这枚戒指的非凡幸运需要付出代价……它压得你喘不过气，令你虚弱。
+tagX2RingD011Drop=金币袋
+tagX2RingD011PetSkill=安德瓦纳特的宝藏
+tagX4RingD001SkillNAME=威能
+tagX4RingD001SkillDESC=你忽略所有干扰，运用所有技能将敌人打倒。
+tagX4RingD002SkillNAME=毒液
+tagX4RingD002SkillDESC=从某一区域爆发出一阵毒液。
+tagX4RingD003SkillNAME=骄傲
+tagX4RingD003SkillDESC=金蟾的蟾蜍恶魔能量猛烈爆发，将附近所有敌人摧毁。
+tagX4RingD004SkillNAME=宠爱
+tagX4RingD004SkillDESC=神话中的麒麟之灵放大你的元素魔法。
+tagX4RingD005SkillNAME=圣甲虫
+tagX4RingD005SkillDESC=召唤一只古老的圣甲虫来保护你。
+tagX4RingD005PetNAME=古代圣甲虫
+tagX4RingD005PetSkillNAME1=固有属性
+tagX4RingD005PetSkillNAME2=亵渎
+tagX4RingD006SkillNAME=心血来潮
+tagX4RingD006SkillDESC=扭曲敌人的命运，使他们无法抵抗以太。
+tagX4RingD007SkillNAME=天赐
+tagX4RingD007SkillDESC=温神议会增强你瘟疫魔法的威力。
+tagX4RingD008SkillNAME=正念
+tagX4RingD008SkillDESC=进入一种身心合一的状态。
+
+Weapons
+
+tagGuanYuNAME=观音的复兴
+tagGuanYuDESC=这根法杖中蕴含的治疗魔法在生命值低时治疗持有者。
+tagHekaRewindNAME=充能
+tagHekaRewindDESC=你的魔法充能速度加快。
+tagShikigamiPetAuraNAME=诅咒气息
+tagShikigamiPetAuraDESC=式神的邪恶存在让周围的人在其恶意气息下痛苦不堪。
+tagSkillName235=雷霆一击
+tagSkillDescription235=释放一个电能环，将其范围内的敌人击晕。
+tagSkillName236=冲锋
+tagSkillDescription236=冲向目标并执行一次攻击，造成额外伤害。
+tagSkillName237=衰竭
+tagSkillDescription237=让受到诅咒的敌人逐渐虚弱，削弱他们对物理攻击的抵抗力并减缓其移动速度。
+tagBiteAnubisSkill=阿努比斯之咬
+tagAmenRaSkill=魔法克星
+tagAmenRaSkillDESC=暴击时，你释放出一记毁灭性的攻击，打乱敌人的魔法，使他们的法力燃烧，魔法被驱散并在短时间内无法施放。
+tagBladeIshtarSkill=伊什塔尔的祝福
+tagBonesawSkill=骨锯
+tagChangKuoLaoSkillNAME=钢铁模糊
+tagChangKuoLaoSkillDESC=闪电般的钢铁，你释放出两把旋转的刀刃，将敌人撕成碎片，同时你继续战斗。
+tagDespairSkill=绝望
+tagDoxaKaloSkill=穿刺横扫
+tagFuxiSkill=火蛇之尾
+tagGriefmakerSkill=血腥横扫
+tagHeartpieceSkill=出血
+tagHuoQubingSkill=粉碎防御
+tagKatharsosSkill=生命虹吸
+tagKetosChompSkill=刀刃撕咬
+tagKydoimosSkill=混响之角
+tagLifebaneSkill=吸取新星
+tagLindaneSkill=夸尔爆炸
+tagLordSethSkill=熵
+tagMarduksRageSkill=马尔杜克之怒
+tagMemnonsTrustSkill=复仇
+tagMindrazorSkill=心刃
+tagMindrazorSkillDESC=心刃的刀刃以战斗为食，化为一种无形的武器，蕴含着不确定的力量。
+tagOathbreakerSkill=誓言破碎
+tagPagosSkill=霜新星
+tagPatroclusSkill=真视
+tagRimescytheSkill=冰冻斩击
+tagRunebladeSkill=吸血符文
+tagSilenceSkill=沉默符文
+tagSoulcarverSkill=灵魂雕刻
+tagSpartansWitSkill=斯巴达勇气
+tagStymphalianTalonSkill=撕裂之爪
+tagSwordDamoclesSkill=最后通牒
+tagSwordDarknessSkill=蔓延阴影
+tagSwordZhouSkill=重刃打击
+tagTeslosSkill=雷电之球
+tagTheReckoningSkill=审判
+tagTheseusSkill=重斩
+tagThunderboltSkill=活雷暴
+tagThystesSkill=刺杀
+tagZhanluSkill=镇压
+tagIceShotNAME=低温伤害
+tagIceShotDESC=瞬间将敌人冷却至骨髓，减缓并可能冻结敌人，同时造成寒霜燃烧伤害。
+tagKhamsinSkillNAME=沙尘暴
+tagKhamsinSkillDESC=偶尔，Khamsin弓会召唤沙漠之风，寻找到敌人并用干燥沙地的严酷天气将他们撕裂。
+tagKhamsinPetSkillNAME=撕裂沙尘
+tagKheprerNAME=凯普瑞的光辉
+tagKheprerDESC=当持有者临近死亡时，凯普瑞的光辉能量充盈全身，使伤口愈合。
+tagNeithsBowSkillNAME=奈斯之焰
+tagNeithsBowSkillDESC=用一团混乱的火焰标记敌人，削弱他们的决心。
+tagNemesisBowSkillNAME=无法逃避的复仇
+tagNemesisBowSkillDESC=射出一箭，重创目标，确保他们的命运。
+tagAlphaDogNAME=首领之嚎
+tagAlphaDogDESC=大狼犬释放一声强大的嚎叫，大幅增强附近的盟友并治疗他们。
+tagAtalantaWolfSkillNAME=召唤阿塔兰塔的巨狼
+tagAtalantaWolfSkillDESC=召唤阿塔兰塔的巨狼，这是一只可怕的野兽，阿塔兰塔的朋友。
+tagAtalantaWolfNAME=阿塔兰塔的巨狼
+tagUnkillableWolfNAME=生存本能
+tagUnkillableWolfDESC=阿塔兰塔的巨狼无法轻易被杀死，生命值低时其生命力会自行恢复并治愈自己。
+tagAtalantaWolfAttackNAME=咬击
+tagAgamemnonScepterSkillNAME=战争之心
+tagAgamemnonScepterSkillDESC=阿伽门农的权杖充满勇气和力量，赋予你战斗的决心。
+tagIrisSkillNAME=辐射光芒
+tagIrisSkillDESC=彩虹女神伊瑞斯赋予你光辉，使你散发出元素能量。
+tagKrakenFistSkillNAME=雷霆一击
+tagKrakenFistSkillDESC=偶尔，克拉肯之拳会在战斗中释放出一股积累的电能。
+tagThornyMaulSkillNAME=血爆
+tagThornyMaulSkillDESC=从你击败的敌人身上爆发出一阵血腥的喷射。
+tagOrionsMaceNAME=元素爆发
+tagOrionsMaceDESC=奥里翁的钉锤释放出一股元素魔法爆发，将附近敌人淹没在元素狂暴的火焰中。
+tagTruncheonOfMaliceNAME=恶意
+tagTruncheonOfMaliceDESC=当你的生命逐渐流失时，你所持的警棍将你包裹在恶意魔法中，增加你的伤害输出并吸收伤害。
+tagSpinebreakerNAME=地震
+tagSpinebreakerDESC=偶尔，暴击会在脊柱断裂者中引发共鸣，震动周围的地面。
+tagLykaionMalleusNAME=雷霆之矛
+tagLykaionMalleusDESC=雷霆之锤是在利卡翁山上的宙斯祭坛上锻造的，它赋予持有者宙斯的祝福，并在战斗中向敌人释放闪电。
+tagGriefmakerSkillNAME=悲痛之刃
+tagGriefmakerSkillDESC=暴击时，幽影之刃从你的武器中爆发出来，环绕你一段时间，切割附近的敌人。
+tagPlisskenSkillNAME=毒刃
+tagPlisskenSkillDESC=一次凶猛的攻击，撕开目标并在伤口中留下腐烂的毒素。
+tagCharybdisSkillNAME=卡律布狄斯之触
+tagCharybdisSkillDESC=卡律布狄斯的斧头包含了传说中的漩涡之魂，攻击敌人时有机会将敌人冻结并造成额外的寒冷伤害。
+tagScyllaSkillNAME=斯库拉之咬
+tagScyllaSkillDESC=斯库拉的斧头蕴含着神话中的漩涡怪兽的灵魂，攻击敌人时有机会眩晕敌人并造成额外的雷电伤害。
+tagSagarisTartarusSkillNAME=剑风
+tagSagarisTartarusSkillDESC=塔尔塔罗斯的萨加里斯召唤出来自冥界的幽灵之刃风暴，攻击你的敌人，持续一段时间。
+tagTormentSkillNAME=折磨
+tagTormentSkillDESC=地狱斧在敌人攻击时进行反击，使他们陷入疯狂。
+tagOnslaughtSkillNAME=猛攻
+tagOnslaughtSkillDESC=一场纯粹的体能展示，将斧头旋转并甩向附近的敌人，将其击晕。
+tagGaiasRevengeSkillNAME=盖亚的复仇
+tagGaiasRevengeSkillDESC=镰刀释放出古老的诅咒，判定受到影响的敌人死期已至。
+tagShaitanSkillNAME=沙伊坦的诅咒
+tagShaitanSkillDESC=一只恶魔的灵魂栖息在斧头中，使用沙伊坦时，它会释放出诅咒的气息。
+tagTheFuriesSkillNAME=厄里涅斯的赐福
+tagTheFuriesSkillDESC=栖息在斧头中的地狱女神们饮尽你敌人的鲜血，通过喂养斧头，她们会赐予你部分她们的冥界力量。
+tagCerberusBiteSkillNAME=恶臭之咬
+tagCerberusBiteSkillDESC=凯尔伯洛斯的斧头以其毒辣的刀刃咬向敌人。
+tagErysichthonsHungerSkillNAME=永恒的盛宴
+tagErysichthonsHungerSkillDESC=得梅特尔的诅咒让这把斧头使持有者饥饿无尽；当受此诅咒时，你将不得不吞噬一切来维持生命。
+tagKeyOfElysiumSkillNAME=厄尔修斯之刃
+tagKeyOfElysiumSkillDESC=一圈幽灵武器环绕在你身边，攻击附近的敌人。
+tagMorbiusSkillNAME=物理屏障
+tagMorbiusSkillDESC=在你周围形成一个魔法屏障，保护你免受物理伤害。
+tagDemetersSorrowSkillNAME=得梅特尔的悲伤
+tagDemetersSorrowSkillDESC=当持有者被攻击时，棍棒会进行反击，使附近的敌人受到得梅特尔的悲伤，降低他们抵抗寒冷的能力。
+tagHornOfTiamatSkillNAME=原始嚎叫
+tagHornOfTiamatSkillDESC=提亚马特的号角仍然蕴含着这条古龙的灵魂。暴击时，一声来自异界的咆哮回荡四周，诅咒所有听见的人。
+tagSaprosSkillNAME=腐化
+tagSaprosSkillDESC=一圈神秘的毒气环绕在你周围，腐蚀敢于靠近的敌人。
+tagPrometheusGiftSkillNAME=普罗米修斯的赠礼
+tagPrometheusGiftSkillDESC=只要你处于战斗中，普罗米修斯的火炬偶尔会治愈你，并赋予你额外的火焰伤害。
+tagImperatorSkillNAME=胡萝卜的哭声
+tagImperatorSkillDESC=两根胡萝卜从地面中冒出，试图摆脱它们注定的结局，结果却被送向敌人。
+xtagUWeapon100Desc="从你脚下传来千百、甚至百万个痛苦的尖叫声。你想知道这些受折磨的尖叫声是什么。然后你握住的胡萝卜对你说话了，这些是胡萝卜的哭声，没错，就是胡萝卜的哭声！"
+tagDamoclesSkillNAME=最后通牒
+tagDamoclesSkillDESC="岂不见狄俄尼修斯已经足够明确地表明：那个人上方总有一股恐惧徘徊，令他无法享受任何幸福？"
+tagStymphalianTalonNAME=斯廷法利亚钢
+tagStymphalianTalonDESC=斯廷法利亚鸟以其坚硬如钢的羽毛和锋利如刀的爪子而闻名。偶尔，这把由斯廷法利亚钢锻造的剑会穿透敌人，突破护甲并让敌人流血。
+tagZhanluSkillNAME=压迫气息
+tagZhanluSkillDESC=斩戮剑散发着虚空魔法，暴击时，一股纯粹的虚空能量波动冲击附近敌人，使其受到短时间的诅咒。
+tagAmazonianSpearSkillNAME=毒刃涂层
+tagAmazonianSpearSkillDESC=亚马逊女战士在战争中熟悉使用毒药。这根长矛涂抹着无法清除的毒素，任何被其击中的敌人都会中毒。
+tagAresWrathSkillNAME=阿瑞斯之怒
+tagAresWrathSkillDESC=在战斗中被击中时，有一定几率让你获得阿瑞斯之怒。
+tagGaleSpearSkillNAME=震电之握
+tagGaleSpearSkillDESC=挥舞风暴之矛需要极大的专注，矛柄似乎总想电击你。如果你能忍受震电之握，你将获得更强的进攻能力。
+tagKwanYinSkillNAME=最终慈悲
+tagKwanYinSkillDESC=观音的长矛闪烁着奥术能量，暴击时，矛会释放出一股奥术能量爆发。
+tagPeleusAshenSpearSkillNAME=深切伤口
+tagPeleusAshenSpearSkillDESC=佩琉斯的长矛刀刃锐利无比，足以造成严重的伤害。
+tagPhorkosTridentSkillNAME=原始寒气
+tagPhorkosTridentSkillDESC=古海神的三叉戟依然散发着冰冷的原始魔法。
+tagSpearOfTheDryadsSkillNAME=林精的祝福
+tagSpearOfTheDryadsSkillDESC=这把长矛由神圣的橡木雕刻而成，每当持有者受到伤害时，树灵会前来保护他们。
+tagTelamonsBoarSkewerSkillNAME=野猪穿刺
+tagTelamonsBoarSkewerSkillDESC=这根矛尖永远不会变钝，几乎仿佛它渴望刺入重甲敌人的身体。
+tagGerasWalkingStickSkillNAME=枯萎
+tagGerasWalkingStickSkillDESC=盖拉斯的拐杖内蕴藏的魔法可以让任何被击中的目标瞬间衰老。
+tagShikigamiSkillNAME=召唤式神
+tagShikigamiSkillDESC=召唤一只栖息在法杖中的灵魂，帮助你一段时间。
+tagShikigamiPetAttackNAME=黑暗气息
+tagLeiKunsGnarledStaffSkillNAME=风暴使者
+tagLeiKunsGnarledStaffSkillDESC=一场大风暴围绕着这根法杖旋转，偶尔会给附近的敌人带来毁灭。
+tagStaffOfTheCosmosSkillNAME=荒芜
+tagStaffOfTheCosmosSkillDESC=一波荒凉感笼罩你的目标，迫使他们感受宇宙的空虚，以及星辰的温暖。
+tagMorosNyxSkillNAME=莫洛斯·尼克斯
+tagMorosNyxSkillDESC=这根法杖蕴藏着莫洛斯的力量，他是命运与即将到来的灾难之神。挥动它，你也掌控了一部分力量，包括操控命运和将厄运降临到敌人身上。
+tagArchonsJudgementSkillNAME=审判
+tagArchonsJudgementSkillDESC=曾经挥舞这根法杖的伟大执政官对你的敌人进行审判。
+tagCaduceusSkillNAME=卡杜修斯
+tagCaduceusSkillDESC=卡杜修斯法杖能够进行各种炼金术，其中一种用法是将空气转化为毒气，使被击中的目标中毒，毒素猛烈。
+tagChromaticStaffSkillNAME=元素诅咒
+tagChromaticStaffSkillDESC=诅咒一个区域内的敌人，使他们对元素更加脆弱。
+tagFingerboneOfBoreasSkillNAME=冰霜微爆
+tagFingerboneOfBoreasSkillDESC=一阵寒风爆发，冻结你周围所有的敌人，并留下严重的冰霜灼伤。
+tagHecatesRodSkillNAME=吸收魔法
+tagHecatesRodSkillDESC=在你周围形成一个保护屏障，暂时吸收所有魔法伤害。
+tagScepterofCarnusSkillNAME=卡尔努斯之翼
+tagScepterofCarnusSkillDESC=卡尔努斯的巨大翅膀覆盖你的目标，暴露出他们灵魂的部分，使他们更易受到虚化和活力伤害。
+tagGatekeeperSkillNAME=守门人的嚎叫
+tagGatekeeperSkillDESC=从守门人的偶像中传来一声可怕的咆哮。你的召唤物充满了疯狂的嗜血欲望。
+tagAjaxBronzeTowerSkillNAME=阿贾克斯铜塔
+tagAjaxBronzeTowerSkillDESC=伟大的阿贾克斯的战斗精神赋予持盾者强大的防御能力。
+tagAnexartitosSkillNAME=奥术复仇
+tagAnexartitosSkillDESC=每次攻击你或你的盾牌时，奥术能量会在阿内萨提托斯中积累，最终爆发出一击反击。
+tagAthenasMirroredShieldSkillNAME=雅典娜的祝福
+tagAthenasMirroredShieldSkillDESC=挥舞雅典娜的镜面盾牌能赐予你祝福，增强你的治疗与格挡能力。
+tagBloodthirstTheGluttonSkillNAME=贪食
+tagBloodthirstTheGluttonSkillDESC=这面盾牌的邪恶魔法让持有者更容易吸取他人的生命精华，但也让他们自己的生命变得脆弱。
+tagCrestOfTaurusSkillNAME=冲锋的公牛
+tagCrestOfTaurusSkillDESC=在格挡攻击时，盾牌会为你注入能量，赋予你力量和速度，让你像公牛一样冲破敌人。
+tagGoldenShieldOfPelaronSkillNAME=灼热回应
+tagGoldenShieldOfPelaronSkillDESC=当你被击中时，周围的敌人会被灼热的光辉洗礼。
+tagHerasShieldSkillNAME=赫拉的守护
+tagHerasShieldSkillDESC=赫拉虽然不以善良著称，但她祝福过的人，将得到她的保护，保护他们以及身边的人。
+tagLeatherskinShieldSkillNAME=猎杀姿态
+tagLeatherskinShieldSkillDESC=这面盾牌的来源未知，但与近战武器搭配使用时，似乎能赋予持有者更快的移动速度和更强的穿甲能力，轻松从猎物身上引血。^o 需要近战武器。
+tagShieldOfTheHideousVisageSkillNAME=丑陋的面容
+tagShieldOfTheHideousVisageSkillDESC=在战斗中，盾牌偶尔会从你的心灵投射出恐怖的面容，使附近的敌人感到极度恐惧并逃跑。
+tagShieldOfTheKorybantesSkillNAME=科里班提斯的战舞
+tagShieldOfTheKorybantesSkillDESC=受到攻击时，你将进入一场战舞，短时间内能更好地避免额外的伤害。
+tagTheGregSkillNAME=原始恐惧
+tagTheGregSkillDESC=一股不可言喻的恐惧从盾牌中散发出来，诅咒附近的敌人。
+tagHiemalDecapitatorSkillNAME=永恒寒冷
+tagHiemalDecapitatorSkillDESC=这件冰霜武器接触敌人时会将其冻结。
+tagSunDiscSkillNAME=炽热太阳
+tagSunDiscSkillDESC=太阳圆盘在你击中敌人时留下印记，使敌人对火焰伤害变得脆弱，并被太阳的光辉灼烧。
+tagAkhlysEffigySkillNAME=死亡迷雾
+tagAkhlysEffigySkillDESC=臭名昭著的死亡迷雾保护持有者，给予毒素和活力伤害的抗性，并有几率增加你技能的伤害。
+tagTextsOfHeraclesDeedsSkillNAME=半神之体
+tagTextsOfHeraclesDeedsSkillDESC=赫拉克勒斯的传奇故事激励着你，让你变得更强、更硬、更坚韧。
+tagSetsRedWindsOfChaosSkillNAME=风暴解封
+tagSetsRedWindsOfChaosSkillDESC=红沙被混乱之风携带，以塞特的混乱能量摧残你的敌人。
+tagIkelosNightmareEffigySkillNAME=醒来恐惧
+tagIkelosNightmareEffigySkillDESC=伊克洛斯以死亡戏弄你，用对你自己死亡的噩梦幻象嘲笑你。你回到身体，发现自己依然活着，暂时是的。
+tagOsirisCodexSkillNAME=奥西里斯的凝视
+tagOsirisCodexSkillDESC=奥西里斯那威胁的凝视摧毁你敌人的抵抗力。
+tagSealedStormOfZeusSkillNAME=链式闪电
+tagSealedStormOfZeusSkillDESC=闪电之枪从雷霆之书中飞出，击中周围的多个敌人后返回到书中。
+tagPythosLegacySkillNAME=皮托之息
+tagPythosLegacySkillDESC=从腐烂的偶像中爆发出一片腐烂的死亡海洋，将敌人覆盖并削弱他们的抗性。
+tagAphroditesGlobeSkillNAME=物理防护
+tagAphroditesGlobeSkillDESC=在受到伤害后，阿佛洛狄忒会在短时间内保护你，直到屏障被打破，期间无效所有物理伤害。
+tagSerpentsWhisperSkillNAME=蛇之低语
+tagSerpentsWhisperSkillDESC=发射一阵毒性飞镖，形成一个锥形区域。
+tagMeerkWoodSkillNAME=蜜獴木灵
+tagMeerkWoodSkillDESC=一种古老的意识在你体内觉醒，增强你和你的召唤物的力量。
+tagZhuRongSkillNAME=祝融烈焰
+tagZhuRongSkillDESC=将祝融的狂烈火焰覆盖在目标身上，火焰将迅速蔓延至附近的敌人，欲将整个世界点燃。
+tagBladestringNAME=刃弦
+tagBladestringDESC=一把锋利的刀片从弦中射出，刺穿所有挡在它路径上的敌人。
+tagBorealisSkillNAME=冰矛
+tagBorealisSkillDESC=释放一支冰矛，穿透任何敌人。
+tagSybarisSkillNAME=拉米亚之息
+tagSybarisSkillDESC=释放一头传奇野兽的气息，将你的敌人笼罩在其中。
+tagApollosBowSkillNAME=阿波罗的分裂射
+tagApollosBowSkillDESC=射出三支神圣的火焰箭，攻击你的敌人。
+tagBowOfEurytusSkillNAME=厄瑞图斯的无情之箭
+tagBowOfEurytusSkillDESC=厄瑞图斯之弓赋予持有者一部分厄瑞图斯的箭术技巧，能够精准地找到击中敌人致命部位并让其流血。
+tagTeucersBowSkillNAME=提尤克斯的箭阵
+tagTeucersBowSkillDESC=射出一片箭雨，攻击大范围内的敌人。
+tagCarrotMeteorNAME=宇宙胡萝卜
+tagCarrotMeteorDESC=撕裂天际，让胡萝卜从天而降，砸向你的敌人……
+xtagUWeapon037SkillNAME=超自然针
+xtagUWeapon037SkillDESC=发射一根传染性针管，命中时爆炸，对多个敌人造成伤害并传染他们。
+xtagUWeapon004SkillNAME=被诅咒者的幻象
+xtagUWeapon004SkillDESC=用被诅咒者的影像攻击敌人的心智，让他们变得虚弱。
+tagThyestesSkillNAME=残酷复仇
+tagThyestesSkillDESC=对被此攻击击中的敌人释放毁灭性的复仇。^o通过默认武器攻击触发。
+
+#Sets
+
+tagGQSetC001SkillNAME=玉皇的祝福
+tagGQSetC001SkillDESC=玉皇赐予你祝福，短时间内提供小幅治疗并增加伤害。
+tagGQSetC003SkillNAME=三重射击
+tagGQSetC003SkillDESC=射出三支箭，形成一个小弧形区域。
+tagGQSetC004SkillNAME=美农之志
+tagGQSetC004SkillDESC=当你接近死亡时，你感到一种战斗的激励，仿佛被美农的精神附体。
+tagGQSetC005SkillNAME=黑曜石守护
+tagGQSetC009SkillNAME=梦食者
+tagGQSetC009SkillDESC=吞噬你敌人的梦境，在短时间内增强自己。
+tagGQSwordC010SkillNAME=奥秘符文
+tagGQSwordC010SkillDESC=花些时间在地上画出一个复杂的符文图案，符文将会爆炸并产生巨大威力。
+tagGQSetC011SkillNAME=神速
+tagGQSetC011SkillDESC=一股超自然的速度与清晰感暂时洗礼你。
+tagGQSet001SkillNAME=特洛伊诡计
+tagGQSet001SkillDESC=减少冷却时间，让你的敌人措手不及！
+tagGQSet001CSkillNAME=特洛伊木马
+tagGQSet001CSkillDESC=向前方的敌人猛烈反击。
+tagGQSet002SkillNAME=原始涌动
+tagGQSet002SkillDESC=野外之灵充满你的存在，赋予你和你的召唤物更强的战斗能力。
+tagGQSet003SkillNAME=刺客之刃
+tagGQSet003SkillDESC=投掷匕首围绕你形成一个圆形，导致所有附近的敌人大量流血。
+tagGQSet004ASkillNAME=皮提亚之盾
+tagGQSet004ASkillDESC=皮提亚保护你，清空你的心灵，使你免受所有干扰，并消除你的魔法消耗。
+tagGQSet004CSkillNAME=皮提亚之眼
+tagGQSet004CSkillDESC=发出一个扩展的混乱魔法环。
+tagGQSet004SkillNAME=皮提亚的秘密
+tagGQSet004SkillDESC=释放藏在皮提亚之内的隐藏力量。
+tagGQSet005ASkillNAME=火法师之生焰
+tagGQSet005ASkillDESC=将活火焰投射到目标身上，减少他们的火焰抗性，持续一段时间。
+tagGQSet005SkillNAME=火法师之旋
+tagGQSet005SkillDESC=在你周围形成一个旋转的火焰，持续一段时间。
+tagGQSet006DSkillNAME=追踪者之网
+tagGQSet006DSkillDESC=将敌人困在一个小区域内，持续短时间。
+tagGQSet007DSkillNAME=暴风之怒
+tagGQSet007DSkillDESC=一团震动的魔法包裹住你的敌人，减少他们承受元素攻击的能力。
+tagGQSet007SkillNAME=风暴之静
+tagGQSet007SkillDESC=风暴形成一个屏障，保护你免受元素和虚化伤害。屏障将持续直到被摧毁。
+tagGQSet008ASkillNAME=阴影的幻想
+tagGQSet008ASkillDESC=死亡的旋律在这顶冠冕中回响……在战斗中，你的攻击将变得更强。
+tagGQSet008DSkillNAME=阴影之护
+tagGQSet008DSkillDESC=增强你对其他世界生物的抵抗力，并提升你整体的伤害输出。
+tagGQSet009DSkillNAME=战士的劈砍
+tagGQSet009DSkillDESC=猛烈地打击面前的敌人，造成大量物理伤害。
+tagGQSet009ESkillNAME=战士的穿刺打击
+tagGQSet009ESkillDESC=猛烈地打击面前的敌人，造成物理伤害和穿刺伤害。
+tagGQSet009SkillNAME=战士的刃风
+tagGQSet009SkillDESC=当你击中致命一击时，可能会释放出一阵金属旋风，对所有附近的敌人造成伤害。
+tagGQSet010DSkillNAME=军团员的反击
+tagGQSet010DSkillDESC=在成功挡下攻击后，以炽烈的军团力量进行报复。
+tagGQSet011DSkillNAME=卡里克西尼亚的意志
+tagGQSet011DSkillDESC=卡里克西尼亚的精髓依然存留在她的护符中，你可以唤起她部分的力量，激励自己和周围的盟友。
+tagGQSet012CSkillNAME=召唤火精灵
+tagGQSet012CSkillDESC=召唤一个火精灵来协助你战斗。然而，这个生物的存在不稳定，它很快会试图回到它的家。火精灵的能力随宠物加成而增长。
+tagGQSet012CPetNAME=火精灵
+tagGQSet012CPetSkillNAME1=火焰爪
+tagGQSet012SkillNAME=召唤赫利亚德
+tagGQSet012SkillDESC=召唤一位太阳精灵来与你并肩作战。赫利亚德的强大气息让敌人感到疲惫。每次只能召唤一位赫利亚德。太阳精灵的能力随宠物加成而增长。
+tagGQSet012PetNAME=赫利亚德
+tagGQSet012PetSkillNAME1=太阳气场
+tagGQSet012PetSkillDESC1=赫利亚德辐射周围的敌人，削弱他们的抗性和攻击力。
+tagGQSet015SkillNAME=克尔基诺斯之祸
+tagGQSet015SkillDESC=发出一阵致命的毒云，形成一个锥形区域。
+tagGQSet016SkillNAME=赫淮斯托斯之锤
+tagGQSet016SkillDESC=赫淮斯托斯的锻造之锤环绕着你，打击它经过的所有敌人。
+tagGQSet018CSkillNAME=震地
+tagGQSet018CSkillDESC=波塞冬的愤怒以多种形式展现，可能是海啸，也可能是地震。当你进行致命一击时，长矛释放出一股冰冷的波动，震动大地，减缓敌人并造成大量寒冷伤害。
+tagGQSet019BSkillNAME=战争之使者
+tagGQSet019BSkillDESC=当你被击中时，盾牌将赋予你和周围盟友阿瑞斯的力量，作为战争之神的使者。
+tagGQSet021ESkillNAME=极光封印
+tagGQSet021ESkillDESC=用瓦尔基里魔法制造的小封印在敌人脚下召唤。^o在积累0.5秒能量后造成伤害。
+tagGQSet021SkillNAME=弗雷娅之怒
+tagGQSet021SkillDESC=弗雷娅的力量展示了她如何用赛德尔魔法粉碎大地，对所有被波及的敌人造成伤害并将他们拉在一起。^o在积累1秒能量后造成伤害。
+tagGQSet022CSkillNAME=强力妙尔尼尔
+tagGQSet022CSkillDESC=妙尔尼尔从你的手中飞出，打击路径上的所有敌人，然后回来再次击打它们。
+tagGQSet022SkillNAME=雷神之力
+tagGQSet022SkillDESC=在唐纳尔的遗物的修复下，你的生命力激增，肉体和骨骼得到治愈。
+tagGQSet024SkillNAME=召唤淹死者
+tagGQSet024SkillDESC=通过祭献，黑珍珠召唤出淹死水手的幽灵来协助你。
+tagGQSet024PetNAME=淹死幽灵
+tagGQSet024PetSkill1NAME=虚无之触
+tagGQSet027SkillNAME=马其顿猛攻
+tagGQSet027SkillDESC=用马其顿的力量向敌人猛击。当作为默认武器攻击使用时，马其顿猛攻会随着每次攻击增加你的攻击强度。积累充能会提高增益效果的强度。
+tagGQSet028SkillNAME=雅典娜之力
+tagGQSet028SkillDESC=一面幽灵盾牌围绕着你，穿透你的敌人。
+tagGQSet029Skill1NAME=海渊
+tagGQSet029Skill1DESC=查里布迪斯在你敌人脚下召唤一个漩涡。
+tagGQSet029PetNAME=蠕动触手
+tagGQSet029Skill2NAME=斯库拉之怒
+tagGQSet029Skill2DESC=斯库拉强大的破船触手从地下升起，以她雷霆般的力量压碎敌人。
+tagGQSet029PetSkill1NAME=破碎触手
+tagGQSet029PetSkill2NAME=触手鞭
+tagGQSet029Skill3NAME=梅西纳的诅咒
+tagGQSet029Skill3DESC=与查里布迪斯和斯库拉共同肆虐敌人，使你充满活力，继续你的破坏之旅。
+tagGQSet030Skill1NAME=黄帝之怒
+tagGQSet030Skill1DESC=黄帝惩罚那些敢于攻击佩戴他祝福吊坠之人。
+tagGQSet030Skill2NAME=四面之颜
+tagGQSet030Skill2DESC=黄帝有四张面孔，他可以用这四张面孔观察四方并摧毁敌人。
+tagGQSet030Skill3NAME=黄帝的守护
+tagGQSet030Skill3DESC=强大的兵马俑为佩戴其皇帝盔甲之人而崛起，为其战斗。
+tagGQSet030Skill3PetSkill1=黄帝的法令
+tagGQSet030Skill3PetSkill2=帝王冲锋
+tagGQSet031Skill1NAME=对莱希的献身
+tagGQSet031Skill1DESC=莱希赐予你永久存在的自然之力召唤，但你必须牺牲其他所有的召唤物。
+tagGQSet032Skill1NAME=奈美恩狮子的凶猛
+tagGQSet032Skill1DESC=你穿戴的狮皮和爪子激励你和附近的盟友更加奋力战斗。
+tagGQSet035SkillNAME=布朗忒斯的风暴
+tagGQSet035SkillDESC=一道闪耀的雷电展现，击中附近的敌人。
+
+
+#other
+xtagSkillEquipmentName001=阿尔西俄纽斯的能量护盾
+xtagSkillEquipmentDescription001=一个能量场，吸收所有来自敌人攻击的伤害。
+xtagSkillEquipmentName002=kwoll冲击
+xtagSkillEquipmentDescription002=集中毒素的爆发，消灭恼人的敌人。
+xtagSkillEquipmentName003=舒缓波动
+xtagSkillEquipmentDescription003=一阵舒缓的波动，暂时提升你的战斗能力。
+xtagSkillEquipmentName004=连射
+xtagSkillEquipmentDescription004=一种战斗技巧，使用弓箭连续射击三次。
+xtagSkillEquipmentName005=闪电100级
+xtagSkillEquipmentDescription005=一种毁灭性的攻击，对低级德鲁伊特别有效。
+xtagSkillEquipmentName006=灵魂粉碎
+xtagSkillEquipmentDescription006=一道能量爆发，粉碎周围所有敌人的精神。
+xtagSkillEquipmentName007=酸液喷射
+xtagSkillEquipmentDescription007=喷射一股毒液，暂时致盲敌人并造成持续伤害。
+xtagSkillEquipmentName008=阉割
+xtagSkillEquipmentDescription008=暂时吸取敌人的力量和活力。
+xtagSkillEquipmentName009=胡萝卜之歌
+xtagSkillEquipmentDescription009=即将来临的末日之声让敌人充满恐惧。
+xtagSkillEquipmentName010=海盗的战吼
+xtagSkillEquipmentDescription010=呃哈哈哈！
+xtagSkillMonsterName001=地震破坏者
+xtagSkillMonsterDescription001=释放一波动能能量，通过地面传播，爆炸的岩石随之而来。
+xtagSkillMonsterName002=动能爆发
+xtagSkillMonsterDescription002=一波集中能量的涟漪通过地面向外扩散，导致土壤和岩石向上爆炸。
+
+Items
+#GQ Quality Tags
+tagGQMedalStyle01=低级
+tagGQMedalStyle02=高级
+tagGQMedalStyle03=神圣
+
+#Medals
+tagGQMedalC008=(S) {^B}厄瑞玻斯的碎片
+tagGQMedalD001=阿贾克斯的铁意
+tagGQMedalD001DESC=作为特洛伊战争中最伟大的英雄之一，阿贾克斯不仅以强大的臂力著称，更因其坚不可摧的精神而闻名。
+tagGQMedalD002=阿蒙-拉的荣耀
+tagGQMedalD002DESC=阿蒙-拉是太阳神，也是埃及众神中最伟大的神。
+tagGQMedalD003=阿努比斯的愤怒
+tagGQMedalD003DESC=阿努比斯，拥有豺头的神，是埃及冥界的统治者。
+tagGQMedalD004=珀尔塞福涅的眼泪
+tagGQMedalD004DESC=珀尔塞福涅，地球女神德美特的宠儿，被迫与哈迪斯结婚。如今她与哈迪斯共同统治冥界，但这让她充满了悲伤。
+tagGQMedalD005=阿瑞斯的愤怒
+tagGQMedalD005DESC=阿瑞斯，希腊战争之神，既受到崇拜也受到恐惧。他残忍、复仇且几乎疯狂——只有傻子才敢冒犯他的愤怒。
+tagGQMedalD006=赫拉克勒斯的力量
+tagGQMedalD006DESC=宙斯之子，赫拉克勒斯是所有希腊英雄中最强大的。
+tagGQMedalD007=琪欧尼的寒冷 // 黑凯特的月亮
+tagGQMedalD007DESC=琪欧尼，雪与寒风山脉的女神，是一位复仇的神祇，曾将激怒她的人变成冰雕。 // 黑凯特是与月亮、分娩和魔法相关的神秘希腊女神。
+tagGQMedalD008=塔那托斯的刀锋
+tagGQMedalD008DESC=塔那托斯，死亡的化身，携带一把能撕裂凡人灵魂的剑。
+tagGQMedalD009=荷鲁斯的乌贾特眼
+tagGQMedalD009DESC=乌贾特是荷鲁斯的眼睛，荷鲁斯是天空的鹰头神。它象征着保护和力量。可以附魔所有盔甲。
+tagGQMedalD010=汉谟拉比法典
+tagGQMedalD010DESC=汉谟拉比，巴比伦国王，以他的法典为人民带来了正义而受到崇敬。
+tagGQMedalD011=宙斯的雷霆
+tagGQMedalD011DESC=宙斯是奥林匹斯诸神中最强大的。雷霆是他的武器和象征。
+tagGQMedalD012=伊希斯的永生符
+tagGQMedalD012DESC=伊希斯是埃及神祇中的女王。她的符号——永生符与治疗和不朽相关。
+tagGQMedalD013=奥赛里斯的迪杰德
+tagGQMedalD013DESC=迪杰德是奥赛里斯的脊梁骨，奥赛里斯是冥界之主。
+tagGQMedalD014=普罗米修斯之焰
+tagGQMedalD014DESC=普罗米修斯，提坦巨人伊阿佩托斯之子，将火焰之力赠予人类。
+tagGQMedalD015=腐骨之魂
+tagGQMedalD015DESC=一位有毒恶棍的腐烂灵魂。
+tagGQMedalD016=神农的黑暗药方
+tagGQMedalD016DESC=神农是中国的植物和医学之神，他是草药的高手——而其中有些草药并非用来治病。
+tagGQMedalD017=十日之火
+tagGQMedalD017DESC=来自太阳之天体形式的碎片，散布在大地上。
+tagGQMedalD018=后羿的决心
+tagGQMedalD018DESC=弓箭之神后羿的弓弦碎片。
+tagGQMedalD019=赛尔凯特的触碰
+tagGQMedalD019DESC=赛尔凯特原用来治疗毒伤的神奇药瓶的碎片。
+tagGQMedalD020=索贝克的庇护
+tagGQMedalD020DESC=索贝克，埃及神祇，军事能力之神，绝不向任何人低头。
+tagGQMedalD021=兵马俑装甲
+tagGQMedalD021DESC=来自复活的兵马俑的片段，他们的层叠盔甲。
+tagX2MedalD001=凯尔农的威严
+tagX2MedalD001D=凯尔农是神秘的凯尔特自然之主，一位头戴鹿角的平静统治者。
+tagX2MedalD002=雷神的铁锤
+tagX2MedalD002D=雷神唐纳尔或托尔，是日耳曼雷电之神。作为巨人的儿子，他用强大的锤子保护世界免受怪物的侵袭。
+tagX2MedalD003=厄波那的马群
+tagX2MedalD003D=厄波那是凯尔特人中最广泛崇拜的女神之一，保护她们的马群与生育力。
+tagX2MedalD004=奥吉米奥斯的口才
+tagX2MedalD004D=凯尔特神奥吉米奥斯以其劝导力使他人甘愿成为他的仆人。
+tagX2MedalD005=西格尔德的勇气
+tagX2MedalD005D=西格尔德，屠龙英雄，是沃尔松家族的英雄，以其勇气和雄心而闻名。
+tagX2MedalD006=涅尔图斯的力量
+tagX2MedalD006D=一片浸染了异教大地女神之力量的槲寄生。
+tagX2MedalD007=埃尔德里姆尼尔的炖汤
+tagX2MedalD007D=在瓦尔哈拉的每个夜晚，英灵们的盛宴都由巨大的锅炉准备，这锅汤用的是那只复生的怪兽。
+tagX2MedalD008=沃丹的智慧
+tagX2MedalD008D=没有任何代价，甚至是用掉自己的一只眼睛，对于奥尔父而言，寻找知识永无止境。
+tagX2MedalD009=贝伦努斯之光
+tagX2MedalD009D=贝伦努斯是凯尔特的太阳神，也是疗愈泉水的守护神。
+
+#GQ Belts
+tagGQWaistD001=阿基里斯的腰带
+tagGQWaistD001DESC=
+tagGQWaistD002=厄瑞玻斯的腰带
+tagGQWaistD002DESC=
+tagGQWaistD003=黑凯特的污秽腰带
+tagGQWaistD003DESC=
+tagGQWaistD004=阿尔忒弥斯的狩猎腰带
+tagGQWaistD004DESC=
+tagGQWaistD005=风暴束缚者
+tagGQWaistD005DESC=
+tagGQWaistD006=德美特的花环
+tagGQWaistD006DESC=
+tagGQWaistD007=普罗米修斯教团的绳索
+tagGQWaistD007DESC=
+tagGQWaistD008=皮西亚的束缚
+tagGQWaistD008DESC=
+tagGQWaistD009=赫拉克勒斯的强大腰带
+tagGQWaistD009DESC=
+tagGQWaistD010={^I}弗雷亚的轻抚
+tagGQWaistD010DESC=
+tagGQWaistD011=道的恩典
+tagGQWaistD011DESC=
+
+#GQ Offhands
+tagGQFocus001=安提凯特拉机械
+tagGQFocus001DESC="阿基米德是公认的古希腊发明家，他的许多发明已经失传。奇异的发明之一是安提凯特拉机械，它是一个可以预测天文事件数十年之久的齿轮机器。当你握住它时，你意识到这不仅仅是一个天文预测工具..."
+tagGQFocus002=凯尔贝罗斯的爪子
+tagGQFocus002DESC="一只巨大而锋利的兽爪，锐利无比。"
+tagGQFocus003=赫波里俄尼德斯
+tagGQFocus003DESC="你似乎能够握住这些火焰，却不感到其灼热。神圣火焰的泰坦将他的火焰之怒赋予了你。"
+tagGQFocus004=赛特的红沙
+tagGQFocus004DESC=""
+tagGQFocus005=阿克利斯图腾
+tagGQFocus005DESC="他们以为我只是一个恶魔，连同一个克瑞斯。我并非小神，我是阿克利斯，痛苦的始祖，死亡迷雾的守护者，而我的敌人将感受到痛苦。"
+tagGQFocus006=凯利亚赫女神//雅典娜的智慧法杖
+tagGQFocus006DESC="一件由雅典娜或某个神使赠送给领导者的古老遗物，它允许持有者查看战争和战斗的结果。"
+tagGQFocus007=阿佛洛狄忒的地球仪
+tagGQFocus008=皮托的偶像
+tagGQFocus008DESC="它像是一种蛇或龙的形象…散发着腐肉的气味。"
+tagGQFocus009=波瑞厄斯的寒冰之书
+tagGQFocus009DESC="这本书的页间吹来寒冷的风，似乎无法将书本合上。"
+tagGQFocus010=梅拉内罗斯//赫拉克勒斯的劳作
+tagGQFocus010DESC="这本书意外地沉重，但当你握住它时，整个世界似乎变得更轻盈了。"
+tagGQFocus011=伊克洛斯的噩梦雕像
+tagGQFocus011DESC="仅仅握住这个可怕的偶像，就足以让你的心灵充满阴影般的幻象..."
+tagGQFocus012=奥维索姆纽斯
+tagGQFocus012DESC="翻滚的裂缝是通往梦境世界的门户，谁知道那一边有什么呢。"
+tagGQFocus013=奥赛里斯的法典
+tagGQFocus014=克罗格的眼睛
+tagGQFocus015=哈迪斯的收割之刃
+tagGQFocus016=活生生的风暴
+tagGQFocus017=荷鲁斯的法典
+tagGQFocus018=奥拉伊的偶像
+tagGQFocus019={^I}宇宙之心
+tagGQFocus020=(S) {^B}织梦者的雕像
+
+#GQ Amulets
+tagGQAmulet001={^B}征服者的力量
+tagGQAmulet002={^B}被盗的饰品
+tagGQAmulet003={^B}召唤者的项链
+tagGQAmulet004={^B}海盗的宝藏
+tagGQAmulet005={^B}先兆之眼
+tagGQAmulet006={^B}神圣骨饰
+tagGQAmulet007=(S) {^B}流浪者的心
+tagGQAmulet008=(S) {^B}织梦者的蓝宝石
+tagGQAmulet009=(S) {^B}火行者的护符
+tagGQAmulet010=马特的护符
+tagGQAmulet011=拜迪的精华
+tagGQAmulet012=哈特谢普苏特的胸针
+tagGQAmulet013=奇迪的精华
+tagGQAmulet014=方苏的结
+tagGQAmulet015=始皇帝的决心
+tagGQAmulet016=关羽的歌谣
+tagGQAmulet017=红海之龙
+tagGQAmulet018=森沃斯雷特的宝座
+tagGQAmulet019={^I}艾多纽斯
+tagGQAmulet020=伊克洛斯的护符
+
+tagX2AmuletD001=祖先的项圈
+tagX2AmuletD002=斯卡迪的项链
+tagX2AmuletD003=兰恩的恩赐
+tagX2AmuletD004=大酋长的项圈
+tagX2AmuletD005=太阳轮胸针
+tagX2AmuletD006=格劳贝格的项链
+tagX2AmuletD007=琥珀项链
+tagX2AmuletD008=矮人的骨饰
+tagX2AmuletD009=洛查尔苔藓的项圈
+
+#GQ Rings
+tagX2RingD001={^I}德劳格尔的宝石
+tagX2RingD002={^I}德劳普尼尔
+tagX2RingD003={^I}阿法尔的恩典
+tagX2RingD004={^I}塔拉尼斯之戒
+tagX2RingD005={^I}猎龙者的戒指
+tagX2RingD006={^I}布迪卡的戒指
+tagX2RingD007={^I}提尔的印记
+tagX2RingD008={^I}穆斯佩尔海姆的戒指
+tagX2RingD009={^I}耶米尔的永冻之戒
+tagX2RingD010={^I}巴洛尔的眼睛
+tagX2RingD011={^I}安德瓦拉瑙特
+tagX4RingD001=弓箭手的精巧
+tagX4RingD002=眼镜蛇的毒液
+tagX4RingD003=金蟾的骄傲
+tagX4RingD004=麒麟的宠爱
+tagX4RingD005=圣甲虫戒指
+tagX4RingD006=沙伊的意愿
+tagX4RingD007=温神的礼物
+tagX4RingD008=黄帝的心境
+
+#GQ Set Items
+tagGQSet001A=(S) {^I}特洛伊头盔
+tagGQSet001B=(S) {^I}特洛伊先锋
+tagGQSet001C=(S) {^I}特洛伊胸甲
+tagGQSet001D=(S) {^I}特洛伊战略
+tagGQSet001E=(S) {^I}特洛伊盾牌
+tagGQSet002A=(S) {^I}野性的召唤
+tagGQSet002B=(S) {^I}野性的智慧
+tagGQSet002C=(S) {^I}野性的坚韧
+tagGQSet002D=(S) {^I}野性的护符
+tagGQSet002E=(S) {^I}野性的力量
+tagGQSet002NAME=野性之相
+tagGQSet003A=(S) {^I}刺客的兜帽
+tagGQSet003B=(S) {^I}刺客的护肩
+tagGQSet003C=(S) {^I}刺客的护甲
+tagGQSet003D=(S) {^I}刺客的挂坠
+tagGQSet003E=(S) {^I}刺客的刺穿者
+tagGQSet004A=(S) {^I}皮提亚的面具
+tagGQSet004B=(S) {^I}皮提亚的披风
+tagGQSet004C=(S) {^I}皮提亚的长袍
+tagGQSet004D=(S) {^I}皮提亚的宝石
+tagGQSet004E=(S) {^I}皮提亚的匕首
+tagGQSet005A=(S) {^I}火法师的面具
+tagGQSet005B=(S) {^I}火法师的披风
+tagGQSet005C=(S) {^I}火法师的长袍
+tagGQSet005D=(S) {^I}火法师的碎片
+tagGQSet005E=(S) {^I}火法师的法典
+tagGQSet006A=(S) {^I}追踪者的兜帽
+tagGQSet006B=(S) {^I}追踪者的护肩
+tagGQSet006C=(S) {^I}追踪者的护甲
+tagGQSet006D=(S) {^I}追踪者的奖杯
+tagGQSet006E=(S) {^I}追踪者的弩
+tagGQSet007A=(S) {^I}风暴之环
+tagGQSet007B=(S) {^I}风暴之披风
+tagGQSet007C=(S) {^I}风暴之袍
+tagGQSet007D=(S) {^I}风暴之眼
+tagGQSet007E=(S) {^I}风暴之杖
+tagGQSet008A=(S) {^I}幽影之冠
+tagGQSet008B=(S) {^I}幽影之披风
+tagGQSet008C=(S) {^I}幽影之袍
+tagGQSet008D=(S) {^I}幽影之护符
+tagGQSet008E=(S) {^I}灵魂吞噬者
+tagGQSet009A=(S) {^I}战士的脑囚
+tagGQSet009B=(S) {^I}战士的肩甲
+tagGQSet009C=(S) {^I}战士的胸甲
+tagGQSet009D=(S) {^I}战士的劈刀
+tagGQSet009E=(S) {^I}战士的雕刻者
+tagSkillsRing2=(S) {^I}技艺之戒
+tagGQSet010A=(S) {^I}军团长的面罩
+tagGQSet010B=(S) {^I}军团长的护肩
+tagGQSet010C=(S) {^I}军团长的胸甲
+tagGQSet010D=(S) {^I}烈焰军团的盾牌
+tagGQSet010E=(S) {^I}烈焰军团之拳
+tagGQSet011A=(S) {^I}卡利克西尼亚的符文
+tagGQSet011B=(S) {^I}以太之环
+tagGQSet011C=(S) {^I}卡利克西尼亚的护符
+tagGQSet011D=(S) {^I}卡利克西尼亚的胸针
+tagGQSet012A=(S) {^I}赫利俄斯的光环
+tagGQSet012B=(S) {^I}赫利俄斯的长袍
+tagGQSet012C=(S) {^I}太阳之握
+tagGQSet012D=(S) {^I}赫利俄斯的印记
+tagGQSet013A=(S) {^I}奥伯龙的披风
+tagGQSet013B=(S) {^I}奥伯龙的头饰
+tagGQSet013C=(S) {^I}奥伯龙的挂坠
+tagGQSet013D=(S) {^I}奥伯龙的鬃毛
+tagGQSet014A=(S) {^I}德鲁伊的披风
+tagGQSet014B=(S) {^I}德鲁伊的花环
+tagGQSet014C=(S) {^I}德鲁伊的图腾
+tagGQSet014D=德鲁伊的法杖
+tagGQSet015A=(S) {^I}林丹
+tagGQSet015B=(S) {^I}佩尔马瑟林的盾牌
+tagGQSet016A=(S) {^I}赫淮斯托斯之手
+tagGQSet016B=(S) {^I}赫淮斯托斯的熔岩盾
+tagGQSet017A=(S) {^I}阿基琉斯的盔甲
+tagGQSet017B=(S) {^I}阿基琉斯的长矛
+tagGQSet017C=(S) {^I}阿基琉斯的盾牌
+tagGQSet018A=(S) {^I}波塞冬的头盔
+tagGQSet018B=(S) {^I}波塞冬的胸甲
+tagGQSet018C=(S) {^I}地震之力
+tagGQSet019A=(S) {^I}恐惧
+tagGQSet019B=(S) {^I}惊惧
+tagGQSet019C=(S) {^I}混乱
+tagGQSet020A=(S) {^I}赫克托尔的闪光头盔
+tagGQSet020B=(S) {^I}赫克托尔的闪耀盾牌
+tagGQSet020C=(S) {^I}赫克托尔的长矛
+tagGQSet021A=(S) {^I}弗蕾雅的王冠
+tagGQSet021B=(S) {^I}弗蕾雅的披风
+tagGQSet021C=(S) {^I}弗蕾雅的胸甲
+tagGQSet021D=(S) {^I}布里辛甘门
+tagGQSet021E=(S) {^I}瓦尔基里
+tagGQSet022A=(S) {^I}梅金约德
+tagGQSet022B=(S) {^I}贾恩格雷普
+tagGQSet022C=(S) {^I}妙尔尼尔
+tagGQSet023A=(S) {^I}晶化护腕
+tagGQSet023B=(S) {^I}晶化头盔
+tagGQSet023C=(S) {^I}晶化披风
+tagGQSet023D=(S) {^I}晶化铠甲
+tagGQSet124A=(S) {^I}伟大的黑珍珠
+tagGQSet028A=教堂
+tagGQSet128A=(S) {^I}教堂
+tagGQSet028B=(S) {^I}城墙
+tagGQSet128B=(S) {^I}城墙
+tagGQSet128C=(S) {^I}堡垒
+tagGQSet128D=(S) {^I}防线
+tagGQSwordC010=(S) {^B}霍福德，赛德之刃
+tagGQHelmC010=(S) {^B}塞德尔兜帽
+tagGQGlovesC010=(S) {^B}塞德尔护腕
+tagGQHeadC011=(S) {^B}李靖的天界头盔
+tagGQMedalC011=(S) {^B}李靖的宝塔
+tagGQSpearC011=(S) {^B}天之怒
+tagGQSet130A=(S) {^I}黄帝·宁静护腕
+tagGQSet130B=(S) {^I}黄帝·吊坠
+tagGQSet130C=(S) {^I}黄帝·战盔
+tagGQSet130D=(S) {^I}黄帝·威能胸甲
+tagGQSet130E=(S) {^I}黄帝·剑
+tagGQSet131A=(S) {^I}莱西的兜帽
+tagGQSet131B=(S) {^I}莱西的破衣
+tagGQSet131C=(S) {^I}莱西的枝杈
+tagGQSet131D=(S) {^I}莱西的图腾
+tagGQSet132A=(S) {^I}涅墨亚狮之皮
+tagGQSet132B=(S) {^I}涅墨亚狮护腕
+tagGQSet132BDESC="当你穿戴此物时，狼群将对你心生敬畏，使其群体光环获得更多加成。"
+tagGQSet132C=(S) {^I}涅墨亚狮之牙
+tagGQSet132D=(S) {^I}涅墨亚狮头盔
+tagGQSet133A=(S) {^I}神谕者花环
+tagGQSet133B=(S) {^I}神谕者法衣
+tagGQSet133C=(S) {^I}神谕者束带
+tagGQSet133D=(S) {^I}神谕者徽冠
+tagGQSet135A=(S) {^I}布戎忒斯的护腕
+tagGQSet135B=(S) {^I}布戎忒斯的头盔
+tagGQSet135C=(S) {^I}布戎忒斯的板甲
+tagGQSet135D=(S) {^I}布戎忒斯的法杖
+
+#GQ Sets
+tagBabylonianSetNAME=巴比伦神袍
+tagBabylonianSetDESC=
+tagPatroclusSetNAME=帕特洛克洛斯的伪装
+tagPatroclusSetDESC=
+tagHectorSetNAME=赫克托尔的青铜盔甲
+tagHectorSetDESC=
+tagGladiatorsCreedSetNAME=角斗士的信条
+tagGladiatorsCreedSetDESC=
+tagGladiatorsCreedSet2NAME=角斗士的征服
+tagCursedJewelsSetNAME=诅咒珠宝
+tagCursedJewelsSetDESC=
+tagChildrenofAresSetNAME=Ares的子嗣
+tagChildrenofAresSetDESC=
+tagAlexanderSetNAME=亚历山大的盔甲
+tagAlexanderSetDESC=
+tagMoiraeSetNAME=莫伊瑞的盔甲
+tagMoiraeSetDESC=
+tagImperialRaimentSetNAME=帝国神袍
+tagImperialRaimentSetDESC=
+tagFuxiLegendSetNAME=伏羲的传说
+tagFuxiLegendSetDESC=
+tagHarbingerSetNAME=预兆
+tagHarbingerSetDESC=
+tagHuoQubingsRelicsSetNAME=霍去病的遗物
+tagHuoQubingsRelicsSetDESC=
+tagCrystallineArraySetNAME=水晶阵列
+tagCrystallineArraySetDESC=
+
+theSkillsSetNAME=技艺之选
+theSkillsSetDESC=
+tagBaneOfMessinaNAME=美西纳的祸害
+tagBaneOfMessinaDESC=
+tagGQSetC001NAME=翡翠珠宝
+tagGQSetC002NAME=冰霜水晶
+tagGQSetC003NAME=奥尔杜
+tagGQSetC004NAME=梅农的神袍
+tagGQSetC005NAME=黑曜石盔甲
+tagGQSetC006NAME=火行者的套装
+tagGQSetC007NAME=流浪者的遮蔽
+tagGQSetC008NAME=厄运之袍
+tagGQSetC009NAME=梦织者的礼服
+tagGQSetC010NAME=赛德的衣饰
+tagGQSetC011NAME=李靖的遗产
+tagGQSetC101NAME=神圣翡翠珠宝
+tagGQSetC102NAME=神圣冰霜水晶
+tagGQSetC103NAME=神圣奥尔杜
+tagGQSetC104NAME=神圣梅农的神袍
+tagGQSetC105NAME=神圣黑曜石盔甲
+tagGQSetC106NAME=神圣火行者的套装
+tagGQSetC107NAME=神圣流浪者的遮蔽
+tagGQSetC108NAME=神圣厄运之袍
+tagGQSetC109NAME=神圣梦织者的礼服
+tagGQSetC110NAME=神圣赛德的衣饰
+tagGQSetC111NAME=神圣李靖的遗产
+
+tagGQSetD001NAME=特洛伊盔甲
+tagGQSetD002NAME=野性之相
+tagGQSetD003NAME=刺客的护甲
+tagGQSetD004NAME=皮提亚的长袍
+tagGQSetD005NAME=火法师的防护
+tagGQSetD006NAME=追踪者的盔甲
+tagGQSetD007NAME=风暴神袍
+tagGQSetD008NAME=幽影神袍
+tagGQSetD009NAME=战士的盔甲
+tagGQSetD010NAME=烈焰军团的武器
+tagGQSetD011NAME=卡利克西尼亚的纪念品
+tagGQSetD012NAME=赫利俄斯的光辉
+tagGQSetD013NAME=奥伯龙的礼服
+tagGQSetD014NAME=德鲁伊的服饰
+tagGQSetD015NAME=美西纳的祸害
+tagGQSetD016NAME=赫淮斯托斯的力量
+tagGQSetD017NAME=帕特洛克洛斯的伪装
+tagGQSetD018NAME=波塞冬的武器
+tagGQSetD019NAME=Ares的子嗣
+tagGQSetD020NAME=赫克托尔的青铜盔甲
+tagGQSetD021NAME=弗蕾雅的盔甲
+tagGQSetD022NAME=多纳尔的力量
+tagGQSetD023NAME=水晶阵列
+tagGQSetD024NAME=诅咒珠宝
+tagGQSetD025NAME=技艺之选
+tagGQSetD025DESC=
+tagGQSetD026NAME=角斗士的信条
+tagGQSetD027NAME=亚历山大的盔甲
+tagGQSetD028NAME=雅典卫城
+tagGQSetD029NAME=美西纳的祸害
+tagGQSetD030NAME=黄帝的诏令
+tagGQSetD031NAME=莱什的化身
+tagGQSetD032NAME=尼梅亚狮皮
+tagGQSetD033NAME=神谕者的长袍
+tagGQSetD035NAME=布隆特斯的盔甲
+
+tagGQSetD101NAME=神圣特洛伊盔甲
+tagGQSetD102NAME=神圣野性之相
+tagGQSetD103NAME=神圣刺客的护甲
+tagGQSetD104NAME=神圣皮提亚的长袍
+tagGQSetD105NAME=神圣火法师的防护
+tagGQSetD106NAME=神圣追踪者的盔甲
+tagGQSetD107NAME=神圣风暴神袍
+tagGQSetD108NAME=神圣幽影神袍
+tagGQSetD109NAME=神圣战士的盔甲
+tagGQSetD110NAME=神圣烈焰军团的武器
+tagGQSetD111NAME=神圣卡利克西尼亚的纪念品
+tagGQSetD112NAME=神圣赫利俄斯的光辉
+tagGQSetD113NAME=神圣奥伯龙的礼服
+tagGQSetD114NAME=神圣德鲁伊的服饰
+tagGQSetD115NAME=神圣美西纳的祸害
+tagGQSetD116NAME=神圣赫淮斯托斯的力量
+tagGQSetD117NAME=神圣帕特洛克洛斯的伪装
+tagGQSetD118NAME=神圣波塞冬的武器
+tagGQSetD119NAME=神圣Ares的子嗣
+tagGQSetD120NAME=神圣赫克托尔的青铜盔甲
+tagGQSetD121NAME=神圣弗蕾雅的盔甲
+tagGQSetD122NAME=神圣多纳尔的力量
+tagGQSetD123NAME=神圣水晶阵列
+tagGQSetD124NAME=神圣诅咒珠宝
+tagGQSetD125NAME=技艺之选
+tagGQSetd125DESC=
+tagGQSetD126NAME=神圣角斗士的信条
+tagGQSetD127NAME=神圣亚历山大的盔甲
+tagGQSetD128NAME=神圣雅典卫城
+tagGQSetD129NAME=神圣美西纳的祸害
+tagGQSetD130NAME=神圣黄帝的诏令
+tagGQSetD130DESC="曾是强大的帝王，现在是众神之王，黄帝依然保持警惕，以捍卫他的王国"
+tagGQSetD131NAME=神圣莱什的化身
+tagGQSetD131DESC="伟大的森林之灵莱什，通过指挥树木碾压敌人来保护他的领土。"
+tagGQSetD132NAME=神圣尼梅亚狮皮
+tagGQSetD132DESC="一件古老的传奇皮毛，据说刀枪不入，作为战士的奖杯佩戴。当你穿上它时，狼群会更加敬畏你，给予你更多与其队伍的加成。"
+tagGQSetD133NAME=神圣神谕者的长袍
+tagGQSetD135NAME=神圣布隆特斯的盔甲
+
+#GQ Crafting
+tagBlueprintCraftedStaff001=蓝图：附魔法杖
+tagBlueprintCraftedStaff002=蓝图：元素法杖
+tagBlueprintCraftedStaff003=蓝图：能手法杖
+tagBlueprintCraftedStaff004=蓝图：学徒法杖
+tagBlueprintCraftedStaff005=蓝图：大师法杖
+tagBlueprintCraftedStaff006=蓝图：法杖
+tagBlueprintCraftedStaff007=蓝图：法杖
+tagBlueprintCraftedSpear001=蓝图：阿伊赫梅长矛
+tagBlueprintCraftedSpear002=蓝图：多瑞提昂长矛
+tagBlueprintCraftedSpear003=蓝图：赫索斯长矛
+tagBlueprintCraftedSpear004=蓝图：萨里萨长矛
+tagCraftedStaff001Description=一件古老的武器，蕴藏着强大的力量，能铸造这种武器的铁匠已是罕见。
+tagCraftedSpear001Description=一种可以单手使用的长柄武器。它很慢，但致命。
+
+tagCraftRandomStaff001={^L}附魔法杖
+tagCraftRandomStaff002={^L}附魔法杖
+tagCraftRandomStaff003={^L}附魔法杖
+tagCraftRandomStaff004={^L}附魔法杖
+tagCraftRandomStaff005={^L}附魔法杖
+tagCraftRandomStaff006={^L}附魔法杖
+tagCraftRandomStaff007={^L}附魔法杖
+tagCraftRandomStaff008={^L}附魔法杖
+
+tagCraftedStaff0011={^L}能手酸性法杖
+tagCraftedStaff0012={^L}能手以太法杖
+tagCraftedStaff0013={^L}能手混沌法杖
+tagCraftedStaff0014={^L}能手生命法杖
+tagCraftedStaff0015={^L}能手火焰法杖
+tagCraftedStaff0016={^L}能手闪电法杖
+tagCraftedStaff0017={^L}能手冰霜法杖
+tagCraftedStaff0018={^L}能手元素法杖
+
+tagCraftedStaff0021={^L}学徒酸性法杖
+tagCraftedStaff0022={^L}学徒以太法杖
+tagCraftedStaff0023={^L}学徒混沌法杖
+tagCraftedStaff0024={^L}学徒生命法杖
+tagCraftedStaff0025={^L}学徒火焰法杖
+tagCraftedStaff0026={^L}学徒闪电法杖
+tagCraftedStaff0027={^L}学徒冰霜法杖
+tagCraftedStaff0028={^L}学徒元素法杖
+
+tagCraftedStaff0031={^L}大师酸性法杖
+tagCraftedStaff0032={^L}大师以太法杖
+tagCraftedStaff0033={^L}大师混沌法杖
+tagCraftedStaff0034={^L}大师生命法杖
+tagCraftedStaff0035={^L}大师火焰法杖
+tagCraftedStaff0036={^L}大师闪电法杖
+tagCraftedStaff0037={^L}大师冰霜法杖
+tagCraftedStaff0038={^L}大师元素法杖
+
+tagCraftedStaff001={^L}能手法杖
+tagCraftedStaff002={^L}学徒法杖
+tagCraftedStaff003={^L}大师法杖
+
+tagCraftRandomSpear001={^W}附魔的西斯顿
+tagCraftedSpear001={^W}锋利的阿伊赫梅
+tagCraftedSpear002={^W}锋利的多瑞提昂
+tagCraftedSpear003={^W}锋利的赫索斯
+tagCraftedSpear004={^W}锋利的萨里萨
+
+// Grim Quest 特有的制造 //
+tagCraftRandomGQStaff001=泰坦杀手梦法杖
+tagCraftRandomGQStaff002=泰坦杀手大地法杖
+tagCraftRandomGQStaff003=泰坦杀手自然法杖
+tagCraftRandomGQStaff004=泰坦杀手盗贼法杖
+tagCraftRandomGQStaff005=泰坦杀手符文法杖
+tagCraftRandomGQStaff006=泰坦杀手精神法杖
+tagCraftRandomGQStaff007=泰坦杀手风暴法杖
+tagCraftRandomGQStaff008=泰坦杀手内丹法杖
+tagCraftRandomGQStaff009=泰坦杀手防御法杖
+tagCraftRandomGQStaff010=泰坦杀手狩猎法杖
+tagCraftRandomGQStaff011=泰坦杀手战争法杖
+tagCraftRandomGQ2H01=泰坦杀手梦双手近战
+tagCraftRandomGQ2H02=泰坦杀手大地双手近战
+tagCraftRandomGQ2H03=泰坦杀手自然双手近战
+tagCraftRandomGQ2H04=泰坦杀手内丹双手近战
+tagCraftRandomGQ2H05=泰坦杀手盗贼双手近战
+tagCraftRandomGQ2H06=泰坦杀手符文双手近战
+tagCraftRandomGQ2H07=泰坦杀手精神双手近战
+tagCraftRandomGQ2H08=泰坦杀手风暴双手近战
+tagCraftRandomGQ2H09=泰坦杀手防御双手近战
+tagCraftRandomGQ2H10=泰坦杀手狩猎双手近战
+tagCraftRandomGQ2H11=泰坦杀手战争双手近战
+tagCraftRandomGQ1H01=泰坦杀手梦单手近战
+tagCraftRandomGQ1H02=泰坦杀手大地单手近战
+tagCraftRandomGQ1H03=泰坦杀手自然单手近战
+tagCraftRandomGQ1H04=泰坦杀手内丹单手近战
+tagCraftRandomGQ1H05=泰坦杀手盗贼单手近战
+tagCraftRandomGQ1H06=泰坦杀手符文单手近战
+tagCraftRandomGQ1H07=泰坦杀手精神单手近战
+tagCraftRandomGQ1H08=泰坦杀手风暴单手近战
+tagCraftRandomGQ1H09=泰坦杀手防御单手近战
+tagCraftRandomGQ1H10=泰坦杀手狩猎单手近战
+tagCraftRandomGQ1H11=泰坦杀手战争单手近战
+tagCraftRandomGQImplement001=泰坦杀手生命法器
+tagCraftRandomGQImplement002=泰坦杀手以太法器
+tagCraftRandomGQImplement003=泰坦杀手闪电法器
+tagCraftRandomGQImplement004=泰坦杀手火焰法器
+tagCraftRandomGQImplement005=泰坦杀手混沌法器
+tagCraftRandomGQImplement006=泰坦杀手寒冷法器
+tagCraftRandomGQImplement007=泰坦杀手酸性法器
+tagCraftRandomGQImplementB001=泰坦杀手梦法器
+tagCraftRandomGQImplementB002=泰坦杀手大地法器
+tagCraftRandomGQImplementB003=泰坦杀手自然法器
+tagCraftRandomGQImplementB004=泰坦杀手内丹法器
+tagCraftRandomGQImplementB005=泰坦杀手盗贼法器
+tagCraftRandomGQImplementB006=泰坦杀手符文法器
+tagCraftRandomGQImplementB007=泰坦杀手精神法器
+tagCraftRandomGQImplementB008=泰坦杀手风暴法器
+tagCraftRandomGQImplementB009=泰坦杀手防御法器
+tagCraftRandomGQImplementB010=泰坦杀手狩猎法器
+tagCraftRandomGQImplementB011=泰坦杀手战争法器
+tagCraftRandomGQSpear001=泰坦杀手梦长矛
+tagCraftRandomGQSpear002=泰坦杀手大地长矛
+tagCraftRandomGQSpear003=泰坦杀手自然长矛
+tagCraftRandomGQSpear004=泰坦杀手内丹长矛
+tagCraftRandomGQSpear005=泰坦杀手盗贼长矛
+tagCraftRandomGQSpear006=泰坦杀手符文长矛
+tagCraftRandomGQSpear007=泰坦杀手精神长矛
+tagCraftRandomGQSpear008=泰坦杀手风暴长矛
+tagCraftRandomGQSpear009=泰坦杀手防御长矛
+tagCraftRandomGQSpear010=泰坦杀手狩猎长矛
+tagCraftRandomGQSpear011=泰坦杀手战争长矛
+tagCraftRandomGQFocus001=泰坦杀手专注
+tagCraftRandomGQRing001=泰坦杀手指环
+tagCraftRandomGQAmulet001=泰坦杀手护符
+tagCraftRandomGQMedal001=泰坦杀手奖章
+tagCraftRandomGQBelt001=泰坦杀手腰带
+tagCraftRandomGQHelm001=泰坦杀手头盔
+tagCraftRandomGQHelm002=泰坦杀手重型头盔
+tagCraftRandomGQHelm003=泰坦杀手法师头盔
+tagCraftRandomGQTorso001=泰坦杀手胸甲
+tagCraftRandomGQTorso002=泰坦杀手重型胸甲
+tagCraftRandomGQTorso003=泰坦杀手法师胸甲
+tagCraftRandomGQGun1H001=泰坦杀手梦之手枪
+tagCraftRandomGQGun1H002=泰坦杀手大地手枪
+tagCraftRandomGQGun1H003=泰坦杀手自然手枪
+tagCraftRandomGQGun1H004=泰坦杀手内丹手枪
+tagCraftRandomGQGun1H005=泰坦杀手盗贼手枪
+tagCraftRandomGQGun1H006=泰坦杀手符文手枪
+tagCraftRandomGQGun1H007=泰坦杀手精神手枪
+tagCraftRandomGQGun1H008=泰坦杀手风暴手枪
+tagCraftRandomGQGun1H009=泰坦杀手防御手枪
+tagCraftRandomGQGun1H010=泰坦杀手狩猎手枪
+tagCraftRandomGQGun1H011=泰坦杀手战争手枪
+tagCraftRandomGQGun2H001=泰坦杀手梦之弩
+tagCraftRandomGQGun2H002=泰坦杀手大地弩
+tagCraftRandomGQGun2H003=泰坦杀手自然弩
+tagCraftRandomGQGun2H004=泰坦杀手内丹弩
+tagCraftRandomGQGun2H005=泰坦杀手盗贼弩
+tagCraftRandomGQGun2H006=泰坦杀手符文弩
+tagCraftRandomGQGun2H007=泰坦杀手精神弩
+tagCraftRandomGQGun2H008=泰坦杀手风暴弩
+tagCraftRandomGQGun2H009=泰坦杀手防御弩
+tagCraftRandomGQGun2H010=泰坦杀手狩猎弩
+tagCraftRandomGQGun2H011=泰坦杀手战争弩
+
+tagTitanslayerDescription=铁匠锻造一件符合你等级的附魔物品，或许会是稀有品质，并且有额外机会生成极为稀有的物品。所有泰坦杀手物品都有一个随机的Grim Quest大师称号前缀。
+tagCraftRandomArtifact001=随机遗物配方
+tagCraftRandomArtifact001Desc=用一块铁块和一个以太水晶来交换遗物配方。注意：像所有的赌博一样，你不一定能得到你想要的东西！你可能会得到重复的配方！
+
+tagCraftRandomGQBootsBP001=泰坦杀手护胫
+tagCraftRandomGQBootsBP002=泰坦杀手护足
+tagCraftRandomGQPantsBP001=泰坦杀手护腿
+tagCraftRandomGQPantsBP002=泰坦杀手裹腿
+tagCraftRandomGQHandsBP001=泰坦杀手护手
+tagCraftRandomGQHandsBP002=泰坦杀手护腕
+tagCraftRandomGQShouldersBP001=泰坦杀手肩甲
+tagCraftRandomGQShouldersBP002=泰坦杀手肩铠
+
+tagCraftRandomGQBoots001=护胫
+tagCraftRandomGQBoots002=护足
+tagCraftRandomGQPants001=护腿
+tagCraftRandomGQPants002=裹腿
+
+tagCraftRandomGQHands001={^G}护手
+tagCraftRandomGQHands002={^G}护腕
+tagCraftRandomGQShoulders001={^G}肩甲
+tagCraftRandomGQShoulders002={^G}肩铠
+
+tagCraftRandomGQChest001={^G}战袍
+tagCraftRandomGQChest001b={^G}长袍
+tagCraftRandomGQChest001c={^G}祭袍
+tagCraftRandomGQChest002={^G}胸甲
+tagCraftRandomGQChest002b={^G}战裙
+tagCraftRandomGQChest002c={^G}护胸
+tagCraftRandomGQChest003={^G}板甲
+tagCraftRandomGQChest003b={^G}胸甲
+tagCraftRandomGQChest003c={^G}金属护甲
+
+tagCraftRandomGQHead001={^G}王冠
+tagCraftRandomGQHead001b={^G}冕冠
+tagCraftRandomGQHead001c={^G}小冕
+tagCraftRandomGQHead002={^G}头盔
+tagCraftRandomGQHead002b={^G}巴西内特
+tagCraftRandomGQHead002c={^G}蒙面
+tagCraftRandomGQHead003={^G}面甲
+tagCraftRandomGQHead003b={^G}骷髅头盔
+tagCraftRandomGQHead003c={^G}头盔
+
+tagCraftGQMaterial=金银币
+tagCraftGQMaterialDesc=来自失落时代的古老货币。佩拉尼斯可能能用这个。
+tagCraftGQRandomPandoraWeapon01=赌博 - 近战武器
+tagCraftGQRandomPandoraWeapon02=赌博 - 远程武器
+tagCraftGQRandomPandoraWeapon03=赌博 - 法师武器
+tagCraftGQRandomPandoraArmor=赌博 - 盔甲
+tagCraftGQRandomPandoraAccessory=赌博 - 配饰
+tagCraftGQRandomPandora=赌博
+tagCraftGQRandomPandoraDesc=用金银币换取一个保证会是Grim Quest独特物品的机会。
+
+#GQ Prefixes
+tagPrefixTQ001={^Y}防御者的
+tagPrefixTQ002={^Y}追踪者的
+tagPrefixTQ003={^Y}术士的
+tagPrefixTQ004={^Y}角斗士的
+tagPrefixTQ005={^Y}森林行者的
+tagPrefixTQ006={^Y}盗贼的
+tagPrefixTQ007={^Y}火舞者的
+tagPrefixTQ008={^Y}风暴召唤者的
+tagPrefixTQ009={^Y}先知的
+tagPrefixTQB001={^G}先锋的
+tagPrefixTQB002={^G}神射手的
+tagPrefixTQB003={^G}大法师的
+tagPrefixTQB004={^G}美尔米顿的
+tagPrefixTQB005={^G}牧羊人的
+tagPrefixTQB006={^G}引路人的
+tagPrefixTQB007={^G}火焰大师的
+tagPrefixTQB008={^G}冰雕师的
+tagPrefixTQB009={^G}梦之塑造者的
+tagPrefixTQ010={^Y}符文大师的
+tagPrefixTQB010={^G}符文雕刻师的
+tagPrefixTQ011={^G}内丹的
+tagPrefixTQB011={^G}上清的
+tagHybridPrefixGQ1and2={^G}守卫者的
+tagHybridPrefixGQ1and3={^G}法术缚者的
+tagHybridPrefixGQ1and4={^G}征服者的
+tagHybridPrefixGQ1and5={^G}守护者的
+tagHybridPrefixGQ1and6={^G}海盗的
+tagHybridPrefixGQ1and7={^G}强击者的
+tagHybridPrefixGQ1and8={^G}圣骑士的
+tagHybridPrefixGQ1and9={^G}十字军的
+tagHybridPrefixGQ2and3={^G}骨术师的
+tagHybridPrefixGQ2and4={^G}屠夫的
+tagHybridPrefixGQ2and5={^G}游侠的
+tagHybridPrefixGQ2and6={^G}强盗的
+tagHybridPrefixGQ2and7={^G}复仇者的
+tagHybridPrefixGQ2and8={^G}智者的
+tagHybridPrefixGQ2and9={^G}卜者的
+tagHybridPrefixGQ3and4={^G}法术破坏者的
+tagHybridPrefixGQ3and5={^G}先知的
+tagHybridPrefixGQ3and6={^G}术士的
+tagHybridPrefixGQ3and7={^G}召唤者的
+tagHybridPrefixGQ3and8={^G}神谕者的
+tagHybridPrefixGQ3and9={^G}占卜师的
+tagHybridPrefixGQ4and5={^G}冠军的
+tagHybridPrefixGQ4and6={^G}刺客的
+tagHybridPrefixGQ4and7={^G}战斗法师的
+tagHybridPrefixGQ4and8={^G}领主的
+tagHybridPrefixGQ4and9={^G}先兆者的
+tagHybridPrefixGQ5and6={^G}幻术师的
+tagHybridPrefixGQ5and7={^G}召唤师的
+tagHybridPrefixGQ5and8={^G}德鲁伊的
+tagHybridPrefixGQ5and9={^G}仪式师的
+tagHybridPrefixGQ6and7={^G}魔法师的
+tagHybridPrefixGQ6and8={^G}术士的
+tagHybridPrefixGQ6and9={^G}梦杀者的
+tagHybridPrefixGQ7and8={^G}元素使的
+tagHybridPrefixGQ7and9={^G}召唤师的
+tagHybridPrefixGQ8and9={^G}先知的
+tagHybridPrefixGQ1and10={^G}符文匠的
+tagHybridPrefixGQ2and10={^G}龙猎人的
+tagHybridPrefixGQ3and10={^G}萨满的
+tagHybridPrefixGQ4and10={^G}狂战士的
+tagHybridPrefixGQ5and10={^G}皮肤变换者的
+tagHybridPrefixGQ6and10={^G}恶作剧者的
+tagHybridPrefixGQ7and10={^G}石语者的
+tagHybridPrefixGQ8and10={^G}雷霆者的
+tagHybridPrefixGQ9and10={^G}塞德尔工人的
+tagHybridPrefixGQ1and11={^G}僧侣的
+tagHybridPrefixGQ2and11={^G}朝圣者的
+tagHybridPrefixGQ3and11={^G}精神师的
+tagHybridPrefixGQ4and11={^G}道家的
+tagHybridPrefixGQ5and11={^G}隐士的
+tagHybridPrefixGQ6and11={^G}破坏者的
+tagHybridPrefixGQ7and11={^G}吴的
+tagHybridPrefixGQ8and11={^G}引导者的
+tagHybridPrefixGQ9and11={^G}沉思者的
+tagHybridPrefixGQ10and11={^G}秘传学者的
+
+tagBootlegPrefix01={^G}雅典娜的战斗
+tagBootlegPrefix02={^G}战斗法师的
+tagBootlegPrefix03={^G}阴影追踪者的
+tagBootlegPrefix04={^G}冥界的
+tagBootlegPrefix05={^G}图尔德利克的
+tagBootlegPrefix06={^G}大法师的
+tagBootlegPrefix07={^G}能手的
+tagBootlegPrefix08={^G}神谕者的
+tagBootlegPrefix09={^G}美尔米基的
+tagBootlegPrefix10={^G}波塞冬的
+tagBootlegPrefix11={^G}波尔弗里翁的
+tagBootlegPrefix12={^G}恶魔皮肤的
+tagBootlegPrefix13={^G}水晶的
+tagBootlegPrefix14={^G}查伦的葬礼
+tagBootlegPrefix15={^G}班达里的
+tagBootlegPrefix16={^G}被施咒的
+tagBootlegPrefix17={^G}阿克妮的
+tagBootlegPrefix18={^G}戈尔戈尼的
+tagBootlegPrefix19={^G}蝎子之
+tagBootlegPrefix20={^G}病毒的
+tagBootlegPrefix21={^G}贝勒洛丰的
+tagBootlegPrefix22={^G}野蛮人的尖刺
+tagBootlegPrefix23={^G}泥潭爬行者的
+tagBootlegPrefix24={^G}普洛斯的
+tagBootlegPrefix25={^G}卡尔努斯的
+tagBootlegPrefix26={^G}普罗约克西斯的
+tagBootlegPrefix27={^G}暗影飞行者
+tagBootlegPrefix28={^G}梦游者的
+tagBootlegPrefix29={^G}夜惊恐的
+tagBootlegPrefix30={^G}白垩的
+tagBootlegPrefix31={^G}贝丽萨玛的
+tagBootlegPrefix32={^G}赫斯佩拉的
+tagBootlegPrefix33={^G}梦织者的
+tagBootlegPrefix34={^G}赫尔墨斯的
+tagBootlegPrefix35={^G}亚历山大的
+tagBootlegPrefix36={^G}白玉的
+tagBootlegPrefix37={^G}金蝉的
+tagBootlegPrefix38={^G}上清的
+tagBootlegPrefix39={^G}龙王的
+tagBootlegPrefix40={^G}敖顺的
+tagBootlegPrefix41={^G}敖俊的
+tagBootlegPrefix42={^G}吞噬者的
+
+tagGQEarthStaffPrefixB001={^G}岩浆的  
+tagGQEarthStaffPrefixB002={^G}灰烬的  
+tagGQEarthStaffPrefixB003={^G}地元素师的  
+tagGQEarthStaffPrefixB004={^G}火成岩的  
+tagGQEarthStaffPrefixB005={^G}焚烧者的  
+tagGQEarthStaffPrefixB006={^G}火山灰的  
+tagGQEarthStaffPrefixB007={^G}火爪的  
+tagGQEarthStaffPrefixB008={^G}炽焰木的  
+tagGQStormStaffPrefixB001={^G}雪域的  
+tagGQStormStaffPrefixB002={^G}霜风的  
+tagGQStormStaffPrefixB003={^G}气元素师的  
+tagGQStormStaffPrefixB004={^G}风暴之子的  
+tagGQStormStaffPrefixB005={^G}雷龙的  
+tagGQStormStaffPrefixB006={^G}雷电的  
+tagGQStormStaffPrefixB007={^G}冰霜元素师的  
+tagGQStormStaffPrefixB008={^G}暴风潮的  
+tagGQRogueStaffPrefixB001={^G}死神枪手的  
+tagGQRogueStaffPrefixB002={^G}恶意的  
+tagGQRogueStaffPrefixB003={^G}亵渎的  
+tagGQRogueStaffPrefixB004={^G}盗贼的  
+tagGQRogueStaffPrefixB005={^G}毒素元素师的  
+tagGQRogueStaffPrefixB006={^G}玷污的  
+tagGQDreamStaffPrefix001={^G}老妪的  
+tagGQDreamStaffPrefix002={^G}阴影的  
+tagGQDreamStaffPrefix003={^G}达克提尔的  
+tagGQDreamStaffPrefix004={^G}复仇者的  
+tagGQDreamStaffPrefix005={^G}鞭笞者的  
+tagGQDreamStaffPrefix006={^G}梦想者的  
+tagGQSpiritStaffPrefixB001={^G}诅咒的  
+tagGQSpiritStaffPrefixB002={^G}饥渴的  
+tagGQSpiritStaffPrefixB003={^G}霜疫的  
+tagGQSpiritStaffPrefixB004={^G}恐怖的  
+tagGQSpiritStaffPrefixB005={^G}灵魂收割者的  
+tagGQSpiritStaffPrefixB006={^G}灵魂语者的  
+tagGQSpiritStaffPrefixB007={^G}骨王的  
+tagGQNatureStaffPrefixB001={^G}荆棘编织者的  
+tagGQNatureStaffPrefixB002={^G}毒害的  
+tagGQNatureStaffPrefixB003={^G}感染的  
+tagGQNatureStaffPrefixB004={^G}精灵的  
+tagGQNatureStaffPrefixB005={^G}林灵的  
+tagGQNatureStaffPrefixB006={^G}树精的  
+tagGQRunesStaffPrefixB001={^G}巨人的  
+tagGQRunesStaffPrefixB002={^G}符文追踪者的  
+tagGQRunesStaffPrefixB003={^G}风暴触碰的  
+tagGQRunesStaffPrefixB004={^G}歌尔德的  
+tagGQRunesStaffPrefixB005={^G}符文法师的  
+tagGQRunesStaffPrefixB006={^G}赛德尔的  
+tagGQRunesStaffPrefixB007={^G}鲁莽的  
+tagGQNeidanStaffPrefixB001={^G}金蝉的  
+tagGQNeidanStaffPrefixB002={^G}妲己的  
+tagGQNeidanStaffPrefixB003={^G}皇帝的  
+tagGQNeidanStaffPrefixB004={^G}女娲的  
+tagGQNeidanStaffPrefixB005={^G}钟馗的  
+tagGQNeidanStaffPrefixB006={^G}阎魔的  
+tagGQDefense2HPrefixB001={^G}守卫者的  
+tagGQDefense2HPrefixB002={^G}将军的  
+tagGQDefense2HPrefixB003={^G}执法者的  
+tagGQDefense2HPrefixB004={^G}巨型的  
+tagGQDefense2HPrefixB005={^G}巨人之力的  
+tagGQDefense2HPrefixB006={^G}强健的  
+tagGQWarfare2HPrefixB001={^G}独眼巨人的  
+tagGQWarfare2HPrefixB002={^G}队长的  
+tagGQWarfare2HPrefixB003={^G}凯旋的  
+tagGQWarfare2HPrefixB004={^G}末日使者的  
+tagGQWarfare2HPrefixB005={^G}野蛮的  
+tagGQWarfare2HPrefixB006={^G}穴居人的  
+tagGQWarfare2HPrefixB007={^G}恩约的  
+tagGQWarfare2HPrefixB008={^G}荣耀的  
+tagGQHunting2HPrefixB001={^G}束缚者的  
+tagGQHunting2HPrefixB002={^G}猎头者的  
+tagGQHunting2HPrefixB003={^G}工匠的  
+tagGQHunting2HPrefixB004={^G}百夫长的  
+tagGQHunting2HPrefixB005={^G}阿波罗的  
+tagGQHunting2HPrefixB006={^G}迅捷射手的  
+tagGQHunting2HPrefixB007={^G}阿耳忒弥斯的  
+#GQ Suffixes  
+tagGQSuffixB001={^I}安努比斯之怒的  
+tagGQSuffixB002={^I}宙斯之雷霆的  
+tagGQSuffixB003={^I}普罗米修斯之火的  
+tagGQSuffixB004={^I}塔尔塔罗斯的寒冷的  
+tagGQSuffixB005={^I}龙王们的  
+tagGQSuffixB006={^I}玉皇大帝的宁静的  
+tagGQSuffixB007={^I}奥西里斯的杜依德的  
+tagGQSuffixB008={^I}塔纳托斯之刃的  
+tagGQSuffixB009={^I}神农的黑暗医术的  
+tagGQSuffixB010={^I}赫卡忒的弯月的  
+tagGQSuffixB011={^I}阿蒙-拉的荣耀的  
+tagGQSuffixB012={^I}厄瑞玻斯水晶的  
+tagGQSuffixB013={^I}伊西斯的圣符的  
+tagGQSuffixB014={^I}大雪人之力的  
+tagGQSuffixB015={^I}傀儡师的  
+tagGQSuffixB016={^I}狮身人面的  
+tagGQSuffixB017={^I}勒尔尼安九头蛇的  
+tagGQSuffixB018={^I}炼金术士的  
+tagGQSuffixB019={^I}地狱犬的  
+tagGQSuffixB020={^I}龙尸的  
+tagGQSuffixB021={^I}大法师的  
+tagGQSuffixB022={^I}泰坦的  
+tagGQSuffixB023={^I}蛇发女妖的  
+tagGQSuffixB024={^I}风暴女巫的  
+tagGQSuffixB025={^I}巴尔马努的暴风雪的  
+tagGQSuffixB026={^I}飞马的  
+tagGQSuffixB027={^I}魔法师的  
+tagGQSuffixB028={^I}狮鹫的  
+tagGQSuffixB029={^I}班达瑞的巫术的  
+tagGQSuffixB030={^I}墓地巨蛇的  
+tagGQSuffixB031={^I}美人鱼的  
+tagGQSuffixB032={^I}奇美拉的  
+tagGQSuffixB033={^I}美狄亚的树林的  
+tagGQSuffixB034={^I}精灵的  
+tagGQSuffixB035={^I}格雷阿的  
+tagGQSuffixB036={^I}恩普萨的  
+tagGQSuffixB037={^I}膨胀者的  
+tagBootlegSuffix01={^I}技能的  
+tagBootlegSuffix02={^I}占卜的  
+tagBootlegSuffix03={^I}永恒的  
+tagBootlegSuffix04={^I}的决心
+tagBootlegSuffix05={^I}的至高无上
+tagBootlegSuffix06={^I}的优雅
+tagBootlegSuffix07={^I}的勇气
+tagBootlegSuffix08={^I}的毅力
+tagBootlegSuffix09={^I}的预兆
+tagBootlegSuffix10={^I}的报复
+tagBootlegSuffix11={^I}的召集
+tagBootlegSuffix12={^I}的猛烈
+tagBootlegSuffix13={^I}的奴役
+tagBootlegSuffix14={^I}的报应
+tagBootlegSuffix15={^I}的复仇
+tagBootlegSuffix16={^I}的仪式
+tagBootlegSuffix17={^I}的屠杀
+tagBootlegSuffix18={^I}的狡诈
+tagBootlegSuffix19={^I}的稳定
+
+tagGQEarthStaffSuffixB001={^G}的火山口
+tagGQEarthStaffSuffixB002={^G}的火石
+tagGQEarthStaffSuffixB003={^G}的爆燃
+tagGQEarthStaffSuffixB004={^G}的硫磺
+tagGQEarthStaffSuffixB005={^G}的炽焰
+tagGQEarthStaffSuffixB006={^G}的石匠
+tagGQEarthStaffSuffixB007={^G}的自焚
+tagGQStormStaffSuffixB001={^G}的雷暴
+tagGQStormStaffSuffixB002={^G}的暴风雨
+tagGQStormStaffSuffixB003={^G}的台风
+tagGQStormStaffSuffixB004={^G}的寒风
+tagGQStormStaffSuffixB005={^G}的霜矛
+tagGQStormStaffSuffixB006={^G}的冰雕
+tagGQStormStaffSuffixB007={^G}的风暴之风
+tagGQRogueStaffSuffixB001={^G}的狡诈
+tagGQRogueStaffSuffixB002={^G}的影刃
+tagGQRogueStaffSuffixB003={^G}的陷阱
+tagGQRogueStaffSuffixB004={^G}的亵渎者
+tagGQRogueStaffSuffixB005={^G}的折磨之魂
+tagGQRogueStaffSuffixB006={^G}的炼金术
+tagGQDreamStaffSuffixB001={^G}的折磨
+tagGQDreamStaffSuffixB002={^G}的痛苦
+tagGQDreamStaffSuffixB003={^G}的剧痛
+tagGQDreamStaffSuffixB004={^G}的恐惧
+tagGQDreamStaffSuffixB005={^G}的传送门
+tagGQDreamStaffSuffixB006={^G}的噩梦
+tagGQSpiritStaffSuffixB001={^G}的恐怖
+tagGQSpiritStaffSuffixB002={^G}的生命吸取者
+tagGQSpiritStaffSuffixB003={^G}的盛宴
+tagGQSpiritStaffSuffixB004={^G}的召魂者
+tagGQSpiritStaffSuffixB005={^G}的奴役
+tagGQNatureStaffSuffixB001={^G}的真菌
+tagGQNatureStaffSuffixB002={^G}的浑浊草
+tagGQNatureStaffSuffixB003={^G}的折磨
+tagGQNatureStaffSuffixB004={^G}的荆棘林
+tagGQNatureStaffSuffixB005={^G}的迅爪
+tagGQNatureStaffSuffixB006={^G}的斯普里根
+tagGQRunesStaffSuffixB001={^G}的铭文
+tagGQRunesStaffSuffixB002={^G}的雷霆
+tagGQRunesStaffSuffixB003={^G}的封印术
+tagGQRunesStaffSuffixB004={^G}的雷爆
+tagGQRunesStaffSuffixB005={^G}的冰符
+tagGQRunesStaffSuffixB006={^G}的霜火
+tagGQNeidanStaffSuffixB001={^G}的尸体
+tagGQNeidanStaffSuffixB002={^G}的外丹
+tagGQNeidanStaffSuffixB003={^G}的武道至高
+tagGQNeidanStaffSuffixB004={^G}的陶俑
+tagGQNeidanStaffSuffixB005={^G}的禁忌魔法
+tagGQNeidanStaffSuffixB006={^G}的虚弱
+tagGQDefense2HSuffixB001={^G}的极乐
+tagGQDefense2HSuffixB002={^G}的长征者
+tagGQDefense2HSuffixB003={^G}的战酋
+tagGQDefense2HSuffixB004={^G}的智者
+tagGQDefense2HSuffixB005={^G}的碎颅者
+tagGQDefense2HSuffixB006={^G}的不可战胜
+tagGQDefense2HSuffixB007={^G}的坚定
+tagGQHunting2HSuffixB001={^G}的死亡编织者
+tagGQHunting2HSuffixB002={^G}的平原行者
+tagGQHunting2HSuffixB003={^G}的鹰眼
+tagGQHunting2HSuffixB004={^G}的编织者
+tagGQHunting2HSuffixB005={^G}的掠夺
+tagGQHunting2HSuffixB006={^G}的欺骗
+tagGQHunting2HSuffixB007={^G}的精巧
+tagGQWarfare2HSuffixB001={^G}的掠夺者
+tagGQWarfare2HSuffixB002={^G}的刀舞者
+tagGQWarfare2HSuffixB003={^G}的半人马
+tagGQWarfare2HSuffixB004={^G}的地震者
+tagGQWarfare2HSuffixB005={^G}的战争领主
+tagGQWarfare2HSuffixB006={^G}的骨折者
+tagGQWarfare2HSuffixB007={^G}的祖先
+tagGQWarfare2HSuffixB008={^G}的灵活
+
+
+
+
+
+
+
+
+
+#Unorganized TQ Uniques
+tagUArmor001=灵巧环
+tagUArmor002=支配之环
+tagUArmor003={^I}天界之环
+tagUArmor004={^I}基隆之环
+tagUArmor005={^I}慕容之徽
+tagUArmor006=(S) {^B}水晶戒指
+tagUArmor007=幽灵克星
+tagUArmor008=防护之环
+tagUArmor009={^I}盖亚之环
+tagUArmor010=高级祭司的印记
+tagUArmor011=阴影之环
+tagUArmor012=希望之印
+tagUArmor013=星石
+tagUArmor014={^I}托特的印记
+tagUArmor015={^I}阿波罗之意志
+tagUArmor016={^I}阿基米德的齿轮
+tagUArmor017={^I}灵魂之环
+tagUArmor018=(S) {^I}黑珍珠戒指
+tagUArmor019={^I}荷鲁斯之眼
+tagUArmor020={^I}阿瑞斯之印
+tagUArmor021={^I}赫菲斯托斯之印
+tagUArmor022=血石
+tagUArmor023=火石
+tagUArmor024=队长的印记
+tagUArmor025=符文戒指
+tagUArmor026=(S) {^B}翡翠环
+tagUArmor027=生命之环
+tagUArmor028=誓约戒指
+tagUArmor029=商之戒
+tagUArmor030=风暴之眼
+tagUArmor031=守卫石
+tagUArmor032=(S) {^I}阿尔克
+tagUArmor033=(S) {^I}提迈欧斯
+tagUArmor034=(S) {^B}梅姆农的印记
+tagUArmor035=脆弱之物
+tagUArmor036=奥术束缚
+tagUArmor037=光辉手环
+tagUArmor038=痛苦手环
+tagUArmor039=韧性之环
+tagUArmor040=水晶手环
+tagUArmor041=迪奥根尼的缠绕
+tagUArmor042=龙息
+tagUArmor043=元素使之缠绕
+tagUArmor044=圣者的缠绕
+tagUArmor045=迟钝
+tagUArmor046=纳图斯的克星
+tagUArmor047=永冻手环
+tagUArmor048=皮西亚的扣环
+tagUArmor049=灾难缠绕
+tagUArmor050=(S) {^I}黑珍珠手环
+tagUArmor051=阿曼达的手环
+tagUArmor052=心歌臂环
+tagUArmor053=森比的扣环
+tagUArmor054=真银手环
+tagUArmor055=骨手环
+tagUArmor056=发光手镯
+tagUArmor057=和谐
+tagUArmor058=翡翠扣环
+tagUArmor059=心鞭
+tagUArmor060=纸莎草缠绕
+tagUArmor061=学者的手镯
+tagUArmor062=能手的扣环
+tagUArmor063=德鲁伊的手环
+tagUArmor064=火法师的手环
+tagUArmor065=风暴手环
+tagUArmor066=阴影护腕
+tagUArmor067=大法师的扣环
+tagUArmor068=死亡护腕
+tagUArmor069=神谕者的缠绕
+tagUArmor070=虚弱
+tagUArmor071=永恒
+tagUArmor072={^B}不灭之环
+tagUArmor073=海吉亚的护符
+tagUArmor074=神恩祝福
+tagUArmor075=(S) {^B}水晶图腾
+tagUArmor076=火焰之眼
+tagUArmor077={^B}冰盾护符
+tagUArmor078={^B}磁石
+tagUArmor079=极星
+tagUArmor080=普罗科皮欧斯
+tagUArmor081={^B}托勒密的洞察
+tagUArmor082={^B}毕达哥拉斯勋章
+tagUArmor083={^B}宁静
+tagUArmor084={^B}变幻珠
+tagUArmor085={^B}海妖之歌
+tagUArmor086={^B}藏传项链
+tagUArmor087={^B}极地护符
+tagUArmor088={^B}提尔维达的威力
+tagUArmor089=阿佛洛狄忒的青睐
+tagUArmor090=(S) {^I}黑珍珠吊坠
+tagUArmor091=冥河之精华
+tagUArmor092=蜜尔米冬的吊坠
+tagUArmor093=哈耳摩尼亚的项链
+tagUArmor094=不朽愤怒的吊坠
+tagUArmor095=沙沃的遗物
+tagUArmor096={^B}电气护符
+tagUArmor097={^B}冰月
+tagUArmor098=(S) {^B}翡翠图腾
+tagUArmor099={^B}雅布夫人的圣甲虫
+tagUArmor100={^B}莲花之花
+tagUArmor101={^B}月爪
+tagUArmor102={^B}凯恩之歌
+tagUArmor103={^B}元素碎片
+tagUArmor104={^B}毒心
+tagUArmor105={^B}源泉
+tagUArmor106=阿特拉斯的护腕
+tagUArmor107=荆棘护腕
+tagUArmor108=亚历山大的护腕
+tagUArmor109=斯芬克斯的护腕
+tagUArmor110=特洛伊的护腕
+tagUArmor111=野性之力
+tagUArmor112=骨护腕
+tagUArmor113=水晶护腕
+tagUArmor114=火行者的护腕
+tagUArmor115=猎人的臂铠
+tagUArmor116=流浪者的护腕
+tagUArmor117=阴影之触
+tagUArmor118=风暴护腕
+tagUArmor119=战斗法师护腕
+tagUArmor120=守卫者臂铠
+tagUArmor121=战士的护腕
+tagUArmor122=深渊护腕
+tagUArmor123=苹果使者的护腕
+tagUArmor124=刺客的护腕
+tagUArmor125=恐惧
+tagUArmor126=征服者的护腕
+tagUArmor127=霍去病的臂铠
+tagUArmor128=尼米安狮子的护腕
+tagUArmor129=追踪者的手套
+tagUArmor130=迷宫护腕
+tagUArmor131=帝国护腕
+tagUArmor132=拉撒路的护腕
+tagUArmor133=伏羲的锁链
+tagUArmor134=黑曜石护腕
+tagUArmor135=翡翠护腕
+tagUArmor136=拉美西斯的锁链
+tagUArmor137=底比斯护腕
+tagUArmor138=雅典娜的战靴
+tagUArmor139=贝勒罗丰的护腿
+tagUArmor140=卡戎的葬礼裹布
+tagUArmor141=洛拉提安的战靴
+tagUArmor142=浑沌爬行者
+tagUArmor143=尼布甲尼撒的战靴
+tagUArmor144=塔克拉玛干的护腿
+tagUArmor145=赫尔墨斯的神翼
+tagUArmor146=炙热的战靴
+tagUArmor147=厄比乌斯的战靴
+tagUArmor148=马拉松之靴
+tagUArmor149=丛林根之靴
+tagUArmor150=波斯战靴
+tagUArmor151=亚历山大的战靴
+tagUArmor152=斯芬克斯的战靴
+tagUArmor153=特洛伊的战靴
+tagUArmor154=野性之速
+tagUArmor155=骨质护腿
+tagUArmor156=水晶护腿
+tagUArmor157=火行者护腿
+tagUArmor158=猎人护腿
+tagUArmor159=流氓护腿
+tagUArmor160=暗影之翼
+tagUArmor161=风暴护腿
+tagUArmor162=守卫者护腿
+tagUArmor163=战士战靴
+tagUArmor164=深渊护腿
+tagUArmor165=苹果使者的护腿
+tagUArmor166=刺客的战靴
+tagUArmor167=征服者战靴
+tagUArmor168=霍去病的护腿
+tagUArmor169=螳螂步伐
+tagUArmor170=尼米安狮子的护腿
+tagUArmor171=追踪者的腿部护甲
+tagUArmor172=巴比伦战靴
+tagUArmor173=帝国战靴
+tagUArmor174=迷宫战靴
+tagUArmor175=拉撒路战靴
+tagUArmor176=伏羲的缠绕
+tagUArmor177=死灵法师的护腿
+tagUArmor178=黑曜石护腿
+tagUArmor179=翡翠护腿
+tagUArmor180=拉美西斯的护腿
+tagUArmor181=底比斯护腿
+tagUArmor182=能手的护腿
+tagUArmor183=战斗法师护腿
+tagUArmor184=大法师护腿
+tagUArmor185=神谕者的护腿
+tagUArmor186=敖钦的红帽
+tagUArmor187=蓝色战争王冠
+tagUArmor188=基隆的凝视
+tagUArmor189=伟大国王的王冠
+tagUArmor190=迪耶内基的阴影
+tagUArmor191=奥德修斯的头盔
+tagUArmor192=重装步兵的头盔
+tagUArmor193=坚不可摧的头盔
+tagUArmor194=潘的头饰
+tagUArmor195=祭司的头巾
+tagUArmor196=托勒密的羽冠头盔
+tagUArmor197=暗影融合
+tagUArmor198=阿伽门农的死亡面具
+tagUArmor199=阿瑞斯的战盔
+tagUArmor200=黑暗头盔
+tagUArmor201=赫尔墨斯的翼盔
+tagUArmor202=赫西俄涅的金面纱
+tagUArmor203=盗贼的头巾
+tagUArmor204=岩石头盔
+tagUArmor205=翡翠王冠
+tagUArmor206=赫洛特的愤怒
+tagUArmor207=美狄的帽子
+tagUArmor208=红色王冠
+tagUArmor209=尖叫头盔
+tagUArmor210=白色王冠
+tagUArmor211=竞技之冠
+tagUArmor212=俄耳甫斯的花环
+tagUArmor213=色彩之王冠
+tagUArmor214=元素王冠
+tagUArmor215=愤世嫉俗者的面纱
+tagUArmor216=(S) {^I}亚历山大的羽冠头盔
+tagUArmor217=斯芬克斯的头盔
+tagUArmor218=特洛伊战盔
+tagUArmor219=荒野的召唤
+tagUArmor220=骨盔
+tagUArmor221=水晶头盔
+tagUArmor222=(S) {^B}火行者的头盔
+tagUArmor223=猎人的头盔
+tagUArmor224=(S) {^B}梅姆农的守护
+tagUArmor225=(S) {^B}流氓的头巾
+tagUArmor226=暗影面纱
+tagUArmor227=风暴头盔
+tagUArmor228=守卫者的头盔
+tagUArmor229=战士的脑壳盔
+tagUArmor230=苹果使者的帽子
+tagUArmor231=刺客的面纱
+tagUArmor232=征服者的脑壳盔
+tagUArmor233=霍去病的头盔
+tagUArmor234=螳螂头盔
+tagUArmor235=尼米安狮子的头盔
+tagUArmor236=追踪者的头巾
+tagUArmor237=巴比伦头盔
+tagUArmor238=帝国头盔
+tagUArmor239=迷宫头盔
+tagUArmor240=拉撒路的头盔
+tagUArmor241=伏羲的头骨板
+tagUArmor242=(S) {^B}黑曜石头盔
+tagUArmor243=翡翠羽冠头盔
+tagUArmor244=拉美西斯的头饰
+tagUArmor245=底比斯羽冠头盔
+tagUArmor246=能手的王冠
+tagUArmor247=德鲁伊的花环
+tagUArmor248=火法师的环饰
+tagUArmor249=风暴之环
+tagUArmor250=阴影王冠
+tagUArmor251=战斗法师的环饰
+tagUArmor252=大法师的王冠
+tagUArmor253=亡者之冠
+tagUArmor254=神谕者的花环
+tagUArmor255=燃烧之刃的护甲
+tagUArmor256=黑卫
+tagUArmor257=赞图斯的胸甲
+tagUArmor258=布里内的救赎
+tagUArmor259=瑟塔斯的铠甲
+tagUArmor260=楚的箭袋
+tagUArmor261=迪奥根尼的氅衣
+tagUArmor262=道丸
+tagUArmor263=伊特鲁斯克的胸甲
+tagUArmor264=歌风
+tagUArmor265=吉尔丹瑟
+tagUArmor266=希波克拉底的背心
+tagUArmor267=赫尔赫布的外衣
+tagUArmor268=坤多兰的腰带
+tagUArmor269=生命之袍
+tagUArmor270=岩浆
+tagUArmor271=萨君的披风
+tagUArmor272=秘密之主的披风
+tagUArmor273=摩拉歌的铠甲
+tagUArmor274=色雷斯的胸甲
+tagUArmor275=变形者铠甲
+tagUArmor276=逻各斯的长袍
+tagUArmor277=席瓜的长袍
+tagUArmor278=瑞泽法奈的铠甲
+tagUArmor279=赫修斯的白灰铠
+tagUArmor280=凯弗瑞斯的护甲
+tagUArmor281=蛇皮包裹
+tagUArmor282=索马托菲莱斯的铠甲
+tagUArmor283=灵魂盾氅
+tagUArmor284=复仇之铠
+tagUArmor285=孙路山的护甲
+tagUArmor286=武藏的和服
+tagUArmor287=地球守卫
+tagUArmor288=可汗的狩猎护甲
+tagUArmor289=泰尔德龙的胸甲
+tagUArmor290=困惑的衣袍
+tagUArmor291=疯人汤姆的衣袍
+tagUArmor292=猩红守卫的护甲
+tagUArmor293=阿基琉斯的护甲
+tagUArmor294=佩琉斯的护甲
+tagUArmor295=巴贝齐吉
+tagUArmor296=卡吕普索的披风
+tagUArmor297=狄俄尼索斯的背心
+tagUArmor298=费尔鲁斯·格诺西
+tagUArmor299=荷鲁斯的庇护所
+tagUArmor300=米诺克西亚护甲
+tagUArmor301=奥德修斯的铠甲
+tagUArmor302=霸主的铁壳
+tagUArmor303=伊雷妮的幽影
+tagUArmor304=阿努比斯的护甲
+tagUArmor305=托特的阴影
+tagUArmor306=翠绿板甲
+tagUArmor307=龙皮铠
+tagUArmor308=先知的披风
+tagUArmor309=维瑞-特的带状板甲
+tagUArmor310=剑投者的铠甲
+tagUArmor311=荆棘护甲
+tagUArmor312=战车手的箭袋
+tagUArmor313=毁灭之披风
+tagUArmor314=夜幕覆盖
+tagUArmor315=达沃斯的胸甲
+tagUArmor316=火焰皮肤
+tagUArmor317=火焰花
+tagUArmor318=加利昂的胸甲
+tagUArmor319=格莱文的胸甲
+tagUArmor320=指挥之铠
+tagUArmor321=山脉之心
+tagUArmor322=霍雀的铠甲
+tagUArmor323=赫比尔的胸甲
+tagUArmor324=铁皮套装
+tagUArmor325=洛仁的胸甲
+tagUArmor326=马伦的服装
+tagUArmor327=游牧者的身躯裹带
+tagUArmor328=厄运之铠
+tagUArmor329=亡命之腰带
+tagUArmor330=医者的长袍
+tagUArmor331=任雷的骄傲
+tagUArmor332=沙行者的护甲
+tagUArmor333=万灵之披风
+tagUArmor334=矛手的丝绸
+tagUArmor335=豺狼的腐败战衣
+tagUArmor336=戏法师的长袍
+tagUArmor337=银弓的长袍
+tagUArmor338=流浪山羊的外衣
+tagUArmor339=旅行者的华服
+tagUArmor340=路阻者的束衣
+tagUArmor341=碧丝外衣
+tagUArmor342=执政官的服装
+tagUArmor343=皮西亚的外衣
+tagUArmor344=齐白的长袍
+tagUArmor345=三白的长袍
+tagUArmor346=谢-多的洞察长袍
+tagUArmor347=恶灵之衣
+tagUArmor348=伊莫切尔的谜袍
+tagUArmor349=冯肖的冥思长袍
+tagUArmor350=伊丽丝的闪耀长袍
+tagUArmor351=心怒长袍
+tagUArmor352=半影板甲
+tagUArmor353=阿蒙-拉的披风
+tagUArmor354=西迪罗斯·洛罗斯的长袍
+tagUArmor355=霸主的外衣
+tagUArmor356=执政者的氅衣
+tagUArmor357=本哈蒙的裙子
+tagUArmor358=卡尔哈斯的长袍
+tagUArmor359=海市蜃楼
+tagUArmor360=俞雅的服装
+tagUArmor361=虔诚的腰带
+tagUArmor362=(S) {^I}亚历山大的胸甲
+tagUArmor363=斯芬克斯的胸甲
+tagUArmor364=风暴铠甲
+tagUArmor365=特洛伊胸甲
+tagUArmor366=野性之韧
+tagUArmor367=骨质胸甲
+tagUArmor368=水晶铠甲
+tagUArmor369=火行者的胸甲
+tagUArmor370=猎人的铠甲
+tagUArmor371=(S) {^B}梅姆农的庇护
+tagUArmor372=(S) {^B}流氓的束带
+tagUArmor373=暗影守护
+tagUArmor374=堡垒
+tagUArmor375=守卫者的胸甲
+tagUArmor376=战士的铠甲
+tagUArmor377=深渊铠甲
+tagUArmor378=苹果使者的护甲
+tagUArmor379=刺客的束带
+tagUArmor380=征服者的铠甲
+tagUArmor381=霍去病的胸甲
+tagUArmor382=螳螂铠
+tagUArmor383=尼米安狮皮
+tagUArmor384=追踪者的铠甲
+tagUArmor385=巴比伦的铠甲
+tagUArmor386=帝国铠甲
+tagUArmor387=迷宫胸甲
+tagUArmor388=拉撒路的盔甲
+tagUArmor389=伏羲的铠甲
+tagUArmor390=(S) {^B}黑曜石胸甲
+tagUArmor391=翡翠胸甲
+tagUArmor392=拉美西斯的外套
+tagUArmor393=底比斯胸甲
+tagUArmor394=能手的披风
+tagUArmor395=(S) {^I}德鲁伊的外衣
+tagUArmor396=火法师的长袍
+tagUArmor397=风暴之袍
+tagUArmor398=阴影长袍
+tagUArmor399=战斗法师长袍
+tagUArmor400=大法师的披风
+tagUArmor401=死灵法师的长袍
+tagUArmor402=神谕者的外衣
+tagUArmor403=蝎王的服装
+tagUArmor404=混沌之灭
+tagUArmor405=沉默的奔跑者
+tagUArmor406=夜之披风
+tagUArmor407=塔尔塔罗斯的黑牢
+tagUArmor408=塔尔塔罗斯的黑暗正义
+tagUArmor409=塔尔塔罗斯的不可抗拒之握
+tagUArmor410=塔尔塔罗斯的不屈枷锁
+tagUWeapon001={^B}亚当盾
+tagUWeapon002={^B}反刃
+tagUWeapon003={^I}血渴者
+tagUWeapon004={^B}酋长的盾牌
+tagUWeapon005={^I}乌木大盾
+tagUWeapon006={^I}冥界之壳
+tagUWeapon007={^B}元素防御盾
+tagUWeapon008={^B}精华守护
+tagUWeapon009={^B}幼发拉底的流动盾
+tagUWeapon010={^B}霜护
+tagUWeapon011={^B}冰墙
+tagUWeapon012={^B}耶利哥
+tagUWeapon013={^I}皮肤盾
+tagUWeapon014={^B}门图霍特的盾牌
+tagUWeapon015={^B}月光盘
+tagUWeapon016={^I}护符
+tagUWeapon017={^B}鳞甲蛇盾
+tagUWeapon018={^B}阿皮斯牛的盾牌
+tagUWeapon019={^B}眼镜蛇之盾
+tagUWeapon020={^I}丑陋面具盾
+tagUWeapon021={^I}科里班特斯的盾牌
+tagUWeapon022={^I}太阳盘
+tagUWeapon023={^B}腾派盾
+tagUWeapon024={^B}易燃盾
+tagUWeapon025=(S) {^I}阿基里斯的盾
+tagUWeapon026={^I}艾贾克斯的铜塔
+tagUWeapon027={^I}安基尔
+tagUWeapon028={^I}雅典娜的镜面盾
+tagUWeapon029={^I}迟贡的决心
+tagUWeapon030={^I}金牛盾
+tagUWeapon031={^I}佩拉龙的金盾
+tagUWeapon032={^I}哈迪斯的盾牌
+tagUWeapon033={^I}赫克托尔的闪光盾
+tagUWeapon034={^I}赫淮斯托斯的熔火盾
+tagUWeapon035={^I}赫拉的盾牌
+tagUWeapon036={^I}普里阿摩斯之门
+tagUWeapon037={^I}黑龙的鳞片
+tagUWeapon038={^I}幽灵守卫盾
+tagUWeapon039={^I}毒蛇皮盾
+tagUWeapon040={^I}芝诺的第三悖论
+tagUWeapon041={^B}拉科尼亚的盾牌
+tagUWeapon042={^B}猪猎人盾
+tagUWeapon043={^B}队长的盾牌
+tagUWeapon044={^B}仪式小圆盾
+tagUWeapon045={^B}伴侣守卫盾
+tagUWeapon046={^B}大地屏障
+tagUWeapon047={^B}火焰防护盾
+tagUWeapon048={^B}冰冻小圆盾
+tagUWeapon049={^B}赫达尔尼斯的盾牌
+tagUWeapon050={^B}尖刺霍普龙盾
+tagUWeapon051={^B}金盾
+tagUWeapon052={^B}神秘之盾
+tagUWeapon053={^B}努比亚的防御盾
+tagUWeapon054={^B}帕维斯盾
+tagUWeapon055={^B}神圣新月盾
+tagUWeapon056={^B}平衡之盾
+tagUWeapon057={^B}皇家卫队之盾
+tagUWeapon058={^B}石墙盾
+tagUWeapon059={^B}荆棘墙盾
+tagUWeapon060={^B}图特摩斯的小圆盾
+tagUWeapon061=(S) {^I}亚历山大的盾
+tagUWeapon062={^B}影之墙
+tagUWeapon063={^B}堡垒
+tagUWeapon064={^B}守卫者之信念
+tagUWeapon065={^I}深渊之盾
+tagUWeapon066={^I}德摩斯盾
+tagUWeapon067=(S) {^B}巴比伦的盾牌
+tagUWeapon068={^B}迷宫盾
+tagUWeapon069={^B}底比斯盾
+tagUWeapon070=年龄之斧
+tagUWeapon071=阿特洛波斯的助手
+tagUWeapon072=莱斯博斯的斧头
+tagUWeapon073=肉撕者
+tagUWeapon074=神祇的猛攻
+tagUWeapon075=梅伽洛斯
+tagUWeapon076=梅索斯
+tagUWeapon077=米诺安火斧
+tagUWeapon078=投石机
+tagUWeapon079=盘古之斧
+tagUWeapon080=盲雪
+tagUWeapon081=恩基杜的防守
+tagUWeapon082=扎赫纳尔
+tagUWeapon083=猴王的贪欲
+tagUWeapon084=折磨
+tagUWeapon085=冥河的触摸
+tagUWeapon086=特雷乌斯之斧
+tagUWeapon087=三头犬的咬击
+tagUWeapon088=厄里西克通的饥饿
+tagUWeapon089=复仇女神之斧
+tagUWeapon090=利皮库里
+tagUWeapon091=珀尔塞福涅的爱抚
+tagUWeapon092=凤凰之火
+tagUWeapon093=沙伊坦
+tagUWeapon094=兽屠者
+tagUWeapon095=脑裂
+tagUWeapon096=山贼斧
+tagUWeapon097=屠夫的未婚妻
+tagUWeapon098=蚩尤的吸取
+tagUWeapon099=死神来袭
+tagUWeapon100=奇翁之爪 // 冰霜刺
+tagUWeapon101=裂发斧
+tagUWeapon102=浩劫之斧
+tagUWeapon103=米克罗斯
+tagUWeapon104=愤怒的公牛
+tagUWeapon105=骷髅撕裂者
+tagUWeapon106=收割者
+tagUWeapon107=赛拉
+tagUWeapon108=卡律布狄斯
+tagUWeapon109=影之诅咒
+tagUWeapon110=(S) {^B}黑曜石弯月斧
+tagUWeapon111=极光
+tagUWeapon112=萨·杰德的弓
+tagUWeapon113=寒风弓
+tagUWeapon114=死亡之花
+tagUWeapon115=恐惧之风
+tagUWeapon116=皇帝的恩赐
+tagUWeapon117=游牧者的狩猎弓
+tagUWeapon118=梅杰弓
+tagUWeapon119=霜风暴
+tagUWeapon120=赫克索斯复合弓
+tagUWeapon121=伊卡卢斯
+tagUWeapon122=宝石弓
+tagUWeapon123=沙暴
+tagUWeapon124=梅里奥涅斯的弓
+tagUWeapon125=尼丝的太阳弓
+tagUWeapon126=幽灵战弓
+tagUWeapon127=苏安米
+tagUWeapon128=弓雨
+tagUWeapon129=朱戎的火弓
+tagUWeapon130=阿波罗的弯弓
+tagUWeapon131=阿耳忒弥斯的银弓
+tagUWeapon132=阿塔兰塔的弓
+tagUWeapon133=厄律托斯的弓
+tagUWeapon134=赫拉克勒斯之弓
+tagUWeapon135=赫利俄斯之怒
+tagUWeapon136=复仇女神的反曲弓
+tagUWeapon137=痛苦织者
+tagUWeapon138=秦国弓
+tagUWeapon139=蛇语者之弓
+tagUWeapon140=丘比特的弓
+tagUWeapon141=代达罗斯的恐惧
+tagUWeapon142=塞浦路斯的角
+tagUWeapon143=尼罗河之弓
+tagUWeapon144=金属冲击
+tagUWeapon145=公羊弓
+tagUWeapon146=斯基泰的触摸
+tagUWeapon147=无声飞行
+tagUWeapon148=风暴打击
+tagUWeapon149=特利安的意志
+tagUWeapon150=肌腱撕裂者
+tagUWeapon151=图修斯的战弓
+tagUWeapon152=绿松石弓
+tagUWeapon153=翡翠弓
+tagUWeapon154=阿卡迪安的审判
+tagUWeapon155=灾疫
+tagUWeapon156=德墨忒耳的悲伤
+tagUWeapon156b=塞雷斯的悲伤
+tagUWeapon157=末日使者
+tagUWeapon158=卡拉尔的说服者
+tagUWeapon159=利凯翁的审判锤
+tagUWeapon159DESC="锤子发出震动雷电，撕裂周围的空间。"
+tagUWeapon160=甜瓜锤
+tagUWeapon161=普罗米修斯的礼物
+tagUWeapon162=太阳之锤
+tagUWeapon163=破骨锤
+tagUWeapon164=悲伤带来者
+tagUWeapon165=荆棘巨槌
+tagUWeapon166=重击
+tagUWeapon167=恶意的棍棒
+tagUWeapon168=阿伽门农的权杖
+tagUWeapon169=阿瑞图斯的钉锤
+tagUWeapon170=冰川巨槌
+tagUWeapon171=赫淮斯托斯之手
+tagUWeapon172=提阿玛特之角
+tagUWeapon173=克拉肯之拳
+tagUWeapon174=猎户座的钉锤
+tagUWeapon175=腐化者萨普罗斯
+tagUWeapon176=梦魇之权杖
+tagUWeapon177=脊骨破坏者
+tagUWeapon178=刺毛砸击
+tagUWeapon179=凯罗斯之手
+tagUWeapon180=雷公之翼钉锤
+tagUWeapon181=利凯尔古斯的智慧
+tagUWeapon182=布伦努斯之力
+tagUWeapon183=瘟疫盛宴
+tagUWeapon184=流银巨棒
+tagUWeapon185=破坏者
+tagUWeapon186=碎骨者
+tagUWeapon187=铁匠之锤
+tagUWeapon188=灵魂盛宴
+tagUWeapon189=寡妇杀手
+tagUWeapon190=狂信者的巨槌
+tagUWeapon191=斯芬克斯之权杖
+tagUWeapon192=暴风之涌
+tagUWeapon193=影歌
+tagUWeapon194=守卫之怒
+tagUWeapon195=拉美西斯的权杖
+tagUWeapon196={^I}亚马逊的长矛
+tagUWeapon197={^B}阿嫩吉布的长矛
+tagUWeapon198={^B}自动马东的长矛
+tagUWeapon199={^B}亵渎者
+tagUWeapon200={^I}费利安的风之长矛
+tagUWeapon201={^I}赫克托尔的长矛
+tagUWeapon202={^B}骑马大师的矛
+tagUWeapon203={^B}僧侣的铁锹
+tagUWeapon204={^B}努比亚长矛
+tagUWeapon205={^B}克科比的穿透长矛
+tagUWeapon206={^I}福尔科斯的三叉戟
+tagUWeapon207={^I}齐诺比亚女王的长矛
+tagUWeapon208={^B}迅猛龙
+tagUWeapon209={^I}尼弗提斯的神圣长矛
+tagUWeapon210={^I}蝎尾
+tagUWeapon211={^B}影刺
+tagUWeapon212={^B}瑞努内特的长矛
+tagUWeapon213={^B}图特摩斯三世的长矛
+tagUWeapon214=(S) {^I}阿基里斯的长矛
+tagUWeapon215={^I}阿瑞斯的愤怒
+tagUWeapon216={^I}乌拉诺斯之血
+tagUWeapon217={^I}三位亚马逊的愤怒
+tagUWeapon218={^I}观音的最后恩赐
+tagUWeapon219={^I}奥努里斯的长矛
+tagUWeapon219DESC="空气剧烈裂变，长矛穿过风速切割。"
+tagUWeapon220={^I}佩琉斯的灰烬长矛
+tagUWeapon221={^I}灵魂收割者
+tagUWeapon222={^I}泰拉蒙的猪猎矛
+tagUWeapon223={^B}血信
+tagUWeapon224={^B}沙漠之吻
+tagUWeapon225={^B}德斯赫雷特
+tagUWeapon226={^B}火焰尖刺
+tagUWeapon227={^B}赫罗德的延伸
+tagUWeapon228={^B}毁灭之锄
+tagUWeapon229={^B}胡亥的骄傲
+tagUWeapon230={^B}猎人的刺
+tagUWeapon231={^B}努巴的长刀
+tagUWeapon232={^B}秦子英的长矛
+tagUWeapon233={^B}颤血
+tagUWeapon234={^B}阿尔戈的长矛
+tagUWeapon235={^B}剖割者
+tagUWeapon236=(S) {^I}亚历山大的长矛
+tagUWeapon237={^B}苹果采摘者的长矛
+tagUWeapon238=(S) {^B}巴比伦的长矛
+tagUWeapon239={^B}阿波菲斯蛇
+tagUWeapon240={^I}统治者的审判
+tagUWeapon241={^B}阿兹达哈克的法杖
+tagUWeapon242={^B}布拉斯托斯的火焰
+tagUWeapon243={^B}焰封
+tagUWeapon244={^I}吉拉斯的拐杖
+tagUWeapon245={^I}赫卡的法杖
+tagUWeapon246={^B}霜雪
+tagUWeapon247={^B}电流
+tagUWeapon248={^B}铁木法杖
+tagUWeapon249={^I}关帝的悲伤
+tagUWeapon250={^I}雷昆的曲法杖
+tagUWeapon251={^I}摩洛斯之夜
+tagUWeapon252={^B}卡阿
+tagUWeapon253={^B}先知的法杖
+tagUWeapon254={^I}式神
+tagUWeapon255={^B}召唤者的权杖
+tagUWeapon256={^B}湿婆的伴侣
+tagUWeapon257={^I}卡杜修斯
+tagUWeapon258={^I}彩虹法杖
+tagUWeapon259={^I}霍鲁斯的法杖
+tagUWeapon260={^I}北风的指骨
+tagUWeapon261={^I}哈迪斯的权杖
+tagUWeapon262={^I}奇翁的法杖 // 黑卡特的法杖
+tagUWeapon263={^I}斯芬克斯的谜
+tagUWeapon264={^I}古代法杖
+tagUWeapon265={^B}灵魂吞噬者
+tagUWeapon266={^I}极乐法杖
+tagUWeapon267={^B}凯普尔的法杖
+tagUWeapon268={^B}厄拉弗罗斯
+tagUWeapon269={^B}雷霆法杖
+tagUWeapon270={^B}发光法杖
+tagUWeapon271={^B}观音的治疗权杖
+tagUWeapon272={^B}麒麟
+tagUWeapon273={^B}欧切托斯法杖
+tagUWeapon274={^B}法老的旗帜
+tagUWeapon275={^B}牧羊人的弯杖
+tagUWeapon276={^B}吸取
+tagUWeapon277={^B}幽灵法杖
+tagUWeapon278={^B}纳布库特努萨尔的法杖
+tagUWeapon279={^B}鹰之法杖
+tagUWeapon280={^B}德鲁伊法杖
+tagUWeapon281={^B}风暴法杖
+tagUWeapon282={^B}死灵法杖
+tagUWeapon283=艾贾克斯的伊比利亚战斧
+tagUWeapon284=阿米特之牙
+tagUWeapon285=阿努比斯之噬
+tagUWeapon286=伊什塔尔之刃
+tagUWeapon287=张国璐的钢之模糊
+tagUWeapon288=绝望
+tagUWeapon289=多克萨·卡洛
+tagUWeapon290=悲伤制造者
+tagUWeapon291=净化之刃
+tagUWeapon292=誓言破碎者
+tagUWeapon293=符文之刃
+tagUWeapon294=寂静
+tagUWeapon294b=沉默
+tagUWeapon295=斯巴达的机智
+tagUWeapon296=灵魂呼唤者
+tagUWeapon297=达摩克利斯之剑
+tagUWeapon298=周朝之剑
+tagUWeapon299=阿蒙-拉的法师克制
+tagUWeapon300=赛特的混沌之刃
+tagUWeapon301=心灵剖刃
+tagUWeapon302=斯廷法利安之爪
+tagUWeapon303=忒修斯的遗产
+tagUWeapon304=雷霆之怒
+tagUWeapon305=提厄斯特斯的阴谋
+tagUWeapon306=斩吕
+tagUWeapon307=骨锯
+tagUWeapon308=克娄巴特拉的短剑
+tagUWeapon309=堕落之刃
+tagUWeapon310=心刺
+tagUWeapon311=生命诅咒
+tagUWeapon312=马尔杜克之怒
+tagUWeapon313=帕特罗克洛斯的短刃
+tagUWeapon314=灵魂雕刻者
+tagUWeapon315=朱克
+tagUWeapon316=特斯洛斯
+tagUWeapon317=叛徒的匕首
+tagUWeapon318=詠春之泪
+tagUWeapon319=霜之镰
+tagUWeapon320=梅姆农的信任
+tagUWeapon321=凯多摩斯
+tagUWeapon322=霍去病的仪式之刃
+tagUWeapon323=阴
+tagUWeapon324=阳
+tagUWeapon325=伏羲之尾
+tagUWeapon327=火把
+tagUWeapon328=以太之刃
+tagUWeapon329=风暴匕首
+tagUWeapon330=骨匕首
+tagUWeapon331=骨斧
+tagUWeapon332=铁的庇护
+tagUWeapon333=野兽之印
+tagUWeapon334=岩石磨砺
+tagUWeapon335=虚无之锤
+tagUWeapon336=黑岩大槌
+tagUWeapon337=蓟木
+tagUWeapon338=月亮之戟
+tagUWeapon339=铁之誓约
+tagUWeapon340=炼金术士之杖
+tagUWeapon341=帕戈斯
+tagUWeapon342=阿德拉尼斯
+
+xtagUArmor001=气质
+xtagUArmor002=反射
+xtagUArmor003=阿斯佛德尔之环
+xtagUArmor004={^I}阿布鲁林
+xtagUArmor005={^I}霸主之印
+xtagUArmor006={^I}欧律狄刻的婚戒
+xtagUArmor007={^I}梦境之眼
+xtagUArmor008={^I}珀尔塞福涅的戒指
+xtagUArmor009={^I}极乐之星
+xtagUArmor010=(S) {^B}奥尔杜拇指戒指
+xtagUArmor016={^B}奥博鲁斯
+xtagUArmor017={^B}堕落者之珠
+xtagUArmor018={^B}特里同的海螺
+xtagUArmor019=纳乔-贾的符文
+xtagUArmor020=伊克西翁之石
+xtagUArmor021=赤色之宝石
+xtagUArmor022=三头犬的项圈
+xtagUArmor023=塔罗斯的青铜心脏
+xtagUArmor024=莫尔费乌斯的护符
+xtagUArmor025=聚合石
+xtagUArmor031=不懈战士之盔甲
+xtagUArmor032=圣殿骑士的热忱
+xtagUArmor033=幽灵的盔甲
+xtagUArmor034=元素愤怒的长袍
+xtagUArmor035=术士的衣饰
+xtagUArmor036=暗视者
+xtagUArmor037=凯斯图斯
+xtagUArmor038=魔法师的长袍
+xtagUArmor039=琐罗阿斯特的斗篷
+xtagUArmor040=格莱孔学徒的法衣
+xtagUArmor041=侦探的大衣
+xtagUArmor042=军团士兵的胸甲
+xtagUArmor043=先驱者的胸甲
+xtagUArmor044=死亡胸甲
+xtagUArmor045=阿特柔斯的护盾
+xtagUArmor046=狄俄墨得斯的胸甲
+xtagUArmor047=波塞冬的护胸
+xtagUArmor048=普鲁托的丰盈
+xtagUArmor049=梦编织者的袍
+xtagUArmor050=厄尔布斯的长袍
+xtagUArmor051=卡尔努斯之翼
+xtagUArmor052=内袖
+xtagUArmor053=圣诞老人的冬季外套
+xtagUArmor054=伟大商人的胸甲
+xtagUArmor055=黑胡子的大衣
+xtagUArmor056=不屈意志的护手
+xtagUArmor057=红卫军的手套
+xtagUArmor058=阿尔戈英雄的护腕
+xtagUArmor059=死灵领主的护手
+xtagUArmor060=预言之链
+xtagUArmor061=视觉之链
+xtagUArmor062=巫术师的缠绕
+xtagUArmor063=卡桑德拉的银饰
+xtagUArmor064=神术师的护卫
+xtagUArmor065=寄生虫的扭曲链
+xtagUArmor066=卡尔卡斯的交织印记
+xtagUArmor067=侦探的手套
+xtagUArmor068=军团士兵的护手
+xtagUArmor069=先驱者的护腕
+xtagUArmor070=死亡之触
+xtagUArmor071=美涅拉俄斯的握持
+xtagUArmor072=奥尔杜的护臂
+xtagUArmor073=普鲁托的手镯
+xtagUArmor074=梦编织者的缠绕
+xtagUArmor075=厄尔布斯的臂环
+xtagUArmor076=卡尔努斯的握持
+xtagUArmor077=黑衣护具
+xtagUArmor078=圣诞老人的手套
+xtagUArmor079=伟大商人的护腕
+xtagUArmor080=黑胡子的钩子
+xtagUArmor081=迪内凯斯的铁靴
+xtagUArmor082=皇家骑兵的战靴
+xtagUArmor083=野蛮人的尖刺护胫
+xtagUArmor084=赫斯佩拉的护胫
+xtagUArmor085=火焰之族的护腿
+xtagUArmor086=阿尔戈英雄的护腿
+xtagUArmor087=先知的包裹
+xtagUArmor088=佩内洛普的拖鞋
+xtagUArmor089=符文编织的护腿
+xtagUArmor090=梦游者的步伐
+xtagUArmor091=冥界的护腿
+xtagUArmor092=亵渎者的护腿
+xtagUArmor093=夜惊裹布
+xtagUArmor094=恶魔皮靴
+xtagUArmor095=侦探的便鞋
+xtagUArmor096=军团士兵的战靴
+xtagUArmor097=先驱者的护胫
+xtagUArmor098=阴影追踪者
+xtagUArmor099=狄俄墨得斯的战靴
+xtagUArmor100=波塞冬的护胫
+xtagUArmor101=普鲁托的裹布
+xtagUArmor102=梦编织者的护腿
+xtagUArmor103=厄尔布斯的裹布
+xtagUArmor104=卡尔努斯的支柱
+xtagUArmor105=日下足袋
+xtagUArmor106=圣诞老人的靴子
+xtagUArmor107=塔尔水之踢
+xtagUArmor108=黑胡子的靴子
+xtagUArmor109=沃雷努斯的角
+xtagUArmor110=圣殿骑士的脑罩
+xtagUArmor111=暗影领主的面罩
+xtagUArmor112=凯尔的面容
+xtagUArmor113=巫师帽
+xtagUArmor114=心灵投射器
+xtagUArmor115=噩梦
+xtagUArmor116=提瑞西亚的引导
+xtagUArmor117=多克马·阿尔的王冠
+xtagUArmor118=赫尔波斯的徽章
+xtagUArmor119=深渊之冕
+xtagUArmor120=军团士兵的面罩
+xtagUArmor121=先驱者的头盔
+xtagUArmor122=阴影披风
+xtagUArmor123=阿伽美农的徽章
+xtagUArmor124=狄俄墨得斯的战争头盔
+xtagUArmor125=波塞冬的头盔
+xtagUArmor126=普鲁托的王冠
+xtagUArmor127=(S) {^B}梦编织者的王冠
+xtagUArmor128=(S) {^B}厄尔布斯的王冠
+xtagUArmor129=卡尔努斯的凝视
+xtagUArmor130=三角头巾
+xtagUArmor131=圣诞老人的帽子
+xtagUArmor132=塔尔水之阴影
+xtagUArmor133=三角帽
+xtagUArmor134=鹿皮帽
+xtagUWeapon001={^B}鹭的装备
+xtagUWeapon002={^B}预感
+xtagUWeapon003={^I}阿内克萨提托斯
+xtagUWeapon004={^I}诅咒之墙
+xtagUWeapon005={^I}永恒之盾
+xtagUWeapon006={^I}火焰军团之盾
+xtagUWeapon007={^B}痛苦之盾
+xtagUWeapon008={^I}帕梅瑟林的盾
+xtagUWeapon009={^Y}伊尔米纽斯之盾
+xtagUWeapon010={^Y}马尔科梅尔的盾
+xtagUWeapon011={^B}圣诞老人的薄荷糖
+xtagUWeapon012={^I}提亚马特的愤怒
+xtagUWeapon016=骨锯
+xtagUWeapon017=萨加瑞斯·冥河
+xtagUWeapon018=盖亚的复仇
+xtagUWeapon018b=泰勒斯的复仇
+xtagUWeapon019=寒冬斩首者
+xtagUWeapon020=极乐之钥
+xtagUWeapon021=皮索
+xtagUWeapon022=火焰罗普
+xtagUWeapon023=萨加瑞斯·冥域
+xtagUWeapon024=弗朗西斯卡
+xtagUWeapon031=灯笼弓
+xtagUWeapon032=撕风
+xtagUWeapon033=影刃
+xtagUWeapon034=梅尔克伍德之弓
+xtagUWeapon035=天雷
+xtagUWeapon036=弦之刃
+xtagUWeapon037=冥神针
+xtagUWeapon038=奢华
+xtagUWeapon039=(S) {^B}奥尔杜复合弓
+xtagUWeapon046=三头犬的骨
+xtagUWeapon046b=凯尔贝罗斯的骨
+xtagUWeapon047=莱西的吻
+xtagUWeapon048=工头
+xtagUWeapon049=莫比乌斯，弹杆
+xtagUWeapon050=魔女之契
+xtagUWeapon051=暗影之王权杖
+xtagUWeapon052=火焰军团之拳
+xtagUWeapon053=虹彩之刃
+xtagUWeapon054=真视钝器
+xtagUWeapon055=伊尔明苏尔
+xtagUWeapon056=圣诞老人的拐杖
+xtagUWeapon057=提比里乌斯的愤怒
+xtagUWeapon061=纳格之刃
+xtagUWeapon062=冰火长矛
+xtagUWeapon063=赫利俄斯的伸手
+xtagUWeapon064=灵魂撕裂叉
+xtagUWeapon065=树精之矛
+xtagUWeapon066=最后的帝皇
+xtagUWeapon067=灵魂之刺
+xtagUWeapon068=地震者
+xtagUWeapon076=螺旋体
+xtagUWeapon077=德利西德
+xtagUWeapon078=看门人
+xtagUWeapon079=宇宙法杖
+xtagUWeapon080=普拉克希迪凯
+xtagUWeapon081=樱阿巴
+xtagUWeapon082=梦编织者的法杖
+xtagUWeapon083=厄尔布斯的权杖
+xtagUWeapon084=卡尔努斯的权杖
+xtagUWeapon091=审判
+xtagUWeapon092=欧姆恩之剑
+xtagUWeapon093=凯托斯的咬击
+xtagUWeapon094=普利斯肯
+xtagUWeapon095=德拉卡伊娜
+xtagUWeapon096=永恒黑暗之剑
+xtagUWeapon097=预言之剑
+xtagUWeapon098=林丹
+xtagUWeapon099=科武之剑
+xtagUWeapon100=帝王
+xtagUWeapon101=武士刀
+xtagUWeapon102=三叉戟
+xtagSnowball1=*
+xtagSnowball2=***
+tagGQSpearD111={^I}蒙图的太阳长矛
+tagGQDaggerD108=火焰掠夺者
+tagGQDaggerD108DESC="被此掠夺者之刃控制的恶魔变成了火焰的异化体"
+tagGQBlunt1hD109=猎首者的荣耀
+tagGQBlunt1hD110=纳格尔法尔的船首
+tagGQBlunt1hD111=弗摩里安
+tagGQAxe1hD120=金色斩首者
+tagGQAxe1hD122=斯塔尔卡德的妻子
+tagGQShield001=(S) {^B}梅姆农的庇护
+tagGQShieldD125={^I}斯库尔德的盾
+tagGQShieldD126={^I}万斯沃思盾
+tagGQShieldD127={^I}斯瓦林盾
+tagGQShieldD128={^I}贝勒努斯的荣耀
+tagGQSword1hD110=拉尔瓦泰恩
+tagGQSword1hD111=提尔芬
+tagGQAxe2hD105=仪式屠刀
+tagGQAxe2hD105b=礼术屠刀
+tagGQAxe2hD106=卢凯提乌斯的热情
+tagGQAxe2hD107=死亡的答案
+tagGQAxe2hD107DESC="为死亡女神而战的战士灵魂束缚在此斧中，非战争神祇。"
+tagGQBlunt2hD105=骨碎者
+tagGQBlunt2hD106=赫拉克勒斯之棍
+tagGQSword2hD105=格兰姆
+xtagUWeapon021b=莫尔莫
+tagUWeapon087b=曼提库罗斯
+tagWheelBarrow=手推车
+tagGQHelm001=(S) {^B}翡翠王冠
+tagGQHelm002=(S) {^B}水晶王冠
+tagGQHelm003=(S) {^B}奥尔杜帽
+tagGQHelm004=(S) {^B}梅姆农的守卫
+tagGQShoulderC001=(S) {^B}厄尔布斯的披风
+tagGQTorsoC001=(S) {^B}流氓的护甲
+tagGQStaffC006=(S) {^B}火行者的法杖
+
+#TQ 质量/风格标签 (未使用?)
+tagQualityPine={^s}松木
+tagQualityAsh={^s}白蜡木
+tagQualityOak={^s}橡木
+tagQualityCopper={^s}铜
+tagQualityBronze={^s}青铜
+tagQualityIron={^s}铁
+tagQualitySilver={^s}银
+tagQualityGold={^s}金
+tagQualityBrass={^s}黄铜
+tagQualityLinen={^s}亚麻
+tagQualityWool={^s}羊毛
+tagQualitySilk={^s}丝绸
+tagQualityEpicMetal1={^s}孔雀铜
+tagQualityEpicMetal2={^s}奥里哈卡姆
+tagQualityEpicMetal3={^s}金刚石钢
+tagQualityEpicMetal4={^s}电金
+tagQualityEpicMetal5={^s}铂金
+tagQualityEpicCloth1={^s}薄布
+tagQualityEpicCloth2={^s}麻布
+tagQualityEpicCloth3={^s}六角织物
+tagQualityEpicWood1={^s}云杉
+tagQualityEpicWood2={^s}紫杉
+tagQualityEpicWood3={^s}铁木
+tagQualityLegendaryMetal1={^s}天蓝石
+tagQualityLegendaryMetal2={^s}伽兰金属
+tagQualityLegendaryMetal3={^s}图拉尼特
+tagQualityLegendaryMetal4={^s}铋
+tagQualityLegendaryMetal5={^s}孔雀石
+tagQualityLegendaryCloth1={^s}月布
+tagQualityLegendaryCloth2={^s}日布
+tagQualityLegendaryCloth3={^s}星布
+tagQualityLegendaryWood1={^s}柳木
+tagQualityLegendaryWood2={^s}黑刺木
+tagQualityLegendaryWood3={^s}钻石木
+tagClassMage={^s}奥术护甲
+tagClassHeavy={^s}重甲
+tagClassLight={^s}轻甲
+tagStyleLeather={^s}皮革
+tagStyleReinforced={^s}加固
+tagStyleEmbossed={^s}压花
+tagStyleOrnamented={^s}装饰
+tagStylePlated={^s}镀板
+tagStyleScale={^s}鳞片
+tagStyleBanded={^s}带状
+tagStyleSolid={^s}实心
+tagStyleSimple={^s}简单
+tagStylePadded={^s}衬垫
+tagStyleEmbroidered={^s}刺绣
+tagStyleRuned={^s}符文
+tagStyleOrnate={^s}华丽
+tagStyleJeweled={^s}镶宝石
+tagStyleChalcidian={^w}哈尔基甸
+tagStyleCorinthian={^w}科林斯
+tagStylePhrygian={^w}弗里吉亚
+tagStyleAlexandrian={^w}亚历山大
+tagStyleMongolian={^w}蒙古
+tagStyleBabylonian={^w}巴比伦
+
+# 常见物品名称 (主要用于泰坦猎者武器如矛/法杖)
+tagItemHarness={^w}护甲
+tagItemCorselet={^w}铠裙
+tagItemBreastplate={^w}胸甲
+tagItemCuirass={^w}盔甲
+tagItemSuit={^w}套装
+tagItemLegging={^w}护腿
+tagItemGreaves={^w}护胫
+tagItemBracer={^w}护腕
+tagItemArmband={^w}臂环
+tagItemHelmet={^w}头盔
+tagItemHelm={^w}头盔
+tagItemSash={^w}腰带
+tagItemMantle={^w}披风
+tagItemRaiment={^w}长袍
+tagItemWrap={^w}裹布
+tagItemGreatHelm={^w}大头盔
+tagItemBangle={^w}手镯
+tagItemBracelet={^w}手链
+tagItemCoil={^w}缠绕
+tagItemWinding={^w}缠绕
+tagItemClasp={^w}扣环
+tagItemArmlet={^w}臂环
+tagItemGarland={^w}花环
+tagItemCirclet={^w}圈饰
+tagItemCrest={^w}徽章
+tagItemCoronal={^w}冕
+tagItemDiadem={^w}冕
+tagItemCrown={^w}王冠
+tagItemCrudeBuckler={^s}粗制{^w}圆盾
+tagItemReinforcedBuckler={^s}加固{^w}圆盾
+tagItemBuckler={^w}圆盾
+tagItemGuildedBuckler={^w}镀金圆盾
+tagItemPhrygianShield={^w}弗里吉亚盾
+tagItemGildedPhrygian={^w}镀金弗里吉亚盾
+tagItemRoundShield={^w}圆盾
+tagItemKiteShield={^w}风筝盾
+tagItemGreatShield={^w}大盾
+tagItemAspis={^w}阿斯皮斯
+tagItemThureos={^w}图雷欧盾
+tagItemSakos={^w}萨科斯盾
+tagItemTowerShield={^w}塔盾
+tagItemPelta={^w}皮尔塔盾
+tagItemScutum={^w}斯库图盾
+tagItemTrigonosShield={^w}三角盾
+tagItemScarabShield={^w}圣甲虫盾
+tagItemWarShield={^w}战盾
+tagItemElephantineShield={^w}象盾
+tagItemAchaeanBattleShield={^w}阿凯俄战盾
+tagItemGan={^w}甘
+tagItemBand={^w}带
+tagItemLoop={^w}环
+tagItemRing={^w}戒指
+tagItemEngravedRing={^w}刻纹戒指
+tagItemSignetRing={^w}印章戒指
+tagItemSeal={^w}封印
+tagItemBeads={^w}珠子
+tagItemNecklace={^w}项链
+tagItemCharm={^w}护符
+tagItemAmulet={^w}护符
+tagItemPendant={^w}吊坠
+tagItemTalisman={^w}护身符
+tagItemHandAxe={^w}手斧
+tagItemCleaver={^w}肉斧
+tagItemAxe={^w}斧头
+tagItemDoubleAxe={^w}双斧
+tagItemHatchet={^w}小斧
+tagItemLargeAxe={^w}大斧
+tagItemMilitaryHatchet={^w}军用小斧
+tagItemWarAxe={^w}战斧
+tagItemCrescentAxe={^w}月牙斧
+tagItemTwinBlade={^w}双刃剑
+tagItemFlatAxe={^w}平刃斧
+tagItemGreatAxe={^w}巨斧
+tagItemPelekus={^w}佩雷库斯
+tagItemLabrys={^w}拉布里斯
+tagItemSagaris={^w}萨加瑞斯
+tagItemChalcidianAxe={^w}哈尔基甸斧
+tagItemPalstave={^w}帕尔斯塔夫
+tagItemBalag={^w}巴拉格
+tagItemTabarZin={^w}塔巴尔·津
+tagItemBattleAxe={^w}战斧
+tagItemJaggedAxe={^w}锯齿斧
+tagItemExecutionersAxe={^w}刽子手斧
+tagItemCrudeBow={^s}粗制{^w}弓
+tagItemStraightBow={^w}直弓
+tagItemShortBow={^w}短弓
+tagItemHuntingBow={^w}狩猎弓
+tagItemRaiderBow={^w}袭击者弓
+tagItemCompositeBow={^w}复合弓
+tagItemWarBow={^w}战弓
+tagItemHeavyWarBow={^w}重型战弓
+tagItemRecurveBow={^w}反曲弓
+tagItemTrackersBow={^w}追踪者弓
+tagItemHeavyRecurveBow={^w}重型反曲弓
+tagItemReinforcedBow={^w}加固弓
+tagItemScythianBow={^w}斯基泰弓
+tagItemNubianBow={^w}努比亚弓
+tagItemHornBow={^w}号角弓
+tagItemLaminateBow={^w}层压弓
+tagItemAssyrianGreatbow={^w}亚述大弓
+tagItemParthianLongbow={^w}帕提亚长弓
+tagItemMongolianGung={^w}蒙古弓
+tagItemDelphicBow={^w}德尔斐弓
+tagItemHuntmastersBow={^w}猎主弓
+tagItemPtolemaicStrongbow={^w}托勒密强弓
+tagItemClub={^w}木棒
+tagItemMace={^w}锤
+tagItemBallMace={^w}球锤
+tagItemNotchedMace={^w}刻痕锤
+tagItemSpikedClub={^w}尖刺木棒
+tagItemRingMace={^w}环锤
+tagItemMallet={^w}大槌
+tagItemHeavyMace={^w}重型锤
+tagItemBacalus={^w}巴卡鲁斯
+tagItemStuddedMace={^w}铆钉锤
+tagItemWarMallet={^w}战争大槌
+tagItemEdgedMace={^w}锋刃锤
+tagItemHammer={^w}锤子
+tagItemBludgeon={^w}钝器
+tagItemWarHammer={^w}战锤
+tagItemFlangedMace={^w}带齿锤
+tagItemBladedMace={^w}刃锤
+tagItemCyclopeanCudgel={^w}独眼巨人棍
+tagItemRhopalon={^w}罗帕隆
+tagItemMaul={^w}重锤
+tagItemHeavyBludgeon={^w}重型钝器
+tagItemStarMace={^w}星形锤
+tagItemDragonMace={^w}龙锤
+tagItemPetrifiedCudgel={^w}石化棍
+tagItemRazorMace={^w}剃刀锤
+tagItemGreaterWarHammer={^w}更大战锤
+tagItemBattleSledge={^w}战铲
+tagItemSpikedMace={^w}尖刺锤
+tagItemScorpionMace={^w}蝎子锤
+tagItemPharaonicMace={^w}法老锤
+tagItemCrudeSpear={^s}粗制{^w}长矛
+tagItemSudis={^w}苏迪斯
+tagItemHuntingSpear={^w}狩猎长矛
+tagItemHasta={^w}哈斯塔
+tagItemFramea={^w}弗雷马
+tagItemPilum={^w}皮鲁姆
+tagItemAngon={^w}安贡
+tagItemKontos={^w}孔托斯
+tagItemTragula={^w}特拉古拉
+tagItemTrident={^w}三叉戟
+tagItemSpetum={^w}斯佩图姆
+tagItemLance={^w}长枪
+tagItemNaginata={^w}长刀矛
+tagItemGlaive={^w}戟
+tagItemLogche={^w}洛基
+tagItemAssegai={^w}阿塞盖
+tagItemFootLance={^w}步枪
+tagItemLeafbladeSpear={^w}叶刃长矛
+tagItemSpartanBelos={^w}斯巴达战矛
+tagItemQiang={^w}戚
+tagItemAssyrianLongspear={^w}亚述长矛
+tagItemMenfatianSpear={^w}门法提安矛
+tagItemWitheredStaff={^w}枯萎法杖
+tagItemStoutStaff={^w}坚固法杖
+tagItemCarvedStaff={^w}雕刻法杖
+tagItemRunedStaff={^w}符文法杖
+tagItemJeweledStaff={^w}宝石法杖
+tagItemTotemicStaff={^w}图腾法杖
+tagItemBoneStaff={^w}骨法杖
+tagItemOrbStaff={^w}宝珠法杖
+tagItemBattleStaff={^w}战斗法杖
+tagItemArchonStaff={^w}大主教法杖
+tagItemMoonStaff={^w}月亮法杖
+tagItemCelestialStaff={^w}天体法杖
+tagItemDelphicStaff={^w}德尔斐法杖
+tagItemVadeMecum={^w}随身法典
+tagItemEmpyreanStaff={^w}天穹法杖
+tagItemOlympianStaff={^w}奥林匹亚法杖
+tagItemCyclopeanStaff={^w}独眼巨人法杖
+tagItemElysianStaff={^w}极乐法杖
+tagItemCrystalStaff={^w}水晶法杖
+tagItemMysticStaff={^w}神秘法杖
+tagItemEldritchStaff={^w}古老法杖
+tagItemThaumaturgistsStaff={^w}奇术师法杖
+tagItemSeersStaff={^w}先知法杖
+tagItemWindingStaff={^w}螺旋法杖
+tagItemKnife={^w}小刀
+tagItemShortSword={^w}短剑
+tagItemKopis={^w}科皮斯
+tagItemHookedBlade={^w}钩刃
+tagItemFalcata={^w}法尔卡塔
+tagItemSpatha={^w}斯帕塔
+tagItemGladius={^w}格拉迪乌斯
+tagItemMachaera={^w}马凯拉
+tagItemMedeSword={^w}米底剑
+tagItemCrescentBlade={^w}新月刃
+tagItemSaber={^w}军刀
+tagItemKhopesh={^w}科普什
+tagItemScimitar={^w}弯刀
+tagItemMoonBlade={^w}月刃
+tagItemTalon={^w}爪刃
+tagItemKhandar={^w}坎达尔
+tagItemWarBlade={^w}战剑
+tagItemTitanBlade={^w}泰坦剑
+tagItemXiphos={^w}西波斯剑
+tagItemChortos={^w}霍尔托斯
+tagItemShamshir={^w}沙姆希尔
+tagItemLuristanLongsword={^w}卢里斯坦长剑
+tagItemScythianCarver={^w}斯基泰雕刀
+tagItemIiuyedao={^w}劉月刀
+tagItemMycenaeanGreatsword={^w}迈锡尼大剑
+tagItemChrusaoros={^w}克鲁萨奥罗斯
+tagItemAor={^w}阿奥尔
+tagItemQuaddara={^w}奎达拉
+tagItemDrepanon={^w}德雷帕农
+
+# Style and Armor Types
+xtagStyleArmor01={^w}链甲
+xtagStyleArmor02={^w}鳞甲
+xtagStyleMageArmor01={^w}锦缎
+xtagStyleMageArmor02={^w}薄纱
+xtagStyleHelm01={^w}埃雷班头盔
+xtagStyleHelm02={^w}斯蒂吉安头盔
+
+# Mage Armor and Accessories
+xtagItemMageArm01={^w}腕饰
+xtagItemMageArm02={^w}束缚
+xtagItemMageHead01={^w}花环
+xtagItemMageHead02={^w}面纱
+
+# Shields
+xtagItemShield01={^w}塔卡盾
+xtagItemShield02={^w}塞勒俄斯盾
+xtagItemShield03={^w}佩尔塔里安盾
+xtagItemShield04={^w}佩尔塔里安盾
+xtagItemShield05={^w}斯蒂吉安盾
+xtagItemShield06={^w}斯蒂吉安盾
+
+# Rings and Amulets
+xtagItemRing01={^w}库克洛斯
+xtagItemRing02={^w}宝石戒指
+xtagItemAmulet01={^w}霍尔摩斯
+xtagItemAmulet02={^w}奖章
+
+# Axes
+xtagItemAxe01={^w}塞库里斯
+xtagItemAxe02={^w}色雷西亚裂斧
+xtagItemAxe03={^w}帕拉苏
+xtagItemAxe04={^w}双刃斧
+xtagItemAxe05={^w}布洛瓦斧
+xtagItemAxe06={^w}斯蒂吉安雕斧
+
+# Bows
+xtagItemBow01={^w}平弓
+xtagItemBow02={^w}托克索弓
+xtagItemBow03={^w}弓弓
+xtagItemBow04={^w}锻造弓
+xtagItemBow05={^w}攻城弓
+xtagItemBow06={^w}斯蒂吉安弓
+
+# Clubs
+xtagItemClub01={^w}权杖
+xtagItemClub02={^w}斯福里
+xtagItemClub03={^w}巴克特里安爪
+xtagItemClub04={^w}莱斯基
+xtagItemClub05={^w}卢里斯坦锤
+xtagItemClub06={^w}亚述棍棒
+xtagItemClub07={^w}伊特鲁里亚锤
+xtagItemClub08={^w}战大槌
+xtagItemClub09={^w}斯蒂吉安权杖
+
+# Spears
+xtagItemSpear01={^w}艾克梅
+xtagItemSpear02={^w}多拉提昂
+xtagItemSpear03={^w}赫索斯
+xtagItemSpear04={^w}萨里萨
+xtagItemSpear05={^w}齐斯通
+xtagItemSpear06={^w}斯蒂吉安戟
+
+# Swords
+xtagItemSword01={^w}帕拉佐尼安
+xtagItemSword02={^w}亚历山大阔剑
+xtagItemSword03={^w}阿基纳克斯
+xtagItemSword04={^w}罗姆法亚
+xtagItemSword05={^w}科拉剑
+xtagItemSword06={^w}恩凯里迪恩
+xtagItemSword07={^w}库克里
+xtagItemSword08={^w}剑剑
+xtagItemSword09={^w}斯蒂吉安叶刃
+
+# Staffs
+xtagItemStaff01={^w}奥术法杖
+xtagItemStaff02={^w}暗影法杖
+xtagItemStaff03={^w}埃雷班法杖
+xtagItemStaff04={^w}阿斯福丹法杖
+xtagItemStaff05={^w}因库巴恩法杖
+xtagItemStaff06={^w}斯蒂吉安法杖
+
+# Miscellaneous
+tagOldItemFlavor=^o这是一个过时的物品，要将其更新为最新版本，请带它到Hangman Jarvis旁的盐环。忽略更新可能导致该物品在未来更新时被删除。
+tagVariantFlavor=^o变体
+tagThornSpriteVariantText=^o变体 ^n丢弃此物品将恢复为基础形式。 ^n^h由此变体召唤的荆棘精灵将替换为荆棘魔。
+tagLicheKingVariantText=^o变体 ^n丢弃此物品将恢复为基础形式。 ^n^h由此变体召唤的巫王将替换为骨魔。
+tagThornSpriteBaseText=^h此物品可以在Hangman Jarvis旁的盐环进行转化。转化后的变体将允许玩家使用荆棘魔。
+tagLicheKingBaseText=^h此物品可以在Hangman Jarvis旁的盐环进行转化。转化后的变体将允许玩家召唤骨魔。

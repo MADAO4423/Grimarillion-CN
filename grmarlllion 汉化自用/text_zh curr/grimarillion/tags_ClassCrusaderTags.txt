@@ -1,0 +1,169 @@
+
+tagSkillClassName14=十字军
+tagSkillClassName0114=军团士兵
+tagSkillClassName0214=仲裁者
+tagSkillClassName0314=誓言破碎者
+tagSkillClassName0414=圣剑
+tagSkillClassName0514=守护者
+tagSkillClassName0614=风暴神职
+tagSkillClassName0714=法官
+tagSkillClassName0814=恐惧骑士
+tagSkillClassName0914=百夫长
+tagSkillClassName1014=破城者
+tagSkillClassName1114=药剂师
+tagSkillClassName1214=模范
+tagSkillClassName1314=炽天使
+
+
+tagSkillClassDescriptionCrusader=十字军是信仰与法律的坚定冠军。这些活生生的堡垒利用坚不可摧的铠甲和巨大的盾牌穿越成群的敌人，留下被烧焦的恶魔尸体。^n^s由Grimer为《暗黑破坏神3》模组修改而来
+
+#ClassCrusader
+tagClassCrusaderSkillName00=十字军{^K} 「十字军」^-
+tagClassCrusaderSkillDescription00="十字军的号召，我必响应。"
+
+tagClassCrusaderSkillName01A=惩罚{^K} 「十字军」^-
+tagClassCrusaderSkillDescription01A=用强化攻击击打敌人，造成电击伤害并持续3秒，同时提高你的格挡几率，持续5秒。 ^o惩罚可作为默认武器攻击使用，且需要一把近战武器。所有修正技能的加成也会持续5秒。{^n}{^n}{^y}重生 {^o}(解锁于技能16级){^n}^w你的生命恢复速度提高100%。
+
+tagClassCrusaderSkillName01B=反击{^K} 「十字军」^-
+tagClassCrusaderSkillDescription01B=惩罚为你提供物理反击和元素抗性，同时将你的一部分反击伤害加到攻击伤害中。
+
+tagClassCrusaderSkillName01C=愤怒{^K} 「十字军」^-
+tagClassCrusaderSkillDescription01C=伤害提高，你的攻击会在3秒内对敌人造成内伤。
+
+tagClassCrusaderSkillName02A=盾击{^K} 「十字军」^-
+tagClassCrusaderSkillDescription02A=冲向敌人，用盾牌击打敌人及附近的敌人，造成物理和闪电伤害。被击中的敌人会被晕眩数秒。 ^o需要盾牌。{^n}{^n}{^y}破碎盾牌 {^o}(解锁于技能16级){^n}^w20%的反击伤害被加入到盾击中。
+
+tagClassCrusaderSkillName02B=重击{^K} 「十字军」^-
+tagClassCrusaderSkillDescription02B=伤害提高，盾击会对敌人造成内伤，降低他们的防御能力，持续3秒。
+
+tagClassCrusaderSkillName02C=崩塌{^K} 「十字军」^-
+tagClassCrusaderSkillDescription02C=盾击造成圣光冲击，增加对凯瑟洛尼和亡灵生物的伤害。
+
+tagClassCrusaderSkillName03A=斩击{^K} 「十字军」^-
+tagClassCrusaderSkillDescription03A=点燃你前方的空气，造成火焰伤害。 ^o需要一把近战武器。{^n}{^n}{^y}重压 {^o}(解锁于技能16级){^n}^w斩击获得35%的暴击伤害。
+
+tagClassCrusaderSkillName03B=雕刻{^K} 「十字军」^-
+tagClassCrusaderSkillDescription03B=在你前方雕刻一个更大的区域，击中多个敌人，造成物理伤害并让敌人持续3秒燃烧。火焰伤害增加。
+
+tagClassCrusaderSkillName04A=盾光{^K} 「十字军」^-
+tagClassCrusaderSkillDescription04A=从你的盾牌中迸发出光芒，造成敌人攻击miss并降低他们的防御能力，持续几秒。 ^o需要盾牌。{^n}{^n}{^y}神圣判决 {^o}(解锁于技能10级){^n}^w盾光减少敌人的所有抗性25，持续5秒。
+
+tagClassCrusaderSkillName05A=铁皮{^K} 「十字军」^-
+tagClassCrusaderSkillDescription05A=你的皮肤变成铁，吸收50%至100%的所有即将到来的伤害，持续4秒。{^n}{^n}{^y}反射皮肤 {^o}(解锁于技能10级){^n}^w在铁皮激活时，你获得物理反击。
+
+tagClassCrusaderSkillName06A=神罚{^K} 「十字军」^-
+tagClassCrusaderSkillDescription06A=用圣光锁链惩罚敌人，链条断裂后会攻击最多3个额外敌人，对所有敌人造成圣光伤害。{^n}{^n}{^y}束缚 {^o}(解锁于技能16级){^n}^w被锁链击中的敌人有12%的几率被晕眩短暂时间。
+
+tagClassCrusaderSkillName06B=爆裂{^K} 「十字军」^-
+tagClassCrusaderSkillDescription06B=圣光链条在击中时爆炸，对敌人造成电击和燃烧伤害，持续3秒。被爆炸波及的敌人也会减速3秒。
+
+tagClassCrusaderSkillName06C=收割{^K} 「十字军」^-
+tagClassCrusaderSkillDescription06C=提高你的神圣伤害和生命恢复，持续4秒。^o收割影响你所有的技能。
+
+tagClassCrusaderSkillName06D=神圣因果{^K} 「十字军」^-
+
+tagClassCrusaderSkillName07A=祝福之锤{^K} 「十字军」^-
+tagClassCrusaderSkillDescription07A=召唤6个祝福之锤，在你周围旋转8秒，对敌人造成神圣伤害。^o避免在祝福之锤激活期间进入或离开如洞穴和大门的区域，否则你无法重新施放。{^n}{^n}{^y}蛮力 {^o}(解锁于技能16级){^n}^w祝福之锤获得10%的几率使敌人眩晕。
+
+tagClassCrusaderSkillName07B=燃烧的愤怒{^K} 「十字军」^-
+tagClassCrusaderSkillDescription07B=祝福之锤燃烧敌人，并减少他们的攻击速度，持续2秒。
+
+tagClassCrusaderSkillName08A=正义{^K} 「十字军」^-
+tagClassCrusaderSkillDescription08A=投掷一个正义之锤，沿直线飞行，对目标造成物理和闪电伤害。{^n}{^n}{^y}裂痕 {^o}(解锁于技能16级){^n}^w锤子在碰撞时分裂成更小的锤子，将伤害复制到附近的敌人。
+
+tagClassCrusaderSkillName08B=爆发{^K} 「十字军」^-
+tagClassCrusaderSkillDescription08B=锤击更为强力，有几率穿透敌人，造成内伤并使敌人持续3秒电击伤害。敌人有几率被短暂眩晕。
+
+tagClassCrusaderSkillName08C=神圣箭矢{^K} 「十字军」^-
+tagClassCrusaderSkillDescription08C=锤子变成一颗神圣能量箭，部分造成的伤害会转化为你的生命。神圣箭矢对凯瑟洛尼和亡灵伤害额外提高。
+
+tagClassCrusaderSkillName08E=神圣箭矢的增益{^K} 「十字军」^-
+
+tagClassCrusaderSkillName08D=神圣治疗{^K} 「十字军」^-
+
+tagClassCrusaderSkillName09A=神圣奉献{^K} 「十字军」^-
+tagClassCrusaderSkillDescription09A=奉献你周围的土地，持续6秒，造成神圣伤害并减少所有站立在其上的敌人的伤害。{^n}{^n}{^y}钉床 {^o}(解锁于技能12级){^n}^w10%的反击伤害会施加到站在奉献之地的敌人身上。
+
+tagClassCrusaderSkillName09B=破碎之地{^K} 「十字军」^-
+tagClassCrusaderSkillDescription09B=奉献的土地燃烧敌人并减少他们的攻击能力，持续2秒。奉献的伤害提高。
+
+tagClassCrusaderSkillName09C=神圣土地{^K} 「十字军」^-
+
+tagClassCrusaderSkillName09D=圣盾净土{^K} 「十字军」^-
+
+tagClassCrusaderSkillName09E=沐光{^K} 「十字军」^-
+
+tagClassCrusaderSkillName10A=荣耀法则{^K} 「十字军」^-
+tagClassCrusaderSkillDescription10A=强化荣耀法则，赋予你和你的盟友额外的伤害和攻击能力。{^n}{^n}{^y}致命一击 {^o}(解锁于技能12级){^n}^w你和你的盟友的暴击伤害提高30%。
+
+tagClassCrusaderSkillName11A=正义法则{^K} 「十字军」^-
+tagClassCrusaderSkillDescription11A=强化正义法则，赋予你和你的盟友减少眩晕和冰冻效果持续时间的能力，并对混沌和生命伤害提供额外的抗性。
+
+tagClassCrusaderSkillName12A=希望法则{^K} 「十字军」^-
+tagClassCrusaderSkillDescription12A=强化希望法则，赋予你和你的盟友生命恢复、攻击能力和物理抗性。
+
+tagClassCrusaderSkillName13A=神圣堡垒{^K} 「十字军」^-
+tagClassCrusaderSkillDescription13A=增加你的生命值、额外的护甲和对凯瑟洛尼及亡灵的防御。{^n}{^n}{^y}坚不可摧 {^o}(解锁于技能10级){^n}^w你的护甲吸收率提高25%。
+
+tagClassCrusaderSkillName14A=钝击{^K} 「十字军」^-
+tagClassCrusaderSkillDescription14A=提高正义和祝福之锤的伤害。
+
+tagClassCrusaderSkillName15A=不灭{^K} 「十字军」^-
+tagClassCrusaderSkillDescription15A=当你受到致命伤害时，你会免疫所有伤害，并获得额外的伤害和每秒增加的生命恢复。激活不灭时，你获得对控制减益效果的巨大抗性。
+
+tagClassCrusaderSkillName16A=阿卡拉特的冠军{^K} 「十字军」^-
+tagClassCrusaderSkillDescription16A=以秩序之力爆发，增加你的伤害、所有反击和防御能力。在阿卡拉特的冠军激活期间，你的攻击会燃烧敌人并获得对控制减益效果的抗性。{^n}{^n}{^y}先知 {^o}(解锁于技能12级){^n}^w你的护甲提高35%。
+
+tagClassCrusaderSkillName17A=定罪{^K} 「十字军」^-
+tagClassCrusaderSkillDescription17A=进入战斗姿态，对近战攻击的敌人造成闪电伤害，并增加你所有的反击伤害。周期性地，你还会释放爆炸，造成物理和闪电伤害，并使周围的敌人电击。{^n}{^n}{^y}破碎爆炸 {^o}(解锁于技能16级){^n}^w暴击伤害提高35%。
+
+tagClassCrusaderSkillName18A=轰炸{^K} 「十字军」^-
+tagClassCrusaderSkillDescription18A=从远处调用一次攻击，向敌人降下燃烧的沥青和石块，造成巨大的物理和火焰伤害。轰炸还会减少敌人受到的物理抗性，持续5秒。{^n}{^n}{^y}堕落尖刺 {^o}(解锁于技能16级){^n}^w20%的反击伤害会增加到轰炸中。
+
+tagClassCrusaderSkillName19A=坚守阵地{^K} 「十字军」^-
+tagClassCrusaderSkillDescription19A=减少你的盾牌恢复时间，并增加盾牌的格挡伤害，同时赋予你一定几率躲避投射物。^o需要盾牌。{^n}{^n}{^y}天堂之力 {^o}(解锁于技能10级){^n}^w移除使用单手近战武器的体格要求。它允许你在主手使用由Devil's Crossing的新铁匠Haedrig打造的特殊双手近战武器。
+
+tagClassCrusaderSkillName20A=热情{^K} 「十字军」^-
+tagClassCrusaderSkillDescription20A=提高你的攻击速度和所有伤害。{^n}{^n}{^y}愤怒 {^o}(解锁于技能10级){^n}^w治疗效果提高15%。
+
+tagClassCrusaderSkillName21A=方阵{^K} 「十字军」^-
+tagClassCrusaderSkillDescription21A=召唤五个化身与您并肩作战，持续10秒。^o秩序化身根据玩家的伤害加成进行增益。{^n}{^n}{^y}保镖 {^o}(解锁于技能12级){^n}^w化身增加你和盟友30%的流血和穿透抗性。
+
+tagPetAvatarOrder=秩序化身
+
+tagClassCrusaderSkillName21D=正义之劈{^K} 「十字军」^-
+
+tagClassCrusaderSkillName21B=十字弓手{^K} 「十字军」^-
+tagClassCrusaderSkillDescription21B=暂不可用。
+
+tagClassCrusaderSkillName21C=燃烧之地{^K} 「十字军」^-
+
+tagClassCrusaderSkillName21E=致敬兄弟{^K} 「十字军」^-
+
+tagClassCrusaderSkillName21F=保镖保护{^K} 「十字军」^-
+
+tagClassCrusaderSkillName22A=天堂之怒{^K} 「十字军」^-
+tagClassCrusaderSkillDescription22A=召唤一道猛烈的神圣光束，造成该区域内的神圣伤害，并减少其经过的所有敌人的火焰和闪电抗性。{^n}{^n}{^y}祝福之地 {^o}(解锁于技能12级){^n}^w天堂之怒对亡灵和凯瑟洛尼伤害额外提高。
+
+tagHeavensFury=神圣力量光束
+tagHeavensFury02=光束
+tagHeavensFury03=符文效果
+tagHeavensFury03Desc=这个敌人被天堂之怒的神圣链条束缚，天堂之力降临。
+
+tagClassCrusaderSkillName23A=横扫攻击{^K} 「十字军」^-
+tagClassCrusaderSkillDescription23A=进行一次弧形打击，造成物理伤害并电击前方多个敌人。^o需要近战武器，并从默认武器攻击激活。{^n}{^n}{^y}绊倒攻击 {^o}(解锁于技能12级){^n}^w敌人会被眩晕一秒。
+
+### 符文效果
+
+tagCrusaderRune01=^c我可以和你耗一整天
+tagCrusaderRune01Desc=当^c定罪 ^wis激活时，受到近战攻击时，你获得25%的伤害吸收，并在3秒内增加15%的总反击伤害。然而，当你再次受到近战攻击时，附近敌人的攻击速度会增加150%，持续5秒。{^n}{^n}{^y}符文词缀: {^c}XolThul
+
+tagCrusaderRune01b=符文效果
+tagCrusaderRune01bDesc=你所受到的伤害减少25%，总反击伤害提高15%。
+tagCrusaderRune01cDesc=此敌人的攻击速度会因符文效果增加。
+
+tagCrusaderRune02=^c神圣莲花
+tagCrusaderRune02Desc=^k奉献 ^w现在释放祝福的锤子，在其周围旋转并返回到符文圆圈，造成巨大的伤害给站在奉献土地中心的敌人。{^n}{^n}{^y}符文词缀: {^c}LithEom
+
+tagCrusaderRune02b=符文效果
+tagCrusaderRune02bDesc=每次成功格挡，你的所有技能增加1。

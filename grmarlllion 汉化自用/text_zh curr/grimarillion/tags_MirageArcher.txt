@@ -1,0 +1,4 @@
+tag_MA_pet=西尔瓦娜 - 幻影弓箭手
+tag_MA_skill=幻影弓箭手
+tag_MA_petskill= 幻象之箭
+tag_MA_ring= 幻影弓箭手之戒

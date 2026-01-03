@@ -1,0 +1,11 @@
+tagFelsicSpawn=黑曜碎裂
+tagFelsicSpawnSkill01=穿刺
+tagFelsicSpawnSkill02=爆裂终结
+tagFelsicSpawnSkill03=弹幕
+
+tagFelsicSpawnLarge=Ma's'Ka，被放逐之神的使者
+tagFelsicSpawnLargeSkill01=火山起源
+tagFelsicSpawnLargeSkill02=冲锋
+tagFelsicSpawnLargeSkill03=穿刺攻击
+tagFelsicSpawnLargeSkill04=横扫
+tagFelsicSpawnLargeSkill05=黑曜守护

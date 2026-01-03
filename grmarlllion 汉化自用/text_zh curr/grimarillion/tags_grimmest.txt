@@ -1,0 +1,81 @@
+tagGrimmestNotifyIntro=不要让守卫抓到你携带铀钚尼堡！
+tagGrimmestNotifyError0=初始化索引出错
+tagGrimmestNotifyIsOff=Grimmest ~ 关闭
+tagGrimmestNotifyIsOffDD=Grimmest ~ 关闭 [DD]
+tagGrimmestNotifyIsLow=Grimmest ~ 困难模式
+tagGrimmestNotifyIsLowDD=Grimmest ~ 困难模式 [DD]
+tagGrimmestNotifyIsMod=Grimmest ~ 更高难度
+tagGrimmestNotifyIsModDD=Grimmest ~ 更高难度 [DD]
+tagGrimmestNotifyIsML1=Grimmest ~ 超高难度
+tagGrimmestNotifyIsML1DD=Grimmest ~ 超高难度 [DD]
+tagGrimmestNotifyIsML2=Grimmest ~ 极限难度
+tagGrimmestNotifyIsML2DD=Grimmest ~ 极限难度 [DD]
+tagGrimmestNotifyIsML3=Grimmest ~ 终极难度
+tagGrimmestNotifyIsML3DD=Grimmest ~ 终极难度 [DD]
+tagGrimmestNotifyIsM11=Grimmest ~ 11级：超越终极
+tagGrimmestNotifyIsM11DD=Grimmest ~ 11级：超越终极 [DD]
+tagGrimmestNotifyUndef=Grimmest ~ 错误状态
+tagGrimmestNotifyIsOnMax=11级++：硬核模式开启；Alt-F4 已禁用。
+tagGrimmestNotifyIsOnMin=你能降到多低？
+tagGrimmestOpenedDC=背包已满，所有袋子已装备。召唤 Zeke 打开魔鬼之路。
+tagGrimmestNotifyDensityOn=我看到双倍怪物了，伙计。
+tagGrimmestNotifyDensityOff=没事，伙计。
+
+tagAutopickDEBUGonadd=物品 addToWorld 调试
+tagAutopickDEBUGonadd2=物品 addToWorld 调试-2
+tagAutopickDEBUGonpick=物品拾取 调试
+tagAutopickDEBUGonpick2=物品拾取 调试-2
+tagGrimmestDEBUGdoubledip=调试 双重拾取
+tagGrimmestDEBUGdoubledipFAIL=调试 双重拾取 失败
+tagGrimmestDEBUGspawnhero=调试 添加英雄：
+tagGrimmestDEBUGspawnheroFAIL=调试 添加英雄失败
+
+tagGrimmestDEBUGpc=玩家 addToWorld 调试
+tagGrimmestDEBUGtok=玩家令牌检查
+tagGrimmestDEBUGtokrem=玩家令牌移除
+tagGrimmestDEBUGtokadd=玩家令牌添加
+tagGrimmestDEBUGup=生成点上调调试
+tagGrimmestDEBUGdn=生成点下调调试
+
+tagGrimmestNPC=Zeke
+tagGrimmestNPCProfession=重金属爱好者
+tagGrimmestPotion=铀钚尼堡
+tagGrimmestPotionDESC=此物品不再召唤 Zeke。前往个人藏身处靠近恶魔十字的裂隙门寻找 Zeke。
+tagGrimmestPotionDescOLD=使用以召唤 Zeke 并修改 Grimmest 设置。仅保存在主背包。
+tagGrimmestModName=Grimmest 模组
+
+tagGrimmestControlGiven=
+
+tagGrimmestAetherHorrorHeroH01=Aplesant Iind
+tagGrimmestGDX1HeroAetherialBloater_H01=Blaaaarghhh
+tagGrimmestGDX1HeroBasilisk_H01=Sneuz the Slither
+tagGrimmestChthonianDevourerHeroH01=Gal'Bladdak
+tagGrimmestHeroGhostH01=Valiuman, 无家可归者
+
+taggCompAScrap=^o非废料
+
+tagGrimmestHumanHeroH01=Lymphy Lack
+tagGrimmestHumanHeroH02=Felnar No-Eye
+tagGrimmestHumanHeroH03=Nick Fury
+tagGrimmestHumanHeroH04=Sadra, 悲伤者
+tagGrimmestHumanHeroH05=Sure Ul Singsong
+tagGrimmestHumanHeroH06=Wiley, 出版商 ~ 撒旦信徒
+tagGrimmestHumanHeroH07=Guinness, 啤酒迷 ~ 久坐
+tagGrimmestHumanHeroH08=Fred 独眼
+tagGrimmestHumanHeroH09=DiMeric 神触牧师 ~ 冲锋者
+tagGrimmestHumanHeroH10=Sheldon "Snailskin" ~ 再生者
+tagGrimmestHumanOutlawHeroH01=Leaner "Redurine" 临死
+
+oldtagGrimmestNotifyIsOffDD=Grimmest ~ 关闭 [DD]
+oldtagGrimmestNotifyIsLow=Grimmest ~ 酒鬼难度
+oldtagGrimmestNotifyIsLowDD=Grimmest ~ 酒鬼难度 [DD]
+oldtagGrimmestNotifyIsMod=Grimmest ~ 虚无难度
+oldtagGrimmestNotifyIsModDD=Grimmest ~ 虚无难度 [DD]
+oldtagGrimmestNotifyIsML1=Grimmest ~ 厌世难度
+oldtagGrimmestNotifyIsML1DD=Grimmest ~ 厌世难度 [DD]
+oldtagGrimmestNotifyIsML2=Grimmest ~ 精神错乱难度
+oldtagGrimmestNotifyIsML2DD=Grimmest ~ 精神错乱难度 [DD]
+oldtagGrimmestNotifyIsML3=Grimmest ~ 撒旦难度
+oldtagGrimmestNotifyIsML3DD=Grimmest ~ 撒旦难度 [DD]
+oldtagGrimmestNotifyIsM11=Grimmest ~ 11级
+oldtagGrimmestNotifyIsM11DD=Grimmest ~ 11级 [DD]

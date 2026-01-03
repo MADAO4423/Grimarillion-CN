@@ -1,0 +1,219 @@
+
+tagSkillClassName11=巫医
+tagSkillClassName0111=巫战士
+tagSkillClassName0211=火焰巫医
+tagSkillClassName0311=仪式师
+tagSkillClassName0411=暗影祭司
+tagSkillClassName0511=奥术巫医
+tagSkillClassName0611=征服者
+tagSkillClassName0711=符文祭司
+tagSkillClassName0811=灵魂大师
+tagSkillClassName0911=达伊夫拉特
+tagSkillClassName1011=神秘猎手
+tagSkillClassName3711=神秘猎手
+
+tagSkillClassDescriptionWitchDoctor=巫医是灵魂战士，他们召唤死去的灵魂和爬行生物为其效力。通过召唤僵尸保护自己，巫医可以用致命的投射物、有毒图腾和消耗诅咒攻击敌人。 ^n^s由Grimer为暗黑3 Mod改编
+
+#ClassWitchDoctor
+tagClassWitchDoctorSkillName00=巫医
+tagClassWitchDoctorSkillDescription00="灵魂对我微笑。"
+
+tagClassWitchDoctorSkillName01A=酸云{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription01A=让酸雨落下，使范围内敌人在3秒内中毒。{^n}{^n}{^y}恶劣药剂 {^o}(技能等级12解锁){^n}^w酸云使敌人伤害降低20%，持续3秒。
+
+tagClassWitchDoctorSkillName01B=慢燃{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription01B=酸云额外造成活力伤害和活力衰减，毒伤害增加，敌人有短暂混乱几率。
+
+tagClassWitchDoctorSkillName01C=投掷毒球{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription01C=酸云释放毒性球体爆炸，对敌人造成酸性和活力伤害。
+
+tagClassWitchDoctorSkillName01D=酸雨{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription01D=伤害提升，同时敌人上空落下有毒雨，3秒内对目标区域所有敌人造成伤害。
+
+tagClassWitchDoctorSkillName02A=尸蜘蛛{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription02A=召唤蜘蛛，15秒内攻击随机敌人，造成酸性与活力伤害。 ^o尸蜘蛛随玩家伤害加成成长。{^n}{^n}{^y}寡妇制造者 {^o}(技能等级16解锁){^n}^w蜘蛛冲向敌人，削减部分敌人生命，同时造成活力与毒性伤害。
+
+tagClassWitchDoctorSkillName02B=寡妇之咬{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription02B=蜘蛛咬目标，造成酸性与活力伤害。
+
+tagClassWitchDoctorSkillName02C=美杜莎蜘蛛{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription02C=蜘蛛周围形成光环，对附近敌人造成毒性伤害和活力衰减，有几率将敌人石化片刻。
+
+tagClassWitchDoctorSkillName02D=当前召唤的尸蜘蛛数量
+
+tagClassWitchDoctorSkillName02E=寡妇制造者
+
+tagClassWitchDoctorSkillName03A=僵尸犬{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription03A=从深渊召唤3只僵尸犬战斗。 ^o僵尸犬随宠物加成成长。{^n}{^n}{^y}吸血兽 {^o}(技能等级16解锁){^n}^w僵尸犬造成的伤害有5%转化为自身生命。
+
+tagClassWitchDoctorSkillName03B=狂犬{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription03B=僵尸犬攻击前方敌人，造成毒性伤害并降低所有抗性3秒。
+
+tagClassWitchDoctorSkillName03C=毒咬{^K} 「巫医」^-
+
+tagClassWitchDoctorSkillName03D=燃烧犬{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription03D=你的僵尸犬燃烧，燃烧附近敌人数秒，并对近战攻击者造成火焰伤害。
+
+tagClassWitchDoctorSkillName03E=牺牲{^K} 「巫医」^-
+tagClassWitchDoctorSkillName03F=召唤诅咒犬{^K} 「巫医」^-
+tagClassWitchDoctorSkillName03G=爪与牙{^K} 「巫医」^-
+
+tagTrackerZombieDogs=当前召唤的僵尸犬数量
+
+tagClassWitchDoctorSkillName04A=火蝠{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription04A=在你前方召唤火蝠群，3秒内造成火焰伤害并燃烧敌人。{^n}{^n}{^y}吸血蝙蝠 {^o}(技能等级16解锁){^n}^w造成伤害的4%转化为生命。
+
+tagClassWitchDoctorSkillName04B=瘟疫蝙蝠{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription04B=释放前方疾病蝙蝠群，3秒内感染敌人，伤害转化为毒性。
+
+tagClassWitchDoctorSkillName04C=饥饿蝙蝠{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription04C=伤害提升，蝙蝠对敌人造成活力伤害。
+
+tagClassWitchDoctorSkillName05A=恐惧{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription05A=召唤幽灵恐吓周围敌人，造成冰冷与活力伤害并在3秒内减速。恐惧敌人被眩晕数秒。{^n}{^n}{^y}残酷恐惧 {^o}(技能等级12解锁){^n}^w恐惧敌人5秒内有35%几率失误近战攻击。
+
+tagClassWitchDoctorSkillName06A=灵魂收割{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription06A=创造魔法领域吸取敌人生命力，造成活力与冰冷伤害。造成伤害的一部分转化为生命。{^n}{^n}{^y}灵魂废弃 {^o}(技能等级12解锁){^n}^w灵魂收割有25%几率重置冷却。
+
+tagClassWitchDoctorSkillName06B=衰竭{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription06B=被收割敌人在3秒内受到活力衰减伤害，并在5秒内降低攻击能力和攻击速度。
+
+tagClassWitchDoctorSkillName06C=汲取{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription06C=灵魂收割造成额外伤害并吸取目标部分生命。{^n}{^n}{^b}复仇之灵 {^o}(被动){^n}^w敌人的灵魂被奴役，20秒内为你作战。 ^o奴役灵魂随玩家伤害加成成长。
+
+tagClassWitchDoctorSkillName06CDesc=奴役被杀敌人的灵魂，15秒内为你作战。 ^o奴役灵魂随玩家伤害加成成长。
+
+tagClassWitchDoctorSkillName06D=灵魂加成{^K} 「巫医」^-
+tagClassWitchDoctorSkillName06E=复仇之灵{^K} 「巫医」^-
+
+tagClassWitchDoctorSkillName07A=纠缠{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription07A=用幽灵纠缠敌人，减少其生命，每秒造成活力和冰冷伤害。幽灵扩散至被纠缠敌人附近的其他敌人。{^n}{^n}{^y}怨恨之灵 {^o}(技能等级12解锁){^n}^w纠缠有20%几率干扰目标技能。
+
+tagClassWitchDoctorSkillName07B=吸能之灵{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription07B=幽灵吸取敌人能量，每秒造成活力衰减伤害。纠缠伤害提升。
+
+tagClassWitchDoctorSkillName08A=火焰炸弹{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription08A=投掷爆炸骷髅，释放额外4个炸弹，3秒内燃烧敌人。{^n}{^n}{^y}闪燃 {^o}(技能等级12解锁){^n}^w被命中敌人有33%几率失误攻击。
+
+tagClassWitchDoctorSkillName08B=火灵{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription08B=火焰炸弹造成额外活力伤害，并在附近敌人位置生成火焰柱，2秒内喷射火焰。
+
+tagClassWitchDoctorSkillName09A=灵魂弹幕{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription09A=发射4枚灵魂导弹，对敌人造成冰冷伤害和活力衰减，持续3秒。{^n}{^n}{^y}抽血术 {^o}(技能等级16解锁){^n}^w造成伤害的10%转化为生命。
+
+tagClassWitchDoctorSkillName09B=灵魂之井{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription09B=攻击敌人后，每个投射物释放2枚额外灵魂箭，对附近敌人造成活力和冰冷伤害。
+
+tagClassWitchDoctorSkillName09C=幻影{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription09C=灵魂弹幕伤害提升。每次命中敌人时，会召唤一个幽灵在目标位置徘徊6秒，对敌人造成冰冷、活力和冰灼伤害。最多同时存在3个幻影。
+
+tagClassWitchDoctorSkillName09D=玛尼图{^K} 「巫医」^-
+
+tagClassWitchDoctorSkillName10A=灵魂行走{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription10A=进入灵魂领域，3秒内无敌并获得速度加成。{^n}{^n}{^y}疗愈之旅 {^o}(技能等级10解锁){^n}^w治疗自身35%生命。
+
+tagClassWitchDoctorSkillName11A=死亡之握{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription11A=6秒内从地面伸出妖异之手，减缓敌人移动速度，并对区域内敌人造成酸性与毒性伤害。
+
+tagClassWitchDoctorSkillName11B=绝望之握{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription11B=死亡之握额外造成活力伤害，并降低敌人防御能力3秒。
+
+tagClassWitchDoctorSkillName11C=坚不可摧之握{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription11C=召唤冰冷妖异之手，对敌人造成减速效果。
+
+tagClassWitchDoctorSkillName11D=牺牲{^K} 「巫医」^-
+tagClassWitchDoctorSkillName11E=剧毒攻击{^K} 「巫医」^-
+
+tagClassWitchDoctorSkillName12A=群体混乱{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription12A=引发敌人偏执，降低其攻击能力和抗性，并有几率使其短暂混乱。{^n}{^n}{^y}偏执 {^o}(技能等级10解锁){^n}^w群体混乱提升敌人远程攻击失误几率。
+
+tagClassWitchDoctorSkillName13A=火墙{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription13A=竖起火焰墙，对敌人造成活力与火焰伤害，3秒内燃烧敌人。{^n}{^n}{^y}死亡包围 {^o}(技能等级12解锁){^n}^w站在火焰地面的敌人火焰和活力抗性降低15%。
+
+tagClassWitchDoctorSkillName14A=信心仪式{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription14A=提升攻击能力和技能伤害。{^n}{^n}{^y}丛林勇气 {^o}(技能等级12解锁){^n}^w所有受到的伤害降低20%。
+
+tagClassWitchDoctorSkillName15A=灵魂容器{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription15A=当生命降低至一定比例时，自动进入灵魂领域，立即治疗并获得3秒无敌。
+
+tagClassWitchDoctorSkillName16A=沼泽调和{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription16A=提高你和宠物的防御能力及多项抗性。{^n}{^n}{^y}僵尸训练师 {^o}(技能等级12解锁){^n}^w你和宠物的生命提升20%。
+
+tagClassWitchDoctorSkillName16B=午夜盛宴{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription16B=沼泽调和激活时，宠物伤害提升。
+
+tagClassWitchDoctorSkillName17A=图腾军团{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription17A=召唤图腾战士为你战斗20秒。 ^o图腾军团随宠物伤害加成成长。{^n}{^n}{^y}火炬图腾 {^o}(技能等级12解锁){^n}^w你还会召唤图腾萨满，只要存活便为你作战。
+
+tagClassWitchDoctorSkillName17B=火炬图腾
+tagClassWitchDoctorSkillName17C=火球
+tagClassWitchDoctorSkillName17D=毒匕首
+tagClassWitchDoctorSkillName17E=衰老诅咒
+tagClassWitchDoctorSkillName17F=当前存活图腾数量
+
+tagClassWitchDoctorSkillName18A=召唤巨像{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription18A=召唤巨像为你作战，存活期间持续战斗。 ^o巨像随宠物加成成长。{^n}{^n}{^y}臭巨兽 {^o}(技能等级16解锁){^n}^w巨像周围存在有毒云，对附近敌人造成毒性伤害。
+
+tagClassWitchDoctorSkillName18B=横扫
+tagClassWitchDoctorSkillName18C=不安巨人
+tagClassWitchDoctorSkillName18D=臭巨兽
+tagClassWitchDoctorSkillName18E=当前活跃巨像数量
+
+tagClassWitchDoctorSkillName19A=穿越迷雾{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription19A=永久消耗最大能量的一部分，提高你和宠物的攻击能力及总伤害。{^n}{^n}{^y}部族仪式 {^o}(技能等级12解锁){^n}^w获得10%冷却缩减。
+
+tagClassWitchDoctorSkillName20A=食人鱼{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription20A=召唤致命食人鱼波，对路径上所有敌人造成酸性与活力伤害。{^n}{^n}{^y}肢解之浪 {^o}(技能等级12解锁){^n}^w被食人鱼击中的敌人所有抗性降低25，持续5秒。
+
+tagClassWitchDoctorSkillName20B=冰冻食人鱼{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription20B=发射冰霜食人鱼波，减缓敌人3秒。
+
+tagClassWitchDoctorSkillName21A=灵魂调和{^K} 「巫医」^-
+tagClassWitchDoctorSkillDescription21A=提升你的灵魂、生命恢复与施法速度。
+
+Pets:
+
+tagPetFetish=图腾战士
+tagPetFetishShaman=图腾萨满
+tagPetCorpseSpiders=黑寡妇
+tagPetSummonDogs=僵尸犬
+tagPetWallofDeath=火墙
+tagPetSlavedSoul=奴役灵魂
+tagPetGargantuan=巨像
+
+RUNE EFFECTS
+
+tagWitchDoctorRune01=^c灵魂收割者
+tagWitchDoctorRune01Desc=^b灵魂收割 ^w在10秒内标记敌人。被标记敌人的活力和冰冷抗性降低10%。当标记敌人生命低于25%时，抗性降低加倍，并移除生命削减抗性。 ^o敌人必须先被标记 ^b再达到25%生命阈值。一旦第二层减益触发，敌人头顶会出现 ^r红色镰刀 ^o，该标记需通过持续刷新第一次标记的10秒持续时间维持，否则将失去加倍抗性降低与生命抗性移除。 ^o{^n}{^n}{^y}符文词: {^c}PocXal
+
+tagWitchDoctorRune01B=符文效果
+tagWitchDoctorRune01BDesc=该敌人的抗性当前正被灵魂收割降低。
+
+tagWitchDoctorRune02=^c女王万岁
+tagWitchDoctorRune02Desc=^g尸蜘蛛 ^w现在召唤永久的蜘蛛女王，伤害提升300%。 ^o需要尸蜘蛛技能16点。召唤蜘蛛数量在20级和24级增加，也可受装备加成提升。{^n}{^n}{^y}符文词: {^c}MoniGar
+
+tagWitchDoctorRune03=^c灵魂释放
+tagWitchDoctorRune03Desc=^b灵魂行走 ^w现在提升25%最大移动速度。灵魂行走激活时，你的攻击会自动发射灵魂箭雨，对敌人造成冰冷与活力伤害，并在10秒内降低敌人所有抗性10%。{^n}{^n}{^y}符文词: {^c}ZanKry
+
+tagWitchDoctorRune03b=^c强化灵魂释放
+tagWitchDoctorRune03bDesc=^b灵魂行走 ^w现在提升50%最大移动速度。灵魂行走激活时，你的攻击会自动发射灵魂箭雨，对敌人造成冰冷与活力伤害，并在10秒内降低敌人所有抗性15%。{^n}{^n}{^y}符文词: {^c}ZanKry (强化)
+
+tagWitchDoctorRune03C=^c符文效果
+tagWitchDoctorRune03CDesc=该敌人的抗性当前正被灵魂释放降低。
+
+tagWitchDoctorRune04=^c飞镖
+tagWitchDoctorRune04Desc=当 ^o火蝠 ^w暴击时，会向敌人发射蝙蝠群，弹射至多个目标再返回你身边。蝙蝠群有25%几率滞留在敌人身上，降低敌人火焰与活力抗性15%，持续5秒。{^n}{^n}{^y}符文词: {^c}KaaLum.{^n}{^n}{^y}转化: ^wKaaLum ^c符文词有备用版本，可解锁 ^c飞镖（毒性） ^w符文效果。
+
+tagWitchDoctorRune04b=^c飞镖（毒性）
+tagWitchDoctorRune04bDesc=当 ^o火蝠 ^w暴击时，会向敌人发射毒蝙蝠群，弹射至多个目标再返回你身边。蝙蝠群有25%几率滞留在敌人身上，降低敌人毒性与活力抗性15%，持续5秒。{^n}{^n}{^y}符文词: {^c}KaaLum (转化)
+
+tagWitchDoctorRune04c=^c符文效果
+tagWitchDoctorRune04cDesc=该敌人的抗性当前正被 ^c飞镖^w降低。
+
+tagWitchDoctorRune04d=^c飞镖
+tagWitchDoctorRune04e=^c毒性飞镖
+
+
+
+
+

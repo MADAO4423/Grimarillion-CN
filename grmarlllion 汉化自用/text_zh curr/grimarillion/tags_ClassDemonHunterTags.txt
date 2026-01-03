@@ -1,0 +1,150 @@
+tagSkillClassName10=恶魔猎手
+tagSkillClassName0110=灭绝者
+tagSkillClassName0210=纵火者
+tagSkillClassName0310=先驱者
+tagSkillClassName0410=暗影猎手
+tagSkillClassName0510=工匠
+tagSkillClassName0610=驯兽师
+tagSkillClassName0710=审讯者
+tagSkillClassName0810=地狱之子
+tagSkillClassName0910=恶魔杀手
+
+tagSkillClassDescriptionDemonHunter=恶魔猎手是无情的义务执行者，他们用各种远程武器猎杀地狱般的目标。他们蹲伏在远离危险的位置瞄准，依靠弩、火枪以及致命的投射物迅速终结那些困扰世界的怪物。^n^s改编自Grimer的《暗黑破坏神3》Mod
+
+#ClassDemonHunter
+tagClassDemonHunterSkillName00=恶魔猎手
+tagClassDemonHunterSkillDescription00="屠杀的野兽。"
+
+tagClassDemonHunterSkillName01A=渴望之射{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription01A=发射带有魔力的箭矢，对敌人造成穿刺和冰霜伤害。^o需要远程武器，并可作为默认武器攻击使用。只有在渴望之射充能时，来自加成的奖励才生效。{^n}{^n}{^y}吞噬射击 {^o}(技能等级16解锁){^n}^w充能次数提升至6次。每次连续攻击可使你的攻击力提升5%，最多叠加至25%。
+
+tagClassDemonHunterSkillName01B=狩猎快感{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription01B=渴望之射提升你的攻击速度和攻击能力，同时减少束缚效果持续时间。
+
+tagClassDemonHunterSkillName01C=夜行者{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription01C=你的攻击注入冰焰伤害并提供穿刺抗性。伤害提升。
+
+tagClassDemonHunterSkillName01D=骨齿喷射{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription01D=使目标爆裂出骨矛，对周围敌人造成冰霜与冰焰伤害。^o需要远程武器，可通过所有默认武器攻击触发。
+
+tagClassDemonHunterSkillName01E=散射箭{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription01E=发射电闪箭矢，命中后分裂，对敌人造成闪电和穿刺伤害，并在2秒内触电。^o需要远程武器，可通过所有默认武器攻击触发。
+
+tagClassDemonHunterSkillName02A=暗影之力{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription02A=吸收暗影之力，恢复部分生命并获得额外生命、生命回复和防御能力。{^n}{^n}{^y}血月 {^o}(技能等级12解锁){^n}^w暗影之力激活时，治疗效果提升15%。
+
+tagClassDemonHunterSkillName02B=暗影滑步{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription02B=暗影之力提升你的移动速度和缓速抗性，并提供闪避攻击及偏转投射物的几率。
+
+tagClassDemonHunterSkillName03A=缠绕射击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription03A=射出带有暗影能量的箭矢缠绕敌人，降低其移动速度和攻击能力。缠绕射击的锁链每秒传播至另外两个敌人，每个目标受到冰霜和穿刺伤害。{^n}{^n}{^y}正义制裁 {^o}(技能等级12解锁){^n}^w敌人的生命回复降低35%。
+
+tagClassDemonHunterSkillName03B=电击项圈{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription03B=锁链对敌人进行电击，在技能持续期间降低敌人的部分抗性。
+
+tagClassDemonHunterSkillName05A=元素射击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription05A=射出穿透目标的火焰箭矢，对敌人造成火焰和物理伤害。^o需要远程武器。元素射击不是默认武器攻击替代，无法触发如骨齿喷射等效果。
+
+tagClassDemonHunterSkillName05B=燃烧射击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription05B=元素射击灼烧敌人并降低其攻击力持续3秒。每次击中敌人会灼烧地面，对站在上面的敌人造成火焰伤害并在2秒内持续灼烧。^o灼烧地面造成的火焰伤害可叠加。
+
+tagClassDemonHunterSkillName05C=枯萎之火{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription05C=造成额外火焰伤害，并在3秒内降低敌人的伤害。火焰和灼烧伤害提升。
+
+tagClassDemonHunterSkillName05E=稳固瞄准{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription05E=移除元素射击的穿透能力，但伤害提升。
+
+tagClassDemonHunterSkillName06A=群集箭{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription06A=发射群集箭矢，命中后爆炸释放集群炸弹。被爆炸或炸弹击中的敌人受到巨量物理和火焰伤害。^o需要远程武器。{^n}{^n}{^y}耀眼箭矢 {^o}(技能等级16解锁){^n}^w敌人会被击晕数秒。
+
+tagClassDemonHunterSkillName06B=熊之装填{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription06B=群集箭灼烧敌人并降低其抗性持续3秒。伤害提升。
+
+tagClassDemonHunterSkillName06C=漩涡{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription06C=群集箭产生冰霜爆炸，释放冰弹。
+
+tagClassDemonHunterSkillName09A=复仇之雨{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription09A=向大范围区域发射大量箭矢。箭矢从天而降，对区域内所有敌人造成穿刺和流血伤害。^o需要远程武器。{^n}{^n}{^y}黑云 {^o}(技能等级16解锁){^n}^w复仇之雨获得50%几率使敌人混乱。
+
+tagClassDemonHunterSkillName09B=飞行打击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription09B=召唤一群暗影野兽从空中坠落，击中地面时爆炸，对周围敌人造成冰霜和流血伤害。
+
+tagClassDemonHunterSkillName09C=阴影{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription09C=箭矢带电。{^K} 「恶魔猎手」^-
+
+tagClassDemonHunterSkillName12A=复仇化身{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription12A=化身为复仇本体，提升你的狡诈和所有伤害，对克索尼安生物造成额外伤害，并获得20秒控制抗性。升级可提升被动伤害。^o需要远程武器。{^n}{^n}{^b}副武器发射 ^o(被动){^n}^w每次命中目标，会额外发射2枚投射物，对穿过的敌人造成元素伤害。^o此被动也与缠绕射击及类似燃烧射击的地面效果叠加。{^n}{^n}{^y}暗心 {^o}(技能等级12解锁){^n}^w复仇化身激活时，所有受到的伤害降低25%。
+
+tagClassDemonHunterSkillName12B=副武器发射{^K} 「恶魔猎手」^-
+
+tagClassDemonHunterSkillName13A=弹道学{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription13A=增加穿刺伤害并提升技能伤害。^o这是远程武器加成。并允许双持远程武器。{^n}{^n}{^y}神射手 {^o}(技能等级12解锁){^n}^w暴击伤害提升20%。
+
+tagClassDemonHunterSkillName15A=环刃{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription15A=召唤旋转的环刃追击敌人，对敌人造成物理和火焰伤害。^o环刃受玩家伤害加成影响。
+
+tagClassDemonHunterSkillName15B=剃刃盘{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription15B=环刃灼烧敌人并降低其攻击速度2秒，环刃伤害提升。
+
+tagClassDemonHunterSkillName15C=蛇形旋刃{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription15C=环刃转为冰霜旋刃，造成较少伤害，有机会冻结敌人。
+
+tagClassDemonHunterSkillName15D=手里剑云{^K} 「恶魔猎手」^-
+
+tagClassDemonHunterSkillName16A=警觉{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription16A=濒死时，暗影庇护你，立即恢复部分生命并在数秒内免疫所有伤害。
+
+tagClassDemonHunterSkillName17A=完美主义{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription17A=提升对流血、混沌和元素伤害的抗性。{^n}{^n}{^y}吸血 {^o}(技能等级10解锁){^n}^w提供5%生命吸取。
+
+tagClassDemonHunterSkillName18A=暗影仪式{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription18A=召唤暗影之灵为你作战12秒。
+
+tagClassDemonHunterSkillName19A=飞刀{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription19A=向周围投掷飞刀，对敌人造成穿刺伤害并使其流血3秒。^o过近敌人每把刀造成的伤害仅为40%。{^n}{^n}{^y}匕首风暴 {^o}(技能等级16解锁){^n}^w飞刀可使敌人眩晕2秒。
+
+tagClassDemonHunterSkillName19B=刺客之刃{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription19B=飞刀造成额外冰霜伤害，并在3秒内降低敌人防御能力。伤害提升。
+
+tagClassDemonHunterSkillName19C=精准射击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription19C=穿刺伤害转为闪电伤害。投入2点可增加冷却至6秒，以换取更高伤害和更长眩晕持续时间。
+
+tagClassDemonHunterSkillName20A=速射{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription20A=提升攻击速度和攻击能力。需要远程武器。{^n}{^n}{^y}吸血 {^o}(技能等级12解锁){^n}^w治疗效果提升15%。
+
+tagClassDemonHunterSkillName21A=陷阱钉{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription21A=在地面布置诅咒陷阱，减缓敌人并降低其总伤害。{^n}{^n}{^y}折磨之地 {^o}(技能等级10解锁){^n}^w范围内敌人每秒受到活力伤害。
+
+tagClassDemonHunterSkillName22A=烟雾屏障{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription22A=消失在烟雾之后，获得速度提升和控制效果抗性，并在3秒内吸收所有伤害。{^n}{^n}{^y}战术优势 {^o}(技能等级10解锁){^n}^w烟雾屏障同时提升你的攻击能力20%。
+
+tagClassDemonHunterSkillName23A=多重射击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription23A=发射大量投射物，对敌人造成穿刺伤害并使其流血3秒。^o需要远程武器。多重射击不是默认攻击替代，无法触发如散射箭等效果。{^n}{^n}{^y}压制火力 {^o}(技能等级16解锁){^n}^w多重射击获得10%几率击倒敌人。
+
+tagClassDemonHunterSkillName23B=全副火力{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription23B=多重射击同时造成闪电伤害，并提升基础伤害。
+
+tagClassDemonHunterSkillName23C=自由射击{^K} 「恶魔猎手」^-
+tagClassDemonHunterSkillDescription23C=能量消耗降低30%，多重射击完全电气化。
+
+tagDemonHunterRune01=^c保持距离
+tagDemonHunterRune01Desc=^b渴望之射 ^w提升你的攻击力和防御力5%，并使最大移动速度和攻击速度提升50%。但是，每当敌人过于接近，你会失去该技能提供的加成。{^n}{^n}{^y}符文词: {^c}AhuGar
+
+tagDemonHunterRune01b=^c符文效果
+tagDemonHunterRune01c=^c保持距离
+tagDemonHunterRune01cDesc=你与敌人距离过近，失去“保持距离”符文效果提供的加成。
+
+tagDemonHunterRune02=^c终极复仇
+tagDemonHunterRune02Desc=^o元素射击 ^w的暴击在5秒内提供100%火焰/灼烧伤害、15%伤害吸收和5%攻击能力。但你无法施放复仇化身。^o此效果不可叠加，暴击仅刷新持续时间。{^n}{^n}{^y}符文词: {^c}CirEom
+
+tagDemonHunterRune02b=^c符文效果
+tagDemonHunterRune02bDesc=由元素射击暴击激活的奖励。
+
+tagDemonHunterRune03=^c陷阱大师
+tagDemonHunterRune03Desc=^o环刃 ^w变为^b冰霜陷阱 ^w，当敌人靠近时爆炸造成冰霜伤害，并冻结2秒。如果敌人未被爆炸击杀，将被标记。被标记的敌人在5秒内冰霜抗性降低。^o使用冰霜陷阱时，^b剃刃盘 ^o及物品技能加成的伤害增加200%。{^n}{^n}{^y}符文词: {^c}PocNer
+
+tagDemonHunterRune04=^c共担重负
+tagDemonHunterRune04Desc=当^p暗影之力 ^w激活时，你会被诅咒，几乎所有抗性降低15%（物理抗性降低5%）。然而，被敌人攻击会使诅咒扩散并增强，使其在5秒内降低所有敌人的抗性20%。{^n}{^n}{^y}符文词: {^c}MoniVex
+
+tagDemonHunterRune04b=^c符文效果
+tagDemonHunterRune04bDesc=该敌人当前被“共担重负”诅咒，所有抗性降低。

@@ -1,0 +1,137 @@
+#X1 血骑士职业与技能
+
+tagSkillClassName37=血骑士
+tagSkillClassName0137=骑士指挥官
+tagSkillClassName0237=世界终结者
+tagSkillClassName0337=末日骑士
+tagSkillClassName0437=虚空寻者
+tagSkillClassName0537=[ms]血巫 [fs]血女巫
+tagSkillClassName0637=血咒使
+tagSkillClassName0737=灭绝者
+tagSkillClassName0837=血之领主
+tagSkillClassName0937=誓约使者
+tagSkillClassName1037=血塑者
+tagSkillClassName1137=[ms]血猎人 [fs]血猎女
+tagSkillClassName1237=毁灭使
+tagSkillClassName1337=血法师
+tagSkillClassName1437=亵渎者
+tagSkillClassName1537=[ms]暗帝 [fs]暗帝后
+tagSkillClassName3637=血猎者
+
+tagSkillClassDescriptionBloodKnight=血骑士是邪恶生物的克星，他们汲取敌人的生命，将其困于由诅咒之力召唤的致命阴影之中，并依赖武器与危险保持距离。若万般努力皆失败，他们也可能屈服于体内争夺人性的邪恶异体。 ^n^sAdapted by Grimer for the Diablo 3 Mod
+
+#ClassBloodKnight
+tagClassBloodKnightSkillName00=血骑士
+tagClassBloodKnightSkillDescription00="我的生命余晖，誓与黑暗抗衡。"
+
+tagClassBloodKnightSkillName01A=混沌使者{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription01A=你的伤害与生命值增加，攻击附加混沌伤害。 ^o需要近战武器。{^n}{^n}{^y}黑曜护甲 {^o}(技能等级12解锁){^n}^w你的护甲提升25%。
+
+tagClassBloodKnightSkillName02A=裂击{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription02A=你的攻击附加混沌伤害，使敌人衰竭。当用作默认攻击时，裂击随着每次攻击积累强度。 ^o积累层数可增强效果。{^n}{^n}{^y}止血 {^o}(技能等级16解锁){^n}^w裂击激活时，获得25%出血抗性。
+
+tagClassBloodKnightSkillName02B=钢铁意志{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription02B=裂击提供护甲、生命恢复及眩晕抗性。
+
+tagClassBloodKnightSkillName02C=剔骨{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription02C=变得更加凶猛，使敌人流血，并有机会对敌人造成要害打击。
+
+tagClassBloodKnightSkillName02D=虚火{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription02D=用虚空之火强化你的攻击。
+
+tagClassBloodKnightSkillName03A=跃击{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription03A=跃向空中，用武器重击地面，产生熵爆，对范围内敌人造成伤害并降低攻击速度。 ^o基于默认攻击，需近战武器。{^n}{^n}{^y}尘埃落定前 {^o}(技能等级10解锁){^n}^w敌人有35%几率在3秒内近战攻击失败。
+
+tagClassBloodKnightSkillName04A=凶暴之击{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription04A=攻击前方区域，地面喷发黑曜尖刺，对敌人造成伤害并短暂眩晕。 ^o基于默认攻击，需近战武器。{^n}{^n}{^y}毁灭 {^o}(技能等级10解锁){^n}^w凶暴之击获得35%暴击伤害加成。
+
+tagClassBloodKnightSkillName05A=暗影之锋{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription05A=投掷纯暗影能量之刃，命中目标后分裂为三片。如果碎片未命中敌人、地形或结构，将返回你身边，击中途中所有敌人并复制初始伤害。 ^o需近战武器。{^n}{^n}{^y}削弱 {^o}(技能等级16解锁){^n}^w暗影之锋降低敌人伤害20%，持续2秒。
+
+tagClassBloodKnightSkillName05B=致命投射{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription05B=暗影之刃附加衰竭伤害，有机会穿透敌人。刃片返回时，复制途径中所有敌人的伤害。基础伤害增加。
+
+tagClassBloodKnightSkillName06A=鲜血之波{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription06A=释放血浪，对路径上的敌人造成衰竭与混沌伤害并减速。{^n}{^n}{^y}绝望之泉 {^o}(技能等级16解锁){^n}^w血浪获得35%几率迷惑敌人。
+
+tagClassBloodKnightSkillName06B=死亡潮{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription06B=血浪对敌人造成衰竭伤害，并在3秒内降低其抗性。基础伤害增加。
+
+tagClassBloodKnightSkillName06C=暗焰之河{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription06C=血浪变为虚空火焰之河。
+
+tagClassBloodKnightSkillName07A=血之冲锋{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription07A=直线冲锋，对路径上所有敌人造成伤害，并在到达终点时释放血之新星。血之新星只对冲锋过程中未被击中的敌人造成伤害。{^n}{^n}{^y}输血 {^o}(技能等级16解锁){^n}^w造成伤害的30%转化为生命。
+
+tagClassBloodKnightSkillName07B=虚空痕迹{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription07B=在冲锋路径上创造裂缝，片刻后地面喷发虚空能量，将敌人击飞并造成伤害。
+
+tagClassBloodKnightSkillName07C=血之践踏{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription07C=血之冲击使敌人流血，并在3秒内降低其防御能力。基础伤害提高。
+
+tagClassBloodKnightSkillName08A=吸血光环{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription08A=召唤一个光环，提升你的防御能力，使你获得生命减益抵抗与吸血效果，同时持续对周围敌人造成伤害，将部分造成的伤害转化为自身生命。{^n}{^n}{^y}万能接收者 {^o}(技能等级12解锁){^n}^w当吸血光环激活时，治疗效果提升35%。
+
+tagClassBloodKnightSkillName08B=熵化{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription08B=光环同时造成混沌伤害，并在2秒内降低敌人的攻击能力。基础伤害提高。
+
+tagClassBloodKnightSkillName09A=旋风打击{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription09A=挥舞武器环绕自身多次，对敌人造成最多4次打击并使其眩晕数秒。^o需要近战武器.{^n}{^n}{^y}虚弱 {^o}(技能等级16解锁){^n}^w在3秒内降低敌人的总速度25%。
+
+tagClassBloodKnightSkillName09B=死亡之花{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription09B=化为虚空能量的媒介，释放混沌能量弹爆炸，对周围敌人造成伤害并在3秒内降低其伤害。
+
+tagClassBloodKnightSkillName10A=蹂躏{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription10A=执行双重横扫，释放虚空能量波，对前方多个敌人造成混沌伤害。^o需要近战武器.{^n}{^n}{^y}根除 {^o}(技能等级16解锁){^n}^w横扫角度增加，可攻击的目标数量无限。
+
+tagClassBloodKnightSkillName10B=湮灭{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription10B=蹂躏同时对敌人造成活力伤害和活力衰减，持续3秒。基础伤害提高。
+
+tagClassBloodKnightSkillName11A=毒雾{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription11A=释放有毒云雾，持续6秒影响敌人，削弱其视野、降低防御能力，并有几率让敌人混乱数秒。受影响的敌人在持续时间内还会受到混沌伤害。{^n}{^n}{^y}贫血 {^o}(技能等级12解锁){^n}^w毒雾将敌人的生命回复降低70%。
+
+tagClassBloodKnightSkillName11B=血疫{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription11B=毒雾释放一种致命瘟疫，对敌人造成活力伤害并让其流血，同时降低部分抗性。
+
+tagClassBloodKnightSkillName12A=夜之笼罩{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription12A=用黑暗笼罩自己及周围盟友，提升防御能力和物理抗性，同时提供额外生命与生命回复。{^n}{^n}{^y}睁眼不见 {^o}(技能等级12解锁){^n}^w黑暗笼罩使你和盟友受到野兽族及克索尼安生物的伤害降低10%。
+
+tagClassBloodKnightSkillName12B=污秽之心{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription12B=提升伤害，并为你和盟友提供混沌与活力伤害抵抗。
+
+tagClassBloodKnightSkillName13A=血之猎{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription13A=唤醒复仇之心，对诅咒的责任者造成更高伤害，提升所有伤害、总速度和缓速抗性。血之猎激活时，对野兽族及克索尼安生物造成额外伤害。^o受到伤害时触发。{^n}{^n}{^y}夜视 {^o}(技能等级12解锁){^n}^w获得30%几率偏转投射物。
+
+tagClassBloodKnightSkillName14A=血液凝聚{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription14A=用血液形成保护体，获得控制效果抵抗并吸收所有伤害持续数秒。{^n}{^n}{^y}血力之能 {^o}(技能等级12解锁){^n}^w血液凝聚激活时，攻击能力提升20%。
+
+tagClassBloodKnightSkillName15A=蝙蝠群{^K} 「血骑士」^-
+tagClassBloodKnightSkillDescription15A=召唤追击敌人的蝙蝠群，对敌人造成活力和混沌伤害，使其流血2秒。^o蝙蝠群效果随玩家伤害加成提升。{^n}{^n}{^y}监控 {^o}(技能等级16解锁){^n}^w蝙蝠造成伤害的5%转化为自身生命。
+
+tagClassBloodKnightSkillName15PetSkill=有翼威胁
+tagClassBloodKnightSkillName15PetCounter=当前召唤的蝙蝠群数量
+
+tagChestBloodKnight=血之馈赠
+
+Rune Effects
+
+tagWingedProtection=^c符文效果
+tagWingedProtectionDesc=靠近蝙蝠群时，你受到的伤害减少20%。
+
+tagBloodKnightRune01=^c血脉之傲
+tagBloodKnightRune01Desc=当^r夜之笼罩 ^w激活时，每当你生命低于50%，会释放血液凝聚的替代版本，使你在3秒内无敌，但无法使用生命药水。^o该效果有内部冷却，可通过冷却缩减降低。{^n}{^n}{^y}符文词: {^c}BacTal
+tagBloodKnightRune01B=^c符文效果
+tagBloodKnightRune01BDesc=你在3秒内无敌。
+
+tagBloodKnightRune02=^c吸血者的屠戮
+tagBloodKnightRune02Desc=当^r吸血光环 ^w激活时，所有被你攻击的敌人将受到技能的替代版本影响。受影响的目标对附近敌人造成活力、混沌和流血伤害，同时将部分造成的伤害转化为你的生命。{^n}{^n}{^y}符文词: {^c}NeoXal
+tagBloodKnightRune02b=^c符文效果
+tagBloodKnightRune02bDesc=当前受吸血光环影响的目标。
+tagBloodKnightRune02C=^c强化吸血者的屠戮
+tagBloodKnightRune02CDesc=每个被^r吸血光环 ^w击中的敌人都会受到技能的替代版本影响。受影响的目标对附近敌人造成活力、混沌和流血伤害，同时将部分造成的伤害转化为你的生命。{^n}{^n}{^y}符文词: {^c}NeoXal (强化)
+
+tagBloodKnightRune03=^c猩红命运
+tagBloodKnightRune03Desc=^r跃击 ^w的暴击会诅咒周围敌人。被诅咒敌人的混沌与活力抗性在10秒内降低10%。当被诅咒敌人的生命低于20%时，有10%几率立即死亡。^o敌人必须在达到20%生命阈值前被诅咒。{^n}{^n}{^y}符文词: {^c}CemKry
+tagBloodKnightRune03b=^c符文效果
+tagBloodKnightRune03bDesc=该敌人当前被跃击诅咒。
+tagBloodKnightRune03c=^c猩红死亡

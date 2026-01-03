@@ -1,0 +1,1533 @@
+~~~~~~~~
+Soldier
+~~~~~~~~
+01 and 02
+tagSkillClassName0102=突击兵
+01 and 03
+tagSkillClassName0103=巫刃
+01 and 04
+tagSkillClassName0104=剑圣
+01 and 05
+tagSkillClassName0105=战斗法师
+01 and 06
+tagSkillClassName0106=守卫者
+01 and 07
+tagSkillClassName0107=战术家
+01 and 08
+tagSkillClassName0108=死亡骑士
+01 and 09
+tagSkillClassName0109=军阀
+01 and 10
+tagSkillClassName0110=灭杀者
+01 and 11
+tagSkillClassName0111=巫战士
+01 and 12
+tagSkillClassName0112=战祭司
+01 and 13
+tagSkillClassName0113=战法师
+01 and 14
+tagSkillClassName0114=军团士兵
+01 and 15
+tagSkillClassName0115=暗黑指挥官
+01 and 16
+tagSkillClassName0116=恐惧使者
+01 and 17
+tagSkillClassName0117=奥术骑士
+01 and 18
+tagSkillClassName0118=赏金猎人
+01 and 19
+tagSkillClassName0119=冲击兵
+01 and 20
+tagSkillClassName0120=裂隙打击者
+01 and 21
+tagSkillClassName0121=将军
+01 and 22
+tagSkillClassName0122=帝国卫士
+01 and 23
+tagSkillClassName0123=战狼
+01 and 24
+tagSkillClassName0124=巫妖护卫
+01 and 25
+tagSkillClassName0125=战争狂人
+01 and 26
+tagSkillClassName0126=生存者
+01 and 27
+tagSkillClassName0127=无赖
+01 and 28
+tagSkillClassName0128=灼热卫士
+01 and 29
+tagSkillClassName0129=风暴之盾
+01 and 30
+tagSkillClassName0130=巫术师
+01 and 31
+tagSkillClassName0131=角斗士
+01 and 32
+tagSkillClassName0132=符文使
+01 and 33
+tagSkillClassName0133=江
+01 and 34
+tagSkillClassName0134=腐朽骑士
+01 and 35
+tagSkillClassName0135=对手
+01 and 36
+tagSkillClassName0136=影武者
+01 and 37
+tagSkillClassName0137=骑士指挥官
+01 and 38
+tagSkillClassName0138=士兵+狂战士
+~~~~~~~~
+Demolitionist
+~~~~~~~~
+02 and 03
+tagSkillClassName0203=火焰术士
+02 and 04
+tagSkillClassName0204=破坏者
+02 and 05
+tagSkillClassName0205=术士/女术士
+02 and 06
+tagSkillClassName0206=元素使
+02 and 07
+tagSkillClassName0207=净化者
+02 and 08
+tagSkillClassName0208=亵渎者
+02 and 09
+tagSkillClassName0209=破盾者
+02 and 10
+tagSkillClassName0210=纵火者
+02 and 11
+tagSkillClassName0211=火医师
+02 and 12
+tagSkillClassName0212=光之携带者
+02 and 13
+tagSkillClassName0213=咒枪手
+02 and 14
+tagSkillClassName0214=仲裁者
+02 and 15
+tagSkillClassName0215=炎术大师
+02 and 16
+tagSkillClassName0216=掠夺者
+02 and 17
+tagSkillClassName0217=炼金术师
+02 and 18
+tagSkillClassName0218=职业杀手
+02 and 19
+tagSkillClassName0219=解放者
+02 and 20
+tagSkillClassName0220=破门者
+02 and 21
+tagSkillClassName0221=嗜血者
+02 and 22
+tagSkillClassName0222=燃火守望者
+02 and 23
+tagSkillClassName0223=灰烬潜行者
+02 and 24
+tagSkillClassName0224=燃焰之魂
+02 and 25
+tagSkillClassName0225=雇佣兵
+02 and 26
+tagSkillClassName0226=灰烬播种者
+02 and 27
+tagSkillClassName0227=灼刃
+02 and 28
+tagSkillClassName0228=余烬编织者
+02 and 29
+tagSkillClassName0229=地狱克星
+02 and 30
+tagSkillClassName0230=热能操纵者
+02 and 31
+tagSkillClassName0231=毁灭者
+02 and 32
+tagSkillClassName0232=发电者
+02 and 33
+tagSkillClassName0233=火枪兵
+02 and 34
+tagSkillClassName0234=炼金术士
+02 and 35
+tagSkillClassName0235=烈焰者
+02 and 36
+tagSkillClassName0236=猎头者
+02 and 37
+tagSkillClassName0237=灭世者
+02 and 38
+tagSkillClassName0238=爆破专家+狂战士
+~~~~~~~~
+Occultist
+~~~~~~~~
+03 and 04
+tagSkillClassName0304=猎巫者
+03 and 05
+tagSkillClassName0305=术士
+03 and 06
+tagSkillClassName0306=召唤师
+03 and 07
+tagSkillClassName0307=欺诈者
+03 and 08
+tagSkillClassName0308=邪教徒
+03 and 09
+tagSkillClassName0309=哨兵
+03 and 10
+tagSkillClassName0310=先驱
+03 and 11
+tagSkillClassName0311=仪式师
+03 and 12
+tagSkillClassName0312=腐化者
+03 and 13
+tagSkillClassName0313=奇术师
+03 and 14
+tagSkillClassName0314=破誓者
+03 and 15
+tagSkillClassName0315=恶魔学者
+03 and 16
+tagSkillClassName0316=邪能骑士
+03 and 17
+tagSkillClassName0317=诅咒师
+03 and 18
+tagSkillClassName0318=恶徒
+03 and 19
+tagSkillClassName0319=邪能勇士
+03 and 20
+tagSkillClassName0320=裂隙封者
+03 and 21
+tagSkillClassName0321=混沌师
+03 and 22
+tagSkillClassName0322=巫卫
+03 and 23
+tagSkillClassName0323=巫行者
+03 and 24
+tagSkillClassName0324=灵魂守望者
+03 and 25
+tagSkillClassName0325=疯狂之刃
+03 and 26
+tagSkillClassName0326=扭曲隐士
+03 and 27
+tagSkillClassName0327=献祭者
+03 and 28
+tagSkillClassName0328=火焰领主
+03 and 29
+tagSkillClassName0329=天空术士/天空女巫
+03 and 30
+tagSkillClassName0330=熵能学徒
+03 and 31
+tagSkillClassName0331=异教徒
+03 and 32
+tagSkillClassName0332=黑暗符印师
+03 and 33
+tagSkillClassName0333=蛊师
+03 and 34
+tagSkillClassName0334=收割者
+03 and 35
+tagSkillClassName0335=分裂者
+03 and 36
+tagSkillClassName0336=虚空召唤者
+03 and 37
+tagSkillClassName0337=末日骑士
+03 and 38
+tagSkillClassName0338=神秘学者+狂战士
+~~~~~~~~
+Nightblade
+~~~~~~~~
+04 and 05
+tagSkillClassName0405=破法者
+04 and 06
+tagSkillClassName0406=诡术师
+04 and 07
+tagSkillClassName0407=渗透者
+04 and 08
+tagSkillClassName0408=收割者
+04 and 09
+tagSkillClassName0409=苦行僧
+04 and 10
+tagSkillClassName0410=暗影猎手
+04 and 11
+tagSkillClassName0411=暗影祭司
+04 and 12
+tagSkillClassName0412=刃舞者
+04 and 13
+tagSkillClassName0413=暗影施法者
+04 and 14
+tagSkillClassName0414=圣刃
+04 and 15
+tagSkillClassName0415=死刃
+04 and 16
+tagSkillClassName0416=执法者
+04 and 17
+tagSkillClassName0417=调和者
+04 and 18
+tagSkillClassName0418=影袭者
+04 and 19
+tagSkillClassName0419=破晓者
+04 and 20
+tagSkillClassName0420=地平线行者
+04 and 21
+tagSkillClassName0421=狂信徒
+04 and 22
+tagSkillClassName0422=决斗者
+04 and 23
+tagSkillClassName0423=夜行者
+04 and 24
+tagSkillClassName0424=巫妖之刃
+04 and 25
+tagSkillClassName0425=割喉者
+04 and 26
+tagSkillClassName0426=盖娅誓徒
+04 and 27
+tagSkillClassName0427=水手剑客
+04 and 28
+tagSkillClassName0428=末日预言者
+04 and 29
+tagSkillClassName0429=剑闪
+04 and 30
+tagSkillClassName0430=影舞者
+04 and 31
+tagSkillClassName0431=破刃者
+04 and 32
+tagSkillClassName0432=掠夺者
+04 and 33
+tagSkillClassName0433=毒姬
+04 and 34
+tagSkillClassName0434=恐惧之刃
+04 and 35
+tagSkillClassName0435=幻影之刃
+04 and 36
+tagSkillClassName0436=策士
+04 and 37
+tagSkillClassName0437=虚空探寻者
+04 and 38
+tagSkillClassName0438=夜刃+狂战士
+~~~~~~~~
+Arcanist
+~~~~~~~~
+05 and 06
+tagSkillClassName0506=德鲁伊
+05 and 07
+tagSkillClassName0507=法猎者
+05 and 08
+tagSkillClassName0508=法术绑定者
+05 and 09
+tagSkillClassName0509=圣殿骑士
+05 and 10
+tagSkillClassName0510=工匠
+05 and 11
+tagSkillClassName0511=奥术医师
+05 and 12
+tagSkillClassName0512=先知
+05 and 13
+tagSkillClassName0513=附魔师
+05 and 14
+tagSkillClassName0514=守护者
+05 and 15
+tagSkillClassName0515=以太行者
+05 and 16
+tagSkillClassName0516=恐惧大师
+05 and 17
+tagSkillClassName0517=贤者
+05 and 18
+tagSkillClassName0518=清洁者
+05 and 19
+tagSkillClassName0519=浩劫法师
+05 and 20
+tagSkillClassName0520=虚空弟子
+05 and 21
+tagSkillClassName0521=弃绝者
+05 and 22
+tagSkillClassName0522=大保护者
+05 and 23
+tagSkillClassName0523=寻觅者
+05 and 24
+tagSkillClassName0524=黑魔导师
+05 and 25
+tagSkillClassName0525=高阶祭主
+05 and 26
+tagSkillClassName0526=预见者
+05 and 27
+tagSkillClassName0527=怪才
+05 and 28
+tagSkillClassName0528=附魔师/附魔女
+05 and 29
+tagSkillClassName0529=奇迹术士
+05 and 30
+tagSkillClassName0530=织法者
+05 and 31
+tagSkillClassName0531=奥术泰坦
+05 and 32
+tagSkillClassName0532=符文施法者
+05 and 33
+tagSkillClassName0533=道士
+05 and 34
+tagSkillClassName0534=工兵
+05 and 35
+tagSkillClassName0535=以太牧师
+05 and 36
+tagSkillClassName0536=大魔导师
+05 and 37
+tagSkillClassName0537=血术士/血术女
+05 and 38
+tagSkillClassName0538=奥术师+狂战士
+~~~~~~~~
+Shaman
+~~~~~~~~
+06 and 07
+tagSkillClassName0607=裁决者
+06 and 08
+tagSkillClassName0608=祭仪师
+06 and 09
+tagSkillClassName0609=执政官
+06 and 10
+tagSkillClassName0610=野性猎手
+06 and 11
+tagSkillClassName0611=制服者
+06 and 12
+tagSkillClassName0612=雷霆领主
+06 and 13
+tagSkillClassName0613=灵能师
+06 and 14
+tagSkillClassName0614=风暴牧师
+06 and 15
+tagSkillClassName0615=兽王
+06 and 16
+tagSkillClassName0616=饮命者
+06 and 17
+tagSkillClassName0617=博学者
+06 and 18
+tagSkillClassName0618=预兆终结者
+06 and 19
+tagSkillClassName0619=受选者
+06 and 20
+tagSkillClassName0620=孤绝者
+06 and 21
+tagSkillClassName0621=傀儡师
+06 and 22
+tagSkillClassName0622=赫斯卡尔
+06 and 23
+tagSkillClassName0623=群主
+06 and 24
+tagSkillClassName0624=通灵媒介
+06 and 25
+tagSkillClassName0625=风暴之子
+06 and 26
+tagSkillClassName0626=蓝纹战士
+06 and 27
+tagSkillClassName0627=血吉普赛
+06 and 28
+tagSkillClassName0628=盖娅之眼
+06 and 29
+tagSkillClassName0629=风暴领主
+06 and 30
+tagSkillClassName0630=先知
+06 and 31
+tagSkillClassName0631=恶魔之子
+06 and 32
+tagSkillClassName0632=野性法师
+06 and 33
+tagSkillClassName0633=武僧
+06 and 34
+tagSkillClassName0634=血肉编织者
+06 and 35
+tagSkillClassName0635=隐修者
+06 and 36
+tagSkillClassName0636=侍僧
+06 and 37
+tagSkillClassName0637=血之呼唤者
+06 and 38
+tagSkillClassName0638=萨满+狂战士
+~~~~~~~~
+Inquisitor
+~~~~~~~~
+07 and 08
+tagSkillClassName0708=叛教者
+07 and 09
+tagSkillClassName0709=圣骑士
+07 and 10
+tagSkillClassName0710=审讯者
+07 and 11
+tagSkillClassName0711=符文祭司
+07 and 12
+tagSkillClassName0712=苦行隐士
+07 and 13
+tagSkillClassName0713=法术枪手
+07 and 14
+tagSkillClassName0714=裁决官
+07 and 15
+tagSkillClassName0715=放逐者
+07 and 16
+tagSkillClassName0716=重击者
+07 and 17
+tagSkillClassName0717=叛徒
+07 and 18
+tagSkillClassName0718=铅弹贩
+07 and 19
+tagSkillClassName0719=军统官
+07 and 20
+tagSkillClassName0720=猎魔人
+07 and 21
+tagSkillClassName0721=符文腐化者
+07 and 22
+tagSkillClassName0722=队长
+07 and 23
+tagSkillClassName0723=神射手
+07 and 24
+tagSkillClassName0724=背叛者
+07 and 25
+tagSkillClassName0725=法灾
+07 and 26
+tagSkillClassName0726=守护者
+07 and 27
+tagSkillClassName0727=亡命徒
+07 and 28
+tagSkillClassName0728=符文塑造者
+07 and 29
+tagSkillClassName0729=暴风使
+07 and 30
+tagSkillClassName0730=梦杀者
+07 and 31
+tagSkillClassName0731=暴君
+07 and 32
+tagSkillClassName0732=宝库守卫
+07 and 33
+tagSkillClassName0733=祭童
+07 and 34
+tagSkillClassName0734=异端者
+07 and 35
+tagSkillClassName0735=教宗
+07 and 36
+tagSkillClassName0736=驱魔者
+07 and 37
+tagSkillClassName0737=根除者
+07 and 38
+tagSkillClassName0738=审判官(07)+狂战士
+~~~~~~~~
+Necromancer
+~~~~~~~~
+08 and 09
+tagSkillClassName0809=压迫者
+08 and 10
+tagSkillClassName0810=地狱之子
+08 and 11
+tagSkillClassName0811=灵魂收割者
+08 and 12
+tagSkillClassName0812=灵魂绑定者
+08 and 13
+tagSkillClassName0813=亡灵法师（Necromage）
+08 and 14
+tagSkillClassName0814=恐惧骑士
+08 and 15
+tagSkillClassName0815=死亡领主
+08 and 16
+tagSkillClassName0816=恐怖
+08 and 17
+tagSkillClassName0817=放逐者
+08 and 18
+tagSkillClassName0818=瘟疫传播者
+08 and 19
+tagSkillClassName0819=亵渎者
+08 and 20
+tagSkillClassName0820=吸能者
+08 and 21
+tagSkillClassName0821=挽歌（Dirge）
+08 and 22
+tagSkillClassName0822=堕落哨兵
+08 and 23
+tagSkillClassName0823=幽魂猎手
+08 and 24
+tagSkillClassName0824=大亡灵法师
+08 and 25
+tagSkillClassName0825=死亡冠军
+08 and 26
+tagSkillClassName0826=先知
+08 and 27
+tagSkillClassName0827=死之刃
+08 and 28
+tagSkillClassName0828=恶魔学者
+08 and 29
+tagSkillClassName0829=风暴巫妖
+08 and 30
+tagSkillClassName0830=沉眠使者
+08 and 31
+tagSkillClassName0831=处刑人
+08 and 32
+tagSkillClassName0832=亡者缚灵者
+08 and 33
+tagSkillClassName0833=巫医（Tang-ki）
+08 and 34
+tagSkillClassName0834=怨灵之声
+08 and 35
+tagSkillClassName0835=死亡之声
+08 and 36
+tagSkillClassName0836=神秘术士（Theurgist）
+08 and 37
+tagSkillClassName0837=血之领主
+08 and 38
+tagSkillClassName0838=死灵法师(08)+狂战士
+
+~~~~~~~~
+Oathkeeper（誓约者）
+~~~~~~~~
+
+09 and 10
+tagSkillClassName0910=魔族杀手
+09 and 11
+tagSkillClassName0911=达伊夫拉特（Daivrat）
+09 and 12
+tagSkillClassName0912=苦行者
+09 and 13
+tagSkillClassName0913=奥术守护者
+09 and 14
+tagSkillClassName0914=百夫长
+09 and 15
+tagSkillClassName0915=恐惧守卫
+09 and 16
+tagSkillClassName0916=地狱骑士
+09 and 17
+tagSkillClassName0917=元素守卫
+09 and 18
+tagSkillClassName0918=拾荒者
+09 and 19
+tagSkillClassName0919=神圣守望者
+09 and 20
+tagSkillClassName0920=裂隙守卫
+09 and 21
+tagSkillClassName0921=亵渎者
+09 and 22
+tagSkillClassName0922=骑士（Chevalier）
+09 and 23
+tagSkillClassName0923=誓约猎手
+09 and 24
+tagSkillClassName0924=召唤者（Evocator）
+09 and 25
+tagSkillClassName0925=重装战士（Myrmidon）
+09 and 26
+tagSkillClassName0926=守护者
+09 and 27
+tagSkillClassName0927=游荡者（Errant）
+09 and 28
+tagSkillClassName0928=日之寻者
+09 and 29
+tagSkillClassName0929=云之寻者
+09 and 30
+tagSkillClassName0930=超升者（Ascendant）
+09 and 31
+tagSkillClassName0931=战斗圣殿骑士
+09 and 32
+tagSkillClassName0932=符文守卫
+09 and 33
+tagSkillClassName0933=僧兵（Sōhei）
+09 and 34
+tagSkillClassName0934=祭司长（Hierophant）
+09 and 35
+tagSkillClassName0935=大主教
+09 and 36
+tagSkillClassName0936=占卜者
+09 and 37
+tagSkillClassName0937=誓约使者（Oathbringer）
+09 and 38
+tagSkillClassName0938=誓约者 (09)+狂战士
+
+~~~~~~~~
+DemonHunter（恶魔猎手）
+~~~~~~~~
+
+10 and 11
+tagSkillClassName1011=秘法猎手
+10 and 12
+tagSkillClassName1012=圣光猎手
+10 and 13
+tagSkillClassName1013=魔能游侠
+10 and 14
+tagSkillClassName1014=攻城破坏者
+10 and 15
+tagSkillClassName1015=黑暗游侠
+10 and 16
+tagSkillClassName1016=复仇化身
+10 and 17
+tagSkillClassName1017=元素管理员
+10 and 18
+tagSkillClassName1018=枪手
+10 and 19
+tagSkillClassName1019=恶魔克星
+10 and 20
+tagSkillClassName1020=暗影行者
+10 and 21
+tagSkillClassName1021=幽灵寻路者
+10 and 22
+tagSkillClassName1022=游击兵
+10 and 23
+tagSkillClassName1023=战略家
+10 and 24
+tagSkillClassName1024=女妖
+10 and 25
+tagSkillClassName1025=剜心者（Eviscerator）
+10 and 26
+tagSkillClassName1026=荒野收割者
+10 and 27
+tagSkillClassName1027=忍者（Shinobi）
+10 and 28
+tagSkillClassName1028=焚化者
+10 and 29
+tagSkillClassName1029=天空追猎者
+10 and 30
+tagSkillClassName1030=幻灵（Phantasm）
+10 and 31
+tagSkillClassName1031=掠夺者
+10 and 32
+tagSkillClassName1032=恶魔缚灵者
+10 and 33
+tagSkillClassName1033=猎师（Ryōshi）
+10 and 34
+tagSkillClassName1034=傀儡师
+10 and 35
+tagSkillClassName1035=受祝福的屠戮者
+10 and 36
+tagSkillClassName1036=乌影潜行者
+10 and 37
+tagSkillClassName1037=血猎手
+10 and 38
+tagSkillClassName1038=恶魔猎手(10)+狂战士
+
+~~~~~~~~
+WitchDoctor（巫医）
+~~~~~~~~
+
+11 and 12
+tagSkillClassName1112=引导者
+11 and 13
+tagSkillClassName1113=灵魂束缚者
+11 and 14
+tagSkillClassName1114=药师
+11 and 15
+tagSkillClassName1115=复生者
+11 and 16
+tagSkillClassName1116=枯萎魔仆
+11 and 17
+tagSkillClassName1117=蛆语者
+11 and 18
+tagSkillClassName1118=火器巫咒师
+11 and 19
+tagSkillClassName1119=堕落炽天使
+11 and 20
+tagSkillClassName1120=位面行者
+11 and 21
+tagSkillClassName1121=邪恶吞噬者
+11 and 22
+tagSkillClassName1122=灵魂守卫
+11 and 23
+tagSkillClassName1123=沼泽潜猎者
+11 and 24
+tagSkillClassName1124=精华饮者
+11 and 25
+tagSkillClassName1125=酋长
+11 and 26
+tagSkillClassName1126=瘟疫领主
+11 and 27
+tagSkillClassName1127=瘴气大师
+11 and 28
+tagSkillClassName1128=深渊之语者
+11 and 29
+tagSkillClassName1129=风暴巫咒师
+11 and 30
+tagSkillClassName1130=白骨之声
+11 and 31
+tagSkillClassName1131=部落祭师
+11 and 32
+tagSkillClassName1132=奥比亚（Obeah）
+11 and 33
+tagSkillClassName1133=灵魂扭曲者
+11 and 34
+tagSkillClassName1134=亡灵学者
+11 and 35
+tagSkillClassName1135=乡间女巫
+11 and 36
+tagSkillClassName1136=咒织者
+11 and 37
+tagSkillClassName1137=血巫
+11 and 38
+tagSkillClassName1138=巫医(11)+狂战士
+
+~~~~~~~~
+Monk
+~~~~~~~~
+12 and 13
+tagSkillClassName1213=弑法者
+12 and 14
+tagSkillClassName1214=模范者
+12 and 15
+tagSkillClassName1215=死亡祭司
+12 and 16
+tagSkillClassName1216=亵渎使徒
+12 and 17
+tagSkillClassName1217=棱晶哨兵
+12 and 18
+tagSkillClassName1218=典范
+12 and 19
+tagSkillClassName1219=仲裁者
+12 and 20
+tagSkillClassName1220=扭曲祭司
+12 and 21
+tagSkillClassName1221=折磨者
+12 and 22
+tagSkillClassName1222=维和者
+12 and 23
+tagSkillClassName1223=女武神
+12 and 24
+tagSkillClassName1224=灵体
+12 and 25
+tagSkillClassName1225=斗士
+12 and 26
+tagSkillClassName1226=长老
+12 and 27
+tagSkillClassName1227=武术家
+12 and 28
+tagSkillClassName1228=控火师
+12 and 29
+tagSkillClassName1229=控风师
+12 and 30
+tagSkillClassName1230=催眠师
+12 and 31
+tagSkillClassName1231=斗殴者
+12 and 32
+tagSkillClassName1232=奥术牧师
+12 and 33
+tagSkillClassName1233=武道家（Budoka）
+12 and 34
+tagSkillClassName1234=拆解者
+12 and 35
+tagSkillClassName1235=神殿守护者
+12 and 36
+tagSkillClassName1236=幻术武宗
+12 and 37
+tagSkillClassName1237=先驱者
+12 and 38
+tagSkillClassName1238=僧侣(12)+狂战士
+
+~~~~~~~~
+Wizard（巫师）
+~~~~~~~~
+
+13 and 14
+tagSkillClassName1314=炽天使
+13 and 15
+tagSkillClassName1315=黑暗法师
+13 and 16
+tagSkillClassName1316=厄运施法者
+13 and 17
+tagSkillClassName1317=魔法大师
+13 and 18
+tagSkillClassName1318=咒术师
+13 and 19
+tagSkillClassName1319=霸主
+13 and 20
+tagSkillClassName1320=裂隙法师
+13 and 21
+tagSkillClassName1321=虚空塑形者
+13 and 22
+tagSkillClassName1322=宰相
+13 and 23
+tagSkillClassName1323=奇美拉
+13 and 24
+tagSkillClassName1324=幽灵法师
+13 and 25
+tagSkillClassName1325=奥术掠夺者
+13 and 26
+tagSkillClassName1326=白魔法师
+13 and 27
+tagSkillClassName1327=法术盗贼
+13 and 28
+tagSkillClassName1328=焚化者
+13 and 29
+tagSkillClassName1329=御风术士
+13 and 30
+tagSkillClassName1330=先知
+13 and 31
+tagSkillClassName1331=野性法师
+13 and 32
+tagSkillClassName1332=魅惑师（Mesmer）
+13 and 33
+tagSkillClassName1333=巫人（Wu-Jen）
+13 and 34
+tagSkillClassName1334=湮灭者
+13 and 35
+tagSkillClassName1335=神圣巫师
+13 and 36
+tagSkillClassName1336=圣礼者
+13 and 37
+tagSkillClassName1337=血法师
+13 and 38
+tagSkillClassName1338=巫师(13)+狂战士
+
+~~~~~~~~
+Crusader（十字军）
+~~~~~~~~
+
+14 and 15
+tagSkillClassName1415=黑暗牧师
+14 and 16
+tagSkillClassName1416=受诅骑士
+14 and 17
+tagSkillClassName1417=元素守护者
+14 and 18
+tagSkillClassName1418=征服者
+14 and 19
+tagSkillClassName1419=秩序执行者
+14 and 20
+tagSkillClassName1420=幽灵
+14 and 21
+tagSkillClassName1421=大屠徒（Massacrist）
+14 and 22
+tagSkillClassName1422=先锋
+14 and 23
+tagSkillClassName1423=正义之箭
+14 and 24
+tagSkillClassName1424=伊夫利特（Efreet）
+14 and 25
+tagSkillClassName1425=壮汉（Bruiser）
+14 and 26
+tagSkillClassName1426=原初守卫
+14 and 27
+tagSkillClassName1427=掠夺者
+14 and 28
+tagSkillClassName1428=石行者
+14 and 29
+tagSkillClassName1429=风暴骑士
+14 and 30
+tagSkillClassName1430=心灵粉碎者
+14 and 31
+tagSkillClassName1431=[ms]酋长[fs]女武神
+14 and 32
+tagSkillClassName1432=秘奥龙骑兵
+14 and 33
+tagSkillClassName1433=修验者（Shugenja）
+14 and 34
+tagSkillClassName1434=堕落者
+14 and 35
+tagSkillClassName1435=圣化者
+14 and 36
+tagSkillClassName1436=信仰织者
+14 and 37
+tagSkillClassName1437=亵渎者
+14 and 38
+tagSkillClassName1438=十字军(14)+狂战士
+
+~~~~~~~~
+D3Necro（D3 死灵）
+~~~~~~~~
+
+15 and 16
+tagSkillClassName1516=血腥恶魔
+15 and 17
+tagSkillClassName1517=死亡之风
+15 and 18
+tagSkillClassName1518=死亡承办者
+15 and 19
+tagSkillClassName1519=咒刃
+15 and 20
+tagSkillClassName1520=黯影（Tenebrae）
+15 and 21
+tagSkillClassName1521=憎恶
+15 and 22
+tagSkillClassName1522=不朽守卫
+15 and 23
+tagSkillClassName1523=不安游侠
+15 and 24
+tagSkillClassName1524=灵魂编织者
+15 and 25
+tagSkillClassName1525=堕落刽子手
+15 and 26
+tagSkillClassName1526=亵渎者
+15 and 27
+tagSkillClassName1527=恐惧海盗
+15 and 28
+tagSkillClassName1528=黑炎教团
+15 and 29
+tagSkillClassName1529=恐惧术士
+15 and 30
+tagSkillClassName1530=冥视者
+15 and 31
+tagSkillClassName1531=亡魂
+15 and 32
+tagSkillClassName1532=白骨施法者
+15 and 33
+tagSkillClassName1533=魔法使（Maho-Tsukai）
+15 and 34
+tagSkillClassName1534=血肉工匠
+15 and 35
+tagSkillClassName1535=地穴守卫
+15 and 36
+tagSkillClassName1536=幽灵编织者
+15 and 37
+tagSkillClassName1537=[ms]黑暗皇帝[fs]黑暗女皇
+15 and 38
+tagSkillClassName1538=D3死灵(15)+狂战士
+
+~~~~~~~~
+Terror Knight（恐惧骑士）
+~~~~~~~~
+
+16 and 17
+tagSkillClassName1617=恐惧法师
+16 and 18
+tagSkillClassName1618=[ms]地狱猎手[fs]地狱女猎手
+16 and 19
+tagSkillClassName1619=恐惧战舰（Dreadnaught）
+16 and 20
+tagSkillClassName1620=荒芜者
+16 and 21
+tagSkillClassName1621=虚空骑士
+16 and 22
+tagSkillClassName1622=血卫
+16 and 23
+tagSkillClassName1623=敌猎者
+16 and 24
+tagSkillClassName1624=幽行者
+16 and 25
+tagSkillClassName1625=战争大师
+16 and 26
+tagSkillClassName1626=浪人（Ronin）
+16 and 27
+tagSkillClassName1627=恶召者（Malconvoker）
+16 and 28
+tagSkillClassName1628=火焰狂徒
+16 and 29
+tagSkillClassName1629=风暴锻造者
+16 and 30
+tagSkillClassName1630=梦魇塑造者
+16 and 31
+tagSkillClassName1631=歼灭者
+16 and 32
+tagSkillClassName1632=征服者（Conquistador）
+16 and 33
+tagSkillClassName1633=鬼（Oni）
+16 and 34
+tagSkillClassName1634=恐惧使者
+16 and 35
+tagSkillClassName1635=恐惧先知
+16 and 36
+tagSkillClassName1636=恐惧使徒
+16 and 37
+tagSkillClassName1637=野蛮骑士
+16 and 38
+tagSkillClassName1638=恐惧骑士+狂战士
+~~~~~~~~
+Evocatus
+~~~~~~~~
+17 and 18
+tagSkillClassName1718=Gunmage = 枪法师
+17 and 19
+tagSkillClassName1719=Archmage = 大法师
+17 and 20
+tagSkillClassName1720=Subverter = 颠覆者
+17 and 21
+tagSkillClassName1721=Sinner = 罪者
+17 and 22
+tagSkillClassName1722=Elemental Scion = 元素继承者
+17 and 23
+tagSkillClassName1723=Arcane Archer = 奥术弓手
+17 and 24
+tagSkillClassName1724=Theurge = 术士
+17 and 25
+tagSkillClassName1725=Spellsword = 魔剑士
+17 and 26
+tagSkillClassName1726=Wild Magus = 狂野法师
+17 and 27
+tagSkillClassName1727=Arcane Traitor = 奥术叛徒
+17 and 28
+tagSkillClassName1728=Earthblessed = 大地祝福者
+17 and 29
+tagSkillClassName1729=Thunder Guide = 雷霆引导者
+17 and 30
+tagSkillClassName1730=Metamind = 元心者
+17 and 31
+tagSkillClassName1731=Mystic Fighter = 神秘战士
+17 and 32
+tagSkillClassName1732=Primal Magus = 原始法师
+17 and 33
+tagSkillClassName1733=Onmyouji = 阴阳师
+17 and 34
+tagSkillClassName1734=Soul Shrieker = 灵魂尖啸者
+17 and 35
+tagSkillClassName1735=Sacralyte = 圣祭者
+17 and 36
+tagSkillClassName1736=Phantasmal Mage = 幻影法师
+17 and 37
+tagSkillClassName1737=Cursed Invoker = 诅咒祈祷者
+17 and 38
+tagSkillClassName1738=Elementalist+Berserker = 元素师+狂战士
+~~~~~~~~
+Outrider
+~~~~~~~~
+18 and 19
+tagSkillClassName1819=Stalker = 潜行者
+18 and 20
+tagSkillClassName1820=Disruptor = 扰乱者
+18 and 21
+tagSkillClassName1821=Vagabond = 流浪者
+18 and 22
+tagSkillClassName1822=Deadeye = 神射手
+18 and 23
+tagSkillClassName1823=Deepwood Sniper = 深林狙击手
+18 and 24
+tagSkillClassName1824=Soul Sniper = 灵魂狙击手
+18 and 25
+tagSkillClassName1825=Bloodbound = 血誓者
+18 and 26
+tagSkillClassName1826=Houndsman = 猎犬师
+18 and 27
+tagSkillClassName1827=Fortune's Friend = 幸运之友
+18 and 28
+tagSkillClassName1828=Primordial Agent = 原初特工
+18 and 29
+tagSkillClassName1829=Windrider = 风行者
+18 and 30
+tagSkillClassName1830=Fatespinner = 命运纺者
+18 and 31
+tagSkillClassName1831=Outlander = 异乡者
+18 and 32
+tagSkillClassName1832=Mystic Vanguard = 神秘先锋
+18 and 33
+tagSkillClassName1833=Cike = 刺客
+18 and 34
+tagSkillClassName1834=Dread Sniper = 恐惧狙击手
+18 and 35
+tagSkillClassName1835=Dissenter = 异议者
+18 and 36
+tagSkillClassName1836=Mirage = 幻影
+18 and 37
+tagSkillClassName1837=Renegade = 叛徒
+18 and 38
+tagSkillClassName1838=Outrider+Berserker = 游骑兵+狂战士
+~~~~~~~~
+Champion
+~~~~~~~~
+19 and 20
+tagSkillClassName1920=Skirmisher = 散兵
+19 and 21
+tagSkillClassName1921=Overlord = 霸主
+19 and 22
+tagSkillClassName1922=Cataphract = 重骑兵
+19 and 23
+tagSkillClassName1923=Animal Lord = 兽王
+19 and 24
+tagSkillClassName1924=Ironsoul Champion = 铁魂冠军
+19 and 25
+tagSkillClassName1925=Cavalier = 骑士
+19 and 26
+tagSkillClassName1926=Apostle of Peace = 和平使徒
+19 and 27
+tagSkillClassName1927=Janissary = 宫廷卫士
+19 and 28
+tagSkillClassName1928=Everburning = 永燃者
+19 and 29
+tagSkillClassName1929=Sturmkrieger = 风暴战士
+19 and 30
+tagSkillClassName1930=Martyr = 殉道者
+19 and 31
+tagSkillClassName1931=Battle Herald = 战斗使者
+19 and 32
+tagSkillClassName1932=Defender of the Nine = 九圣守护者
+19 and 33
+tagSkillClassName1933=Youxia = 游侠侠客
+19 and 34
+tagSkillClassName1934=Chaos Knight = 混沌骑士
+19 and 35
+tagSkillClassName1935=Knight-Enchanter = 骑士附魔师
+19 and 36
+tagSkillClassName1936=Pious Fighter = 虔信战士
+19 and 37
+tagSkillClassName1937=Twilight Knight = 暮光骑士
+19 and 38
+tagSkillClassName1938=Champion+Berserker = 战狂
+~~~~~~~~
+Riftstalker
+~~~~~~~~
+20 and 21
+tagSkillClassName2021=Pursuer = 追击者
+20 and 22
+tagSkillClassName2022=Doomguard = 末日守卫
+20 and 23
+tagSkillClassName2023=Abolisher = 废止者
+20 and 24
+tagSkillClassName2024=Umbrawalker = 暗影行者
+20 and 25
+tagSkillClassName2025=Chirurgeon = 外科医师
+20 and 26
+tagSkillClassName2026=Tamer of Beasts = 驯兽师
+20 and 27
+tagSkillClassName2027=Ethereal Butcher = 虚灵屠夫
+20 and 28
+tagSkillClassName2028=Planescorcher = 平面灼烧者
+20 and 29
+tagSkillClassName2029=Realmwarper = 领域扭曲者
+20 and 30
+tagSkillClassName2030=Mindspy = 心灵间谍
+20 and 31
+tagSkillClassName2031=Rift Titan = 裂隙泰坦
+20 and 32
+tagSkillClassName2032=Worldwalker = 世界行者
+20 and 33
+tagSkillClassName2033=Etheric Traveler = 以太旅者
+20 and 34
+tagSkillClassName2034=Dark Stalker = 黑暗潜行者
+20 and 35
+tagSkillClassName2035=Planeswalker = 平面行者
+20 and 36
+tagSkillClassName2036=Arcane Pugilist = 奥术拳师
+20 and 37
+tagSkillClassName2037=Netherblade = 虚空刃
+20 and 38
+tagSkillClassName2038=Riftstalker+Berserker = 裂隙潜行者+狂战士
+~~~~~~~~
+Necrotic
+~~~~~~~~
+21 and 22
+tagSkillClassName2122=Black Guard = 黑卫
+21 and 23
+tagSkillClassName2123=Mortal Hunter = 死亡猎手
+21 and 24
+tagSkillClassName2124=Pale Master = 苍白大师
+21 and 25
+tagSkillClassName2125=Corruptor = 堕落者
+21 and 26
+tagSkillClassName2126=Blighter = 毁灭者
+21 and 27
+tagSkillClassName2127=Wight = 幽灵战士
+21 and 28
+tagSkillClassName2128=Scourge = 灾厄者
+21 and 29
+tagSkillClassName2129=Primevil = 原初邪灵
+21 and 30
+tagSkillClassName2130=Nightmare = 梦魇
+21 and 31
+tagSkillClassName2131=Predator = 捕食者
+21 and 32
+tagSkillClassName2132=Inyanga = 月之使者
+21 and 33
+tagSkillClassName2133=Jiang-shi = 魃
+21 and 34
+tagSkillClassName2134=Hellcaller = 地狱呼唤者
+21 and 35
+tagSkillClassName2135=Bloodvine = 血蔓
+21 and 36
+tagSkillClassName2136=Bloodcharmer = 血魅师
+21 and 37
+tagSkillClassName2137=Dissolver = 溶解者
+21 and 38
+tagSkillClassName2138=Necrotic+Berserker = 死灵+狂战士
+~~~~~~~~
+Defense
+~~~~~~~~
+22 and 23
+tagSkillClassName2223=TQ Warden = 守护者
+22 and 24
+tagSkillClassName2224=TQ Spellbinder = 咒术师
+22 and 25
+tagSkillClassName2225=TQ Conqueror = 征服者
+22 and 26
+tagSkillClassName2226=TQ Guardian = 守卫
+22 and 27
+tagSkillClassName2227=TQ Corsair = 海盗
+22 and 28
+tagSkillClassName2228=TQ Juggernaut = 重装巨人
+22 and 29
+tagSkillClassName2229=TQ Paladin = 圣骑士
+22 and 30
+tagSkillClassName2230=TQ Templar = 圣殿骑士
+22 and 31
+tagSkillClassName2231=Hoplite = 重步兵
+22 and 32
+tagSkillClassName2232=TQ Runesmith = 符文工匠
+22 and 33
+tagSkillClassName2233=TQ Monk = 武僧
+22 and 34
+tagSkillClassName2234=Coagulator = 凝结者
+22 and 35
+tagSkillClassName2235=Defender of Faith = 信仰守护者
+22 and 36
+tagSkillClassName2236=Stonefist = 石拳
+22 and 37
+tagSkillClassName2237=Breacher = 突击者
+22 and 38
+tagSkillClassName2238=Defense+Berserker = 防御+狂战士
+~~~~~~~~
+Hunting
+~~~~~~~~
+23 and 24
+tagSkillClassName2324=TQ Bone Charmer = 骨魅者
+23 and 25
+tagSkillClassName2325=TQ Slayer = 杀戮者
+23 and 26
+tagSkillClassName2326=TQ Ranger = 游侠
+23 and 27
+tagSkillClassName2327=TQ Brigand = 强盗
+23 and 28
+tagSkillClassName2328=TQ Avenger = 复仇者
+23 and 29
+tagSkillClassName2329=TQ Sage = 圣贤
+23 and 30
+tagSkillClassName2330=TQ Haruspex = 占卜师
+23 and 31
+tagSkillClassName2331=Highlander = 高地人
+23 and 32
+tagSkillClassName2332=TQ Dragon Hunter = 龙猎者
+23 and 33
+tagSkillClassName2333=TQ Pilgrim = 朝圣者
+23 and 34
+tagSkillClassName2334=Rot Seeker = 腐败寻者
+23 and 35
+tagSkillClassName2335=Pagan Hunter = 异教猎手
+23 and 36
+tagSkillClassName2336=Herbalist = 草药师
+23 and 37
+tagSkillClassName2337=Ruthless Tracker = 无情追踪者
+23 and 38
+tagSkillClassName2338=Hunting+Berserker = 狩猎+狂战士
+~~~~~~~~
+Spirit
+~~~~~~~~
+24 and 25
+tagSkillClassName2425=TQ Spellbreaker = 破咒者
+24 and 26
+tagSkillClassName2426=TQ Soothsayer = 先知
+24 and 27
+tagSkillClassName2427=TQ Warlock = 术士
+24 and 28
+tagSkillClassName2428=TQ Conjurer = 召唤师
+24 and 29
+tagSkillClassName2429=TQ Oracle = 神谕者
+24 and 30
+tagSkillClassName2430=TQ Diviner = 占卜师
+24 and 31
+tagSkillClassName2431=Harrower = 苦难使者
+24 and 32
+tagSkillClassName2432=TQ Shaman = 萨满
+24 and 33
+tagSkillClassName2433=TQ Spiritualist = 精神导师
+24 and 34
+tagSkillClassName2434=Soulbringer = 灵魂使者
+24 and 35
+tagSkillClassName2435=Veilpiercer = 面纱穿透者
+24 and 36
+tagSkillClassName2436=Bone Puppeteer = 骨偶操纵者
+24 and 37
+tagSkillClassName2437=Apparition = 幽灵
+24 and 38
+tagSkillClassName2438=Spirit+Berserker = 精神+狂战士
+~~~~~~~~
+Warfare
+~~~~~~~~
+25 and 26
+tagSkillClassName2526=TQ Champion = 冠军
+25 and 27
+tagSkillClassName2527=TQ Assassin = 刺客
+25 and 28
+tagSkillClassName2528=TQ Battlemage = 战斗法师
+25 and 29
+tagSkillClassName2529=TQ Thane = 贵族领主
+25 and 30
+tagSkillClassName2530=TQ Harbinger = 先驱者
+25 and 31
+tagSkillClassName2531=Furibund = 狂怒者
+25 and 32
+tagSkillClassName2532=TQ Berserker = 狂战士
+25 and 33
+tagSkillClassName2533=TQ Daoist = 道士
+25 and 34
+tagSkillClassName2534=Warbringer = 战争使者
+25 and 35
+tagSkillClassName2535=Castigator = 惩戒者
+25 and 36
+tagSkillClassName2536=Phantom = 幽灵战士
+25 and 37
+tagSkillClassName2537=Formation Breaker = 阵型破坏者
+25 and 38
+tagSkillClassName2538=Warfare+Berserker = 战争+狂战士
+~~~~~~~~
+Nature
+~~~~~~~~
+26 and 27
+tagSkillClassName2627=TQ Illusionist = 幻术师
+26 and 28
+tagSkillClassName2628=TQ Summoner = 召唤师
+26 and 29
+tagSkillClassName2629=TQ Druid = 德鲁伊
+26 and 30
+tagSkillClassName2630=TQ Ritualist = 仪式师
+26 and 31
+tagSkillClassName2631=Forest Titan = 森林泰坦
+26 and 32
+tagSkillClassName2632=TQ Skinchanger = 变形者
+26 and 33
+tagSkillClassName2633=TQ Hermit = 隐士
+26 and 34
+tagSkillClassName2634=Plaguebringer = 瘟疫使者
+26 and 35
+tagSkillClassName2635=Lifewarden = 生命守护者
+26 and 36
+tagSkillClassName2636=Naturalist = 自然学者
+26 and 37
+tagSkillClassName2637=Witherer = 枯萎者
+26 and 38
+tagSkillClassName2638=Nature+Berserker = 自然+狂战士
+~~~~~~~~
+Rogue
+~~~~~~~~
+27 and 28
+tagSkillClassName2728=TQ Magician = 魔术师
+27 and 29
+tagSkillClassName2729=TQ Sorcerer = 巫师
+27 and 30
+tagSkillClassName2730=TQ Dreamkiller = 梦魇杀手
+27 and 31
+tagSkillClassName2731=Nomad = 游牧者
+27 and 32
+tagSkillClassName2732=TQ Trickster = 骗术师
+27 and 33
+tagSkillClassName2733=TQ Disruptor = 扰乱者
+27 and 34
+tagSkillClassName2734=Bone Assassin = 骨刺刺客
+27 and 35
+tagSkillClassName2735=Shadowcleric = 暗影牧师
+27 and 36
+tagSkillClassName2736=Bard = 吟游诗人
+27 and 37
+tagSkillClassName2737=Despoiler = 掠夺者
+27 and 38
+tagSkillClassName2738=Rogue+Berserker = 流氓+狂战士
+~~~~~~~~
+Earth
+~~~~~~~~
+28 and 29
+tagSkillClassName2829=TQ Elementalist = 元素师
+28 and 30
+tagSkillClassName2830=TQ Evoker = 召唤师
+28 and 31
+tagSkillClassName2831=Inferno Titan = 地狱泰坦
+28 and 32
+tagSkillClassName2832=TQ Stonespeaker = 石语者
+28 and 33
+tagSkillClassName2833=TQ Wu = 武术大师
+28 and 34
+tagSkillClassName2834=Scorcher = 焚烧者
+28 and 35
+tagSkillClassName2835=Emberpriest = 余烬祭司
+28 and 36
+tagSkillClassName2836=Gaiamancer = 大地法师
+28 and 37
+tagSkillClassName2837=Dominator = 征服者
+28 and 38
+tagSkillClassName2838=Earth+Berserker = 大地+狂战士
+
+~~~~~~~~
+Storm
+~~~~~~~~
+29 and 30
+tagSkillClassName2930=TQ Prophet = 先知
+29 and 31
+tagSkillClassName2931=Storm Titan = 风暴泰坦
+29 and 32
+tagSkillClassName2932=TQ Thunderer = 雷鸣者
+29 and 33
+tagSkillClassName2933=TQ Channeler = 通灵者
+29 and 34
+tagSkillClassName2934=Temestarii = 风暴使者
+29 and 35
+tagSkillClassName2935=Tempestrian = 暴风者
+29 and 36
+tagSkillClassName2936=Harmonizer = 调和者
+29 and 37
+tagSkillClassName2937=Dark Vortex = 暗黑漩涡
+29 and 38
+tagSkillClassName2938=Storm+Berserker = 风暴+狂战士
+~~~~~~~~
+Dream
+~~~~~~~~
+30 and 31
+tagSkillClassName3031=Dreamcatcher = 捕梦者
+30 and 32
+tagSkillClassName3032=TQ Seidr Worker = 西尔德工匠
+30 and 33
+tagSkillClassName3033=TQ Contemplator = 冥想者
+30 and 34
+tagSkillClassName3034=Elder Seer = 长老先知
+30 and 35
+tagSkillClassName3035=Dreamtender = 梦境守护者
+30 and 36
+tagSkillClassName3036=Mindshaker = 心灵震撼者
+30 and 37
+tagSkillClassName3037=Dreameater = 梦吞者
+30 and 38
+tagSkillClassName3038=Dream+Berserker = 梦境+狂战士
+~~~~~~~~
+Barbarian
+~~~~~~~~
+31 and 32
+tagSkillClassName3132=Glyphlord = 符文领主
+31 and 33
+tagSkillClassName3133=Banjin = 班津
+31 and 34
+tagSkillClassName3134=Soul Reaver = 灵魂吞噬者
+31 and 35
+tagSkillClassName3135=Bloodsaint = 血祭圣徒
+31 and 36
+tagSkillClassName3136=Bloodrager = 血怒者
+31 and 37
+tagSkillClassName3137=Devastator = 破坏者
+31 and 38
+tagSkillClassName3138=Barbarian+Berserker = 野蛮人+狂战士
+~~~~~~~~
+Runes
+~~~~~~~~
+32 and 33
+tagSkillClassName3233=TQ Esoterist = 秘法师
+32 and 34
+tagSkillClassName3234=Acheron = 阿刻隆
+32 and 35
+tagSkillClassName3235=Rune Chaplain = 符文牧师
+32 and 36
+tagSkillClassName3236=Spellshaper = 咒术塑形者
+32 and 37
+tagSkillClassName3237=Hexcarver = 诅咒雕刻者
+32 and 38
+tagSkillClassName3238=Runes+Berserker = 符文+狂战士
+~~~~~~~~
+Neidan
+~~~~~~~~
+33 and 34
+tagSkillClassName3334=Blightsinger = 祸歌者
+33 and 35
+tagSkillClassName3335=Taoist = 道士
+33 and 36
+tagSkillClassName3336=Luminant = 光辉者
+33 and 37
+tagSkillClassName3337=Bloodmixer = 血液混合者
+33 and 38
+tagSkillClassName3338=Neidan+Berserker = 内丹+狂战士
+~~~~~~~~
+Reanimator
+~~~~~~~~
+34 and 35
+tagSkillClassName3435=Soul Reaper = 灵魂收割者
+34 and 36
+tagSkillClassName3436=Omenologist = 预兆学者
+34 and 37
+tagSkillClassName3437=Manipulator = 操控者
+34 and 38
+tagSkillClassName3438=Reanimator+Berserker = 复活者+狂战士
+~~~~~~~~
+Priest
+~~~~~~~~
+35 and 36
+tagSkillClassName3536=Envoy = 使者
+35 and 37
+tagSkillClassName3537=Transgressor = 违背者
+35 and 38
+tagSkillClassName3538=Priest+Berserker = 牧师+狂战士
+~~~~~~~~
+Illusionist
+~~~~~~~~
+36 and 37
+tagSkillClassName3637=Intimidator = 恐吓者
+36 and 38
+tagSkillClassName3638=Illusionist+Berserker = 幻术师+狂战士
+~~~~~~~~
+Blood Knight
+~~~~~~~~
+37 and 38
+tagSkillClassName3738=Bloodshaper = 血影骑士

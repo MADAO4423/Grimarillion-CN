@@ -1,0 +1,2126 @@
+tagHaedrigDesc=Haedrig可以将双手武器转换为拥有相同属性的一手武器。这些武器仅限圣教军职业使用，其被动技能名为“坚守阵地”。他还可以制作宝石、外观道具以及来自暗黑破坏神3的卡奈遗物。
+
+tagCraftRandomD3=暗黑破坏神3物品
+tagCraftRandomD3Desc=铁匠结合被遗忘灵魂的力量创造出暗黑破坏神3独特物品。50级以下的角色将制作史诗物品；50级以上将获得传奇物品或强化史诗物品。82级及以上可获得神话史诗或传奇物品。（建议至少30级以防止出现BUG）
+
+tagCraftTabMiscA=饰品、消耗品与符文之语
+
+tagRuneEffects=^c符文效果
+tagRuneEffectsDesc=某些符文之语可以激活符文效果，修改并强化职业技能，为你提供增益、对敌人施加减益或释放攻击法术。符文效果需要消耗一个技能点并配合特定符文之语才能正常运作。{^n}{^n}{^y}符文之语：^w大多数Boss有20%几率掉落符文。更强的Boss保证掉落符文。可制作的所有符文之语可通过访问位于魔鬼十字路口左侧入口的新NPC ^b符文工匠达玛拉^w 查看。{^n}{^n}{^y}强化：^w为了在更高难度保持符文之语效率，一些符文之语可以升级，解锁其符文效果的强化版本。强化符文效果可能造成更高伤害并增加抗性降低。{^n}{^n}{^y}技能点重置：^w当你想重新分配技能点时，请注意符文效果被视为修饰符，因此你需要先移除其上的技能点，然后再重新分配到原先受符文效果影响的基础技能上。
+
+tagBloodKnightNoteName=血色的礼物
+tagBloodKnightNoteTitle=欢迎血骑士！
+tagBloodKnightNoteText=血骑士已经到来。感谢游玩！请享受你的外观套装，并以华丽的方式开始你的血腥旅程！
+tagBloodKnightNoteHeader=血骑士降临
+
+tagRarePrefixD301={^G}灵魂束缚
+tagRarePrefixD302={^G}地狱之火
+tagRarePrefixD303={^G}代言者的
+tagRarePrefixD304={^G}探路者的
+tagRarePrefixD305={^G}回馈的
+tagRarePrefixD306={^G}指挥官的
+tagRarePrefixD307={^G}骨笼
+tagRarePrefixD308={^G}震撼
+tagRarePrefixD309={^G}生存者的
+tagRarePrefixD310={^G}振奋
+tagRarePrefixD311={^G}守墓者的
+tagRarePrefixD312={^G}收割者的
+tagRarePrefixD313={^G}堕钟
+tagRarePrefixD314=???
+tagRarePrefixD315={^G}天怒
+tagRarePrefixD316=xx
+tagRarePrefixD317={^G}瘟疫大师的
+tagRarePrefixD318={^G}冰霜光束
+tagRarePrefixD319={^G}守墓者的
+tagRarePrefixD320={^G}武器大师的
+tagRarePrefixD321={^G}破世者的
+tagRarePrefixD322={^G}祝福的
+tagRarePrefixD323={^G}复制的
+tagRarePrefixD324={^G}爆破手的
+tagRarePrefixD325={^G}惩罚者的
+
+tagRareSuffixD301={^G}风行者之
+tagRareSuffixD302={^G}死神之
+tagRareSuffixD303=?
+tagRareSuffixD304={^G}破碎之地之
+tagRareSuffixD305={^G}断骨者之
+tagRareSuffixD306={^G}穿骨者之
+tagRareSuffixD307={^G}剥皮者之
+tagRareSuffixD308={^G}正义之
+tagRareSuffixD309={^G}诅咒之
+tagRareSuffixD310={^G}复生者之
+tagRareSuffixD311={^G}锁链之影之
+tagRareSuffixD312={^G}黑暗之
+tagRareSuffixD313={^G}末世之
+tagRareSuffixD314={^G}元素克隆之
+tagRareSuffixD315={^G}灼热符文之
+tagRareSuffixD316={^G}仇恨之
+tagRareSuffixD317={^G}内怒之
+tagRareSuffixD318={^G}寒意之
+tagRareSuffixD319={^G}饥火之
+tagRareSuffixD320={^G}狩猎之
+tagRareSuffixD321={^G}灵魂之
+tagRareSuffixD322={^G}盾卫之
+tagRareSuffixD323={^G}寒刃之
+tagRareSuffixD324={^G}被诅收割者之
+tagRareSuffixD325={^G}野兽之
+tagRareSuffixD326={^G}统帅之
+tagRareSuffixD327={^G}轮转之
+
+
+
+tagPotionD301=无底生命回复药水
+tagPotionD301Skill=回复
+tagPotionD301SkillDesc=为你恢复生命并在数秒内提供额外生命回复效果。
+
+tagCraftMaterialD301=被遗忘的灵魂
+tagCraftMaterialD301Desc=魔鬼十字路口的铁匠用来制作暗黑破坏神3物品的材料。
+
+tagCraftMaterialD302=血之碎片
+tagCraftMaterialD302Desc=魔鬼十字路口的铁匠用来制作血骑士物品的材料。建议仅75级及以上角色使用。
+
+tag1hCrossbowD301={^I}黎明
+tag1hCrossbowD301Desc=当晨光洒下，你感到心灵平静，因为你知道复仇很快将属于你。
+tag1hCrossbowD302={^I}莉安娜之翼
+tag1hCrossbowD302Desc=这张弓上附有天使莉安娜的翅膀，从天而降，赋予使用者强大力量，但也带来代价。
+tag1hCrossbowD303={^B}灾火施法者
+tag1hCrossbowD303Desc="以火攻火，这是我的常言。" - 恶魔猎手雷卡尔
+tag1hCrossbowD304={^B}瓦拉的遗赠
+tag1hCrossbowD304Desc=瓦拉曾是最致命的恶魔猎手之一，直到她突然消失。有人称她仍在他乡战斗。她的尸体从未被找到，但她留下了珍贵之物：这把弓。
+tag1hCrossbowD305={^B}灾难
+tag1hCrossbowD305Desc=纤细精巧，这把武器与传统粗犷笨重的弩截然相反，显然是名匠精心制作的结果。
+tag1hCrossbowD306={^B}神射手
+tag1hCrossbowD306Desc=擅长将亡者送回地底。
+
+tag1hGunD301={^I}远射
+tag1hGunD301Desc=许多英雄曾在各个年代使用此枪，其传奇故事流传四方。
+
+tag2hGunD301=肉扭冰霜扩散器
+
+tag2hCrossbowD301=(S) {^I}娜塔莉娅的杀手
+tag2hCrossbowD302={^B}恶魔机关
+tag2hCrossbowD303={^I}艾特拉尤
+tag2hCrossbowD304={^I}杨氏弩
+tag2hCrossbowD304Desc="恐怖的伊迪丝的伙伴杨，以机智、多重射击技巧和对失败的冰冷蔑视闻名。"
+tag2hCrossbowD305={^I}克莱德射
+tag2hCrossbowD306={^B}奥德赛之终
+tag2hCrossbowD307={^I}毒壳
+tag2hCrossbowD308={^I}乌斯康
+tag2hCrossbowD308Desc=由神圣的安加扎树根雕刻而成。
+tag2hCrossbowD309={^I}星脊
+tag2hCrossbowD309Desc=闪烁的金属机身隐藏着一种奇异能量源，可为每发箭注入奥术力量。
+tag2hCrossbowD310={^B}布里扎-多凯农
+tag2hCrossbowD310Desc=曾被认为过大而笨重无法手持，但高级战士可轻松驾驭布里扎-多凯农。
+tag2hCrossbowD311={^I}风之力
+tag2hCrossbowD311Desc=风带来生命，也带来死亡。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}{^n}
+tag2hCrossbowD312={^I}克马十弹夹
+tag2hCrossbowD312Desc=采用仙塞独特装填机制与弹夹，可一次性发射整轮箭矢，适合在移动中持续射击。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}
+
+tag2hGunD301={^I}恶魔的末日
+tag2hGunD301B={^I}恶魔的末日
+tag2hGunD301Desc="流言称科凡贪恋屠戮燃烧地狱生灵。若他无敌时无人可战，愿诸神拯救世界。" - 荒野传说
+tag2hGunD302=肉扭冰霜扩散器
+tag2hGunD302B=肉扭冰寒发射器
+
+tagShieldD301={^B}阿卡拉特觉醒
+tagShieldD301Desc="亚耶瑞斯显现于阿卡拉特，指引其感受光明，以祝福之力照亮万灵。" - 摘自神秘学家记载
+tagShieldD302={^I}埃贝利查罗
+tagShieldD303={^I}乔安娜的守护
+tagShieldD303Desc="圣教军乔安娜以盾术著称。她消失后留下此盾，众人怀疑她已死亡。若真如此，她将从圣教军名册上消失，因她未留下学徒。" - 阿卜杜·哈兹尔
+tagShieldD304={^I}弗里德尔之怒
+tagShieldD304Desc=弗里德尔濒死，伤势多于敌人。此刻，他发现圣教军的愤怒深不可测。
+tagShieldD305={^I}风暴之盾
+tagShieldD305Desc=阿舒斯克未曾见过如此金属，似带雷霆之力，可抵御一切攻击。
+tagShieldD306={^I}偏转之冰
+tagShieldD306Desc=冰意外坚韧。
+tagShieldD307={^B}最终见证
+tagShieldD307B={^B}最终见证
+tagShieldD307Desc="我们的眼睛无处不在——最高山巅与最低谷底。我们无所不至，无所不见。从行走过大地的师父处学习。敌人以为我们独行，实则误解。" - 圣教军谚语
+tagShieldD308={^I}愤怒之盾
+tagShieldD308Desc=否认光明者将面对其力量。
+tagShieldD309={^I}无盖之墙
+tagShieldD309Desc=由拉斯玛追随者打造，魔法使用者所青睐。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}{^n}
+tagShieldD310={^I}地狱颅
+tagShieldD310Desc="最后一击斩下大恶魔的头颅，在德雷根脚前滚落。他凝视片刻，随身带走装饰盾牌。" - 圣教军德雷根编年史
+tagShieldD310DescB="最后一击斩下大恶魔的头颅，在德雷根脚前滚落。他凝视片刻，随身带走装饰盾牌。" - 圣教军德雷根编年史{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。
+tagShieldD311={^I}沃托伊亚尖刺
+tagShieldD311Desc=恶魔铁匠沃托伊亚设计此盾以重创敢于攻击持盾者的敌人。盾面布满尖刺，使持盾者可进行致命反击。
+tagShieldD312={^I}象牙塔
+tagShieldD312Desc=此盾回响着大天使之歌。
+tagShieldD313={^I}巫会标准
+tagShieldD313Desc=持敌之武，可能放弃你与敌人的界限。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。
+tagShieldD314={^I}杰康堡盾
+tagShieldD314Desc="数百年前，神秘战士杰康在扎卡鲁姆圣教军中结交坚定盟友。他与该军团并肩作战多年，离开未知之地时，赠送了此塔盾作为纪念。" {^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}{^n}
+tagShieldD315={^B}圣光壁垒
+tagShieldD315Desc=由早期圣教军打造，光芒闪耀象征坚定信念，代代相传，守护持盾者免受黑暗力量侵袭。
+tagShieldD316={^B}至高信念
+tagShieldD316Desc=阴影势力鲁莽行动。保持专注，你将以正义之心击败他们。
+tagShieldD317={^I}不屈方阵
+tagShieldD317Desc=最佳防御是压倒性的进攻。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。
+
+tagKanaiD301=卡奈魔方：杰尔明多
+tagKanaiD302=卡奈魔方：阿卡内什
+tagKanaiD303=卡奈魔方：苦涩
+tagKanaiD304=卡奈魔方：枯萎波
+tagKanaiD305=卡奈魔方：碎击者
+tagKanaiD306=卡奈魔方：阿尔莱斯
+tagKanaiD307=卡奈魔方：永恒
+tagKanaiD308=卡奈魔方：理发师
+tagKanaiD309=卡奈魔方：命运
+tagKanaiD310=卡奈魔方：骨王
+tagKanaiD311=卡奈魔方：最后一息
+tagKanaiD312=卡奈魔方：毒壳
+tagKanaiD313=卡奈魔方：埃贝利查罗
+tagKanaiD314=卡奈魔方：乌尔苏亚
+tagKanaiD315=卡奈魔方：清明
+tagKanaiD316=卡奈魔方：黎明
+tagKanaiD317=卡奈魔方：乌斯康
+tagKanaiD318=卡奈魔方：德拉科
+tagKanaiD319=卡奈魔方：凡人剧场
+tagKanaiD320=卡奈魔方：恩长刀
+tagKanaiD321=卡奈魔方：艾特拉尤
+tagKanaiD322=卡奈魔方：命运
+tagKanaiD323=卡奈魔方：特佐·克林
+tagKanaiD324=卡奈魔方：迈肯
+tagKanaiD325=卡奈魔方：安达莉尔
+tagKanaiD326=卡奈魔方：卡萨尔
+tagKanaiD327=卡奈魔方：让
+tagKanaiD328=卡奈魔方：乔安娜
+tagKanaiD329=卡奈魔方：怜悯
+tagKanaiD330=卡奈魔方：卡兰
+tagKanaiD331=卡奈魔方：卡里尼
+tagKanaiD332=卡奈魔方：星脊
+tagKanaiD333=卡奈魔方：克莱德射
+tagKanaiD334=卡奈魔方：京四郎
+tagKanaiD335=卡奈魔方：拉昆巴
+tagKanaiD336=卡奈魔方：蔑视
+tagKanaiD337=卡奈魔方：莉安娜
+tagKanaiD338=卡奈魔方：马尔托瑞斯
+tagKanaiD339=卡奈魔方：马西姆斯
+tagKanaiD340=卡奈魔方：奈尔
+tagKanaiD341=卡奈魔方：愤怒
+tagKanaiD342=卡奈魔方：全斩
+tagKanaiD343=卡奈魔方：佩什科夫
+tagKanaiD344=卡奈魔方：骄傲
+tagKanaiD345=卡奈魔方：羽蛇神
+tagKanaiD346=卡奈魔方：收割者
+tagKanaiD347=卡奈遗物：猩红
+tagKanaiD348=卡奈遗物：影钩
+tagKanaiD349=卡奈遗物：凯旋
+tagKanaiD350=卡奈遗物：初蛛
+tagKanaiD351=卡奈遗物：护魂
+tagKanaiD352=卡奈遗物：大庙
+tagKanaiD353=卡奈遗物：联合
+tagKanaiD354=卡奈遗物：复仇
+tagKanaiD355=卡奈遗物：维卡莱克
+tagKanaiD356=卡奈遗物：大臣
+tagKanaiD357=卡奈遗物：沃氏
+tagKanaiD358=卡奈遗物：维尔肯
+tagKanaiD359=卡奈遗物：恶意
+tagKanaiD360=卡奈遗物：寒冬
+tagKanaiD361=卡奈遗物：杨
+tagKanaiD362=卡奈遗物：黑夜
+tagKanaiD363=卡奈遗物：乌塔尔
+tagKanaiD364=卡奈遗物：独白
+tagKanaiD365=卡奈遗物：加百列
+tagKanaiD366=卡奈遗物：提克兰迪安
+tagKanaiD367=卡奈遗物：弗赖德赫尔
+tagKanaiD368=卡奈遗物：蝙蝠翼
+tagKanaiD369=卡奈遗物：智者
+tagKanaiD370=卡奈遗物：奥菲斯
+tagKanaiD371=卡奈遗物：飞镖
+tagKanaiD372=卡奈遗物：偏转
+tagKanaiD373=卡奈遗物：风暴盾
+tagKanaiD374=卡奈遗物：碎魂
+tagKanaiD375=卡奈遗物：阿什纳加尔
+tagKanaiD376=卡奈遗物：复仇
+tagKanaiD377=卡奈遗物：塞舍隆
+tagKanaiD378=卡奈遗物：峡湾
+tagKanaiD379=卡奈遗物：桑基斯
+tagKanaiD380=卡奈遗物：光环
+tagKanaiD381=卡奈遗物：杰斯
+tagKanaiD382=卡奈遗物：黑客
+tagKanaiD383=卡奈遗物：祖马卡利斯
+tagKanaiD384=卡奈遗物：雷霆
+tagKanaiD385=卡奈遗物：冰心
+tagKanaiD386=卡奈遗物：忠诚
+tagKanaiD387=卡奈遗物：水晶
+tagKanaiD388=卡奈遗物：阿瑞特
+tagKanaiD389=卡奈遗物：梅瑟施密特
+tagKanaiD390=卡奈遗物：信仰
+tagKanaiD391=卡奈遗物：升华
+tagKanaiD392=卡奈遗物：无情
+tagKanaiD393=卡奈遗物：争论
+tagKanaiD394=卡奈遗物：消逝
+tagKanaiD395=卡奈遗物：因基欧姆
+tagKanaiD396=卡奈遗物：部落
+tagKanaiD397=卡奈遗物：愤怒之盾
+tagKanaiD398=卡奈遗物：库克里
+tagKanaiD399=卡奈遗物：小恶魔
+tagKanaiD3100=卡奈遗物：骷髅
+tagKanaiD3101=卡奈遗物：碎裂之刃
+tagKanaiD3102=卡奈遗物：堡垒
+tagKanaiD3103=卡奈遗物：说服者
+tagKanaiD3104=卡奈遗物：兄弟
+tagKanaiD3105=卡奈遗物：安博
+tagKanaiD3106=卡奈遗物：远射
+tagKanaiD3107=卡奈遗物：恶魔
+tagKanaiD3108=卡奈遗物：领主
+tagKanaiD3109=卡奈遗物：地震者
+tagKanaiD3110=卡奈遗物：沃托伊亚斯
+tagKanaiD3111=卡奈遗物：以太行者
+tagKanaiD3112=卡奈遗物：象牙
+tagKanaiD3113=卡奈遗物：末日之刃
+tagKanaiD3114=卡奈遗物：碎片
+tagKanaiD3115=卡奈遗物：凝视
+tagKanaiD3116=卡奈遗物：刻印
+tagKanaiD3117=卡奈遗物：万金楼
+tagKanaiD3118=卡奈遗物：断裂
+tagKanaiD3119=卡奈遗物：凶兆
+tagKanaiD3120=卡奈遗物：对峙
+tagKanaiD3121=卡奈遗物：卡斯特利亚
+tagKanaiD3122=卡奈遗物：先民
+tagKanaiD3123=卡奈遗物：崇拜
+tagKanaiD3124=卡奈遗物：死眼
+tagKanaiD3125=卡奈遗物：共鸣
+tagKanaiD3126=卡奈遗物：烈怒
+tagKanaiD3127=卡奈遗物：毁灭
+tagKanaiD3128=卡奈遗物：弗莱彻
+tagKanaiD3129=卡奈遗物：群语者
+tagKanaiD3130=卡奈遗物：噬牙者
+tagKanaiD3131=卡奈遗物：诅咒
+tagKanaiD3132=卡奈遗物：根脉
+tagKanaiD3133=卡奈遗物：虔诚
+tagKanaiD3134=卡奈遗物：复仇
+tagKanaiD3135=卡奈遗物：卡斯特拉蒂亚
+tagKanaiD3136=卡奈遗物：赞托多
+
+tagSwordD301={^I}堕落之命
+tagSwordD302={^I}枯败波刃
+tagSwordD302Desc=这是大死灵法师奥尔丹的挚爱之剑，他是拉斯玛祭司的著名导师。他对这把武器的忠诚如此之深，宁愿舍弃性命也不愿离身。
+tagSwordD303={^I}马尔托里乌斯的石化尖刺
+tagSwordD304={^I}京城之刃
+tagSwordD304Desc=京城之刃的持有者京城在仙塞战役中保持乐观。尽管周围城墙崩塌，他仍迅速击败敌人。
+tagSwordD305={^B}猎魔者
+tagSwordD305Desc=小心与怪物作战，否则你自己也可能变成怪物。
+tagSwordD306={^I}复仇之风
+tagSwordD306Desc="有些学者说邪恶无法通过暴力战胜。我认为别无他法。" - 不屈者阿凯夫
+tagSwordD307={^B}平衡
+tagSwordD307Desc="我们必须在混乱与秩序之间行中庸之道，不让情绪左右自己。" - 维拉达尼教义
+tagSwordD308={^B}荒林之刃
+tagSwordD309={^I}阿卡内什，正义先驱
+tagSwordD309Desc=阿卡内什是圣骑士大宗师的爱剑，它斩杀无数邪恶……也许还有一些无辜者。
+tagSwordD310={^B}灰烬使者
+tagSwordD310Desc=传说一位伟大的圣骑士佩戴一只银色护手，持有闪烁宝石的强大剑。他消灭了成千上万的复生亡灵与悲惨母亲，但最终悲剧收场。这把剑与传说有些相似，但宝石暗黑而危险。
+tagSwordD311={^I}马修斯
+tagSwordD311Desc=著名战士马修斯在冥界击败了99只恶魔，并将它们的恶魔力量注入剑中。
+tagSwordD312={^I}恶意之剑
+tagSwordD312Desc=仇恨是一种强大的武器，能毁掉最强者。行事需谨慎。
+tagSwordD313={^B}预言之刃
+tagSwordD313Desc=预言之刃曾遗失，直到出现一位值得将其带入战斗的勇士。
+tagSwordD314={^B}天际斩
+tagSwordD314Desc=天使军团之剑令恶魔无法抵挡，其鲜血洒落永恒之地。
+tagSwordD315={^B}扭曲之剑
+tagSwordD316={^I}死亡之愿
+tagSwordD316Desc=昆布之刃是由剑匠莫拉德·皮尔斯打造的仅存武器，每把都是独特杰作。死亡之愿是他最后锻造的武器。
+tagSwordD317={^B}天罚
+tagSwordD318={^B}沙漠之王
+tagSwordD318Desc=由卡尔迪姆最精良的锻造师打造，以纪念第一任皇帝哈坎登基。
+tagSwordD319={^I}广将军之战刃
+tagSwordD319Desc="目击者描述将军如闪影穿行军队，身后留下倒地士兵，由护卫收割。" - 《战争史》杰里姆·基尔
+tagSwordD320={^I}祖马卡利斯远古骨刃
+tagSwordD321={^I}雷霆者
+tagSwordD321Desc=昆布之刃仅存作品之一，打造于皮尔斯早期时期，其极速与闪电弧击体现了年轻时的热情与对技艺的喜悦。
+tagSwordD322={^B}魔舌
+tagSwordD322Desc=此剑复杂可怕的造型正是其无尽力量的关键。
+tagSwordD323={^I}霜心
+tagSwordD323Desc=昆布之刃仅存作品之一，打造于皮尔斯的低潮时期，经历家族失落。霜心散发刺骨寒意，冷铁之刃反映了创造者的坚韧与精湛技艺。
+tagSwordD324={^I}碧怒
+tagSwordD324Desc=伊祖尔倒下之前曾持有符文剑碧怒，一把古老之剑，受“天歌”祝福，是正义之器。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n} 
+tagSwordD325={^I}忠诚记忆
+tagSwordD325Desc=博森尼亚铁匠锻造的剑技艺超越时代，少有人能复制。
+tagSwordD326={^I}战主之刃
+tagSwordD326Desc=奥瓦拉克领导熊族赢得无数胜利，短暂的一生仍被族人高度敬仰。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n} 
+tagSwordD327={^I}坚定信仰
+tagSwordD327Desc=此剑受到祝福，击打目标时破坏力惊人，可破门、破尸、甚至破障，同时保护信徒。
+tagSwordD328={^I}晋升之刃
+tagSwordD328Desc=晋升者离开了族人，但留下剑，以供我们纪念。终有一日，他将归来。- 审问者
+tagSwordD329={^B}黑卫
+tagSwordD329Desc=此剑的力量驱使战士罗萨特做出不可言说之举。
+tagSwordD330={^I}因基欧姆
+tagSwordD330Desc=古代仙塞诸王持有，传说可借四虎之力快速致命。曾有一王声称仅用此剑便“驱逐”千恶魔。
+tagSwordD331={^B}雷霆之怒，风行者之赐刃
+tagSwordD331Desc=此古剑蕴含不可预测元素之力，穿越宇宙与隐藏次元到达凯恩。雷霆之怒寻找真正英雄，能掌控其力量。
+tagSwordD332={^I}部族之刃
+tagSwordD332Desc=每个部族都有传说武器，可移山或震慑敌人，各不相同，但每族皆称这把剑为己有。
+tagSwordD333={^B}亨德尔·风怒的阿兹诺斯分割者
+tagSwordD333Desc=正如谷物脱壳，亨德尔·斯特姆格林将族人区分为正义者与灭亡者。
+tagSwordD334={^I}格里斯沃德的完美之刃
+tagSwordD334Desc=格里斯沃德多年研究锻造完美之剑，可惜死于非命，未能亲手完成。
+tagSwordD334Desc02=格里斯沃德多年研究锻造完美之剑，可惜死于非命，未能亲手完成。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n} 
+tagSwordD335={^I}祖父之剑
+tagSwordD335Desc=所有巨剑中最古老、最受敬仰。
+tagSwordD336={^I}赖·尤伊的说服者
+tagSwordD336Desc="记住今天学到的事,"她对被击败的盗贼说，"否则我会回来提醒你。"
+tagSwordD337={^I}血兄弟
+tagSwordD337Desc="很久以前，恶魔维伊纳兹与兄弟埃博斯是天界的可怕敌人，尽管他们常争吵。后世只见维伊纳兹独自持有一把缠绕恶魔肉的剑，仍跳动的心脏沿着锋刃流黑血。" - 大天使伊瑟瑞尔
+tagSwordD338={^I}安博的骄傲
+tagSwordD339={^I}末日使者
+tagSwordD339Desc=当他的土地被撕裂，一把神秘之刃将出现，引领新纪元。
+tagSwordD340={^B}埃克萨里安
+tagSwordD341={^I}好战者
+tagSwordD341Desc=由恶魔德拉奥姆在第五次钻石之门之战挥舞。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}  
+tagSwordD342={^B}双手巨剑
+tagSwordD342B={^B}双手巨剑
+tagSwordD343={^I}温·金·劳
+tagSwordD343Desc=指引迷途者仰望天堂，以沐神恩。
+tagSwordD344={^I}斩
+tagSwordD344Desc=贾耶什自笑。他从未见过如此适合肢解恶魔的剑。
+
+tagMaceD301={^B}阿兹·图拉斯克之拳
+tagMaceD302={^I}大殿火炬
+tagMaceD303={^I}查士丁尼的仁慈
+tagMaceD303Desc=此钉锤由查士丁尼王朝的刽子手传承，在卡托鲁斯叛乱的混乱中遗失。农民冲入宫殿，抓起一切能找到的东西，并杀死了更压迫的皇室随从。不久后，他们找到了刽子手。
+tagMaceD304={^B}奥丁之子
+tagMaceD304Desc=这把锤子每一次挥动都伴随远方雷鸣。
+tagMaceD305={^B}暗光
+tagMaceD306={^B}飞龙
+tagMaceD306Desc=飞龙静默飞行，但出击之力惊人。
+tagMaceD307={^I}杰斯的警戒之锤
+tagMaceD308={^I}骨王之怒
+tagMaceD309={^I}凡人悲剧
+tagMaceD309Desc="悲剧不过是观众理解后果的喜剧。" - 塞缪尔·德雷斯特，剧作家
+tagMaceD310={^I}灵魂粉碎者
+tagMaceD310Desc="这把巨锤不仅仅杀死目标，它实际上粉碎灵魂，将其中的能量释放成巨大的爆发。" - 智慧天使泰瑞尔
+tagMaceD311=(S) {^I}因娜之触
+tagMaceD312={^I}碎击禁令
+tagMaceD313={^B}阿尔特夫的生命火花
+tagMaceD313Desc=垂死者阿尔特夫打造此武器，将不幸的亡灵之生命转化为生者之力。
+tagMaceD314={^B}特尔兰登之手
+tagMaceD315={^I}无情
+tagMaceD316={^I}乔安娜的论战
+tagMaceD316Desc=十字军史册中最神秘的故事之一是乔安娜。她是一名强大战士，却突然消失。她没有带走心爱的武器，这似乎说明她的旅程并非计划之内。从此再未有人见过她。
+tagMaceD317={^I}消逝峰之怒
+tagMaceD317Desc=科尔将所有愤怒与绝望注入这件武器，以传颂阿瑞特的雄伟万世。
+tagMaceD318={^B}毁灭者
+tagMaceD318Desc=每次击打，地面都随之裂开瓦解。
+tagMaceD319={^I}谢弗之锤
+tagMaceD319Desc=在北方冰原锻造，以纪念著名的谢弗工匠。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n} 
+tagMaceD320={^I}破地者
+tagMaceD320Desc=每次击打，地面都随之裂开瓦解。
+tagMaceD321={^B}回响之怒
+tagMaceD321Desc=每次击打的声音都让听到的人心生恐惧。
+tagMaceD322={^B}太阳守护者
+tagMaceD323={^I}凶兆遗物
+tagMaceD323Desc="此武器的头部由极为罕见且不稳定的岩石构成。有学者猜测它来自陨石——或者另一个存在维度，虽然荒谬。几个世纪以来，它一直令学者无法理解，而我本人也未曾真正见过！" - 阿卜杜·哈齐尔
+tagMaceD324={^I}对峙
+tagMaceD324Desc=凭此，一名战士可挡住整支军队。
+tagMaceD325={^L}血肉扭曲的棍棒
+
+
+
+
+tagScytheD301={^I}奈尔的黑死病
+tagScytheD302={^B}轮回之镰
+tagScytheD302Desc="存在的伟大轮回总会重新开始……但你不在其中。" - 大死灵法师乔斯坦
+tagScytheD303={^I}特拉古尔的腐蚀牙
+tagScytheD303Desc=它在超越的领域低语你的名字。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n} 
+tagScytheD304={^I}杰瑟斯颅镰
+tagScytheD304Desc=这件由锋利骨骼组成的武器，将让你成为战场上的真正艺术家。
+tagScytheD305={^I}埋葬之镰
+tagScytheD305Desc=光滑如闪亮的骨头，在合适的手中，这件武器可在几秒钟内屠宰一具尸体。
+tagScytheD305DescB=光滑如闪亮的骨头，在合适的手中，这件武器可在几秒钟内屠宰一具尸体。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n} 
+
+
+tagAxeD301={^B}莫杜鲁的誓言
+tagAxeD301Desc="当我前往未成之地，你可以将我的头骨投向愚者，而我会回来片刻，给予你力量。" - 莫杜鲁对其继承者的誓言
+tagAxeD302={^B}楔子
+tagAxeD302Desc="乌塔尔的巨刃比最寒冷的冬日还要冰冷，由保拉尔山顶永不融化的冰锻造而成。" - 《北境编年史》
+tagAxeD303={^B}斯科恩
+tagAxeD303Desc=恶魔兰祖尔曾挥舞他那邪恶的斧子斯科恩，以极大的毒辣和愤怒，直到被天堂之力击倒。
+tagAxeD304={^B}裂肉者
+tagAxeD304Desc=每一次挥击，刀刃似乎愈发锋利。
+tagAxeD305={^B}根扎尼库
+tagAxeD305Desc="在堕落者的语言中，‘根扎尼库’意为人类屠戮者。" - 德卡德·凯恩
+tagAxeD306={^I}劈砍
+tagAxeD306Desc=这把粗陋的临时斧由荒芜沙地中收集的骨骼制成。尽管起源原始，但武器异常有效，或许是由于魔法残留自法师氏族战争时期渗入其构件。
+tagAxeD307={^B}裂天者
+tagAxeD307Desc=有人说这正是古代神祇用来将天空与大地分开的斧。
+tagAxeD308={^L}屠夫的剁刀
+tagAxeD308Desc=屠夫仍掌握着他的剁刀。
+tagAxeD309={^I}乌塔尔之吼
+tagAxeD309Desc="乌塔尔的巨刃比最寒冷的冬日还要冰冷，由保拉尔山顶永不融化的冰锻造而成。" - 《北境编年史》
+tagAxeD310={^I}夜之收割
+tagAxeD310Desc=正义者必须清除世间腐败者，正如农夫分离麦粒与糠秕。
+tagAxeD311={^I}丰收月
+tagAxeD311Desc=正义者必须清除世间腐败者，正如农夫分离麦粒与糠秕。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}{^n}
+tagAxeD312={^I}阿瑞特法则
+tagAxeD312Desc=来自阿瑞特陨落前的遗物。
+tagAxeD313={^I}梅瑟施密特的毁灭者
+tagAxeD313b={^I}梅瑟施密特的毁灭者
+tagAxeD313Desc=这件巨斧曾横扫特里斯特姆旧扎卡鲁姆大教堂下充斥恶魔的地下墓穴。难道它就是勇士艾丹多年前用来击败迪亚波罗的武器？
+tagAxeD314={^I}堡垒的荣耀
+tagAxeD314Desc=在与北方部落的战争中，由堡垒守卫领袖使用。野蛮人对其敬重有加，在从垂死的驻军指挥官手中夺下后为其命名。
+tagAxeD315={^I}恩皮里昂的使者
+tagAxeD315Desc=这件武器在永恒冲突中经历了无数战斗。
+tagAxeD315DescB=这件武器在永恒冲突中经历了无数战斗。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}{^n}
+tagAxeD316={^B}卡姆的反击
+tagAxeD316Desc=这件巨大的神圣武器曾属于过度热心的圣骑士卡姆。
+tagAxeD317={^B}斯塔尔加德的毁灭者
+tagAxeD317Desc=斯塔尔加德是一位嗜血的军阀，其部队短暂控制了南部平原的贸易路线。
+tagAxeD318={^B}灰烬开关
+tagAxeD319={^I}无尽之战
+tagAxeD319Desc=唯有死者见过战争的尽头。
+tagAxeD320={^I}虔敬猎手
+tagAxeD320Desc=这把阴影武器对不慎之人打击精准。首次攻击时更轻更快；受害者人数以陌生而华丽的文字记录在其面上。
+tagAxeD321={^I}残酷复仇
+tagAxeD321Desc=在这柄戟在血浸石上磨砺后，似乎会扭曲自身进入目标肉体，如同榨取其内脏。
+tagAxeD322={^L}黑曜毁灭者
+tagAxeD323={^L}黑曜恐惧碎击者
+tagAxeD324={^L}黑曜火焰雕刻者
+tagAxeD325={^L}死神少女的镰
+tagAxeD325Desc=作为玛瑟尔的副官，死神少女用此镰斩首凡人敌人。
+
+
+
+tagBootsD301={^I}布莱纳的旅程
+tagBootsD302={^B}冰峰登山靴
+tagBootsD303=(S) {^I}玉收割者的迅捷
+tagBootsD304=乌利安娜的命运
+tagBootsD305=(S) {^I}暗影之履
+tagBootsD306=(S) {^I}塔尔·拉沙的步伐
+tagBootsD307=(S) {^I}八魔之靴
+tagBootsD308=(S) {^B}火鸟的足甲
+tagBootsD309=(S) {^I}命运行者
+tagBootsD310=(S) {^I}阿卡恩的战靴
+tagBootsD311=(S) {^I}伊纳瑞斯的坚毅
+tagBootsD312={^I}尼尔弗的自豪
+tagBootsD312Desc=霍拉迪姆的尼尔弗施法精准无比，她甚至能召唤陨石落在脚下。
+tagBootsD313={^I}粗陋之靴
+tagBootsD314={^B}斯图亚特的护胫
+tagBootsD315=(S) {^I}特拉戈乌尔的护胫
+tagBootsD316={^I}里维拉舞者
+tagBootsD316Desc=所有人都希望自己能像穿上这双靴子的人一样酷。
+tagBootsD317={^B}木板行者
+tagBootsD318={^I}忽视之靴
+tagBootsD319={^B}火行者
+tagBootsD320={^I}虚空徘徊者护胫
+
+
+
+
+
+tagScepterD301={^I}蝙蝠之权杖
+tagScepterD301Desc=没有正确的工具，将能量化作火蝙蝠会非常耗费力气。
+tagScepterD301DescB=没有正确的工具，将能量化作火蝙蝠会非常耗费力气。
+tagScepterD302={^B}蛇之火花
+tagScepterD302Desc=传说这根魔杖由原初九头蛇的一颗獠牙制成，该蛇在几个世纪前被英雄布尔-卡索斯击败。
+tagScepterD303={^B}蜘蛛女王之握
+tagScepterD303Desc=乌戈利亚克斯的祝福渗透在这把武器之上。
+tagScepterD304={^I}大宰相
+tagScepterD304B={^I}大宰相
+tagScepterD304Desc=受马吉祝福的首位魔法使用者的守护者。
+tagScepterD305={^B}苏王占卜杖
+tagScepterD306={^B}陨落之星
+tagScepterD306Desc=由光之节期间从天而落的陨片打造而成。
+tagScepterD307={^B}沃之权杖
+tagScepterD307Desc=沃多次转世，但在每次转世中，这根权杖总能回到主人手中。
+tagScepterD308={^B}太阳之杖
+tagScepterD308Desc=这根权杖曾属于一位圣人，他被迫对抗恶魔入侵。作为太阳的信徒，格雷厄姆称其为“太阳之光的承载者”。
+tagScepterD309={^I}奥菲斯之手势
+tagScepterD309Desc=古老传说讲述奥菲斯用这根魔杖从冥界救回妻子。
+tagScepterD310={^B}不稳权杖
+tagScepterD311={^B}萎缩
+tagScepterD311Desc=由恶魔之手打造。
+tagScepterD312={^I}卡萨尔的复仇
+tagScepterD312Desc="十字军必须比其他战士更强。我们不能在胜利后返回家园，而是继续踏上征途。我们迎风、冒雨、踏雪而行。我们的寻求不会停止，直到我们的信仰得以救赎。" -卡萨尔
+tagScepterD313={^I}命运碎片
+tagScepterD314={^B}疯狂君主权杖
+tagScepterD315={^I}尚托多意志
+tagScepterD315Desc=当恶魔再次行走于世时，Archmage尚托多的力量也将随之重现。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}
+tagScepterD316={^I}瓦尔塞克的惩戒
+tagScepterD316Desc=这根权杖曾属于维兹杰瑞高阶议员、伊沙里圣殿的魔法师宗师。在一次叛逆学生事件后不久便下落不明。
+tagScepterD317={^L}佐尔图恩·库勒的权杖
+tagScepterD317Desc=佐尔图恩·库勒之权杖，Horadrim创始人、黑魂石创造者。
+tagScepterD318={^L}死亡炽天使权杖
+tagScepterD318Desc=死亡炽天使所持魔法武器，为玛瑟尔的虔诚信徒。
+
+
+
+tagDaggerD301={^I}神圣收割者
+tagDaggerD301Desc="以他人之息拓展心智并非轻而易举。缺乏适当训练或纪律，极易导致疯狂。" - 长者贝亚提
+tagDaggerD302={^I}雷琳娜的影钩
+tagDaggerD303={^B}巫师尖刺
+tagDaggerD303Desc=禁忌魔法的能量贯穿此刃。
+tagDaggerD304={^I}伏的榨魂刀
+tagDaggerD304Desc=这种匕首吸取敌魂的方式，丝毫没有幽默可言。
+tagDaggerD305={^B}嫉妒之刃
+tagDaggerD306={^B}阿内萨兹之锋
+tagDaggerD306Desc=这把刀的秘密只有西尔泽平原的工匠知道。
+tagDaggerD307={^B}致命重生
+tagDaggerD307Desc=亡者的灵魂会被此刀的存在从大地中唤出。
+tagDaggerD308={^I}最后一息
+tagDaggerD308Desc=即便是不死者也可能被此刃击倒。
+tagDaggerD309={^I}理发师
+tagDaggerD309b={^I}理发师
+tagDaggerD309Desc=大师之刃的精准利器。
+tagDaggerD310={^I}飞镖匕首
+tagDaggerD311={^I}提克兰魔法刃
+tagDaggerD311Desc=这是远离村落提克兰的精灵父亲埃诺巴哈雷所持的凶刃。
+tagDaggerD312={^I}卡莱之尖
+tagDaggerD312Desc=与恶魔猎手卡莱争论的人，很快便体会到她能以毁灭性手段“说明问题”。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagDaggerD313={^I}银长刀（Eun-jang-do）
+tagDaggerD313Desc=这些银钢制匕首常由盲眼姐妹携带，上刻对她们誓言的忠诚。敌人靠近时以为自己安全，但无法躲过Eun-jang-do的攻击。
+tagDaggerD314={^I}星金库克里
+tagDaggerD314Desc="死灵法师萨布首次接触特甘泽人，他尝试向他们解释死灵哲学，但语言障碍太大——最终他声称自己是Trag'Oul，住在星辰之间。" - 阿卜杜·哈齐尔
+tagDaggerD315={^I}疤痕使者
+tagDaggerD315Desc=其所留的每一道伤痕都是一份赦免。
+tagDaggerD316={^I}阿纳金的魔刃
+tagDaggerD316Desc=十字军阿纳金以此刃斩杀无数光之敌人。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagDaggerD317={^I}基德宾
+tagDaggerD317Desc=斯卡茨姆宗教的强大神圣遗物，最后出现在库拉斯特。
+tagDaggerD317Desc02=斯卡茨姆宗教的强大神圣遗物，最后出现在库拉斯特。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagDaggerD318={^I}格林斯通勋爵的扇刃
+tagDaggerD318Desc=传说炎热的日子里，格林斯通勋爵喜欢用飞刀带来的风来消暑。
+tagDaggerD319={^I}血魔刃
+tagDaggerD319Desc=血液的味道释放出少数人能掌控的魔法。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagDaggerD320={^I}仇恨碎片
+tagDaggerD321={^B}刻骨
+tagDaggerD322={^B}幽誓
+tagDaggerD322Desc=幽誓同时存在于生者和灵界。
+
+
+tagShouldersD301=(S) {^B}乌莉安娜的力量
+tagShouldersD302=(S) {^I}玉收割者的喜悦
+tagShouldersD303=(S) {^I}倒罪者肩饰
+tagShouldersD304=(S) {^B}火鸟之羽
+tagShouldersD305=(S) {^I}阿卡恩肩铠
+tagShouldersD306=(S) {^I}罗兰的披肩
+tagShouldersD307=(S) {^B}拉斯玛的尖刺
+tagShouldersD308=(S) {^I}伊纳瑞斯的殉道
+tagShouldersD309={^B}死亡守望披肩
+tagShouldersD310={^B}尸语肩铠
+tagShouldersD311={^B}扎卡拉肩铠
+tagShouldersD312={^B}导能披肩
+tagShouldersD313={^I}勒费布尔的独白
+tagShouldersD313Desc=武僧勒费布尔以在战斗中朗诵独白而闻名。他们是否优美，无人知晓，因为所有聆听者都已亡。
+tagShouldersD314={^B}拉泽斯肩铠
+tagShouldersD315={^I}艾米美的披肩
+tagShouldersD316={^I}骷髅王肩铠
+tagShouldersD316Desc="无论其价值如何，让黑王的衣物随其逝去的主人安息才是明智之举。打扰莱奥里克的安眠无益。" - 德卡德·凯恩
+tagShouldersD317=(S) {^I}瘟疫披肩
+tagShouldersD318=(S) {^I}维尔肩铠
+tagShouldersD319=(S) {^I}地狱之牙披肩
+tagShouldersD320=(S) {^I}特拉格乌尔之心
+tagShouldersD321=(S) {^B}勇气肩铠
+tagShouldersD322=(S) {^B}掠夺者披肩
+tagShouldersD323=(S) {^B}光明之山
+tagShouldersD324=(S) {^I}泰丰披肩
+tagShouldersD325=(S) {^I}暗影之负
+tagShouldersD326=(S) {^I}伊娜的节制
+tagShouldersD327=(S) {^I}蒙杜努古的后裔
+tagShouldersD328=(S) {^B}阿拉奇尔披肩
+tagShouldersD329=(S) {^B}大地之尖
+tagShouldersD330=(S) {^I}不朽之王肩饰
+tagShouldersD331=(S) {^I}荒漠肩铠
+tagShouldersD332=(S) {^I}雷科尔负担
+tagShouldersD333=(S) {^I}机械肩铠
+tagShouldersD334=(S) {^I}正义之镜
+tagShouldersD335={^I}费尔南的出生披肩
+tagShouldersD335Desc=血骑士的创始人将染血的出生披肩交给教团，在其失踪之前。穿戴于教团以外，实为亵渎，但当前情势危急。
+tagShouldersD336=(S) {^I}绯红领域肩甲
+
+
+
+tagHandsD301=(S) {^I}暗影之握
+tagHandsD302={^B}军鼓手装备
+tagHandsD302Desc="用正义之力覆盖手腕，你将以神之意志出击。" - 韦拉达尼条约
+tagHandsD303=(S) {^B}乌莉安娜的愤怒
+tagHandsD304=(S) {^I}玉收割者的慈悲
+tagHandsD305={^I}加布里埃尔护臂
+tagHandsD305Desc=为提高十字军效率，阿卡恩的首席铁匠加布里埃尔打造此护臂，以增强召唤神锤的威力。
+tagHandsD306=(S) {^I}塔尔·拉沙之握
+tagHandsD307={^I}平托的骄傲
+tagHandsD308=(S) {^I}雷霆之拳
+tagHandsD309=(S) {^I}祖尼玛萨手套
+tagHandsD310=(S) {^I}烈焰护手
+tagHandsD311=(S) {^I}伊纳瑞斯意志
+tagHandsD312=(S) {^B}拉斯玛诡异护臂
+tagHandsD313={^I}灵卫护腕
+tagHandsD313Desc=族长说，当灵力增强时，世间的危险便随之减弱。
+tagHandsD314={^I}拉昆巴装饰
+tagHandsD314Desc=万物皆与未形之地相连。拉昆巴最善于编织这一丝线索，她的裹布揭示了许多人不愿直视的真理。
+tagHandsD315={^I}维尔肯之伸
+tagHandsD315Desc="我研究了乌姆巴鲁与死者的关系，可以肯定地说，他们的掌控力与伸展范围相匹配。" - 高阶学者维尔肯
+tagHandsD316={^B}法师之拳
+tagHandsD316Desc=你手中握有真正魔法的力量。
+tagHandsD317={^I}愤怒护臂
+tagHandsD317Desc=无法看清光明真相者，将受其愤怒。
+tagHandsD318={^I}德拉肯的教训
+tagHandsD318Desc="你愿面对十个略有伤势的对手，还是七个健康的对手，他们被你脚下的三具尸体分心？" - 长老十字军德拉肯
+tagHandsD319={^I}初代蜘蛛之环
+tagHandsD319Desc="据说阿拉奇尔通过来自现实与未形之地之间的生物恢复追随者的生命精华。"
+tagHandsD320={^B}霜燃护臂
+tagHandsD320Desc=此护臂吸取触碰之物的温度。
+tagHandsD321={^I}清晰裹腕
+tagHandsD321Desc=稳定手臂，在死亡面前带来冷静与确定。
+tagHandsD322=(S) {^I}罗兰之握
+tagHandsD323={^B}精华之握
+tagHandsD323Desc=你感到与万物生命力相通。
+tagHandsD324={^B}杰拉姆护臂
+tagHandsD324Desc=你仍能看到杰拉姆在复仇中斩杀的恶魔残血痕迹。
+tagHandsD325={^B}塔斯克与西奥手套
+tagHandsD325Desc=主人与猎犬曾是当世最著名的猎手。他死于与挚爱猎犬并肩作战，忠犬随后也跟随而去。
+tagHandsD326={^I}濒死护手
+tagHandsD326Desc=死亡是统一万物的状态。看似生者者，只是在等待死亡。
+tagHandsD326DescB=死亡是统一万物的状态。看似生者者，只是在等待死亡。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagHandsD327=(S) {^I}瘟疫手套
+tagHandsD328=(S) {^I}维尔抓握护手
+tagHandsD329=(S) {^B}勇气护手
+tagHandsD330=(S) {^I}特拉格乌尔之爪
+tagHandsD331=(S) {^B}掠夺者手套
+tagHandsD332={^I}阿什纳加尔血护臂
+tagHandsD333=(S) {^B}光之意志
+tagHandsD334=(S) {^I}泰丰护臂
+tagHandsD335=(S) {^I}阿卡恩护手
+tagHandsD336=(S) {^I}娜塔莉亚之触
+tagHandsD337={^I}勒费布尔手护
+tagHandsD337Desc=武僧勒费布尔以在战斗中朗诵独白而闻名。他们是否优美，无人知晓，因为所有聆听者都已亡。
+tagHandsD338=(S) {^I}蒙杜努古节奏
+tagHandsD339=(S) {^B}阿拉奇尔之爪
+tagHandsD340={^I}塞斯克伦护臂
+tagHandsD340Desc="看上去像是塞斯克伦出品。不过奇怪——别人用时毫无特别之处，你用时却显神异。" - 海德里格
+tagHandsD341={^B}莫提克护臂
+tagHandsD342=(S) {^B}大地之力
+tagHandsD343=(S) {^I}不朽之王铁腕
+tagHandsD344=(S) {^I}荒漠护手
+tagHandsD345=(S) {^I}雷科尔裹腕
+tagHandsD346=(S) {^I}自动臂护
+tagHandsD347=(S) {^I}巴祖之正义护臂
+tagHandsD348={^I}水晶之拳
+tagHandsD349=(S) {^I}地狱之牙护手
+tagHandsD350={^I}克莱娜之链
+tagHandsD350Desc=他深邃的瞳孔与讥诮的微笑，映照着他带回服务平衡的无生骷髅。
+tagHandsD350DescB=他深邃的瞳孔与讥诮的微笑，映照着他带回服务平衡的无生骷髅。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagHandsD351={^I}格尔明多骨髓手护
+tagHandsD351Desc=许多人无法承受拉斯玛的重担，但格尔明多仍以双臂托起。
+tagHandsD352={^I}初代人护臂
+tagHandsD352Desc="我不在意它们是否由远古熄灭的炉火锻造。它们帮助我粉碎敌人，这就够了。" - 塞斯克伦·阿勒图
+tagHandsD353={^I}库斯特里安手护
+tagHandsD353Desc="古时，有一奇异种族：库斯特里安人。无人知晓他们是谁，所为何事，但他们的遗产铭刻在这些手护的金属中。" - 图夫尼尔智者袁
+tagHandsD354={^I}崇拜手套
+tagHandsD354Desc=这些鳞片手套由欺诈者剥皮制成，仅赠予暗夜会最宠爱的凡人仆从。
+tagHandsD355={^B}兰斯洛护手
+tagHandsD356={^I}灵刈者裹腕
+tagHandsD356Desc="这些护臂散发的魔力陌生而奇异。在发现前，人们认为利用能治愈生命的力量来恢复力量是不可能的。它们的存在迫使我们重新思考魔法本质。" - 大法师瓦尔塞克
+tagHandsD356DescB="这些护臂散发的魔力陌生而奇异。在发现前，人们认为利用能治愈生命的力量来恢复力量是不可能的。它们的存在迫使我们重新思考魔法本质。" - 大法师瓦尔塞克{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagHandsD357={^I}毁灭护臂
+tagHandsD357Desc="这些护臂似乎利用从大地汲取的原初力量。至少相当有趣。" - 阿卜杜·哈齐尔
+tagHandsD358={^I}弗莱彻护臂
+tagHandsD359={^B}石之护手
+tagHandsD359Desc=沉重。石质。残酷。
+tagHandsD360={^I}根脉护手
+tagHandsD361=(S) {^I}绯红领域手护
+
+
+tagTorsoD301=(S) {^I}暗影克星
+tagTorsoD302={^B}夜行者之拥
+tagTorsoD303=(S) {^B}伊娜的广袤
+tagTorsoD304=(S) {^B}乌莉安娜之心
+tagTorsoD305=(S) {^I}玉收割者的宁静
+tagTorsoD306=(S) {^I}塔尔·拉沙的无尽追击
+tagTorsoD307=(S) {^I}娜塔莉娅的拥抱
+tagTorsoD308=(S) {^I}巨浪之心
+tagTorsoD309=(S) {^I}祖尼马萨的髓骨
+tagTorsoD310={^B}欺瞒夹克
+tagTorsoD310Desc=这件彩虹般的夹克由星光蝴蝶幼虫的丝线织成，使视线围绕它扭曲，如沙漠上的海市蜃楼。
+tagTorsoD311={^I}黑羽法袍
+tagTorsoD312=(S) {^B}烈焰之鸟胸甲
+tagTorsoD313=(S) {^I}真理束带
+tagTorsoD314=(S) {^I}阿坎胸甲
+tagTorsoD315=(S) {^I}罗兰之威
+tagTorsoD316=(S) {^B}拉特玛肋骨甲
+tagTorsoD317=(S) {^I}伊纳瑞斯的信念
+tagTorsoD318={^I}召唤帆法袍
+tagTorsoD318Desc=深受在冥界战斗者的喜爱。
+tagTorsoD319={^B}加尔沃夫法袍
+tagTorsoD320={^I}黑骑士胸甲
+tagTorsoD321={^B}不朽灵魂法袍
+tagTorsoD322={^I}仁慈摄政者铠甲
+tagTorsoD323={^I}血歌法袍
+tagTorsoD324={^I}安魂胸甲
+tagTorsoD324Desc=原本为国王丧礼制作，最终交予拉特玛的祭司，开启了将其传给冥都最英勇战士的传统。
+tagTorsoD325={^B}黑夜夹克
+tagTorsoD325Desc="企图作恶者多为懦弱迷信之徒。" - 恶魔猎人贝恩
+tagTorsoD326={^B}灰烬皮外套
+tagTorsoD326Desc=穿上此铠，甚至能承受地狱烈焰。
+tagTorsoD327={^B}钢铁之心胸甲
+tagTorsoD327Desc=奥莲娜“铁十字军”的祝福之铠最终传给她的弟子，她自豪地与自己的铠甲一同穿戴。虽承师名，最终却以截然不同的称号闻名。
+tagTorsoD328=(S) {^I}瘟疫法袍
+tagTorsoD329=(S) {^I}维尔的惊世光环
+tagTorsoD330=(S) {^I}特拉古尔之鳞
+tagTorsoD331=(S) {^B}勇士护胸
+tagTorsoD332=(S) {^B}掠夺者胸甲
+tagTorsoD333=(S) {^B}光之心
+tagTorsoD334=(S) {^I}泰丰法衣
+tagTorsoD335=(S) {^I}伊娜的广袤
+tagTorsoD336={^B}瑞德瑞姆法袍
+tagTorsoD337=(S) {^I}蒙杜古努法袍
+tagTorsoD338=(S) {^B}阿拉基尔甲壳
+tagTorsoD339=(S) {^B}大地之魂
+tagTorsoD340=(S) {^I}不朽之王永恒统治
+tagTorsoD341=(S) {^I}荒原胸甲
+tagTorsoD342=(S) {^I}雷科尔之心
+tagTorsoD343=(S) {^I}强化法衣
+tagTorsoD344=(S) {^I}公正鳞甲
+tagTorsoD345=(S) {^I}地狱牙胸衣
+tagTorsoD346={^I}泰瑞尔之威
+tagTorsoD346Desc="于是，正义之天使为尼法勒姆裁定公正。" - 雅尔尔卷三
+tagTorsoD347={^B}阿奎拉胸甲
+tagTorsoD347Desc=庆祝酋长高尔德击败东方蛮人的礼仪铠甲。
+tagTorsoD348={^B}施·水之法袍
+tagTorsoD348Desc="濒死时，心智尤为清明。" - 战士哲学家施·水
+tagTorsoD349={^B}金皮胸甲
+tagTorsoD350={^I}蝙蝠胸甲
+tagTorsoD351=(S) {^I}猩红王国胸衣
+
+
+tagHeadD301=(S) {^I}暗影面具
+tagHeadD302={^B}裁决官
+tagHeadD302B={^B}裁决官
+tagHeadD302Desc=最强大的巫师通过学习将收获丰厚奖励。这顶兜帽适合喜欢优雅展现力量的人。
+tagHeadD303={^I}初始王冠
+tagHeadD303Desc=和平守护者拉道格曾掌控时间之力，但常因此困惑，导致野心教徒维斯趁机杀他并夺走王冠。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}
+tagHeadD304={^I}卡萨尔战盔
+tagHeadD305={^B}命运誓言
+tagHeadD305Desc="此兜帽属于死者。所有戴过它的人已死，而戴它的人将跟随前行。" - 未知
+tagHeadD306=(S) {^B}乌莉安娜之魂
+tagHeadD307=(S) {^I}玉收割者之智
+tagHeadD308=(S) {^I}塔尔·拉沙智慧之面
+tagHeadD309={^I}大法师帽
+tagHeadD309Desc="哈！这只是我据称死于敌手的第一次经历。" - 大法师霍拉松
+tagHeadD310=(S) {^I}祖尼马萨之视
+tagHeadD311=(S) {^I}娜塔莉娅之眼
+tagHeadD312=(S) {^B}烈焰之鸟羽饰
+tagHeadD313=(S) {^I}隐匿面具
+tagHeadD314={^I}佩什科夫之眼
+tagHeadD314Desc="当闭眼时，心智最为清明。" - 高级方丈佩什科夫
+tagHeadD315=(S) {^I}阿坎战盔
+tagHeadD316=(S) {^I}罗兰之容
+tagHeadD317=(S) {^I}伊纳瑞斯之悟
+tagHeadD318=(S) {^B}拉特玛颅盔
+tagHeadD319={^B}古内斯之容
+tagHeadD319Desc=猎人古内斯从未透露此盔的来历，有人称其中封印了遭其复仇的恶魔，也有人说它导致了他的陨落。
+tagHeadD320={^I}安达莉尔之面
+tagHeadD320Desc=由大恶魔之一佩戴，仅能在恐怖统治的最暗地牢找到。
+tagHeadD321={^B}佩什科夫王冠
+tagHeadD322={^B}杰拉姆面具
+tagHeadD322Desc=为复仇，杰拉姆打造此可召唤各类野兽与亡灵的恐怖面具。
+tagHeadD323={^B}裂牙面具
+tagHeadD324={^I}羽蛇神
+tagHeadD325={^I}猩红死神面具
+tagHeadD325Desc=它对你咧嘴一笑，令人不安。
+tagHeadD326={^B}天鹅绒面罩
+tagHeadD327={^I}佐·克林面具
+tagHeadD327Desc=老武士寻求佐·克林解心中困扰。回答：“把你的心带来，我会安抚它。”老武士顿悟。
+tagHeadD328={^B}风暴乌鸦面罩
+tagHeadD329={^I}修行者面具
+tagHeadD329Desc=赋予佩戴者强大力量与无与伦比的时尚感。
+tagHeadD330=(S) {^B}掠夺者面具
+tagHeadD331={^B}风暴之眼
+tagHeadD331Desc=真正的力量源于中心的平静。
+tagHeadD332={^I}暮光面具
+tagHeadD332Desc={^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagHeadD333=(S) {^I}瘟疫面具
+tagHeadD334=(S) {^I}维尔的无目骷髅
+tagHeadD335=(S) {^I}特拉古尔面具
+tagHeadD336=(S) {^B}勇气王冠
+tagHeadD337=(S) {^B}掠夺者面具
+tagHeadD338=(S) {^B}光之容
+tagHeadD339=死神凝视
+tagHeadD339Desc=死亡面孔千变万化。
+tagHeadD340=(S) {^I}烈空面具
+tagHeadD341=(S) {^I}泰丰头冠
+tagHeadD342=(S) {^I}伊娜之光
+tagHeadD343=(S) {^I}蒙杜古努头饰
+tagHeadD344=(S) {^B}阿拉基尔面具
+tagHeadD345=(S) {^B}大地之眼
+tagHeadD346=(S) {^I}不朽之王凯旋
+tagHeadD347=(S) {^I}荒原战盔
+tagHeadD348=(S) {^I}反乌托邦护目镜
+tagHeadD349=(S) {^I}正义法令
+tagHeadD350=(S) {^I}地狱牙面具
+tagHeadD351={^I}死视者兜帽
+tagHeadD352={^I}共鸣骷髅
+tagHeadD352Desc=这顶恐怖的头盔被空心打造，可集中并分散声音。
+tagHeadD353={^I}吉尤阿之容
+tagHeadD353Desc=未形成之地的守护者永恒吉尤阿，赐予值得的勇士她的子嗣的祝福。
+tagHeadD353DescB=未形成之地的守护者永恒吉尤阿，赐予值得的勇士她的子嗣的祝福。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}
+tagHeadD354={^I}翻涌仇恨兜帽
+tagHeadD354Desc=看到敌人被剥皮只会加剧恶魔猎人胸中复仇之火。
+tagHeadD355={^I}诅咒之角
+tagHeadD355Desc=扭曲的角是血骑士战斗中的最后手段。看似脆弱，却能多次刺穿敌人而不折断。
+tagHeadD356=(S) {^I}猩红王国凝视
+
+
+tagLegsD301=(S) {^I}宝玉收割者的勇气
+tagLegsD302=(S) {^I}暗影缠绕
+tagLegsD303=(S) {^I}娜塔莉娅护腿
+tagLegsD304=(S) {^B}舞蛇之鳞
+tagLegsD305=(S) {^I}祖尼马萨布料
+tagLegsD306=烈焰之鸟羽裤
+tagLegsD307=(S) {^I}阿坎护腿
+tagLegsD308={^B}瘟疫护腿
+tagLegsD309={^I}沼泽长靴
+tagLegsD310={^I}锤击护腿
+tagLegsD310Desc=停！锤子时间。
+tagLegsD311={^I}魔像皮裤
+tagLegsD312={^B}亵渎护腿
+tagLegsD312Desc=行走如同与夜融为一体。
+tagLegsD313={^B}奥古斯丁护腿
+tagLegsD313Desc=恶魔猎人奥古斯丁总能挑选最适用的投射物。
+tagLegsD314={^I}夜行者护腿
+
+
+tagCraftedD301={^I}瑞德瑞姆法袍
+tagCraftedD301Desc=瑞德瑞姆是一个神秘的黑影法师团体，专研最深奥的魔法，直至神秘凄惨的灭亡。
+tagCraftedD302={^I}瑞德瑞姆法衣
+tagCraftedD303={^I}统御头盔
+tagCraftedD304={^I}统治头盔
+tagCraftedD305={^I}沙尔祖尔的欺瞒
+tagCraftedD305Desc=这些裤子源于恶魔沙尔祖尔与无知人类的不幸交易。
+tagCraftedD306={^B}骨墙
+tagCraftedD306Desc="以乔斯凯拉之战命名，战斗漫长激烈，以至人们用阵亡同伴的骸骨筑起防御工事。"
+tagCraftedD307={^B}人墙
+
+tagCelestialD301=^o天体精华
+tagCelestialD301Desc="星座精华赐予你最渴望的天体力量。"^w^n(用于胸甲)
+
+tagCelestialD302=^o畸形怪
+tagCelestialD302Desc="高尔戈兰，畸形怪，代表人类最原始本能：对死亡与黑暗的恐惧，以及对未得之物的欲望。畸形怪体现了让人堕落的一切。"^w^n(用于戒指)
+
+tagGemD301=^o钻石
+tagGemD301Desc=^w(用于戒指)
+tagGemD302=^o星钻
+tagGemD303=^k帝国钻石
+tagGemD304=^k皇家钻石
+
+tagGemD311=^o紫水晶
+tagGemD311Desc=^w(用于胸甲)
+tagGemD312=^o星紫水晶
+tagGemD313=^k帝国紫水晶
+tagGemD314=^k皇家紫水晶
+
+tagGemD321=^o黄宝石
+tagGemD321Desc=^w(用于护身符)
+tagGemD322=^o星彩黄宝石
+tagGemD323=^k帝国黄宝石
+tagGemD324=^k皇家黄宝石
+
+tagGemD331=^o翡翠
+tagGemD331Desc=^w(用于所有近战武器与盾牌)
+tagGemD332=^o星翡翠
+tagGemD333=^k帝国翡翠
+tagGemD334=^k皇家翡翠
+
+tagGemD341=^o红宝石
+tagGemD341Desc=^w(用于所有武器、副手与盾牌)
+tagGemD342=^o星彩红宝石
+tagGemD343=^k帝国红宝石
+tagGemD344=^k皇家红宝石
+
+tagGemD351=^o蓝宝石
+tagGemD351Desc=^w(用于盾牌){^n}{^n}^y虔诚加成: ^w蓝宝石使克拉肯星座能在单手剑、锤和斧上生效。
+tagGemD352=^o星蓝宝石
+tagGemD353=^k帝国蓝宝石
+tagGemD354=^k皇家蓝宝石
+
+tagLegGemD301=强者之祸
+tagLegGemD301Desc=^w(用于护身符与徽章){^n}{^n}"少有事能像强敌倒在脚下那般鼓舞精神。"
+tagLegGemD302=秘法改造
+tagLegGemD302Desc=^w(用于胸甲)
+tagLegGemD303=受难者之祸
+tagLegGemD303Desc=^w(用于所有武器、盾牌与副手)
+tagLegGemD304=困者之恩
+tagLegGemD304Desc=^w(用于靴子)
+tagLegGemD305=博亚尔斯基碎片
+tagLegGemD305Desc=^w(用于盾牌){^n}{^n}这块名为“碎片”的宝石，最初由老博亚尔斯基在地下金库中发现，他将其打造成今天这颗美丽的宝石。它会伤害任何试图伤害佩戴者的人，一旦镶入宝孔，就永远不会掉落。
+tagLegGemD306=执行者
+tagLegGemD306Desc=^w(用于头盔){^n}{^n}这块宝石将它强大的核心与佩戴者的追随者共享。
+tagLegGemD306Passive=执行者的意志
+tagLegGemD307=振奋宝石
+tagLegGemD307Desc=^w(用于胸甲){^n}{^n}"有人说这块宝石的力量来源于佩戴者的生命力，每次使用都会缩短寿命。但我认为任何我能活着离开的战斗都是胜利，明天自有明天。" - 著名战士莱纳拉斯，临死前一天。
+tagLegGemD308=回响阴影
+tagLegGemD308Desc=^w(用于双手近战武器){^n}{^n}^o追求独特性时，你会忘记复制中潜藏的力量。
+
+
+
+tagGemSkill01=秘术改造
+tagGemSkill01Desc=赋予你的盾牌抗元素与抗毒能力。
+
+tagBlueprintGemD301=图纸：星钻
+tagBlueprintGemD302=图纸：帝国钻石
+tagBlueprintGemD303=图纸：皇家钻石
+tagBlueprintGemD304=图纸：星紫晶
+tagBlueprintGemD305=图纸：帝国紫晶
+tagBlueprintGemD306=图纸：皇家紫晶
+tagBlueprintGemD307=图纸：星黄玉
+tagBlueprintGemD308=图纸：帝国黄玉
+tagBlueprintGemD309=图纸：皇家黄玉
+tagBlueprintGemD310=图纸：星绿宝
+tagBlueprintGemD311=图纸：帝国绿宝
+tagBlueprintGemD312=图纸：皇家绿宝
+tagBlueprintGemD313=图纸：星红宝
+tagBlueprintGemD314=图纸：帝国红宝
+tagBlueprintGemD315=图纸：皇家红宝
+
+tagStyleCrusader01=十字军
+tagStyleCrusader02=强化十字军
+tagStyleCrusader03=神话十字军
+
+tagStyleCrusaderRelic=十字军裁决者
+
+tagItemSetD302=暗影披肩
+tagItemSetD302Desc="黑暗是你的朋友，也是敌人的噩梦。" - 恶魔猎人库奈{^n}
+
+tagItemSetD303=乌莉安娜的策略
+tagItemSetD303Desc="乌莉安娜是首位在保有身份的同时出现在凡人之中的人——在当时，僧侣被禁止离开寺院，他们的身体仅用于与神交流。" {^n}
+
+tagItemSetD304=玉收割者法衣
+tagItemSetD304Desc=每个乌姆巴鲁族人都知道图卡姆，玉收割者。巫医因佩戴他用绿玉雕刻的盔甲而闻名，他相信这能增强与灵界的联系。{^n}
+
+tagItemSetD305=塔尔·拉沙的元素
+tagItemSetD305Desc=塔尔·拉沙在牺牲自己封印恶魔领主巴尔之前，将大部分力量储存在这些源石中。{^n}
+
+tagItemSetD306=伊娜的咒言
+tagItemSetD306Desc="唯有圣者，方能在伊娜的怀抱中获得庇护。"
+
+tagItemSetD307=千风法衣
+tagItemSetD307Desc="当一击精准，力量会扩散成电击波，回荡在灵魂深处。" - 宗母莲娜·拉斯穆森{^n}
+
+tagItemSetD308=祖尼马萨的幽影
+tagItemSetD308Desc="穿上这套铠甲的战士，永远携带着祖尼马萨的灵魂。" {^n}
+
+tagItemSetD309=娜塔莉娅的复仇
+tagItemSetD309Desc="娜塔莉娅懂得将黑暗化作武器。" {^n}
+
+tagItemSetD310=烈焰之鸟套装
+tagItemSetD310Desc="“烈焰之鸟”套装的起源仍然成谜。它们的魔法结构先进，却显得已有百年历史。" - 魔导师维埃·卡利{^n}
+
+tagItemSetD311=德尔瑟的大作
+tagItemSetD311Desc="德尔瑟的疯狂是悲剧，他熔化了许多作品，称它们不够优雅，但每件都比大多数工匠能制作的更美。" - 高阶议员瓦尔塞克{^n}
+
+tagItemSetD312=罗兰的遗产
+tagItemSetD312Desc="我的导师相信救赎无界。我曾是一颗需要拯救的灵魂，他拯救了我。因此我自豪地承载他的名字，一位伟人的名字。" - 《我之救赎冥想录》{^n}
+
+tagItemSetD313=阿坎之甲
+tagItemSetD313Desc="让十字军在强韧的铠甲中保护两翼，道路危险，死亡会从四面袭来。" - 阿坎{^n}
+
+tagItemSetD314=拉特玛之骨
+tagItemSetD314Desc=众多生物的骨骼被巧妙地排列在这件防护铠甲中，其设计源自拉特玛本人。{^n}
+
+tagItemSetD315=瘟疫大师之衣
+tagItemSetD315Desc="你可以使用死亡魔法，但你并非刀枪不入。穿好铠甲，并妥善维护。" - 死亡讲述者迈坎{^n}
+
+tagItemSetD316=伊纳瑞斯的恩典
+tagItemSetD316Desc=伊纳瑞斯是首位真正洞察恶魔内心的天使。{^n}
+
+tagItemSetD317=特拉古尔化身
+tagItemSetD317Desc=生与死如血液流经血脉般流淌于循环之中。{^n}
+
+tagItemSetD301=维尔的惊世法典
+tagItemSetD301Desc="虚荣者维尔打造了著名的方尖碑，以汇聚至尊魔法的力量，他声称这一力量来自另一个维度。他甚至被传存储这种骇人力量于自己设计的铠甲中。" - 阿卜杜勒·哈齐尔{^n} ^y全套效果: ^h奥术宝珠命中时亦释放 ^p能量旋风 ^h。
+
+tagItemSetD318=勇者之盾
+tagItemSetD318Desc="仁慈是弱点，在战争中无立足之地。" - 勇者天使英佩瑞斯{^n}
+
+tagItemSetD319=掠夺者化身
+tagItemSetD319Desc="你将学会如我们一般行走。你将追踪这些怪物、入侵者，当你击杀并消失后，恶魔只会发现自己留在地上的足迹。" - 猎人奥龙·古内斯{^n}
+
+tagItemSetD320=泰丰之幕
+tagItemSetD320Desc="我们必须弥合已知与未知的鸿沟，方能释放真正潜能。" - 娇小的查马尔
+
+tagItemSetD321=光明探索者
+tagItemSetD321Desc=阿纳金知道黑暗会在光明出现前吞噬她，但无所谓，重要的始终是寻找。
+
+tagItemSetD322=蒙杜古努法服
+tagItemSetD322Desc=在异界中，恍惚可能持续数分钟，而在现实世界仅数秒。
+
+tagItemSetD323=阿拉基尔之魂
+tagItemSetD323Desc=阿拉基尔常被描绘为蜘蛛，但其实际腿数存在争议。它是为这个世界创造的首位野兽，因此为其他生物之父。
+
+tagItemSetD324=大地之力
+tagItemSetD324Desc=山岳崩塌，悬崖倾覆，峡谷裂开。塑造大地的力量对大多数人而言仍是谜。但对你，不再如此。
+
+tagItemSetD325=不朽之王的呼唤
+tagItemSetD325Desc=在蛮族游荡整个西部大陆的年代——远在拉基斯出现之前——一人沃鲁斯统一了部落，并在短暂时光里，蛮族拥有了一位国王。
+
+tagItemSetD326=荒原之怒
+tagItemSetD326Desc=此套装以食人部落命名，他们居住于荒原，由他们亲手打造铠甲，后被南方同胞收回。
+
+tagItemSetD327=雷科尔的遗产
+tagItemSetD327Desc=尽管女蛮族在战场上受尊重，但仍被视为不及男战士。直到雷科尔出现，首位女性登上至尊战士之位。
+
+tagItemSetD328=荒原之机
+tagItemSetD328Desc=在蛮族文明毁灭后，一群幸存者成立了恶魔猎手，他们誓言摧毁地狱生物，并以荒原为家。
+
+tagItemSetD329=正义之纹
+tagItemSetD329Desc=在天使世界中，智慧大天使最近意识到，那里没有床。
+
+tagItemSetD330=地狱牙护甲
+tagItemSetD330Desc="强大的力量潜伏于恶魔头骨中。紧贴心脏穿戴，感受黑暗魔法的雷霆。" - 低语谷的杰拉姆
+
+tagItemSetD331=猩红王国之甲
+tagItemSetD331Desc=由黑曜石碎片锻造并注入虚空能量的铠甲，只能在冥界深处找到。
+
+
+
+
+tagMarauderBelt=(S) {^B}掠夺者弹药带
+tagMarauderGloves=(S) {^B}掠夺者手套
+tagMarauderFury=(S) {^B}掠夺者之怒
+tagMarauderJustice=(S) {^B}掠夺者正义
+
+tagMarauderSet01=掠夺者正义
+tagMarauderSet02=掠夺者审判
+
+
+
+tagMelee2hD301=(S) {^I}伊娜的广袤
+
+tagFocusD301=(S) {^I}塔尔·拉沙的无尽注视
+tagFocusD302={^B}苏·王卜者
+tagFocusD303=(S) {^I}祖尼马萨的骷髅串
+tagFocusD304={^B}神秘之眼
+tagFocusD305={^B}伊森德拉法典
+tagFocusD306={^I}冬之疾风
+tagFocusD306Desc=冬日寒死的力量不可轻视。
+tagFocusD307={^I}迈肯之怨球
+tagFocusD308={^I}舒克拉尼的凯旋
+tagFocusD309={^I}苦痛
+tagFocusD309Desc=你手握敌人的未来。
+tagFocusD310={^I}永恒之流
+tagFocusD311={^I}魔像头
+tagFocusD311Desc=魔像的断头是博学巫医强大力量的源泉。
+tagFocusD312={^I}乌尔苏亚践踏雕像
+tagFocusD312Desc=她召唤荒原兽灵，以恐怖手段镇压维兹-君外的喀兹拉群。
+tagFocusD313={^I}宇宙之链
+tagFocusD313Desc=能解读铭文者将洞悉存在的奥秘。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}
+tagFocusD314={^I}以太行者
+tagFocusD314Desc=维吉尔迅速将旧法书残页与不明神器缀合，用自身血液进行圣化，使其能够传送到安全地点并筹划复仇。
+tagFocusD315={^B}原初之魂
+tagFocusD315Desc=原初之魂自时间开始之前便存在，是创造元素的完美体现。
+tagFocusD316={^I}凝视之灭
+tagFocusD317={^B}无限深渊宝珠
+tagFocusD318={^I}铭刻符印
+tagFocusD319={^B}逝去时光
+tagFocusD319Desc=宝珠闪烁着数条过早逝去生命的精华。
+tagFocusD320={^I}贾罗镰
+tagFocusD320Desc="敌人的苦难乃至极乐。" - 死灵法师贾罗{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}
+tagFocusD321={^I}镜球
+tagFocusD321Desc="从死亡帷幕彼端召唤而来，其邪恶意志会将受害者送回彼处，唯有意志坚定者可操控。" - 迪卡德·凯恩
+tagFocusD321DescB="从死亡帷幕彼端召唤而来，其邪恶意志会将受害者送回彼处，唯有意志坚定者可操控。" - 迪卡德·凯恩{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}
+tagFocusD322={^I}昌托多之力
+tagFocusD322Desc=唯有神秘艺术大师方可驾驭此宝珠内的力量。{^n}
+tagFocusD323={^I}卡斯特拉提亚
+tagFocusD323Desc=离开庄园时，它会行走。你即是城墙与城门，你即是领主与城堡。
+tagFocusD324={^L}贝利亚之眼
+tagFocusD324Desc=撒谎之主贝利亚之眼，导致燃烧地狱内战爆发。
+tagFocusD325={^L}马赛尔精华
+tagFocusD325Desc=前天使议会成员马赛尔的精华。曾为智慧大天使，后化为死亡天使。
+tagFocusD326={^L}猩红灵魂石
+tagFocusD326Desc=世界石碎片，用于囚禁“初始邪恶”迪亚布罗的灵魂。
+tagFocusD327={^L}炎瞳之眼
+tagFocusD328={^L}格罗布尔虚空锻造雕像
+
+
+
+
+tagBlueprintD301=图纸：瑞德瑞姆法袍
+tagBlueprintD302=图纸：瑞德瑞姆外衣
+tagBlueprintD303=图纸：统御头盔
+tagBlueprintD304=图纸：统治头盔
+tagBlueprintD305=图纸：沙尔祖欺瞒
+tagBlueprintD306=图纸：白骨之墙
+tagBlueprintD307=图纸：人墙
+
+
+tagRingD301={^B}力量之戒
+tagRingD301Desc="似乎能减少伤害，但具体原理不明。显然，它未能救助前任主人，希望你能更好地利用它。" - 海德里格
+tagRingD302={^I}灵石
+tagRingD303={^I}卡里尼光环
+tagRingD303Desc="看那人跳舞！哦，等等，我的闪电让他动的。" - 卡里尼，巫师
+tagRingD304={^I}阿利斯光环
+tagRingD304Desc=霜匠阿利斯在冰川上劳作数月，试图掌控严冬之力。春天，她的部族发现她冰冻尸体，手持此戒仰向天。
+tagRingD305={^B}十二宫黑曜戒
+tagRingD306={^I}潜行之戒
+tagRingD307={^I}鲁·钱伯斯之戒
+tagRingD308={^B}空灵低语戒
+tagRingD308Desc=戒内囚禁的灵魂低语声随佩戴者施法而增强。
+tagRingD309={^I}永恒结合
+tagRingD309Desc="正义守护者守护美德之人。" - 阿坎箴言
+tagRingD310={^I}元素协定
+tagRingD310Desc=远古法师熔炼术士集会于暴风雪中，将能量凝聚于一枚戒指，使佩戴者掌控四大元素。
+tagRingD311={^B}乔丹之石
+tagRingD311Desc=乔丹之石的价值远超外表所示。人们为其付出极大代价。
+tagRingD312={^I}神秘之戒
+tagRingD312Desc=至神之眼祝福追寻者。
+tagRingD313={^I}布里格之怒
+tagRingD313Desc="让恐惧在敌人最弱之时袭击他们，让苦痛随死亡而封存。" - 布里格祷文
+tagRingD314={^I}克里斯宾之判
+tagRingD314Desc="真奇妙。我们相遇之日，亦是你离世之日。" - 死灵法师克里斯宾
+tagRingD315={^B}莱奥里克印戒
+tagRingD315Desc=莱奥里克王希望将家族象征传给长子，未料不幸降临。
+tagRingD316={^B}布尔-卡索斯婚戒
+tagRingD316Desc=在哈罗格思城锻造，纪念野蛮人神圣日子。
+
+tagNecklaceD301={^B}阿拉诺克护符
+tagNecklaceD301Desc=炽热沙漠之热可抵御寒冷。
+tagNecklaceD302={^B}朱莉娅女伯爵浮雕
+tagNecklaceD303={^B}玛拉万花筒
+tagNecklaceD304={^B}阿兹卡兰之星
+tagNecklaceD304Desc=注入阿兹卡兰巨大力量，以临终之息灌注。
+tagNecklaceD305={^B}泽菲里安护符
+tagNecklaceD305Desc=有人说泽菲里亚只是传说，但护符力量说明事实并非如此。
+tagNecklaceD306={^B}时间之味
+tagNecklaceD306Desc=曾被体型过大的小鬼佩戴，使时间变得无关紧要。
+tagNecklaceD307={^I}卡兰之智
+tagNecklaceD307Desc="若不干预，所知一切可能迎来可怕终结。" - 《卡兰之书》摘录
+tagNecklaceD308={^I}莱格蔑视
+tagNecklaceD308Desc=护符中心的面孔乃拉特玛古祭司的缩小面容，似在不利评判你。
+tagNecklaceD309={^B}约翰石
+tagNecklaceD309Desc=护符中央的宝石闪烁着难以测量的力量与潜能。
+tagNecklaceD310={^I}镜球
+tagNecklaceD310Desc="从死亡帷幕彼端召唤而来，其邪恶意志会将受害者送回彼处，仅意志坚定者可操控。力量一旦掌控，它便忠诚执行主人的意志。" - 迪卡德·凯恩
+tagNecklaceD311={^B}贾纳·纳·卡舒
+tagNecklaceD311Desc=宝石将敌人吞入烈焰怀抱，尖叫声淹没他们的感谢。
+tagNecklaceD312={^B}月光护符
+tagNecklaceD313={^B}莱奥里克黄金护颈
+tagNecklaceD314={^B}多夫能量陷阱
+tagNecklaceD315={^B}艾特利奇之眼
+tagNecklaceD316={^B}斯奎特项链
+tagNecklaceD316Desc=一块被符文覆盖的不起眼石块，背面刻有古盗神康特维尔特之名。
+tagNecklaceD317={^I}骷髅掌
+tagNecklaceD317Desc="不良商人常仿制此热门护符，出售给不知情者。"
+tagNecklaceD318={^I}高个男之指
+tagNecklaceD318B={^I}高个男之指
+tagNecklaceD318Desc=此指截自一名乌姆巴鲁祭司，他跨越姆比鲁·埃库拉寻求知识，归来后……已不同。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagNecklaceD319={^I}骨铃
+tagNecklaceD319Desc=铃声响起时，死者必回应。{^n}{^n}{^b}唯一: {^o}此物品无可用卡奈遗物。{^n}{^n}
+tagNecklaceD320={^I}战争使者
+tagNecklaceD321={^B}混沌环
+tagNecklaceD321Desc="为在潘德蒙尼姆堡恐吓天使守卫，迪亚布罗将此护符赠予伊斯卡图，他曾利用其作战。然而，力量未能影响因佩瑞斯，护符随伊斯卡图断臂一同遗失。" - 迪卡德·凯恩
+tagNecklaceD322={^I}拉科夫生命杯
+tagNecklaceD322Desc=拉科夫是平民抄写员，研究僧侣战技后制作此物以吸取击败敌人的生命力。
+tagNecklaceD323={^I}蜂语护符
+tagNecklaceD324=(S) {^I}猩红领域碎片
+tagNecklaceD325={^L}阿兹莫丹炽烈精华
+tagNecklaceD325Desc=罪恶之主阿兹莫丹精华，最后被囚禁于黑魂石中。
+tagNecklaceD326={^L}魅魔吊坠
+
+
+MEDALS
+
+tagMedalD301={^I}吞牙徽章
+tagMedalD302={^L}阿德里亚血之符印
+tagMedalD302Desc=阿德里亚符印，前女巫会成员及迪亚布罗仆从。
+
+
+
+
+
+
+BELTS
+
+tagWaistD301={^I}全斩
+tagWaistD301Desc=这是父亲基蒙送给因霍拉的礼物，这位十字军在关键时刻援助了他的圣所。
+tagWaistD302={^B}猎人的愤怒
+tagWaistD303={^B}张氏缠绕
+tagWaistD304={^B}地狱猫腰甲
+tagWaistD304Desc=在燃烧地狱熔炉中，用被肢解的恶魔铸造而成。
+tagWaistD305={^I}天使发辫
+tagWaistD305Desc=由魔法纤维编织而成，轻盈却坚不可摧。
+tagWaistD306={^I}黛妮缚带
+tagWaistD306Desc=曾属于一位坚毅的灵魂，他对胜利充满热情。
+tagWaistD307={^I}骤雨
+tagWaistD307Desc=雨落即是猛烈。
+tagWaistD308={^I}幽灵束带
+tagWaistD308Desc=此腰带充满诡异而令人不安的魔力，扰乱了此界与未成形之地的微妙平衡。佩戴它即是对命运的挑衅。
+tagWaistD309={^B}超越腰带
+tagWaistD309Desc=巫医早已知晓，某些灵魂渴望造访我们的世界，而某些材料则可引导它们。
+tagWaistD310={^I}法祖拉的不可能锁链
+tagWaistD311={^B}刀之腰带
+tagWaistD311Desc="让敌人靠近，刀刃更近。" - 维兹-贾克塔谚语
+tagWaistD312={^I}赫格布拉什缚带
+tagWaistD313={^B}雷神的精力
+tagWaistD313Desc="雷神以巨大愤怒和复仇击打违规者…" - 哈鲁图尼安卷轴
+tagWaistD314={^B}宝藏腰带
+tagWaistD315={^B}京士罗之魂
+tagWaistD316={^I}暗影锁链
+tagWaistD316Desc="有人认为猎人如库奈能利用暗影之力完成常人难以企及的壮举，荒诞之极。" - 阿卜杜·哈齐尔
+tagWaistD317={^I}德尔赛之耻
+tagWaistD317Desc=德尔赛无法使此腰带与他的《大作》契合，断然拒绝使用，并禁止任何人使用。
+tagWaistD318=(S) {^I}不朽王部落束带
+tagWaistD319={^B}无可争议的冠军
+tagWaistD319B=无可争议的冠军
+tagWaistD319Desc=世上能真正称为冠军者寥寥无几。
+tagWaistD320={^B}惧铁
+tagWaistD320Desc=由阿瑞特山毁灭后的残甲铸成。
+tagWaistD321={^I}卡修斯之傲
+tagWaistD321Desc=他行动迅捷，攻击凌厉，是世间最伟大的战士。
+tagWaistD322={^I}霍杰包裹
+tagWaistD322Desc="巫医渴望展示他的武艺，尤其自豪于这条附魔腰带，称其赋予他战场优势。显然，这条腰带对他意义重大，家族代代相传。" - 阿卜杜·哈齐尔
+tagWaistD323={^I}巴库里丛林裹带
+tagWaistD324={^I}佐伊的秘密
+tagWaistD325={^I}卡赛斯正义之索
+tagWaistD325Desc="卡赛特，杰出的十字军之一，习惯用正义之火铸造盔甲，追求效率至上。" - 阿卜杜·哈齐尔
+tagWaistD326={^B}神圣护带
+tagWaistD327={^B}蛛族之裔
+tagWaistD327Desc=我已在迷宫中迷失多久不知，但我明白不可打扰卵。小心脚下……哎呀。 - 被困者
+tagWaistD328={^I}失落束缚
+
+
+tagItemSkillD301=召唤奥术九头蛇
+tagItemSkillD301Desc=召唤一条九头蛇，发射碰撞爆炸的奥术球，对周围敌人造成元素伤害。 ^o奥术九头蛇随玩家伤害加成成长。
+tagArcaneHydra=奥术九头蛇
+
+tagItemSkillD302=火鸟重生
+tagItemSkillD302Desc=从自身灰烬中重生，成为火焰之光的存在。
+
+tagItemSkillD303=暗影弓手
+tagItemSkillD303Desc=召唤暗影弓手为你作战，持续8秒。 ^o暗影弓手随玩家伤害加成成长。
+tagShadowArcherSkill01=暗影箭
+tagShadowArcherPet01=暗影弓手
+
+tagItemSkillD304=召唤蛛后
+tagItemSkillD304Desc=召唤蛛后，她降低周围敌人的抗性。 ^o蛛后随玩家伤害加成成长。
+tagItemSkillD304Pet=蛛后
+tagItemSkillD304PetSkill01=毒牙
+tagItemSkillD304PetSkill02=女王威压
+
+tagItemSkillD305=召唤诅咒
+tagItemSkillD305Desc=召唤一只火焰乌鸦向敌人发射火球，在2秒内燃烧敌人。 ^o诅咒随玩家伤害加成成长。
+tagItemSkillD305Pet01=诅咒
+tagItemSkillD305Pet02=火焰球
+
+tagItemSkillD306=能量旋风
+tagItemSkillD306Desc=释放纯能量旋风，对路径上的所有敌人造成元素伤害，持续10秒。
+tagItemSkillD306Pet01=元素风暴
+
+tagItemSkillD307=冰霜之球
+tagItemSkillD307Desc=投掷冰球穿透敌人，并有几率冻结数秒。
+
+tagItemSkillD308=彗星
+tagItemSkillD308Desc=冰冷彗星自天而降，撞击范围内敌人。
+
+tagItemSkillD309=陨石
+tagItemSkillD309Desc=召唤火陨石击打敌人。
+
+tagItemSkillD310=雷霆冲击
+tagItemSkillD310Desc=闪电碎片从天而降，击打敌人。
+
+tagItemSkillD311=坠落之剑
+tagItemSkillD311Desc=飞向天空再重重坠落，对周围敌人造成神圣伤害。
+
+tagRevivedPet01=复活骷髅
+tagRevivedPet02=致命打击
+
+tagItemSkillD312=无情
+tagItemSkillD312Desc=忍痛作战，有几率迷惑敢触碰你的敌人。
+
+tagItemSkillD313=震荡盾
+tagItemSkillD313Desc=投掷雷电盾击中多个敌人，使其晕眩1秒。
+
+tagItemSkillD314=同伴
+tagItemSkillD314Desc=召唤狼与您并肩作战，直至其死亡。 ^o狼随宠物加成成长。
+tagPetSkillD314=血牙
+tagPetSkillD314b=贪婪光环
+
+tagItemSkillD315=骨刺冲击
+tagItemSkillD315Desc=从地面伸出骨刺，晕眩周围敌人。
+
+tagItemSkillD316=玛尼图
+tagItemSkillD316Desc=召唤幽灵跟随你并随机释放灵魂箭。 ^o玛尼图随玩家伤害加成成长。
+tagItemSkillD316PetSkill=灵魂箭
+
+tagItemSkillD317=千雷
+tagItemSkillD317Desc=6秒内，闪电开始攻击周围敌人。
+
+tagItemSkillD318=爆裂箭
+tagItemSkillD318Desc=射出火焰箭，碰撞爆炸燃烧周围敌人。
+
+tagItemSkillD319=骨刺冲击
+tagItemSkillD319Desc=在目标位置召唤骨刺冲击，晕眩范围内所有敌人。
+
+tagItemSkillD320=飞刀
+tagItemSkillD320Desc=向四周投掷飞刀，使周围敌人流血2秒。
+
+tagItemSkillD321=冰霜新星
+tagItemSkillD321Desc=释放冰霜爆炸，冻结附近敌人2秒。
+
+tagItemSkillD322=召唤恐惧卫士
+tagItemSkillD322Desc=从深渊召唤恐惧卫士，持续30秒为你作战。 ^o恐惧卫士随玩家伤害加成成长。
+tagItemSkillD322A=恐惧卫士
+tagItemSkillD322B=炽焰打击
+tagItemSkillD322C=烈焰横扫
+
+tagItemSkillD323=冥影旋刃
+tagItemSkillD323Desc=瞬间，数百把幽灵之刃以致命速度环绕你，割裂周围敌人。
+
+tagItemSkillD324=天之拳
+tagItemSkillD324Desc=召唤一道天雷，对区域内敌人造成闪电伤害并眩晕。
+
+tagItemSkillD325=爆裂冲击
+tagItemSkillD325Desc=成为炽能导体，每0.5秒释放爆炸，燃烧周围敌人。
+
+tagItemSkillD326=蝙蝠之云
+tagItemSkillD326Desc=召唤一片蝙蝠云，对敌人造成火焰与活力伤害，并有几率在6秒内混乱敌人。
+
+tagItemSkillD327=弗赖德尔之怒
+tagItemSkillD327Desc=十字军的愤怒可释放纯圣能连锁，对额外敌人造成伤害。
+
+tagItemSkillD328=撞击猛兽
+tagItemSkillD328Desc=召唤飞行猛兽撞击敌人，对区域内敌人造成冰霜伤害并眩晕数秒。
+
+tagItemSkillD329=血之新星
+tagItemSkillD329Desc=释放血之新星感染敌人，造成伤害并降低其防御数秒。
+
+tagItemSkillD330=尸雨
+tagItemSkillD330Desc=受污染的尸体从天而降，对敌人造成毒与活力伤害。
+
+tagItemSkillD331=死亡标记
+tagItemSkillD331Desc=对敌人施加致命诅咒，使其减速并流血，同时抗性降低，持续5秒。
+
+tagItemSkillD332=烟幕
+tagItemSkillD332Desc=消失在烟雾之后，短暂无敌。
+
+tagItemSkillD333=轰炸
+tagItemSkillD333Desc=从远处召唤攻击，向敌人投下燃烧沥青与石球，造成巨量物理与火焰伤害。
+
+tagItemSkillD334=审判
+tagItemSkillD334Desc=释放电能爆炸，对周围敌人造成闪电伤害。
+
+tagItemSkillD335=火墙
+tagItemSkillD335Desc=竖起火焰墙，烧灼敌人数秒。
+
+tagItemSkillD336=天使协助
+tagItemSkillD336Desc=召唤天界守护者为你作战。
+tagItemSkillD336A=天使斩
+tagItemSkillD336B=天使临在
+tagItemSkillD336C=天使盟友
+
+tagItemSkillD337=雷霆冲击
+tagItemSkillD337Desc=闪电碎片从天而降，击打敌人。
+
+tagItemSkillD338=召唤圣骷髅
+tagItemSkillD338Desc=召唤短时间存活的骷髅盟友，用圣能攻击敌人。
+tagHolySkeleton=圣骷髅
+tagHolySkeletonSkill01=神圣打击
+tagHolySkeletonSkill02=祝福牺牲
+
+tagItemSkillD339=天火
+tagItemSkillD339Desc=发射贯穿敌人的神圣能量光束，对敌人造成神圣伤害并在3秒内燃烧。
+
+tagItemSkillD340=骷髅法师
+tagItemSkillD340Desc=召唤一组亡灵法师，发射毒球攻击敌人。 ^o骷髅法师随玩家伤害加成成长。
+tagItemSkillD340Pet=骷髅毒法师
+tagItemSkillD340Skill=毒球
+
+tagItemSkillD341=哨兵
+tagItemSkillD341Desc=召唤炮塔发射穿透元素箭击敌人，命中的敌人被标记5秒。 ^o哨兵随玩家伤害加成成长，可同时最多存在3个哨兵。
+tagItemSkillD341Skill=元素箭
+tagItemSkillD341Skill2=焚烧标记
+
+tagItemSkillD341BDesc=召唤发射冰霜箭的炮塔。 ^o哨兵随玩家伤害加成成长，可同时最多存在3个哨兵。
+tagItemSkillD341BSkill=贪婪之箭
+
+tagItemSkillD341CDesc=召唤炮塔发射多支箭，使敌人流血数秒。 ^o哨兵随玩家伤害加成成长，可同时最多存在3个哨兵。
+tagItemSkillD341CSkill=多重射击
+
+tagItemSkillD342=天启风暴
+tagItemSkillD342Desc=召唤天界风暴，对区域敌人造成神圣伤害并降低其抗性，持续5秒。 ^o天启风暴随玩家伤害加成成长。
+tagItemSkillD342C=天界风暴
+
+tagItemSkillD343=破碎灵魂
+tagItemSkillD343Desc=释放碎裂敌人灵魂的新星，对附近敌人造成虚化与活力伤害。
+
+tagItemSkillD344=飞镖图腾
+tagItemSkillD344Desc=召唤图腾发射环状毒镖，对附近敌人造成毒与活力伤害。
+tagItemSkillD344TotemSkill=飞镖环
+
+tagItemSkillD345=追踪者
+tagItemSkillD345Desc=发射追踪魔法导弹，对目标造成元素伤害。
+
+tagItemSkillD346=电能护盾
+tagItemSkillD346Desc=在被敌人攻击时提供元素伤害防护。
+
+tagItemSkillD347=闪电爆破
+tagItemSkillD347Desc=纯闪电导弹穿透敌人。
+
+tagItemSkillD348=死亡愿望
+tagItemSkillD348Desc=诅咒敌人，降低其冰霜抗性与防御能力。
+
+tagItemSkillD349=飞矛乱舞
+tagItemSkillD349Desc=发射飞矛穿透周围敌人。
+
+tagItemSkillD350=骨旋风
+tagItemSkillD350Desc=卷入骨旋风，对周围敌人造成冰霜与活力伤害，并降低其抗性5秒。
+
+tagItemSkillD351=元素盟约
+tagItemSkillD351Desc=对敌人施放符文法术，造成元素伤害并降低抗性。
+
+tagItemSkillD352=致盲之沙
+tagItemSkillD352Desc=召唤沙旋风，使敌人可能无法命中。 ^o沙旋风随玩家伤害加成成长。
+tagItemSkillD352A=沙旋风
+tagItemSkillD352Pet=沙尘暴
+
+tagItemSkillD353=永恒之流
+
+tagItemSkillD354=骇人姿态
+tagItemSkillD354Desc=来自提克兰的灵魂以可怕的诅咒震慑敌人。
+
+tagItemSkillD355=斯洛拉克的疯狂
+tagItemSkillD355Desc=化身奥术能量的导体，以纯粹的元素之力的能量束打击附近的敌人。
+
+tagItemSkillD356=闪电之尾
+tagItemSkillD356Desc=一道螺旋状的闪电能量球自你体内爆发而出。
+
+tagItemSkillD357=漠视
+tagItemSkillD357Desc=你甚至懒得看一眼那些试图伤害你的敌人。
+
+tagItemSkillD358=燃烧之地
+tagItemSkillD358Desc=点燃你所行走的地面。
+
+tagItemSkillD359=蝗虫群
+tagItemSkillD359Desc=释放一波绿色昆虫，影响直线路径上的所有敌人。
+
+tagItemSkillD360=祝福之锤
+tagItemSkillD360Desc=掷出一把神圣之锤，飞向敌人后再返回到你身边。
+
+tagItemSkillD361=滞留之魂
+tagItemSkillD361Desc=释放一个沿直线移动的灵魂，在返回你身边前汲取敌人的生命。
+
+tagItemSkillD362=死亡之吻
+tagItemSkillD362Desc=向敌人释放一股高度浓缩的剧毒液体爆发。
+
+tagItemSkillD363=火球术
+tagItemSkillD363Desc=发射一枚可穿透的火焰球，灼烧你的敌人。
+
+tagItemSkillD364=汇聚风暴
+tagItemSkillD364Desc=进行一次弧形攻击，使敌人受寒并在数秒内降低其抗性。
+
+tagItemSkillD365=猛击
+tagItemSkillD365Desc=残暴地重击敌人，造成物理伤害并使其燃烧数秒。^o当作为你的默认武器攻击使用时，猛击会造成额外伤害。
+
+tagItemSkillD366=巨人步伐
+tagItemSkillD366Desc=在5秒内你每一步都会引发地震，对路径上的敌人造成伤害。
+
+tagItemSkillD367=灼热陨石
+tagItemSkillD367Desc=召唤一颗陨石坠落到敌人之上，在冲击区域灼烧地面5秒。
+
+tagItemSkillD368=扫射
+tagItemSkillD368Desc=在旋转时向附近的随机敌人射击。扫射激活时，你周围的敌人造成的伤害降低。^o需要远程武器，并同时启用双持远程武器的能力。
+tagItemSkillD368B=随机射击
+
+tagItemSkillD369=火焰风暴
+tagItemSkillD369Desc=用火焰漩涡环绕自身，灼烧附近的敌人数秒。
+
+tagItemSkillD370=裂空打击
+tagItemSkillD370Desc=用神圣能量的闪电惩击你周围的敌人，使其眩晕1秒。
+
+tagItemSkillD371=乌塔尔之吼
+tagItemSkillD371Desc=释放一阵巨大的冰霜狂风，使敌人短暂冻结。
+
+tagItemSkillD372=爆炸野兽
+tagItemSkillD372Desc=召唤一只燃烧的僵尸犬冲向敌人并发生爆炸，对附近所有敌人造成伤害。^o爆炸野兽随玩家伤害加成而成长。
+tagItemSkillD372B=引爆
+
+tagItemSkillD373=收割者之云
+tagItemSkillD373Desc=召唤一片云雾，形成一片冰霜之池，对区域内的敌人造成寒冷和活力伤害。
+
+tagItemSkillD374=风暴鸦之飞行
+tagItemSkillD374Desc=召唤风暴鸦穿越敌群，使其触电，并在数秒内降低其闪电抗性。
+
+tagItemSkillD375=撕裂骨片
+tagItemSkillD375Desc=唤起一条由毒化骸骨组成的路径，对敌人造成酸性和穿刺伤害，并在数秒内降低其伤害。
+
+tagItemSkillD376=召唤寒霜骷髅
+tagItemSkillD376Desc=复活一具寒霜骷髅在你身旁作战20秒。^o寒霜骷髅随玩家伤害加成而成长。
+tagItemSkillD376B=冰冻之握
+tagItemSkillD376C=寒霜骷髅
+
+tagItemSkillD377=能量涌动
+tagItemSkillD377Desc=释放一道神圣能量束，打击多个敌人。
+
+tagItemSkillD378=能量旋风
+tagItemSkillD378Desc=释放一道奥术龙卷风，对直线路径上的敌人造成元素伤害。
+
+tagItemSkillD379=鲜血冲刺
+tagItemSkillD379Desc=冲入敌人的血肉之中，造成活力伤害，并将部分造成的伤害转化为你的生命值。
+
+tagItemSkillD380=尘魔
+tagItemSkillD380Desc=召唤旋转的炽焰尘旋风，对敌人造成物理和火焰伤害，并在3秒内降低其进攻能力。
+tagItemSkillD380B=旋涡风暴
+tagItemSkillD380C=尘魔
+
+
+tagItemSkillD381=风暴疾行
+tagItemSkillD381Desc=直接旋转穿越敌人，造成闪电与冰霜伤害，同时在施展技能时降低附近敌人的伤害。
+
+tagItemSkillD382=反应护甲
+tagItemSkillD382Desc=施放风暴护甲附着于敌人，使目标附近的敌人受到电击。
+
+tagItemSkillD383=血浴
+tagItemSkillD383Desc=使你周围的敌人在5秒内流血并降低防御。
+
+tagItemSkillD384=法术之门
+tagItemSkillD384Desc=召唤一个维度之门释放宇宙能量冲击，对命中的敌人造成元素伤害并击倒它们。
+tagItemSkillD384Skill=宇宙能量
+
+tagItemSkillD385=雪峰之怒
+tagItemSkillD385Desc=从空中召唤冰雪冲击波，对区域内敌人造成冰霜与灼冻伤害。
+
+tagItemSkillD386=灼烧
+tagItemSkillD386Desc=发射穿透的火焰球，燃烧敌人，并在3秒内降低其抗性。
+
+tagItemSkillD387=冰霜射击
+tagItemSkillD387Desc=发射一枚击中敌人的投射物，然后分裂成冰碎片，对目标附近的敌人造成冰霜伤害。 ^o需远程武器，可与所有默认武器攻击触发。
+tagItemSkillD387B=布置尖刺陷阱
+tagItemSkillD387C=冰霜爆炸
+tagItemSkillD387D=尖刺陷阱
+
+tagItemSkillD388=神圣之力叠加
+tagItemSkillD388Desc=^h每次攻击敌人都会生成一个 ^y神圣之力叠加 ^h。叠加增加总伤害最多25%，并提供最多100点攻击与防御能力。每10层叠加提供3%物理抗性。每层持续12秒，可刷新，最多同时存在50层。 ^o仅在 ^z神圣形态 ^o激活时生效。
+tagItemSkillD388B=神圣之力掉落
+tagItemSkillD388C=神圣之力叠加
+
+tagItemSkillD389=石之守护
+tagItemSkillD389Desc=施放石之屏障，提高你对物理伤害的抗性。
+
+tagItemSkillD390=七面打击
+tagItemSkillD390Desc=攻击你周围最多7名敌人，在3秒内造成冰霜与灼冻伤害。 ^o需近战武器，可与所有默认武器攻击触发。
+
+tagItemSkillD391=召唤永恒盟友
+tagItemSkillD391Desc=永久召唤永恒盟友协助战斗。永恒盟友造成元素伤害并强化你与盟友的治疗效果。复活时，永恒盟友会释放能量新星，恢复你100%的生命。
+
+tagEnduringAllySkill01=元素打击
+tagEnduringAllySkill02=持续滋养
+tagEnduringAllySkill03=治疗新星
+
+tagEnduringAllyPetName=永恒盟友
+
+tagItemSkillD392=冲锋烈马
+tagItemSkillD392Desc=释放一群燃烧的战马冲向前方，对敌人造成物理和火焰伤害，并燃烧3秒。命中的敌人有几率被击倒。
+
+tagItemSkillD393=不朽王之霸
+tagItemSkillD393Desc=野蛮之王如神般踏遍世间。
+
+tagItemSkillD394=无敌战车
+tagItemSkillD394Desc=在战场上成为无法阻挡的力量，持续8秒。
+
+tagItemSkillD395=铁娘子
+tagItemSkillD395Desc=凡心怀愤怒而接近真正的圣战者者，必将自取灭亡。
+
+tagItemSkillD396=幽灵恍惚
+tagItemSkillD396Desc=施放光环，立即治疗你和所有盟友，同时提供伤害吸收、虚化与活力伤害抗性，以及15秒的生命回复。
+
+tagItemSkillD397=暗影兽群
+tagItemSkillD397Desc=召唤一群暗影兽穿过敌人，对沿途所有敌人造成穿刺和流血伤害。
+
+tagItemSkillD398=时间护壳
+tagItemSkillD398Desc=施放缓慢时间的变体附着于目标，目标附近的敌人受到元素伤害并被减速数秒。
+
+tagItemSkillD399=葬礼进行曲
+tagItemSkillD399Desc=这把镰刀的收割之触能让敌人安息。 ^o当用作默认武器攻击时，葬礼进行曲会增强你的打击。
+
+tagItemSkillD3100=死亡螺旋
+tagItemSkillD3100Desc=发射冰霜旋转刃形成螺旋，对敌人造成寒冷割伤。
+
+tagItemSkillD3101=恩皮里昂的警示
+tagItemSkillD3101Desc=恩皮里昂的怒火降临敌人，使其明白警告，无需言语。
+
+tagItemSkillD3102=沃托亚的复仇
+tagItemSkillD3102Desc=毒刺从地面喷发，打击周围敌人。
+
+tagItemSkillD3103=战争的使者
+
+tagItemSkillD3104=铭刻符印
+tagItemSkillD3104Desc=诅咒目标，附加削弱符印，使其更易受到元素法术伤害。
+
+tagItemSkillD3105=时间之波
+tagItemSkillD3105Desc=时间之潮撕裂敌人体内的生命力。
+
+tagItemSkillD3106=毒环
+tagItemSkillD3106Desc=召唤致命之环，使站在区域内的敌人中毒。
+
+tagItemSkillD3107=崇拜印记
+tagItemSkillD3107Desc=用邪教符文标记敌人，使其虚弱并受到虚化伤害。
+
+tagItemSkillD3108=亡者军团
+tagItemSkillD3108Desc=召唤庞大的骷髅军团轰击指定地点，对区域内敌人造成伤害。 ^o亡者军团随玩家伤害加成增强。
+tagItemSkillD3108Pet=骷髅碰撞
+
+tagItemSkillD3109=召唤骷髅队长
+tagItemSkillD3109Desc=召唤更强大的骷髅协助战斗。 ^o骷髅队长随宠物伤害加成增强。
+tagItemSkillD3109Pet=骷髅队长
+
+tagD3109PetSkill01=死灵斩
+tagD3109PetSkill02=永恒安魂曲
+tagD3109PetSkill03=冰霜安魂
+
+tagItemSkillD3110=正义领域
+tagItemSkillD3110Desc=召唤天使领域保护盟友并驱散敌人。 ^o正义领域随玩家伤害加成增强。
+tagD3110PetSkill01=圣化
+tagD3110PetSkill02=驱逐
+
+tagItemSkillD3111=志水之专注
+tagItemSkillD3111Desc=集中精神以提升你的攻击力。
+
+tagItemSkillD3112=月光守护
+tagItemSkillD3112Desc=月之祝福保护你免受元素伤害。
+
+tagItemSkillD3113=永恒折磨
+tagItemSkillD3113Desc=腰带赋予你施放三种死灵诅咒之一的机会。
+
+tagItemSkillD3114=混乱之舞
+tagItemSkillD3114Desc=被击杀的敌人会爆炸，造成近身敌人的物理和流血伤害。
+
+tagItemSkillD3115=圣眼戒指
+tagItemSkillD3115Desc=创造集中力量的领域，提高你攻击的威力。
+tagItemSkillD3115B=力量圆环
+
+tagItemSkillD3116=蔓延诅咒
+tagItemSkillD3116Desc=施加可传播的诅咒，伤害敌人并降低其抗性。
+
+tagItemSkillD3117=克里斯宾的审判
+tagItemSkillD3117Desc=对敌人施加诅咒，使其减速并降低部分抗性。
+
+tagItemSkillD3118=空洞低语
+tagItemSkillD3118Desc=偶尔使灵魂缠绕附近敌人数秒。
+
+tagItemSkillD3119=布尔-卡索斯之饥
+tagItemSkillD3119Desc=暂时获得光环，对附近敌人造成伤害，并将部分伤害转化为生命。
+
+tagItemSkillD3120=召唤野猪伙伴
+tagItemSkillD3120Desc=永久召唤野猪协助战斗。
+tagItemSkillD3120Pet=野猪伙伴
+tagItemSkillD3120Pet01=冰霜冲锋
+tagItemSkillD3120Pet02=冰牙
+tagItemSkillD3120Tracker=已召唤1只野猪伙伴
+
+tagItemSkillD3121=天神之拳
+tagItemSkillD3121Desc=召唤圣光之雷爆炸，形成能量领域，对区域内敌人造成伤害数秒。
+
+tagItemSkillD3122=食人鱼龙卷
+tagItemSkillD3122Desc=召唤食人鱼旋风，对区域内敌人造成伤害并使其混乱，持续五秒。
+
+tagItemSkillD3123=压倒之力
+tagItemSkillD3123Desc=召唤雷电击打你所在位置，对附近敌人造成物理和流血伤害。
+
+tagItemSkillD3124=沐光之环
+tagItemSkillD3124Desc=以圣光光环环绕自身，对附近敌人造成伤害。
+
+tagItemSkillD3125=本质符印
+tagItemSkillD3125Desc=召唤符印吸取站在其上的生物的生命力。
+
+tagItemSkillD3126=生命球
+tagItemSkillD3126Desc=生成生命球，立即恢复部分生命。
+tagItemSkillD3126B=治疗
+
+tagItemSkillD3127=启示
+tagItemSkillD3127Desc=镜球揭示敌人的弱点。
+
+tagItemSkillD3128=毒性陷阱
+tagItemSkillD3128Desc=在目标区域放置陷阱，3秒后或敌人靠近时爆炸，使敌人中毒并降低其毒抗性6秒。 ^o毒性陷阱随玩家伤害加成增强。
+tagItemSkillD3128B=毒爆
+
+tagItemSkillD3129=冰霜陷阱
+tagItemSkillD3129Desc=在目标区域放置陷阱，3秒后或敌人靠近时爆炸，使敌人冻结并降低攻击速度与寒冷抗性5秒。 ^o冰霜陷阱随玩家伤害加成增强。
+tagItemSkillD3129B=寒冰爆炸
+tagItemSkillD3129C=冰冷重击
+
+tagItemSkillD3130=死亡陷阱
+tagItemSkillD3130Desc=在目标区域布置陷阱，1秒后触发，对最多10个敌人进行快速多重打击，并使其晕眩且降低抗性。 ^o死亡陷阱随玩家伤害加成增强。
+tagItemSkillD3130B=肢解
+
+tagItemSkillD3131=暗影陷阱
+tagItemSkillD3131Desc=在目标区域布置陷阱，1秒后触发，对最多10个敌人快速攻击，使其晕眩。 ^o暗影陷阱随玩家伤害加成增强。
+tagItemSkillD3131B=暗影斩击
+
+tagItemSkillD3132=风暴箭雨
+tagItemSkillD3132Desc=召唤风暴弓手射击电箭，对敌人穿透并释放碎片。 ^o风暴弓手随玩家伤害加成增强。
+tagItemSkillD3132B=电箭
+tagItemSkillD3132C=风暴弓手
+
+tagItemSkillD3133=冰霜箭雨
+tagItemSkillD3133Desc=召唤冰霜弓手射出寒箭，冻结敌人1秒。被冰霜弓手伤害击杀的敌人会触发“牙齿喷射”的变体。 ^o冰霜弓手随玩家伤害加成增强。
+tagItemSkillD3133B=冰霜弓手
+tagItemSkillD3133C=寒箭
+tagItemSkillD3133D=牙齿喷射
+
+tagItemSkillD3134=集群箭雨
+tagItemSkillD3134Desc=召唤火焰弓手射击火焰箭，每支箭在命中时释放2个手榴弹。 ^o火焰弓手随玩家伤害加成增强。
+tagItemSkillD3134B=集群箭
+tagItemSkillD3134C=火焰弓手
+
+tagItemSkillD3135=不稳电流
+tagItemSkillD3135Desc=发射闪电投射物，最多弹射至4个目标，每次命中释放3个旋转火花持续伤害附近敌人。
+
+tagItemSkillD3136=深度冰封
+tagItemSkillD3136Desc=以冰壁覆盖自身，吸收所有伤害，大幅恢复生命，并对攻击你的敌人造成寒冷伤害。
+
+tagItemSkillD3137=暗影步
+tagItemSkillD3137Desc=进入暗影领域，使敌人致盲并扰乱技能数秒。
+
+tagItemSkillD3138=毒蔓波
+tagItemSkillD3138Desc=发射毒波，对路径上的所有敌人施加诅咒，使其受到毒伤害并降低酸抗性5秒。
+
+tagItemSkillD3139=暗影荆棘
+tagItemSkillD3139Desc=诅咒敌人，降低防御，并在5秒内造成寒冷和活力伤害。
+
+tagItemSkillD3140=黑暗斗篷
+tagItemSkillD3140Desc=保护你免受黑夜带来的危险。
+
+tagItemSkillD3141=行尸
+tagItemSkillD3141Desc=击杀的敌人变为行尸，受你指挥作战。 ^o行尸随玩家伤害加成增强。
+tagItemSkillD3141B=触手斩
+
+tagItemSkillD3142=火焰护盾
+tagItemSkillD3142Desc=覆盖自身火焰护盾，免疫灼烧与冻结效果，提供物理抗性并焚烧附近敌人。 ^o需切换维持效果。
+
+tagItemSkillD3143=死亡之拥
+tagItemSkillD3143Desc=环绕死灵能量削弱附近敌人。 ^o需切换维持效果。
+
+tagItemSkillD3144=炽烈仇恨
+tagItemSkillD3144Desc=每次暴击点燃你对邪恶的愤怒。
+
+tagItemSkillD3145=诱饵
+tagItemSkillD3145Desc=召唤镜像吸引敌人并爆炸，使附近敌人虚弱数秒。
+tagItemSkillD3145B=爆炸幻象
+
+tagItemSkillD3146=暮光圣殿
+tagItemSkillD3146Desc=创建受祝福的圣殿，提升你和盟友在区域内的抗性。
+tagItemSkillD3146B=暮光护盾
+
+tagItemSkillD3147=吞噬烈焰
+tagItemSkillD3147Desc=发射直线火焰波，每次击中敌人向不同方向扩散，燃烧敌人并降低其火抗性5秒。
+
+tagItemSkillD3148=共鸣
+tagItemSkillD3148Desc=以爆裂回声扰乱周围敌人。
+
+tagItemSkillD3149=安达利尔腐蚀
+tagItemSkillD3149Desc=腐蚀敌人站立的地面，造成酸与毒伤害，并降低战斗能力2秒。
+
+tagItemSkillD3150=科万之欲
+tagItemSkillD3150Desc=科万对途中的恶魔毫不留情。
+
+tagItemSkillD3151=猛击
+tagItemSkillD3151Desc=以风暴之力重击敌人。 ^o触发自默认武器攻击。
+
+tagItemSkillD3152=流星之道
+tagItemSkillD3152Desc=发射宇宙能量箭，命中敌人后召唤流星。 ^o触发自默认武器攻击。
+
+tagItemSkillD3153=穿刺
+tagItemSkillD3153Desc=发射穿透敌人的利刃，使其流血并减速数秒。
+
+tagItemSkillD3154=光之波
+tagItemSkillD3154Desc=将圣铃投向目标，对区域内敌人造成神圣伤害。
+
+tagItemSkillD3155=箭术精准
+tagItemSkillD3155Desc=贾森德的箭手以精湛战技著称。 ^o这是远程武器的被动加成。
+
+tagItemSkillD3156=苍蓝之怒
+tagItemSkillD3156Desc=释放寒冷电击，对周围敌人造成大量伤害并降低防御能力。
+
+tagItemSkillD3157=血之波
+tagItemSkillD3157Desc=释放血波，吸取敌人生命。
+
+tagItemSkillD3158=尸体蔓藤
+tagItemSkillD3158Desc=从尸体中喷出血脉，将附近敌人拉向死亡地点。
+
+tagItemSkillD3159=暗影迷雾
+tagItemSkillD3159Desc=释放黑暗迷雾，对路径上的敌人施加诅咒，造成寒冷与活力伤害并降低抗性5秒。
+
+tagItemSkillD3160=召唤绯红死神
+tagItemSkillD3160Desc=召唤绯红死神，对所有敌人血腥终结。
+tagItemSkillD3160Pet=绯红死神
+tagItemSkillD3160B=绯红之触
+tagItemSkillD3160C=吸血新星
+
+tagItemSkillD3161=地狱火
+tagItemSkillD3161Desc=召唤一圈地狱之火，燃烧站在其中的敌人并降低他们的防御。
+tagItemSkillD3161Pet=地狱之圈
+tagItemSkillD3161B=地狱烈焰
+tagItemSkillD3161C=地狱触手
+
+tagItemSkillD3162=生命导体
+tagItemSkillD3162Desc=召唤电能实体，降低敌人伤害和抗性，并持续攻击附近敌人。
+tagItemSkillD3162A=电击
+tagItemSkillD3162B=闪电导体
+
+tagItemSkillD3163=血魔法
+tagItemSkillD3163Desc=使用这把剑的魔法会吸取你的生命，但能获得强大力量。
+
+tagItemSkillD3164=无尽寒冬
+tagItemSkillD3164Desc=在区域内召唤雪暴，对敌人造成冰霜伤害并减速数秒。
+
+tagItemSkillD3165=神圣爆发
+tagItemSkillD3165Desc=释放神圣能量爆炸，对周围敌人造成神圣伤害。
+
+tagItemSkillD3166=雷电化身
+tagItemSkillD3166Desc=将敌人转化为闪电导体，在6秒内电击附近敌人并降低其抗性。
+
+tagItemSkillD3167=奥菲斯之手势
+tagItemSkillD3167Desc=权杖周期性保护持有者，恢复生命并增强一种元素力量。
+
+tagItemSkillD3168=命运碎片
+tagItemSkillD3168Desc=发射附魔奥术能量的碎片，穿透敌人，造成元素伤害并短时间降低其抗性。
+
+tagItemSkillD3169=正义先驱
+tagItemSkillD3169Desc=在战场上展现威压，提高伤害和部分抗性。
+
+tagItemSkillD3170=骸骨王之怒
+tagItemSkillD3170Desc=释放幽灵骷髅新星攻击周围敌人。
+
+tagItemSkillD3171=震地打击
+tagItemSkillD3171Desc=释放震波，对周围敌人造成物理伤害，并有几率眩晕1秒。
+
+tagItemSkillD3172=圣光之地
+tagItemSkillD3172Desc=神圣化地面，在区域内对敌人造成神圣伤害持续数秒。
+
+tagItemSkillD3173=黑死
+tagItemSkillD3173Desc=镰刀对敌人施加瘟疫诅咒，迅速扩散至附近敌人。
+
+tagItemSkillD3174=瞬冻
+tagItemSkillD3174Desc=盾牌快速降低周围空气温度，对敌人造成冰霜伤害并短时间冻结。
+
+tagItemSkillD3175=风暴护盾
+tagItemSkillD3175Desc=投掷盾牌打击多个目标，并对敌人及其周围敌人释放闪电。
+
+tagItemSkillD3176=收获之时
+tagItemSkillD3176Desc=用收获月的奥术力量打击目标，对区域内敌人造成大量元素伤害，并在3秒内降低抗性。
+
+tagItemSkillD3177=蝙蝠之幕
+tagItemSkillD3177Desc=你被蝙蝠包围，对附近敌人持续造成伤害。
+
+tagItemSkillD3178=血之冲击
+tagItemSkillD3178Desc=释放血之新星，对附近敌人造成生命力伤害。
+
+tagItemSkillD3179=虚空步
+tagItemSkillD3179Desc=你的脚步被虚空能量强化，对站在你附近的敌人造成伤害并降低防御能力。
+
+tagItemSkillD3180=被诅咒之角
+tagItemSkillD3180Desc=激活魔力之角，短时间内增加伤害并回复生命。
+
+tagItemSkillD3181=混沌军团
+tagItemSkillD3181Desc=召唤虚空影子克隆协助战斗18秒。 ^o影子克隆随玩家伤害加成提升。
+tagItemSkillD3181Pet=影子克隆
+
+tagItemConsumableTyrael=泰瑞尔精华
+tagItemConsumableTyraelDesc=用于召唤正义大天使泰瑞尔，在拯救他免于堕落后，他将为你战斗5分钟，然后返回圣域。
+
+COSMETICS
+
+tagItemSetD3CosmeticSet01=血之伯爵化妆服
+tagItemSetD3CosmeticSet01Desc=卡拉杜尔伯爵的服饰，一位居住在北方城堡的血魔法师。{^n}{^n}{^y}化妆套装: {^o}此套装不提供加成，仅供幻象师商店时装使用。{^n}
+tagItemSetD3CosmeticTorso=血之伯爵长袍
+tagItemSetD3CosmeticShoulder=血之伯爵披肩
+tagItemSetD3CosmeticHair=血之伯爵发型
+
+tagItemCosmeticWings01=莉莉丝之翼
+tagItemCosmeticWings02=巨鲸之翼
+tagItemCosmeticWings03=流浪者之翼
+tagItemCosmeticWings04=D3 第28赛季之翼
+tagItemCosmeticWings05=伊纳瑞斯之翼
+tagItemCosmeticWings06=冒险者披风
+
+SHRINES
+
+tagShrineD301=被暗黑破坏神腐朽的神殿
+tagShrineD302=被玛瑟尔破坏的神殿
+tagShrineD303=堕落神殿: 泰瑞尔的折磨
+tagShrineD304=被阿兹莫丹破坏的神殿
+tagShrineD305=被贝利亚破坏的神殿
+tagShrineD306=被阿德里亚破坏的神殿
+tagShrineD307=被莱奥里克破坏的神殿
+tagShrineD308=被佐尔顿库勒破坏的神殿
+tagShrineD309=被屠夫破坏的神殿
+
+RUNES
+
+tagRuneD301=^cAhu
+tagRuneD301Desc=^w由 ^b达玛拉^w（符文匠）使用的组件，可在恶魔裂谷制作符文词。将两种不同符文组合形成 ^c符文词^w
+tagRuneD302=^cGar
+tagRuneD303=^cCir
+tagRuneD304=^cEom
+tagRuneD305=^cZan
+tagRuneD306=^cQax
+tagRuneD307=^cPoc
+tagRuneD308=^cNer
+tagRuneD309=^cMoni
+tagRuneD310=^cVex
+tagRuneD311=^cNoc
+tagRuneD312=^cLum
+tagRuneD313=^cKaa
+tagRuneD314=^cLac
+tagRuneD315=^cBac
+tagRuneD316=^cTal
+tagRuneD317=^cNeo
+tagRuneD318=^cXal
+tagRuneD319=^cFeo
+tagRuneD320=^cTun
+tagRuneD321=^cCem
+tagRuneD322=^cKry
+tagRuneD323=^cYax
+tagRuneD324=^cYul
+tagRuneD325=^cYom
+tagRuneD326=^cThul
+tagRuneD327=^cTam
+tagRuneD328=^cXan
+tagRuneD329=^cLith
+tagRuneD330=^cWat
+tagRuneD331=^cTec
+tagRuneD332=^cXol
+tagRuneD333=^cMot
+
+RUNEWORDS
+
+tagSuppliesComplete=符文词
+tagSuppliesHelp=符文词只能附加于头部护甲。
+
+tagRunewordD301=^c"阿呼加尔"
+tagRunewordD301Desc=^w恶魔猎手获得 ^i超脱 ^w符文效果。{^n}{^n}^w闪避技能冷却时间减少50%，距离增加30%。
+
+tagRunewordD302=^c"西尔依欧姆"
+tagRunewordD302Desc=^w恶魔猎手获得 ^o最终复仇 ^w符文效果。
+
+tagRunewordD303=^c"波克奈尔"
+tagRunewordD303Desc=^w恶魔猎手获得 ^b陷阱大师 ^w符文效果。
+
+tagRunewordD304=^c"莫尼维克斯"
+tagRunewordD304Desc=^w恶魔猎手获得 ^i共担负荷 ^w符文效果。
+
+tagRunewordD305=^c"卡拉克"
+tagRunewordD305Desc=^b持续爆破: ^w群体箭穿透敌人并有33%概率重置冷却。
+
+tagRunewordD309=^c"巴克塔尔"
+tagRunewordD309Desc=^w血骑士获得 ^r血脉之荣 ^w符文效果。
+
+tagRunewordD310=^c"尼奥萨尔"
+tagRunewordD310Desc=^w血骑士获得 ^r吸血狂虐 ^w符文效果。
+tagRunewordD310b=^c"尼奥萨尔"（增强）
+tagRunewordD310bDesc=^w血骑士获得 ^r吸血狂虐（增强） ^w符文效果。
+
+tagRunewordD311=^c"菲奥图恩"
+tagRunewordD311Desc=^y翼之庇护: ^w靠近 ^r蝙蝠群 ^w时，受到伤害降低20%。 ^o需要在蝙蝠群技能点数达到16。
+
+tagRunewordD312=^c"塞姆克莱"
+tagRunewordD312Desc=^w血骑士获得 ^r赤红命运 ^w符文效果。
+
+tagRunewordD313=^c"尤尔尤姆"
+tagRunewordD313Desc=^w死灵法师获得 ^t亡者军团 ^w符文效果。
+tagRunewordD313b=^c"尤尔尤姆"（增强）
+tagRunewordD313bDesc=^w死灵法师获得增强版 ^t亡者军团 ^w符文效果。
+
+tagRunewordD314=^c"利斯萨恩"
+tagRunewordD314Desc=^y准备战斗: ^t召唤骷髅 ^w和 ^b骷髅弓箭手 ^w在复活后获得无敌状态并提升15%伤害，冷却增加6秒。
+
+tagRunewordD315=^c"塔姆瓦特"
+tagRunewordD315Desc=^y早死: ^w受到 ^b衰老术 ^w影响的敌人低于15%生命值时立即死亡。 ^o衰老术需在生命降至15%前激活。
+
+tagRunewordD316=^c"巴克图尔"
+tagRunewordD316Desc=^w死灵法师获得 ^g新星法师 ^w符文效果。
+tagRunewordD316b=^c"巴克图尔"（增强）
+tagRunewordD316bDesc=^w死灵法师获得增强版 ^g新星法师 ^w符文效果。
+
+tagRunewordD317=^c"赞加尔"
+tagRunewordD317Desc=^w野蛮人获得 ^h贪婪 ^w符文效果。
+
+tagRunewordD318=^c"阿呼塔尔"
+tagRunewordD318Desc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
+tagRunewordD318b=^c"阿呼塔尔"（变换）
+tagRunewordD318bDesc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
+tagRunewordD318c=^c"阿呼塔尔"（增强）
+tagRunewordD318cDesc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
+tagRunewordD318d=^c"阿呼塔尔"（变换）(增强)
+tagRunewordD318dDesc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
+
+tagRunewordD319=^c"亚克奈尔"
+tagRunewordD319Desc=^w野蛮人获得 ^h跃地震 ^w符文效果。
+tagRunewordD319b=^c"亚克奈尔"（变换）
+tagRunewordD319bDesc=^w野蛮人获得 ^h跃地震 ^w符文效果。
+tagRunewordD319c=^c"亚克奈尔"（增强）
+tagRunewordD319cDesc=^w野蛮人获得 ^h跃地震 ^w符文效果。
+tagRunewordD319d=^c"亚克奈尔"（变换）（增强）
+tagRunewordD319dDesc=^w野蛮人获得 ^h跃地震 ^w符文效果。
+
+tagRunewordD320=^c"波克萨尔"
+tagRunewordD320Desc=^w巫医获得 ^b灵魂收割者 ^w符文效果。
+
+tagRunewordD321=^c"莫尼加尔"
+tagRunewordD321Desc=^w巫医获得 ^g蜘蛛女王 ^w符文效果。
+
+tagRunewordD322=^c"赞克莱"
+tagRunewordD322Desc=^w巫医获得 ^b灵魂放电 ^w符文效果。
+tagRunewordD322b=^c"赞克莱"（增强）
+tagRunewordD322bDesc=^w巫医获得增强版 ^b灵魂放电 ^w符文效果。
+
+tagRunewordD323=^c"卡鲁姆"
+tagRunewordD323Desc=^w巫医获得 ^o飞镖 ^w符文效果。
+tagRunewordD323b=^c"卡鲁姆"（变换）
+tagRunewordD323bDesc=^w巫医获得 ^g飞镖（毒素） ^w符文效果。
+
+tagRunewordD324=^c“费欧拉克”
+tagRunewordD324Desc=^y升华真言：^p治疗真言 ^w现在可提供接近生命药水 50% 的效果，但你将无法再使用生命药水。
+
+tagRunewordD325=^c“塞姆通”
+tagRunewordD325Desc=^w武僧获得 ^c雷霆使者 ^w符文效果。
+
+tagRunewordD325b=^c“塞姆通”（强化）
+tagRunewordD325bDesc=^w武僧获得 ^c雷霆使者（强化） ^w符文效果。
+
+tagRunewordD326=^c“诺克维克斯”
+tagRunewordD326Desc=^w武僧获得 ^b气流狂热 ^w符文效果。
+
+tagRunewordD326b=^c“诺克维克斯”（强化）
+tagRunewordD326bDesc=^w武僧获得 ^b气流狂热（强化） ^w符文效果。
+
+tagRunewordD327=^c“塔姆赞”
+tagRunewordD327Desc=^y合一：^w当你靠近 ^c神秘盟友^w 时，获得 10% 伤害吸收。若存在不同类型的神秘盟友，该效果将以乘法方式叠加。^o需要在 ^c神秘盟友^o 上投入 12 点技能点。
+
+tagRunewordD328=^c“瑟尔沃特”
+tagRunewordD328Desc=^w巫师获得 ^b绝对零度 ^w符文效果。
+
+tagRunewordD329=^c“尼欧泰克”
+tagRunewordD329Desc=^w巫师获得 ^p短路 ^w符文效果。
+
+tagRunewordD330=^c“诺克约姆”
+tagRunewordD330Desc=^w巫师获得 ^b极寒刺骨 ^w符文效果。
+
+tagRunewordD331=^c“索尔卡斯”
+tagRunewordD331Desc=^y孤身作战：^w当 ^p能量护甲 ^w激活时，你的总伤害提高 20%，最大施法速度提高 10%。但你将无法再施放 ^o九头蛇 ^w和 ^p镜像^w。
+
+tagRunewordD332=^c“索尔图尔”
+tagRunewordD332Desc=^w圣教军获得 ^c我能战斗一整天 ^w符文效果。
+
+tagRunewordD333=^c“利斯伊欧姆”
+tagRunewordD333Desc=^w圣教军获得 ^k圣莲 ^w符文效果。
+
+tagRunewordD334=^c“尤尔莫特”
+tagRunewordD334Desc=^y豪胆：^k坚守阵地 ^w现在启用并要求近战武器双持。但你将无法再使用 ^s闪避。
+
+tagRunewordD335=^c“卡阿泰克”
+tagRunewordD335Desc=^y人间天堂：^k天堂之怒 ^w现在会以神圣能量锁链束缚敌人，持续对其造成神圣伤害，并降低其元素抗性 2%，在等级 12 时提升至 10%，等级 22 时提升至 15%。锁链造成的伤害可叠加，抗性降低效果与基础技能的减抗效果为加法叠加。^o当使用 ^b苍蓝之怒^o 时，锁链造成的火焰伤害将转化为寒冷伤害。
+
+tagRunewordD336=^c“阿胡卡斯”
+tagRunewordD336Desc=^w武僧获得 ^b耐心是弱者的借口 ^w符文效果。
+
+
+
+tagGDX1HeadD129=赤红王之面具
+tagGDX1ShoulderD126=赤红王之卷轴
+tagGDX1TorsoD126=赤红王之铠甲
+tagGDX1NecklaceD125=赤红王之吊坠
+tagGDX1Blueprint_ArmorD170=蓝图=赤红王之面具
+tagGDX1ItemSetD123Name=赤红之王
+tagGDX1ItemSetD123Desc="纳扎兰领主的血色铠甲，他曾是一名血骑士，后来成为赤红之王。"

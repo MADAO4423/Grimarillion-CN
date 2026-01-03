@@ -1,0 +1,215 @@
+
+tagSkillClassName12=武僧
+tagSkillClassName0112=战祭司
+tagSkillClassName0212=光明使者
+tagSkillClassName0312=腐化者
+tagSkillClassName0412=舞刃者
+tagSkillClassName0512=先知
+tagSkillClassName0612=雷霆领主
+tagSkillClassName0712=符文大师
+tagSkillClassName0812=灵魂缚者
+tagSkillClassName0912=苦行者
+tagSkillClassName1012=圣猎者
+tagSkillClassName1112=导引者
+tagSkillClassName3712=圣猎者
+
+tagSkillClassDescriptionMonk=武僧是圣洁的战士，他们通过坚强的意志力引导神圣力量。治疗之波、防护真言和被圣力强化的攻击皆在他们的掌控之中。 ^n^s由Grimer为暗黑破坏神3模组改编
+
+#ClassMonk
+tagClassMonkSkillName00=武僧
+tagClassMonkSkillDescription00="众神指引我，你无法获胜。"
+
+tagClassMonkSkillName01A=雷霆之拳{^K} 「武僧」^-
+tagClassMonkSkillDescription01A=用雷霆的祝福强化自身，每第三次攻击敌人时生效。 ^o需要近战武器，可用作默认攻击。{^n}{^n}{^y}静电充能 {^o}(技能等级16解锁){^n}^w每第三次攻击额外晕眩敌人1秒。
+
+tagClassMonkSkillName01B=光速跃击{^K} 「武僧」^-
+tagClassMonkSkillDescription01B=每第三次攻击还会向附近敌人释放闪电链，在2秒内造成电击伤害。
+
+tagClassMonkSkillName01C=雷鸣一击{^K} 「武僧」^-
+tagClassMonkSkillDescription01C=强化攻击击中额外目标，并在3秒内对其造成电击伤害。
+
+tagClassMonkSkillName01D=神话节奏{^K} 「武僧」^-
+tagClassMonkSkillDescription01D=雷霆之拳在激活时提升你的伤害5秒。 ^o神话节奏在激活时影响所有技能。
+
+tagClassMonkSkillName02A=光之波{^K} 「武僧」^-
+tagClassMonkSkillDescription02A=发射一道光波，对敌人造成闪电与物理伤害。{^n}{^n}{^y}光之墙 {^o}(技能等级16解锁){^n}^w光之波眩晕敌人4秒。
+
+tagClassMonkSkillName02B=强化之波{^K} 「武僧」^-
+tagClassMonkSkillDescription02B=光波充能强力一击，对敌人造成电击并在3秒内造成内部创伤，伤害增加。
+
+tagClassMonkSkillName02C=爆裂之光{^K} 「武僧」^-
+tagClassMonkSkillDescription02C=释放神圣能量，对契顿与亡灵敌人造成额外伤害。
+
+tagClassMonkSkillName03A=冲锋击{^K} 「武僧」^-
+tagClassMonkSkillDescription03A=快速冲向目标位置，对途中的敌人造成闪电与物理伤害。{^n}{^n}{^y}水银 {^o}(技能等级16解锁){^n}^w获得25%几率重置冲锋击冷却。
+
+tagClassMonkSkillName03B=眩目疾速{^K} 「武僧」^-
+tagClassMonkSkillDescription03B=冲锋击造成敌人内伤，使其攻击效果降低。
+
+tagClassMonkSkillName04A=风暴疾行{^K} 「武僧」^-
+tagClassMonkSkillDescription04A=周身环绕电能，提高移动速度并定期对附近敌人造成闪电伤害。{^n}{^n}{^y}狂风 {^o}(技能等级12解锁){^n}^w命中的敌人被击倒，并在4秒内造成20%伤害降低。
+
+tagClassMonkSkillName04B=连击风暴{^K} 「武僧」^-
+tagClassMonkSkillDescription04B=周期性对附近敌人造成冰霜冲击，有概率冻结敌人2秒。
+
+tagClassMonkSkillName05A=决心{^K} 「武僧」^-
+tagClassMonkSkillDescription05A=你造成的伤害降低敌人的攻击力4秒。 {^n}{^n}{^y}伊塔之光 {^o}(技能等级8解锁){^n}^w降低技能冷却10%。
+
+tagClassMonkSkillName06A=治疗真言{^K} 「武僧」^-
+tagClassMonkSkillDescription06A=释放神圣能量治疗自身及附近盟友，赋予60秒生命恢复与防御力加成。{^n}{^n}{^y}天体 {^o}(技能等级12解锁){^n}^w你和盟友的生命值提升25%。
+
+tagClassMonkSkillName06B=救赎真言{^K} 「武僧」^-
+tagClassMonkSkillDescription06B=提高你和盟友的治疗效果以及对元素、毒素和流血伤害的抗性。
+
+tagClassMonkSkillName06C=复仇真言{^K} 「武僧」^-
+tagClassMonkSkillDescription06C=提升你和盟友的伤害来源，同时赋予火焰反击。
+
+tagClassMonkSkillName07A=敏捷{^K} 「武僧」^-
+tagClassMonkSkillDescription07A=提升攻击力与施法速度。{^n}{^n}{^y}势能 {^o}(技能等级12解锁){^n}^w获得30%减缓效果抗性。
+
+tagClassMonkSkillName07B=和谐{^K} 「武僧」^-
+tagClassMonkSkillDescription07B=降低元素抗性以获得对混沌、虚化和活力伤害的额外防护。
+
+tagClassMonkSkillName07C=守护之道{^K} 「武僧」^-
+tagClassMonkSkillName07CDesc=增加元素伤害和闪避敌人攻击的几率。 {^o}此为近战双持加成，并允许双持近战武器。
+
+tagClassMonkSkillName08A=削弱之波{^K} 「武僧」^-
+tagClassMonkSkillDescription08A=发动扫击，对前方敌人造成闪电伤害，并在4秒内降低其移动速度。 ^o需要近战武器，可使用默认攻击。{^n}{^n}{^y}震慑 {^o}(技能等级12解锁){^n}^w减少敌人25%伤害，持续4秒。
+
+tagClassMonkSkillName08B=破波{^K} 「武僧」^-
+tagClassMonkSkillDescription08B=削弱之波对敌人造成电击，并在数秒内降低其攻击力。伤害增加。
+
+tagClassMonkSkillName08C=海啸{^K} 「武僧」^-
+tagClassMonkSkillDescription08C=用冰霜之击打击敌人，并短暂冻结。
+
+tagClassMonkSkillName09A=爆裂掌{^K} 「武僧」^-
+tagClassMonkSkillDescription09A=攻击敌人造成额外冰冷伤害并冰冻3秒。被击杀的敌人会爆炸，对附近敌人造成巨大伤害。被爆炸击杀的敌人同样会爆炸。 ^o需要近战武器，可用作默认攻击。{^n}{^n}{^y}肉体脆弱 {^o}(技能等级12解锁){^n}^w爆裂掌降低敌人所有抗性25，爆炸同样适用，但不叠加。
+
+tagClassMonkSkillName09B=末日预兆{^K} 「武僧」^-
+
+tagClassMonkSkillName09C=爆裂标记{^K} 「武僧」^-
+
+tagClassMonkSkillName09D=震撼掌{^K} 「武僧」^-
+tagClassMonkSkillDescription09D=爆裂掌造成额外闪电伤害，并在3秒内电击敌人。基础伤害增加。
+
+tagClassMonkSkillName09E=复制{^K} 「武僧」^-
+
+tagClassMonkSkillName10A=旋风击{^K} 「武僧」^-
+tagClassMonkSkillDescription10A=将周围敌人拉拢，造成圣能伤害并击倒1秒。{^n}{^n}{^y}宁神之风 {^o}(技能等级16解锁){^n}^w造成伤害的15%转化为生命。
+
+tagClassMonkSkillName10B=阳光爆{^K} 「武僧」^-
+tagClassMonkSkillDescription10B=以更大范围爆炸攻击敌人，焚烧敌人并在3秒内降低其防御力。
+
+tagClassMonkSkillName10C=宁神之风{^K} 「武僧」^-
+tagClassMonkSkillDescription10C=旋风击治疗你和盟友，并减少负面状态持续时间5秒。
+
+tagClassMonkSkillName10D=风之壁{^K} 「武僧」^-
+tagClassMonkSkillDescription10D=敌人被冻结2秒，火焰伤害转为冰冷。
+
+tagClassMonkSkillName11A=超越{^K} 「武僧」^-
+tagClassMonkSkillDescription11A=每秒将部分能量转换为生命。{^n}{^n}{^y}决心 {^o}(技能等级12解锁){^n}^w在超越激活期间，所有伤害（包括加成伤害）提升20%。
+
+tagClassMonkSkillName12A=宁静{^K} 「武僧」^-
+tagClassMonkSkillDescription12A=被保护屏障包裹，吸收所有伤害3秒并增加控制抗性。{^n}{^n}{^y}安然 {^o}(技能等级10解锁){^n}^w激活宁静时获得大量生命回复。
+
+tagClassMonkSkillName13A=旋风之风{^K} 「武僧」^-
+tagClassMonkSkillDescription13A=环绕自身形成漩涡，持续对周围敌人造成冰霜与闪电伤害。{^n}{^n}{^y}风之大师 {^o}(技能等级16解锁){^n}^w旋风之风有15%几率冻结目标2秒。
+
+tagClassMonkSkillName13B=内旋风{^K} 「武僧」^-
+tagClassMonkSkillDescription13B=漩涡电击敌人，并在2秒内降低其元素抗性。
+
+tagClassMonkSkillName13C=气旋{^K} 「武僧」^-
+tagClassMonkSkillDescription13C=漩涡激活期间，有概率生成追踪敌人的气旋，2秒内电击敌人，可使目标混乱，持续6秒。旋风之风伤害增加。
+
+tagClassMonkSkillName13D=狂怒风暴{^K} 「武僧」^-
+
+tagClassMonkSkillName14A=秘法盟友{^K} 「武僧」^-
+tagClassMonkSkillDescription14A=召唤秘法盟友作战，持续存在直至死亡。共有四种盟友，但一次只能激活一个。 ^o秘法盟友伤害随玩家加成提升。{^n}{^n}{^a}空气盟友{^n}{^y}迅捷光环: {^w}提升你和盟友的移动速度、眩晕及束缚抗性和能量恢复。{^n}{^y}旋风之风: {^w}造成冰霜与闪电伤害的攻击光环。{^n}{^y}旋风环: {^w}发射螺旋气旋，造成物理和电击伤害，有可能击飞敌人。{^n}{^n}{^e}地盟友{^n}{^y}力量光环: {^w}你和盟友获得穿刺与物理伤害抗性及额外护甲。{^n}{^y}地面冲击: {^w}撞击地面，使周围敌人受物理伤害并短暂眩晕。{^n}{^y}雪崩: {^w}天石坠落，造成物理伤害及内伤。{^n}{^n}{^b}水盟友{^n}{^y}纯净光环: {^w}提供冻结抗性，减少流血和中毒持续时间。{^n}{^y}巨浪: {^w}发射水波，对敌人造成冰冷伤害并冻结2秒。{^n}{^y}风暴云: {^w}召唤风暴云，对区域敌人造成冰冷与闪电伤害。{^n}{^n}{^o}火盟友{^n}{^y}光辉光环: {^w}提供火焰反击，有概率偏转投射物，减少灼烧持续。{^n}{^y}火焰新星: {^w}释放火焰环烧灼敌人3秒。{^n}{^y}灼烧之触: {^w}火盟友攻击使敌人燃烧2秒。
+
+tagAirAllySkill01=空气盟友
+tagAirAllySkill02=迅捷光环
+tagAirAllySkill03=旋风之风
+tagAirAllySkill04=旋风环
+tagAirAllySkill05=风击
+
+tagEarthAllySkill01=地盟友
+tagEarthAllySkill02=防护光环
+tagEarthAllySkill03=雪崩
+tagEarthAllySkill04=地面重击
+tagEarthAllySkill05=裂地者
+
+tagWaterAllySkill01=水盟友
+tagWaterAllySkill02=纯净光环
+tagWaterAllySkill03=巨浪
+tagWaterAllySkill04=风暴云
+tagWaterAllySkill05=冰霜斩
+
+tagFireAllySkill01=火盟友
+tagFireAllySkill02=光辉光环
+tagFireAllySkill03=火焰新星
+tagFireAllySkill04=灼烧之触
+
+tagEnduringAllySkill01=永恒盟友{^K} 「武僧」^-
+
+tagClassMonkSkillName14B=巨浪{^K} 「武僧」^-
+
+tagClassMonkSkillName14C=秘法斩{^K} 「武僧」^-
+
+tagClassMonkSkillName14D=秘法存在{^K} 「武僧」^-
+
+tagClassMonkSkillName15A=濒死体验{^K} 「武僧」^-
+tagClassMonkSkillDescription15A=生命严重受损时，恢复部分最大生命与能量，并在3秒内免疫伤害及控制效果。
+
+tagClassMonkSkillName16A=顿悟{^K} 「武僧」^-
+tagClassMonkSkillDescription16A=顿悟，增加所有伤害、总速度、治疗效果及攻击力，同时获得控制抗性。{^n}{^n}{^y}沙漠护罩 {^o}(技能等级12解锁){^n}^w获得50%对怪物反弹伤害及生命减少攻击的抗性。
+
+tagClassMonkSkillName17A=救赎真言{^K} 「武僧」^-
+tagClassMonkSkillDescription17A=提升你和盟友的防御力及对元素、毒素和流血伤害的抗性。{^n}{^n}{^y}坚韧目标 {^o}(技能等级10解锁){^n}^w你和盟友的护甲增加25%。
+
+tagClassMonkSkillName18A=治疗真言{^K} 「武僧」^-
+tagClassMonkSkillDescription18A=为你和盟友提供护盾，吸收部分伤害，并提升生命与健康恢复。{^n}{^n}{^y}灵感恩赐 {^o}(技能等级10解锁){^n}^w你和盟友获得5%生命偷取。
+
+tagClassMonkSkillName19A=信念真言{^K} 「武僧」^-
+tagClassMonkSkillDescription19A=减缓周围敌人，并降低其元素抗性与防御力。{^n}{^n}{^y}屈服 {^o}(技能等级12解锁){^n}^w敌人每秒额外受到火焰与闪电伤害。
+
+tagClassMonkSkillName20A=内在圣殿{^K} 「武僧」^-
+tagClassMonkSkillName20ADesc=在地面创建符文圈，对敌人造成圣能伤害，同时为你和盟友提供防御加成、最大抗性提升和伤害吸收6秒。{^n}{^n}{^y}禁忌宫殿 {^o}(技能等级12解锁){^n}^w内在圣殿干扰站在其中敌人的技能。
+
+tagClassMonkSkillName20B=安全避风港{^K} 「武僧」^-
+tagClassMonkSkillName20BDesc=内在圣殿增加生命回复并减少对契顿与亡灵的伤害。
+
+tagClassMonkSkillName20C=保护之殿{^K} 「武僧」^-
+
+tagClassMonkSkillName20D=神圣之地{^K} 「武僧」^-
+
+tagClassMonkSkillName21A=第六感{^K} 「武僧」^-
+tagClassMonkSkillDescription21A=提升体格并增加闪避敌人攻击几率。{^n}{^n}{^y}超越 {^o}(技能等级10解锁){^n}^w提高12%治疗效果。
+
+RUNE EFFECTS
+
+tagMonkRune01=^c雷霆承载者
+tagMonkRune01Desc=每次^c雷霆之拳 ^w暴击时，在你周围形成3秒的风暴云。风暴云周期性向区域敌人发射闪电，造成闪电与电击伤害，33%几率晕眩1秒。被风暴云包围时免疫闪电伤害。{^n}{^n}{^y}符文词: {^c}CemTun
+
+tagMonkRune01b=^c雷霆承载者（强化）
+tagMonkRune01bDesc=每次^c雷霆之拳 ^w暴击时，在你周围形成3秒的风暴云。风暴云周期性向区域敌人发射闪电，造成闪电与电击伤害，33%几率晕眩1秒。被风暴云包围时免疫闪电伤害。{^n}{^n}{^y}符文词: {^c}CemTun（强化）
+
+tagMonkRune01c=符文效果
+tagMonkRune01cDesc=你被雷霆承载者的风暴云包围，免疫闪电伤害。
+
+tagMonkRune02=^c气流掌控
+tagMonkRune02Desc=被 ^b旋风之风 ^w击中的敌人现在在5秒内施放技能的另一种版本，对附近敌人造成冰与闪电伤害，并降低其元素抗性10%。 ^o{^n}{^n}{^y}符文词：{^c}NocVex
+
+tagMonkRune02b=^c气流掌控（强化）
+tagMonkRune02bDesc=被 ^b旋风之风 ^w击中的敌人现在在5秒内施放技能的另一种版本，对附近敌人造成冰与闪电伤害，并降低其元素抗性15%。 ^o{^n}{^n}{^y}符文词：{^c}NocVex（强化）
+
+tagMonkRune02c=符文效果
+tagMonkRune02cDesc=该敌人当前正在施放旋风之风的替代版本。
+
+tagMonkRune03=^c耐心是弱者的特权
+tagMonkRune03Desc=^o敏捷 ^w增加你的最大总速度20%和总伤害30%。然而，敌人不再受到持续伤害，并且只要周围至少有一个敌人生存，你无法使用体质来恢复生命。 ^o{^n}{^n}{^y}符文词：{^c}AhuQax
+
+tagMonkRune03b=符文效果
+tagMonkRune03bDesc=该敌人不再受到持续伤害。
+
+tagRunewordD327b=符文效果
+tagRunewordD327bDesc=当你站在神秘盟友附近时，你受到的伤害会减少。

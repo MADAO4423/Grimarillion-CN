@@ -1,0 +1,553 @@
+*********************
+***BEGIN PROTOSETS***
+*********************
+
+tagSpellslingerPistolD01=Spellslinger's Sidearm
+tagSpellslingerShieldD01=Spellslinger's Sanctuary
+tagSpellslingerShouldersD01=Spellslinger's Shoulderguard
+tagSpellslingerAmuletD01=Spellslinger's Shard
+tagSpellslingerSet=The Spellslinger
+tagSpellslingerSetSkill=Aura of Undoing
+tagSpellslingerSetSkillDesc=Radiate an aura that renders nearby foes more susceptible to the elements and weakens their resolve.
+
+tagBladefallMaceD01=Bladefall's Beacon
+tagBladefallMaceD01Skill=Linear Phantasmal Blades
+tagBladefallMaceD01SkillDesc=Your Phantasmal Blades has a reduced spread angle.
+tagBladefallAxeD01=Bladefall's Breaker
+tagBladefallAxeD01Skill=Nova Phantasmal Blades
+tagBladefallAxeD01SkillDesc=Your Phantasmal Blades behaves like a nova skill.
+tagBladefallHelmetD01=Bladefall's Breach
+tagBladefallTorsoD01=Bladefall's Bluster
+tagBladefallAmuletD01=Bladefall's Bloom
+tagBladefallSet=Bladefall
+tagBladefallSetDesc=Armaments with which to pierce the heavens.
+tagBladefallProc01=Chain Lightning
+tagBladefallProc01Desc=Cascading lightning pierces through one foe to the next, electrifying the world around you.
+tagBladefallProc02=Lightning Bolt
+tagBladefallProc02Desc=The skies above collapse upon your enemies to electrically eviscerate them.
+
+tagVaalPathSwordD01=Exaltation
+tagVaalPathHelmetD01=Valiant Gaze
+tagVaalPathTorsoD01=Valiant Guard
+tagVaalPathMedalD01=Valiant Sign
+tagVaalPathSet=The Valiant Path
+tagVaalPathSetDesc=Even in exile, a path of valiance must be pursued.
+
+tagTwistedHelmD01=Twisted Gaze
+tagTwistedHelmD01Desc=As you don the armor, you find the view it provides is not your own.
+tagTwistedAmuletD01=Twisted Knot
+tagTwistedAmuletD01Desc=As the amulet settles over your chest, your heart beats more swiftly.
+tagTwistedDaggerD01=Twisted Edge
+tagTwistedDaggerD01Desc=The blade carves through flesh with haste, as though eager for blood.
+tagTwistedRingD01=Twisted Band
+tagTwistedRingD01Desc=As you slide the ring over your finger, you find your hands drawn toward others.
+tagTwistedSet=Twisted Adornments
+tagTwistedSetDesc="...for the blood is not theirs, and must be returned to its rightful owner." -UT
+
+tagMeteoricSwordD01=The Fall
+tagMeteoricSwordD01Desc=When the heavens meet the earth, desolation follows.
+tagMeteoricHelmD01=Meteoric Sight
+tagMeteoricHelmD01Desc=Targeting apparatus for the fall of celestial bodies.
+tagMeteoricAmuletD01=Meteoric Gateway
+tagMeteoricAmuletD01Desc="...and the syzygy of orbitals creates a portal through which..."
+tagMeteoricMedalD01=Meteoric Mastery
+tagMeteoricMedalD01Desc=Strength found in total annihilation.
+tagMeteoricSet=Meteoric Might
+tagMeteoricSetDesc=Clandestine cladding causing calamitous collapse.
+tagMeteoricSetSkill=Ruinate
+tagMeteoricSetSkillDesc=Channel the felling of empires and stars into your blade to bring your foes to a devastating end.^n^oThis skill requires a Caster Off-hand. Embers continue to fall over the duration. Only one Ruinate can be active at a time.
+
+tagDancerRifleD01=A Foxtrot Most Fearsome
+tagDancerRifleD01Desc=Blitz the bloodbath.
+tagDancerRifleSkill=Weave
+tagDancerRifleSkillDesc=
+tagDancerSwordD01=A Ballet Most Bloody
+tagDancerSwordD01Desc=Give unto gore.
+tagDancerSwordSkill=Glide
+tagDancerSwordSkillDesc=
+tagDancerHelmD01=A Waltz Most Wailing
+tagDancerHelmD01Desc=Swing into sundering.
+tagDancerHelmSkill01=Driving
+tagDancerHelmSkill01Desc=
+tagDancerHelmSkill02=Collection
+tagDancerHelmSkill02Desc=
+tagDancerAmuletD01=A Tango Most Twisted
+tagDancerAmuletD01Desc=Murder takes two.
+tagDancerAmuletSkill01=Kinaesthesia
+tagDancerAmuletSkill01Desc=
+tagDancerAmuletSkill02=Relevé
+tagDancerAmuletSkill02Desc=
+tagDancerBeltD01=A Samba Most Sinister
+tagDancerBeltD01Desc=Stride unto slaughter.
+tagDancerBeltSkill01=Bounce
+tagDancerBeltSkill01Desc=
+tagDancerBeltSkill02=Footwork
+tagDancerBeltSkill02Desc=
+tagDancerSetD01=A Dance Most Deadly
+tagDancerSetD01Desc=By blade or bullet, death graces all.
+
+tagMonkHelmD01=Might of the Mind
+tagMonkHelmD01Desc=^oThis item's skill modifiers require the user to be unarmed.
+tagMonkHelmSkill=Mind's Might
+tagMonkHelmSkillDesc=That which is imaginable is possible. ^oRequires the user to be unarmed.
+tagMonkChestD01=Command of the Core
+tagMonkChestD01Desc=^oThis item's skill modifiers require the user to be unarmed.
+tagMonkChestSkill=Core's Command
+tagMonkChestSkillDesc=Offensive prowess that comes from within. ^oRequires the user to be unarmed.
+tagMonkShouldersD01=Bulwark of the Body
+tagMonkShouldersD01Desc=^oThis item's skill modifiers require the user to be unarmed.
+tagMonkShoulderSkill=Body's Bulwark
+tagMonkShoulderSkillDesc=Indomitable defenses that come from within. ^oRequires the user to be unarmed.
+tagMonkHandsD01=Strength of the Soul
+tagMonkHandsD01D01Desc=^oThis item's skill modifiers require the user to be unarmed.
+tagMonkHandsSkill=Soul's Strength
+tagMonkHandsSkillDesc=The Strength of the Soul can dominate any foe, for there is no greater armament. ^oRequires the user to be unarmed.
+tagMonkSetD01=Purity of Being
+tagMonkSetD01Desc=Forsake the corruption of the arcane and the cowardice of steel, and embrace the ascendant strength within yourself. ^oThis set's skill modifiers require the user to be unarmed.
+tagMonkSetSkill=Rhythmus
+tagMonkSetSkillDesc=The rhythmic flow of purity cleanses corruption around you and disorients those weak of will. ^oWhen used as your default weapon attack, Rhythmus will amplify every other strike. Requires being unarmed.
+
+tagAuradinHelmD01=Visage of the Automata
+tagAuradinChestD01=Plating of the Automata
+tagAuradinChestSkill=Adaptive Plating
+tagAuradinChestSkillDesc=Magecraft plating provides you with consistent regenerative defenses and occasional bursts of extreme protection.
+tagAuradinShouldersD01=Mantle of the Automata
+tagAuradinShieldD01=Tower of the Automata
+tagAuradinSet=Imperial Automata
+tagAuradinSetDesc=Defensive sentry of a world long forgotten.
+tagAuradinSetSkill=Retributive Chain Lightning
+tagAuradinSetSkillDesc=The magical bindings of the automata lash out when struck, electrocuting assailants at a high frequency. A returning current is fed through blood in the air, if present, to redirect the energy back into the defensive matrix, sustaining the user.
+
+tagSplitterHelmD01=Crown of the Realmsplitter
+tagSplitterShouldersD01=Mantle of the Realmsplitter
+tagSplitterAmuletD01=Sigil of the Realmsplitter
+tagSplitterShieldD01=Splicer's Shielding
+tagSplitterDaggerD01=Splicer's Slicer
+tagSplitterDaggerSkill=Splicing Assault
+tagSplitterDaggerSkillDesc=Commit to the offensive, and deliver a Piercing execution to your foes with your subsequent attacks.
+tagSplitterSet=Realmsplitter
+tagSplitterSetDesc=Slice through reality with the utmost precision.
+tagSplitterAegisMod=^zAegis of Menhir Fragments
+tagSplitterAegisModDesc=^oThis transmuter can only be made functional by equipping the full Realmsplitter set. It is present in the UI to enable you to spec out of Aegis of Menhir should you so choose. Speccing out of this skill will give you one skillpoint more than is intended in the vanilla game. Consult your mod's author on whether this is accounted for, or use your own judgment as to whether gaining a skillpoint in this manner would give you an undue advantage.^n^nAlternatively, petition Crate for better mod capabilities, such as context-dependent respecs/respec blacklists.
+
+tagUnravelHelmD01=Unraveler's Gaze
+tagUnravelGlovesD01=Unraveler's Grasps
+tagUnravelChestD01=Unraveler's Breastplate
+tagUnravelShieldD01=Unraveler's Ward
+tagUnravelSet=Unraveler's Calling
+tagUnravelSetDesc=Unmake those foolish enough to stand against you.
+
+tagPrimordialPistolD01=Primordial Devastator
+tagPrimordialPistolD01Skill=Canister Bomb Bonuses Active
+tagPrimordialPistolD01SkillDesc=You are receiving bonuses to Canister Bomb.
+tagPrimordialPistolD02=Primordial Obliterator
+tagPrimordialPistolD02Skill=Grenado Bonuses Active
+tagPrimordialPistolD02SkillDesc=You are receiving bonuses to Grenado.
+tagPrimordialHelmD01=Primordial Gaze
+tagPrimordialRingD01=Primordial Band
+tagPrimordialMedalD01=Primordial Mark
+tagPrimordialMedalD01Skill=Primordial Despoilment
+tagPrimordialMedalD01SkillDesc=The might of a betrayed god grants you the power to ruin your mutual foes.^n^oThis is a ranged dual-wielding passive bonus. Also enables the ability to dual wield ranged weapons.
+tagPrimordialSet=Primordial Saboteur
+tagPrimordialSetDesc=Devastate and obliterate with powers from beyond.
+
+tagForerunnerGreatAxeD01=Worldcleaver
+tagForerunnerAmuletD01=Forerunner's Gate
+tagForerunnerBeltD01=Forerunner's Girdle
+tagForerunnerLeggingsD01=Forerunner's Stride
+tagForerunnerSet=Forerunner of Five
+tagForerunnerSetDesc=Amidst the Vanguard is a cleaver of worlds.
+tagForerunnerBladeArcAoE=Blade Arc Splash Damage
+
+tagJudicatorNecklaceD01=Armaments of Wrath
+tagJudicatorMedalD01=Emblem of Patience
+tagJudicatorSet=Judicator's Ward
+
+tagFelsicShieldD01=Felsic Slab
+tagFelsicShieldD01Skill=Fracture
+tagFelsicShieldD01SkillDesc=When struck, summon forth a fracture of Obsidian to come to your aid. ^oObsidian Fractures scale with Pet Bonuses.
+tagFelsicMaceD01=Felsic Shard
+tagFelsicMaceD01Skill=Basaltic Eruption
+tagFelsicMaceD01SkillDesc=Summon forth a swarm of Fractures to busy your foes. ^oObsidian Fractures scale with Pet Bonuses.
+tagFelsicHandsD01=Felsic Grip
+tagFelsicChestD01=Felsic Bastion
+tagFelsicChestD01Skill=Igneous Cooling
+tagFelsicChestD01SkillDesc=At the cost of damage, cool the area around you, healing yourself and your minions.^oThis effect is applied to you and any nearby allies.
+tagFelsicSet=Felsic Flow
+tagFelsicSetDesc=Build a path to victory across crystalline destruction.
+tagFelsicSetSkill=Summon Ma's'Ka
+tagFelsicSetSkillDesc=Summon forth the Obsidian Champion Ma's'Ka, Herald of the Banished God, to shield you in combat and crush your foes. ^oOnly one Ma's'Ka can be summoned at any one time. Ma's'Ka scales with Pet Bonuses.
+
+tagFortuneRifleD01=A Day in Your Life
+tagFortuneRifleD01Desc=Written along the barrel in weathered white chalk is the phrase, "^wDo what you love...^q"
+tagFortuneHelmD01=Fortune's Casque
+tagFortuneTorsoD01=Fortune's Bekhterets
+tagFortuneMedalD01=Fortune's Insignia
+tagFortuneSet=Soldier of Fortune
+tagFortuneSetDesc=Audentes Fortuna Iuvat.
+tagFortuneSkillName=Fortunate Son
+tagFortuneSkillDesc=May Fortune smile upon you. ^oThis is a two-handed ranged weapon passive bonus.
+
+tagMalHelmD01=Maltrovauc's Gaze
+tagMalHelmD01Desc=Helmet of Maltrovauc, the Betrayed and the Betrayer.^n^oCrush the Egotist in his Arena.
+tagMalHelmD01Skill=Voice Aflame
+tagMalHelmD01SkillDesc=The words of Maltrovauc sear the unprepared.
+tagMalShouldersD01=Maltrovauc's Shoulderguard
+tagMalShouldersD01Desc=Pauldrons of Maltrovauc, the Steadfast and the Swift.^n^oPut the Burning Forest to rest.
+tagMalShouldersD01Skill=Ignition
+tagMalShouldersD01SkillDesc=Maltrovauc's seething hatred coalesces into molten orbs that splay across the battlefield from him.
+tagMalChestD01=Maltrovauc's Warplate
+tagMalChestD01Desc=Warplate of Maltrovauc, the King and the Claimant.^n^oA path closes where Sand meets Sky.
+tagMalChestD01Skill=Plating of the Outcast Son
+tagMalChestD01SkillDesc=Maltrovauc's Warplate shields him from any martial blow his cowardly opponents may send his way.
+tagMalGlovesD01=Maltrovauc's Grasp
+tagMalGlovesD01Desc=Gloves of Maltrovauc, the Burned and the Incinerator.^n^oSnuff the Fire in the Bastion.
+tagMalGlovesD01Skill=Alacrity of the Banished Lord
+tagMalGlovesD01SkillDesc=It is said Maltrovauc could attack with Avanuir at such a pace as to ignite the very air around its edge. ^oRequires a Two-Handed Sword.
+tagMalBootsD01=Maltrovauc's Step
+tagMalBootsD01Desc=Boots of Maltrovauc, the Fear and the Future.^n^oSet the Voiddrinker aflame.
+tagMalBootsD01Skill=Pacebreaker
+tagMalBootsD01SkillDesc=There are none that may escape Maltrovauc's inevitable reign.
+tagMalLeggingsD01=Maltrovauc's Stride
+tagMalLeggingsD01Desc=Legplates of Maltrovauc, the Umbral and the Brilliant.^n^oIn a battlefield, a chance encounter with a Magical Assassin.
+tagMalLeggingsD01Skill=Farstride
+tagMalLeggingsD01SkillDesc=Where Maltrovauc goes, the souls of the slain emanate from his wake.
+tagMalBeltD01=Maltrovauc's Brace
+tagMalBeltD01Desc=Waistguard of Maltrovauc, the Guarded and the Unyielding.^n^oEnd Her Majesty's Maddened cries.
+tagMalBeltD01Skill=Smoldering Court
+tagMalBeltD01SkillDesc=To stand in the grace of the Burned Lord is to be scorched oneself.
+tagMalRingD01=Maltrovauc's Band
+tagMalRingD01Desc=Left Ring of Maltrovauc, the Fervent and Objective.^n^oSeek the Unseen.
+tagMalRingD01Skill=Flames of Aeneris
+tagMalRingD01SkillDesc=The Flames of Aeneris scorch your foes from the inside out, reducing them to smolders. ^oThis proc will stack with the proc on Maltrovauc's Signet.
+tagMalRingD02=Maltrovauc's Signet
+tagMalRingD02Desc=Right Ring of Maltrovauc, the Devoted and Disloyal.^n^oSeek the Betrayer under a Ruptured Fort.
+tagMalRingD02Skill=Flames of Aeneris
+tagMalRingD02SkillDesc=The Flames of Aeneris scorch your foes from the inside out, reducing them to smolders. ^oThis proc will stack with the proc on Maltrovauc's Band.
+tagMalAmuletD01=Maltrovauc's Beacon
+tagMalAmuletD01Desc=Gem of Maltrovauc, the Midnight and the Flame.^n^oSeek the Herald of an Endless Shadow.
+tagMalAmuletD01Skill=Ward of The Sunless Scion
+tagMalAmuletD01SkillDesc=Maltrovauc's regalia imbue his defenses with antimagic wards.
+tagMalMedalD01=Maltrovauc's Sign
+tagMalMedalD01Desc=Emblem of Maltrovauc, born of Dogma and scorned by Zeal.^n^oTopple the Mountain.
+tagMalMedalD01Skill=Spiteful Wrath
+tagMalMedalD01SkillDesc=Maltrovauc's spite lashes out at those foolish enough to strike against him.
+tagMalGreatswordD01=Avanuir
+tagMalGreatswordD01Desc=Steel be his skin and fire be his blood, in hatred he conquers all before him.
+tagMalGreatswordD01Skill=Cindercleave
+tagMalGreatswordD01SkillDesc=Avanuir breaks through the ranks of Maltrovauc's enemies, leaving any that can withstand a single hit weaker and frailer than they already were.
+tagMalSetD01=Phoenixbane
+tagMalSetD01Desc=Hatred without end, bloodshed without pause, desolation without limit.
+tagMalSetSkillName=Phoenixbane
+tagMalSetSkillDesc=Annihilate all who dare oppose Maltrovauc's destined reign.
+tagMalRelicD01=Spellshield Supreme
+tagMalRelicD01Desc=Relic of Maltrovauc, Son of Aeneris, the Wight King.^n^oA path begins in the blood of an Infernal Zealot.
+tagMalRelicBonusSkillName=Spellshield
+tagMalRelicBonusSkillDesc=Anathema to spellcasters, Maltrovauc's Spellshield nullifies malignant hexes placed upon its owner.
+
+tagVanguardShieldD01=Vanguard's Assault
+tagVanguardShieldD01Desc=The Aetherials knew that they only could make one first impression. They made it count.
+tagVanguardShieldD01SkillName=Aether Lance
+tagVanguardShieldD01SkillDesc=A flare of Aether lashes out at foes as their blows land upon your shield, stealing their life force for yourself.
+
+tagMediocreSetD01=Mediocrity's Vengeance
+tagMediocreSetD01Desc=Power.
+tagMediocreNecklaceD01=Unremarkable Pendant
+tagMediocreHelmD01=Totally Normal Gaze
+tagMediocreChestD01=Pretty Great Torso
+tagMediocreChestD01Desc=Actually, it's just ok.
+tagMediocreChestD01SkillName=Pretty Great Doombolt
+tagMediocreChestD01SkillDesc=Um, actually it's spelled "Doom Bolt." Two words. And it's still just ok.
+tagMediocreShouldersD01=Very Mundane Feathers
+tagMediocreShouldersD01SkillName=Not Quite Callidor's Tempest
+tagMediocreShouldersD01SkillDesc=It's close, but not quite there yet.
+
+tagForceShieldD01=^xOnec's Forceshield
+tagForceShieldD01Desc="Onec mastered the means of magically mitigating incoming forces...or, so he thought."{^n}^xSo you've slain one of my Avatars, have you? Worry not - I have others.
+tagForceShieldD01SkillName=Shield of Force
+tagForceShieldD01SkillDesc=Convert incoming blows into defensive reinforcement for yourself and strengthen your outgoing might in the process.
+
+tagBrutalSetD01=Darksteel Destroyer
+tagBrutalSetD01Desc=Hit hard. Hit once.
+tagBrutalMace2HD01=Darksteel Despoiler
+tagBrutalChestD01=Darksteel Core
+tagBrutalShouldersD01=Darksteel Guard
+tagBrutalBootsD01=Darksteel Treads
+
+tagDreadSetD01=Dreadwing's Flight
+tagDreadSetD01Desc=Fly above. Fly beyond.
+tagDreadAxeD01=Dreadwing's Talon
+tagDreadChestD01=Dreadwing's Stock
+tagDreadShouldersD01=Dreadwing's Plumage
+tagDreadHelmD01=Dreadwing's Beak
+
+tagPrimalSetD01=Primal Carnage
+tagPrimalSetD01Desc=Kill as kill can.
+tagPrimalAxeD01=Primal Cleaver
+tagPrimalDaggerD01=Primal Carver
+tagPrimalChestD01=Primal Furs
+tagPrimalShouldersD01=Primal Spines
+
+tagNorthSetD01=Northbite
+tagNorthSetD01Desc=Lashing is the Northern tongue.
+tagNorthChestD01=Northgarb
+tagNorthHelmD01=Northsight
+tagNorthFocusD01=Codices of the North
+tagNorthNecklaceD01=Northward
+
+tagWinterSetD01=Wintershriek
+tagWinterSetD01Desc=Cold are the Words of Winter.
+tagWinterScepterD01=Howling Winds
+tagWinterFocusD01=Biting Frost
+tagWinterBeltD01=Wintershriek's Embrace
+tagWinterShouldersD01=Wintershriek's Mantle
+
+tagEarthSetD01=Earthrend
+tagEarthSetD01Desc=Earth's blood bleeds all.
+tagEarthHelmD01=Earthrend Crown
+tagEarthTorsoD01=Earthrend Garb
+tagEarthShouldersD01=Earthrend Knot
+tagEarthNecklaceD01=Earthrend Gnarl
+
+tagClarionSetD01=Clarion Call
+tagClarionSetD01Desc=The Lord of Blood beckons.
+tagClarionHelmD01=Beckoner's Cowl
+tagClarionChestD01=Beckoner's Cover
+tagClarionGlovesD01=Beckoner's Grasp
+tagClarionRingD01=Beckoner's Band
+
+tagVeilSetD01=Veilbreaker
+tagVeilSetD01Desc=Gaze beyond reality, and be gazed upon.
+tagVeilHelmD01=Veilbreaker Hood
+tagVeilChestD01=Veilbreaker Robes
+tagVeilShouldersD01=Veilbreaker Epaulets
+tagVeilMaceD01=Veilbreaker
+
+tagVoidspeakerSetD01=Voidspeaker
+tagVoidspeakerSetD01Desc=Wicked is the Voice of Damnation.
+tagVoidspeakerMaceD01=Pho'Dorath
+tagVoidspeakerNecklaceD01=Voidspeaker Gems
+tagVoidspeakerRingD01=Voidspeaker Signet
+tagVoidspeakerBeltD01=Voidspeaker Girdle
+
+tagPotentialNecklaceC01=Amulet of Unrealized Potential
+tagPotentialNecklaceC01Desc=As you come into your own, the range of possibilities for you wanes away...
+tagPotentialNecklaceC01Skill=Realize Potential
+tagPotentialNecklaceC01SkillDesc=Manifest the potential within you, allowing your future strength to assist you in battle in the present. ^oRealized Potential scales with Pet Bonuses. Realized Potential grows weaker as you grow stronger.
+
+*******************
+***END PROTOSETS***
+*******************
+
+**********************
+***BEGIN COMPONENTS***
+**********************
+
+tagCC_Desc=Transcendent power to recontextualize one frame of reality into another.{^n}^w(Used in Rings)
+
+tagFireFire=Enflamed Purity
+tagFireCold=Enflamed Frost
+tagFireLight=Enflamed Shock
+tagFirePhys=Enflamed Weight
+tagFirePierce=Enflamed Wound
+tagFireAcid=Enflamed Corrosion
+tagFireVit=Enflamed Decay
+tagFireAether=Enflamed Corruption
+tagFireChaos=Enflamed Abyss
+
+tagColdFire=Frozen Flame
+tagColdCold=Frozen Purity
+tagColdLight=Frozen Shock
+tagColdPhys=Frozen Weight
+tagColdPierce=Frozen Wound
+tagColdAcid=Frozen Corrosion
+tagColdVit=Frozen Decay
+tagColdAether=Frozen Corruption
+tagColdChaos=Frozen Abyss
+
+tagLightFire=Shocking Flame
+tagLightCold=Shocking Frost
+tagLightLight=Shocking Purity
+tagLightPhys=Shocking Weight
+tagLightPierce=Shocking Wound
+tagLightAcid=Shocking Corrosion
+tagLightVit=Shocking Decay
+tagLightAether=Shocking Corruption
+tagLightChaos=Shocking Abyss
+
+tagPhysFire=Weighted Flame
+tagPhysCold=Weighted Frost
+tagPhysLight=Weighted Shock
+tagPhysPhys=Weighted Purity
+tagPhysPierce=Weighted Wound
+tagPhysAcid=Weighted Corrosion
+tagPhysVit=Weighted Decay
+tagPhysAether=Weighted Corruption
+tagPhysChaos=Weighted Abyss
+
+tagPierceFire=Wounding Flame
+tagPierceCold=Wounding Frost
+tagPierceLight=Wounding Shock
+tagPiercePhys=Wounding Weight
+tagPiercePierce=Wounding Purity
+tagPierceAcid=Wounding Corrosion
+tagPierceVit=Wounding Decay
+tagPierceAether=Wounding Corruption
+tagPierceChaos=Wounding Abyss
+
+tagAcidFire=Corrosive Flame
+tagAcidCold=Corrosive Frost
+tagAcidLight=Corrosive Shock
+tagAcidPhys=Corrosive Weight
+tagAcidPierce=Corrosive Wound
+tagAcidAcid=Corrosive Purity
+tagAcidVit=Corrosive Decay
+tagAcidAether=Corrosive Corruption
+tagAcidChaos=Corrosive Abyss
+
+tagVitFire=Decaying Flame
+tagVitCold=Decaying Frost
+tagVitLight=Decaying Shock
+tagVitPhys=Decaying Weight
+tagVitPierce=Decaying Wound
+tagVitAcid=Decaying Corrosion
+tagVitVit=Decaying Purity
+tagVitAether=Decaying Corruption
+tagVitChaos=Decaying Abyss
+
+tagAetherFire=Corrupting Flame
+tagAetherCold=Corrupting Frost
+tagAetherLight=Corrupting Shock
+tagAetherPhys=Corrupting Weight
+tagAetherPierce=Corrupting Wound
+tagAetherAcid=Corrupting Corrosion
+tagAetherVit=Corrupting Decay
+tagAetherAether=Corrupting Purity
+tagAetherChaos=Corrupting Abyss
+
+tagChaosFire=Abyssal Flame
+tagChaosCold=Abyssal Frost
+tagChaosLight=Abyssal Shock
+tagChaosPhys=Abyssal Weight
+tagChaosPierce=Abyssal Wound
+tagChaosAcid=Abyssal Corrosion
+tagChaosVit=Abyssal Decay
+tagChaosAether=Abyssal Corruption
+tagChaosChaos=Abyssal Purity
+
+********************
+***END COMPONENTS***
+********************
+
+********************************
+***BEGIN MANUAL VARIANT ITEMS***
+********************************
+
+tagVariantGTMWRecipe=Variant Gate to Many Worlds
+tagVariantGTMWSkillName=Variant World Gate
+tagVariantGTMWSkillDesc=Tear a rift in reality that unravels foes that stand within it. ^oVariant World Gates scale with Player Bonuses.
+tagVariantRiftwarpedGraspRecipe=Variant Riftwarped Grasp
+tagVariantSoulrendRecipe=Variant Soulrend
+tagVariantAdversaryRecipe=Variant Adversary
+tagVariantDreadKnightsGuardRecipe=Variant Dread Knight's Guard
+
+tagVariantVortexofSouls=Vortex of Blood
+tagVariantVortexofSoulsDesc="Every shot fired sends ripples through the void."
+
+tagVariantMarkovianSet=Markovian's Citadel
+tagVariantMarkovianSetSkillName=Defense in Depth
+tagVariantMarkovianSetSkillDesc=The famed tactician Markovian believed in employing defensive resistance not merely on the front lines, but all throughout allied territory. In this way, his forces could withdraw and launch subsequent counterstrikes at a whim, and Markovian himself was no stranger to hit-and-run tactics of his own. ^oRequires a melee weapon. At 100% Attack Speed, Defense in Depth deals damage and drains Energy every 0.16s.
+tagVariantMarkovianShield=Variant Markovian's Bulwark
+tagVariantMarkovianAmulet=Variant Markovian's Distinction
+tagVariantMarkovianTorso=Variant Markovian's Platemail
+tagVariantMarkovianShoulders=Variant Markovian's Vanguard
+tagVariantMarkovianHelm=Variant Markovian's Visor
+
+tagVariantUlzuinSet=Ulzuin's Diabolical Avatar
+tagVariantUlzuinHelm=Variant Ulzuin's Headguard
+tagVariantUlzuinTorso=Variant Ulzuin's Chestguard
+tagVariantUlzuinShoulders=Variant Ulzuin's Shoulderguard
+tagVariantUlzuinRifle=Variant Ulzuin's Flamespreader
+tagVariantUlzuinAmulet=Variant Ulzuin's Gem
+
+tagVariantDreegSet=Betrayal of Dreeg
+tagVariantDreegSetSkillName=Watcher's Pursuit
+tagVariantDreegSetSkillDesc=The gaze of Dreeg is omnipresent, and finds what it seeks no matter the obstacles in its way.
+tagVariantDreegAmulet=Variant Black Gem of Dreeg
+tagVariantDreegHelm=Variant Hood of Dreeg
+tagVariantDreegShoulders=Variant Mantle of Dreeg
+tagVariantDreegDagger=Variant Runed Dagger of Dreeg
+tagVariantDreegTorso=Variant Vestments of Dreeg
+
+tagVariantDeathmarkSet=Umbral Deathmark
+tagVariantDeathmarkSetSkillName=Deathmark
+tagVariantDeathmarkSetSkillDesc=Mark your target for a swift and painful end.
+tagVariantDeathmarkSword=Variant Deathmarked Claw
+tagVariantDeathmarkAxe=Variant Deathmarked Decapitator
+tagVariantDeathmarkHelm=Variant Deathmarked Hood
+tagVariantDeathmarkTorso=Variant Deathmarked Jacket
+tagVariantDeathmarkShoulders=Variant Deathmarked Shoulderguard
+
+tagVariantIskandraSet=Iskandra's Unanimity
+tagVariantIskandraSetSkillName=Iskandra's Replicating Barrier
+tagVariantIskandraSetSkillDesc=Observing the offensive capabilities of one of her peers' spells, Iskandra repurposed the technique to form a defensive ward around her being, fueled by her own spellcasts. 
+tagVariantIskandraAmulet=Variant Iskandra's Focusing Prism
+tagVariantIskandraHelm=Variant Iskandra's Hood
+tagVariantIskandraShoulders=Variant Iskandra's Pauldrons
+tagVariantIskandraFocus=Variant Iskandra's Texts
+tagVariantIskandraTorso=Variant Iskandra's Vestments
+
+tagVariantUltosSet=Ultos's Maelstrom
+tagVariantUltosSetSkillName=Flensing Totem
+tagVariantUltosSetSkillDesc=Call forth a brutal Totem to Ultos which lacerates nearby enemies, reminding them of nature's fury. ^oFlensing Totem scales with Pet Bonuses. Flensing Totem has a 10% chance to Exsanguinate an enemy, obliterating their vitality.
+tagVariantUltosSetPetSkill01Name=Flense
+tagVariantUltosSetPetSkill02Name=Exsanguinate
+tagVariantUltosHelm=Variant Ultos's Hood
+tagVariantUltosTorso=Variant Ultos's Cuirass
+tagVariantUltosShoulders=Variant Ultos's Spaulders
+tagVariantUltosAxe=Variant Ultos's Stormseeker
+tagVariantUltosAmulet=Variant Ultos's Gem
+
+tagVariantRunebinderSet=The Runebound
+tagVariantRunebinderSetNote=^oThis set is scheduled to receive additional features when modders receive new tech to work with in Grim Dawn's ^bFangs of Asterkarn ^oExpansion. Stay tuned!
+tagVariantRunebinderSetSkillName=Rune of Ibero
+tagVariantRunebinderSetSkillDesc=Arcanist Ibero consulted with Luminari Runebinders in the creation of a glyph that could store potent Elemental forces in tight spaces, resulting in a newfound technique capable of shredding even the sturdiest of antimagic defenses. ^oRunes of Ibero take 1 second to arm and scale with player bonuses.
+tagVariantRunebinderSetSkillSkillName=Ibero's Elemental Shreddification
+tagVariantRunebinderHelm=Variant Runebinder's Hat
+tagVariantRunebinderTorso=Variant Runebinder's Armor
+tagVariantRunebinderShoulders=Variant Runebinder's Shoulderguard
+tagVariantRunebinderCrossbow=Variant Runebinder's Spellthrower
+tagVariantRunebinderAmulet=Variant Runebinder's Gem
+
+tagVariantUroSet=Uroboruuk's Secret
+tagVariantUroSetSkillName=Conjure Bone Goliath
+tagVariantUroSetSkillDesc=Repurpose the remains of fallen foes to your necromantic bidding. ^oBone Goliaths scale with player bonuses.
+tagVariantUroSetPetName=Bone Goliath
+tagVariantUroSetPetSkill1=Bone Harvest
+tagVariantUroSetPetSkill2=Charge
+tagVariantUroSetPetSkill3=Soulchill Aura
+tagVariantUroHelm=Variant Uroboruuk's Visage
+tagVariantUroTorso=Variant Uroboruuk's Robes
+tagVariantUroShoulders=Variant Uroboruuk's Mantle
+tagVariantUroFocus=Variant Uroboruuk's Effigy
+tagVariantUroAmulet=Variant Uroboruuk's Eye
+
+tagVariantVirtueSet=Virtue's Radiance
+tagVariantVirtueSetWPSName=Dreeg's Radiance
+tagVariantVirtueSetWPSDesc=Radiate a surge of toxic acid around you, corroding the flesh and armor of your foes, while desiccating lesser enemies into stone. ^oRequires a melee weapon and a shield. Uses your shield's damage for calculating Weapon Damage %.
+tagVariantVirtueHelm=Variant Virtue's Gaze
+tagVariantVirtueTorso=Variant Virtue's Armor
+tagVariantVirtueShoulders=Variant Virtue's Guard
+tagVariantVirtueShield=Variant Virtue's Defender
+tagVariantVirtueAmulet=Variant Virtue's Ward
+
+tagVariantFenrisSet=Huginn
+tagVariantFenrisHelm=Cowl of Huginn
+tagVariantFenrisTorso=Armor of Huginn
+tagVariantFenrisShoulders=Shoulderguard of Huginn
+tagVariantFenrisAxe=Beak of Huginn
+tagVariantFenrisAmulet=Talisman of Huginn
+
+***********************
+***END VARIANT ITEMS***
+***********************

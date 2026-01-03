@@ -1,0 +1,189 @@
+
+tagSkillClassName13=巫师
+tagSkillClassName0113=魔战士
+tagSkillClassName0213=诅咒枪手
+tagSkillClassName0313=奇术师
+tagSkillClassName0413=暗影施法者
+tagSkillClassName0513=附魔师
+tagSkillClassName0613=灵魂师
+tagSkillClassName0713=法术射手
+tagSkillClassName0813=死灵巫师
+tagSkillClassName0913=奥术守护者
+tagSkillClassName1013=魔法游侠
+tagSkillClassName1113=灵魂缚者
+tagSkillClassName1213=法术寻踪者
+tagSkillClassName3713=魔法游侠
+
+tagSkillClassDescriptionWizard=巫师是顶尖的魔法使用者，以施放的法术定义并统一其职业。他们掌控元素能量，免疫防御光环，并能操纵时空，扭曲现实以戏弄敌人。 ^n^s由Grimer改编用于暗黑3 Mod
+
+#Class13
+tagClassWizardSkillName00=巫师
+tagClassWizardSkillDescription00="若我的旧师父能看到我现在……"
+
+tagClassWizardSkillName01A=魔法飞弹{^K} 「巫师」^-
+tagClassWizardSkillDescription01A=发射一枚穿透的魔法能量飞弹，对敌人造成元素伤害。{^n}{^n}{^y}分裂 {^o}(技能等级16解锁){^n}^w魔法飞弹获得额外2枚投射物。
+
+tagClassWizardSkillName01B=充能爆破{^K} 「巫师」^-
+tagClassWizardSkillDescription01B=伤害提升，并在2秒内让敌人承受所有元素效果的伤害。
+
+tagClassWizardSkillName01C=燃烧{^K} 「巫师」^-
+tagClassWizardSkillDescription01C=魔法飞弹的伤害转换为火焰伤害。
+
+tagClassWizardSkillName01D=冰霜尖刺{^K} 「巫师」^-
+tagClassWizardSkillDescription01D=魔法飞弹不再穿透，而变为冰碎片，命中时爆炸，爆炸范围内的敌人可能短暂冻结。
+
+tagClassWizardSkillName02A=冰霜射线{^K} 「巫师」^-
+tagClassWizardSkillDescription02A=发射一道冰冻射线击退敌人，减缓其移动速度2秒。{^n}{^n}{^y}麻痹 {^o}(技能等级12解锁){^n}^w冰霜射线有10%几率冻结敌人1秒。
+
+tagClassWizardSkillName02B=雪崩{^K} 「巫师」^-
+tagClassWizardSkillDescription02B=冰霜射线额外造成冰冷伤害，暴击伤害提升，并在2秒内减速敌人。{^n}{^n}{^b}冰雹风暴 {^o}(被动){^n}^w施放冰霜射线时，你周围形成冰冷风暴，减速敌人并造成冰冷伤害，进入风暴的敌人可能错失近战攻击，并有2秒几率被冻结。
+
+tagClassWizardSkillName02C=寒血{^K} 「巫师」^-
+tagClassWizardSkillDescription02C=提升冰霜射线伤害，并降低目标防御能力3秒。{^n}{^n}{^b}黑冰 {^o}(被动){^n}^w被冰霜射线击中的敌人在地面留下持续4秒的冰面，敌人经过时受到冰冷与冰灼伤害。
+
+tagClassWizardSkillName02D=冰雹风暴{^K} 「巫师」^-
+tagClassWizardSkillName02E=黑冰{^K} 「巫师」^-
+
+tagClassWizardSkillName03A=奥术球{^K} 「巫师」^-
+tagClassWizardSkillDescription03A=投掷一枚纯能量球，命中后爆炸，对附近敌人造成元素伤害。^o你与目标的距离越远，伤害越高。碎片仅对 ^b冰冻球 ^o转化器有效。{^n}{^n}{^y}毁灭 {^o}(技能等级16解锁){^n}^w奥术球暴击伤害提升50%。
+
+tagClassWizardSkillName03B=灼热火花{^K} 「巫师」^-
+tagClassWizardSkillDescription03B=提升奥术球伤害，并降低敌人防御能力3秒。奥术球对敌人造成100%燃烧或电击效果，持续3秒。
+
+tagClassWizardSkillName03C=冰冻球{^K} 「巫师」^-
+tagClassWizardSkillDescription03C=奥术球不再爆炸，变为冰冻球穿透敌人并释放冰碎片，造成冰冷与冰灼伤害，并有几率短暂冻结敌人。
+
+tagClassWizardSkillName03E=闪电球{^K} 「巫师」^-
+tagClassWizardSkillDescription03E=投掷球体爆炸，形成持续2秒的电场，对区域内敌人造成闪电伤害并有几率眩晕。
+
+tagClassWizardSkillName03D=奥术轨道{^K} 「巫师」^-
+
+tagClassWizardSkillName04A=冰霜新星{^K} 「巫师」^-
+tagClassWizardSkillDescription04A=对附近敌人造成冰霜爆炸伤害，并冻结数秒。{^n}{^n}{^y}骨寒 {^o}(技能等级12解锁){^n}^w降低敌人25%元素抗性，持续3秒。
+
+tagClassWizardSkillName04B=粉碎{^K} 「巫师」^-
+tagClassWizardSkillDescription04B=被冰霜新星杀死的敌人有100%几率再次释放冰霜新星，冻结附近敌人2秒。
+
+tagClassWizardSkillName05A=冲击波{^K} 「巫师」^-
+tagClassWizardSkillDescription05A=释放纯能量波，对附近敌人造成元素伤害。{^n}{^n}{^y}削弱之力 {^o}(技能等级16解锁){^n}^w被击中的敌人伤害降低20%，持续4秒。
+
+tagClassWizardSkillName05B=奥术调和{^K} 「巫师」^-
+tagClassWizardSkillDescription05B=冲击波在3秒内让敌人承受所有元素力量惩罚，元素伤害提升。
+
+tagClassWizardSkillName05C=强力波{^K} 「巫师」^-
+tagClassWizardSkillDescription05C=冲击波获得4秒冷却，造成巨大伤害并击倒敌人1.5秒。
+
+tagClassWizardSkillName07A=冰霜护甲{^K} 「巫师」^-
+tagClassWizardSkillDescription07A=用冰霜光环保护自身，提升物理抗性、防御能力，投射物偏转几率，并缩短冻结效果持续时间。近战攻击者可能被冻结数秒。{^n}{^n}{^y}冰风暴 {^o}(技能等级10解锁){^n}^w冰霜护甲形成旋转冰障，对附近敌人造成冰冷与冰灼伤害，并有2秒几率冻结敌人。
+
+tagClassWizardSkillName08A=电击{^K} 「巫师」^-
+tagClassWizardSkillDescription08A=指尖释放电流，对目标造成闪电伤害，并可跳到最多2名其他敌人。{^n}{^n}{^y}力量激增 {^o}(技能等级16解锁){^n}^w电击有20%几率造成400%增强闪电伤害。
+
+tagClassWizardSkillName08B=链式闪电{^K} 「巫师」^-
+tagClassWizardSkillDescription08B=暴击伤害提升，被击中敌人在2秒内被电击。增加电击跳跃目标数量。
+
+tagClassWizardSkillName08C=闪电冲击{^K} 「巫师」^-
+tagClassWizardSkillDescription08C=对敌人造成额外闪电伤害，并有几率短暂眩晕。电击伤害提升。
+
+tagClassWizardSkillName09A=减速时间{^K} 「巫师」^-
+tagClassWizardSkillDescription09A=创造扭曲的时空领域，穿过的敌人减速并每秒受到元素伤害。{^n}{^n}{^y}时间扭曲 {^o}(技能等级12解锁){^n}^w降低敌人30%元素抗性。
+
+tagClassWizardSkillName10A=风暴护甲{^K} 「巫师」^-
+tagClassWizardSkillDescription10A=用电能包裹自身，提升攻击力，获得闪电反击及抗眩晕效果。风暴护甲周期性电击附近敌人，有几率眩晕数秒。{^n}{^n}{^y}混乱 {^o}(技能等级10解锁){^n}^w风暴护甲激活时，你获得12%总速度加成。
+
+tagClassWizardSkillName11A=魔法武器{^K} 「巫师」^-
+tagClassWizardSkillDescription11A=为武器注入魔法能量，提升元素伤害、能量回复和施法速度。{^n}{^n}{^y}模糊 {^o}(技能等级12解锁){^n}^w获得10%伤害吸收。
+
+tagClassWizardSkillName11B=星界存在{^K} 「巫师」^-
+tagClassWizardSkillDescription11B=提升灵魂和攻击力，并降低技能能量消耗。
+
+tagClassWizardSkillName11C=坚定意志{^K} 「巫师」^-
+tagClassWizardSkillDescription11C=提升对虚灵和元素伤害的抗性，并降低减速效果。
+
+tagClassWizardSkillName12A=瞬移{^K} 「巫师」^-
+tagClassWizardSkillDescription12A=通过虚灵能量瞬移到目标位置。{^n}{^n}{^y}虫洞 {^o}(技能等级8解锁){^n}^w瞬移有25%几率重置冷却时间。
+
+tagClassWizardSkillName13A=镜像{^K} 「巫师」^-
+tagClassWizardSkillDescription13A=召唤一个幻象巫师协助战斗。镜像会随机施放你的一部分法术。^o镜像的伤害随玩家加成而增强。{^n}{^n}{^y}复制 {^o}(技能等级12解锁){^n}^w召唤的巫师数量增加到2个。
+
+tagMirrorImage=镜像{^K} 「巫师」^-
+tagClassWizardSkillName13B=当前激活的镜像数量。
+
+tagClassWizardSkillName14A=陨石{^K} 「巫师」^-
+tagClassWizardSkillDescription14A=召唤陨石从天而降撞击敌人，造成火焰和物理伤害。{^n}{^n}{^y}星之契约 {^o}(技能等级16解锁){^n}^w暴击伤害提升30%。
+
+tagClassWizardSkillName14B=熔岩冲击{^K} 「巫师」^-
+tagClassWizardSkillDescription14B=伤害增加，并在3秒内灼烧敌人。
+
+tagClassWizardSkillName15A=执政者形态{^K} 「巫师」^-
+tagClassWizardSkillDescription15A=化身为纯奥术能量体20秒，提升元素伤害，并获得技能打断与控场抗性。{^n}{^n}{^y}纯粹之力 {^o}(技能等级12解锁){^n}^w最大抗性提升3%。
+
+tagClassWizardSkillName16A=钻石之肤{^K} 「巫师」^-
+tagClassWizardSkillDescription16A=获得临时钻石光环，吸收部分伤害并减少3秒元素效果持续时间。{^n}{^n}{^y}棱镜 {^o}(技能等级10解锁){^n}^w钻石之肤激活时，暴击伤害提升50%。
+
+tagClassWizardSkillName18A=黑洞{^K} 「巫师」^-
+tagClassWizardSkillDescription18A=在目标位置召唤黑洞，吸引敌人并对区域内所有敌人造成元素伤害。{^n}{^n}{^y}法术窃取 {^o}(技能等级12解锁){^n}^w黑洞有30%几率干扰敌人技能3秒。
+
+tagClassWizardSkillName18B=炽焰{^K} 「巫师」^-
+tagClassWizardSkillDescription18B=黑洞变为纯燃烧能量源。
+
+tagClassWizardSkillName18C=超大质量{^K} 「巫师」^-
+tagClassWizardSkillDescription18C=半径和冷却增加，伤害变为闪电。
+
+tagClassWizardSkillName19A=不稳定异常{^K} 「巫师」^-
+tagClassWizardSkillDescription19A=在失去一定生命值后，获得护盾治疗自己并增加生命回复，同时提升反击伤害和防御能力。不稳定异常也可能使敌人攻击产生混乱。{^n}{^n}{^y}力量渴望 {^o}(技能等级12解锁){^n}^w所有伤害增加200%。
+
+tagClassWizardSkillName20A=幽灵之刃{^K} 「巫师」^-
+tagClassWizardSkillDescription20A=召唤旋转的幽灵之刃在区域内短时间旋转，对敌人造成两次所有元素伤害。^o需要近战武器。{^n}{^n}{^y}投掷之刃 {^o}(技能等级16解锁){^n}^w幽灵之刃还降低敌人攻击力3秒。
+
+tagClassWizardSkillName21A=能量护甲{^K} 「巫师」^-
+tagClassWizardSkillDescription21A=用魔法护盾包裹自己，吸收伤害，减少技能冷却，增加能量并提升生命回复。{^n}{^n}{^y}吸收 {^o}(技能等级10解锁){^n}^w吸收敌人法术50%能量。
+
+tagClassWizardSkillName22A=暴风雪{^K} 「巫师」^-
+tagClassWizardSkillDescription22A=召唤冰块碎片，对区域敌人造成冰冷伤害并在6秒内减速。{^n}{^n}{^y}无情风暴 {^o}(技能等级12解锁){^n}^w暴击伤害提升20%。
+
+tagClassWizardSkillName22B=末日{^K} 「巫师」^-
+tagClassWizardSkillDescription22B=冰块碎片被火陨石替代，暴风雪伤害变为火焰。
+
+tagClassWizardSkillName23A=九头蛇{^K} 「巫师」^-
+tagClassWizardSkillDescription23A=召唤多头九头蛇16秒，向敌人发射火焰箭，对敌人造成3秒燃烧。九头蛇能阻挡非穿透投射物，无法被敌人击杀。^o九头蛇伤害随玩家加成。{^n}{^n}{^y}元素削弱 {^o}(技能等级12解锁){^n}^w九头蛇降低敌人25%元素抗性，基于九头蛇当前使用的伤害类型。
+
+tagClassWizardSkillName23B=冰霜九头蛇{^K} 「巫师」^-
+tagClassWizardSkillDescription23B=召唤冰霜九头蛇，释放冰波短暂冻结敌人。
+
+tagClassWizardSkillName23C=闪电九头蛇{^K} 「巫师」^-
+tagClassWizardSkillDescription23C=召唤闪电九头蛇，用链状闪电攻击敌人，可能短暂眩晕。
+
+tagClassWizardSkillName23D=冰息{^K} 「巫师」^-
+tagClassWizardSkillName23E=火焰喷吐{^K} 「巫师」^-
+tagClassWizardSkillName23F=链状闪电{^K} 「巫师」^-
+tagClassWizardSkillName23G=元素削弱{^K} 「巫师」^-
+
+tagHydra=火焰九头蛇
+tagHydra2=冰霜九头蛇
+tagHydra03=闪电九头蛇
+
+RUNE EFFECTS
+
+tagWizardRune01=^c绝对零度
+tagWizardRune01Desc=^b冰霜新星 ^w现在会在10秒内标记敌人。标记降低敌人冰冷抗性和防御能力10%。当标记敌人生命低于15%时，冻结抗性完全消失。^o敌人必须先被标记才能触发。触发后需要持续重新施放 ^b冰霜新星^o 来刷新标记持续时间。{^n}{^n}{^y}符文词: {^c}CirWat
+tagWizardRune01b=符文效果
+tagWizardRune01bDesc=敌人的冰冷抗性与防御能力因冰霜新星而降低。
+
+tagWizardRune02=^c短路
+tagWizardRune02Desc=每次 ^p电击 ^w暴击时，目标被标记。标记敌人在5秒内承受闪电伤害。被标记敌人再次被你的任何技能暴击时，标记被电击强化，3秒内降低敌人20%闪电抗性。{^n}{^n}{^y}符文词: {^c}NeoTec
+tagWizardRune02b=符文效果
+tagWizardRune02bDesc=敌人已被电击暴击标记。
+
+tagWizardRune02c=^c短路 (强化)
+tagWizardRune02cDesc=每次 ^p电击 ^w暴击时，目标被标记。标记敌人在5秒内承受闪电伤害。被标记敌人再次被你的任何技能暴击时，标记被电击强化，3秒内降低敌人30%闪电抗性。{^n}{^n}{^y}符文词: {^c}NeoTec (强化)
+tagWizardRune02d=符文效果
+tagWizardRune02dDesc=敌人已被电击暴击标记。
+
+tagWizardRune02e=符文效果
+tagWizardRune02eDesc=敌人闪电抗性已降低。
+
+tagWizardRune03=^c冰封之力
+tagWizardRune03Desc=使用 ^b冰霜射线^w 攻击时，恢复10%+300生命值，但无法使用生命药水。^o此效果有0.5秒冷却，可被冷却缩减。{^n}{^n}{^y}符文词: {^c}NocYom
+tagWizardRune03b=符文效果
+tagWizardRune03bDesc=你正通过冰霜射线持续恢复生命值。

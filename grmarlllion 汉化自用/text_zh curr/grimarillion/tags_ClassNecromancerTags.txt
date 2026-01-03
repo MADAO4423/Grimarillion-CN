@@ -1,0 +1,178 @@
+
+tagSkillClassName15=D3 死灵法师
+tagSkillClassName0115=暗黑指挥官
+tagSkillClassName0215=火焰大师
+tagSkillClassName0315=恶魔学者
+tagSkillClassName0415=死亡之刃
+tagSkillClassName0515=以太行者
+tagSkillClassName0615=野兽大师
+tagSkillClassName0715=驱逐者
+tagSkillClassName0815=死亡领主
+tagSkillClassName0915=恐惧守卫
+tagSkillClassName1015=暗黑游侠
+tagSkillClassName1115=复活者
+tagSkillClassName1215=死亡祭司
+tagSkillClassName1315=暗黑法师
+tagSkillClassName1415=暗黑牧师
+tagSkillClassName3715=暗黑游侠
+
+tagSkillClassDescriptionNecromancer=死灵法师是黑暗艺术的掌控者。他们可以召唤死者为自己作战，汲取生命力以增强或治疗自己。同时，他们还能用诅咒削弱敌人，并用致命的骨系法术撕裂阻挡在前的任何敌人。 ^n^s由 Grimer 为 Diablo 3 Mod 改编
+
+#ClassNecromancer
+tagClassNecromancerSkillName00=D3 死灵法师
+tagClassNecromancerSkillDescription00="一支新的亡者军团将在我的命令下崛起。"
+
+tagClassNecromancerSkillName01A=骨刺{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription01A=从地面召唤骨刺，对区域内所有敌人造成穿刺和冰冷伤害。
+
+tagClassNecromancerSkillName01B=霜刺{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription01B=骨刺额外造成活力伤害并对敌人施加霜烧，减速3秒。
+
+tagClassNecromancerSkillName01C=突发冲击{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription01C=伤害提升，并使敌人眩晕数秒。
+
+tagClassNecromancerSkillName01D=锯齿{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription01D=增加骨刺和骨矛造成的伤害。
+
+tagClassNecromancerSkillName02A=死亡新星{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription02A=释放新星，对周围敌人造成酸性与活力伤害。
+
+tagClassNecromancerSkillName02B=枯萎{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription02B=死亡新星对敌人施加中毒，有概率使其攻击失误，持续3秒。
+
+tagClassNecromancerSkillName02C=不稳定混合{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription02C=降低伤害和能量消耗，死亡新星不再有冷却时间。
+
+tagClassNecromancerSkillName03A=阴影镰刀{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription03A=挥动召唤镰刀，对前方敌人造成活力与虚化伤害。 ^o阴影镰刀需要近战武器且不触发 WPS.{^n}{^n}{^y}血镰 {^o}(技能等级16解锁){^n}^w造成伤害的5%转化为生命。
+
+tagClassNecromancerSkillName03B=霜之镰{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription03B=伤害转为冰冷，阴影镰刀有概率冻结敌人。
+
+tagClassNecromancerSkillName03C=诅咒镰刀{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription03C=阴影镰刀造成活力衰减伤害，并在3秒内降低敌人的防御能力，暴击伤害增加。
+
+tagClassNecromancerSkillName03D=黑暗收割{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription03D=使用阴影镰刀后，提升自身伤害并对敌人造成额外活力与虚化伤害。 ^o该额外伤害影响所有技能。
+
+tagClassNecromancerSkillName04A=指挥骷髅{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription04A=从地面召唤一具骷髅战斗，直到死亡。 ^o骷髅随宠物加成成长。{^n}{^n}{^y}执法者 {^o}(技能等级16解锁){^n}^w骷髅护甲增加80%。
+
+tagClassNecromancerSkillName04D=执法者
+
+tagClassNecromancerSkillName04B=攻击伤害
+tagClassNecromancerSkillName04C=寒冰箭
+
+tagClassNecromancerSkillName05A=狂乱{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription05A=你的召唤物进入狂乱状态，获得额外速度、生命恢复和伤害提升，持续12秒。
+
+tagClassNecromancerSkillName06A=骷髅弓箭手{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription06A=召唤一名骷髅弓箭手战斗，直到死亡。 ^o骷髅弓箭手随宠物加成成长。{^n}{^n}{^y}冰冻之握 {^o}(技能等级12解锁){^n}^w骷髅弓箭手有10%概率冻结敌人。
+
+tagClassNecromancerSkillName06B=冰霜箭
+
+tagClassNecromancerSkillName07A=骨甲{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription07A=获得活力、物理及穿刺伤害抗性，同时吸收部分受到的伤害。{^n}{^n}{^y}肉体维持 {^o}(技能等级12解锁){^n}^w生命恢复提升85%。{^n}{^n}
+
+tagClassNecromancerSkillName07B=迅捷收割{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription07B=提升你的攻击速度。
+
+tagClassNecromancerSkillName08A=吸血{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription08A=对所有被诅咒的敌人造成活力伤害，降低其生命恢复和吸血抗性。
+
+tagClassNecromancerSkillName09A=虚弱{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription09A=削弱被诅咒的敌人，降低其抗性和防御能力。
+
+tagClassNecromancerSkillName10A=衰老诅咒{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription10A=诅咒目标区域的敌人，对其造成冰冷伤害，并在数秒内降低移动速度和攻击伤害。{^n}{^n}{^y}眩晕诅咒 {^o}(技能等级12解锁){^n}^w被诅咒的敌人有15%几率混乱。
+
+tagClassNecromancerSkillName10B=瘫痪诅咒{^K} 「D3 死灵法师」^-
+
+tagClassNecromancerSkillName11A=亡者之地{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription11A=提升所有伤害并增加攻击能力。在亡者之地，对亡灵与以太生物造成的伤害提升，同时你受到的伤害减少。{^n}{^n}{^y}丰饶之地 {^o}(技能等级12解锁){^n}{^w}在亡者之地，治疗效果提升30%。
+
+tagClassNecromancerSkillName12A=复生亡者指挥官{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription12A=提升生命值、以太抗性和防御能力，同时强化召唤物。{^n}{^n}{^y}异常动画师 {^o}(技能等级12解锁){^n}{^w}召唤物获得100%混乱和心灵控制抗性。
+
+tagClassNecromancerSkillName13A=指挥魔像{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription13A=召唤骨魔像作战，为你和盟友提供伤害吸收和额外虚化伤害。死亡或重召时，会留下骨旋风，对区域敌人造成虚化和活力伤害并造成混乱。 ^o魔像随宠物加成成长。
+
+tagClassNecromancerSkillName13B=冰霜魔像{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription13B=召唤冰霜魔像作战，为你和盟友提供冰冻抗性、元素抗性和额外冰冷伤害。死亡或重召时释放冰霜新星，冻结敌人3秒。
+
+tagClassNecromancerSkillName13C=血魔像{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription13C=召唤血魔像作战，为你和盟友提供生命恢复、额外活力伤害和流血抗性。死亡或重召时释放血爆，治疗周围所有盟友。
+
+tagPetGolem=骨魔像
+
+tagBoneGolem01=力量光环
+tagBoneGolem02=以太劈砍
+tagBoneGolem03=骨旋风
+tagBoneGolem04=以太冲锋
+
+tagBloodGolem01=血之光环
+tagBloodGolem02=活力劈砍
+tagBloodGolem03=治疗新星
+tagBloodGolem04=血之冲锋
+
+tagIceGolem01=冰霜劈砍
+tagIceGolem02=冰霜光环
+tagIceGolem03=冰冻死神
+tagIceGolem04=冰之冲锋
+
+tagTrackerGolem=当前召唤的魔像数量。
+
+tagClassNecromancerSkillName14A=锯齿{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription14A=增加骨矛与骨之路径造成的伤害。
+
+tagClassNecromancerSkillName15A=骨矛{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription15A=发射穿透弹，对路径上的所有敌人造成酸性与穿刺伤害。{^n}{^n}{^y}粉碎 {^o}(技能等级16解锁){^n}^w骨矛在3秒内降低敌人抗性20。
+
+tagClassNecromancerSkillName15B=枯骨髓{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription15B=骨矛额外造成酸性伤害并中毒敌人，降低敌人的攻击能力，持续3秒。
+
+tagClassNecromancerSkillName15C=死硬{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription15C=骨矛对敌人造成活力伤害与活力衰减，并降低其攻击速度，持续3秒。
+
+tagClassNecromancerSkillName16A=最终服务{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription16A=濒死时，你会被治疗并在3秒内无敌，吸收所有伤害，同时对以太生物和亡灵造成额外伤害。
+
+tagClassNecromancerSkillName17A=尸爆{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription17A=被杀死的敌人会爆炸，对附近敌人造成巨量伤害。
+
+tagClassNecromancerSkillName18A=骨灵{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription18A=召唤骨灵，自动追踪敌人并在接近时爆炸，对附近敌人造成冰冷与活力伤害，并在3秒内减速。 ^o骨灵的伤害随玩家伤害加成成长。
+
+tagClassNecromancerSkillName18B=灵魂爆炸
+tagClassNecromancerSkillName18C=恐慌攻击{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription18C=召唤被污染的骨灵，不断使用毒性新星攻击敌人，对附近敌人造成伤害，有几率使其混乱数秒。 ^o骨灵死亡时不再爆炸，但仍随玩家伤害加成成长。
+
+tagClassNecromancerSkillName18D=毒性新星{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillName18E=当前存活的骨灵数量。
+tagClassNecromancerSkillName18F=血灵{^K} 「D3 死灵法师」^-
+
+tagPetBoneSpirit=骨灵
+
+tagClassNecromancerSkillName19A=血即力量{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription19A=每秒牺牲一部分生命以提升所有伤害并额外造成活力伤害。激活期间，你的移动速度提升，并获得生命减少抗性。
+
+tagClassNecromancerSkillName20A=亡者军团{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillDescription20A=骷髅从地面升起，10秒内随机攻击敌人。 ^o亡者军团的伤害随宠物加成成长。
+
+tagClassNecromancerSkillName21A=冰冻之握{^K} 「D3 死灵法师」^-
+tagClassNecromancerSkillName21B=冰封军团{^K} 「D3 死灵法师」^-
+
+tagLithXanBuff=准备战斗
+tagLithXanBuffDesc=骷髅目前无敌且造成额外伤害。
+
+tagNecromancerRune01=^c亡者军团
+tagNecromancerRune01Desc=当 ^t亡者之地 ^w生效时，每次攻击敌人会召唤 ^t亡者军团 ^w。军团由多个骷髅组成，奔向目标地点并引发骨爆，对敌人造成以太与活力伤害。被骨爆命中的敌人在3秒内抗性降低20。 ^o亡者军团的伤害随玩家伤害加成成长。{^n}{^n}{^y}符文词：{^c}YulYom
+tagNecromancerRune01b=^c强化亡者军团
+tagNecromancerRune01bDesc=当 ^t亡者之地 ^w生效时，每次攻击敌人会召唤 ^t亡者军团 ^w。军团由多个骷髅组成，奔向目标地点并引发骨爆，对敌人造成以太与活力伤害。被骨爆命中的敌人在3秒内抗性降低25。 ^o亡者军团的伤害随玩家伤害加成成长。{^n}{^n}{^y}符文词：{^c}YulYom (强化)
+
+tagNecromancerRune02=^c新星大师
+tagNecromancerRune02Desc=^g死亡新星 ^w现在会标记敌人。被标记目标在3秒内持续施放技能的另一版本。标记敌人及所有被该新星波及的敌人受到酸性、活力和毒性伤害，并降低10%毒素与活力抗性。{^n}{^n}^g毒灵 ^w现在永久存在。由它们施放的新星同样受到此符文效果影响，并且抗性降低效果可叠加。伤害及抗性降低随骨灵等级成长，16级降低15%，26级降低20%。 {^n}{^n}{^y}符文词：{^c}BacThul
+tagNecromancerRune02b=^c强化新星大师
+tagNecromancerRune02bDesc=^g死亡新星 ^w现在会标记敌人。被标记目标在3秒内持续施放技能的另一版本。标记敌人及所有被该新星波及的敌人受到酸性、活力和毒性伤害，并降低15%毒素与活力抗性。{^n}{^n}^g毒灵 ^w现在永久存在。由它们施放的新星同样受到此符文效果影响，并且抗性降低效果可叠加。伤害及抗性降低随骨灵等级成长，16级降低15%，26级降低20%。 {^n}{^n}{^y}符文词：{^c}BacThul (强化)
+tagNecromancerRune02c=^c符文效果
+tagNecromancerRune02cDesc=受影响的敌人正在施放死亡新星，降低周围敌人的抗性。

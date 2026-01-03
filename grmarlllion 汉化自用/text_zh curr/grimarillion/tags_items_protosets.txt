@@ -1,0 +1,513 @@
+*********************
+***BEGIN PROTOSETS***
+*********************
+
+tagSpellslingerPistolD01=(S) {^I}法术枪手的副武器
+tagSpellslingerShieldD01=(S) {^I}法术枪手的庇护盾
+tagSpellslingerShouldersD01=(S) {^I}法术枪手的肩甲
+tagSpellslingerAmuletD01=(S) {^I}法术枪手的碎片
+tagSpellslingerSet=法术枪手
+tagSpellslingerSetSkill=撤销气场
+tagSpellslingerSetSkillDesc=散发一个气场，使附近的敌人对元素更为脆弱并削弱他们的决心。
+
+tagBladefallMaceD01=(S) {^I}刀刃的信标
+tagBladefallMaceD01Skill=线性幻影刀刃
+tagBladefallMaceD01SkillDesc=你的幻影刀刃扩散角度减小。
+tagBladefallAxeD01=(S) {^I}刀刃的破碎者
+tagBladefallAxeD01Skill=新星幻影刀刃
+tagBladefallAxeD01SkillDesc=你的幻影刀刃如同新星技能般爆发。
+tagBladefallHelmetD01=(S) {^I}刀刃的破口
+tagBladefallTorsoD01=(S) {^I}刀刃的气焰
+tagBladefallAmuletD01=(S) {^I}刀刃的盛开
+tagBladefallSet=刀刃
+tagBladefallSetDesc=穿越天际的武器。
+tagBladefallProc01=链式闪电
+tagBladefallProc01Desc=闪电链穿透一个敌人并传递至下一个敌人，电击四周世界。
+tagBladefallProc02=闪电箭
+tagBladefallProc02Desc=天上的闪电坠落，摧毁敌人。
+
+tagVaalPathSwordD01=(S) {^I}升华
+tagVaalPathHelmetD01=(S) {^I}英勇凝视
+tagVaalPathTorsoD01=(S) {^I}英勇防护
+tagVaalPathMedalD01=(S) {^I}英勇标志
+tagVaalPathSet=英勇之道
+tagVaalPathSetDesc=即便在流放中，也必须追寻英勇之路。
+
+tagTwistedHelmD01=(S) {^I}扭曲的凝视
+tagTwistedHelmD01Desc=当你戴上这盔甲时，发现你所看到的视角并非属于你。
+tagTwistedAmuletD01=(S) {^I}扭曲的结
+tagTwistedAmuletD01Desc=当护符固定在你胸前时，你的心跳变得更为急促。
+tagTwistedDaggerD01=(S) {^I}扭曲之刃
+tagTwistedDaggerD01Desc=这把刀锋迅速划破肉体，似乎渴望鲜血。
+tagTwistedRingD01=(S) {^I}扭曲的环
+tagTwistedRingD01Desc=当你把戒指滑到手指上时，你发现双手被引向他人。
+tagTwistedSet=扭曲饰品
+tagTwistedSetDesc="...因为血液并非属于他们，必须归还到其应有的主人。" -UT
+
+tagMeteoricSwordD01=(S) {^I}陨落
+tagMeteoricSwordD01Desc=当天际降临大地，荒废随之而来。
+tagMeteoricHelmD01=(S) {^I}陨石视野
+tagMeteoricHelmD01Desc=为天体陨落设计的瞄准装置。
+tagMeteoricAmuletD01=(S) {^I}陨石之门
+tagMeteoricAmuletD01Desc="...天体的合相创造了一个门户，穿越其中..."
+tagMeteoricMedalD01=(S) {^I}陨石掌控
+tagMeteoricMedalD01Desc=在完全毁灭中找到的力量。
+tagMeteoricSet=陨石之力
+tagMeteoricSetDesc=神秘的盔甲，带来灾难性崩塌。
+tagMeteoricSetSkill=毁灭
+tagMeteoricSetSkillDesc=将摧毁帝国与星辰的力量注入到你的剑中，终结你的敌人。^n^o此技能需要使用法术副手。火星持续在你身上掉落。一次只能激活一个毁灭。
+
+tagDancerRifleD01=(S) {^I}最恐怖的狐步
+tagDancerRifleD01Desc=迅速冲入血腥屠杀。
+tagDancerRifleSkill=编织
+tagDancerRifleSkillDesc=
+tagDancerSwordD01=(S) {^I}最血腥的芭蕾
+tagDancerSwordD01Desc=给予鲜血。
+tagDancerSwordSkill=滑行
+tagDancerSwordSkillDesc=
+tagDancerHelmD01=(S) {^I}最凄惨的华尔兹
+tagDancerHelmD01Desc=摇摆入破碎。
+tagDancerHelmSkill01=推动
+tagDancerHelmSkill01Desc=
+tagDancerHelmSkill02=收集
+tagDancerHelmSkill02Desc=
+tagDancerAmuletD01=(S) {^I}最扭曲的探戈
+tagDancerAmuletD01Desc=谋杀需要二人合作。
+tagDancerAmuletSkill01=动觉
+tagDancerAmuletSkill01Desc=
+tagDancerAmuletSkill02=起立
+tagDancerAmuletSkill02Desc=
+tagDancerBeltD01=(S) {^I}最邪恶的桑巴
+tagDancerBeltD01Desc=迈向屠杀。
+tagDancerBeltSkill01=反弹
+tagDancerBeltSkill01Desc=
+tagDancerBeltSkill02=脚步
+tagDancerBeltSkill02Desc=
+tagDancerSetD01=最致命的舞蹈
+tagDancerSetD01Desc=无论是刀剑还是子弹，死亡无所不在。
+
+tagMonkHelmD01=(S) {^I}心灵之力
+tagMonkHelmD01Desc=^o此物品的技能修正要求用户未持武器。
+tagMonkHelmSkill=心灵之力
+tagMonkHelmSkillDesc=想象中的一切皆有可能。^o要求用户未持武器。
+
+tagMonkChestD01=(S) {^I}核心之命令
+tagMonkChestD01Desc=^o此物品的技能修正要求用户未持武器。
+tagMonkChestSkill=核心命令
+tagMonkChestSkillDesc=来自内心的攻击性能力。^o要求用户未持武器。
+
+tagMonkShouldersD01=(S) {^I}躯体之防
+tagMonkShouldersD01Desc=^o此物品的技能修正要求用户未持武器。
+tagMonkShoulderSkill=躯体之防
+tagMonkShoulderSkillDesc=来自内心的坚不可摧的防御。^o要求用户未持武器。
+
+tagMonkHandsD01=(S) {^I}灵魂之力
+tagMonkHandsD01Desc=^o此物品的技能修正要求用户未持武器。
+tagMonkHandsSkill=灵魂之力
+tagMonkHandsSkillDesc=灵魂的力量能支配任何敌人，因为没有什么武器能比它更强大。^o要求用户未持武器。
+
+tagMonkSetD01=纯粹之道
+tagMonkSetD01Desc=放弃奥术的腐化和钢铁的懦弱，拥抱内在的超凡力量。^o此套装的技能修正要求用户未持武器。
+tagMonkSetSkill=节奏
+tagMonkSetSkillDesc=纯粹的节奏流动清除你周围的腐化，并让意志薄弱的敌人迷失方向。^o当作为默认武器攻击时，节奏将放大每一次攻击的威力。要求用户未持武器。
+
+tagAuradinHelmD01=(S) {^I}自动体的面容
+tagAuradinChestD01=(S) {^I}自动体的铠甲
+tagAuradinChestSkill=自适应铠甲
+tagAuradinChestSkillDesc=法术铠甲为你提供持续的再生防御，并偶尔爆发出强大的保护能力。
+
+tagAuradinShouldersD01=(S) {^I}自动体的披风
+tagAuradinShieldD01=(S) {^I}自动体的塔盾
+tagAuradinSet=帝国自动体
+tagAuradinSetDesc=来自早已被遗忘的世界的防御哨兵。
+tagAuradinSetSkill=报复链闪电
+tagAuradinSetSkillDesc=当自动体被攻击时，其魔法绑定会迅速反击，电击接近的敌人。空气中的血液会使回流的电流导回到防御矩阵，持续保护用户。
+
+tagSplitterHelmD01=(S) {^I}分裂者之冠
+tagSplitterShouldersD01=(S) {^I}分裂者之披风
+tagSplitterAmuletD01=(S) {^I}分裂者之符
+tagSplitterShieldD01=(S) {^I}分裂者的护盾
+tagSplitterDaggerD01=(S) {^I}分裂者之刃
+tagSplitterDaggerSkill=分裂攻击
+tagSplitterDaggerSkillDesc=投入攻击，并在随后的攻击中给予敌人致命的穿透执行。
+tagSplitterSet=分裂者
+tagSplitterSetDesc=精准地切割现实。
+tagSplitterAegisMod=^z门尼尔碎片的神盾
+tagSplitterAegisModDesc=^o此变换器只能在装备完整的分裂者套装后才可启用。它在UI中显示，是为了让你可以选择是否放弃门尼尔碎片神盾。放弃此技能将比游戏原版多获得一个技能点。请咨询你的MOD作者，了解是否已考虑此项，或者自行决定此方式是否给予了不当的优势。^n^n另外，可以向Crate申请更好的MOD能力，例如基于上下文的重置或重置黑名单。
+
+tagUnravelHelmD01=(S) {^I}解构者的凝视
+tagUnravelGlovesD01=(S) {^I}解构者的手套
+tagUnravelChestD01=(S) {^I}解构者的胸甲
+tagUnravelShieldD01=(S) {^I}解构者的守卫
+tagUnravelSet=解构者的召唤
+tagUnravelSetDesc=摧毁那些愚蠢地站在你面前的人。
+
+tagPrimordialPistolD01=(S) {^I}原始毁灭者
+tagPrimordialPistolD01Skill=罐弹强化
+tagPrimordialPistolD01SkillDesc=你获得了对罐弹的增强效果。
+tagPrimordialPistolD02=(S) {^I}原始破坏者
+tagPrimordialPistolD02Skill=格雷纳多强化
+tagPrimordialPistolD02SkillDesc=你获得了对格雷纳多的增强效果。
+
+tagPrimordialHelmD01=(S) {^I}原始之瞳
+tagPrimordialRingD01=(S) {^I}原始之环
+tagPrimordialMedalD01=(S) {^I}原始印记
+tagPrimordialMedalD01Skill=原始掠夺
+tagPrimordialMedalD01SkillDesc=被背叛之神的力量赋予你摧毁敌人的能力。^n^o这是一个远程双持的被动加成，也使得你能够双持远程武器。
+
+tagPrimordialSet=原始破坏者
+tagPrimordialSetDesc=以超自然的力量摧毁和毁灭。
+
+tagForerunnerGreatAxeD01=(S) {^I}世界开刃
+tagForerunnerAmuletD01=(S) {^I}先驱者之门
+tagForerunnerBeltD01=(S) {^I}先驱者之束
+tagForerunnerLeggingsD01=(S) {^I}先驱者之步
+tagForerunnerSet=五重先驱
+tagForerunnerSetDesc=先锋之中，有一把开天辟地的巨斧。
+tagForerunnerBladeArcAoE=斧刃弧形范围伤害
+
+tagJudicatorNecklaceD01=(S) {^I}愤怒武具
+tagJudicatorMedalD01=(S) {^I}耐心徽章
+tagJudicatorSet=审判者的守护
+
+tagFelsicShieldD01=(S) {^I}辉岩盾
+tagFelsicShieldD01Skill=裂隙
+tagFelsicShieldD01SkillDesc=受到攻击时，召唤出一块黑曜石裂片来保护你。^o黑曜石裂片的效果与宠物加成相关。
+tagFelsicMaceD01=(S) {^I}辉岩碎片
+tagFelsicMaceD01Skill=玄武喷发
+tagFelsicMaceD01SkillDesc=召唤一群裂片来攻击你的敌人。^o黑曜石裂片的效果与宠物加成相关。
+tagFelsicHandsD01=(S) {^I}辉岩之握
+tagFelsicChestD01=(S) {^I}辉岩堡垒
+tagFelsicChestD01Skill=火成冷却
+tagFelsicChestD01SkillDesc=以牺牲伤害为代价，冷却你周围的区域，治愈自己及周围的随从。^o此效果作用于你和任何附近的盟友。
+tagFelsicSet=辉岩之流
+tagFelsicSetDesc=在晶体般的毁灭中，开辟一条胜利之路。
+tagFelsicSetSkill=召唤马斯卡
+tagFelsicSetSkillDesc=召唤黑曜石冠军马斯卡，流放神的使者，在战斗中保护你并粉碎敌人。^o同一时间只能召唤一个马斯卡。马斯卡的能力与宠物加成相关。
+
+tagFortuneRifleD01=(S) {^I}你的一天
+tagFortuneRifleD01Desc=在枪管上用风化的白色粉笔写着：“^w做你喜欢的事...^q”
+tagFortuneHelmD01=(S) {^I}命运头盔
+tagFortuneTorsoD01=(S) {^I}命运铠甲
+tagFortuneMedalD01=(S) {^I}命运徽章
+tagFortuneSet=命运战士
+tagFortuneSetDesc=命运偏爱勇者。
+tagFortuneSkillName=幸运之子
+tagFortuneSkillDesc=愿命运对你微笑。^o这是一个双手远程武器的被动加成。
+
+tagMalHelmD01=(S) {^I}马尔特罗瓦克的凝视
+tagMalHelmD01Desc=马尔特罗瓦克的头盔，背叛者与被背叛者。^n^o在他的竞技场上碾压自大者。
+tagMalHelmD01Skill=燃烧之声
+tagMalHelmD01SkillDesc=马尔特罗瓦克的言辞灼烧无准备之人。
+
+tagMalShouldersD01=(S) {^I}马尔特罗瓦克的肩甲
+tagMalShouldersD01Desc=马尔特罗瓦克的肩铠，坚定与迅捷的象征。^n^o让燃烧的森林平息。
+tagMalShouldersD01Skill=点燃
+tagMalShouldersD01SkillDesc=马尔特罗瓦克的滔滔仇恨凝聚成熔浆球，在战场上扩散。
+
+tagMalChestD01=(S) {^I}马尔特罗瓦克的战甲
+tagMalChestD01Desc=马尔特罗瓦克的战甲，王者与领主的象征。^n^o沙土与天空交界之地封闭了一条道路。
+tagMalChestD01Skill=放逐之子铠
+tagMalChestD01SkillDesc=马尔特罗瓦克的战甲可以抵挡任何胆小的敌人送来的攻击。
+
+tagMalGlovesD01=(S) {^I}马尔特罗瓦克的手套
+tagMalGlovesD01Desc=马尔特罗瓦克的手套，焚烧者与净化者。^n^o扑灭堡垒中的火焰。
+tagMalGlovesD01Skill=流亡王者的敏捷
+tagMalGlovesD01SkillDesc=传说中，马尔特罗瓦克可以以如此快速的速度挥舞艾瓦努尔，以至于连空气都能被点燃。^o要求使用双手剑。
+
+tagMalBootsD01=(S) {^I}马尔特罗瓦克的步伐
+tagMalBootsD01Desc=马尔特罗瓦克的靴子，恐惧与未来的化身。^n^o点燃虚空饮者。
+tagMalBootsD01Skill=步伐破坏
+tagMalBootsD01SkillDesc=没有人能逃脱马尔特罗瓦克的无可避免的统治。
+
+tagMalLeggingsD01=(S) {^I}马尔特罗瓦克的行进
+tagMalLeggingsD01Desc=马尔特罗瓦克的腿铠，幽暗与光辉的象征。^n^o在战场上，偶遇魔法刺客。
+tagMalLeggingsD01Skill=远步
+tagMalLeggingsD01SkillDesc=马尔特罗瓦克行进的地方，战死者的灵魂跟随着他。
+
+tagMalBeltD01=(S) {^I}马尔特罗瓦克的腰带
+tagMalBeltD01Desc=马尔特罗瓦克的腰护，防卫者与坚定者的象征。^n^o结束女王愚昧的呼喊。
+tagMalBeltD01Skill=炽焰宫廷
+tagMalBeltD01SkillDesc=站在烧伤王者的恩典之下，便是被灼烧。
+
+tagMalRingD01=(S) {^I}马尔特罗瓦克的戒指
+tagMalRingD01Desc=马尔特罗瓦克的左手戒指，热烈与客观的象征。^n^o寻找未知。
+tagMalRingD01Skill=艾内瑞斯之火
+tagMalRingD01SkillDesc=艾内瑞斯的火焰从内而外焚烧敌人，将他们化为余烬。^o此效果将与马尔特罗瓦克的徽戒上的效果叠加。
+tagMalRingD02=(S) {^I}马尔特罗瓦克的印戒
+tagMalRingD02Desc=马尔特罗瓦克的右手戒指，忠诚与背叛者。^n^o在破裂的堡垒下寻找背叛者。
+tagMalRingD02Skill=艾内瑞斯之火
+tagMalRingD02SkillDesc=艾内瑞斯的火焰从内而外焚烧敌人，将其化为余烬。^o此效果与马尔特罗瓦克的戒指上的效果叠加。
+
+tagMalAmuletD01=(S) {^I}马尔特罗瓦克的灯塔
+tagMalAmuletD01Desc=马尔特罗瓦克的宝石，午夜与烈焰的象征。^n^o寻找永恒阴影的使者。
+tagMalAmuletD01Skill=无日继承者的守护
+tagMalAmuletD01SkillDesc=马尔特罗瓦克的衣饰为他的防御加上了反魔法的护符。
+
+tagMalMedalD01=(S) {^I}马尔特罗瓦克的印记
+tagMalMedalD01Desc=马尔特罗瓦克的徽章，源自教义与被热情拒绝。^n^o推翻群山。
+tagMalMedalD01Skill=恶意的愤怒
+tagMalMedalD01SkillDesc=马尔特罗瓦克的恶意对那些胆敢攻击他的人发动猛烈反击。
+
+tagMalGreatswordD01=(S) {^I}艾瓦努尔
+tagMalGreatswordD01Desc=钢铁为他的皮肤，火焰为他的血液，带着仇恨征服一切。
+tagMalGreatswordD01Skill=炽焰斩击
+tagMalGreatswordD01SkillDesc=艾瓦努尔突破马尔特罗瓦克敌人的阵线，将能够承受一次攻击的敌人削弱得更为脆弱。
+
+tagMalSetD01=凤凰之bane
+tagMalSetD01Desc=无尽的仇恨，无休止的血shed，无限的毁灭。
+tagMalSetSkillName=凤凰之bane
+tagMalSetSkillDesc=消灭所有胆敢挑战马尔特罗瓦克命定统治的人。
+
+tagMalRelicD01=终极法盾
+tagMalRelicD01Desc=马尔特罗瓦克的遗物，艾内瑞斯之子，亡王。^n^o一条道路始于地狱狂热者的鲜血。
+tagMalRelicBonusSkillName=法术盾
+tagMalRelicBonusSkillDesc=魔法施法者的禁忌，马尔特罗瓦克的法术盾无效化施加于拥有者的恶意魔法。
+
+tagMalNotif1=一个危险的神器已进入你的包裹...
+tagMalNotif2=你的伟大任务暂告一段落...
+
+tagVanguardShieldD01={^I}先锋之突击
+tagVanguardShieldD01Desc=以太灵族知道，他们只能做一次第一次印象，他们做得非常成功。
+tagVanguardShieldD01SkillName=以太枪矛
+tagVanguardShieldD01SkillDesc=当敌人的攻击撞击到你的盾牌时，以太能量的火焰向敌人蔓延，将他们的生命力窃取给你。
+
+tagMediocreSetD01=平庸之复仇
+tagMediocreSetD01Desc=力量。
+tagMediocreNecklaceD01=(S) {^I}平凡的吊坠
+tagMediocreHelmD01=(S) {^I}完全普通的凝视
+tagMediocreChestD01=(S) {^I}还不错的铠甲
+tagMediocreChestD01Desc=其实也就一般。
+tagMediocreChestD01SkillName=还不错的毁灭之雷
+tagMediocreChestD01SkillDesc=呃，实际上是“毁灭之雷”，两个字。依旧就一般。
+
+tagMediocreShouldersD01=(S) {^I}非常普通的羽毛
+tagMediocreShouldersD01SkillName=差不多的卡尔多尔风暴
+tagMediocreShouldersD01SkillDesc=差不多，但还是差一点。
+
+tagForceShieldD01={^I}欧尼斯的力量盾
+tagForceShieldD01Desc=欧尼斯掌握了将来袭力量转化为防御的魔法方法……或者说，他以为他做到了。
+tagForceShieldD01SkillName=力量之盾
+tagForceShieldD01SkillDesc=将来袭的攻击转化为防御强化，同时增强你的反击力量。
+
+tagBrutalSetD01=黑钢毁灭者
+tagBrutalSetD01Desc=重击。一次性击杀。
+tagBrutalMace2HD01={^I}黑钢掠夺者
+tagBrutalChestD01={^I}黑钢核心
+tagBrutalShouldersD01={^I}黑钢卫士
+tagBrutalBootsD01={^I}黑钢足迹
+
+tagDreadSetD01=恐惧翼的飞翔
+tagDreadAxeD01={^I}恐惧翼的爪牙
+tagDreadChestD01={^I}恐惧翼的骨架
+tagDreadShouldersD01={^I}恐惧翼的羽翼
+tagDreadHelmD01={^I}恐惧翼的鸟喙
+
+*******************
+***END PROTOSETS***
+*******************
+
+**********************
+***BEGIN COMPONENTS***
+**********************
+
+tagCC_Desc=超越的力量将一框现实重新定义为另一框现实。{^n}^w(用于戒指)
+
+tagFireFire=火焰纯净
+tagFireCold=火焰寒霜
+tagFireLight=火焰震电
+tagFirePhys=火焰重量
+tagFirePierce=火焰创伤
+tagFireAcid=火焰腐蚀
+tagFireVit=火焰腐化
+tagFireAether=火焰堕落
+tagFireChaos=火焰深渊
+
+tagColdFire=冰焰
+tagColdCold=冰霜纯净
+tagColdLight=冰霜震电
+tagColdPhys=冰霜重量
+tagColdPierce=冰霜创伤
+tagColdAcid=冰霜腐蚀
+tagColdVit=冰霜腐化
+tagColdAether=冰霜堕落
+tagColdChaos=冰霜深渊
+
+tagLightFire=震电焰
+tagLightCold=震电霜
+tagLightLight=震电纯净
+tagLightPhys=震电重量
+tagLightPierce=震电创伤
+tagLightAcid=震电腐蚀
+tagLightVit=震电腐化
+tagLightAether=震电堕落
+tagLightChaos=震电深渊
+
+tagPhysFire=加重焰
+tagPhysCold=加重霜
+tagPhysLight=加重震电
+tagPhysPhys=加重纯净
+tagPhysPierce=加重创伤
+tagPhysAcid=加重腐蚀
+tagPhysVit=加重腐化
+tagPhysAether=加重堕落
+tagPhysChaos=加重深渊
+
+tagPierceFire=创伤焰
+tagPierceCold=创伤霜
+tagPierceLight=创伤震电
+tagPiercePhys=创伤重量
+tagPiercePierce=创伤纯净
+tagPierceAcid=创伤腐蚀
+tagPierceVit=创伤腐化
+tagPierceAether=创伤堕落
+tagPierceChaos=创伤深渊
+
+tagAcidFire=腐蚀焰
+tagAcidCold=腐蚀霜
+tagAcidLight=腐蚀震电
+tagAcidPhys=腐蚀重量
+tagAcidPierce=腐蚀创伤
+tagAcidAcid=腐蚀纯净
+tagAcidVit=腐蚀腐化
+tagAcidAether=腐蚀堕落
+tagAcidChaos=腐蚀深渊
+
+tagVitFire=腐化焰
+tagVitCold=腐化霜
+tagVitLight=腐化震电
+tagVitPhys=腐化重量
+tagVitPierce=腐化创伤
+tagVitAcid=腐化腐蚀
+tagVitVit=腐化纯净
+tagVitAether=腐化堕落
+tagVitChaos=腐化深渊
+
+tagAetherFire=堕落焰
+tagAetherCold=堕落霜
+tagAetherLight=堕落震电
+tagAetherPhys=堕落重量
+tagAetherPierce=堕落创伤
+tagAetherAcid=堕落腐蚀
+tagAetherVit=堕落腐化
+tagAetherAether=堕落纯净
+tagAetherChaos=堕落深渊
+
+tagChaosFire=深渊焰
+tagChaosCold=深渊霜
+tagChaosLight=深渊震电
+tagChaosPhys=深渊重量
+tagChaosPierce=深渊创伤
+tagChaosAcid=深渊腐蚀
+tagChaosVit=深渊腐化
+tagChaosAether=深渊堕落
+tagChaosChaos=深渊纯净
+
+********************
+***END COMPONENTS***
+********************
+
+*************************
+***BEGIN VARIANT ITEMS***
+*************************
+
+tagProtoVariant=变种
+tagVariantLeviathanRecipe=变种利维坦
+tagVariantGTMWRecipe=变种通往多元世界之门
+tagVariantGTMWSkillName=变种世界之门
+tagVariantGTMWSkillDesc=撕裂现实之裂缝，解开站在其内的敌人。^o变种世界之门会随着玩家的加成而成长。
+tagVariantRiftwarpedGraspRecipe=变种裂隙扭曲之握
+tagVariantSoulrendRecipe=变种灵魂撕裂
+tagVariantAdversaryRecipe=变种对手
+tagVariantDreadKnightsGuardRecipe=变种恐惧骑士之护卫
+
+tagVariantMarkovianSet=马克沃维安的堡垒
+tagVariantMarkovianSetSkillName=深度防御
+tagVariantMarkovianSetSkillDesc=著名的战术家马克沃维安相信，不仅仅在前线使用防御力，而是要在整个盟军领域中分布防御力。这样，他的部队能够随时撤退并发动反击，马克沃维安本人也不陌生于这种打击和撤退的战术。^o要求使用近战武器。在100%攻击速度时，深度防御每0.16秒造成伤害并消耗能量。
+tagVariantMarkovianShield=(S) {^I}变种马克沃维安的盾牌
+tagVariantMarkovianAmulet=(S) {^I}变种马克沃维安的徽记
+tagVariantMarkovianTorso=(S) {^I}变种马克沃维安的重甲
+tagVariantMarkovianShoulders=(S) {^I}变种马克沃维安的先锋肩甲
+tagVariantMarkovianHelm=(S) {^I}变种马克沃维安的头盔
+
+tagVariantUlzuinSet=乌尔祖因的恶魔化化身
+tagVariantUlzuinHelm=(S) {^I}变种乌尔祖因的头盔
+tagVariantUlzuinTorso=(S) {^I}变种乌尔祖因的胸甲
+tagVariantUlzuinShoulders=(S) {^I}变种乌尔祖因的肩甲
+tagVariantUlzuinRifle=(S) {^I}变种乌尔祖因的火焰扩散器
+tagVariantUlzuinAmulet=(S) {^I}变种乌尔祖因的宝石
+
+tagVariantDreegSet=德雷格的背叛
+tagVariantDreegSetSkillName=观察者的追求
+tagVariantDreegSetSkillDesc=德雷格的目光无所不在，无论有多少障碍，他总能找到他所寻觅的东西。
+tagVariantDreegAmulet=(S) {^I}变种德雷格的黑宝石
+tagVariantDreegHelm=(S) {^I}变种德雷格的兜帽
+tagVariantDreegShoulders=(S) {^I}变种德雷格的披风
+tagVariantDreegDagger=(S) {^I}变种德雷格的符文匕首
+tagVariantDreegTorso=(S) {^I}变种德雷格的长袍
+
+tagVariantDeathmarkSet=幽影死亡印记
+tagVariantDeathmarkSetSkillName=死亡印记
+tagVariantDeathmarkSetSkillDesc=为你的目标下上标记，带来迅速而痛苦的死亡。
+tagVariantDeathmarkSword=(S) {^I}变种死亡印记之爪
+tagVariantDeathmarkAxe=(S) {^I}变种死亡印记之斩首斧
+tagVariantDeathmarkHelm=(S) {^I}变种死亡印记之兜帽
+tagVariantDeathmarkTorso=(S) {^I}变种死亡印记之夹克
+tagVariantDeathmarkShoulders=(S) {^I}变种死亡印记之肩甲
+
+tagVariantIskandraSet=伊斯坎德拉的统一
+tagVariantIskandraSetSkillName=伊斯坎德拉的复制屏障
+tagVariantIskandraSetSkillDesc=观察到她同行者的进攻性法术后，伊斯坎德拉将这一技巧重新利用，形成围绕自己存在的防护屏障，由她自己的法术施放来供能。
+tagVariantIskandraAmulet=(S) {^I}变种伊斯坎德拉的聚焦水晶
+tagVariantIskandraHelm=(S) {^I}变种伊斯坎德拉的兜帽
+tagVariantIskandraShoulders=(S) {^I}变种伊斯坎德拉的肩甲
+tagVariantIskandraFocus=(S) {^I}变种伊斯坎德拉的文献
+tagVariantIskandraTorso=(S) {^I}变种伊斯坎德拉的长袍
+
+tagVariantUltosSet=乌尔托斯的旋风
+tagVariantUltosSetSkillName=剖裂图腾
+tagVariantUltosSetSkillDesc=召唤一个残酷的图腾乌尔托斯，撕裂附近的敌人，提醒他们大自然的愤怒。^o剖裂图腾会随着宠物加成而成长。剖裂图腾有10%的几率让敌人出血，消灭他们的生命力。
+tagVariantUltosSetPetSkill01Name=剖裂
+tagVariantUltosSetPetSkill02Name=放血
+tagVariantUltosHelm=(S) {^I}变种乌尔托斯的兜帽
+tagVariantUltosTorso=(S) {^I}变种乌尔托斯的胸甲
+tagVariantUltosShoulders=(S) {^I}变种乌尔托斯的肩甲
+tagVariantUltosAxe=(S) {^I}变种乌尔托斯的风暴先锋斧
+tagVariantUltosAmulet=(S) {^I}变种乌尔托斯的宝石
+
+tagVariantRunebinderSet=符文缚者
+tagVariantRunebinderSetNote=^o此套装预计将在Grim Dawn的^bAsterkarn之牙^o扩展包中增加更多功能，等mod开发者获得新技术时敬请期待！
+tagVariantRunebinderSetSkillName=伊贝罗的符文
+tagVariantRunebinderSetSkillDesc=法术师伊贝罗与光明符文缚者合作，创作了一种能够在狭小空间内储存强大元素力量的符文，从而产生了一种能够撕裂最坚固反魔法防御的全新技巧。^o伊贝罗符文需要1秒钟来启动，并根据玩家加成成长。
+tagVariantRunebinderSetSkillSkillName=伊贝罗的元素撕裂
+tagVariantRunebinderHelm=(S) {^I}变种符文缚者的帽子
+tagVariantRunebinderTorso=(S) {^I}变种符文缚者的护甲
+tagVariantRunebinderShoulders=(S) {^I}变种符文缚者的肩甲
+tagVariantRunebinderCrossbow=(S) {^I}变种符文缚者的法术射手
+tagVariantRunebinderAmulet=(S) {^I}变种符文缚者的宝石
+
+tagVariantUroSet=乌洛博罗斯的秘密
+tagVariantUroSetSkillName=召唤骨巨人
+tagVariantUroSetSkillDesc=将倒下的敌人遗骸转化为你的亡灵召唤之物。^o骨巨人会随着玩家加成而成长。
+tagVariantUroSetPetName=骨巨人
+tagVariantUroSetPetSkill1=骨骸收割
+tagVariantUroSetPetSkill2=冲锋
+tagVariantUroSetPetSkill3=灵魂寒气
+tagVariantUroHelm=(S) {^I}变种乌洛博罗斯的面容
+tagVariantUroTorso=(S) {^I}变种乌洛博罗斯的长袍
+tagVariantUroShoulders=(S) {^I}变种乌洛博罗斯的披风
+tagVariantUroFocus=(S) {^I}变种乌洛博罗斯的塑像
+tagVariantUroAmulet=(S) {^I}变种乌洛博罗斯的眼睛
+
+tagVariantVirtueSet=美德的光辉
+tagVariantVirtueSetWPSName=德雷格的光辉
+tagVariantVirtueSetWPSDesc=辐射出一股毒性酸液，腐蚀周围敌人的肉体和盔甲，同时将较弱的敌人变为石像。^o要求使用近战武器和盾牌。此技能的伤害使用你的盾牌的伤害计算。
+tagVariantVirtueHelm=(S) {^I}变种美德的凝视
+tagVariantVirtueTorso=(S) {^I}变种美德的护甲
+tagVariantVirtueShoulders=(S) {^I}变种美德的守护
+tagVariantVirtueShield=(S) {^I}变种美德的防御者
+tagVariantVirtueAmulet=(S) {^I}变种美德的守护符
+
+***********************
+***END VARIANT ITEMS***
+***********************

@@ -1,0 +1,103 @@
+tagSkillClassName35=[ms]祭司 [fs]女祭司
+
+tagSkillClassDescription35=作为黑暗力量的掌控者或奥术魔法的践行者，祭司总是与恶势力作斗争，在天界女族长的祝福下，寻求为阿科夫失落的灵魂赎罪。他们是那些曾经历过过去统治城市的寡头贪婪与鲁莽带来悲剧的幸存者。无论是通过神圣仪式驱除怪物，还是用死灵能量诅咒敌人，他们都不会容忍任何威胁到阿科夫历史新篇章的存在。^n^s由Grimer为祭司模组制作。
+
+tagClass11SkillName00=祭司
+tagClass11SkillDescription00=阿科夫女族长的神圣追随者。
+
+tagClass11SkillName01A=永恒安魂曲{^K} 「祭司」^-
+tagClass11SkillDescription01A=对于祭司来说，参与善与恶的战争不仅仅是为了保护生者，更是为了给那些曾被黑暗实体支配或被死灵诅咒折磨的灵魂一个机会，最终安息。^o当作为默认武器攻击时，永恒安魂曲会额外造成伤害。
+
+tagClass11SkillName01B=平衡{^K} 「祭司」^-
+tagClass11SkillDescription01B=每个魔法践行者都知道如何控制三种元素力量。祭司们相信，交替使用每种元素的源力，比用所有元素进行单一但不太强力的攻击要更加有效。
+
+tagClass11SkillName01C=奥术共鸣{^K} 「祭司」^-
+tagClass11SkillDescription01C=操控神秘的以太能量一直是施法者的追求，祭司们是少数能够驾驭这种原始能量的存在之一。
+
+tagClass11SkillName01D=暗影之触{^K} 「祭司」^-
+tagClass11SkillDescription01D=将你的攻击赋予由暗影议会所掌控的死灵能量。
+
+tagClass11SkillName02A=圣焰打击{^K} 「祭司」^-
+tagClass11SkillDescription02A=多年来，许多魔法元素通过剩余祭司们的研究而被创造出来，其中之一便是天界闪电与神圣之火的结合物，这种足以有效消灭不洁生物的物质。^o从默认武器攻击激活，若使用远程武器，圣焰会传播到目标周围的敌人。
+
+tagClass11SkillName03A=黑暗拥抱{^K} 「祭司」^-
+tagClass11SkillDescription03A=一些祭司认为，死灵诅咒不仅是过去的创伤，也是未来的胜利。他们学会了如何控制这些诅咒，并开始将其注入武器和箭矢中，利用其黑暗能量来对抗邪恶势力。^o从默认武器攻击激活。
+
+tagClass11SkillName04A=罗斯玛仪式{^K} 「祭司」^-
+tagClass11SkillDescription04A=埃布拉吉尔·罗斯玛是阿科夫高级议会中一位著名的祭司，以执行驱魔仪式而闻名。尽管帝国已经准备好防止任何威胁生物进入城市，但那些找到漏洞并占据阿科夫公民身体的存在，会立即被驱逐。
+
+tagClass11SkillName04B=三位一体力量{^K} 「祭司」^-
+tagClass11SkillDescription04B=在多年的活动中，罗斯玛执行了许多仪式，并拥有绝对的权威。然而，有一次仪式的执行需要三位高级议会成员的共同参与。该实体过于强大，但经过一段时间，三位祭司的联合力量成功击败了它：扎尔图泽兰的火焰召唤、罗尔德拉希斯的寒冷诵词以及罗斯玛的震击抓握。此后，阿科夫人民开始称他们为“三位一体力量”。
+
+tagClass11SkillName04C=疲惫{^K} 「祭司」^-
+tagClass11SkillDescription04C=仪式中涉及的奥术能量对身体造成了痛苦的过程，使任何生物变成了脆弱的目标。
+
+tagClass11SkillName05A=圣光震击{^K} 「祭司」^-
+tagClass11SkillDescription05A=祭司们能够通过他们的身体引导天界能量，成为神圣的导体，能够以闪电链的形式打击敌人。
+
+tagClass11SkillName05B=凝视{^K} 「祭司」^-
+tagClass11SkillDescription05B=集中你的精神，更有效地集中能量，使电链能够攻击更多的目标。
+
+tagClass11SkillName05C=天界愤怒{^K} 「祭司」^-
+tagClass11SkillDescription05C=来自天堂的神秘能量在正确的人手中是一股可靠的力量来源。
+
+tagClass11SkillName05D=死灵瀑流{^K} 「祭司」^-
+tagClass11SkillDescription05D=电链转化为死灵力量的瀑布。
+
+tagClass11SkillName05E=麻痹{^K} 「祭司」^-
+tagClass11SkillDescription05E=过载你的身体，释放出更强大的链状闪电，暂时麻痹敌人。然而，你的身体需要一些时间来恢复，才能再次施放此技能。
+
+tagClass11SkillName06A=族长的化身{^K} 「祭司」^-
+tagClass11SkillDescription06A=在帝国灭亡之后，阿科夫的族长们受到了全世界人民的怀疑与轻蔑。然而，剩余的神职人员依旧保持着信仰的火焰，通过他们的血肉传达女神的意志。
+
+tagClass11SkillName07A=奥术链条符文{^K} 「祭司」^-
+tagClass11SkillDescription07A=尽管祭司们仍然崇拜阿科夫的守护神，但他们也改进了关于女族长符文的知识，尤其是阿塔克·塞鲁。神职人员的施法者们基于她的符文改进了其中一个已有的法术，赋予它将敌人缠绕的毁灭链条，成为一股奥术能量的来源。
+
+tagClass11SkillName07B=恢复{^K} 「祭司」^-
+tagClass11SkillDescription07B=奥术链条不仅是伤害的来源，还是一种吸取目标生命力和能量并将其转移给施法者和盟友的技巧。
+
+tagClass11SkillName07Pet=符文印记{^K} 「祭司」^-
+tagClass11SkillName07PetSkill=奥术链条{^K} 「祭司」^-
+
+tagClass11SkillName08A=阿塔克·塞鲁的干预{^K} 「祭司」^-
+tagClass11SkillDescription08A=尽管阿科夫的神职人员早已离开他们的城市，但他们从未放弃对圣女的信仰。幻影依旧倾听她忠诚信徒的祈祷，并以一阵神圣的能量回应，削弱敌人并将祈祷者带离危险。
+
+tagClass11SkillName08B=神圣之地{^K} 「祭司」^-
+tagClass11SkillDescription08B=该能量在区域内创造了一座神圣的圣殿，惩罚敌人并驱逐他们的法术。
+
+tagClass11SkillName09A=伊斯塔克的祝福{^K} 「祭司」^-
+tagClass11SkillDescription09A=春之少女祝福那些仍然恳求她保护的人们，治愈他们的伤口，并用大自然的力量充盈他们的内心。
+
+tagClass11SkillName09B=神圣器皿{^K} 「祭司」^-
+tagClass11SkillDescription09B=成为天界意志在尘世的无情载体。
+
+tagClass11SkillName09C=净化{^K} 「祭司」^-
+tagClass11SkillDescription09C=春风净化血液，为灵魂做好准备，抵抗元素伤害。
+
+tagClass11SkillName10A=塔尔达尼斯的保护屏障{^K} 「祭司」^-
+tagClass11SkillDescription10A=约瑟夫·塔尔达尼斯是负责在阿科夫神职人员的施法桌上带来平衡的祭司。由于大部分施法者将精力集中在开发进攻性法术上，塔尔达尼斯预见到创造一种魔法防御机制对于祭司们在战斗中的生存至关重要。
+
+tagClass11SkillName10B=治疗因子{^K} 「祭司」^-
+tagClass11SkillDescription10B=屏障的能量保护你免受物理伤害，并提高治疗伤口的能力。
+
+tagClass11SkillName11A=拉特什的面纱{^K} 「祭司」^-
+tagClass11SkillDescription11A=阿科夫流传着一个传闻，说在某个地方，拉特什隐藏了来自精神世界与尘世之间的面纱的一部分精髓。帝国灭亡多年后，这个传闻被证明为真。在祭司的力量下，这股宇宙能量被用来创造一层魔法面纱，诅咒任何敢于穿越它的生物。
+
+tagClass11SkillName11Pet=宇宙面纱{^K} 「祭司」^-
+tagClass11SkillName11PetSkill=面纱守护者的诅咒
+
+tagClass11SkillName11B=哀嚎之墙{^K} 「祭司」^-
+tagClass11SkillDescription11B=失落灵魂的哭声回荡在面纱中，使那些受到精髓影响的敌人骨骼发寒。
+
+tagClass11SkillName12A=阿科夫遗产{^K} 「祭司」^-
+tagClass11SkillDescription12A=阿科夫的陨落是不能被遗忘的历史片段。女族长们依旧守护着他们的信徒。祭司们依然忠诚地走在他们的救赎之路上。凭借他们的行动，阿科夫人民最终将获得拯救。灵魂将被释放，他们的名字将被永载史册。
+
+tagClass11SkillName13A=暗影议会{^K} 「祭司」^-
+tagClass11SkillDescription13A=阿科夫神职人员中有一部分人渴望学习如何操控曾经摧毁他们人民的死灵诅咒。大多数神职人员强烈反对这一想法。然而，另一些祭司们前往古老的城市，成功实现了他们的目标。回归后，神职人员对他们的成就表示赞赏，但依然担心会重蹈过去的覆辙。于是，神职人员和平地分裂了，一个新的议会应运而生。
+
+tagClass11SkillName14A=宽恕{^K} 「祭司」^-
+tagClass11SkillDescription14A=当临近死亡时，你的灵魂受到女族长的怜悯，身体沐浴在天界之光下，在短暂的时间内变得无法受伤。
+
+# ITEM SKILLS
+tagPriestItemSkillName01=奥术之箭
+tagPriestItemSkillDescription01=女族长们将她们的愤怒释放在敌人身上，射出一道元素能量的箭矢。

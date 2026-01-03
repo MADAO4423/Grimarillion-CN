@@ -1,0 +1,9 @@
+tagMalNotif1=A perilous artifact has entered your pack...
+tagMalNotif2=Your grand quest comes to a close...for now.
+
+tagAvatarSeen=^gI SEE YOU
+tagAvatarReady1=^gI ISSUE MY CHALLENGE
+tagAvatarReady2=^gECLIPSE THE ELDRITCH SUN TO ACCEPT IT
+tagAvatarSlain=The Avatar collapses into a usable artifact...
+
+tagCardDropNotif=^oYou pick up an Augury Card from your fallen foe...

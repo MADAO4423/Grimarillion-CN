@@ -1,0 +1,156 @@
+
+tagSkillClassName38=Tempest
+tagSkillClassName0138=Skirmisher
+tagSkillClassName0238=Swashbuckler
+tagSkillClassName0338=Hexblade
+tagSkillClassName0438=Bladedancer
+tagSkillClassName0538=Magefencer
+tagSkillClassName0638=Stormbender
+tagSkillClassName0738=Corsair
+tagSkillClassName0838=Deathdancer
+tagSkillClassName0938=Chaplain
+tagSkillClassName1038=Scavenger
+tagSkillClassName1138=Taskmaster
+tagSkillClassName1238=Windrunner
+tagSkillClassName1338=Spellbinder
+tagSkillClassName1438=Vanguard
+tagSkillClassName1538=Deathbringer
+tagSkillClassName3138=Siegemaster
+tagSkillClassName3638=Scoundrel
+tagSkillClassName3738=Crimson Slayer
+
+
+
+tagSkillClassDescriptionTempest=In a time of ever-growing danger for the world, mysterious wanderers have sailed from the frigid mists of the north to push back the darkness that surrounds us. These agile, dual blade-wielding Warriors, harness the fury of the storm, and crash upon their enemies with wind and waves. ^n^sAdapted by Grimer for the Diablo 3 Mod
+
+#ClassTempest
+tagClassTempestSkillName00=Tempest
+tagClassTempestSkillDescription00="Uncontrolled power is the doom of the soul. Power gripped tight the doom of the world."
+
+tagClassTempestSkillName01A=Flowing Strike
+tagClassTempestSkillDescription01A=Imbue your blades with the power of the seas, increasing your physical damage and adding cold damage to your attacks.{^n}{^n}{^y}Dispersion {^o}(Unlocked at Skill Level 12){^n}^wFlowing Strike now hits 2 additional targets in a cone area. ^oWhen used as your default weapon attack, Flowing Strike inflicts additional damage.
+
+tagClassTempestSkillName01B=Deep Waters
+tagClassTempestSkillDescription01B=Increase the cold damage and the range of Flowing Strike attacks, hitting more enemies, and dealing frostburn damage over 2 seconds.
+
+tagClassTempestSkillName01C=Echoing Torrent
+tagClassTempestSkillDescription01C=Every attack of Flowing Strike makes the target to release a burst of water that deals physical and cold damage to nearby enemies.
+
+tagClassTempestSkillName01D=Tidal Crush
+tagClassTempestSkillDescription01D=Every second Flowing Strike conjures waterwaves that flow towards your location, dealing cold and frostburn damage to enemies on the way, and reducing their attack speed for 3 seconds.
+
+tagClassTempestSkillName01E=Dangerous Waters
+tagClassTempestSkillDescription01E=Even the high seas suffered with the corruption that have spread through the world, but after many battles against possessed sailors, the Tempests learned how to use the aetherial power in their favor. ^oThe damage conversion is not applied to ^bEchoing Torrent ^oand ^bTidal Crush^o.
+
+
+tagClassTempestSkillName02A=Piercing Gale
+tagClassTempestSkillDescription02A=Launch a wind slash that pierces through targets, dealing pierce and cold damage to enemies.{^n}{^n}{^y}Crosswinds {^o}(Unlocked at Skill Level 12){^n}^wPiercing Gale releases two wind slashes whenever it hits a target.
+
+tagClassTempestSkillName02B=Razor Wind
+tagClassTempestSkillDescription02B=Pierce damage is increased and Piercing Gale now causes enemies to bleed, reducing their defensive ability for 3 seconds.
+
+tagClassTempestSkillName02C=Wintry
+tagClassTempestSkillDescription02C=Cold damage is increased and the wind slash now deals frostburn damage to enemies, reducing their movement speed over 2 seconds.
+
+tagClassTempestSkillName02D=Whirling Chaos
+tagClassTempestSkillDescription02D=Piercing Gale releases smaller wind slashes that swirl in the area towards the initial target location, dealing cold and pierce damage, with a chance of confusing enemies for 2 seconds.
+
+tagClassTempestSkillName03A=Wind Edge
+tagClassTempestSkillDescription03A=Quickly strike a target with 3 blows, dealing piercing and cold damage to enemies. Whenever you are out of melee range, you will fade into the wind, teleporting to the target's location. ^oRequires dual wielding melee weapons.{^n}{^n}{^y}Wind Razor {^o}(Unlocked at Skill Level 16){^n}^wCritical damage is increased by 50%. ^oRequires dual-wielding melee weapons.
+
+tagClassTempestSkillName03B=Blade Dance
+tagClassTempestSkillDescription03B=Wind Edge launches blades that travel a short distance before returning to you, dealing pierce, cold and bleeding damage to all enemies on the way.
+
+tagClassTempestSkillName03C=Chilling Blow
+tagClassTempestSkillDescription03C=Wind Edge now deals frostburn damage to enemies over 3 seconds and its base damage is increased.
+
+tagClassTempestSkillName04A=Wave Edge
+tagClassTempestSkillDescription04A=Perform a spinning attack that launches a swirl of water waves, dealing cold and frostburn damage to enemies around you. ^oRequires a melee weapon and can be activated with all default weapon attacks.{^n}{^n}{^y}Blurring {^o}(Unlocked at Skill Level 12){^n}^wEnemies hit by Wave Edge have 25% chance to fumble their melee attacks.
+
+tagClassTempestSkillName05A=Breaker
+tagClassTempestSkillDescription05A=Smash the ground in front of you, causing water geysers to surge beneath foes. ^oRequires a melee weapon and can be activated with all default weapon attacks.{^n}{^n}{^y}From The Depths {^o}(Unlocked at Skill Level 12){^n}^wBreaker gains 15% chance to knock up enemies.
+
+tagClassTempestSkillName06A=Riptide
+tagClassTempestSkillDescription06A=Evoke a circular wave at a targeted location that pulls enemies towards its center, and deals cold and physical damage to them.{^n}{^n}{^y}Overflow {^o}(Unlocked at Skill Level 12){^n}^wRiptide also reduces enemy's total speed by 25% over 3 seconds.
+
+tagClassTempestSkillName06B=Crushing Depths
+tagClassTempestSkillDescription06B=Damage is increased and the wave also deals frostburn damage to enemies, reducing all their resistances over 3 seconds.
+
+tagClassTempestSkillName06C=Hydromancy
+tagClassTempestSkillDescription06C=Riptide makes the power of the seas to flow through your body, empowering your damage over 5 seconds.
+
+tagClassTempestSkillName06D=Arcane Cyclone
+tagClassTempestSkillDescription06D=Evoke a hurricane that still pulls enemies towards its center, but deals increased damage and converts it to aether and lightning.
+
+tagClassTempestSkillName07A=Wind Walk
+tagClassTempestSkillDescription07A=Summon a cyclone that, after a second, starts to increase the offensive ability and regenerated health of you and your allies, and absorbs all damage taken over 3 seconds.{^n}{^n}{^y}Symphony of Wind {^o}(Unlocked at Skill Level 12){^n}^wTotal damage of you and your allies is increased by 25% while standing within the storm.
+tagClassTempestSkillName07B=Cyclone
+tagClassTempestSkillDescription07B=All damage taken is being absorbed and your offensive speed is increased.
+tagClassTempestSkillName07C=Wind Swirl
+
+tagClassTempestSkillName08A=Vortex
+tagClassTempestSkillDescription08A=Become a living typhoon, constantly spinning to shoot water slashes randomly at enemies over 6 seconds. ^oPerforming any action that requires an animation makes Vortex to go on cooldown.{^n}{^n}{^y}Elusive Twister {^o}(Unlocked at Skill Level 16){^n}^wGain 50% chance to deflect projectiles while Vortex is active.
+
+tagClassTempestSkillName08B=Unstoppable
+tagClassTempestSkillDescription08B=Vortex turns you into a relentless force of nature, granting you massive resistance to control impairing effects.{^n}{^n}{^y}Eye of the Storm {^o}(Secondary Transmuter){^n}^wInvest 2 skill points to also turn Vortex's damage into aether and lightning.
+
+tagClassTempestSkillName09A=Cascade
+tagClassTempestSkillDescription09A=Unleash a crashing wave around you. Enemies hit by the wave are chilled and have some of their resistances and offensive ability reduced over 6 seconds. {^n}{^n}{^y}Hypothermia {^o}(Unlocked at Skill Level 12){^n}^wCascade reduces the enemy's defensive ability by 25%.
+
+tagClassTempestSkillName10A=Power of the Deeps
+tagClassTempestSkillDescription10A=Empowers you with the force of the high seas, healing yourself, while adding frostburn damage to your attacks and increasing your offensive ability, elemental resistance and health regeneration. {^n}{^n}{^y}Tidal Armor {^o}(Unlocked at Skill Level 12){^n}^wYour armor is increased by 20%.
+
+tagClassTempestSkillName10B=Fluidity
+tagClassTempestSkillDescription10B=Being formless, shapeless, like water, is the secret of every Tempest to thrive in battle.
+
+tagClassTempestSkillName10C=Zephyrs
+tagClassTempestSkillDescription10C=Whenever you reactivate Power of the Deeps, two zephyrs are summoned to fight by your side for a few seconds. Zephyrs use similar versions of your abilities, causing 30% of the damage dealt by the original ability based on Zephyrs' skill level. Also, Zephyrs abilities are empowered by any stats from buffs or passives that are added to your weapon damage. ^oRequires dual-wielding melee weapons. Zephyr scales with player damage bonuses.
+
+tagClassTempestSkillName10D=Zephyr
+
+tagClassTempestSkillName11A=Mist-Touched
+tagClassTempestSkillDescription11A=Tempests are known as dual-wield bladedancers, which can move faster, dealing increased damage to enemies. ^oThis is a melee dual-wielding bonus. Also enables the ability of dual wielding melee weapons. {^n}{^n}{^y}Fume Step {^o}(Unlocked at Skill Level 12){^n}^wSlow resistance is increased by 30%.
+
+tagClassTempestSkillName12A=Zephyr Surge
+tagClassTempestSkillDescription12A=Spin in the air, unleashing a flurry of slashes that deal piercing and cold damage to nearby enemies. {^n}{^n}{^y}Blade of Silence {^o}(Unlocked at Skill Level 16){^n}^wZephyr Surge reduces enemy's damage by 25% over 3 seconds. ^oRequires dual-wielding melee weapons.
+
+tagClassTempestSkillName12B=Slicing Gale
+tagClassTempestSkillDescription12B=The air slashes become as sharp as a blade, causing enemies to bleed for 3 seconds, while reducing their defensive ability for 5 seconds.
+
+tagClassTempestSkillName13A=Heir of the Cold Isles
+tagClassTempestSkillDescription13A=Children from this land, chosen from among the pure of heart, Tempests are raised to protect their people and travel on dangerous voyages to breathe in the mists of the high seas. {^n}{^n}{^y}Weigh Anchor {^o}(Unlocked at Skill Level 16){^n}^wGain 10% cooldown reduction.
+
+tagClassTempestSkillName14A=Stormfury
+tagClassTempestSkillDescription14A=Energize yourself with the wrath of the storms after landing a ^ocritical blow^w, overexpanding your offensive speed limitations. {^n}{^n}{^y}Bloodstream {^o}(Unlocked at Skill Level 12){^n}^wYour health regeneration is increased by 100%.
+
+tagTempestRune01=^cDust Devil
+tagTempestRune01Desc=While ^cStormfury ^wis active, your attacks release a tornado that seeks a target and ricochets to other enemies, dealing piercing and cold damage to enemies, and reducing their resistances to these same damage types by 15% over 5 seconds.  ^o{^n}{^n}{^y}Runeword: {^c}YaxVex
+
+tagTempestRune01b=^cDust Devil (Enhanced)
+tagTempestRune01bDesc=While ^cStormfury ^wis active, your attacks release a tornado that seeks a target and ricochets to other enemies, dealing piercing and cold damage to enemies, and reducing their resistances to these same damage types by 20% over 5 seconds.  ^o{^n}{^n}{^y}Runeword: {^c}YaxVex (Enhanced)
+
+
+tagTempestRune02=^cSquall
+tagTempestRune02Desc=You gain a new skill that teleports yourself to a location, striking enemies with wind slashes that deal piercing, cold and frostburn damage at arrival.{^n}{^n}After attacking enemies with Squall, you gain a windy shield that reduces the damage taken by 15% and increases your maximum offensive speed by 10% over 3 seconds.{^n}{^n}While protected by the shield, your attacks releases wind blades around you, dealing piercing and cold damage to enemies.{^n}{^n}However, you no longer can use Evade.{^n}{^n}^oSquall is an active skill that must be bound to a key or button. The shield has a internal cooldown that can be reduced by CDR.  ^o{^n}{^n}{^y}Runeword: {^c}AhuThul
+
+tagTempestRune02b=^cSquall (Enhanced)
+tagTempestRune02bDesc=You gain a new skill that teleports yourself to a location, striking enemies with wind slashes that deal piercing, cold and frostburn damage at arrival.{^n}{^n}After attacking enemies with Squall, you gain a windy shield that reduces the damage taken by 20% and increases your maximum offensive speed by 15% over 3 seconds.{^n}{^n}While protected by the shield, your attacks releases wind blades around you, dealing piercing and cold damage to enemies.{^n}{^n}However, you no longer can use Evade.{^n}{^n}^oSquall is an active skill that must be bound to a key or button. The shield has a internal cooldown that can be reduced by CDR.  ^o{^n}{^n}{^y}Runeword: {^c}AhuThul (Enhanced)
+
+tagTempestRune02C=^cWind Shield^b
+tagTempestRune02CDesc=Your offensive speed is currently increased and damage taken reduced.
+
+tagTempestRune02D=^cWind Blades^b
+
+tagTempestRune03=^cWaterspout
+tagTempestRune03Desc=Whenever ^tWave Edge ^wperforms a critical hit, it evokes a waterspout at enemy's location.{^n}{^n}The waterspout deals cold damage and reduces the enemy's total speed by 20%.{^n}{^n}It also reduces enemy's resistance to aether and elemental damage by 10%.{^n}{^n}When the waterspout expires, it splits into six waves that deals cold, physical and frostburn damage to foes.^o{^n}{^n}{^y}Runeword: {^c}BacLum
+
+tagTempestRune03B=^cWaterspout (Enhanced)
+tagTempestRune03BDesc=Whenever ^tWave Edge ^wperforms a critical hit, it evokes a waterspout at enemy's location.{^n}{^n}The waterspout deals cold damage and reduces the enemy's total speed by 30%.{^n}{^n}It also reduces enemy's resistance to aether and elemental damage by 15%.{^n}{^n}When the waterspout expires, it splits into six waves that deals cold, physical and frostburn damage to foes.^o{^n}{^n}{^y}Runeword: {^c}BacLum (Enhanced)
+
+tagTempestRune03C=Swirling Storm
+tagTempestRune03D=Shattered Waves
+
+tagTempestRune=^cRune Effect^b
+
+
+

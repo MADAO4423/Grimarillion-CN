@@ -1,0 +1,27 @@
+***************************************
+***THIS FILE IS APPENDED TO VIA CODE***
+***DO NOT EDIT MANUALLY             ***
+***UNLESS YOUR ALIAS IS CENO        ***
+***************************************
+
+tagProtoVariant=Variant
+tagVariantLeviathanRecipe=Variant Leviathan
+tagVariantRiftwarpedGraspRecipe=Variant Riftwarped Grasp
+tagVariantSoulrendRecipe=Variant Soulrend
+tagVariantAdversaryRecipe=Variant Adversary
+tagVariantDreadKnightsGuardRecipe=Variant Dread Knight's Guard
+tagVariantGladiatorsDistinctionRecipe=Variant Gladiator's Distinction
+tagVariantChainsofNightfireRecipe=Variant Chains of Nightfire
+tagVariantCrimsonLotusRecipe=Variant Crimson Lotus
+tagVariantLightsOathRecipe=Variant Light's Oath
+tagVariantAlbrechtsDualityRecipe=Variant Albrecht's Duality
+tagVariantBandoftheEternalPyreRecipe=Variant Band of the Eternal Pyre
+tagVariantSignetoftheFallenRecipe=Variant Signet of the Fallen
+tagVariantDawnshardPauldronsRecipe=Variant Dawnshard Pauldrons
+tagVariantBonewraithPauldronsRecipe=Variant Bonewraith Pauldrons
+tagVariantMantleofMogdrogenRecipe=Variant Mantle of Mogdrogen
+tagVariantTheCrimsonClawsRecipe=Variant The Crimson Claws
+tagVariantMorguulsMortalityRecipe=Variant Morguul's Mortality
+tagVariantDeviltongueRecipe=Variant Deviltongue
+tagVariantVortexofSoulsRecipe=Vortex of Blood
+tagVariantKorvanWyrmRecipe=Variant Korvan Wyrm

@@ -1,0 +1,554 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tagQuests=进行中的任务 (v094a)
+
+tagRDifficultyTitle01=更加严酷
+tagRDifficultyTitle02=极端严酷
+tagRDifficultyTitle03=终极严酷
+tagChallengeDifficulty=老手终极
+
+tagJiacoTip01={^g}提示: {^w}当情况变糟时，你总可以逃跑，除非被困住，那就不行。
+tagJiacoTip02={^g}提示: {^w}如果你发现一个你还无法恢复的献祭神龛，你可能很快就会死。
+tagJiacoTip03={^g}提示: {^w}你随时可以在资料窗口再次查看教程提示，不过需要付费。
+tagJiacoTip04={^g}提示: {^w}比你等级低很多的敌人通常不存在。如果存在，就杀了他们。
+tagJiacoTip05={^g}提示: {^w}每次因随机障碍而不得不掉头，都要诅咒Grava。
+tagJiacoTip06={^g}提示: {^w}访问 www.GrimDawn.com。这是个很酷的地方，你甚至不用输入 www。
+tagJiacoTip07={^g}提示: {^w}英雄怪物（带星号标记）是游戏中最精彩的部分。
+tagJiacoTip08={^g}提示: {^w}你的背包会被稀有制作材料和其他大量物品填满。
+tagJiacoTip09={^g}提示: {^w}在极端严酷难度下，你的核心抗性降低2500%，在终极模式下最高可达50000%。
+tagJiacoTip10={^g}提示: {^w}凯恩世界中有许多秘密地点。至少它们曾经是秘密。
+tagJiacoTip11={^g}提示: {^w}在严酷及以上难度下，Boss会尝试合力攻击你。快跑！
+tagJiacoTip12={^g}提示: {^w}探索世界以寻找一击必杀宝箱和可以一击杀死你的怪物。
+tagJiacoTip13={^g}提示: {^w}史诗和传奇物品在你大肆破坏后，可以在酒馆中炫耀。
+tagJiacoTip14={^g}提示: {^w}有些怪物偶尔掉落物品，更常见的是掉落大量物品。
+tagJiacoTip15={^g}提示: {^w}传奇物品威力巨大，应合理使用以最大化破坏。
+tagJiacoTip16={^g}提示: {^w}套装物品如果一起穿戴会有强力加成，并且在血迹覆盖下看起来很炫酷。
+tagJiacoTip17={^g}提示: {^w}组件掉落满地，踩过会占用背包空间。
+tagJiacoTip18={^g}提示: {^w}我杀怪，因此有东西掉落。
+tagJiacoTip19={^g}提示: {^w}许多组件只能制作，这就是所谓的垄断。
+tagJiacoTip20={^g}提示: {^w}如果倒立玩游戏，找到好装备的几率更高。
+tagJiacoTip21={^g}提示: {^w}将视角放大到最大，你会移动得更快。
+tagGrimerTip01={^g}提示: {^w}一些怪物神龛现在会生成《暗黑破坏神3》的Boss。它们有不同视觉效果，并在上方有图标标记。小心。
+tagGrimerTip02={^g}提示: {^w}你可以将双手近战武器转换为单手版本，并使用“坚守阵地”被动技能作为十字军使用。
+tagAsylumTip01={^g}提示: {^w}有传言说在恶魔十字附近有个藏身处……试着在茅厕后面寻找。
+tagAsylumTip02={^g}提示: {^w}最近东南方向恶魔路口发生过爆炸，你应该去看看遗迹。
+
+tagSkillClassDescription01=帝国军队的士兵经过训练，能在最地狱般的环境中生存，并抵御帝国最致命的敌人。士兵偏好使用近战武器，如剑与盾，但使用火器同样可造成威胁。士兵在直接伤害输出上或许有所欠缺，但他们以坚韧和领导力弥补。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription02=帝国军队的爆破大师，既是工程师又是术士。爆破手负责打乱敌军阵型，并用其毁灭性的爆炸和魔法突破防线。他们通常偏好远程作战，使用枪械、陷阱和炸药，也能熟练使用近战武器。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription03=曾被帝国军追捕以控制奥术力量，奥术师的技艺高度依赖召唤和三位女巫神 Bysmiel、Solael 和 Dreeg 赋予的借用力量。他们的多样技艺包括可怕的诅咒及造成毒素、酸性与熵能伤害的法术。既不擅长剑，也不擅长枪，但可用来增强自身攻击力。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription04=夜刃是为帝国大贵族提供服务的秘密战士。夜刃擅长各类武器，但更令人畏惧的是其致命的刀刃魔法，这是他们的秘密。夜刃不适合与强敌正面硬拼，依靠幻术迅速接近进行致命攻击，或从远处使用幻影之刃作战。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription05=对奥术师而言，魔法的显现并非神秘或神的意志，而是一门等待解开的科学。对知识的追求驱动着所有奥术师，总渴望发现新的技艺以彰显其名。奥术师驾驭以太与元素能量，将其化作毁灭性的力量，其威力可与小型军队匹敌。但如此强大的力量防御力却相对薄弱。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription06=来自北方未驯服的土地，萨满是其族人的精神领袖与守护者。萨满声称对荒野及其神明莫格德隆有非凡的契合力，能将自然的可怕力量施加于敌人，甚至召唤野兽助阵。萨满擅长使用强力的双手近战武器，但在施展原始力量时也能轻松适应其他战斗工具。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription07=作为尊贵的光明会成员，审判者负责保护艾鲁兰帝国免受奥术与神秘势力的威胁。数百年来，审判者收集了无数强大遗物，但职责有时超越安全，一些遗物被研究并复制供审判者使用。审判者擅长远程武器，同时装备遗物与奥术符文，使其在近战中同样具备强大战力。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription08=尽管大多数现代死灵法师来自“死亡守望”的训练体系及神秘的乌洛布鲁克，但并非所有人选择隐居生活。死灵法师的职业天生令人畏惧，但他们通过研究与掌控死亡这一终极命运寻求平衡。死灵法师大量使用召唤骷髅仆从，并吸取敌人的生命力，但亲自投入战斗使用武器亦非罕见。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+tagSkillClassDescription09=无论他们来自梅尼尔神殿，还是将灵魂献给女巫神，誓约守护者共有两点：坚定的忠诚与狂热的愤怒。誓约守护者守护神圣墓地，维护信仰，并执行天界意志。他们不仅仅依靠盾牌或神力，而将这些视为武器，用以倾洒不义者的鲜血，施加正义的愤怒。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Misc UI Edits
+~~~~~~~~~~~~~~~~~~~~~~~~
+tagSpear=矛
+tagStaff=法杖
+tagCraftingSpears=矛
+tagCraftingStaves=法杖
+tagWeaponUnknown=未知
+tagDevotion_RequiresMagic=^o 需要权杖、匕首或施法者副手。
+tagDevotion_RequiresSword=^o 需要剑或矛。
+tagDevotion_RequiresRange=^o 需要远程武器或法杖。
+tagDevotion_Requires2h=^o 需要双手近战武器、双手远程武器或法杖。
+
+tagDamageModifierSleep={%+.0f0}% {^E}睡眠持续时间
+tagDefenseSleep={%.0f0}% {^E}减少睡眠持续时间
+tagDefenseSleepModifier={%+.0f0}% {^E}减少睡眠持续时间
+
+DefenseProtectionModifier={^H}{%+.0f0}% {^E}护甲评分
+
+DamageModifierPierceRatio={^H}{%.0f0}% {^E}穿甲加成
+DamageModifierPierceRatioR={^H}{%.0f0}-{%.0f1}% {^E}穿甲加成
+
+DefenseAbsorptionModifier={^H}{%.0f0}% {^E}护甲吸收增加
+DefenseAbsorptionModifierR={^H}{%.0f0}-{%.0f1}% {^E}护甲吸收增加
+
+tagCharLifeRegenModifier={^H}{%+.0f0}% {^E}生命回复
+tagCharManaRegenModifier={^H}{%+.0f0}% {^E}能量回复
+tagCharLifeRegenModifierR={^H}{%.0f0}-{%.0f1}% {^E}生命回复
+tagCharManaRegenModifierR={^H}{%.0f0}-{%.0f1}% {^E}能量回复
+
+SkillPetLimitMod={%d0} {^E}召唤上限
+tagSkillPetTimeToLive={^H}{%.1f0}{^E} 秒召唤持续时间
+tagSkillPetTimeToLiveMod={^H}{%+.1f0}{^E} 秒召唤持续时间
+SkillPetBurstSpawn={^E}每次施法召唤 {^H}{%d0} 个
+SkillPetBurstSpawnMod=+{%d0} {^E}每次施法召唤
+SkillPetBurstSpawnsMod=+{%d0} {^E}每次施法召唤
+
+tagCharHealIncreaseModifier={^H}{%+.0f0}% {^E}治疗效果增强
+tagCharHealIncreaseModifierR={^H}{%.0f0}% - {%.0f1}% {^E}治疗效果增强
+
+DefensePhysical={%+.0f0}% {^K}物理抗性{^E}
+DefensePierce={%+.0f0}% {^R}穿刺抗性{^E}
+DefenseElementalResistance={%+.0f0}% {^Y}元素抗性{^E}
+DefenseCold={%+.0f0}% {^C}冰霜抗性{^E}
+DefenseFire={%+.0f0}% {^O}火焰抗性{^E}
+DefenseAether={%+.0f0}% {^A}虚化抗性{^E}
+DefenseChaos={%+.0f0}% {^P}混沌抗性{^E}
+DefensePoison={%+.0f0}% {^L}毒素 & 酸性抗性{^E}
+DefenseLightning={%+.0f0}% {^Z}闪电抗性{^E}
+DefenseBleeding={%+.0f0}% {^R}流血抗性{^E}
+DefenseLife={%+.0f0}% {^M}活力抗性{^E}
+DefenseLifeLeach={%+.0f0}% {^E}生命偷取抗性
+DefenseManaLeach={%+.0f0}% {^E}能量偷取抗性
+DefensePercentCurrentLife={%+.0f0}% {^E}活力衰减抗性
+DefenseReflectResist={%+.0f0}% {^E}反射伤害减免
+
+tagCharBonusPierceDmg=额外穿刺伤害：
+tagCharStatsPierceAbsDmg=穿刺伤害
+tagCharStatsPierceAbsDmgInfo=每次攻击造成的穿刺伤害，包括加成。
+tagCharStatsPiercePercentDmg=穿刺加成百分比
+tagCharStatsPiercePercentDmgInfo=对所有穿刺伤害的百分比加成，不包括敏捷带来的加成。% 包括所有伤害。
+tagCharStatsPierce=穿刺
+tagCharStatsPetPierceResist=召唤物穿刺抗性
+tagCharStatsPetPierceResistInfo=增加召唤物和宠物的穿刺抗性百分比。
+tagCharStatsPierceRet=穿刺
+tagCharStatsPierceRetInfo=被攻击时对攻击者造成的穿刺伤害。
+tagCharStatsPiercePercentRet=穿刺加成百分比
+tagCharStatsPiercePercentRetInfo=对所有穿刺反击效果的百分比加成。% 所有伤害不影响反击伤害。
+tagQualifyingDamagePierce=穿刺
+DamageModifierPierce={%+.0f0}% {^R}穿刺伤害{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}穿刺伤害{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}穿刺反击{^E}
+DefensePierce={%.0f0}% {^R}穿刺抗性{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}穿刺抗性{^E}
+DefensePierceModifier={^R}增加当前穿刺抗性 {^H}{%.0f0}%{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}最大穿刺抗性{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}最大穿刺抗性{^E}
+
+DefenseStun={%+.0f0}% {^E}眩晕抗性
+DefenseStunNegative={%+.0f0}% {^E}眩晕抗性
+tagTotalSpeedResistance={%+.0f0}% {^E}减速抗性
+DefenseTrap={%+.0f0}% {^E}陷阱抗性
+DefenseTrapNegative={%+.0f0}% {^E}陷阱抗性
+DefenseFreeze={%+.0f0}% {^E}冰冻抗性
+DefenseFreezeNegative={%+.0f0}% {^E}冰冻抗性
+DefenseKnockdown={%+.0f0}% {^E}击倒抗性
+DefenseKnockdownNegative={%+.0f0}% {^E}击倒抗性
+DefensePetrify={%+.0f0}% {^E}石化抗性
+DefensePetrifyNegative={%+.0f0}% {^E}石化抗性
+DefenseTaunt={%+.0f0}% {^E}挑衅抗性 (不影响玩家)
+DefenseConvert={%+.0f0}% {^E}心控抗性 (不影响玩家)
+DefenseFear={%+.0f0}% {^E}恐惧抗性
+DefenseConfusion={%+.0f0}% {^E}混乱抗性
+DefenseDisruption={%+.0f0}% {^E}干扰抗性
+
+
+SkillEnhancement=+{%d0} {^X}所有技能{^E}
+ItemAllSkillIncrement={+%d0} {^X}所有技能{^E}
+SkillCooldownReductionModifier={^E}技能总冷却时间修改 {^H}{%.0f0}%
+DamageLifeLeech={^H}+{%t0}% {^E}生命偷取
+
+tagCharStatsTrapResistInfo=抵抗使你无法移动的陷阱效果。
+DamageTrap={^E}陷阱目标 {%t0}
+RetaliationTrap={%t0} 陷阱反击
+
+DefenseTrap={%.0f0}% {^E}减少陷阱持续时间
+DefenseTrapNegative={%.0f0}% {^E}陷阱抗性
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}减少陷阱持续时间
+DefenseTrapMaxResist={%+.0f0}% {^E}最大减少陷阱持续时间
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}最大减少陷阱持续时间
+
+DamageManaDrain={%t0}% {^E}能量消耗
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}消耗的能量转化为伤害)
+DamageModifierManaBurn={%.0f0}% {^E}消耗的能量造成的伤害
+
+ItemMasteryIncrement={+%d0} {^X}{%s1}技能{^E}
+ItemAllSkillIncrement={+%d0} {^X}所有技能{^E}
+
+tagAutoSkillCondition08=（被动激活）
+
+tagCharAttributeDescription01=^w提升你的战斗技巧，这会影响你使用武器和^o物理^w-类型攻击的效果。每一点敏捷都会增加1.0点生命值，提升你0.41%的^o物理^w和^s穿刺^w伤害，0.46%^r出血^w和^o内伤^w伤害，以及0.4点攻击能力，这会影响你命中敌人和造成暴击的能力。
+
+tagCharAttributeDescription02=^w提升你的身体素质，使你能够穿戴更重的装备作战，并具备躲避敌人攻击的敏捷度。每一点力量都会增加2.5点生命值，0.05点生命回复，以及0.4点防御能力，这会影响敌人命中你和暴击你的几率。
+
+tagCharAttributeDescription03=^w提高能量流入你的体内。每点精神增加1.0生命值，0.47%魔法伤害，0.5%魔法持续伤害，增加2能量和0.01 + 0.26%能量回复。^n^n精神影响的伤害类型包括：^y火焰^w, ^y灼烧^w, ^b冰霜^w, ^b霜燃^w, ^c闪电^w, ^c电击^w, ^l酸性^w, ^l毒素^w, ^p生命^w, ^p生命衰减^w, ^t以太^w 和 ^m混沌^w。
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Map Tag Colorization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//tweaks to riftgate map to make certain areas more easily identifiable//
+
+
+tagWorldMapBurrwitchEstates={^W}伯爾維治莊園
+tagWorldMapAbandonedWaterFront={^W}廢棄碼頭
+tagWorldMapBurrwitchVillage={^n}{^Y}伯爾維治村
+tagWorldMapHallowedHill={^W}神聖丘陵
+tagWorldMapEastMarsh01={^W}東方沼澤
+tagWorldMapEastMarsh02={^W}克雷格的峭壁
+tagWorldMapMudRow={^W}泥濘街道
+tagWorldMapMolderingFields={^W}腐朽田野
+tagWorldMapBurrwitchGraveyard={^W}伯爾維治墓園
+tagWorldMapBurrwitchOutskirts={^n}{^Y}伯爾維治郊外
+tagWorldMapTheFoggyBank={^n}{^Y}迷霧河畔
+tagWorldMapSoddenHollow={^W}濕潤山谷
+tagWorldMapWightmire={^Y}屍妖泥沼
+tagWorldMapTheOldDump={^W}舊垃圾場
+tagWorldMapBurialHill={^W}殮葬山脈
+tagWorldMapLowerCrossing={^Y}下游渡口
+tagWorldMapDevilsCrossing={^n}{^R}惡魔十字
+tagWorldMapKymonsRetreat={^W}凱蒙隱居處
+tagWorldMapArkovianFoothills={^Y}安克維亞山麓
+tagWorldMapCrumblingWatch={^W}瞭望塔遺蹟
+tagWorldMapTheRockyCoast={^W}岩石海岸
+tagWorldMapStauntonMine={^W}斯湯頓礦洞
+tagWorldMapNewHarbor={^W}新港
+tagWorldMapTheFourHills={^n}{^Y}四山
+tagWorldMapOldArkovia={^n}{^n}{^Y}古安克維亞
+tagWorldMapTheStepsOfTorment={^W}苦痛階梯
+tagWorldMapBrokenHills={^Y}破碎丘陵
+tagWorldMapTwinFalls={^Y}雙子瀑布
+tagWorldMapBarrenHighlands={^W}貧瘠高地
+tagWorldMapSmugglersPass={^Y}走私者通道
+tagWorldMapProspectorsTrail={^Y}採礦者小徑
+tagWorldMapDeadmansGulch={^Y}亡者峽谷
+tagWorldMapImmolation={^W}獻祭之地
+tagWorldMapMountainDeeps={^W}山脈深淵
+tagWorldMapPineBarrens={^Y}松林荒地
+tagWorldMapJaggedWaste={^W}鋸齒荒地
+tagWorldMapShadedBasin={^W}幽暗盆地
+tagWorldMapTyrantsHold={^W}暴君要塞
+tagWorldMapAureateValley={^W}金色山谷
+tagWorldMapWitheringFields={^W}乾枯田地
+tagWorldMapHomestead={^T}霍姆斯特德
+tagWorldMapConflagration={^W}戰火平原
+tagWorldMapInfestedFarms={^W}感染農田
+tagWorldMapRottingCroplands={^n}{^n}{^Y}腐壞田地
+tagWorldMapGruesomeHarvest={^W}陰森穀倉
+tagWorldMapSorrowsBastionRoad={^W}休耕田地
+tagWorldMapSorrowsBastion={^Y}悲傷城堡
+tagWorldMapBloodGrove={^Y}血森林
+tagWorldMapDarkvaleMill={^W}格里弗伐木場
+tagWorldMapDarkvale={^W}黑谷村
+tagWorldMapDarkvaleGate={^K}黑谷門
+tagWorldMapFactionFort={^W}哈倫堡
+tagWorldMapBloodGroveMine={^W}莫頓領地
+tagWorldMapFortIkon={^R}聖像堡
+tagWorldMapBattlefield={^W}征戰平原
+tagWorldMapNecropolis={^W}大墓地
+tagWorldMapAsterkarnRoad={^W}阿斯特堪之路
+tagWorldMapAsterkarnValley={^n}{^Y}阿斯特堪山谷
+tagWorldMapBastionOfChaos={^W}混沌要塞
+tagWorldMapTombofWatchers={^W}守望者之墓
+tagWorldMapTombofArchon={^W}執政官之墓
+tagWorldMapNecropolisGates={^n}{^Y}墓地之門
+tagWorldMapHiddenPath={^W}隱秘之路
+tagWorldMapWitchGodTemple={^W}三巫神神殿
+tagWorldMapWitchGodBoss={^W}巫神秘所
+tagWorldMapCorpseCave={^W}屍骸地基
+
+tagWorldMapPortValbury={^W}瓦伯利港
+
+tagGDX1WorldMapGloomwald={^Y}幽暗森林
+tagGDX1WorldMapUgdenbog={^Y}巫登沼澤
+tagGDX1WorldMapUgdenbogVillage={^Y}巴羅霍爾姆
+tagGDX1WorldMapUgdenbogCoven={^n}{^T}女巫團避難所
+
+tagGDX1WorldMapMalmouthOutskirts={^Y}哀痛山谷
+tagGDX1WorldMapMalmouthOutskirtsRuins={^Y}馬爾茅斯郊外
+tagGDX1WorldMapMalmouthMine={^W}傑爾索恩礦井
+tagGDX1WorldMapMalmouthEntry={^Y}孤獨守望
+tagGDX1WorldMapMalmouth={^W}馬爾茅斯
+tagGDX1WorldMapMalmouthSlums={^W}燭光區
+tagGDX1WorldMapMalmouthIndustrial={^T}鋼蓋區
+tagGDX1WorldMapMalmouthInner={^n}{^Y}皇冠高地
+tagGDX1WorldMapMalmouthDocks={^W}馬爾茅斯港口
+tagGDX1WorldMapMalmouthFactory={^W}血肉工廠
+
+tagGDX1WorldMapBeastRoguelike={^W}遠古林地
+
+tagGDX2WorldMapWitchGodBase={^T}三巫神秘會
+tagGDX2WorldMapArea01={^Y}科凡高原
+tagGDX2WorldMapRuinedTempleCity01={^Y}奧西爾{^n}{^Y}神廟之城
+tagGDX2WorldMapRuinedTemple01={^W}奧西爾神廟
+tagGDX2WorldMapArea02={^Y}科凡沙漠
+tagGDX2WorldMapRuinedCity01={^Y}凱倫碼頭
+tagGDX2WorldMapOasis={^Y}炎陽綠洲
+tagGDX2WorldMapChasm={^W}怒嚎峽谷
+tagGDX2WorldMapDeadLake={^W}漂骨盆地
+tagGDX2WorldMapArea03={^W}玄武岩崖
+tagGDX2WorldMapRuinedCity02={^Y}阿貝德廢墟
+tagGDX2WorldMapArea04={^Y}煉獄荒地
+tagGDX2WorldMapVolcano01={^W}奧祖因之眼
+tagGDX2WorldMapVolcano02={^Y}阿佩什深淵
+tagGDX2WorldMapTombValley={^W}神選之谷
+tagGDX2WorldMapArea05={^Y}科凡城遺蹟
+tagGDX2WorldMapRaisedTemple={^W}向陽尖塔
+tagGDX2WorldMapMessengersVolcano={^W}贖罪洞穴
+tagGDX2WorldMapRoadToKorvaakTemple={^W}晉陞之路
+tagGDX2WorldMapKorvaakTomb={^Y}邪陽之墓
+tagGDX2WorldMapVanguard={^T}三巫神先鋒營
+tagGDX2WorldMapRoguelike={^W}異端之墓
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Other Stuff
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tagGrimar_SpawnEmissary=一个陌生人向你招手……
+tagSwap_Complete=物品交换完成！
+tagTotem_Spawned=^y附近的图腾已被强大的邪恶力量腐化…… ^n^y确保你已经准备好迎接一场艰难的战斗。
+tagSwap_NPC=马格努森
+tagSwap_NPC_Profession=工匠
+tagSwap_D3Style=地狱锻造
+tagSwap_PriestStyle=虔诚信徒
+tagNotifier_Eternal=一座老房子的残骸，散落一地。我应该去调查一下地窖。
+tagNotifier_Hideout=一条小船？我想知道它通向哪里。
+tagNotifier_Swapper=这是什么装置？《格里马里昂》手册的相关章节可能有说明。
+tagNotifier_NewPath=嗯，木板路尽头有什么？
+
+tagGrimar_TutorialTip1Title=∙格里马里昂指南 003：腐化图腾
+
+tagGrimar_TutorialTip1SubTitleA=^n腐化图腾
+tagGrimar_TutorialTip1TextA=^n在冒险中，你可能会遇到一些危险的怪物图腾，但有时，这些图腾会被地狱的爪牙腐化。这是完全随机的，并不是每次在此地点发现图腾都会发生。当这种情况出现时，如果你决定净化图腾，将面临一场艰苦的战斗。这些图腾并不必须被净化，所以如果你担心自己的实力不足——没关系。你可以等到实力足够时再挑战这些地狱魔物。
+
+tagGrimar_TutorialTip1SubTitleB=^n地狱爪牙
+tagGrimar_TutorialTip1TextB=^n上图显示了腐化图腾的图标，根据腐化图腾的Boss不同，图标颜色略有差异（除了暗黑破坏神和马萨尔的图标）。激活这些图腾时，你将遇到地狱的强力爪牙。^n^n以下是他们的列表：
+tagGrimar_TutorialTip1TextC=^n∙阿德里亚：一名被权力诱惑腐化的强大血巫。她能造成多种伤害类型，如物理、混沌、生命、流血和元素伤害。
+tagGrimar_TutorialTip1TextD=^n∙阿兹莫丹：小恶魔，罪孽之主。造成物理、混沌和火焰伤害。
+tagGrimar_TutorialTip1TextE=^n∙贝利亚尔：小恶魔，谎言之主。造成以太和酸性伤害。
+tagGrimar_TutorialTip1TextF=^n∙屠夫：享受撕裂敌人肉体并吞食的受虐恶魔。造成物理、火焰和流血伤害。
+tagGrimar_TutorialTip1TextG=^n∙奶牛王：地狱牛之王，由暗黑破坏神赋予智慧，被崔斯特拉姆的英雄们逼疯。造成物理、元素和流血伤害。
+tagGrimar_TutorialTip1TextH=^n∙暗黑破坏神：原罪恶魔之一，恐怖之主。造成物理、混沌和火焰伤害。
+tagGrimar_TutorialTip1TextI=^n∙莱瑞克：失落王国的国王，被暗黑破坏神的权力诱惑腐化。造成物理、冰霜和活力伤害。
+tagGrimar_TutorialTip1TextJ=^n∙马萨尔：死亡天使，被黑色灵魂石腐化。造成多种伤害类型，如物理、火焰、冰霜、混沌、活力和虚化伤害。
+tagGrimar_TutorialTip1TextK=^n∙泰瑞尔：正义天使，堕落天使。造成物理和元素伤害。
+tagGrimar_TutorialTip1TextL=^n∙佐尔顿·库勒：强大的魔法师，被权力诱惑腐化。造成物理、火焰和元素伤害。
+tagGrimar_TutorialTip1TextM=^n^n
+
+tagGrimar_TutorialTip2Title=∙格里马里昂指南 005：永恒
+tagGrimar_TutorialTip2TextA=^n如果你从魔鬼十字路口的裂隙传送门向东南行进，你会发现一段破旧的楼梯。沿楼梯而下，经过私人藏身小船，你会找到一名神秘特工和一座废弃的小屋。进入废墟，你会来到世界之间的空间，一座漂浮在虚空中的破损地窖。继续穿过废墟，你会找到一个传送门，通向疯狂悬崖，这是一个遗失的领域。在这个新区域，你会遇到许多NPC和一个竞技场。竞技场在你与卢娜女祭司交谈并接近大门前不会激活。
+
+tagGrimar_TutorialTip2SubTitleB=^n竞技场
+tagGrimar_TutorialTip2TextB=^n在黑曜石大门之后，你会看到一个大型黑曜石竞技场和一个召唤石。与召唤石对话即可开始永恒竞技场的挑战。在这场战斗试炼中，你将遇到几乎所有在《恐怖黎明》中可以遇到的敌人，他们会掉落战利品。这意味着你可以在一个地点刷取游戏中所有的传奇物品。此外，完成波次后，你将获得铁币、经验和永恒碎片。表现越好，奖励越多，所以尽力而为吧！
+
+tagGrimar_TutorialTip2SubTitleC=^n服务
+tagGrimar_TutorialTip2TextC=^n在这个地狱般的区域内，你可以在安全区域找到几名有用的NPC，帮助你清理永恒波次。你会遇到炼金师纳里斯克，他可以将你的永恒碎片兑换成各种奖励；你还会遇到女祭司卢娜，她可以提供阵营奖励、信仰点数、玩家等级、铁币以及其他物品。除了这两名NPC外，你还会发现其他阵营NPC、工匠、商队等。
+
+tagGrimar_TutorialTip3Title=∙格里马里昂指南 097：活动
+tagGrimar_TutorialTip3TextA=^n偶尔，ASYLUM101 会在《格里马里昂》中添加一些有趣的小事件和小游戏。截至撰写时，正有一个冬季活动，涉及追逐战利品侏儒获取姜饼，用于购买各种奖励，如物品和宠物！之前还有一个万圣节活动，南克地区被南瓜怪物入侵，它们掉落糖果，你可以用来购买宠物和物品。
+
+tagGrimar_TutorialTip4Title=∙格里马里昂指南 002：Grimmest
+tagGrimar_TutorialTip4TextA=^nGrimmest 是一个动态难度系统，可以使游戏更具挑战性或增加趣味性。如果你认为自己的构建足够强大以应对更高难度，可以前往个人藏身处，寻找重金属爱好者 Zeke，他通常就在裂隙传送门附近。他会提供两个选项：调整英雄出现率或怪物密度——英雄出现率会增加遇到的英雄数量，使游戏变得非常困难；密度则会直接双倍怪物数量。注意：密度只能增加一次，不能超过 2 倍。
+
+tagGrimar_TutorialTip4SubtitleB=^n英雄出现率
+tagGrimar_TutorialTip4TextB=^n你可以尝试以下几个英雄出现率阶段：
+tagGrimar_TutorialTip4TextC=^n∙Ungrim：默认模式，这是原版设置，无英雄率增加。
+tagGrimar_TutorialTip4TextD=^n∙Grim：第1级，当怪物生成时约有2%的概率生成一名英雄。
+tagGrimar_TutorialTip4TextE=^n∙Grimmer：第2级，当怪物生成时约有5%的概率生成一名英雄。
+tagGrimar_TutorialTip4TextF=^n∙Extra Grim：第3级，当怪物生成时约有10%的概率生成最多两名英雄。
+tagGrimar_TutorialTip4TextG=^n∙Ultra Grim：第4级，当怪物生成时约有20%的概率生成最多三名英雄。
+tagGrimar_TutorialTip4TextH=^n∙GRIMMEST：最高级，当怪物生成时约有50%的概率生成最多五名英雄。
+tagGrimar_TutorialTip4TextI=^n∙LEVEL 11：超越 Grimmest：当怪物生成时约有50%的概率生成最多七名英雄，也许更多。他们可能源源不断。
+tagGrimar_TutorialTip4TextJ=^n^n
+
+tagGrimar_TutorialTip5Title=∙格里马里昂指南 001：个人藏身处
+tagGrimar_TutorialTip5TextA=^n如果你从魔鬼十字路口的裂隙传送门向东南行进，你会发现一段破旧的楼梯。沿楼梯而下，你会看到停靠在沼泽中的小船。乘船，你将抵达个人藏身处。在这个区域，你会遇到散落的NPC军团，他们热衷于协助你进行《格里马里昂》的制作和阵营事务。
+
+tagGrimar_TutorialTip5SubtitleB=^n^n服务
+tagGrimar_TutorialTip5TextB=^n你会找到针对改造职业的专属工匠、货币兑换专用工匠、游戏玩法调整NPC，以及你需要的所有阵营商人。一些你会遇到的NPC包括：
+tagGrimar_TutorialTip5TextC=^n∙各种阵营商人，提供所有阵营专属购买。（每个阵营都应包括在内）^n
+tagGrimar_TutorialTip5TextD=^n∙Haedrig Eamon NPC，可为暗黑破坏神3职业制作物品
+tagGrimar_TutorialTip5TextE=^n∙Damara NPC，可为暗黑破坏神3职业制作符文
+tagGrimar_TutorialTip5TextF=^n∙Pelanis 半人马 NPC，可为泰坦之旅职业制作物品
+tagGrimar_TutorialTip5TextG=^n∙Tendo NPC，可为黑暗黎明职业制作物品
+tagGrimar_TutorialTip5TextH=^n∙化身 NPC，可为顶点职业制作物品
+tagGrimar_TutorialTip5TextI=^n∙Grimmest NPC Zeke，可调整游戏玩法设置
+tagGrimar_TutorialTip5TextJ=^n∙Inusat，邪恶军械库 NPC，可用占卜卡兑换物品等
+tagGrimar_TutorialTip5TextK=^n∙Masamune，碎裂词缀 NPC，可用碎裂宝珠随机赋予传奇装备词缀
+tagGrimar_TutorialTip5TextL=^n∙Infernus，重置技能 NPC，可用传奇物品兑换重置宝石，强化角色
+tagGrimar_TutorialTip5TextM=^n∙Mendez，理发师 NPC，可整理发型并提供新造型
+tagGrimar_TutorialTip5TextN=^n∙Mercedes，货币交易 NPC，可在不同模组货币间兑换
+tagGrimar_TutorialTip5TextO=^n^n除了这些重要NPC外，你还会在藏身处发现各种实用NPC，例如仓库、技能重置师、幻象师以及汤师傅！（偶尔还有活动NPC）
+tagGrimar_TutorialTip5TextP=^n^n
+
+tagGrimar_TutorialTip6Title=∙格里马里昂指南 004：物品交换器
+tagGrimar_TutorialTip6TextA=^n在个人藏身处的中心，你会发现一名奇怪的男子和一个更奇怪的装置。炼金师 Magnusson 可以将一些原版物品替换为模组版本。其中包括若干传奇物品，但主要涉及怪物稀有物品（MI）。更棒的是——与复制工匠 Tendo 不同，这些 MI 不仅会被替换成对应版本，而且会保留所有词缀，因此你不会丢失完美的装备！当你将原版物品交换成 D3 物品时，它会变为“地狱锻造”；暗黑黎明物品变为“复制品”；牧师物品变为“虔诚”。以下是可交换物品列表：
+
+tagGrimar_TutorialTip6SubtitleB=^n^n暗黑黎明可交换物品:
+tagGrimar_TutorialTip6TextB=^n阿巴多斯的讲道^n阿尔卡莫斯的战争之剑^n升华权威^n升华头巾^n升华源头^n升华头盔^n升华王冠^n巴莱戈尔的破碎者^n巴索勒姆的法锤^n蛇怪徽章^n烈焰先驱^n血宴印记^n血王之刃^n血誓法典^n血誓连发枪^n血誓权杖^n血誓徽章^n博尔瓦吊坠^n骨刺^n束缚幽灵^n寒血尸体^n选中面具^n巨型守护者^n强迫幽灵^n赤红奥术权杖^n死亡守望者吊坠^n死亡低语兜帽^n艾琳娜的项链^n肉体扭曲法典^n戈雷斯利斯的印记^n石像鬼凝视^n石像鬼面具^n乌戈利亚克之瞳^n格罗布尔沙地雕像^n格罗布尔天空雕像^n格罗布尔石雕像^n格罗布尔毒性雕像^n格罗布尔邪恶雕像^n格伦德普利斯之尾^n古尔加佐之心^n古特沃姆印记^n哈里昂徽章^n伊尔戈尔永恒守望^n燃烧头盔^n科尔文之瞳^n科尔文收割戟^n科尔文风暴戟^n凯蒙徽章^n基佐格头骨^n拉戈斯血契^n拉戈斯虚空契^n卢修斯之刃臂^n魔法师面具^n纳克拉森印记^n普拉吉乌斯印记^n马丁徽章^n纳马迪亚之眼^n纳马迪亚之角^n暗夜先驱^n黑曜守护者^n帕克拉皮肤^n帕克拉面具^n脉动宝石^n腐烂项链^n拉格纳达尔之口^n拉格拉萨角^n拉夫纳之爪^n罗尔德拉希之书^n罗纳普拉克斯之刺^n鲁特尼克爆破枪^n瑞洛克印记^n天蝎粉碎者^n塞加里乌斯腐化之刃^n斯拉萨尔徽章^n幽灵弩^n幽灵战斧^n幽灵大锤^n幽灵战争盾^n幽灵战争巨槌^n风暴先驱^n特尔诺克以太法典^n乌格登博胆汁发射器^n乌格登博连发枪^n乌格登博寒冰怒吼^n乌格登博烈焰怒吼^n乌格登博嚎叫者^n乌格登博火花发射器^n乌格登博毒液发射器^n乌尔拉普拉克斯之刺^n吸血骨墙^n维尔加佐之心^n蝰蛇出血者^n守卫裁决^n大角妖之眼^n乌拉德利斯壁垒^n扎莉亚吊坠
+
+tagGrimar_TutorialTip6SubtitleC=^n^n暗黑破坏神3可交换物品:
+tagGrimar_TutorialTip6TextC=^n阿巴多斯的讲道^n以太灼烧切割者^n阿尔卡莫斯的战争之剑^n升华权威^n升华头巾^n升华兜帽^n升华源头^n升华头盔^n升华王冠^n混沌化身^n巴莱戈尔的破碎者^n巴尔萨扎徽章^n班恩·加戈斯碎片^n巴戈尔核心^n巴戈尔之心^n巴戈尔之根^n巴罗格的血臂^n巴索勒姆的法锤^n巴索勒姆战槌^n蛇怪徽章^n蛇怪獠牙^n蛇怪标记^n烈焰先驱^n克索恩之血徽^n血蔷薇之刺^n血宴印记^n血王之刃^n血王复仇^n血誓法典^n血誓连发枪^n血誓权杖^n血誓徽章^n布鲁格鲁的瘟疫之刃^n博尔瓦吊坠^n骨刃^n漂白骨戟^n骨镰^n骨切割者^n骨刺^n束缚幽灵^n寒血尸体^n选中凝视^n选中面具^n选中面容^n暴力裂缝法典^n强迫幽灵^n巨型守护者^n巨型要塞^n强迫幽灵^n欺诈之绳^n宇宙召唤者^n赤红奥术权杖^n赤红邪恶权杖^n死亡守望者吊坠^n死亡之触^n死亡低语兜帽^n三者守护者^n耳甲切割者^n艾琳娜的项链^n被奴役幽灵^n克索恩之牙^n肉体扭曲档案^n肉体扭曲堡垒^n肉体扭曲卡宾枪^n肉体扭曲头盔^n肉体扭曲法典^n肉体扭曲守护者^n肉体扭曲焚烧器^n肉体扭曲碎片^n肉体扭曲法卷^n戈雷斯利斯印记^n加纳尔瓦卡之刺^n石像鬼凝视^n石像鬼面具^n乌戈利亚克之瞳^n格罗布尔死亡雕像^n格罗布尔余烬雕像^n格罗布尔沙地雕像^n格罗布尔天空雕像^n格罗布尔石雕像^n格罗布尔毒性雕像^n格罗布尔邪恶雕像^n格伦德普利斯之尾^n古特沃姆印记^n哈里昂徽章^n永恒苦难的先驱^n先驱之握^n伊克里克斯鳞片^n伊尔戈尔永恒诅咒^n伊尔戈尔永恒守望^n燃烧头盔^n卡利斯·卡收获^n基里安头骨破碎者^n科尔瓦克燃烧之刃^n科尔瓦克风暴之刃^n科尔文燃烧戟^n科尔文头盔^n科尔文天戟^n科尔文奥术戟^n科尔文之瞳^n科尔文头盔^n科尔文收割戟^n科尔文风暴戟^n凯蒙徽章^n凯蒙圣刃^n基佐格头骨^n拉戈斯血契^n拉戈斯虚空契^n树叶鬃角^n树叶鬃奖杯^n洛克斯米尔冰刃^n卢修斯之刃臂^n魔法师面容^n马尔卡达尔恐刃^n哈沃尔印记^n纳克拉森印记^n普拉吉乌斯印记^n先驱者面具^n信使烈焰炮^n信使连发枪^n米尔顿头盔^n莫加拉之牙^n熔爪切割者^n杀手兜帽^n变异大锤^n纳马迪亚之眼^n纳马迪亚之角^n纳伦·库尔之刃^n暗夜先驱^n敏捷徽章^n诺斯费拉特^n黑曜堡垒^n黑曜守护者^n黑曜巨人^n黑曜战斧^n监管者之眼^n帕克拉皮肤^n帕克拉面具^n矿主之斧^n脉动宝石^n普斯奎尔之尾^n拉格纳达尔之口^n拉格拉萨角^n拉兹因护甲^n拉兹因宝石^n拉兹因护肩^n拉兹因护腰^n拉夫纳之爪^n裂隙祸害切割者^n裂隙之爪切割者^n罗尔德拉希之书^n罗纳普拉克斯之刺^n腐魂徽章^n鲁特尼克爆破枪^n瑞洛克徽章^n瑞洛克印记^n沙爪切割者^n血王腰带^n圣甲虫外壳^n圣甲虫壳^n天蝎大锤^n天蝎粉碎者^n塞加里乌斯圣刃^n塞加里乌斯腐化之刃^n仆从切割者^n仆从腐化者^n仆从切割器^n蹒跚者之心^n破天者头冠^n斯拉萨尔徽章^n灵魂撕裂者^n幽灵弩^n幽灵战斧^n幽灵大锤^n幽灵王冠^n幽灵长剑^n幽灵战争盾^n幽灵战争巨槌^n管家戟^n风暴先驱^n太阳先驱巨剑^n特尔诺克以太法典^n特尔诺克奥术法典^n巨魔碎骨者^n乌格登博奥术编织者^n乌格登博胆汁发射器^n乌格登博连发枪^n乌格登博寒冰怒吼^n乌格登博烈焰怒吼^n乌格登博火焰喷射器^n乌格登博嚎叫者^n乌格登博连发枪^n乌格登博火花发射器^n乌格登博风暴怒吼^n乌尔拉普拉克斯之刺^n瓦尔古尔焦点^n瓦尔古尔宝石^n瓦尔古尔法衣^n吸血骨墙^n吸血鬼之壁^n维尔加佐之心^n蝰蛇出血者^n蝰蛇喷沙者^n虚空撕裂爪^n沃尔德拉克破碎者^n守卫要塞^n守卫裁决^n观察者徽章^n大角妖刺^n大角妖爪^n大角妖之眼^n大角妖凝视^n大角妖瞪视^n泰尼布里斯之怒^n雪人之角^n扎莉亚吊坠^n扎尔图泽兰档案^n扎尔图泽兰法典
+
+tagGrimar_TutorialTip6SubtitleD=^n^n牧师可交换物品:
+tagGrimar_TutorialTip6TextD=^n阿尔卡莫斯的镰刀^n阿尔卡莫斯的战争之剑^n升华兜帽^n升华源头^n升华王冠^n烈焰先驱^n血誓权杖^n选中面具^n强迫幽灵^n赤红奥术权杖^n死亡守望者吊坠^n死亡低语兜帽^n肉体扭曲法典^n肉体扭曲法卷^n乌戈利亚克之瞳^n格罗布尔余烬雕像^n格罗布尔天空雕像^n格罗布尔石雕像^n伊尔戈尔永恒守望^n科尔瓦克风暴之刃^n科尔文头盔^n凯蒙圣刃^n马尔卡达尔恐刃^n马丁徽章^n暗夜先驱^n监管者之眼^n脉动宝石^n罗尔德拉希法卷^n塞加里乌斯圣刃^n破天者头冠^n斯拉萨尔徽章^n幽灵弩^n幽灵长剑^n幽灵战争巨槌^n风暴先驱^n乌格登博奥术编织者^n乌尔拉普拉克斯之刺^n大角妖之眼^n扎尔图泽兰法典
+
+tagGrimar_TutorialTip7Title=∙Grimarillion 指南 006：破碎领域修改
+tagGrimar_TutorialTip7TextA=^nGrimarillion 本质上是 Grim Dawn 的扩展，旨在尽可能提供自由。破碎领域也不例外，ASYLUM101 尽力让此模式更加开放。如果你在 Grimarillion 中与 Mazaan 对话进入破碎领域，你将看到两个新选项。你可以使用战利品石或竞技场石，这两块石头会替换现有的破碎领域，并生成一个略有不同的新领域。
+tagGrimar_TutorialTip7SubtitleB=^n战利品石：
+tagGrimar_TutorialTip7TextB=^n使用这块石头可以让玩家进入破碎领域，并拾取敌人掉落的物品，包括它们装备的潜在怪物稀有物品（MI）。
+tagGrimar_TutorialTip7SubtitleC=^n竞技场石：
+tagGrimar_TutorialTip7TextC=^n使用这块石头可以让玩家只与破碎领域中的 Boss 战块作战，相当于开启了 Boss Rush 模式。
+
+tagGrimar_TutorialTip8Title=∙Grimarillion 指南 007：重置技能
+tagGrimar_TutorialTip8TextA=^n在个人藏身处的模组制作区，你会发现符文刻印师伊弗努斯（Infernus）。
+
+Image (显示 Infernus 的位置)
+
+tagGrimar_TutorialTip8SubtitleB=^n符文刻印师伊弗努斯
+tagGrimar_TutorialTip8TextB=^n伊弗努斯是重置技能宝石的制作师。如果你提供给伊弗努斯一件装备了你想使用的被动技能的武器，但你不想使用那件武器……伊弗努斯可以从该武器制作出技能符文。
+
+Image (显示制作界面)
+
+tagGrimar_TutorialTip8TextC=^n技能符文是非常灵活且强大的组件，但制作它们需要你牺牲原有装备并将其销毁。此外，有些技能符文只能应用于特定装备栏位。
+
+tagGrimar_TutorialTip9Title=∙Grimarillion 指南 008：暗黑军械库
+tagGrimar_TutorialTip9Subtitle=^n主要玩法特性：
+tagGrimar_TutorialTip9TextA=^n暗黑军械库引入了大量传奇物品，目前以套装形式存在，但未来可能会出现独立单件物品。这些物品以原版 Grim Dawn 为设计和平衡基准，确保其力量曲线与游戏匹配，不会感觉像“模组增强的战力膨胀”。
+
+image (显示制作师)
+
+tagGrimar_TutorialTip9TextB=^n^n占卜功能允许玩家针对性地获取更多种类的物品，包括模组新增物品。当玩家与任何终局阵营（黑色军团、马尔茂特抵抗、女巫联盟）达到尊敬声望时，可以购买“神秘卡片”，召唤 NPC 将占卜卡转换为物品。占卜卡会从特定敌人处掉落，行为类似部分组件，玩家需收集足够数量来制作完整组件，然后在占卜工匠 NPC 处兑换成可用物品。
+
+image (显示卡片)
+
+tagGrimar_TutorialTip10Title=∙Grimarillion 指南 009：圣骑士武器
+tagGrimar_TutorialTip10TextA=^n暗黑破坏神 3 模组提供了一种独特方式，可以单手装备双手武器。请注意，这不是针对所有双手武器的全局被动效果，仅适用于可以在个人藏身处由海德里格制作的特定圣骑士风格武器。
+
+Image (显示黑铁匠库存中的圣骑士武器，选中一件以显示 10,000 体魄需求)
+
+tagGrimar_TutorialTip10TextB=^n获得圣骑士武器后，你会注意到其异常高的属性需求。10,000 体魄？？？谁能装备啊？！好吧，如果你查看海德里格的制作台，他会告诉你具体方法：
+
+Image (显示海德里格提示)
+
+tagGrimar_TutorialTip10TextC=^n要装备圣骑士武器，你需要拥有圣骑士专精，并且“坚守阵地”技能必须升到满级（10/10）。最后也是最简单的一步：装备一面盾牌！满足所有要求后，圣骑士武器就可以装备了！
+
+image (显示“坚守阵地”技能满级 10/10)
+
+tagGrimar_TutorialTip11Title=∙Grimarillion 指南 010：模组货币
+tagGrimar_TutorialTip11TextA=^n在 Grimarillion 中，一些模组有自己的货币类型，会随机掉落，主要来源于英雄和 Boss，但偶尔也能从其他地方获得。每当 Grimarillion 中掉落体质物品时，会触发一个脚本，这个脚本会为你掷骰子决定：A）是否掉落货币，以及 B）掉落哪种货币。目前本指南撰写时，共有 3 种货币。
+tagGrimar_TutorialTip11SubtitleA=^n货币类型：
+tagGrimar_TutorialTip11TextB=^n被遗忘的灵魂：^n^n这种货币可用于在个人藏身处访问海德里格制作各种 Diablo 3 物品。你可以用这些灵魂将武器转换为圣骑士变体、制作卡奈方块，甚至用来赌博获得随机独特 Diablo 3 装备。
+
+Image (显示图标) 
+
+tagGrimar_TutorialTip11TextC=^n电镀金币：^n^n这种货币可用于在个人藏身处访问佩拉尼斯制作各种 Titan Quest 物品。你可以用这些金币制作神器、稀有装备以填补构建空缺，或用来赌博获得随机独特 Titan Quest 装备。
+
+Image (显示图标) 
+
+tagGrimar_TutorialTip11TextD=^n泽尼塔姆：^n^n这种货币可用于在个人藏身处访问化身（The Incarnate）制作各种 Zenith 物品。你可以使用泽尼塔姆制作可升级遗物和稀有装备，供 Zenith 职业使用。
+
+Image (显示图标)
+
+tagGrimar_TutorialTip11TextE=^n此外，Zenith 装备还需要其他材料，这些材料必须由泽尼塔姆制作，每种材料对应六种 Zenith 职业之一。
+
+Image (显示图标)
+
+tagGrimar_TutorialTip12Title=∙Grimarillion 指南 098：常见问题
+tagGrimar_TutorialTip12SubtitleA=^n使用模组会出问题吗？
+tagGrimar_TutorialTip12TextA=^n不会！你可以随意使用模组！无论是彩虹模组、DPyes 还是 Grimarillion，尽情玩吧。
+tagGrimar_TutorialTip12SubtitleB=^n游戏总是崩溃，我该怎么办？
+tagGrimar_TutorialTip12TextB=^n确保你已安装并完全更新 AOM（阿什斯·马尔茂特）和 FG（遗忘之神）。不这样做可能导致崩溃或奇怪的错误。^n^n* 确保你安装了最新版本的 Grimarillion，最好是全新安装。删除旧版模组文件夹，安装最新版本，以防万一。^n* 如果某版本 Grim Dawn 崩溃，尝试 32 位和 64 位版本。^n* 如果继续崩溃，先尝试不玩 Grimarillion，仅玩原版 Grim Dawn。如果没有崩溃，则问题来自 Grimarillion。^n* 尝试找到可 100% 复现崩溃的方法，知道具体原因后才好解决。^n* 禁用自动物品提示（Auto-Item Tooltips），部分玩家开启后可能会崩溃，原因不明，但可以尝试。
+tagGrimar_TutorialTip12SubtitleC=^n我尝试制作物品，但按钮没有反应！现在其他东西也不能制作！
+tagGrimar_TutorialTip12TextC=^n极少情况下，某些物品有等级下限，如果你的等级低于限制，无法制作。只需升级后再次尝试即可。Diablo 3 物品存在此问题，制作师会明确提示所需等级。
+tagGrimar_TutorialTip12SubtitleD=^n多人游戏无法正常运行！
+tagGrimar_TutorialTip12TextD=^n很遗憾，这部分问题我们作为模组制作者无法控制。如果必须多人游戏，请注意最好由主机管理所有任务和特殊 NPC 互动。如果一种配置不起作用，尝试换主机，可能效果更好。
+tagGrimar_TutorialTip12SubtitleE=^n这个模组太棒了，我可以在哪里和其他玩家交流？在哪里能找到构建？
+tagGrimar_TutorialTip12TextE=^nGrimarillion 有一个小型社区，你可以在官方 Grim Dawn 论坛找到：https://forums.crateentertainment.com/t/rel-grimarillion-v93/46587^n也有 Discord 社区：https://discord.com/invite/GNqqDUz
+tagGrimar_TutorialTip12SubtitleF=^n我发现了一个 Bug，我可以在哪里报告？
+tagGrimar_TutorialTip12TextF=^n你可以在官方 Grimarillion Nexus 页面或前面提到的论坛页面报告 Bug。Discord 上也有专门的 Bug 报告板块。尽量提供尽可能详细的信息。
+tagGrimar_TutorialTip12SubtitleG=^n我的界面太大了！看不见内容！怎么缩小？
+tagGrimar_TutorialTip12TextG=^n很遗憾，你唯一可行的选项是降低分辨率和界面缩放。
+tagGrimar_TutorialTip12SubtitleH=^n我的界面太小了！物品太多！
+tagGrimar_TutorialTip12TextH=^n你有几种选择，可以出售装备、拆解装备（发明家 NPC）或转化装备（发明家 NPC）。如果你想保留所有装备，可以考虑第三方工具，如 GDStash 或 GD Item Assistant。Grimarillion 并不保证始终兼容这些工具，因此使用需自担风险。关于这些工具的任何问题，请咨询其他玩家或工具开发者，请不要打扰 ASYLUM101。
+tagGrimar_TutorialTip12SubtitleI=^n有没有办法计算我的 DPS 或类似数值？像 DPS 计量器之类的？
+tagGrimar_TutorialTip12TextI=^n另一个第三方选项是 DPYes，它在众多功能中包含了 DPS 计量器。
+tagGrimar_TutorialTip12SubtitleJ=^n哪个构建最好？我只玩最强构建。
+tagGrimar_TutorialTip12TextJ=^n一旦熟悉了游戏机制和玩法，你就可以发现那些能让你的构建在任何等级都表现出色的技能组合与协同效果！
+
+tagGrimar_TutorialTip14Title=∙Grimarillion 指南 099：致谢
+tagGrimar_TutorialTip14SubtitleA=^nGrim Quest
+tagGrimar_TutorialTip14TextA=^n作者：ASYLUM101
+tagGrimar_TutorialTip14SubtitleB=^nZenith
+tagGrimar_TutorialTip14TextB=^n作者：Ceno
+tagGrimar_TutorialTip14SubtitleC=^nDiablo 3
+tagGrimar_TutorialTip14TextC=^n作者：Grimer（部分帮助：Okami）
+tagGrimar_TutorialTip14SubtitleD=^nGrimmest
+tagGrimar_TutorialTip14TextD=^n作者：jiaco，更新者：mamba
+tagGrimar_TutorialTip14SubtitleF=^n美发师
+tagGrimar_TutorialTip14TextF=^n作者：Mendez42 和 ASYLUM101
+tagGrimar_TutorialTip14SubtitleG=^n破碎词缀
+tagGrimar_TutorialTip14TextG=^n作者：Okami，编辑：ASYLUM101
+tagGrimar_TutorialTip14SubtitleH=^n多页日志及编号
+tagGrimar_TutorialTip14TextH=^n作者：lornlynx
+tagGrimar_TutorialTip14SubtitleI=^n阵营商品信息
+tagGrimar_TutorialTip14TextI=^n作者：lornlynx
+tagGrimar_TutorialTip14SubtitleJ=^n重置技能
+tagGrimar_TutorialTip14TextJ=^n作者：Ceno，编辑：ASYLUM101
+tagGrimar_TutorialTip14SubtitleK=^n个人藏身处
+tagGrimar_TutorialTip14TextK=^n作者：Van_Houck，编辑：ASYLUM101
+tagGrimar_TutorialTip14SubtitleL=^nGrim UI
+tagGrimar_TutorialTip14TextL=^n作者：JMD，编辑：ASYLUM101
+tagGrimar_TutorialTip14SubtitleM=^nGrim Armory
+tagGrimar_TutorialTip14TextM=^n作者：Ceno
+tagGrimar_TutorialTip14SubtitleN=^n牧师
+tagGrimar_TutorialTip14TextN=^n作者：Grimer
+tagGrimar_TutorialTip14SubtitleO=^nDarkest Dawn 重制版
+tagGrimar_TutorialTip14TextO=^n作者：Bane，原版模组：T3ndo
+tagGrimar_TutorialTip14SubtitleP=^nEternal
+tagGrimar_TutorialTip14TextP=^n作者：Princess Luna，现代化与整合：ASYLUM101
+tagGrimar_TutorialTip14SubtitleQ=^n仙女网格与发型
+tagGrimar_TutorialTip14TextQ=^n作者：Nargil66
+tagGrimar_TutorialTip14SubtitleR=^n独特神器位图
+tagGrimar_TutorialTip14TextR=^n作者：Catnyss
+tagGrimar_TutorialTip14SubtitleS=^nGrimarillion
+tagGrimar_TutorialTip14TextS=^n最初由 jiaco 创建，目前由 ASYLUM101 维护与更新
+
+tagGrimar_TutorialTip15Title=∙Grimarillion 指南 011：阵营商品信息
+tagGrimar_TutorialTip15TextA=^n在每个阵营信息页底部（按 J 打开）现在显示了所有可用消耗品和增幅物品的详细信息！不仅显示名称，还用颜色标注了它们的作用，这样你就能即时查看每个阵营提供的内容。这在寻找新增幅物品或补充药水时非常有用。
+(example Image?)
+tagGrimar_TutorialTip15SubtitleB=^n图例：
+tagGrimar_TutorialTip15TextB=^n红色：伤害^n蓝色：种族伤害与防御^n靛蓝色：生命值、能量或回复，也包括体质与生命/能量吸取^n卡其色：攻击/防御能力、精神、属性和护甲^n绿色：状态效果及其他效果或特殊技能^n青色：抗性和减效持续时间^n灰色：宠物加成^n白色：反击^n棕色：盾牌
+tagGrimar_TutorialTip15TextC=^n^n这些缩写应该能理解，否则这里列出大部分缩写：
+tagGrimar_TutorialTip15SubtitleD=^n角色属性：
+tagGrimar_TutorialTip15TextD=Hp: 生命值^nEn: 能量^nReg: 回复^nAttSp: 攻击速度^nToSp: 总速度^nMoSp: 移动速度^nOA: 攻击能力^nDA: 防御能力^nSP: 精神^nConst: 体质
+tagGrimar_TutorialTip15SubtitleE=^n防御属性
+tagGrimar_TutorialTip15TextE=Ar: 护甲^nArAbs: 护甲吸收^nShBlCh: 盾牌格挡率^nShDaBl: 盾牌格挡伤害^nR: 抗性
+		
+tagGrimar_TutorialTip15SubtitleF=^n伤害类型：
+tagGrimar_TutorialTip15TextF=El: 元素伤害^nFi: 火焰^nBrn: 灼烧^nCo: 冰冷^nFrb: 霜燃^nLi: 闪电^nElc: 觸電^nAe: 虚灵^nCh: 混沌^nVi: 活力^nViDec: 活力衰减^nPh: 物理^nPi: 穿刺^nBld: 流血^nInT: 内伤^nPoi: 毒素^nAc: 酸性
+tagGrimar_TutorialTip15SubtitleG=^n其他：
+tagGrimar_TutorialTip15TextG=Dur: 持续时间^nSkRe: 技能冷却^nRad: 范围^nAd: 攻击伤害^nSp: 速度^nInc: 增加^nRed: 减少^nRet: 反击^nPetri: 石化^nConfu: 混乱^nChaT: 命中目标几率^nT: 目标
+
+tagGrimar_TutorialTip16Title=∙Grimarillion 指南 012：符文词
+tagGrimar_TutorialTip16TextA=^n介绍一个新的制作系统——符文词，由两种不同符文组合而成，可解锁技能的强力附加效果，甚至彻底改变技能的玩法。
+(tooltip img1, 2, 3)
+符文图标 1, 2, 3
+tagGrimar_TutorialTip16TextB=^n符文词只能装备在头盔上，其中一些可以升级或进行转化，以支持不同类型的伤害。仅 Diablo 3 职业拥有符文词。
+tagGrimar_TutorialTip16TextC=^nDamara 符文工匠，是个人藏身处的新 NPC，位于 Diablo 3 铁匠 Haedrig 附近。她负责制作符文词。
+tagGrimar_TutorialTip16TextD=^n游戏中新增 33 个符文，以配合新的符文词系统。
+tagGrimar_TutorialTip16TextE=^n大多数 Boss 有 20% 概率掉落符文。
+
+Damara 图片
+
+tagGrimarTutorialQuickTip1=_Grimarillion：腐化图腾
+tagGrimarTutorialQuickTip2=_Grimarillion：Eternal
+tagGrimarTutorialQuickTip4=_Grimarillion：Grimmest
+tagGrimarTutorialQuickTip5=_Grimarillion：个人藏身处
+tagGrimarTutorialQuickTip6=_Grimarillion：交换器
+tagGrimarTutorialQuickTip7=_Grimarillion：破碎领域修改
+tagGrimarTutorialQuickTip8=_Grimarillion：重置技能
+tagGrimarTutorialQuickTip9=_Grimarillion：Grim Armory
+tagGrimarTutorialQuickTip10=_Grimarillion：十字军武器
+tagGrimarTutorialQuickTip11=_Grimarillion：模组货币
+tagGrimarTutorialQuickTip3=_Grimarillion：事件
+tagGrimarTutorialQuickTip12=_Grimarillion：常见问题
+tagGrimarTutorialQuickTip13=_Grimarillion：第三方工具
+tagGrimarTutorialQuickTip14=_Grimarillion：阵营商品信息
+tagGrimarTutorialQuickTip15=_Grimarillion：符文词
+

@@ -1,0 +1,361 @@
+tagSkillClassName31=野蛮人
+tagSkillClassName0131=角斗士
+tagSkillClassName0231=毁灭者
+tagSkillClassName0331=异教徒
+tagSkillClassName0431=破刃者
+tagSkillClassName0531=奥术泰坦
+tagSkillClassName0631=地狱狂徒
+tagSkillClassName0731=暴君
+tagSkillClassName0831=处刑者
+tagSkillClassName0931=战斗圣堂武士
+tagSkillClassName1031=劫掠者
+tagSkillClassName1131=部落战士
+tagSkillClassName1231=斗士
+tagSkillClassName1331=狂野法师
+tagSkillClassName1431=[ms]酋长 [fs]女武神
+tagSkillClassName1531=复仇者
+tagSkillClassName3631=劫掠者
+
+tagSkillClassDescriptionBarbarian=野蛮人是勇猛的游荡战士，从不畏惧近战战斗。强力的地面震击、跳跃攻击以及双持武器的横扫能让敌人瞬间毙命，幸存者也会四处逃窜。 ^n^s由Grimer为《暗黑破坏神3》MOD改编
+
+#Class31
+tagClassBarbarianSkillName00=D3 野蛮人
+tagClassBarbarianSkillDescription00="古老的力量赐予我祝福。"
+
+#野蛮人技能
+tagClassBarbarianSkillName01=横扫{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription01=挥舞武器造成前方敌人物理与内伤伤害。 ^o需要近战武器，并触发默认武器攻击。{^n}{^n}{^y}散射冲击 {^o}(技能等级10解锁){^n}^w横扫有50%几率击倒敌人。
+
+tagClassBarbarianSkillName02=武器大师{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription02=增加物理伤害，并提升物理、流血和元素伤害。 {^o}这是双持近战武器的加成。并启用双持能力。{^n}{^n}{^y}肉体之力 {^o}(技能等级12解锁){^n}^w体魄提高18%。
+
+tagClassBarbarianSkillName05=剑盾术{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription05=减少所受伤害，提供生命回复，并提升格挡几率。 {^o}需要装备盾牌。{^n}{^n}{^y}钢铁意志 {^o}(技能等级10解锁){^n}^w提升120%反击伤害，并增加15%护甲。
+
+tagClassBarbarianSkillName06=狂战士之怒{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription06=短时间内提升物理抗性、攻击能力和所有伤害，但会消耗自身生命。攻击附加流血伤害。 {^n}{^n}{^y}不屈巨人 {^o}(技能等级12解锁){^n}^w提升50%冰冻与昏迷抗性。
+
+tagClassBarbarianSkillName11=地震{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription11=猛烈震动地面，对敌人造成物理和火焰伤害，持续6秒。范围内敌人可能短暂混乱。{^n}{^n}{^y}塌方 {^o}(技能等级12解锁){^n}^w地震有20%几率击倒敌人。
+
+tagClassBarbarianSkillName12=地震猛击{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription12=猛击地面产生破坏波，对前方敌人造成物理和内伤伤害。 ^o需要近战武器并触发默认武器攻击。{^n}{^n}{^y}破碎之地 {^o}(技能等级10解锁){^n}^w地震猛击使敌人眩晕1秒。
+
+tagClassBarbarianSkillName13=无视痛苦{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription13=在5秒内减少所受伤害，并提升所有控制抗性。{^n}{^n}{^y}轻蔑弱者 {^o}(技能等级12解锁){^n}^w激活无视痛苦时立即恢复50%生命值。
+
+tagClassBarbarianSkillName14=狂战士之怒{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription14=进入狂战士状态，提升闪避近战攻击几率、暴击伤害及总伤害20秒。狂战士形态下抵抗控制效果并对敌人造成额外流血伤害。 {^o}角色体型增加40%。{^n}{^n}{^y}混沌之生 {^o}(技能等级12解锁){^n}^w生命回复提升135%。
+
+tagClassBarbarianSkillName15=狂怒冲锋{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription15=向前冲锋，对路径上的敌人造成物理与火焰伤害，并有几率击倒。{^n}{^n}{^y}无情攻击 {^o}(技能等级16解锁){^n}^w冷却时间减少1秒。
+
+tagClassBarbarianSkillName16=雪崩{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription16=使大量岩石倾落造成范围物理与内伤伤害，持续3秒。{^n}{^n}{^y}地裂 {^o}(技能等级16解锁){^n}^w暴击伤害提升50%。
+
+tagClassBarbarianSkillName17=冰川{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription17=巨大的冰块击中范围内敌人，伤害转为冰冷，并使敌人短暂冰冻。
+
+tagClassBarbarianSkillName18=狂乱{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription18=攻击单个目标造成额外物理和流血伤害。默认攻击时，每次命中增加攻击强度。 ^o积累层数可增加效果。{^n}{^n}{^y}嗜血 {^o}(技能等级16解锁){^n}^w造成伤害的5%转化为生命。
+
+tagClassBarbarianSkillName19=狂暴{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription19=提升护甲及流血伤害几率。攻击造成敌人物理与内伤，持续3秒。{^n}{^n}{^b}副手 {^o}(被动){^n}^w狂乱有几率投掷穿透斧，对路径上敌人造成物理及流血伤害。
+
+tagClassBarbarianSkillName19Passive=副手
+
+tagClassBarbarianSkillName22=疯子{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription22=处于狂乱状态时，提升攻速、攻击能力并抵抗减速效果。
+
+tagClassBarbarianSkillName20=跳跃{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription20=跃向空中，对落点周围敌人造成物理和流血伤害。{^n}{^n}{^y}从天而降 {^o}(技能等级16解锁){^n}^w敌人眩晕3秒。
+
+tagClassBarbarianSkillName21=冲击{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription21=伤害提升，冲击造成敌人内伤并降低其攻击能力，持续3秒。
+
+tagClassBarbarianSkillName25=先祖之召{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription25=召唤3名先祖野蛮人协助战斗，持续20秒。先祖野蛮人无敌并拥有跳跃和地震猛击技能。 {^o}先祖野蛮人随玩家伤害加成提升。{^n}{^n}{^y}合而为一 {^o}(技能等级12解锁){^n}^w靠近先祖时，你和队友获得240点伤害吸收。
+
+tagClassBarbarianSkillName25Pet=先祖野蛮人
+tagClassBarbarianSkillName25Aura=合而为一
+
+tagClassBarbarianSkillName26=战斗之怒{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription26=进入战怒状态，为你和队友增加伤害和总速度。{^n}{^n}{^y}老兵警告 {^o}(技能等级12解锁){^n}^w你和队友获得20%几率格挡投射物。
+
+tagClassBarbarianSkillName27=免疫{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription27=提升防御能力，并增加对穿刺、元素和流血伤害的抗性。
+
+tagClassBarbarianSkillName33=冲锋撞击{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription33=狂怒冲锋造成内伤并燃烧敌人，降低敌人防御力3秒，伤害提升。
+
+tagClassBarbarianSkillName35=熔火狂怒{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription35=伤害提升，地震对敌人附加燃烧效果2秒。敌人所有抗性降低3秒。
+
+tagClassBarbarianSkillName39=震慑{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription39=击中敌人可能造成混乱，同时增加伤害并使斧头附加3秒燃烧效果。
+
+tagClassBarbarianSkillName40=旋风斩{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription40=对路径上的所有敌人造成多次攻击，造成物理与火焰伤害。{^n}{^n}{^y}风裂 {^o}(技能等级16解锁){^n}^w旋风斩期间移动速度提升15%。
+
+tagClassBarbarianSkillName41=火山喷发{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillDescription41=伤害提升，旋风斩对敌人附加3秒燃烧效果。
+
+tagClassBarbarianSkillPetName43=基础攻击
+
+tagClassBarbarianSkillName45=钢铁之心{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName45Desc=生命低于33%时，3秒内获得100%伤害吸收，并免疫所有控制效果。
+
+tagClassBarbarianSkillName46=先祖长矛{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName46Desc=投掷穿透敌人的长矛，造成物理和流血伤害，使其短暂眩晕。{^n}{^n}{^y}锯齿刃 {^o}(技能等级16解锁){^n}^w先祖长矛降低敌人总速度30%，持续3秒。
+
+tagClassBarbarianSkillName47=撕裂{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName47Desc=进行扫击，使周围敌人流血5秒。 ^o需要近战武器并触发默认武器攻击。{^n}{^n}{^y}嗜血 {^o}(技能等级10解锁){^n}^w12%伤害转化为生命。
+
+tagClassBarbarianSkillName48=飓风{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName48Desc=火焰伤害转为冰冷，旋风斩有12%几率冰冻敌人。
+
+tagClassBarbarianSkillName49=投掷武器{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName49Desc=向目标投掷斧头，弹射至附近敌人，造成物理和火焰伤害，附加3秒内伤效果。{^n}{^n}{^y}强力投掷 {^o}(技能等级16解锁){^n}^w暴击伤害提升30%。
+
+tagClassBarbarianSkillName52=寒冰冲锋{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName52Desc=狂怒冲锋的火焰伤害转为冰冷，击中敌人降低其移动速度数秒。
+
+tagClassBarbarianSkillName53=平衡武器{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName53Desc=斧头击中更多目标并增加伤害，但冷却时间增加3秒，并消耗额外能量。
+
+tagClassBarbarianSkillName54=威慑怒吼{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName54Desc=怒吼减少敌人伤害和攻击能力，并降低其攻速，持续6秒。{^n}{^n}{^y}恐吓 {^o}(技能等级12解锁){^n}^w威慑敌人移动速度降低30%。
+
+tagClassBarbarianSkillName55=蹒跚{^K} 「D3 野蛮人」^-
+tagClassBarbarianSkillName55Desc=威慑怒吼进一步降低敌人生命回复及部分抗性。
+
+#X1 暗黑破坏神物品
+tagX1D3_Belt01={^I}卡修斯之傲
+tagX1D3_Belt01Desc="他行动迅速，攻击凶猛。确实是大地上最伟大的战士。"
+
+tagX1D3_Ring01={^I}力量之戒
+tagX1D3_Ring01Desc="似乎设计用来减少伤害，但我不确定它是如何运作的。显然，它在前任主人身上失败了。希望你使用时效果更佳。"{^n}击中敌人后使用狂怒冲锋、地震猛击或跳跃会回复生命。
+
+tagX1D3_necklace01={^I}地狱火护身符
+tagX1D3_necklace01Desc="地狱火护身符是对那些不惜一切代价，发誓清除圣域恶魔祸害者的忠诚勋章。"
+tagX1D3_necklace01A={^I}僧侣的地狱火护身符
+tagX1D3_necklace01B={^I}野蛮人的地狱火护身符
+tagX1D3_necklace01C={^I}十字军的地狱火护身符
+tagX1D3_necklace01D={^I}恶魔猎人的地狱火护身符
+tagX1D3_necklace01E={^I}死灵法师的地狱火护身符
+tagX1D3_necklace01F={^I}巫师的地狱火护身符
+tagX1D3_necklace01G={^I}巫医的地狱火护身符
+
+tagX1D3_Sword2h01={^I}部族之刃
+tagX1D3_Sword2h01Desc="每个部族都讲述他们最伟大的武器故事，能够移山或震慑敌人，各不相同。但每个部族都声称这把刀是他们的。"
+
+tagX1D3_Axe01={^I}桑基斯的燃烧之斧
+tagX1D3_Axe01Desc="一把由疯狂的桑基斯挥舞的黑曜石斧，他在堡垒内背叛自己的部下。即便在自焚之时，他也未停止对曾统治过的人的攻击。"
+
+tagX1D3_Ring02={^I}骷髅之握
+tagX1D3_Ring02Desc="狡诈的商人常常复制这枚珍贵戒指以欺骗不谨慎的人。"
+
+tagX1D3_Feet01={^I}卢特袜
+tagX1D3_Feet01Desc="卢特·巴哈杜尔的南萨尔制作这些靴子以便轻松攀窗行窃。他最后一次出现时，是被一只大型食腐蝙蝠带走。"
+
+tagX1D3_Shoulders04={^I}远古之怒
+tagX1D3_Shoulders04Desc="这件肩甲由被驱逐出神圣山脉的人打造，以便与远古力量沟通。"
+
+tagX1D3_Sword01={^I}雷霆之怒，风行者之赐
+tagX1D3_Sword01Desc="这把古老之刃蕴含不可预测的元素能量，穿越了广阔的宇宙和隐秘空间后抵达圣域。雷霆之怒寻觅真正的英雄之手，只有他们能安全驾驭其惊人力量。"
+
+tagX1D3_Sword02={^I}因·几奥姆
+tagX1D3_Sword02Desc="古代夏安赛王族所持之剑，据说能驾驭四虎灵的速度与杀伤力。一位国王曾宣称凭此剑驱逐千名恶魔。"
+tagX1D3_Sword02Skill="击杀敌人后，有几率获得15秒巨大冷却缩减效果。"
+
+tagX1D3_Sword03=艾尔德鲁因，公正之剑
+tagX1D3_Sword03Desc="艾尔德鲁因能切开任何敌人或物质。只有心地正直者能使用此剑，愤怒时剑不会帮助其使用者，并携带天使之力。"
+tagX1D3_Sword03skill=艾尔德鲁因之光
+
+tagX1D3_Sword04={^B}黑卫
+tagX1D3_Sword04Desc="这把剑的力量驱使战士罗萨特做出无法言说的行为。"
+tagX1D3_Sword04Skill=黑卫诅咒
+tagX1D3_Sword04SkillDesc="诅咒敌人，使最强大的敌人也易受冰冻与眩晕影响。"
+
+tagX1D3_MedalBelialSkill=贝利亚尔诅咒
+tagX1D3_MedalBelialSkillDesc="诅咒敌人，使其易受虚化与毒素伤害。"
+
+tagX1D3_Mace01={^I}消逝之峰之怒
+tagX1D3_Mace01Desc="科尔将他所有的愤怒与绝望倾注于这件武器，使其在未来岁月中彰显阿瑞特的威严。"
+
+tagX1D3_Axe02={^I}峡湾劈斧
+tagX1D3_Axe02Desc="在冰冻海岸生存需要一把坚固的武器。"
+
+tagX1D3_Hands05={^I}塔斯克与泰欧
+tagX1D3_Hands05Desc="这位猎人和他的猎犬曾是最著名的猎人，他战死在与心爱的猎犬并肩作战中，他的忠犬也随之而去。"
+
+tagX1D3_Hands06={^I}塞舍隆护臂
+tagX1D3_Hands06Desc="看起来像是塞舍隆的产物。但奇怪的是，当他人使用时毫无特别，而你使用时，却大不相同。" - 海德里格
+
+tagX1D3_Belt03={^I}京四郎之魂
+tagX1D3_Belt03Desc="在夏安赛之战后，京四郎感到一阵宁静涌上心头。他闭上眼睛，仿佛一切未曾改变。"
+
+tagX1D3_Shield01={^I}弗赖德尔之怒
+tagX1D3_Shield01Desc="弗赖德尔濒临死亡，伤口比敌人还多。就在此时，他发现十字军的愤怒深不可测。"
+
+tagX1D3_Shield02={^I}西部马奇守护者
+tagX1D3_Shield02Desc="这面古老的盾牌上布满百战痕迹，由科西克国王在加冕后授予首位西部马奇骑士指挥官。从此，历代英雄皆继承此盾，持盾者受到应有尊敬。"
+tagX1D3_Shield02Skill=西部马奇之狼
+tagX1D3_Shield02SkillDesc="每次格挡时，召唤冲锋狼，对路径上的敌人造成武器伤害。"
+
+tagX1D3_Hands07={^I}毁灭护臂
+tagX1D3_Hands07Desc="这些护臂似乎利用了从地面引导的原始力量。至少，十分有趣。" - 阿卜杜勒·哈齐尔
+
+tagX1D3_Hands08={^I}摩提克护臂
+tagX1D3_Hands08Desc="这些古老护臂曾属于野蛮人狂战士摩提克，他视其为幸运物，生前从未摘下。最终，他死后部族发现护臂已缝入其皮肤。"
+
+tagX1D3_TragOulWings01=特拉格乌尔之翼
+tagX1D3_TragOulWings01Desc="召唤特拉格乌尔之翼，仅作装饰效果。"
+tagX1D3_TragOulWings02=特拉格乌尔之翼 - 红色
+
+tagX1D3_AngelicWings01=天使之翼
+tagX1D3_AngelicWings01Desc="召唤天使之翼，仅作装饰效果。"
+tagX1D3_AngelicWings02=公正之翼
+tagX1D3_AngelicWings02Desc="召唤公正之翼，仅作装饰效果。"
+tagX1D3_AngelicWings03=希望之翼
+tagX1D3_AngelicWings03Desc="召唤希望之翼，仅作装饰效果。"
+tagX1D3_HotsWings=装饰翅膀 - 泰瑞尔白色
+tagX1D3_HotsWings2=装饰翅膀 - 泰瑞尔黄色
+tagX1D3_MercyWings=装饰翅膀 - Mercy
+
+tagX1D3_ItemSkill01=小浣熊的忠诚
+tagX1D3_ItemSkill01Desc="善待你的宠物，它们会跟随你直到最后。"
+
+tagX1D3_necklace02={^I}拉科夫生命之玻璃
+tagX1D3_necklace02Desc="拉科夫是一名普通抄写员，他研究僧侣的战斗技法，并制作出一件可吸取敌人生命力的物品。"{^o}攻击时有几率生成生命球。
+tagX1D3_HealthGlobe=生命球
+
+tagX1D3_Medal01={^I}大地之傲章
+tagX1D3_Medal02={^I}阿德里亚勋章
+tagX1D3_Medal03={^I}贝利亚尔勋章
+tagX1D3_Medal04={^I}野蛮人印记
+
+#X1 暗黑破坏神套装
+tagItemSetX1D3_01=大地之力
+tagItemSetX1D3_01Desc="5件套奖励：野蛮人使用跳跃落地时造成地震。"
+tagX1D3_Feet02=(S) {^B}大地根基
+tagX1D3_Feet02Desc="即使最宏伟的建筑，也会在沙地上倒塌。"
+tagX1D3_Hands01=(S) {^B}大地之握
+tagX1D3_Hands01Desc="没有凡人能逃脱大地的掌控。不论飞得多高，最终都会坠落。想象这种力量掌握在你手中。"
+tagX1D3_Head01=(S) {^B}大地之眼
+tagX1D3_Head01Desc="高山崩裂，峡谷撕裂。塑造土地的力量对多数人是谜，但你已洞悉。"
+tagX1D3_Legs01=大地之重
+tagX1D3_Legs01Desc="所有生物都信赖大地的稳固，它们无法感知地下暗流，也不理解其重量和力量。"
+tagX1D3_Torso01=(S) {^B}大地之魂
+tagX1D3_Torso01Desc="大地之魂是最强的力量，没有任何事物能抗衡。"
+tagX1D3_Shoulders01=(S) {^B}大地之尖
+tagX1D3_Shoulders01Desc="旅人传说沙漠中的石拱，神秘学者借此获得超自然智慧或地面力量。有些人声称两者兼得。"
+
+
+#X1 暗黑破坏神套装翻译
+
+tagItemSetX1D3_02=不朽之王的召唤
+tagItemSetX1D3_02Desc="远古的野蛮人将协助你踏上征程"
+tagX1D3_Legs02=(S) {^I}不朽之王的威仪
+tagX1D3_Legs02Desc="为纪念沃鲁斯克成为不朽之王而打造，自布尔-卡索统治部落以来，这是唯一一次授予此荣誉。"
+tagX1D3_Torso02=(S) {^I}不朽之王的永恒统治
+tagX1D3_Torso02Desc="不朽之王最后一战时穿戴此甲。"
+tagX1D3_Head02=(S) {^I}不朽之王的凯旋
+tagX1D3_Head02Desc="在野蛮人横扫西大陆的年代——远在拉基斯到来之前——沃鲁斯克统一了部落。那短暂的时刻，野蛮人拥有了他们的国王。"
+tagX1D3_Hands02=(S) {^I}不朽之王的钢铁之手
+tagX1D3_Hands02Desc="沃鲁斯克击打敌人之力如此强大，若非双手受到保护，早已粉碎。"
+tagX1D3_Sword2h01=(S) {^I}不朽之王的断石者
+tagX1D3_Sword2h01Desc="沃鲁斯克最喜爱的武器，部落之王的象征。"
+tagX1D3_Feet03=(S) {^I}不朽之王的步伐
+tagX1D3_Feet03Desc="野蛮之王行走于世，如同神灵般。"
+tagX1D3_Belt02=(S) {^I}不朽之王的部落腰带
+tagX1D3_Belt02Desc="王者印记装饰在腰带之上。"
+
+tagItemSetX1D3_03=雷科之遗
+tagItemSetX1D3_03Desc="冲锋穿越你的敌人！"
+tagX1D3_Head03=(S) {^I}雷科的意志
+tagX1D3_Head03Desc="虽然野蛮人女性受到尊重，她们在战场上仍被视为低于男性同胞，直到雷科出现，她成为首位获得大将军地位的女性。"
+tagX1D3_Hands03=(S) {^I}雷科的护手
+tagX1D3_Hands03Desc="这副牛皮手套专为纪念雷科晋升为大将军而制作。"
+tagX1D3_Legs03=(S) {^I}雷科的马裤
+tagX1D3_Legs03Desc="原为乔里茨·大力士的凶猛护甲之一，雷科在丈夫早逝后终身穿戴这条牛皮马裤参战。"
+tagX1D3_Feet04=(S) {^I}雷科的长靴
+tagX1D3_Feet04Desc="萨马瑞尼亚的洛伦曾扬言要踩碎野蛮人，雷科愉快地从冷硬的尸体脚上夺回这双靴子，成为她最大胜利的象征。"
+tagX1D3_Torso03=(S) {^I}雷科之心
+tagX1D3_Torso03Desc="乔里茨·大力士在雷科从劳工营解救他后，献身于她。这件精美的锁子甲是他在婚礼当天赠予她的礼物。"
+tagX1D3_Shoulders02=(S) {^I}雷科之负
+tagX1D3_Shoulders02Desc="这些护肩象征牛族部落大将军之身份。雷科从倒下的指挥官身上夺下护肩，自身穿戴，引领部落在萨马瑞恩之战中取得胜利。"
+
+tagItemSetX1D3_04=荒地之怒
+tagItemSetX1D3_04Desc="提高旋风斩伤害"
+tagX1D3_Head04=(S) {^I}荒地头盔
+tagX1D3_Head04Desc="鹤族的诺格拉进入荒地完成成人仪式，带回了关于食人部落的恐怖传说、新的伤疤与此头盔。"
+tagX1D3_Hands04=(S) {^I}荒地护手
+tagX1D3_Hands04Desc="鹤脚族的奥弗在荒地发现了墓穴，里面摆放着磨尖牙齿的骷髅环绕着一位伟大国王的遗体。奥弗尽快离开，仅带走国王的护手。"
+tagX1D3_Legs04=(S) {^I}荒地护腿
+tagX1D3_Legs04Desc="蛇族的约克特遇到荒地中疯狂的隐士铁匠，为他锻造护腿，却以约克特的手指和脚趾作为报酬。"
+tagX1D3_Feet05=(S) {^I}荒地战靴
+tagX1D3_Feet05Desc="雷霆部落穿越荒地时，一名独臂疯子从雪夜中冲出，喃喃述说所遭受与目睹的恐怖事件。他仅穿着破布与这双战靴。"
+tagX1D3_Torso04=(S) {^I}荒地胸甲
+tagX1D3_Torso04Desc="熊族的纳萨尔在荒地发现一场大战的残骸。虽认不出死者身份，却发现许多人将牙齿磨尖。在残骸中，他找到此胸甲。"
+tagX1D3_Shoulders03=(S) {^I}荒地护肩
+tagX1D3_Shoulders03Desc="暗影狼族的福尔坎被荒地食人族俘获，逃脱时只偷够生存所需的装备，包括这副护肩。"
+
+#X1 卡奈方块遗物翻译
+tagX1D3_Kanai01=卡奈方块：卢特袜
+tagX1D3_Kanai02=卡奈方块：卡修斯之傲
+tagX1D3_Kanai03=卡奈方块：峡湾劈斧
+tagX1D3_Kanai04=卡奈方块：部族之刃
+tagX1D3_Kanai05=卡奈方块：消逝之峰之怒
+
+#X1 暗黑生物
+tagX1D3_Blacksmith=海德格·伊蒙
+tagX1D3_Blacksmith_Profession=暗黑破坏神3 铁匠
+
+tagX1D3_Boss01=迪亚波罗，原初之恶
+tagX1D3_Boss02=迪亚波罗之影，恐惧幻象
+tagX1D3_Boss02b=影子分身
+tagX1D3_BossChest=迪亚波罗精华
+tagX1D3_Boss03=艾德莉亚，女巫
+tagX1D3_Boss03pet=血蛆
+tagXD3_Boss04=泰瑞尔，正义大天使
+tagXD3_Boss05=牛王，地狱牛
+tagXD3_Boss06=屠夫，血肉切割者
+tagXD3_Boss07=阿兹莫丹，罪恶之王
+tagXD3_Boss08=彼列，谎言之王
+tagXD3_Boss09=玛瑟尔，死亡天使
+tagXD3_Boss10=李奥瑞克，骷髅王
+tagXD3_Boss11=佐敦·库勒
+tagXD3_Boss11pet=永恒守护者
+
+tagX1D3_BossChest06=屠夫精华
+tagX1D3_BossChest05=牛王精华
+tagX1D3_BossChest03=艾德莉亚精华
+tagX1D3_BossChest04=泰瑞尔精华
+tagX1D3_BossChest07=阿兹莫丹精华
+tagX1D3_BossChest08=彼列精华
+tagX1D3_BossChest09=玛瑟尔精华
+tagX1D3_BossChest10=李奥瑞克精华
+tagX1D3_BossChest11=佐敦·库勒精华
+
+tagX1D3_Boss01SkillName01=恐惧统治
+tagX1D3_Boss01SkillName01Desc=所有抗性降低10%。
+tagX1D3_Boss01SkillName02=迪亚波罗的梦魇
+tagX1D3_Boss01SkillName02Desc=所有控制抗性降低30%。
+tagX1D3_Boss01SkillName03=毁灭诅咒
+tagX1D3_Boss01SkillName03Desc=你和附近的盟友承受20%抗性削弱，并持续受到火焰伤害，直到诅咒结束。
+tagX1D3_Boss03SkillName01=泰瑞尔威仪
+tagX1D3_Boss03SkillName01Desc=降低元素抗性和冰冻抗性
+tagX1D3_Boss03SkillName01=泰瑞尔威仪
+
+#X1 野蛮人符文翻译
+tagBarbarianRune01=^c贪欲
+tagBarbarianRune01Desc=^h狂怒 ^w提高你的最大攻击速度10%，并为技能添加8%生命偷取。狂怒的暴击可恢复400点生命加额外12%生命。你将无法再使用生命药水。{^n}{^n}{^y}符文之力：{^o}扎恩加尔
+tagBarbarianRune01B=符文效果
+tagBarbarianRune01BDesc=你在3秒内无敌。
+
+tagBarbarianRune02=^c旋转统御
+tagBarbarianRune02Desc=使用^h旋风斩^w时，你的所有抗性提高10%（增强符文版本为15%），最大抗性提高4%。旋风斩攻击会在地面留下火焰区域，对区域内敌人造成火焰伤害与灼烧效果。敌人站在燃烧区域时，有100%几率将附近敌人拉向你。^o拉拽效果内部冷却5秒，可通过冷却缩减减少。{^n}{^n}{^y}符文之力：{^o}阿胡塔尔{^n}{^n}{^y}转化：有阿胡塔尔符文的替代版本，可将火焰区域变为^b冰^w。
+
+tagBarbarianRune03=^c跳震
+tagBarbarianRune03Desc=^h跳跃 ^w不再有冷却时间，并在落地处产生^h地震^w的替代效果，对区域内敌人造成物理与火焰伤害，并有几率将其击倒。但跳跃伤害减少25%，且无法使用闪避技能。{^n}{^n}{^y}符文之力：{^o}雅克斯纳尔{^n}{^n}{^y}转化：有雅克斯纳尔符文的替代版本，可将地震的火焰伤害转为^b冰^w。

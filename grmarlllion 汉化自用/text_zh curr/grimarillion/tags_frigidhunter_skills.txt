@@ -1,0 +1,96 @@
+##Class combo names
+tagSkillClassName41=Frigid Hunter
+#tagSkillClassName0141=Frost Knight
+#tagSkillClassName0241=Gunsmith
+#tagSkillClassName0341=Anatomancer
+#tagSkillClassName0441=Sniper
+#tagSkillClassName0541=Magus
+#tagSkillClassName0641=Hermit
+#tagSkillClassName0741=Gravekeeper
+#tagSkillClassName0841=Strategist
+#tagSkillClassName0941=Devout Disciple
+#tagSkillClassName1041=Outcast
+#tagSkillClassName4041=Wanderer
+
+tagSkillClassDescription41=Behind the brutality left by the work of Berserkers, there is a a soft, yet brittle side of Kurn culture. Those who resisted the surge of Ch'thon worship, and nearly driven to extinction by it, Frigid Hunters are a rare band of Asterkarn outcasts living in seclusion and adhere to three strict tenets: swift, silent, and fatal. The bitter frost of Amatok are but a plaything to them, able to infuse their deadly arsenal with its bone-chilling cold or harness it into brutal winds. Heavy spears and massive long-ranged weapons are their favored tools of mercy, though their mastery of the cold can always make do with whatever weapon in their hands.^n^sCreated by Hill-op for the Swampdweller Mod.
+
+
+tagHunterMasteryBarDescription=Mastery over the power of cold, the three tenets, and faith of a certain deity. ^n^n^cBehind the brutality left by the work of Berserkers, there is a a soft, yet brittle side of Kurn culture. Those who resisted the surge of Ch'thon worship, and nearly driven to extinction by it, Frigid Hunters are a rare band of Asterkarn outcasts living in seclusion and adhere to three strict tenets: swift, silent, and fatal. The bitter frost of Amatok are but a plaything to them, able to infuse their deadly arsenal with its bone-chilling cold or harness it into brutal winds. Heavy spears and massive long-ranged weapons are their favored tools of mercy, though their mastery of the cold can always make do with whatever weapon in their hands.^n^sCreated by Hill-op for the Swampdweller Mod.
+
+## primary skills
+tagHunterSkill01=Gelid Gale
+tagHunterSkill02=Fury of the Heavens
+tagHunterSkill03=Fracturing Ice
+tagHunterSkill04=Flesh Burst
+tagHunterSkill05=Puncture
+tagHunterSkill06=Mortal Injury
+tagHunterSkill07=Arctic Impalement
+tagHunterSkill08=Frozen Domain
+tagHunterSkill09=Amatok's Cryogenic Winter
+tagHunterSkill10=Frigid Fracture
+tagHunterSkill11=Ice Totem
+tagHunterSkill12=Empyrion's Will
+tagHunterSkill13=Bitter Winter
+tagHunterSkill14=Hunter's Tenacity
+tagHunterSkill15=Light's Descent
+tagHunterSkill16=Shroud of the Pale Snow
+tagHunterSkill17=Frozen North
+tagHunterSkill18=Ghost of Asterkarn
+tagHunterSkill19=Relentless Hunt
+tagHunterSkill20=Butcher
+tagHunterSkill21=Pressure Point
+tagHunterSkill22=Empyrion's Guidance
+tagHunterSkill23=Will of the Skies
+tagHunterSkill24=Way of the Hunter
+tagHunterSkill25=Grasp of Winter
+tagHunterSkill26=Tendon Sever
+tagHunterSkill27=Ice Armaments
+tagHunterSkill28=Cold Steel
+tagHunterSkill29=Unwavering Tempest
+tagHunterSkill30=Divine Blessing
+tagHunterSkill31=Glacial Veil
+tagHunterSkill32=Lethal Toss
+
+tagHunterSkill01Description=^b[Attack] [Channeled] [Fragmenting]^n^o[Ranged]^n^n^wThe pinnacle art of frigid hunters, overcharge your ranged weapon with the freezing winds of Amatok, releasing a massive barrage of ice-infused bullets that shatter into shards of brittle ice for as long as you can hold it. ^oRequires a one-handed ranged weapon or a two-handed ranged weapon. Dual wielding will not benefit from increased rate of fire.
+tagHunterSkill02Description=^b[Transmuter]^n^n^wSanctify your bullets in the name of Empyrion, letting the bullets become the embodiment of fury from the heavens towards evil spirits and ch'thonians alike.
+tagHunterSkill03Description=^b[Modifier]^n^n^wImbue your ammunition with even more ice, causing them to shatter at a much bigger radius and cause collateral destruction. 
+tagHunterSkill04Description=^b[Modifier] [Penetrating]^n^n^wWith each shot hit, the creeping chill of Amatok spreads into your prey's body, creating frozen tissue that causes internal decay and making way for the bullet to go through the target.
+tagHunterSkill05Description=^b[Nova] [AOE] [Movement]^n^o[Two-Handed Melee]^n^n^wHunt your enemies as if they were prey, jumping up high into the sky before descending into the ground with a strike so cold and powerful as to leave a mark of ice into the ground - and a mess of anything caught within it's impact. ^oRequires a two-handed melee weapon.
+tagHunterSkill06Description=^b[Transmuter]^n^o[Two-Handed Spear]^n^n^wMasters of the art of hunting with a spear, do a special maneuver using your spear upon descending into the target's heart, opening up a mortal wound that nearly guarantees the death of the target. ^oRequires a two-handed spear. 
+tagHunterSkill07Description=^b[Modifier]^n^n^wAs if the fractured ice upon your arrival is not enough, you enchant your weapon with black ice beforehand, causing deadly shards to form on hit and impale your target directly from inside their body.
+tagHunterSkill08Description=^b[Player Scaled Pet] [Buff] [Debuff] [Aura] [Immobile]^n^n^wThe cold winds of Asterkarn is both the blessing of Amatok, as well as it's most deadly weapon. By it's will, conjure a burst of freezing cold winds at a target location. The harsh chill will empower you and weaken your adversaries until they all freeze to death. ^oThe winds scale with player damage bonuses.
+tagHunterSkill09Description=^b[Pet Skill] [Modifier]^n^n^wBorrow even more power from the winter spirit Amatok, causing the cold winds to drop temperatures below zero, exposing your enemies to the elements and pulling them closer to the embrace of death.
+tagHunterSkill10Description=^b[Pet Skill] [Nova] [AOE]^n^n^wThe domain overflows with power. After a brief period, the location will burst in an explosion of ice shards, freezing your enemies into their very bones.
+tagHunterSkill11Description=^b[Player Scaled Pet] [Projectile Drop]^n^n^wThe sister structure to the ever popular storm totem, practiced by Icecallers and Frigid Hunters alike, Conjure forth a totem so cold that they carry with them the harsh blizzard of the north, raining merciless shards of ice directly at your enemies. ^oIce Totems scale with player damage bonuses.
+tagHunterSkill12Description=^b[Transmuter]^n^n^wTurn the totem into a focus of prayer towards Empyrion, and let it rain down heavenly justice from the very heavens.
+tagHunterSkill13Description=^b[Spell] [Projectile] [Penetrating]^n^n^wDeadly hunting technique perfected by frigid hunters of the north. By utilizing their control over cold and ice, they have created the ability to conjure what they call as black ice, ice so hard and deadly that even flesh and bone shatter into bits upon contact with it's edge. By utilizing said techniques, conjure forth a spear made of pure black ice in your hand before throwing the spear directly at your prey, piercing through any and all other creatures unfortunate to be in the path between you and your target.
+tagHunterSkill14Description=^b[Modifier]^n^n^wImprove your skill in the arts of rapid black ice creation, increasing lethality of your conjured spear and reducing the downtime between each throw.
+tagHunterSkill15Description=^b[Transmuter]^n^n^wDuring the initial surge of Ch'thonic worship, many frigid hunters would start to show that their devotion not only goes towards Amatok, but also towards Empyrion. With the power of light and the fury of the heavens, they would smite forth the bloodsworn with a recreation of the spear wielded by Empyrion when he shattered his father into a thousand-thousand pieces.
+tagHunterSkill16Description=^b[Buff] [Timed]^n^n^wGrandhunter Kahzan, dubbed the Pale Snow, was a very influential hunter that has devised many ways to use the cold as cover against enemy forces. When trapped, he would conjure a storm of pale, white snow that envelops his body like a cloak, protecting him from any attacks for as long as the cloak lasts.
+tagHunterSkill17Description=^b[Spell] [Debuff] [AOE]^n^n^wThe cold of the north is not something that outsiders should ever underestimate. One gush of cold wind is enough to pierce through any clothing and shattering any armor, let alone a powerful blizzard. By channeling those winds onto a designated location for a brief moment, shatter any armor into a thousand pieces and cause anyone caught within to suffer intense frostbite.
+tagHunterSkill18Description=^b[Buff] [Timed]^n^n^wInexperienced travelers would often call a frigid hunter as ghosts that haunt the mountains of Asterkarn, killing with such lethality that they would seem to rip the soul of their prey and bring it to them in the realm of death. By fixating all your thoughts into visualizing the death of your prey, enter a very brief state of trance that increases your ability to maximize weak spots and finish of your prey in one strike, as if the grim reaper itself. ^oThis skill lasts for a very brief period and may need some timing to maximize it's potential. Certain skills such as Puncture cannot benefit from this skill because of their inability to allow casting this skill during their animation. This skill removes the ability to apply damage-over-time effects for it's duration.
+tagHunterSkill19Description=^b[Modifier]^n^n^wThe hunt continues, focusing your mind to attack your target in a relentless assault of lethal strikes until no one is left standing.
+tagHunterSkill20Description=^b[Attack Replacer]^n^n^wAs a hunter, it is essential to know the anatomy of your prey to be able to cut their carcass with utmost efficiency. Though with sufficient practice, the unconventional frigid hunter can attempt to butcher a still living prey by utilizing the cold to disable the target with each strike. ^oWhen used as your default weapon attack, Butcher inflicts additional damage.
+tagHunterSkill21Description=^b[Modifier]^n^n^wStrike at your foes' weak spots, crippling them and weakening their body from your deadly execution.
+tagHunterSkill22Description=^b[Exclusive] [Buff]^n^n^wWith devout devotion, Empyrion has recognized your presence from the universe beyond, granting you his light that shall guide you through the dark battle against the bloodsworn.
+tagHunterSkill23Description=^b[Exclusive] [Buff]^n^n^wThe spirits of Asterkarn have recognized your powers, and have decided that you will be their avatar. With their power, spread the cold winds of the north with your every step, sure to freeze your enemies to their core.
+tagHunterSkill24Description=^b[Passive]^n^o[Two-Handed Spear] [Two-Handed Ranged]^n^n^wWhen berserkers reveled in mindless destruction of their enemies using two weapons, Frigid Hunters loathed fighting for long and have adopted to instead end conflicts quickly and swiftly. With years of collective knowledge, they have honed their ways of the spear and hunting that makes them equally lethal opponent to that of a talented berserker. ^oThis is a two-handed spear or a two-handed ranged weapon bonus.
+tagHunterSkill25Description=^b[Weapon Pool Skill] [Nova] [AOE] [Fragmenting]^n^o[Two-Handed Spear] [Two-Handed Ranged]^n^n^wOne of the very first rites taken by a young hunter. Channel immense power of winter into your weapon, and release it in with a powerful strike that will show outsiders the true power of Amatok. ^oRequires a two-handed spear or a two-handed ranged weapon and activates off of default weapon attacks. When used with a spear, sweep the area around you with cold winds, hitting multiple enemies. When used with a two-handed ranged weapon, shoot an ice-infused shot, exploding upon impact in a blast of shattering ice. 
+tagHunterSkill26Description=^b[Weapon Pool Skill] [Buff]^n^o[Two-Handed Spear] [Two-Handed Ranged]^n^n^wA common technique among skilled hunters, Target the weakest part of your enemy in an attempt to incapacitate them in a single strike. Any spilled blood will then be infused into your weapon as black ice, strenghtening your subsequent attacks. ^oRequires a two-handed spear or a two-handed ranged weapon and activates off of default weapon attacks.
+tagHunterSkill27Description=^b[Buff]^n^n^wFrigid Hunters are chosen people of the winter spirit Amatok, capable of manipulating the harsh cold and cruel winter that haunts the mountains of the north into deadly weapons and powerful defenses. One of the most basic things a hunter would do is to imbue their arsenal with the power of winter, empowering their already powerful equipment with the endurance and lethality of a thousand deadly avalanches.
+tagHunterSkill28Description=^b[Modifier]^n^n^wThe cold seeps into the smallest particle of your weapon, enhancing your weapons even further as the ice created by the cold air turns into black ice, encasing your weapons with sharp, jagged, layer of lethal intents
+tagHunterSkill29Description=^b[Modifier]^n^n^wThe air around you drops into subzero as your weapons are frozen, forming a tempest that empowers you, increasing resistance to the cold and making you more agile and deadly.
+tagHunterSkill30Description=^b[Passive]^n^n^wThe blessing of Empyrion knows no bounds, as long as you are devout to him. Even this small blessing bestowed upon you is capable of empowering your strength beyond mortal limits.
+tagHunterSkill31Description=^b[Buff] [Timed] [Circuit Breaker]^n^n^wA secret technique only known among northeastern hunters. When in dire need, envelop your skin with a thin layer of black ice, capable of glancing blows away and boosting agility for just long enough for them to reposition and take control of the battlefield once more.
+tagHunterSkill32Description=^b[Transmuter]^n^n^wYour mastery of the spear translates to your ability to wield and conjure even sharper black ice spears, increasing the lethality of each spear thrown. ^oRequires a two-handed spear.
+
+##misc names
+tagHunterSkill11Attack=Rain of Ice
+tagHunterSkill08Attack1=Freezing Winds
+tagHunterSkill08Attack2=Empowering Cold
+tagHunterSkill08Attack2Description=The cold empowers your every step.
+
+tagHunterSkill11alternate=Radiant Totem
+tagHunterSkill11Attackalternate=Ray of Light
+
+tagSwampIceTotemPetScaling=^oIce Totems scale with pet bonuses.
