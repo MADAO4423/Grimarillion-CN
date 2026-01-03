@@ -1,0 +1,201 @@
+tagSwampBlacksmith=Thornelius
+tagSwampBlacksmithTitle=The Vine Weaver
+tagSwampBlacksmith_DESC01={}Weave Crafting
+tagSwampBlacksmith_DESC02=Thornelius can use it's magic vines to warp items into alternate variants, gaining properties that differ from this world. Thornelius can also weave shards that refract endless possibilities from other shattered worlds and bring those entities shown in the shards to this world.
+tagSwampBlacksmith_DESC03=
+tagSwampBlacksmith_DESC04=Thornelius cannot grant equipment bonuses.
+
+
+tagSwampBlacksmithItem=Peculiar Seed
+tagSwampBlacksmithItemDescription=An odd seed that seems to bend the space around it, maybe by pinching hard enough can evoke something? ^oSummons Thornelius, who can give access to swampdweller gear.^n^n^bSwampmod Ver. 2.1.1 - Refractions Hotfix
+tagSwampBlacksmithCurrency=Threads of Reality
+tagSwampBlacksmithRecipe01=Weave Swamp Legendary Item
+tagSwampBlacksmithRecipe02=Weave Swamp Monster Infrequent Item
+tagSwampBlacksmithRecipe03=Weave Swamp Relic
+tagSwampBlacksmithRecipe04=Forge Steel Halberd
+tagSwampBlacksmithCurrencyDescription=A fragment of torn realities that seem to manifest itself into a string-like shape, maybe a certain entity beyond the veil may make use of it? ^n^oThreads of Realities has a chance to drop from any enemy that you defeat, including inside the Shattered Realm. Threads are used by Thornellius to weave certain items into vinewarped variants as well as to weave other items
+tagSwampBlacksmithRecipeDescription01=Let Thornelius weave a legendary item of unknown origin using your iron and threads as fuel for his vines. The item woven will depend on your level and will always have a Swampdweller or Frigid Hunter modifier, be it in the set bonus or on the item itself. Thornelius might occasionally weave some odd items however...
+tagSwampBlacksmithRecipeDescription02=Let Thornelius weave a monster's item of unknown origin using your iron and threads as fuel for his vines. The item woven will depend on your level and will always have a Swampdweller or Frigid Hunter modifier.
+tagSwampBlacksmithRecipeDescription03=Let Thornelius weave a relic of unknown origin using your iron and threads as fuel for his vines. The item woven will depend on your level (Rare < lv30, Epic <55, Legendary otherwise) and will always have a swampdweller modifier. ^oCurrently there are only a bunch of relics, all of them are legendary tier and thus you will be able to obtain them even at level 1.
+tagSwampBlacksmithRecipeDescription04=Let Thornelius forge a Steel Halberd using your iron and scrap as fuel for his vines. The item forged will have random affixes and stats based on your level. Steel Halberd counts as a two-handed spear for skills and other things
+
+tagSwampVinewarped=Vinewarped
+
+tagSwampRelicLEG01=Hex
+tagSwampRelicLEG02=Primordial Hunger
+tagSwampRelicLEG03=Stargazer
+tagSwampRelicLEG04=Sunshower
+tagSwampRelicLEG05=Butterfly
+tagSwampRelicDescriptionLEG01="None shall be able to cleanse this deliberating curse."
+tagSwampRelicDescriptionLEG02="The will of the primordial hunger spirit, made manifest."
+tagSwampRelicDescriptionLEG03="Stars come and go, yet those who gaze them remain."
+tagSwampRelicDescriptionLEG04="I worry that this seeping rain may leak through the umbrella"
+tagSwampRelicDescriptionLEG05="Let it go, and sink gentle into the deep, restful night."
+
+tagSwampRelicSkillLEG01=Deliberating Hex
+tagSwampRelicSkillLEG02=Primordial Surge
+tagSwampRelicSkillLEG03=Stardust
+tagSwampRelicSkillLEG04=Ray of Sun After Rain
+tagSwampRelicSkillLEG05=The Living and The Departed
+tagSwampRelicSkillDescriptionLEG01=Cast a cruel, contagious curse that robs the subject of their capability, shredding their defenses. 
+tagSwampRelicSkillDescriptionLEG02=The primordial spirit infests into your body for but a fleeting moment, granting immense speed and power at the cost of your flesh.
+tagSwampRelicSkillDescriptionLEG03=A fickle dust from the stars blinds and disorients your enemies as they are unable to resist its mesmerizing glow.
+tagSwampRelicSkillDescriptionLEG04=As the clouds converge away from themselves, the light of Empyrion descends towards your nearby enemies like how water showers at rain. A strong umbrella capable of widstanding such searing light is recommended.
+tagSwampRelicSkillDescriptionLEG05="What unfortunate, tragic children they are... I can do nothing but mourn for them."
+
+TagSwampItemMI01=Spectral Lance
+TagSwampItemMI02=Bonereaper
+TagSwampItemMI03=Acidic Casque
+TagSwampItemMI04=Ice of the North
+TagSwampItemMI05=Aetherial Pike
+TagSwampItemMI06=Rift-scourge Needles
+TagSwampItemMI07=Dermapteran Stingers
+TagSwampItemMI08=Bloodsworn Infiltrator
+TagSwampItemMI09=Groble Doom Effigy
+TagSwampItemMI10=Troll Meat Tenderizer
+TagSwampItemMI11=Abaddoth's Preachment
+TagSwampItemMI12=Spectral Knife
+
+TagSwampItemMI11Description="Holy scripture consisting of pre-written sermons and his disciple's testimonies personally compiled by Abaddoth, High Priest of Menhir."
+TagSwampItemMI12SkillDescription=Long lost techniques of ancient Arkovian knife handling arts. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
+
+TagSwampItemLEG01=Flower of Putrid Blossom
+TagSwampItemLEG02=Tooth of the Lost
+TagSwampItemLEG03=Mythical Tooth of the Lost
+TagSwampItemLEG04="Umbrella" of Myriad Manifestations
+##do not erase below##########
+tagSwampItemDescription04="Favored weapon of the wanderer known as "Grim", who has reached esteemed glory by utilising this very weapon."
+tagSwampItemSkillName04=Delivery Gun
+tagSwampItemSkillDescription04=Manifest the "Umbrella" as a cannon, shooting a cannonshot.
+##do not erase above##########
+TagSwampItemLEG05=Hexan's Acid Blaster
+
+TagSwampItemSET01LEG01=Armor of the Unbound
+TagSwampItemSET01LEG02=Symbol of the Apex Predator
+TagSwampItemSET01LEG03=Eye of the Unchained
+TagSwampItemSET01LEG04=Primal Hunger
+TagSwampItemSET01LEG05=Ornaments of the Final Hunter
+TagSwampItemSET02LEG01=The Runner's Disguise
+TagSwampItemSET02LEG02=The Runner's Scarf
+TagSwampItemSET02LEG03=The Runner's Surcoat
+TagSwampItemSET02LEG04=The Runner's Swift Boots
+TagSwampItemSET03LEG01=Baan's Flaming Plates
+TagSwampItemSET03LEG02=Baan's Runecarved Gauntlets
+TagSwampItemSET03LEG03=Baan's Runecarved Shoulderguards
+TagSwampItemSET03LEG04=Baan's Flaming Heresy
+TagSwampItemSET04LEG01=Mask of the Black Death
+TagSwampItemSET04LEG02=Roots of Poison
+TagSwampItemSET04LEG03=Fibers of Death
+TagSwampItemSET04LEG04=Incantations of Pestilence
+TagSwampItemSET05LEG01=Bladesinger's Raiment
+TagSwampItemSET05LEG02=Bladesinger's Mantle
+TagSwampItemSET05LEG03=Bladesinger's Medal
+TagSwampItemSET05LEG04=Bladesinger's Catalyst
+TagSwampItemSET06LEG01=Northern Cowl
+TagSwampItemSET06LEG02=Northern Skins
+TagSwampItemSET06LEG03=Northern Mantle
+TagSwampItemSET06LEG04=Northern Gloves
+TagSwampItemSET06LEG05=Northern Gale
+TagSwampItemSET07LEG01=The Queen's Frozen Crown
+TagSwampItemSET07LEG02=The Queen's Vestments
+TagSwampItemSET07LEG03=The Queen's Cold Mantle
+TagSwampItemSET07LEG04=The Queen's Frozen Codex
+TagSwampItemSET08LEG01=Light, Revealed
+TagSwampItemSET08LEG02=Darkness, Enshrouded
+TagSwampItemSET08LEG03=Light, Extinguished
+TagSwampItemSET08LEG04=Darkness, Pierced
+TagSwampItemSET09LEG01=Coat of the One Who Dreamt
+TagSwampItemSET09LEG02=Pauldrons of the One Who Dreamt
+TagSwampItemSET09LEG03=Talisman of the One Who Dreamt
+TagSwampItemSET09LEG04=Crystallized Hardblood of the One Who Dreamt
+TagSwampItemSET10LEG01=Hood of Thorns
+TagSwampItemSET10LEG02=Shroud of Thorns
+TagSwampItemSET10LEG03=Mantle of Thorns
+TagSwampItemSET10LEG04=Gloves of Thorns
+TagSwampItemSET11LEG01=Windcaller
+TagSwampItemSET11LEG02=Iceshooter
+
+TagSwampSET01=Ravager's Gifts
+tagSwampSET02=The First Runner
+tagSwampSET03=Baan's Legacy
+tagSwampSET04=The Black Death
+tagSwampSET05=The Bladesinger
+tagSwampSET06=Pinnacle Hunter
+tagSwampSET07=Queen Sal'Es' Decree
+tagSwampSET08=White Flash
+tagSwampSET09=Sanguineous Kin's Dream
+tagSwampSET10=Kindred of Thorns
+tagSwampSET11=Frozen Flurry
+tagSwampSET12=
+tagSwampSET13=
+tagSwampSET14=
+tagSwampSET15=
+tagSwampSET16=
+
+TagSwampDescriptionSET01="Artifacts bestowed by a past Ravager to his chosen avatar. They say that these artifacts have tendencies to make the user gain unquenchable hunger, and unfathomable powers."
+tagSwampDescriptionSET02="In the early days of the Black Legion's service, no soldier was really able to break the spell that binds their will, until the first deserter shattered that ideal."
+tagSwampDescriptionSET03="Legendary gear worn by Executioner Baan, famous for his fantastical shows of untamed flames that fly around every time he would held an execution."
+tagSwampDescriptionSET04="The manifestation of one of nature's ultimate cleansing tools, dubbed the "Black Death", the plague that shall strike down those who dare harm nature."
+tagSwampDescriptionSET05="Vatale 'Blade Maestro' Ezra was once the most dreaded of people feared for her mastery over phantom blades, Nobody knows what had truly happened to her, but her equipment left behind has been sought after by many Nightblades after her sudden disappearance."
+tagSwampDescriptionSET06="Armor of the wandering soul of the greatest hunter, rumored to have ascended beyond the heavens itself."
+tagSwampDescriptionSET07="Sal'Es, the Queen of Ice, has mastered the way of freezing the air around her within an instant. Her ultimate display of power was an act she would call "My Final Decree", which involves showering her enemies with a thousand deadly icicles all without lifting a finger."
+tagSwampDescriptionSET08="Arsenal of Inquisitor Weirzh, researcher of the occult and shamanic practices. The gear he developed was said to be able to cut through light and dark, and grant him unmatched speed and accuracy."
+tagSwampDescriptionSET09="██████, I have conceived an idea most ingenious!"
+tagSwampDescriptionSET10="Being one with nature means to be one with it's entangling vines."
+tagSwampDescriptionSET11="It is said that the original wielder of these guns was not a fan of preserving bullets for later use." ^oWhen 2-piece set bonus activates, Gelid Gale can be used while dual-wielding.
+tagSwampDescriptionSET12=
+tagSwampDescriptionSET13=
+tagSwampDescriptionSET14=
+tagSwampDescriptionSET15=
+tagSwampDescriptionSET16=
+
+TagSwampSET01low=Ravager's Toys
+tagSwampSET02low=The Runner
+tagSwampSET03low=Baan's Equipment
+tagSwampSET04low=The Plague
+tagSwampSET05low=Bladecaller
+tagSwampSET06low=Tundra Hunter
+tagSwampSET07low=
+tagSwampSET08low=White Streak
+tagSwampSET09low=
+tagSwampSET10low=
+tagSwampSET11low=
+tagSwampSET12low=
+tagSwampSET13low=
+tagSwampSET14low=
+tagSwampSET15low=
+tagSwampSET16low=
+
+TagSwampDescriptionSET01low="Weak toys bestowed by a past Ravager to his followers. They say that these items have tendencies to make the user go mad."
+tagSwampDescriptionSET02low="Desertion isn't all that rare during the wars that the Erulan Empire faced. The method of desertion, however, had one thing in common. They involve a certain technique of running away as if to nullify some sort of spell."
+tagSwampDescriptionSET03low="Equipment worn by Executioner Baan during his early career as an Executioner. Known to have been burnt and repaired more than a hundred times."
+tagSwampDescriptionSET04low="One of nature's most powerful weapons, made manifest as a set of artifacts."
+tagSwampDescriptionSET05low="Equipment forged to be as similar as the one used by the legendary killer Vatale, it may still be just a counterfeit, but to say it is weak is like saying a sharp knife can't cut through butter."
+tagSwampDescriptionSET06low="Hunters of the north always come prepared, be it with their weapons or the gift of Amatok channeled into their gear."
+tagSwampDescriptionSET07low=
+tagSwampDescriptionSET08low="Recreations of the legendary arsenal made by Inquisitor Weirzh. While not as powerful as the original, this standard-issued inquisitor gear has been proven worthy of the recognition it deserves."
+tagSwampDescriptionSET09low=
+tagSwampDescriptionSET10low=
+tagSwampDescriptionSET11low=
+tagSwampDescriptionSET12low=
+tagSwampDescriptionSET13low=
+tagSwampDescriptionSET14low=
+tagSwampDescriptionSET15low=
+tagSwampDescriptionSET16low=
+
+tagSwampItemSkillDescription01=The eye links into your vision. With it's unflinching gaze, find an opening within a blink to tear down your adversary in a flash. ^oRequires a melee weapon.
+
+tagSwampItemSet08Skill02=Pierce Light and Dark
+tagSwampItemSet08Skill02autocast=Bullet Spray
+tagSwampItemSet08Skill01=Quickdraw
+tagSwampItemSet08Skill03=Double Handling
+tagSwampItemSet08SkillDescription02=While Inquisitor Weirzh was not known for his strength, his speed and accuracy in shooting is said to have been as fast as the speed of light, and as accurate as an elite sniper. ^oThis is a ranged technique. Scales with cast speed.
+tagSwampItemSet08SkillDescription01=Upon finding an opening, shoot an additional time for maximum efficency
+tagSwampItemSet08SkillDescription03="Researchers needs a keen eye capable of finding solutions towards their problems. What solves a horde of cultists standing between my research? Of course double the bullets." ^oEnables the ability to dual wield ranged weapons.
+
+
+tagSwampItemSet06Skill01=Rain of Bolts
+tagSwampItemSet06SkillDescription01=In a flash, as cold snow falls from the sky, so shall a flurry of bolts from the sky descend towards your enemies.
+
+tagSwampItemSet09Skill01=Hardblood Spearblades
+tagSwampItemSet09SkillDescription01=After drawing blood from your surroundings, coagulate nearby blood into a barrage of razor sharp spears that looks akin to blades that impales those who dare harm your family. ^oAfter channeling for 0.52s, Hardblood Blades begins dealing damage and draining energy every 0.12s. You cannot rotate your character during channeling and moving ends the ability early. Scales with Cast Speed.^n^n^r"My Name... Is Don Quixote!"

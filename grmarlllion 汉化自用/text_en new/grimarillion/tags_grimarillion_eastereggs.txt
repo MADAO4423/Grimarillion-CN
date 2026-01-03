@@ -1,0 +1,154 @@
+##########################################################################
+			Halloween Event
+##########################################################################
+
+tagJackolanternNoteTitle1=^oThe Pumpkin Story
+tagJackolanternNoteTitle2=^oThe Pumpkin Prank
+tagJackolanternNoteTitle3=^oThe Spiraling Vine
+
+tagJackolanternNote1=An innocent prank, or so we thought at first. However... the decorated pumpkins multiplied. We thought maybe someone was having fun, just putting out some jack-o-lantern's to decorate our little Homestead, trying to lift our spirits in these dark times. ^n^n1 pumpkin...^n2 pumpkins...^n4 pumpkins...^n^nSoon enough we were throwing them out because there was so many. We even sent some to Devil's Crossing. Where are they coming from? We've had a few meetings and no one knows. When no one is looking, a new one appears, as if from nothing.^n^nOne of the patrols mentioned seeing some out in the pumpkin fields nearby as well, so it's not just the town, though I'm not sure if we should feel relieved or not.^n^nIs it an omen? ^n^nWhatever it is - it feels like they are watching us...
+
+tagJackolanternNote2=God damnit, is this some kind of sick joke? We ask the folks over at Homestead to send us food and what do they send? ^nJack-o'-Lanterns?? ^nThese aren't even edible! The hell are we supposed to do with these things? These pumpkins are empty inside, no meat whatsoever and the husk is hard like a rock. Can't believe they sent this here... ^n^nIf we weren't so busy with trying to survive, we should go over there and kick someone's ass for this prank! Wasting food like this... 
+
+tagJackolanternNote3=Date: October 31^nLocation: Homestead Pumpkin Field^nShift: 1200 - 2300 ^n^n 1200-1600:^nWe've been talking - the other guards and myself. We've noticed the pumpkins, where they are coming from. It's in the field, there's somethign weird going on. We drew straws and it looks like I'll be investigating tonight. 1700:^nThe field wall was broken, so I walked in to check out the source of these jack-o'-lanterns but... something isn't right. The lanterns were watching me at the field wall, actually watching me. I felt their gaze as I walked by, their pumpkin forms turning to keep watch as I approached. I entered the field anyway, and... it's surreal. Some other people must have been drawn into this area as well, there are blood stains and bones everywhere, saturated into the soil, under rocks - everywhere. Stranger still, there is a pumpkin vine here but it seems to grow up from under a rock and spiral outwards, I've never seen a pumpkin vine shaped into a spiral but there it is. ^n^n1900: I've been inspecting the field for 2 hours now and I've noticed more pumpkins appearing around me, as if growing from the vine and watching me. They're actually moving! I decided to barricade the wall as best I could, but I don't think it will stop them. I think if someone doesn't do something, this could be bad, but I don't think I will be any help, judging by how these lanterns are staring at me...
+
+tagPumpkinNPC001=Lumina
+tagPumpkinNPC001_DESC01=Lumina will take your candy and give you treats in return.
+tagPumpkinNPC001_DESC02=^n
+tagPumpkinNPC001_DESC03=^n
+tagPumpkinNPC001_DESC04=^n^nLumina will leave the hideout in several weeks, you best buy up her goods before Christmas!
+tagPumpkinNPC001Profession=Candy Exchanger
+
+tagPumpkinA01=Haunted Lanternkin
+tagPumpkinB01=Hulking Lanternkin
+tagPumpkinB02=Jester Lanternkin
+tagPumpkinC01=Lanternkin Totem
+tagPumpkinC01A=Crawling Lanternkin
+tagPumpkinD01=Crown Prince, King of the Lanternkin
+tagPumpkinD02=Blue Doll, the Frozen Lanternkin
+tagPumpkinD03=Porcelein Doll, the Princess of the Lanternkin
+tagPumpkinD04=Moonshine, the Pale Titan
+tagPumpkinD05=Sunlight, the Brilliant
+
+tagFactionUser17=Lanternkin
+tagRace018=Lanternkin
+
+tagPumpkinMateria=Pumpkin Candy
+tagPumpkinMateriaDEBUG=Pumpkin ERROR
+tagPumpkinMateriaFlavor=Candy? Maybe don't pick up random candy you find from monsters...
+tagPumpkinMateriaFlavorDEBUG=You weren't supposed to be able to find this... just drop it.
+
+tagHalloweenEventTOKEN=Delicious Pumpkin Soup
+tagHalloweenEventTOKENDESC=It smells so good, surely this scent will be impossible to ignore... ^n^oKeep this in your inventory if you want to participate in the Grimarillion Halloween Event. 
+tagPumpkinZone=Strange Pumpkin Field
+
+tagPumpkinVendorDesc=You may trade Lumina candies for various treats.
+tagPumpkinHeadCosmeticA=Sadistic Jack-o'-Lantern Head
+tagPumpkinHeadCosmeticB=Joyful Jack-o'-Lantern Head
+tagPumpkinHeadCosmeticC=Hungry Jack-o'-Lantern Head
+tagPumpkinMedalA=Badge of the Sadistic Jack-o'Lantern
+tagPumpkinMedalB=Badge of the Joyful Jack-o'Lantern
+tagPumpkinMedalC=Badge of the Hungry Jack-o'Lantern
+
+tagPumpkinConsumableB01=Triamble's Halloween Orb
+tagPumpkinConsumableB02=Jarrahdale's Halloween Orb
+tagPumpkinConsumableB03=Moranga's Halloween Orb
+tagPumpkinConsumableB04=Kikuza's Halloween Orb
+tagPumpkinConsumableB05=Chioggia's Halloween Orb
+tagPumpkinConsumableB06=Lumina's Halloween Juice
+
+tagPumpkinConsumableB01Desc="An eerie orb that seems to stare back at you... a haunted spirit seems to dwell inside." 
+tagPumpkinConsumableB02Desc="An eerie orb that seems to stare back at you... a jester spirit seems to dwell inside." 
+tagPumpkinConsumableB03Desc="An eerie orb that seems to stare back at you... a hulking spirit seems to dwell inside." 
+tagPumpkinConsumableB04Desc="An eerie orb that seems to stare back at you... a spider spirit seems to dwell inside." 
+tagPumpkinConsumableB05Desc="An eerie orb that seems to stare back at you... a totem spirit seems to dwell inside." 
+tagPumpkinConsumableB06Desc="A beverage made from candies and haunted pumpkins... this can't be good."
+
+tagPumpkinB01Pet=Haunted Lanternfriend
+tagPumpkinB02Pet=Jester Lanternfriend
+tagPumpkinB03Pet=Hulking Lanternfriend
+tagPumpkinB04Pet=Spider Lanternfriend
+tagPumpkinB05Pet=Totem Lanternfriend
+
+tagPumpkinB01Pet_Skill=Spooky Pumpkin
+tagPumpkinB02Pet_Skill=Jester's Dance
+tagPumpkinB03Pet_Skill=Anger!
+tagPumpkinB04Pet_Skill=Crawl
+tagPumpkinB05Pet_Skill=Bounce
+
+##########################################################################
+			Winter Event
+##########################################################################
+
+tagFactionUser18=Winterkin
+tagRace019=Winterkin
+
+tagGnomeA01=Fjosnissen 
+
+tagGiftboxMateria=Gingerbread Box
+tagGiftboxMateriaDEBUG=Gingerbread ERROR
+tagGiftboxMateriaFlavor=An adorable little box made from gingerbread... the fjosnissen gifted this to you.
+tagGiftboxMateriaFlavorDEBUG=You weren't supposed to be able to find this... just drop it.
+
+tagGrimarillionConvertWinterShield01Name=Trade for updated Santa's Peppermint
+tagGrimarillionConvertWinterShield01Desc=Get rid of your old, outdated item for a new and improved one!
+tagGrimarillionConvertWinterSnowball02Name=Trade for updated Snowball
+tagGrimarillionConvertWinterSnowball02Desc=Get rid of your old, outdated item for a new and improved one!
+
+
+tagWinterEventTOKEN=Delicious Porridge
+tagWinterEventTOKENDESC=It smells so good, surely this scent will be impossible to ignore... ^n^oKeep this in your inventory if you want to participate in the Grimarillion Winter Event. 
+
+tagWinterConsumableB01=Peppermint Soda
+tagWinterConsumableB01Desc=It looks like some kind of drink or potion... 
+
+tagWinterUniqueSet=Santa's Garb
+tagWinterUniqueSetDesc="Ho Ho Ho"
+tagWinterUniqueHands=Santa's Gloves
+tagWinterUniqueHat=Santa's Hat
+tagWinterUniqueFeet=Santa's Boots
+tagWinterUniqueSuit=Santa's Winter Coat
+tagWinterUniqueShield=Santa's Peppermint
+tagWinterUniqueShieldDesc=It's really big peppermint.
+tagWinterUniqueWeapon=Santa's Cane
+tagWinterUniqueWeaponDesc="It's a pretty big candy cane..."
+tagWinterUnique2HWeapon=Santa's Deluxe Cane
+tagWinterUnique2HWeaponDesc="It's a huge candy cane!"
+tagWinterUniqueSnowball=*
+tagWinterUniqueSnowballDesc="A snowball? Ridiculous!"
+tagWinterUniqueSnowball2=Θ
+tagWinterUniqueSnowball2Desc="Outrageous, a snowball?!"
+tagWinterUniqueSet2=Santa's Armaments
+tagWinterUniqueSet2Desc="Sweet and savage."
+tagWinterUniqueShield2=The Greg
+tagWinterUniqueShield2Desc="A delicious cookie, perfect for... protecting yourself."
+tagWinterMiniPet01=Friendly Nisse
+tagWinterMiniPet02=Enchanted Gingerbread
+tagWinterMiniPetConsumable01=Risgrot
+tagWinterMiniPetConsumable02=Enchanted Gingerbread
+tagWinterMiniPetConsumable01Desc=A rice porridge offering for the nisse. Sorry about before Mister Elf!
+tagWinterMiniPetConsumable02Desc=One of the nisse's gingerbread boxes... this one seems different?
+tagWinterMiniPet01Skill=Grumble
+tagWinterMiniPet02Skill=Ginger Presence
+
+tagWinterUniqueShieldSkillName=Peppermint Guard
+tagWinterUniqueShieldSkillDesc=Toss Santa's enchanted jumbo-sized peppermint shield towards your foes, ricocheting it off their foreheads and freezing them in place to suffer in the candy-frost.
+tagWinterUniqueSetSkillPetName=Aura of Winter
+tagWinterUniqueSetSkillPetNameAura=Santa's Armaments surround you with a protective blizzard.
+tagWinterUniqueShield2SkillName=Tasty Cookie
+tagWinterUniqueShield2SkillDesc=While holding your shield up to block incoming attacks... take a bite out of your cookie. Mmm... Oreo...
+tagWinterUniqueWeaponSkillName=Sweet Deal
+tagWinterUniqueWeaponSkillDesc=Take a little taste every time you strike your foes... the sweetness restores you.
+tagWinterUnique2HWeaponSkillName=Candy Crash
+tagWinterUnique2HWeaponSkillDesc=Strike the ground and create a shockwave of candied ice, freezing your enemies to the bone.
+tagWinterUniqueSnowballSkillName=***
+tagWinterUniqueSnowballSkillDesc=Throw three snowballs at once!!!
+tagWinterUniqueSnowball2SkillName=Θ!!
+tagWinterUniqueSnowball2SkillDesc=Throw a powerful snowball!!!
+
+tagWinterNPC001=Chilly
+tagWinterNPC001_DESC01=Chilly will take your Gingerbread and give you treats in return.
+tagWinterNPC001_DESC02=^n
+tagWinterNPC001_DESC03=^n
+tagWinterNPC001_DESC04=^n^Chilly will leave the hideout in several weeks, you best buy up their goods before they leave!
+tagWinterNPC001Profession=Spirit of Winter

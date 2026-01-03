@@ -1,0 +1,214 @@
+
+tagSkillClassName15=D3 Necromancer
+tagSkillClassName0115=Dark Commander
+tagSkillClassName0215=Pyromaster
+tagSkillClassName0315=Demonologist
+tagSkillClassName0415=Deathblade
+tagSkillClassName0515=Aetherwalker
+tagSkillClassName0615=Beastmaster
+tagSkillClassName0715=Banisher
+tagSkillClassName0815=Deathlord
+tagSkillClassName0915=Dreadguard
+tagSkillClassName1015=Dark Ranger
+tagSkillClassName1115=Resurrector
+tagSkillClassName1215=Death Priest
+tagSkillClassName1315=Dark Mage
+tagSkillClassName1415=Dark Cleric
+tagSkillClassName3715=Dark Ranger
+
+tagSkillClassDescriptionNecromancer=Necromancers are masters of the dark arts. They summon the dead to fight for them, draw on life force and use it to strengthen or heal themselves. They also debilitate enemies with curses and rend anyone who stands in their way with deadly bone spells. ^n^sAdapted by Grimer for the Diablo 3 Mod
+
+#ClassNecromancer
+tagClassNecromancerSkillName00=D3 Necromancer
+tagClassNecromancerSkillDescription00="A new army of the dead will rise at my command."
+
+tagClassNecromancerSkillName01A=Bone Spikes
+tagClassNecromancerSkillDescription01A=Summon bone spikes from the ground dealing piercing and cold damage to all enemies in the area.
+
+tagClassNecromancerSkillName01B=Frost Spikes
+tagClassNecromancerSkillDescription01B=Bone spikes deals additional vitality damage and causes frostburn damage to your foes, slowing them for 3 seconds.
+
+tagClassNecromancerSkillName01C=Sudden Impact
+tagClassNecromancerSkillDescription01C=Damage is increased and enemies are stunned for a few seconds.
+
+tagClassNecromancerSkillName01D=Serration
+tagClassNecromancerSkillDescription01D=Increase the damage dealt by Bone Spikes and Bone Spear.
+
+tagClassNecromancerSkillName02A=Death Nova
+tagClassNecromancerSkillDescription02A=Unleash a Nova that deals acid and vitality damage to all enemies around you.
+
+tagClassNecromancerSkillName02B=Blight
+tagClassNecromancerSkillDescription02B=Death Nova poisons enemies with chance to make them fumble attacks for 3 seconds.
+
+tagClassNecromancerSkillName02C=Unstable Compound
+tagClassNecromancerSkillDescription02C=Damage and energy cost are reduced and Death Nova no longer has a cooldown.
+
+tagClassNecromancerSkillName03A=Grim Scythe
+tagClassNecromancerSkillDescription03A=Slash with a summoned scythe, dealing vitality and aether damage to enemies in front of you. ^oGrim Scythe requires a melee weapon and doesn't trigger WPS.{^n}{^n}{^y}Blood Scythe {^o}(Unlocked at Skill Level 16){^n}^w5% of the damage dealt is converted to health.
+
+tagClassNecromancerSkillName03B=Frost Scythe
+tagClassNecromancerSkillDescription03B=Damage is turned into cold. Grim Scythe gains chance to freeze enemies.
+
+tagClassNecromancerSkillName03C=Cursed Scythe
+tagClassNecromancerSkillDescription03C=Grim Scythe causes vitality decay damage and reduces the enemy's defensive ability for 3 seconds. Crit damage is increased.
+
+tagClassNecromancerSkillName03D=Dark Reaping
+tagClassNecromancerSkillDescription03D=After using Grim Scythe, you gain increased damage and deal additional vitality and aether damage to enemies. ^oThe bonus damage affects all your skills.
+
+tagClassNecromancerSkillName04A=Command Skeletons
+tagClassNecromancerSkillDescription04A=Raise a skeleton from the ground to fight by your side until it dies. ^oSkeletons scale with pet bonuses.{^n}{^n}{^y}Enforcer {^o}(Unlocked at Skill Level 16){^n}^wArmor of skeletons is increased by 80%.
+
+tagClassNecromancerSkillName04D=Enforcer
+
+
+tagClassNecromancerSkillName04B=Attack Damage
+
+tagClassNecromancerSkillName04C=Cold Arrows
+
+tagClassNecromancerSkillName05A=Frenzy
+tagClassNecromancerSkillDescription05A=Your minions go into a frenzy, gaining bonus speed, health regeneration and increased damage for 12 seconds.
+
+tagClassNecromancerSkillName06A=Skeleton Archer
+tagClassNecromancerSkillDescription06A=Raise a skeletal archer from the ground to fight by your side as long as it lives. ^oSkeleton Archer scales with pet bonuses.{^n}{^n}{^y}Freezing Grasp {^o}(Unlocked at Skill Level 12){^n}^wSkeleton Archers gain 10% chance to freeze enemies.
+
+
+tagClassNecromancerSkillName06B=Frost Bolt
+
+tagClassNecromancerSkillName07A=Bone Armor
+tagClassNecromancerSkillDescription07A=Gain resistance to vitality, physical and piercing damage. Bone Armor also absorbs part of the damage taken.{^n}{^n}{^y}Thy Flesh Sustained {^o}(Unlocked at Skill Level 12){^n}^wYour health regeneration is increased by 85%.{^n}{^n}
+
+tagClassNecromancerSkillName07B=Swift Harvesting
+tagClassNecromancerSkillDescription07B=Your offensive swiftness is improved.
+
+tagClassNecromancerSkillName08A=Leech
+tagClassNecromancerSkillDescription08A=Deals vitality damage to all cursed enemies, reducing their health regeneration and resistance to life leech.
+
+tagClassNecromancerSkillName09A=Frailty
+tagClassNecromancerSkillDescription09A=Weakens cursed enemies, decreasing their resistances and defensive ability.
+
+tagClassNecromancerSkillName10A=Decrepify
+tagClassNecromancerSkillDescription10A=Curses foes in a target area. The curse deals cold damage to enemies, reducing their movement speed and attack damage for a few seconds.{^n}{^n}{^y}Dizzying Curse {^o}(Unlocked at Skill Level 12){^n}^wCursed enemies have 15% chance to be confused.
+
+
+tagClassNecromancerSkillName10B=Crippling Curse
+
+tagClassNecromancerSkillName11A=Land of the Dead
+tagClassNecromancerSkillDescription11A=Increases all your damage and grants you bonus offensive ability. In the Land of the Dead, damage dealt to Undead and Aetherials is increased, while you also take less damage from them.{^n}{^n}{^y}Land of Plenty {^o}(Unlocked at Skill Level 12){^n}{^w}Healing effects are increased by 30% while you are in the Land of the Dead.
+
+tagClassNecromancerSkillName12A=Commander of the Risen Dead
+tagClassNecromancerSkillDescription12A=Increases your health, aether resistance and defensive ability. Your minions are also strengthened.{^n}{^n}{^y}Aberrant Animator {^o}(Unlocked at Skill Level 12){^n}{^w}Your minions gain 100% resistance to Confusion and Mind Control effects.
+
+tagClassNecromancerSkillName13A=Command Golem
+tagClassNecromancerSkillDescription13A=Raise a Bone Golem to fight for you. Bone Golem grants you and your allies damage absorption and bonus aether damage. When it dies or is reconjured, it leaves a tornado of bones that deals aether and vitality damage, confusing enemies in the area. ^oGolems scale with pet bonuses.
+
+tagClassNecromancerSkillName13B=Ice Golem
+tagClassNecromancerSkillDescription13B=Raise a Ice Golem to fight for you. Ice Golem grants you and your allies resistance to freeze effect, elemental resistance, and bonus cold damage. When it dies or is resummoned, it releases a frost nova that freezes enemies for 3 seconds.
+
+tagClassNecromancerSkillName13C=Blood Golem
+tagClassNecromancerSkillDescription13C=Raise a Blood Golem to fight for you. Blood Golem grants you and your allies increased health regeneration, bonus vitality damage and bleeding resistance. When it dies or is reconjured, it releases a bloody blast that heals all allies around.
+
+
+tagPetGolem=Bone Golem
+
+tagBoneGolem01=Aura of Might
+
+tagBoneGolem02=Aether Cleave
+
+tagBoneGolem03=Bone Tornado
+
+tagBoneGolem04=Aether Rush
+
+
+tagBloodGolem01=Bloody Aura
+
+tagBloodGolem02=Vital Cleave
+
+tagBloodGolem03=Healing Nova
+
+tagBloodGolem04=Bloody Rush
+
+
+tagIceGolem01=Frost Cleave
+
+tagIceGolem02=Frost Aura
+
+tagIceGolem03=Freezing Death
+
+tagIceGolem04=Ice Charge
+
+
+tagTrackerGolem=Current number of summoned Golems.
+
+
+tagClassNecromancerSkillName14A=Serration
+tagClassNecromancerSkillDescription14A=Increases the damage dealt by Bone Spear and Path of Bones.
+
+tagClassNecromancerSkillName15A=Bone Spear
+tagClassNecromancerSkillDescription15A=Launch piercing projectiles that deal acid and pierce damage to all enemies it passes through.{^n}{^n}{^y}Shatter {^o}(Unlocked at Skill Level 16){^n}^wBone Spear reduces the resistances of enemies by 20 for 3 seconds.
+
+tagClassNecromancerSkillName15B=Blighted Marrow
+tagClassNecromancerSkillDescription15B=Bone Spear deals additional acid damage and poisons enemies, reducing their offensive ability for 3 seconds.
+
+tagClassNecromancerSkillName15C=Rigor Mortis
+tagClassNecromancerSkillDescription15C=Bone Spear deals vitality damage and vitality decay to enemies, reducing their attack speed for 3 seconds.
+
+tagClassNecromancerSkillName16A=Final Service
+tagClassNecromancerSkillDescription16A=When close to death, you get healed and become invulnerable for 3 seconds, absorbing all damage taken and dealing increased damage to Aetherials and Undead.
+
+tagClassNecromancerSkillName17A=Corpse Explosion
+tagClassNecromancerSkillDescription17A=Enemies killed explode, dealing massive damage to nearby foes.
+
+tagClassNecromancerSkillName18A=Bone Spirit
+tagClassNecromancerSkillDescription18A=Summon a Bone Spirit that will seek enemies and explode when it gets close to them, dealing cold and vitality damage to nearby foes and chilling them over 3 seconds. ^oBone Spirit scales with player damage bonuses.
+
+tagClassNecromancerSkillName18B=Spiritual Explosion
+
+tagClassNecromancerSkillName18C=Panic Attack
+tagClassNecromancerSkillDescription18C=Summon a contaminated bone spirit that constantly attacks enemies with poison novas, dealing damage to nearby foes, with a chance to confuse them for a few seconds. ^oBone Spirit no longer explodes on death and still scales with player damage bonuses.
+
+tagClassNecromancerSkillName18D=Poison Nova
+tagClassNecromancerSkillName18E=Current number of Bone Spirits alive.
+tagClassNecromancerSkillName18F=Blood Spirit
+
+tagPetBoneSpirit=Bone Spirit
+
+tagClassNecromancerSkillName19A=Blood is Power
+tagClassNecromancerSkillDescription19A=Sacrifice a portion of your life every second to increase all your damage and deal additional vitality damage. While Blood is Power is active, you also gain increased movement speed and resistance to life reduction.
+
+tagClassNecromancerSkillName20A=Army of the Dead
+tagClassNecromancerSkillDescription20A=Skeletons rise from the ground, attacking random enemies over 10 seconds. ^oArmy of the Dead scales with pet damage bonuses.
+
+tagClassNecromancerSkillName21A=Freezing Grasp
+
+tagClassNecromancerSkillName21B=Frozen Army
+
+tagLithXanBuff=Ready to Battle
+tagLithXanBuffDesc=Skeletons are currently invulnerable and dealing increased damage.
+
+tagNecromancerRune01=^cArmy of the Dead
+tagNecromancerRune01Desc=While ^tLand of the Dead ^wis active, you summon an ^tArmy of the Dead ^wwhenever you attack enemies. The army is formed by several skeletons that run towards a target location, causing an explosion of bones that deals aether and vitality damage. Enemies caught by the explosion have their resistances reduced by 20 over 3 seconds. ^oArmy of the Dead scales with player damage bonuses.{^n}{^n}{^y}Runeword: {^c}YulYom
+tagNecromancerRune01b=^cEnhanced Army of the Dead
+tagNecromancerRune01bDesc=While ^tLand of the Dead ^wis active, you summon an ^tArmy of the Dead ^wwhenever you attack enemies. The army is formed by several skeletons that run towards a target location, causing an explosion of bones that deals aether and vitality damage. Enemies caught by the explosion have their resistances reduced by 25 over 3 seconds. ^oArmy of the Dead scales with player damage bonuses.{^n}{^n}{^y}Runeword: {^c}YulYom (Enhanced)
+
+tagNecromancerRune02=^cNovamancer
+tagNecromancerRune02Desc=^gDeath Nova ^wnow marks an enemy. Marked targets constantly cast an alternate version of the skill over 3 seconds. The marked enemy and all foes caught by this secondary Death Nova take acid, vitality and poison damage, and have their poison and vitality resistances reduced by 10%.{^n}{^n}^gPoison Spirits ^ware now permanent. The Death Nova casted by them also works with this rune effect and the resistance reduction is additive to the previous one. However, its damage and resistances reduction scale with Bone Spirit's levels, reducing the enemy's resistances by 15% at Rank 16, and 20% by Rank 26. {^n}{^n}{^y}Runeword: {^c}BacThul
+tagNecromancerRune02b=^cEnhanced Novamancer
+tagNecromancerRune02bDesc=^gDeath Nova ^wnow marks an enemy. Marked targets constantly cast an alternate version of the skill over 3 seconds. The marked enemy and all foes caught by this secondary Death Nova take acid, vitality and poison damage, and have their poison and vitality resistances reduced by 15%.{^n}{^n}^gPoison Spirits ^ware now permanent. The Death Nova casted by them also works with this rune effect and the resistance reduction is additive to the previous one. However, its damage and resistances reduction scale with Bone Spirit's levels, reducing the enemy's resistances by 15% at Rank 16, and 20% by Rank 26. {^n}{^n}{^y}Runeword: {^c}BacThul (Enhanced)
+tagNecromancerRune02c=^cRune Effect
+tagNecromancerRune02cDesc=This enemy is currently casting Death Nova, reducing the resistances of nearby foes.
+
+tagNecromancerRune03=^cBloodseeker
+tagNecromancerRune03Desc=Blood is Power now increases your total damage by 20%. However, whenever you go below 80% health, you lose the granted bonus damage.{^n}{^n}{^y}Runeword: {^c}MoniMot
+
+tagNecromancerRune04=^cBone Prison
+tagNecromancerRune04Desc=Bone Spear now has 30% chance to entrap enemies in a Bone Prison that reduces several resistances for 15% and their defensive ability by 25%.{^n}{^n}{^y}Runeword: {^c}KaaQax
+
+tagNecromancerRune04b=^cRune Effect
+tagNecromancerRune04bDesc=Enemy currently trapped in a Bone Prison, with reduced defenses.
+
+tagNecromancerRune05=^cBonewaker
+tagNecromancerRune05Desc=With Bone Armor activated, whenever you are under 50% health, you gain 25% damage absorption and 50% chance to avoid projectiles. While under 50% health, enemy melee attacks causes you to evoke an awakening of bones around you, dealing pierce, aether and vitality damage to enemies, and disrupting their abilities for 2 seconds.{^n}{^n}{^y}Runeword: {^c}NeoLac
+
+tagNecromancerRune05b=Rune Effect
+tagNecromancerRune05bDesc=Bone Armor is granting you damage absorption and chance to deflect projectiles.
+tagNecromancerRune05c=Awakening of Bones

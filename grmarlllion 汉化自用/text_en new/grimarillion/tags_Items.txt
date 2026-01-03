@@ -1,0 +1,2351 @@
+tagHaedrigDesc=Haedrig has the ability to convert 2h weapons into a 1h weapon with the same stats. These weapons can only be wield by the Crusader class, with the passive called Hold Your Ground. He also crafts gems, cosmetics and Kanai's relics from Diablo 3 Mod.
+
+tagCraftRandomD3=Diablo 3 Items
+tagCraftRandomD3Desc=The blacksmith combines the power of forgotten souls to create a Diablo 3's unique item. Characters below level 50 will craft an epic item. Those above level 50 will get a legendary item or empowered epics. From level 82 and above, you receive a mythical epic or legendary item. (Recommended level 30 at least to prevent bugs)
+
+tagCraftTabMiscA=Accessories, Consumables and Runewords
+
+tagRuneEffects=^cRune Effects
+tagRuneEffectsDesc=Some runewords can activate a rune effect that modifies and empowers class skills, granting you a buff, applying debuff on enemies or casting an attack spell. Rune Effects require one skill point and a specific runeword to work properly.{^n}{^n}{^y}Runewords: ^wRunes have 20% chance to be dropped by most bosses. More powerful bosses have a guaranteed rune drop. All Runewords available for crafting can be seen by visiting ^bDamara, the Runewright^w, the new NPC located at the left entrance of Devil's Crossing.{^n}{^n}{^y}Enhancement: ^wIn order to maintain the runeword efficiency at higher difficulties, some runewords can be upgraded, unlocking an enhanced version of its rune effect. Enhanced rune effects may cause more damage and apply higher resistance reductions. {^n}{^n}{^y}Skill Points Reset: ^wWhenever you want to respec your skill points, be aware that rune effects are considered modifiers, so you will need to remove the point invested on them first, then respec the points added to the base skill formerly affected by the rune effect.
+
+
+tagBloodKnightNoteName=A Bloody Gift
+tagBloodKnightNoteTitle=Welcome the Blood Knight!
+tagBloodKnightNoteText=The Blood Knight has arrived. Thanks for playing! Enjoy your cosmetic set and begin your sanguinary journey in style!
+tagBloodKnightNoteHeader=Blood Knight's Arrival
+
+tagRarePrefixD301=Spiritbound
+tagRarePrefixD302=Infernal
+tagRarePrefixD303=Intercessor's
+tagRarePrefixD304=Pathfinder's
+tagRarePrefixD305=Reciprocating
+tagRarePrefixD306=Commander's
+tagRarePrefixD307=Bonecage
+tagRarePrefixD308=Shocking
+tagRarePrefixD309=Survivalist's
+tagRarePrefixD310=Invigorating
+tagRarePrefixD311=Gravekeeper's
+tagRarePrefixD312=Harvester's
+tagRarePrefixD313=Fallenbell
+tagRarePrefixD314=???
+tagRarePrefixD315=Skywrath
+tagRarePrefixD316=xx
+tagRarePrefixD317=Plaguemaster's
+tagRarePrefixD318=Frostbeam
+tagRarePrefixD319=Gravekeeper's
+tagRarePrefixD320=Weaponmaster's
+tagRarePrefixD321=Worldbreaker's
+tagRarePrefixD322=Blessed
+tagRarePrefixD323=Replicating
+tagRarePrefixD324=Bombardier's
+tagRarePrefixD325=Punisher's
+
+tagRareSuffixD301=of the Windrunner
+tagRareSuffixD302=of the Grim Reaper
+tagRareSuffixD303=?
+tagRareSuffixD304=of Shattered Grounds
+tagRareSuffixD305=of the Bonebreaker
+tagRareSuffixD306=of the Bonelancer
+tagRareSuffixD307=of Flayers
+tagRareSuffixD308=of Justice
+tagRareSuffixD309=of Damnation
+tagRareSuffixD310=of the Reanimator
+tagRareSuffixD311=of the Chained Shadows
+tagRareSuffixD312=of Darkness
+tagRareSuffixD313=of Apocalypse
+tagRareSuffixD314=of the Elemental Clones
+tagRareSuffixD315=of Scorched Runes
+tagRareSuffixD316=of Hatred
+tagRareSuffixD317=of Inner Anger
+tagRareSuffixD318=of Shivers
+tagRareSuffixD319=of the Hungry Flames
+tagRareSuffixD320=of Hunting
+tagRareSuffixD321=of Spirits
+tagRareSuffixD322=of the Shieldbearer
+tagRareSuffixD323=of Chilling Edge
+tagRareSuffixD324=of the Haunted Harvester
+tagRareSuffixD325=of the Wild Creatures
+tagRareSuffixD326=of Leadership
+tagRareSuffixD327=of Rotations
+
+
+
+tagPotionD301=Bottomless Potion of Regeneration
+tagPotionD301Skill=Regeneration
+tagPotionD301SkillDesc=Heals you and grants bonus life regeneration for a few seconds.
+
+tagCraftMaterialD301=Forgotten Soul
+tagCraftMaterialD301Desc=Used by the Blacksmith in Devil's Crossing to craft Diablo 3 items.
+
+tagCraftMaterialD302=Blood Shard
+tagCraftMaterialD302Desc=Used by the Blacksmith in Devil's Crossing to craft a Blood Knight item. Recommended to use it only with a character level 75 or higher.
+
+tag1hCrossbowD301=Dawn
+tag1hCrossbowD301Desc=Calm pervades your soul as you are warmed by the morning's first light, for you know vengeance will soon be yours.
+tag1hCrossbowD302=Lianna's Wings
+tag1hCrossbowD302Desc=This bow, upon which the angel Lianna bestowed her wings, fell from the heavens and grants the wielder great power, but at a cost.
+tag1hCrossbowD303=Balefire Caster
+tag1hCrossbowD303Desc="Use fire to fight fire, I always say." - Demon Hunter Raykal
+tag1hCrossbowD304=Valla's Bequest
+tag1hCrossbowD304Desc=Valla was one of the most lethal Demon Hunters ever known, until her abrupt disappearance. Some claim that she still lives, fighting in another land. Her body was never found, but she did leave behind her prized possession: this bow.
+tag1hCrossbowD305=Calamity
+tag1hCrossbowD305Desc=Slender and refined, this weapon is the antithesis of a traditional, rough-hewn and unwieldy crossbow. Obviously the result of loving craftsmanship by a master armsmaker.
+tag1hCrossbowD306=Deadeye
+tag1hCrossbowD306Desc=Good for putting the dead back in the ground.
+
+tag1hGunD301=Longshot
+tag1hGunD301Desc=Many a hero has wielded this gun through many an age, and the tales sung of it can be heard from one end of the world to the other.
+
+tag2hGunD301=Fleshwarped Frostspreader
+
+
+tag2hCrossbowD301=Natalya's Slayer
+tag2hCrossbowD302=Demon Machine
+tag2hCrossbowD303=Etrayu
+tag2hCrossbowD304=Yang's Crossbow
+tag2hCrossbowD304Desc="The terrifying Edith's partner, Yang was known for his resourcefulness, his prowess at multishot, and his icy contempt for failure."
+tag2hCrossbowD305=Kridershot
+tag2hCrossbowD306=Odyssey's End
+tag2hCrossbowD307=Venomhusk
+tag2hCrossbowD308=Uskang
+tag2hCrossbowD308Desc=Hewn from the roots of the sacred angaza tree.
+tag2hCrossbowD309=Starspine
+tag2hCrossbowD309Desc=The shimmering metal stock conceals a strange power source capable of charging each shot with arcane energy.
+tag2hCrossbowD310=Buriza-Do Kyanon
+tag2hCrossbowD310Desc=Previously thought to be too large and cumbersome to be wielded by hand, the Buriza-Do Kyanon is handled by the superior warrior with ease.
+tag2hCrossbowD311=Windforce
+tag2hCrossbowD311Desc=The wind carries life for those enveloped in its flow, and death for those arrayed against it.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tag2hCrossbowD312=K'mar Tenclip
+tag2hCrossbowD312Desc=Featuring a unique loading mechanism and clip designed in Xiansai, this crossbow can unleash an entire volley of bolts before it needs to be reloaded, making it ideal for maintaining sustained fire while in motion.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+
+
+tag2hGunD301=The Demon's Demise
+tag2hGunD301B=Demon's Demise
+tag2hGunD301Desc="Whispers abound of Kovan's insatiable lust for slaughtering the denizens of the Burning Hells. May the gods save the world if the day comes when he no longer has demons to fight" -Tales of the Wasteland
+tag2hGunD302=Fleshwarped Frostspreader
+tag2hGunD302B=Fleshwarped Chilltrower
+
+tagShieldD301=Akarat's Awakening
+tagShieldD301Desc="And Yaerius appeared unto Akarat and showed him the Light that illuminates all souls with its blessed power." -Excerpt from a mystic's account of the life of Akarat.
+tagShieldD302=Eberli Charo
+tagShieldD303=Guard of Johanna
+tagShieldD303Desc="Crusader Johanna was famous for her skillful shield work in combat. When she vanished, leaving this shield behind, many speculated that she was dead. If true, her name will fall from the Crusader rolls, as she did not have an apprentice." -Abd al-Hazir.
+tagShieldD304=Frydehr's Wrath
+tagShieldD304Desc=Frydehr was near death, his wounds outnumbered only by his foes. It was then that he discovered that the depth of a crusader's wrath is far greater than anyone had ever suspected.
+tagShieldD305=Stormshield
+tagShieldD305Desc=Ashusk had never seen metal like this before. It seemed to be charged with the power of the thundering sky, repelling all attacks against it.
+tagShieldD306=Freeze of Deflection
+tagShieldD306Desc=Ice is surprisingly resilient.
+tagShieldD307=The Final Witness
+tagShieldD307B=Final Witness
+tagShieldD307Desc="Our eyes are everywhere-in the tallest mountains and the lowest valleys. We go everywhere, and we see everything. We learn from our masters, who walked the lands before us. Our enemies may think we journey alone, but they are mistaken." -Crusader proverb
+tagShieldD308=Shield of Fury
+tagShieldD308Desc=Those who deny the Light will be forced to reckon with its power.
+tagShieldD309=Lidless Wall
+tagShieldD309Desc=Created by the followers of Rathma, favored by practitioners of magic.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagShieldD310=Hellskull
+tagShieldD310Desc="One final blow severed the great demon's head, sending it rolling before Dregan's feet. He contemplated the foul thing for a moment, then took it with him to adorn his shield." -The Chronicles of Crusader Dregan
+tagShieldD310DescB="One final blow severed the great demon's head, sending it rolling before Dregan's feet. He contemplated the foul thing for a moment, then took it with him to adorn his shield." -The Chronicles of Crusader Dregan{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item. 
+tagShieldD311=Vo'Toyias Spiker
+tagShieldD311Desc=The demon smith Vo'Toyias designed this shield to inflict great injury upon those daring to attack its bearer. The wicked brass spikes that bristle along the shield's surface make it a formidable weapon in its own right, however, allowing its wielder to make deadly counterattacks.
+tagShieldD312=Ivory Tower
+tagShieldD312Desc=This shield hums with the Song of the Arch.
+tagShieldD313=Coven's Criterion
+tagShieldD313Desc=By bearing the arms of your enemy, you risk surrendering that which divides you from your foe.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item. 
+tagShieldD314=Jekangbord
+tagShieldD314Desc="Centuries ago, the mysterious warrior Jekang found staunch allies among the crusaders of Zakarum. He fought alongside that order for many years, and when he left for lands unknown, he made a parting gift of his tower shield."{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagShieldD315=Hallowed Bulwark
+tagShieldD315Desc=Forged by one of the first crusaders before he left Travincal, this shield glimmers with the light of enduring dedication. It has been passed on from master to apprentice time after time, ever guarding its bearers against the forces of darkness.
+tagShieldD316=Sublime Conviction
+tagShieldD316Desc=The forces of shadow act in foolish haste. Maintain your focus, and you will defeat them with your righteous resolve.
+tagShieldD317=Unrelenting Phalanx
+tagShieldD317Desc=The best defense is an overwhelming offense.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+
+tagKanaiD301=Kanai's Cube: Gelmindor
+tagKanaiD302=Kanai's Cube: Akanesh
+tagKanaiD303=Kanai's Cube: Bitterness
+tagKanaiD304=Kanai's Cube: Blightwave
+tagKanaiD305=Kanai's Cube: Crushbane
+tagKanaiD306=Kanai's Cube: Arlyse
+tagKanaiD307=Kanai's Cube: Eternity
+tagKanaiD308=Kanai's Cube: Barber
+tagKanaiD309=Kanai's Cube: Destiny
+tagKanaiD310=Kanai's Cube: Bone King
+tagKanaiD311=Kanai's Cube: Last Breath
+tagKanaiD312=Kanai's Cube: Venomhusk
+tagKanaiD313=Kanai's Cube: Eberli Charo
+tagKanaiD314=Kanai's Cube: Ursua
+tagKanaiD315=Kanai's Cube: Clarity
+tagKanaiD316=Kanai's Cube: Dawn
+tagKanaiD317=Kanai's Cube: Uskang
+tagKanaiD318=Kanai's Cube: Drakon
+tagKanaiD319=Kanai's Cube: Mortal Drama
+tagKanaiD320=Kanai's Cube: Eun-jang-do
+tagKanaiD321=Kanai's Cube: Etrayu
+tagKanaiD322=Kanai's Cube: Fate
+tagKanaiD323=Kanai's Cube: Tzo Krin
+tagKanaiD324=Kanai's Cube: Myken
+tagKanaiD325=Kanai's Cube: Andariel
+tagKanaiD326=Kanai's Cube: Kassar
+tagKanaiD327=Kanai's Cube: Jang
+tagKanaiD328=Kanai's Cube: Johanna
+tagKanaiD329=Kanai's Cube: Mercy
+tagKanaiD330=Kanai's Cube: Kalan
+tagKanaiD331=Kanai's Cube: Karini
+tagKanaiD332=Kanai's Cube: Starspine
+tagKanaiD333=Kanai's Cube: Kridershot
+tagKanaiD334=Kanai's Cube: Kyoshiro
+tagKanaiD335=Kanai's Cube: Lakumba
+tagKanaiD336=Kanai's Cube: Disdain
+tagKanaiD337=Kanai's Cube: Lianna
+tagKanaiD338=Kanai's Cube: Maltorius
+tagKanaiD339=Kanai's Cube: Maximus
+tagKanaiD340=Kanai's Cube: Nayr
+tagKanaiD341=Kanai's Cube: Fury
+tagKanaiD342=Kanai's Cube: Omnislash
+tagKanaiD343=Kanai's Cube: Peshkov
+tagKanaiD344=Kanai's Cube: Pride
+tagKanaiD345=Kanai's Cube: Quetzalcoatl
+tagKanaiD346=Kanai's Cube: Harvester
+tagKanaiD347=Kanai's Cube: Scarlet
+tagKanaiD348=Kanai's Cube: Shadowhook
+tagKanaiD349=Kanai's Cube: Triumph
+tagKanaiD350=Kanai's Cube: First Spider
+tagKanaiD351=Kanai's Cube: Spirit Guards
+tagKanaiD352=Kanai's Cube: Grand Temple
+tagKanaiD353=Kanai's Cube: Union
+tagKanaiD354=Kanai's Cube: Vengeful
+tagKanaiD355=Kanai's Cube: Vicalyke
+tagKanaiD356=Kanai's Cube: Vizier
+tagKanaiD357=Kanai's Cube: Voo's
+tagKanaiD358=Kanai's Cube: Wilken
+tagKanaiD359=Kanai's Cube: Ill Will
+tagKanaiD360=Kanai's Cube: Winter
+tagKanaiD361=Kanai's Cube: Yang
+tagKanaiD362=Kanai's Cube: Night
+tagKanaiD363=Kanai's Cube: Utar
+tagKanaiD364=Kanai's Cube: Soliloquy
+tagKanaiD365=Kanai's Cube: Gabriel
+tagKanaiD366=Kanai's Cube: Tiklandian
+tagKanaiD367=Kanai's Cube: Frydehr
+tagKanaiD368=Kanai's Cube: Chiroptera
+tagKanaiD369=Kanai's Cube: Swami
+tagKanaiD370=Kanai's Cube: Orpheus
+tagKanaiD371=Kanai's Cube: Darts
+tagKanaiD372=Kanai's Cube: Deflection
+tagKanaiD373=Kanai's Cube: Stormshield
+tagKanaiD374=Kanai's Cube: Soulsmasher
+tagKanaiD375=Kanai's Cube: Ashnagarr
+tagKanaiD376=Kanai's Cube: Retribution
+tagKanaiD377=Kanai's Cube: Sescheron
+tagKanaiD378=Kanai's Cube: Fjord
+tagKanaiD379=Kanai's Cube: Sankis
+tagKanaiD380=Kanai's Cube: Quang
+tagKanaiD381=Kanai's Cube: Jace
+tagKanaiD382=Kanai's Cube: Hack
+tagKanaiD383=Kanai's Cube: Zumakalis
+tagKanaiD384=Kanai's Cube: Fulminator
+tagKanaiD385=Kanai's Cube: Rimeheart
+tagKanaiD386=Kanai's Cube: Faithful
+tagKanaiD387=Kanai's Cube: Crystal
+tagKanaiD388=Kanai's Cube: Arreat
+tagKanaiD389=Kanai's Cube: Messerschmidt's
+tagKanaiD390=Kanai's Cube: Faith
+tagKanaiD391=Kanai's Cube: Ascended
+tagKanaiD392=Kanai's Cube: Remorseless
+tagKanaiD393=Kanai's Cube: Argument
+tagKanaiD394=Kanai's Cube: Vanished
+tagKanaiD395=Kanai's Cube: In Geom
+tagKanaiD396=Kanai's Cube: Tribes
+tagKanaiD397=Kanai's Cube: Shield Of Fury
+tagKanaiD398=Kanai's Cube: Kukri
+tagKanaiD399=Kanai's Cube: Homunculus
+tagKanaiD3100=Kanai's Cube: Skull
+tagKanaiD3101=Kanai's Cube: Scarbringer
+tagKanaiD3102=Kanai's Cube: Bastion
+tagKanaiD3103=Kanai's Cube: Persuader
+tagKanaiD3104=Kanai's Cube: Brother
+tagKanaiD3105=Kanai's Cube: Ambo
+tagKanaiD3106=Kanai's Cube: Longshot
+tagKanaiD3107=Kanai's Cube: Demon
+tagKanaiD3108=Kanai's Cube: Lord
+tagKanaiD3109=Kanai's Cube: Earthshatter
+tagKanaiD3110=Kanai's Cube: Votoyias
+tagKanaiD3111=Kanai's Cube: Aetherwalker
+tagKanaiD3112=Kanai's Cube: Ivory
+tagKanaiD3113=Kanai's Cube: Doombringer
+tagKanaiD3114=Kanai's Cube: Shard
+tagKanaiD3115=Kanai's Cube: Gazing
+tagKanaiD3116=Kanai's Cube: Etched
+tagKanaiD3117=Kanai's Cube: Won Khim Lau
+tagKanaiD3118=Kanai's Cube: Sever
+tagKanaiD3119=Kanai's Cube: Baleful
+tagKanaiD3120=Kanai's Cube: Standoff
+tagKanaiD3121=Kanai's Cube: Custerian
+tagKanaiD3122=Kanai's Cube: First Men
+tagKanaiD3123=Kanai's Cube: Worship
+tagKanaiD3124=Kanai's Cube: Deathseer
+tagKanaiD3125=Kanai's Cube: Resonance
+tagKanaiD3126=Kanai's Cube: Seething Hatred
+tagKanaiD3127=Kanai's Cube: Destruction
+tagKanaiD3128=Kanai's Cube: Fletcher
+tagKanaiD3129=Kanai's Cube: Swarmspeaker
+tagKanaiD3130=Kanai's Cube: Toothdrinker
+tagKanaiD3131=Kanai's Cube: Hexed
+tagKanaiD3132=Kanai's Cube: Rootvein
+tagKanaiD3133=Kanai's Cube: Reverent
+tagKanaiD3134=Kanai's Cube: Vendetta
+tagKanaiD3135=Kanai's Cube: Castellatia
+tagKanaiD3136=Kanai's Cube: Chantodo
+tagKanaiD3137=Kanai's Cube: Atlantium
+tagKanaiD3138=Kanai's Cube: Windweaver
+tagKanaiD3139=Kanai's Cube: Windwaker
+tagKanaiD3140=Kanai's Cube: Seabreeze
+tagKanaiD3141=Kanai's Cube: Currents
+
+tagSwordD301=Fate of the Fell
+tagSwordD302=Blightwave Blade
+tagSwordD302Desc=The favored weapon of Master Necromancer Ordan, renowned teacher of the Priests of Rathma. He was so devoted to this weapon that he would rather part with his life than have it leave his side.
+tagSwordD303=Maltorius' Petrifying Spike
+tagSwordD304=Kyoshiro's Blade
+tagSwordD304Desc=Kyoshiro was an optimist going into the battle at Xiansai. Though the walls were tumbling down around him, he quickly disposed of his enemies.
+tagSwordD305=Monster Hunter
+tagSwordD305Desc=Be wary when you fight monsters, lest you become one.
+tagSwordD306=Vengeful Wind
+tagSwordD306Desc="Some learned people say that evil cannot be overcome through violence. I say there is no other way." - Akyev the Unyielding
+tagSwordD307=Balance
+tagSwordD307Desc="We must walk the middle way between chaos and order, and not allow our emotions to sway us." - Tenets of the Veradani.
+tagSwordD308=Wildwood
+tagSwordD309=Akanesh, the Herald of Righteousness
+tagSwordD309Desc=Akanesh was the favored weapon of the Grand Maester of the templar order. It has cut down innumerable evils... and perhaps a few innocents as well.
+tagSwordD310=Ashbringer
+tagSwordD310Desc=Stories tell of a great paladin who wore a single gauntlet of silver and wielded a mighty sword with a flashing jewel. He dispatched thousands of Risen Dead and Wretched Mothers, but fell to a tragic end. This sword bears some resemblance to the legends, but its jewel is dark and threatening.
+tagSwordD311=Maximus
+tagSwordD311Desc=The famed warrior Maximus defeated 99 demons in the Chthonic Void, and imbued his sword with their demonic power.
+tagSwordD312=Sword of the Ill Will
+tagSwordD312Desc=Hate is a powerful weapon that can destroy even the best of us. So tread lightly.
+tagSwordD313=Blade of Prophecy
+tagSwordD313Desc=The Blade of Prophecy was lost until a champion worthy to carry it into battle emerged.
+tagSwordD314=Skycutter
+tagSwordD314Desc=The demons could not stand before the swords of the angelic host, and their blood ran upon the fields of eternity.
+tagSwordD315=The Twisted Sword
+tagSwordD316=Deathwish
+tagSwordD316Desc=The Quinblades are the only surviving weapons forged by master swordsmith Morad Peerse, each a unique expression of his craft. The aptly-named Deathwish was the last weapon he forged.
+tagSwordD317=Scourge
+tagSwordD318=Sultan of the Blinding Sands
+tagSwordD318Desc=Forged by the finest smiths in Caldeum to commemorate the first emperor Hakan's ascension to the throne.
+tagSwordD319=Warsword of the General Quang
+tagSwordD319Desc="Witnesses described the General moving through armies like a blur, leaving behind swaths of prone troops for his bodyguards to dispatch." - A History of War by Lord Jerem Kiel.
+tagSwordD320=Ancient Bonesaber of Zumakalis
+tagSwordD321=Fulminator
+tagSwordD321Desc=The Quinblades are the only surviving weapons forged by master swordsmith Morad Peerse, each a unique expression of his craft. Made during Peerse's Early Period, Fulminator expresses, through blinding speed and arcing lightning strikes, its maker's youthful exuberance and the joy he found in his craft.
+tagSwordD322=Devil Tongue
+tagSwordD322Desc=The awful, intricate contours of this imposing sword are the key to its unbridled power.
+tagSwordD323=Rimeheart
+tagSwordD323Desc=The Quinblades are the only surviving weapons forged by master swordsmith Morad Peerse, each a unique expression of his craft. Made during Peerse's Low Period, which followed the loss of his family, Rimeheart, with the blistering chill it radiates and its cold-forged iron blade, reflects both the hardening of its creator in the wake of tragedy and his consummate skill.
+tagSwordD324=Azurewrath
+tagSwordD324Desc=Before he fell, Izual was the bearer of the runeblade Azurewrath, an ancient sword blessed by the Song of the Arch as an instrument of the righteous.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagSwordD325=Faithful Memory
+tagSwordD325Desc=The Boosenian smiths forged swords with a technique centuries beyond their time. Few craftsmen have been able to replicate the quality of their work.
+tagSwordD326=Blade of the Warlord
+tagSwordD326Desc=Awrak led the people of the Bear tribe to a great many victories in his all-too-short life. His name is still highly revered among his people.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagSwordD327=Inviolable Faith
+tagSwordD327Desc=This weapon has been blessed to slam into its targets with unusual force-wrecking doors, bodies, and even barricades - while also offering superior protection to the faithful.
+tagSwordD328=Blade of the Ascended
+tagSwordD328Desc=The Ascended turned his gaze from his people, but left behind his sword, that we may remember him. In the fullness of time, he shall return. - the Inquisitor
+tagSwordD329=Blackguard
+tagSwordD329Desc=The power of this sword drove the warrior Rothat to unspeakable acts.
+tagSwordD330=In-Geom
+tagSwordD330Desc=Carried by the kings of Xiansai in antiquity, this sword was said to harness the speed and lethality of four tiger spirits. One king claimed to have "exorcised" a thousand demons from their hapless victims, using only this blade.
+tagSwordD331=Thunderfury, Blessed Blade of the Windseeker
+tagSwordD331Desc=This ancient blade, imbuned with unpredictable elemental energies, crossed vast universes and hidden dimensions before arriving in Cairn. Thunderfury seeks the hand of a true hero, one capable of wielding its awesome power.
+tagSwordD332=Blade of the Tribes
+tagSwordD332Desc=Every tribe tells tales of their greatest weapons, capable of moving mountains or terrifying enemies, each one different. But every tribe claims this blade as their own.
+tagSwordD333=Hendl Stormrage's Divider of Azzinoth
+tagSwordD333Desc=Just as the chaff is separated when the grain is threshed, Hendl Sturmgrimm divided his tribe into the righteous and those who expect annihilation.
+tagSwordD334=Griswold's Perfection
+tagSwordD334Desc=Griswold labored and studied for years to devise the perfect sword. Sadly, he died a horrible death before he himself could forge it.
+tagSwordD334Desc02=Griswold labored and studied for years to devise the perfect sword. Sadly, he died a horrible death before he himself could forge it.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagSwordD335=The Grandfather
+tagSwordD335Desc=The most ancient and revered of all greatswords.
+tagSwordD336=Lai Yui's Persuader
+tagSwordD336Desc="Remember what you learned here today," she told the defeated band of thieves, "or I will return to remind you."
+tagSwordD337=Blood Brother
+tagSwordD337Desc="Long ago, the demon Vi'inaz and his brother Eboeth were terrible foes of the High Heavens, though they bickered constantly. In later times, Vi'inaz alone was seen wielding a sword wrapped in demon flesh, with a still-beating heart pumping black blood along its sharp-spined length." -Archangel Ithereal
+tagSwordD338=Ambo's Pride
+tagSwordD339=Doombringer
+tagSwordD339Desc=A mysterious blade shall appear to the mighty warrior when his lands are ripped asunder, ushering in a new epoch from the ashes of the old.
+tagSwordD340=Exarian
+tagSwordD341=Warmonger
+tagSwordD341Desc=Brandished by the demon Draorm at the Fifth Battle of the Diamond Gates.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}  
+tagSwordD342=The Zweihander
+tagSwordD342B=Zweihander
+tagSwordD343=Won Khim Lau
+tagSwordD343Desc=Directs the wayward's gaze to the heavens that he may benefit from the glory of the gods.
+tagSwordD344=Sever
+tagSwordD344Desc=Jayesh smiled to himself. He had never seen a blade so perfectly suited for dismembering demons.
+tagSwordD345=Atlantium
+tagSwordD345Desc=Many sailors used to tell stories about a sword that was forged in the heart of a realm hidden under the deep ocean. But they didn't know those were not just stories.
+tagSwordD346=Windweaver
+tagSwordD346Desc=This sword was built with the same objective the sail of a ship has: to use the wind in your favor.
+
+
+MACES
+
+tagMaceD301=Fist of Az'Turrasq 
+tagMaceD302=Torch of the Grand Temple
+tagMaceD303=Justinian's Mercy
+tagMaceD303Desc=Passed down among the executioners of the Justinian dynasty, this mace was lost during the chaos of the Cartolus Insurrection. Peasants stormed the palace, grabbing anything they could find, and killing the more oppressive members of the royal retinue. It didn't take them long to find the executioners.
+tagMaceD304=Odyn Son
+tagMaceD304Desc=This hammer rumbles with the sound of distant thunder.
+tagMaceD305=Darklight
+tagMaceD306=Flying Dragon
+tagMaceD306Desc=The flying dragon soars silently but strikes with great force.
+tagMaceD307=Jace's Hammer of Vigilance
+tagMaceD308=Wrath of the Bone King
+tagMaceD309=Mortal Drama
+tagMaceD309Desc="A tragedy is merely a comedy where the audience understands the consequences." -Samuel Drest, playwright.
+tagMaceD310=Soulsmasher
+tagMaceD310Desc="This massive mace does more than merely slay its victims. It quite literally shatters their souls, releasing the energy contained within in a massive blast." - Tyrael, Aspect of Wisdom
+tagMaceD311=Inna's Reach
+tagMaceD312=Crushbane
+tagMaceD313=Arthef's Spark of Life
+tagMaceD313Desc=Arthef of the Dying Ones crafted this weapon to translate the misbegotten life of the undead into the living.
+tagMaceD314=Telranden's Hand
+tagMaceD315=Remorseless
+tagMaceD316=Johanna's Argument
+tagMaceD316Desc=One of the more mysterious tales in the annals of the Crusaders is that of Johanna. A powerful warrior, she disappeared suddenly. The fact that she did not take this, her favorite weapon, seems to indicate that her journey was unplanned. She has not been seen since.
+tagMaceD317=Fury of the Vanished Peak
+tagMaceD317Desc=Korr took all his anger and despair and poured them into the creation of a weapon that would speak to the majesty of Arreat for ages to come.
+tagMaceD318=Devastator
+tagMaceD318Desc=The ground cracks and disintegrates with each strike.
+tagMaceD319=Schaefer's Hammer
+tagMaceD319Desc=Forged in the frigid wastes of the north to honor the famed Schaefer artisans.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagMaceD320=Earthshatter
+tagMaceD320Desc=The ground cracks and disintegrates with each strike.
+tagMaceD321=Echoing Fury
+tagMaceD321Desc=The sound of each strike instills terror in the hearts of those who hear it.
+tagMaceD322=Sun Keeper
+tagMaceD323=Baleful Remnant
+tagMaceD323Desc="The head of this curious weapon consists of a highly unusual and volatile rock formation. Some speculate it came from a meteor - or an entirely different plane of existence, silly as that is. It has defied the understanding of scholars for centuries, but then again, I have never had a look at it!" -Abd al-Hazir
+tagMaceD324=Standoff
+tagMaceD324Desc=With this, one warrior can hold back an army.
+tagMaceD325=Fleshwarped Cudgel
+
+
+
+
+tagScytheD301=Nayr's Black Death
+tagScytheD302=Scythe of the Cycle
+tagScytheD302Desc="The Great Cycle of Being always begins anew... but not for you." - Master Necromancer Jostan
+tagScytheD303=Trag'Oul's Corroded Fang
+tagScytheD303Desc=It whispers your name from realms beyond.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagScytheD304=Jesseth Skullscythe
+tagScytheD304Desc=This assembly of sharpened bones will make you a true artist in combat.
+tagScytheD305=Funerary Scythe
+tagScytheD305Desc=Smooth as gleaming bone, this weapon could butcher a corpse in a matter of seconds in the right hands.
+tagScytheD305DescB=Smooth as gleaming bone, this weapon could butcher a corpse in a matter of seconds in the right hands.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+
+
+tagAxeD301=Mordullu's Promise
+tagAxeD301Desc="When I move to the unformed land, you may throw my skull at the unwise, and I will return long enough to invigorate you." -Mordullu's promise to his heirs.
+tagAxeD302=The Wedge
+tagAxeD302Desc="Utar's mighty blade was colder than the bitterest winter chill, hewn from the never-melting ice of the summit of Mount Paolarr." - Chronicles of the North.
+tagAxeD303=Skorn
+tagAxeD303Desc=The demon L'Anzuul wielded his vile axe Skorn with great venom and wrath before he was brought low by the forces of Heaven.
+tagAxeD304=Flesh Tearer
+tagAxeD304Desc=The edges seem to become more jagged with each strike.
+tagAxeD305=Genzaniku
+tagAxeD305Desc="In the language of the fallen, 'genzaniku' means slayer of humans." -Deckard Cain
+tagAxeD306=Hack
+tagAxeD306Desc=This crude, makeshift axe was made from skeletal remains picked out of the Desolate Sands. Despite its primitive origins, the weapon is extremely effective, perhaps as a result of residual magics that seeped into its components since the time of area's devastation during the Mage Clan Wars.
+tagAxeD307=Sky Splitter
+tagAxeD307Desc=Some say this is the very axe wielded by an ancient god to split the sky from the land.
+tagAxeD308=Butcher's Carver
+tagAxeD308Desc=The Butcher still inhabits his carver.
+tagAxeD309=Utar's Roar
+tagAxeD309Desc="Utar's mighty blade was colder than the bitterest winter chill, hewn from the never-melting ice of the summit of Mount Paolarr." -Chronicles of the North
+tagAxeD310=Night's Reaping
+tagAxeD310Desc=The righteous must cull the corrupt from this world just as a farmer would separate the wheat from the chaff.
+tagAxeD311=Harvest Moon
+tagAxeD311Desc=The righteous must cull the corrupt from this world just as a farmer would separate the wheat from the chaff.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n}.
+tagAxeD312=Arreat's Law
+tagAxeD312Desc=A relic from the time before the fall of Arreat.
+tagAxeD313=Messerschmidt's Reaver
+tagAxeD313b=Messerschmidt's Reaver
+tagAxeD313Desc=This mighty weapon once hewed its way through the demon-infested catacombs beneath the old Zakarum cathedral in Tristram. Could it be the weapon the warrior Aidan used to defeat Diablo all those years ago?
+tagAxeD314=Bastion's Revered
+tagAxeD314Desc=Used by the leaders of Bastion's Keep in the war with the Northern Tribes. The Barbarians came to respect the weapon so much that they gave it a name, shortly after tearing it from the hands of a dying garrison commander.
+tagAxeD315=Empyrion's Messenger
+tagAxeD315Desc=This weapon has seen many a battle during the Eternal Conflict.
+tagAxeD315DescB=This weapon has seen many a battle during the Eternal Conflict.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n}
+tagAxeD316=Cam's Rebuttal
+tagAxeD316Desc=This massive holy weapon was once owned by an overzealous paladin named Cam.
+tagAxeD317=Stalgard's Decimator
+tagAxeD317Desc=Stalgard was a bloodthirsty warlord whose forces briefly controlled the trade routes of the southern plains.
+tagAxeD318=Cinder Switch
+tagAxeD319=Unending War
+tagAxeD319Desc=Only the dead have seen the end of war.
+tagAxeD320=Reverent Hunter
+tagAxeD320Desc=This beshadowed weapon strikes true when used on the unwary. It becomes lighter and quicker during first strikes; victims are tallied on its face in unfamiliar but florid script.
+tagAxeD321=Cruel Vendetta
+tagAxeD321Desc=After this halberd is sharpened on a blood-soaked whetstone, it seems to twist itself into the meat of its targets as if to squeeze them of viscera.
+tagAxeD322=Obsidian Reaver
+tagAxeD323=Obsidian Dreadcrusher
+tagAxeD324=Obsidian Flamecarver
+tagAxeD325=Death Maiden's Scythe
+tagAxeD325Desc=Serving as Malthael's lieutenants, the Death Maidens use these scythes to decapitate their mortal foes.
+
+
+
+tagBootsD301=Bryner's Journey
+tagBootsD302=Ice Climbers
+tagBootsD303=Jade Harvester's Swiftness
+tagBootsD304=Uliana's Destiny
+tagBootsD305=The Shadow's Heels
+tagBootsD306=Tal Rasha's Stride
+tagBootsD307=Eight-Demon Boots
+tagBootsD308=Firebird's Tarsi
+tagBootsD309=Striders of Destiny
+tagBootsD310=Sabatons of Akkhan
+tagBootsD311=Inarius's Perseverance
+tagBootsD312=Nilfur's Boast
+tagBootsD312Desc=The Horadrim Nilfur was so accurate in her spellcasting that she could call meteors to land at her feet.
+tagBootsD313=Crudest Boots
+tagBootsD314=Steuart's Greaves
+tagBootsD315=Trag'Oul's Greaves
+tagBootsD316=Rivera Dancers
+tagBootsD316Desc=Everyone wishes they were as cool as the person wearing these boots.
+tagBootsD317=Board Walkers
+tagBootsD318=Boots of Disregard
+tagBootsD319=Fire Walkers
+tagBootsD320=Voidstrider's Greaves
+tagBootsD321=Seafarer's Walkers
+tagBootsD321Desc="Pelghain's appetite for trade saw their early expansion welcomed in the far lands on the coasts near Arreat, where the empire's rebuke by the Children of Bul-Kathos was swift and total." -Pavats Bimmi, "Offspring of the Frozen Sea"
+
+
+
+
+
+tagScepterD301=Scepter of Chiroptera
+tagScepterD301Desc=Without the correct tools, forming energy into Firebats can be taxing.
+tagScepterD301DescB=Without the correct tools, forming energy into Firebats can be taxing.
+tagScepterD302=Serpent's Sparker
+tagScepterD302Desc=Legend says this wand was fashioned from a fang of the original Hydra, defeated centuries ago by the hero Bul-Kathos.
+tagScepterD303=Spider Queen's Grasp
+tagScepterD303Desc=The blessing of Ungoliax drips from this blade.
+tagScepterD304=The Grand Vizier
+tagScepterD304B=Grand Vizier
+tagScepterD304Desc=Protector of the first practitioner of magic blessed by Magi.
+tagScepterD305=SuWong Diviner
+tagScepterD306=Fallen Star
+tagScepterD306Desc=Crafted around a shard that fell from the sky during the Festival of Lights.
+tagScepterD307=Scepter of Woh
+tagScepterD307Desc=Woh has been reincarnated many times, but in each incarnation, this scepter invariably finds its way back to its master's hand.
+tagScepterD308=Solanium
+tagScepterD308Desc=This scepter once belonged to a holy man who reluctantly took up arms against a demon invasion. As a worshiper of the sun, Graham called his weapon Solanium, meaning "bearer of the sun's light." 
+tagScepterD309=Gesture of Orpheus
+tagScepterD309Desc=An old legend tells of Orpheus rescuing his wife from the underworld using this wand.
+tagScepterD310=Unstable Scepter
+tagScepterD311=Atrophy
+tagScepterD311Desc=Crafted by demonic hands. 
+tagScepterD312=Kassar's Retribution
+tagScepterD312Desc="Crusaders must be stronger than other warriors. We cannot trudge homeward after a victory, instead we return to the open road. We bend into the wind, the rain, the snow. Our search will not end until our faith is redeemed." -Kassar
+tagScepterD313=Fragment of Destiny
+tagScepterD314=Mad Monarch's Scepter
+tagScepterD315=Chantodo's Will
+tagScepterD315Desc=When the demons walk this world once again, so shall the power of the archmage Chantodo.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagScepterD316=Valthek's Rebuke
+tagScepterD316Desc=This scepter was the property of the high councilor of the Vizjerei and master of the mage clans of the Yshari Sanctum. It disappeared shortly after an incident with a rebellious student.
+tagScepterD317=Zoltun Kulle's Scepter
+tagScepterD317Desc=Scepter of Zoltun Kulle, founder of the Horadrim and creator of the Black Soulstone.
+tagScepterD318=Death Seraph's Scepter
+tagScepterD318Desc=Magic weapon wield by Death Seraphs, devoted followers of Malthael.
+
+
+
+tagDaggerD301=Sacred Harvester
+tagDaggerD301Desc="To expand one's mind with the breath of others is not a thing to be taken lightly. Without the proper training or discipline it soon leads to madness." - Elder Bayati
+tagDaggerD302=Reilena's Shadowhook
+tagDaggerD303=Wizardspike
+tagDaggerD303Desc=The energies of forbidden magics course through this blade.
+tagDaggerD304=Voo's Juicer
+tagDaggerD304Desc=There is nothing humorous about the way this dagger feeds off the souls of your enemies.
+tagDaggerD305=Envious Blade
+tagDaggerD306=Anessazi Edge
+tagDaggerD306Desc=The secrets of this blade are known only to the artisans of the Silzer Plains.
+tagDaggerD307=Deadly Rebirth
+tagDaggerD307Desc=The restless dead are drawn up from the earth by the presence of this blade.
+tagDaggerD308=Last Breath
+tagDaggerD308Desc=Even an immortal could be felled by the power of this blade.
+tagDaggerD309=The Barber
+tagDaggerD309b=Barber
+tagDaggerD309Desc=A precision instrument for a master of the blade.
+tagDaggerD310=Dagger of Darts
+tagDaggerD311=Tiklandian Spellblade
+tagDaggerD311Desc=The fierce blade of Enobakhare, the spirit father of the small remote village of Tiklan.
+tagDaggerD312=Karlei's Point
+tagDaggerD312Desc=Those who argued with the Demon Hunter Karlei quickly learned that she could make her point with devastating effect.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n}.
+tagDaggerD313=Eun-jang-do
+tagDaggerD313Desc=These daggers of silver and steel were often carried by Sisters of the Sightless Eye, engraved with oaths of fidelity to their cause. Enemies who closed quickly believed themselves safe from the Sister's bow. And they were, but not from the Eun-jang-do.
+tagDaggerD314=Starmetal Kukri
+tagDaggerD314Desc="Szab the necromancer was the first outsider to meet the people of the Teganze. He attempted to explain the philosophy of the necromancers to them, but the language barrier proved to be too great-instead of relaying his philosophical beliefs, he told them he was Trag'Oul, and that he lived among the stars." -Abd al-Hazir
+tagDaggerD315=Scarbringer
+tagDaggerD315Desc=Each scar left in its wake is a sin forgiven.
+tagDaggerD316=Anajinn's Spellblade
+tagDaggerD316Desc=The crusader Anajinn has felled numerous enemies of the Light wielding this blade.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagDaggerD317=The Gidbinn
+tagDaggerD317Desc=A powerful, holy artifact of the Skatsim religion. It was last seen in Kurast.
+tagDaggerD317Desc02=A powerful, holy artifact of the Skatsim religion. It was last seen in Kurast.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagDaggerD318=Lord Greenstone's Fan
+tagDaggerD318Desc=Legend has it that on hot days, Lord Greenstone enjoyed cooling himself with the wind of hurled knives.
+tagDaggerD319=Blood-Magic Blade
+tagDaggerD319Desc=The taste of blood unleashes a magic few can control.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagDaggerD320=Shard of Hate
+tagDaggerD321=Scrimshaw
+tagDaggerD322=Umbral Oath
+tagDaggerD322Desc=The Umbral Oath exists in both the living and spirit worlds.
+
+
+tagShouldersD301=Uliana's Strength
+tagShouldersD302=Jade Harvester's Joy
+tagShouldersD303=Mantle of the Upside-Down Sinners
+tagShouldersD304=Firebird's Pinions
+tagShouldersD305=Pauldrons of Akkhan
+tagShouldersD306=Roland's Mantle
+tagShouldersD307=Rathma's Spikes
+tagShouldersD308=Inarius's Martyrdom
+tagShouldersD309=Death Watch Mantle
+tagShouldersD310=Corpsewhisper Pauldrons
+tagShouldersD311=Spaulders of Zakara
+tagShouldersD312=Mantle of Channeling
+tagShouldersD313=Lefebvre's Soliloquy
+tagShouldersD313Desc=The monk Lefebvre was famous for delivering soliloquies in battle. If they were eloquent, no one knows, for all who heard them died.
+tagShouldersD314=Razeth's Pauldrons
+tagShouldersD315=Emimei's Mantle
+tagShouldersD316=Pauldrons of the Skeleton King
+tagShouldersD316Desc="No matter its value, it would be wise to let the raiment of the Black King remain buried with its fallen owner. No good can come of disturbing Leoric's rest." - Deckard Cain
+tagShouldersD317=Pestilence Mantle
+tagShouldersD318=Vyr's Pauldrons
+tagShouldersD319=Helltooth Mantle
+tagShouldersD320=Trag'Oul's Heart
+tagShouldersD321=Spaulders of Valor
+tagShouldersD322=Marauder's Mantle
+tagShouldersD323=Mountain of the Light
+tagShouldersD324=Typhon's Mantle
+tagShouldersD325=The Shadow's Burden
+tagShouldersD326=Inna's Temperance
+tagShouldersD327=Mundunugu's Descendant
+tagShouldersD328=Arachyr's Mantle
+tagShouldersD329=Spires of the Earth
+tagShouldersD330=Immortal King's Stature
+tagShouldersD331=Pauldrons of the Wastes
+tagShouldersD332=Raekor's Burden
+tagShouldersD333=Mechanical Pauldrons
+tagShouldersD334=Mirrors of Justice
+tagShouldersD335=Fernam's Birthmantle
+tagShouldersD335Desc=The founder of the blood knights entrusted his birthmantle, stained in the blood of dozens of vampires, to the order before his disappearance, Wearing it outside of a chapterhouse is an affront, but these are dire times.
+tagShouldersD336=Crimson Realm's Shoulderguards
+tagShouldersD337=Depthsdrawn Mantle
+tagShouldersD337Desc=It is a rite of passage for aspiring tempests to wade into a riptide until they are dragged down, holding on to a lone blade to demonstrate their calm in the face of death.
+tagShouldersD338=Frozen Tundra's Shoulderguards
+tagShouldersD339=Pauldrons of the High Seas
+
+
+
+tagHandsD301=The Shadow's Grasp
+tagHandsD302=Gungdo Gear
+tagHandsD302Desc="Cover your wrists in righteousness that you may strike with the will of the gods." -Tenets of the Veradani
+tagHandsD303=Uliana's Fury
+tagHandsD304=Jade Harvester's Mercy
+tagHandsD305=Gabriel's Vambraces
+tagHandsD305Desc=Always seeking to improve the Crusaders' efficiency, Akkhan's Master Blacksmith Gabriel crafted these bracers to increase the power of summoned Blessed Hammers.
+tagHandsD306=Tal Rasha's Grasp
+tagHandsD307=Pinto's Pride
+tagHandsD308=Fists of Thunder
+tagHandsD309=Zunimassa's Gloves
+tagHandsD310=Fierce Gauntlets
+tagHandsD311=Inarius's Will
+tagHandsD312=Rathma's Macabre Vambraces
+tagHandsD313=Spirit Guards
+tagHandsD313Desc=The Patriarchs say that when the spirit waxes, the dangers of this world wane.
+tagHandsD314=Lakumba's Ornament
+tagHandsD314Desc=There is a thread from the Unformed Land in all things. Lakumba, above all others, knew how to weave it. Her shrouds revealed a truth many refused to see.
+tagHandsD315=Wilken's Reach
+tagHandsD315Desc="I studied the relationship between the Umbaru and the dead. And it is safe to say that their grasp matches their reach." - High Scholar Wilken
+tagHandsD316=Magefist
+tagHandsD316Desc=You hold the power of true magic within your hands.
+tagHandsD317=Bracers of Fury
+tagHandsD317Desc=Those that cannot see the truth of the Light will suffer its wrath.
+tagHandsD318=Drakon's Lesson
+tagHandsD318Desc="Would you rather face ten opponents who are slightly injured? Or seven healthy opponents, who are distracted by the three corpses at your feet?"- Elder Crusader Drakon.
+tagHandsD319=Coils of the First Spider
+tagHandsD319Desc="It is claimed that Arachyr was able to restore the vital life essence of his followers by using creatures spawned from the realm that lies between our world and the Unformed Land."
+tagHandsD320=Frostburn Bracers
+tagHandsD320Desc=These gauntlets drain the warmth from anything they touch.
+tagHandsD321=Wraps of Clarity
+tagHandsD321Desc=Steadies the arm and brings calm certainty in the face of death.
+tagHandsD322=Roland's Grasp
+tagHandsD323=Grasp of Essence
+tagHandsD323Desc=You feel attuned to the life force in all beings.
+tagHandsD324=Jeram's Bracers
+tagHandsD324Desc=You can still see traces of the blood left by the demonic multitudes Jeram slew on his quest for revenge.
+tagHandsD325=Tasker and Theo Gloves
+tagHandsD325Desc=The master and his hound were the most famed hunters of their day. He died fighting beside his favorite dog, just as the way he would have wanted it. His loyal companion soon followed.
+tagHandsD326=Moribund Gauntlets
+tagHandsD326Desc=Death is the state that unites all things. That which seems alive is only waiting to die.
+tagHandsD326DescB=Death is the state that unites all things. That which seems alive is only waiting to die.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagHandsD327=Pestilence Gloves
+tagHandsD328=Vyr's Grasping Gauntlets
+tagHandsD329=Gauntlets of Valor
+tagHandsD330=Trag'Oul's Claws
+tagHandsD331=Marauder's Gloves
+tagHandsD332=Ashnagarr's Blood Bracers
+tagHandsD333=Will of the Light
+tagHandsD334=Typhon's Bracers
+tagHandsD335=Gauntlets of Akkhan
+tagHandsD336=Natalya's Touch
+tagHandsD337=Lefebvre's Handguards
+tagHandsD337Desc=The monk Lefebvre was famous for delivering soliloquies in battle. If they were eloquent, no one knows, for all who heard them died.
+tagHandsD338=Mundunugu's Rhythm
+tagHandsD339=Arachyr's Claws
+tagHandsD340=Vambraces of Sescheron
+tagHandsD340Desc="These look to be of Sescheron origin to me. Strange though - when others use them, they are nothing special. When you use them, well..." - Haedrig
+tagHandsD341=Mortick's Bracers
+tagHandsD342=Pull of the Earth
+tagHandsD343=Immortal King's Irons
+tagHandsD344=Gauntlet of the Wastes
+tagHandsD345=Raekor's Wraps
+tagHandsD346=Automail Forearm
+tagHandsD347=Bazubands of Justice
+tagHandsD348=Crystal Fist
+tagHandsD349=Helltooth Gauntlets
+tagHandsD350=Bonds of C'Lena
+tagHandsD350Desc=His dark pupils and wry smile reflected the lifeless skeletons he brought back to serve the Balance.
+tagHandsD350DescB=His dark pupils and wry smile reflected the lifeless skeletons he brought back to serve the Balance.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n}.
+tagHandsD351=Gelmindor's Marrow Handguards
+tagHandsD351Desc=Many cannot bear the weight of Rathma's charge, but Gelmindor upheld it with arms outstretched.
+tagHandsD352=Bracers of the First Men
+tagHandsD352Desc="I do not care if these were forged in long dead furnaces by the Ancients themselves. They help me crush my enemies; that is all that matters." -Aletur of Sescheron
+tagHandsD353=Custerian Handguards
+tagHandsD353Desc="In ancient times, there lived a strange race of people: the Custerians. No one knows who they were, or what they were doing, but their legacy remains beaten into the very metal of these handguards." - Yuan, wise man of Tufnyl
+tagHandsD354=Gloves of the Worship
+tagHandsD354Desc=These scaled gloves, sewn from the flayed skin of a deceiver, are gifted only to the Dark Coven's most favored mortal servants.
+tagHandsD355=Ranslor's Handguards
+tagHandsD356=Spiritreaper's Wraps
+tagHandsD356Desc="The magic emanating from these bracers is strange and unknown to us. Prior to their discovery, it was thought impossible to utilize the powers that grant one health to also regenerate one's might. Their very existence forces us to reconsider some of our basic understandings of the nature of magic." - Archmage Valthek
+tagHandsD356DescB="The magic emanating from these bracers is strange and unknown to us. Prior to their discovery, it was thought impossible to utilize the powers that grant one health to also regenerate one's might. Their very existence forces us to reconsider some of our basic understandings of the nature of magic." - Archmage Valthek{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n}.
+tagHandsD357=Bracers of Destruction
+tagHandsD357Desc="These bracers appear to utilize primal forces channeled from the ground itself. Interesting, to say the least." - Abd al-hazir
+tagHandsD358=Fletcher's Bracers
+tagHandsD359=Stone Gauntlets
+tagHandsD359Desc=Heavy. Stone. Brutal.
+tagHandsD360=Rootvein Gauntlets
+tagHandsD361=Crimson Realm's Handguards
+tagHandsD362=Seabreeze's Touch
+tagHandsD363=Touch of the High Seas
+
+
+
+tagTorsoD301=The Shadow's Bane
+tagTorsoD302=Nightstalker's Embrace
+tagTorsoD303=Inna's Vast Expanse
+tagTorsoD304=Uliana's Heart
+tagTorsoD305=Jade Harvester's Peace
+tagTorsoD306=Tal Rasha's Relentless Pursuit
+tagTorsoD307=Natalya's Embrace
+tagTorsoD308=Heart of the Crashing Wave
+tagTorsoD309=Zunimassa's Marrow
+tagTorsoD310=Jacket of Deception
+tagTorsoD310Desc=This iridescent jacket, woven from the silk of starlight butterfly larvae, serves to twist sight around it, like a mirage rising off the desert sands.
+tagTorsoD311=Blackfeather Raiment
+tagTorsoD312=Firebird's Breast
+tagTorsoD313=Harness of Truth
+tagTorsoD314=Breastplate of Akkhan
+tagTorsoD315=Roland's Bearing
+tagTorsoD316=Rathma's Ribcage Plate
+tagTorsoD317=Inarius's Conviction
+tagTorsoD318=Beckon Sail Raiment
+tagTorsoD318Desc=Favored by those who do their fighting in the underworld.
+tagTorsoD319=Raiment of the Garwulf
+tagTorsoD320=Chestguard of the Dark Knight
+tagTorsoD321=Robe of the Undying Souls
+tagTorsoD322=Armor of the Kind Regent
+tagTorsoD323=Bloodsong Raiment
+tagTorsoD324=Requiem Cereplate
+tagTorsoD324Desc=Originally fashioned for a king's burial, it was instead entrusted to a Priest of Rathma, who began the tradition of passing it on to the worthiest champions of the necropolis.
+tagTorsoD325=Jacket of the Dark Night
+tagTorsoD325Desc="Those who seek to do evil are a cowardly and superstitious lot." -Demon Hunter Bayne
+tagTorsoD326=Cinderskin Coat
+tagTorsoD326Desc=One could withstand the fires of Hell itself wearing armor such as this.
+tagTorsoD327=Ironheart Chestguard
+tagTorsoD327Desc=The blessed armor of Olenna the 'Iron Crusader' eventually passed to her apprentice, who proudly wore it alongside her own. Though she took her master's name, she was ultimately known with a very different moniker.
+tagTorsoD328=Pestilence Robe
+tagTorsoD329=Vyr's Astonishing Aura
+tagTorsoD330=Trag'Oul's Scales
+tagTorsoD331=Brigandine of Valor
+tagTorsoD332=Marauder's Chestguard
+tagTorsoD333=Heart of the Light
+tagTorsoD334=Typhon's Vestments
+tagTorsoD335=Inna's Vast Expanse
+tagTorsoD336=Robes of Rydraelm
+tagTorsoD337=Mundugunu's Robe
+tagTorsoD338=Arachyr's Carapace
+tagTorsoD339=Spirit of the Earth
+tagTorsoD340=Immortal King's Eternal Reign
+tagTorsoD341=Cuirass of the Wastes
+tagTorsoD342=Raekor's Heart
+tagTorsoD343=Galvanized Vestments
+tagTorsoD344=Lamellars of Justice
+tagTorsoD345=Helltooth Tunic
+tagTorsoD346=Tyrael's Might
+tagTorsoD346Desc="And lo, the Angel of Justice did cast his judgment in favor of the nephalem." - The Books of Jarl, Volume III
+tagTorsoD347=Aquila Cuirass
+tagTorsoD347Desc=Ceremonial armor commemorating the chieftain Ghaold's victory over the wild men from the east.
+tagTorsoD348=Shi Mizu's Vestments
+tagTorsoD348Desc="Being near death tends to focus the mind." -Shi Mizu, Warrior-Philosopher
+tagTorsoD349=Goldskin Breastplate
+tagTorsoD350=Chiropteran Chestguard
+tagTorsoD351=Crimson Realm's Hauberk
+tagTorsoD352=Zephyrguard Armor
+tagTorsoD352Desc=Upon the isles, it is common for those guilty of capital crimes to face atonement by drowning in brackish water. Some tempests dress in the garb of the condemned to remind themselves that they are forever bound to exile.
+tagTorsoD353=Galedancer's Coat
+tagTorsoD353Desc=Ksathra taught the people of tide-lost Pelghain to sail and fight in the bladedancing style. Yet war and travel together always beget expansion.
+tagTorsoD354=Raiment of the High Seas
+
+
+tagHeadD301=The Shadow's Mask
+tagHeadD302=The Magistrate
+tagHeadD302B=Magistrate
+tagHeadD302Desc=The most powerful of wizards will find themselves richly rewarded by their studies. This cowl is for those who like to display their power in a more elegant fashion.
+tagHeadD303=Crown of the Primus
+tagHeadD303Desc=The Peace Warder Radaugh was a singular being who had the powers of time itself at his command. Unfortunately, this frequently left him in a befuddled state, allowing the upstart cultist Vess to kill him and take the prized Crown of the Primus for his own.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagHeadD304=Warhelm of Kassar
+tagHeadD305=Fate's Vow
+tagHeadD305Desc="This cowl belongs to those who are dead. All who have worn it have died, and all who wear it yet shall follow." - Unknown
+tagHeadD306=Uliana's Spirit
+tagHeadD307=Jade Harvester's Wisdom
+tagHeadD308=Tal Rasha's Guise of Wisdom
+tagHeadD309=Archmage's Vicalyke
+tagHeadD309Desc="Ha! That was but the first of many times I supposedly met death at the hands of my enemies." - Archmage Horazon
+tagHeadD310=Zunimassa's Vision
+tagHeadD311=Natalya's Sight
+tagHeadD312=Firebird's Plumes
+tagHeadD313=Shrouded Mask
+tagHeadD314=Eye of Peshkov
+tagHeadD314Desc="The mind sees most clearly when the eyes are shut."- High Abbot Peshkov
+tagHeadD315=Helm of Akkhan
+tagHeadD316=Roland's Visage
+tagHeadD317=Inarius's Understanding
+tagHeadD318=Rathma's Skull Helm
+tagHeadD319=Visage of Gunes
+tagHeadD319Desc=The hunter Gunes would never reveal the origins of this helmet. Some say it contained the essences of demons who had suffered his vengeance. They also claim it was the cause of his downfall.
+tagHeadD320=Andariel's Visage
+tagHeadD320Desc=A helmet worn by one of the Great Evils that can only be found in the darkest dungeons of the Reign of Terror.
+tagHeadD321=Peshkov's Crown
+tagHeadD322=Mask of Jeram
+tagHeadD322Desc=To pursue his vendetta, Jeram crafted this terrible mask, capable of calling all manner of beasts and the walking dead to his service.
+tagHeadD323=Split Tusk
+tagHeadD324=Quetzalcoatl
+tagHeadD325=Mask of Scarlet Death
+tagHeadD325Desc=It grins at you unsettlingly.
+tagHeadD326=Velvet Camaral
+tagHeadD327=Tzo Krin's Mask
+tagHeadD327Desc=The old warrior came to Tzo Krin to ask how to settle his troubled mind. "Bring me your mind, and I will settle it." Upon hearing this, the old warrior immediately achieved enlightenment.
+tagHeadD328=Stormcrow Visage
+tagHeadD329=Swami's Mask
+tagHeadD329Desc=Bestows upon the wearer both formidable power and an unsurpassed statement of fashion.
+tagHeadD330=Marauder's Visage
+tagHeadD331=Eye of the Storm
+tagHeadD331Desc=Ultimate power emerges only from the calm at its center.
+tagHeadD332=Mask of Twilight
+tagHeadD332Desc={^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagHeadD333=Pestilence Mask
+tagHeadD334=Vyr's Sightless Skull
+tagHeadD335=Trag'Oul's Guise
+tagHeadD336=Crown of Valor
+tagHeadD337=Marauder's Visage
+tagHeadD338=Visage of the Light
+tagHeadD339=Grim Reaper's Gaze
+tagHeadD339Desc=Death wears many faces.
+tagHeadD340=Mask of the Searing Sky
+tagHeadD341=Typhon's Circlet
+tagHeadD342=Inna's Radiance
+tagHeadD343=Mundunugu's Headdress
+tagHeadD344=Arachyr's Visage
+tagHeadD345=Eyes of the Earth
+tagHeadD346=Immortal King's Triumph
+tagHeadD347=Helm of the Wastes
+tagHeadD348=Dystopian Goggles
+tagHeadD349=Decree of Justice
+tagHeadD350=Helltooth Mask
+tagHeadD351=Deathseer's Cowl
+tagHeadD352=Skull of Resonance
+tagHeadD352Desc=This macabre helm was hollowed out in such a way as to concentrate and disperse sounds in a focused manner.
+tagHeadD353=Visage of Giyua
+tagHeadD353Desc=Eternal Giyua, guardian of the Unformed Land, blesses the worthy champion with the gift of her children.
+tagHeadD353DescB=Eternal Giyua, guardian of the Unformed Land, blesses the worthy champion with the gift of her children.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagHeadD354=Cowl of Seething Hatred
+tagHeadD354Desc=Seeing their enemies flayed serves only to fuel the thirst for revenge that burns within a demon hunter's breast.
+tagHeadD355=Horns of the Hexed
+tagHeadD355Desc=The gnarled horns serve as a blood knight's last resort in battle. While they appear delicate, they're able to repeatedly gore enemies without snapping.
+tagHeadD356=Crimson Realm's Gaze
+tagHeadD357=Windwaker's Hood
+tagHeadD357Desc="Tempests must to control themselves as they control the wind. To your allies, be gentle as a breeze. To your enemies, be relentless as a hurricane." - Delanor Windwaker.
+tagHeadD358=Cowl of the High Seas
+tagHeadD359=Grin Reaper's Cowl
+tagHeadD359Desc=Death wears many faces.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+
+
+
+
+tagLegsD301=Jade Harvester's Courage
+tagLegsD302=The Shadow's Coil
+tagLegsD303=Natalya's Leggings
+tagLegsD304=Scales of the Dancing Serpent
+tagLegsD305=Zunimassa's Cloth
+tagLegsD306=Firebird's Down
+tagLegsD307=Cuisses of Akkhan
+tagLegsD308=Pox Faulds
+tagLegsD309=Swamp Land Waders
+tagLegsD310=Hammer Jammers
+tagLegsD310Desc=Stop! Hammer time.
+tagLegsD311=Golemskin Breeches
+tagLegsD312=Defiler Cuisses
+tagLegsD312Desc=Walk as though you are one with the night.
+tagLegsD313=Augustine's Legguards
+tagLegsD313Desc=The demon hunter Augustine liked to use the right projectile for every occasion.
+tagLegsD314=Nightflayer's Legguards
+tagLegsD315=Waverider's Leggings
+tagLegsD315Desc=A wave that breaks on shore without disaster is a good omen, often described as "the sea remembering how to dance."
+tagLegsD316=Mistweaver's Legwraps
+
+
+
+tagCraftedD301=Rydraelm's Robes
+tagCraftedD301Desc=The Rydraelm, a shadowy group of mages, concerned itself with the most arcane forms of magic until its mysterious and grisly demise.
+tagCraftedD302=Rydraelm's Raiment
+tagCraftedD303=Helm of Command
+tagCraftedD304=Helm of Rule
+tagCraftedD305=Shar'Zul's Deceit
+tagCraftedD305Desc=These pants are the result of an unfortunate bargain struck between the demon Shar'Zul and an unwitting human.
+tagCraftedD306=Wall of Bone
+tagCraftedD306Desc="Named for the Battle of Josqueira, a conflict so long and fierce that men used the skeletons of their fallen comrades to build fortifications."
+tagCraftedD307=Wall of Man
+
+tagCelestialD301=^oCelestial Essence
+tagCelestialD301Desc="The essence of the constellations can grants you the most desirable celestial powers."^w^n(Used in chest)
+
+tagCelestialD302=^oThe Abomination
+tagCelestialD302Desc="Golgoran, the abomination, represents humanity's basest instincts, fear of death and shadows, the desire to have what you have not. The abomination embodies all that turns man wicked.."^w^n(Used in rings)
+
+tagGemD301=^oDiamond
+tagGemD301Desc=^w(Used in rings)
+tagGemD302=^oStar Diamond
+tagGemD303=^kImperial Diamond
+tagGemD304=^kRoyal Diamond
+
+tagGemD311=^oAmethyst
+tagGemD311Desc=^w(Used in chest)
+tagGemD312=^oStar Amethyst
+tagGemD313=^kImperial Amethyst
+tagGemD314=^kRoyal Amethyst
+
+tagGemD321=^oTopaz
+tagGemD321Desc=^w(Used in amulets)
+tagGemD322=^oStar Topaz
+tagGemD323=^kImperial Topaz
+tagGemD324=^kRoyal Topaz
+
+tagGemD331=^oEmerald
+tagGemD331Desc=^w(Used in all melee weapons and shields)
+tagGemD332=^oStar Emerald
+tagGemD333=^kImperial Emerald
+tagGemD334=^kRoyal Emerald
+
+tagGemD341=^oRuby
+tagGemD341Desc=^w(Used in all weapons, off-hands and shields)
+tagGemD342=^oStar Ruby
+tagGemD343=^kImperial Ruby
+tagGemD344=^kRoyal Ruby
+
+tagGemD351=^oSapphire
+tagGemD351Desc=^w(Used in shields){^n}{^n}^yDevotion Modifier: ^wSapphire allows the Kraken constellation to work with one-handed swords, maces and axes.
+tagGemD352=^oStar Sapphire
+tagGemD353=^kImperial Sapphire
+tagGemD354=^kRoyal Sapphire
+
+tagLegGemD301=Bane of the Powerful
+tagLegGemD301Desc=^w(Used in amulets and medals){^n}{^n}"Few things embolden the spirit like a powerful enemy lying dead at your feet."
+tagLegGemD302=Esoteric Alteration
+tagLegGemD302Desc=^w(Used in chest armor)
+tagLegGemD303=Bane of the Stricken
+tagLegGemD303Desc=^w(Used in all weapons, shields and offhands)
+tagLegGemD304=Boon of the Trapped
+tagLegGemD304Desc=^w(Used in boots)
+tagLegGemD305=Boyarsky's Chip
+tagLegGemD305Desc=^w(Used in shields){^n}{^n}This fragment of a gem, called a chip, was discovered in an underground vault by old man Boyarsky, who fashioned it into the beautiful gem it is today. It damages those who would damage its owner, and once inserted into a socket, it will never fall out.
+tagLegGemD306=Enforcer
+tagLegGemD306Desc=^w(Used in head armor){^n}{^n}This stone shares its powerful heart with those who serve the bearer.
+tagLegGemD306Passive=Enforcer's Will
+tagLegGemD307=Invigorating Gemstone
+tagLegGemD307Desc=^w(Used in chest armor){^n}{^n}"Some say this stone derives its power from its owners life force, which is shortened with each use. Well I say any fight I can walk away from is a victory, and tomorrow can take care of itself." - Famed warrior Lenalas, the day before his death.
+tagLegGemD308=Echoing Shade
+tagLegGemD308Desc=^w(Used in two-handed melee weapons){^n}{^n}^oGlorify uniqueness, and you forget the power in duplication.
+
+
+
+tagGemSkill01=Esoteric Alteration
+tagGemSkill01Desc=Imbue your shield against the elements and toxins.
+
+tagBlueprintGemD301=Plan: Star Diamond
+tagBlueprintGemD302=Plan: Imperial Diamond
+tagBlueprintGemD303=Plan: Royal Diamond
+tagBlueprintGemD304=Plan: Star Amethyst
+tagBlueprintGemD305=Plan: Imperial Amethyst
+tagBlueprintGemD306=Plan: Royal Amethyst
+tagBlueprintGemD307=Plan: Star Topaz
+tagBlueprintGemD308=Plan: Imperial Topaz
+tagBlueprintGemD309=Plan: Royal Topaz
+tagBlueprintGemD310=Plan: Star Emerald
+tagBlueprintGemD311=Plan: Imperial Emerald
+tagBlueprintGemD312=Plan: Royal Emerald
+tagBlueprintGemD313=Plan: Star Ruby
+tagBlueprintGemD314=Plan: Imperial Ruby
+tagBlueprintGemD315=Plan: Royal Ruby
+
+tagStyleCrusader01=Crusader's
+tagStyleCrusader02=Empowered Crusader's
+tagStyleCrusader03=Mythical Crusader's
+
+tagStyleCrusaderRelic=Crusader's Arbiter
+
+tagItemSetD302=The Shadow's Mantle
+tagItemSetD302Desc="The darkness is your friend and your enemy's nightmare." -Demon Hunter Kunai{^n}
+
+tagItemSetD303=Uliana's Stratagem
+tagItemSetD303Desc="Uliana was the first to venture out amongst the laymen while retaining her status-for in those days, monks were forbidden to leave the monasteries, with their forms being used solely to commune with the gods."{^n}
+
+tagItemSetD304=Raiment of the Jade Harvester
+tagItemSetD304Desc=Every umbaru knows of Tukam, the Jade Harvester. The witch doctor became famous for adorning himself in armor he carved from green jade, which he believed heightened his connection with the spirits.{^n}
+
+tagItemSetD305=Tal Rasha's Elements
+tagItemSetD305Desc=Tal Rasha stored much of his power in these sources before sacrificing himself to imprison the demon lord Baal.{^n}
+
+tagItemSetD306=Inna's Mantra
+tagItemSetD306Desc="Only the holy will find refuge in Inna's arms."
+
+tagItemSetD307=Raiment of a Thousand Storms
+tagItemSetD307Desc="When one's strike is true, the force of the blow expands into an electric shockwave that echoes through one's soul." -Matriarch Lian Rasmussen{^n}
+
+tagItemSetD308=Zunimassa's Haunt
+tagItemSetD308Desc="The warrior who dons this armor will always have the spirit of Zunimassa upon them.{^n}
+
+tagItemSetD309=Natalya's Vengeance
+tagItemSetD309Desc="Natalya knew how to use the darkness as a weapon."{^n}
+
+tagItemSetD310=Firebird's Finery
+tagItemSetD310Desc="The origins of the 'Firebird' set remain a mystery. Their magical structures are advanced, yet they appear to be hundreds of years old." -Magus Vaeh Callee{^n}
+
+tagItemSetD311=Delsere's Magnum Opus
+tagItemSetD311Desc="Delsere's madness was a tragic loss. He melted down so many pieces, calling them inelegant. Yet each was more beautiful than most artisans could ever hope to craft." - High Councilor Valthek{^n}
+
+tagItemSetD312=Roland's Legacy
+tagItemSetD312Desc="My master believed salvation knows no bounds. I was a soul to be saved, so he saved me. That is why I proudly bear his name. The name of a great man." -Meditations on My Redemption{^n}
+
+tagItemSetD313=Armor of Akkhan
+tagItemSetD313Desc="Let the crusaders armor their flanks in plate of incredible strength, for their path is dangerous, and death will come at them from all sides." -Akkhan{^n}
+
+tagItemSetD314=Bones of Rathma
+tagItemSetD314Desc=The bones of many creatures have been artfully arranged in this protective armor that is based on Rathma's own design.{^n}
+
+tagItemSetD315=Pestilence Master's Shroud
+tagItemSetD315Desc="You may use death magic, but you are not invulnerable. Wear good armor, and maintain it well." - Deathspeaker Mykan{^n}
+
+
+tagItemSetD316=Grace of Inarius
+tagItemSetD316Desc=Inarius was the first of the angels to truly look into the heart of a demon.{^n}
+
+
+tagItemSetD317=Trag'Oul's Avatar
+tagItemSetD317Desc=Life and death flow through the Cycle as blood flows through veins.{^n}
+
+tagItemSetD301=Vyr's Amazing Arcana
+tagItemSetD301Desc="Vyr the Vainglorious created his famed obelisk to gather the power of the Archon, a being he claimed existed on a different plane of reality. He is even reputed to have stored this macabre power in armor of his own design." - Abd al-Hazir.{^n} ^yFull Set Modifier: ^hArcane Orb also releases ^pEnergy Twisters ^hon impact.
+
+tagItemSetD318=Aegis of Valor
+tagItemSetD318Desc="Mercy is a sign of weakness, it has no place in war." -Imperius, Archangel of Valor{^n}
+
+tagItemSetD319=Embodiment of the Marauder
+tagItemSetD319Desc="You will learn to walk as we do. As they do. You will stalk these monsters, these invaders, and after you have made your kill and faded away, the demons will find naught but their own treads upon the earth." - Hunter Aoron Gunes{^n}
+
+tagItemSetD320=The Typhon's Veil
+tagItemSetD320Desc="We must reach out to bridge the gap between the known and the unknown. Only then can we unleash our true potential." - Chamal the Dainty
+
+tagItemSetD321=Seeker of the Light
+tagItemSetD321Desc=Anajinn knew the Darkness would take her before the Light was found. But it did not matter, it had always been the search that mattered.
+
+tagItemSetD322=Mundunugu's Regalia
+tagItemSetD322Desc=A trance could last for minutes in the realm beyond, while only seconds would pass in this world.
+
+tagItemSetD323=Spirit of Arachyr
+tagItemSetD323Desc=Arachyr is often portrayed as a spider, but there is much debate as to how many legs he actually had. He was the first of the beasts created for this world. As such, he is father to all others.
+
+tagItemSetD324=Might of the Earth
+tagItemSetD324Desc=Mountains crumble. Cliffs fall. Canyons rip asunder. The forces that shape the land are a mystery to most. But not to you. Not anymore.
+
+tagItemSetD325=Immortal King's Call
+tagItemSetD325Desc=In the days when the barbarians roamed the entire western continent - long before the coming of Rakkis - one man, Worusk, united the tribes, and for the briefest of moments, the barbarians had a king.
+
+tagItemSetD326=Wrath of the Wastes
+tagItemSetD326Desc=This set is named after the cannibal tribes of Barbarians who inhabit the Dreadlands. This armor was crafted by their hands and retrieved by their southern brethren.
+
+tagItemSetD327=The Legacy of Raekor
+tagItemSetD327Desc=Though barbarian women were respected as warriors, they were still seen as inferior to their male brethren on the field of battle. Until the coming of Raekor, the first woman to attain the exalted status of Warmaster.
+
+tagItemSetD328=Gears of Dreadlands
+tagItemSetD328Desc=After the ruination of Barbarian civilization, a new group would arise and make the Dreadlands their home: the Demon Hunters, comprised of survivors of demon attacks and sworn to destroy the creatures of Hell.
+
+tagItemSetD329=Patterns of Justice
+tagItemSetD329Desc=In the world of angels, the archangel of Wisdom had recently come to realize, there are no beds.
+
+tagItemSetD330=Helltooth Harness
+tagItemSetD330Desc="Great power festers within demon skulls. Wear them close to your heart, and feel their dark magic thunder through you." -Jeram of the Whispering Valley
+
+tagItemSetD331=Armor of the Crimson Realm
+tagItemSetD331Desc=Armor forged from obsidian shards imbued with void energy, which can only be found in the depths of the underworld.
+
+tagItemSetD332=Mantle of the High Seas
+tagItemSetD332Desc=To rule the wind is to feel your spirit stretch beyond what your eyes can see. To rule the waves is to feel yourself standing upon a throne miles high. To rule them together is to begin your understanding of empire.
+
+
+
+
+tagMarauderBelt=Pillager's Ammo Belt
+tagMarauderGloves=Pillager's Gloves
+tagMarauderFury=Pillager's Fury
+tagMarauderJustice=Pillager's Justice
+
+tagMarauderSet01=Pillager's Justice
+tagMarauderSet02=Pillager's Judgment
+
+
+
+tagMelee2hD301=Inna's Reach
+
+tagFocusD301=Tal Rasha's Unwavering Glare
+tagFocusD302=SuWong Diviner
+tagFocusD303=Zunimassa's String of Skulls
+tagFocusD304=The Oculus
+tagFocusD305=Codex of Isendra
+tagFocusD306=Winter Flurry
+tagFocusD306Desc=The power of the cold death of winter is not something to be taken lightly.
+tagFocusD307=Myken's Ball of Hate
+tagFocusD308=Shukrani's Triumph
+tagFocusD309=Bitterness
+tagFocusD309Desc=You hold your enemy's future in your hand.
+tagFocusD310=Flow of Eternity
+tagFocusD311=Homunculus
+tagFocusD311Desc=The severed head of a homunculus is the source of much power for a knowledgeable witch doctor.
+tagFocusD312=Ursua's Trodden Effigy
+tagFocusD312Desc=Calling on the spirits of beasts made Desolate, she stifled the bleating Khazra host outside Viz-jun with a sloth of horrors.
+tagFocusD313=Cosmic Strand
+tagFocusD313Desc=Holds the secret to existence for those who can decipher its inscriptions.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagFocusD314=Aetherwalker
+tagFocusD314Desc=Virgil quickly lashed together remnants of his old spellbook and an unidentified artifact and sanctified them with his own blood, allowing him to teleport to safety and to begin formulating his revenge.
+tagFocusD315=Primordial Soul
+tagFocusD315Desc=The Primordial Soul has existed since before time began. It is the perfect expression of the original elements of creation.
+tagFocusD316=Gazing Demise
+tagFocusD317=Orb of the Infinite Depth
+tagFocusD318=Etched Sigil
+tagFocusD319=Lost Time
+tagFocusD319Desc=The orb glows with the essence of several lives that ended too soon.
+tagFocusD320=Sickle of Jairo
+tagFocusD320Desc="An enemy's suffering is naught but the greatest pleasure." - Necromancer Jairo{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagFocusD321=Mirrorball
+tagFocusD321Desc="Summoned from beyond the veil of death, and disposed to send its victims back there, the malevolent intelligence within this silver sphere may only be controlled by someone with intense resolve." - Deckard Cain
+tagFocusD321DescB="Summoned from beyond the veil of death, and disposed to send its victims back there, the malevolent intelligence within this silver sphere may only be controlled by someone with intense resolve." - Deckard Cain{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+tagFocusD322=Chantodo's Force
+tagFocusD322Desc=Only a master of the mystical arts can harness the forces contained within this orb.{^n} 
+tagFocusD323=Castellatia
+tagFocusD323Desc=When you go forth from the manor, it walks. You are the walls and the gates. You are the lord and the castle.
+tagFocusD324=Belial's Gaze
+tagFocusD324Desc=Eye of Belial, the Lord of Lies, responsible for the beginning of the Burning Hells' civil war.
+tagFocusD325=Malthael's Essence
+tagFocusD325Desc=Essence of Malthael, former member of the Angiris Council. Once the Archangel of Wisdom, he became the Angel of Death.
+tagFocusD326=Crimson Soulstone
+tagFocusD326Desc=A shard of the Worldstone, used to imprison the soul of Diablo, the Prime Evil.
+tagFocusD327=Embergaze's Eye
+tagFocusD328=Groble Voidforge Effigy
+
+
+
+
+tagBlueprintD301=Plan: Rydraelm's Robes
+tagBlueprintD302=Plan: Rydraelm's Raiment
+tagBlueprintD303=Plan: Helm of Command
+tagBlueprintD304=Plan: Helm of Rule
+tagBlueprintD305=Plan: Shar'Zul's Deceit
+tagBlueprintD306=Plan: Wall of Bone
+tagBlueprintD307=Plan: Wall of Man
+
+
+tagRingD301=Band of Might
+tagRingD301Desc="Seems designed to reduce damage, but I'm not sure how it works. Obviously, it failed its previous owner. Hopefully it will work better for you." - Haedrig
+tagRingD302=Arcstone
+tagRingD303=Halo of Karini
+tagRingD303Desc="See the man dance! Oh, wait, my lightning is making him do that." -Karini, the Wizard.
+tagRingD304=Halo of Arlyse
+tagRingD304Desc=Frostsmith Arlyse labored on the glacier for many months, seeking to harness the power of deep winter. In the spring, her tribe found her frozen corpse a short distance from her camp, holding this ring up to the heavens.
+tagRingD305=Obsidian Ring of the Zodiac
+tagRingD306=Elusive Ring
+tagRingD307=Band of the Rue Chambers
+tagRingD308=Band of Hollow Whispers
+tagRingD308Desc=The mutterings of souls trapped within the ring grow louder as their power is drained with each spell cast by the wearer.
+tagRingD309=Eternal Union
+tagRingD309Desc="The guardians of the righteous cleave to those whose existence is a virtuous one." -The Precepts of Akkhan
+tagRingD310=Convention of Elements
+tagRingD310Desc=Long ago, a great conclave of mage-smiths convened during a blizzard to channel their collective energy into a single artifact, forging a powerful ring that bestowed upon the wielder mastery over all of the elements.
+tagRingD311=Stone of Jordan
+tagRingD311Desc=The Stone of Jordan is far more valuable than its appearance would suggest. Men have given much to possess it.
+tagRingD312=Oculus Ring
+tagRingD312Desc=The eye of the one god blesses those who seek it out.
+tagRingD313=Briggs' Wrath
+tagRingD313Desc="Let fear strike my enemies in the moment of their greatest weakness. Let their suffering embalm them as death comes." - Passage from the Prayer of Briggs
+tagRingD314=Krysbin's Sentence
+tagRingD314Desc="How curious. The day we cross paths is also the day of your passing." - Necromancer Krysbin
+tagRingD315=Leoric's Signet
+tagRingD315Desc=King Leoric had hoped to pass along the symbol of his family's noble lineage to his first son before they met an unfortunate fate.
+tagRingD316=Bul-Kathos' Wedding Band
+tagRingD316Desc=Forged in the city of Harrogath to commemorate a day sacred to the barbarians.
+
+tagNecklaceD301=Talisman of Aranoch
+tagNecklaceD301Desc=The heat of the blazing desert protects one from the cold.
+tagNecklaceD302=Countess Julia's Cameo
+tagNecklaceD303=Mara's Kaleidoscope
+tagNecklaceD304=Star of Azkaranth
+tagNecklaceD304Desc=Imbued with Azkaranth's immense powers with his dying breath.
+tagNecklaceD305=Xephirian Amulet
+tagNecklaceD305Desc=Some say Xephiria is but a myth, a fanciful place that never existed. The power of this amulet says otherwise.
+tagNecklaceD306=Flavor of Time
+tagNecklaceD306Desc=This garish amulet, once worn by an over large imp, makes time an insignificant thing.
+tagNecklaceD307=Wisdom of Kalan
+tagNecklaceD307Desc="All we know may yet come to a great and terrible end if we do not intervene." -Excerpt from the Books of Kalan
+tagNecklaceD308=Leger's Disdain
+tagNecklaceD308Desc=The face within the center of this amulet is the shrunken visage of an ancient priest of Rathma. He appears to be judging you unfavorably.
+tagNecklaceD309=The Johnstone
+tagNecklaceD309Desc=The stone in the center of the amulet glimmers with unfathomable power and potential.
+tagNecklaceD310=Mirrorball
+tagNecklaceD310Desc="Summoned from beyond the veil of death, and disposed to send its victims back there, the malevolent intelligence within this silver sphere may only be controlled by someone with intense resolve. Once its power is harnessed, however, the ball acts as a loyal enforcer of its master's will." - Deckard Cain
+tagNecklaceD311=Gyana Na Kashu
+tagNecklaceD311Desc=The stone envelopes one's enemies in the warm embrace of a raging fire. The screaming drowns out their sincere thanks.
+tagNecklaceD312=Moonlight Ward
+tagNecklaceD313=Golden Gorget of Leoric
+tagNecklaceD314=Dovu Energy Trap
+tagNecklaceD315=Eye of Etlich
+tagNecklaceD316=Squirt's Necklace
+tagNecklaceD316Desc=An unassuming chunk of stone covered with runes. The name of Kantwirt, the ancient god of thieves, is scratched onto its back.
+tagNecklaceD317=Skull Grasp
+tagNecklaceD317Desc="Unscrupulous merchants have often duplicated this much sought-after amulet to sell to the unwary."
+tagNecklaceD318=The Tall Man's Finger
+tagNecklaceD318B=Tall Man's Finger
+tagNecklaceD318Desc=This finger was severed from the hand of an Umbaru priest who crossed over to Mbwiru Eikura in search of knowledge and came back... changed.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagNecklaceD319=Bone Ringer
+tagNecklaceD319Desc=When this bell tolls, the dead will always answer.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n}{^n} 
+tagNecklaceD320=Warbringer
+tagNecklaceD321=Pandemonium Loop
+tagNecklaceD321Desc="Wishing to sow fear among the angelic defenders of the Pandemonium Fortress, Diablo gifted this amulet to Iskatu, who used it to great effect in his battles against the Host. Its power could not sway Imperius, however, and the ring was lost along with Iskatu's arm before the demon could flee the field of battle." - Deckard Cain
+tagNecklaceD322=Rakoff's Glass of Life
+tagNecklaceD322Desc=Rakoff was a simple layman scribe who studied the ways and fighting technique of the monks extensively before creating an item to draw out the life force of a defeated enemy.
+tagNecklaceD323=Swarmspeaker's Amulet
+tagNecklaceD324=Crimson Realm's Shard
+tagNecklaceD325=Azmodan's Blazing Essence
+tagNecklaceD325Desc=Essence of Azmodan, the Lord of Sin, the last of the Great Evils to be trapped in the Black Soulstone.
+tagNecklaceD326=Succubus' Pendant
+tagNecklaceD327=Amulet of Endless Currents
+tagNecklaceD328=Pendant of the High Seas
+
+
+MEDALS
+
+tagMedalD301=Toothdrinker Crest
+tagMedalD302=Adria's Blood Sigil
+tagMedalD302Desc=Sigil of Adria, former member of the Coven and servant of Diablo.
+
+
+
+
+
+
+BELTS
+
+tagWaistD301=Omnislash
+tagWaistD301Desc=A gift from the Father Kymon to Inhora, a crusader who came to the aid of his sanctuary at a crucial time.
+tagWaistD302=Hunter's Wrath
+tagWaistD303=Jang's Envelopment
+tagWaistD304=Hellcat Waistguard
+tagWaistD304Desc=Forged in the pits of the Burning Hells using dismembered demons as raw materials.
+tagWaistD305=Angel Hair Braid
+tagWaistD305Desc=This belt is composed of sorcerous fibers that are light but unbreakable.
+tagWaistD306=Dayntee's Binding
+tagWaistD306Desc=Once worn by a steadfast soul with a taste for victory.
+tagWaistD307=Crashing Rain
+tagWaistD307Desc=When it rains, it crashes.
+tagWaistD308=Haunting Girdle
+tagWaistD308Desc=This belt seethes with strange and disturbing magic. It upsets the fine balance between this world and the Unformed Land. To wear this is to tempt the fates.
+Item Skills
+tagWaistD309=Belt of Transcendence
+tagWaistD309Desc=Witch doctors learned long ago that some spirits wish to visit our world, and that certain materials will act as a beacon to them.
+tagWaistD310=Fazula's Improbable Chain
+tagWaistD311=Sash of Knives
+tagWaistD311Desc="Keep your enemies close, and your blades closer." - Viz-Jaq'taar saying
+tagWaistD312=Hergbrash's Binding
+tagWaistD313=Thundergod's Vigor
+tagWaistD313Desc="And the god of thunder struck down transgressors with great fury and vengeance..." - Scrolls of Haroutunian
+tagWaistD314=Belt of the Trove
+tagWaistD315=Kyoshiro's Soul
+tagWaistD316=Chain of Shadows
+tagWaistD316Desc="Some theorized that hunters like Kunai harnessed the power of shadows to accomplish feats beyond the ken of mere mortals. Preposterous." - Abd al-Hazir
+tagWaistD317=Shame of Delsere
+tagWaistD317Desc=Unable to make this belt work with his Magnum Opus, Delsere rejected it out of hand and forbade anyone from using it. Ever.
+tagWaistD318=Immortal King's Tribal Binding
+tagWaistD319=The Undisputed Champion
+tagWaistD319B=Undisputed Champion
+tagWaistD319Desc=Few in this world can truly be called champions.
+tagWaistD320=Dread Iron
+tagWaistD320Desc=Forged from armor found in the aftermath of the destruction of Mount Arreat.
+tagWaistD321=Pride of Cassius
+tagWaistD321Desc=He moved swiftly and he struck hard. Truly the greatest warrior to have walked the land.
+tagWaistD322=Hwoj Wrap
+tagWaistD322Desc="The witch doctor was eager to display his martial prowess, and he was especially proud of his enchanted belt, which he claimed gave him great advantage in battle. It was obviously an item of great importance to him and had been in his clan for generations untold." -Abd al-Hazir
+tagWaistD323=Bakuli Jungle Wraps
+tagWaistD324=Zoey's Secret
+tagWaistD325=Khasseth's Cord of Righteousness
+tagWaistD325Desc="Khassett, one of the more accomplished Crusaders, was known for smithing his own armor in righteous flame believing in efficiency above all else." - Abd al-Hazir
+tagWaistD326=Sacred Harness
+tagWaistD327=Brood of Araneae
+tagWaistD327Desc=I don't know how long I've been lost inside this labyrinth, but I know not to disturb the eggs. Just need to be careful with my feet.....oops. -Cocooned victim
+tagWaistD328=Binding of the Lost
+
+
+tagItemSkillD301=Summon Arcane Hydra
+tagItemSkillD301Desc=Spawn an Hydra that launches arcane orbs that explode on impact, dealing elemental damage to nearby enemies. ^oArcane Hydra scales with player damage bonuses.
+tagArcaneHydra=Arcane Hydra
+
+tagItemSkillD302=Firebird's Ascension
+tagItemSkillD302Desc=Reborn from your own ashes to become a being of flaming light.
+
+tagItemSkillD303=Shadow Archer
+tagItemSkillD303Desc=Summon a Shadow Archer to fight by your side for 8 seconds. ^oShadow Archers scale with player damage bonuses.
+tagShadowArcherSkill01=Shadow Arrow
+tagShadowArcherPet01=Shadow Archer
+
+tagItemSkillD304=Summon Spider Queen
+tagItemSkillD304Desc=Summon a Spider Queen that reduces the resistances of enemies around her. ^oSpider Queen scales with player damage bonuses.
+
+tagItemSkillD304Pet=Spider Queen
+tagItemSkillD304PetSkill01=Poisoned Bites
+tagItemSkillD304PetSkill02=The Queen's Presence
+
+tagItemSkillD305=Summon Anathema
+tagItemSkillD305Desc=Summon a fiery raven that launches fireballs at enemies, burning them over 2 seconds. ^oAnathema scales with player damage bonuses.
+tagItemSkillD305Pet01=Anathema
+tagItemSkillD305Pet02=Fire Orb
+
+tagItemSkillD306=Energy Twister
+tagItemSkillD306Desc=Unleash a twister of pure energy that deals elemental damage to everything in its path over 10 seconds.
+tagItemSkillD306Pet01=Elemental Storm
+
+tagItemSkillD307=Frozen Orb
+tagItemSkillD307Desc=Hurl a orb of ice that pierces through enemies with a chance to freeze them for a few seconds.
+
+tagItemSkillD308=Comet
+tagItemSkillD308Desc=A frozen comet plummets from the sky, crashing enemies in the area.
+
+tagItemSkillD309=Meteor
+tagItemSkillD309Desc=Summon a fiery meteor that strikes your foes.
+
+tagItemSkillD310=Thundercrash
+tagItemSkillD310Desc=A skyshard of lightning crashes your enemies.
+
+tagItemSkillD311=Falling Sword
+tagItemSkillD311Desc=Launch into the heavens and come crashing down on enemies, dealing holy damage to all foes close to the impact.
+
+tagRevivedPet01=Revived Skeleton
+tagRevivedPet02=Deadly Strikes
+
+tagItemSkillD312=Relentless
+tagItemSkillD312Desc=Fight through the pain, with a chance to confuse enemies that dare to touch you.
+
+tagItemSkillD313=Staggering Shield
+tagItemSkillD313Desc=Hurl a shield of lightning that hits multiple enemies, stunning them for a second.
+
+tagItemSkillD314=Companion
+tagItemSkillD314Desc=Summon a wolf to fight by your side as long as it lives. ^oThe wolf scales with pet bonuses.
+tagPetSkillD314=Bloody Fang
+tagPetSkillD314b=Aura of Voracity
+
+tagItemSkillD315=Bone Nova
+tagItemSkillD315Desc=Bone spikes come out of the the ground, stunning enemies around you.
+
+tagItemSkillD316=Manitou
+tagItemSkillD316Desc=Summon a spectre that follows you and releases spirit bolts at random enemies. ^oManitou scales with player damage bonuses.
+tagItemSkillD316PetSkill=Spirit Bolt
+
+tagItemSkillD317=A Thousand Storms
+tagItemSkillD317Desc=Lightning bolts start to strike enemies around you over 6 seconds.
+
+tagItemSkillD318=Explosive Bolt
+tagItemSkillD318Desc=Shoot a flaming bolt that detonates on impact, burning enemies near the explosion.
+
+tagItemSkillD319=Bone Nova
+tagItemSkillD319Desc=Summon a Bone Nova at a target location that stuns all enemies in the area.
+
+tagItemSkillD320=Fan of Knives
+tagItemSkillD320Desc=Throw knives out in a circle, causing all enemies around you to bleed for 2 seconds.
+
+tagItemSkillD321=Frost Nova
+tagItemSkillD321Desc=Release a blast of ice that freeze nearby enemies over 2 seconds.
+
+tagItemSkillD322=Summon Dreadguard
+tagItemSkillD322Desc=Summon a Dreadguard from the depths to fight by your side for 30 seconds. ^oDreadguard scales with player damage bonuses.
+tagItemSkillD322A=Dreadguard
+tagItemSkillD322B=Blazing Strike
+tagItemSkillD322C=Flaming Sweep
+
+tagItemSkillD323=Netherring
+tagItemSkillD323Desc=In a split second, hundreds of ghostly blades orbit you at deadly speed, cutting nearby enemies to pieces.
+
+tagItemSkillD324=Fist of the Heavens
+tagItemSkillD324Desc=Call forth a bolt from the heavens that deals lightning damage and stuns all enemies in the area.
+
+tagItemSkillD325=Explosive Blast
+tagItemSkillD325Desc=Become a conduit of blazing energy to release explosions every 0.5 seconds, burning enemies around you.
+
+
+tagItemSkillD326=Cloud of Bats
+tagItemSkillD326Desc=Summon a cloud of bats that deals fire and vitality damage with a chance to confuse enemies in the area over 6 seconds.
+
+tagItemSkillD327=Frydehr's Wrath
+tagItemSkillD327Desc=The wrath of a crusader is capable of releasing chains of pure holy energy, cascading to additional enemies.
+
+tagItemSkillD328=Crashing Beast
+tagItemSkillD328Desc=Summon a flying beast to crash upon foes, dealing cold damage in area and stuning them for a few seconds.
+
+tagItemSkillD329=Blood Nova
+tagItemSkillD329Desc=Release a nova of blood that infects enemies, dealing damage and reducing their defenses for a few seconds.
+
+tagItemSkillD330=Rain of Corpses
+tagItemSkillD330Desc=Contaminated corpses fall from the sky, dealing poison and vitality damage to enemies.
+
+tagItemSkillD331=Marked for Death
+tagItemSkillD331Desc=Mark enemies with a deadly curse that slows them and makes them bleed with reduced resistance over 5 seconds.
+
+tagItemSkillD332=Smoke Screen
+tagItemSkillD332Desc=Vanish behing a wall of smoke, becoming invulnerable for a few seconds.
+
+tagItemSkillD333=Bombardment
+tagItemSkillD333Desc=Call in an assault from afar, raining spheres of burning pitch and stone onto enemies, dealing massive physical and fire damage.
+
+tagItemSkillD334=Condemn
+tagItemSkillD334Desc=Unleash a electric explosion that deals lightning damage to all enemies around you.
+
+tagItemSkillD335=Firewall
+tagItemSkillD335Desc=Raise a wall of fire that burns enemies for a few seconds.
+
+tagItemSkillD336=Angelical Assistance
+tagItemSkillD336Desc=Summon a guardian from the heavens to fight by your side.
+tagItemSkillD336A=Angelical Slash
+tagItemSkillD336B=Angelical Presence
+tagItemSkillD336C=Angelical Ally
+
+tagItemSkillD337=Thundercrash
+tagItemSkillD337Desc=A skyshard of lightning crashes your foes.
+
+
+tagItemSkillD338=Summon Holy Skeletons
+tagItemSkillD338Desc=Summon skeletal allies that live for a short duration, attacking enemies with holy power.
+
+tagHolySkeleton=Holy Skeleton
+tagHolySkeletonSkill01=Sacred Strikes
+tagHolySkeletonSkill02=Blessed Sacrifice
+
+tagItemSkillD339=Fires of Heaven
+tagItemSkillD339Desc=Launches beams of divine power that pierce through enemies, dealing holy damage and burning them over 3 seconds.
+
+tagItemSkillD340=Skeletal Mages
+tagItemSkillD340Desc=Summon a group of undead mages that attack enemies with poison orbs. ^oSkeletal Mages scale with player damage bonuses.
+tagItemSkillD340Pet=Skeletal Poisoned Mage
+tagItemSkillD340Skill=Poison Orb
+
+tagItemSkillD341=Sentry
+tagItemSkillD341Desc=Summon a turret that fires a piercing elemental arrow on enemies. Enemies hit are marked for 5 seconds. ^oSentries scale with player damage bonuses. Up to 3 sentries can be active at a time.
+tagItemSkillD341Skill=Elemental Arrow
+tagItemSkillD341Skill2=Immolation Mark
+
+tagItemSkillD341BDesc=Summon a turret that attacks enemies with frost bolts. ^oSentries scales with player damage bonuses. Up to 3 sentries can be active at a time.
+tagItemSkillD341BSkill=Hungering Arrow
+
+tagItemSkillD341CDesc=Summon a turret that strikes enemies with multiple arrows, causing them to bleed for a few seconds. ^oSentries scales with player damage bonuses. Up to 3 sentries can be active at a time.
+tagItemSkillD341CSkill=Multishot
+
+tagItemSkillD342=Heaven's Tempest
+tagItemSkillD342Desc=Summon a celestial storm that deals holy damage to foes in the area and reduces their resistances over 5 seconds. ^oHeaven's Tempest scales with player damage bonuses.
+
+tagItemSkillD342C=Celestial Storm
+
+tagItemSkillD343=Shattered Souls
+tagItemSkillD343Desc=Release a nova of fragmented enemy souls, dealing aether and vitality damage to nearby foes.
+
+tagItemSkillD344=Totem of Darts
+tagItemSkillD344Desc=Summon a totem that launches a ring of poisoned darts, dealing poison and vitality damage to nearby enemies.
+tagItemSkillD344TotemSkill=Ring of Darts
+
+tagItemSkillD345=Seeker
+tagItemSkillD345Desc=Launch a homing magic missile that deals elemental damage to the target.
+
+tagItemSkillD346=Galvanizing Ward
+tagItemSkillD346Desc=Shields you from elemental harm when struck by an enemy attack.
+
+tagItemSkillD347=Lightning Blast
+tagItemSkillD347Desc=A missile of pure lightning pierces through your foes.
+
+tagItemSkillD348=Deathwish
+tagItemSkillD348Desc=Curse a foe, reducing cold resistance and defensive ability.
+
+tagItemSkillD349=Flurry of Spears
+tagItemSkillD349Desc=Launch spears that pierce through enemies around you.
+
+tagItemSkillD350=Bone Tornado
+tagItemSkillD350Desc=Involve yourself in a tornado of bones, dealing cold and vitality damage to nearby enemies and reducing their resistances for 5 seconds.
+
+tagItemSkillD351=Convention of Elements
+tagItemSkillD351Desc=Cast a runic spell upon foes, dealing elemental damage and reducing their resistances.
+
+tagItemSkillD352=Blinding Sands
+tagItemSkillD352Desc=Summon a sand tornado that may cause enemies to miss their attacks. ^oSand Tornadoes scale with player damage bonuses.
+tagItemSkillD352A=Sand Tornado
+tagItemSkillD352Pet=Sandstorm
+
+tagItemSkillD353=Flow of Eternity
+
+tagItemSkillD354=Frightening Aspect
+tagItemSkillD354Desc=The spirits from Tiklan horrifies enemies with a terrible curse.
+
+tagItemSkillD355=Slorak's Madness
+tagItemSkillD355Desc=Become a conduit of arcane energy, striking nearby foes with bolts of pure elemental power.
+
+tagItemSkillD356=Lightning Tail
+tagItemSkillD356Desc=A spiraling orb of lightning energies erupts from you.
+
+tagItemSkillD357=Disregard
+tagItemSkillD357Desc=You don't even glance at the enemies trying to hurt you.
+
+tagItemSkillD358=Burning Ground
+tagItemSkillD358Desc=Burn the ground you walk on.
+
+tagItemSkillD359=Locust Swarm
+tagItemSkillD359Desc=Launch a wave of green insects that affects all enemies in a straight path.
+
+tagItemSkillD360=Blessed Hammer
+tagItemSkillD360Desc=Launches a holy hammer that flies towards your foes before returning to you.
+
+tagItemSkillD361=Lingering Spirit
+tagItemSkillD361Desc=Releases a spirit that travels in a straight path, draining the life of enemies, before returning to you.
+
+tagItemSkillD362=Kiss of Death
+tagItemSkillD362Desc=Releases a concentrated burst of toxic fluids at your foes.
+
+tagItemSkillD363=Fireball
+tagItemSkillD363Desc=Launches a piercing orb of fire that burns your foes.
+
+tagItemSkillD364=Gathering Storm
+tagItemSkillD364Desc=Perform an attack in a arc that chills enemies, reducing their resistances for a few seconds.
+
+tagItemSkillD365=Bash
+tagItemSkillD365Desc=Brutally smash an enemy, dealing physical damage and burning him for a few seconds. ^oWhen used as your default weapon attack, Bash inflicts additional damage.
+
+tagItemSkillD366=Giant Stride
+tagItemSkillD366Desc=Cause earthquakes wherever you step on over 5 seconds, dealing damage to enemies in your way.
+
+tagItemSkillD367=Scorching Meteor
+tagItemSkillD367Desc=Call forth a meteor that plummets over enemies, scorching the area of the impact for 5 seconds.
+
+tagItemSkillD368=Strafe
+tagItemSkillD368Desc=Shoot at random nearby enemies while spinning. Enemies around you deal reduced damage whenever Strafe is active. ^oRequires a ranged weapon and also enables the ability to dual wield ranged weapons.
+tagItemSkillD368B=Random Shots
+
+tagItemSkillD369=Fire Storm
+tagItemSkillD369Desc=Surrounds yourself in a vortex of fire, burning nearby enemies for a few seconds.
+
+tagItemSkillD370=Sky Splitter
+tagItemSkillD370Desc=Smite enemies around you with bolts of holy power, stunning them for a second.
+
+tagItemSkillD371=Utar's Roar
+tagItemSkillD371Desc=Release a huge frost breeze that freezes enemies for a brief moment.
+
+tagItemSkillD372=Explosive Beast
+tagItemSkillD372Desc=Summon a burning zombie dog that runs towards foes and explodes, dealing damage to all nearby enemies. ^oExplosive Beast scales with player damage bonuses.
+tagItemSkillD372B=Detonate
+
+tagItemSkillD373=Harvester's Cloud
+tagItemSkillD373Desc=Summon a cloud that creates a pool of frost, dealing cold and vitality damage to enemies in the area.
+
+tagItemSkillD374=Stormcrow's Flight
+tagItemSkillD374Desc=Summon the Stormcrow to fly through enemies, electrocuting them and reducing their lightning resistance for a few seconds.
+
+tagItemSkillD375=Shredding Splinters
+tagItemSkillD375Desc=Evoke a path of poisoned bones that deals acid and piercing damage to enemies and reduces their damage for a couple seconds.
+
+tagItemSkillD376=Summon Frost Skeleton
+tagItemSkillD376Desc=Raise a frost skeleton to fight by your side for 20 seconds. ^oFrost Skeletons scale with player damage bonuses.
+tagItemSkillD376B=Freezing Grasp
+tagItemSkillD376C=Frost Skeleton
+
+tagItemSkillD377=Surge
+tagItemSkillD377Desc=Release a bolt of holy energy that strikes multiple enemies.
+
+tagItemSkillD378=Energy Twister
+tagItemSkillD378Desc=Launch an arcane tornado that deals elemental damage to enemies in a straight path.
+
+tagItemSkillD379=Blood Rush
+tagItemSkillD379Desc=Rush through the flesh of your foes, dealing vitality damage and and converting portion of the damage dealt to your health.
+
+tagItemSkillD380=Dust Devils
+tagItemSkillD380Desc=Summon swirling cyclones of flaming dust that deal physical and fire damage to enemies, reducing their offensive ability for 3 seconds.
+
+tagItemSkillD380B=Swirling Storm
+tagItemSkillD380C=Dust Devil
+
+
+tagItemSkillD381=Tempest Rush
+tagItemSkillD381Desc=Spin directly through your enemies, dealing lightning and cold damage, and reducing the damage dealt by nearby foes while channeling the skill.
+
+tagItemSkillD382=Reactive Armor
+tagItemSkillD382Desc=Cast a Storm Armor that attaches to an enemy, shocking foes nearby the target.
+
+tagItemSkillD383=Bloodbath
+tagItemSkillD383Desc=Causes enemies around you to bleed with reduced defenses over 5 seconds.
+
+tagItemSkillD384=Spellportal
+tagItemSkillD384Desc=Evoke a dimensional portal that releases a blast of cosmic energy, dealing elemental damage and knocking down enemies hit by the spell.
+tagItemSkillD384Skill=Cosmic Energy 
+
+tagItemSkillD385=Snow-Capped Mountain
+tagItemSkillD385Desc=Call forth a clashing wave of ice from above, dealing cold and frostburn damage to enemies in the area.
+
+tagItemSkillD386=Scorch
+tagItemSkillD386Desc=Launch a piercing fiery orb that burns enemies, reducing their resistances over 3 seconds.
+
+tagItemSkillD387=Frost Shot
+tagItemSkillD387Desc=Shoot a projectile that hits an enemy, then splits into fragments of ice, dealing cold damage to enemies close to the target. ^oRequires a ranged weapon and can activate with all default weapon attacks.
+
+tagItemSkillD387B=Lay Spike Trap
+tagItemSkillD387C=Cold Explosion
+tagItemSkillD387D=Spike Trap
+
+tagItemSkillD388=Archon Stacks
+tagItemSkillD388Desc=^hEvery time you attack an enemy, an ^yArchon Stack ^hwill be dropped. The stacks increase your total damage up to 25%, and grant up to 100 Offensive and Defensive Ability points. Every 10 stacks grant you 3% Physical Resistance. Each stack lasts 12 seconds before being refreshed and you can have up to 50 stacks active. ^oThis ability only work while ^zArchon ^ois active.
+tagItemSkillD388B=Archon Drop
+tagItemSkillD388C=Archon Stack
+
+tagItemSkillD389=Stone Guard
+tagItemSkillD389Desc=Cast a barrier of stones that increases your resistances against physical harm.
+
+tagItemSkillD390=Seven-Sided Strike
+tagItemSkillD390Desc=Hit up to 7 enemies around you, dealing cold damage and frostburn damage over 3 seconds. ^oRequires a melee weapon. Can activate with all default weapon attacks.
+
+tagItemSkillD391=Summon Enduring Ally
+tagItemSkillD391Desc=Summon an Enduring Ally to fight by your side permanently. Enduring Ally deals elemental damage and empowers healing effects of you and all allies. When respawning, Enduring Ally will release a nova of energy that restores 100% of your health.
+
+tagEnduringAllySkill01=Elemental Strike
+tagEnduringAllySkill02=Sustenance
+tagEnduringAllySkill03=Healing Nova
+
+tagEnduringAllyPetName=Enduring Ally
+
+tagItemSkillD392=Stampede
+tagItemSkillD392Desc=Release a group of burning horses in front of you, dealing physical and fire damage to enemies and burning them for 3 seconds. Enemies hit have chance to be knocked down.
+
+tagItemSkillD393=Immortal King's Supremacy
+tagItemSkillD393Desc=The king of the barbarians strode the world like a god.
+
+tagItemSkillD394=Dreadnought
+tagItemSkillD394Desc=Become a unstoppable force in the battlefield over 8 seconds. 
+
+tagItemSkillD395=Iron Maiden
+tagItemSkillD395Desc=Woe to those who would approach a true crusader while carrying anger in their hearts, for soon, they shall be no more.
+
+tagItemSkillD396=Ghost Trance
+tagItemSkillD396Desc=Cast an aura that instanly heals you and all your allies. It also grants damage absorption, resistance to aether and vitality damage, and health regeneration over 15 seconds.
+
+tagItemSkillD397=Shadow Beasts
+tagItemSkillD397Desc=Summon a group of Shadow Beasts that fly through foes, dealing piercing and bleeding damage to all enemies on the way.
+
+tagItemSkillD398=Time Shell
+tagItemSkillD398Desc=Cast a version of Slow Time that attaches to a target. Enemies close to the target take elemental damage and are slowed for a few seconds.
+
+tagItemSkillD399=Funeral March
+tagItemSkillD399Desc=The reaping touch of this scythe can put your foes to rest in peace. ^oWhen used as your default weapon attack, Funeral March empowers your blows.
+
+tagItemSkillD3100=Death Spiral
+tagItemSkillD3100Desc=Launch frost spinning blades in a spiral, causing chilling cuts to enemies.
+
+tagItemSkillD3101=Empyrion's Message
+tagItemSkillD3101Desc=The wrath of Empyrion falls over your enemies, making them understand his warning, without saying a single word.
+
+tagItemSkillD3102=Vo'Toyias Retribution
+tagItemSkillD3102Desc=Venomous spikes erupts from the ground, striking enemies around you.
+
+tagItemSkillD3103=Herald of War
+
+tagItemSkillD3104=Etched Sigil
+tagItemSkillD3104Desc=Curse a target with a debilitating sigil, making them vulnerable to elemental spells.
+
+tagItemSkillD3105=Temporal Wave
+
+tagItemSkillD3105=Temporal Wave
+tagItemSkillD3105Desc=The tides of time shreds the vitality of enemies from their bodies.
+
+tagItemSkillD3106=Ring of Poison
+tagItemSkillD3106Desc=Summon a deadly ring that poisons enemies standing in the area.
+
+tagItemSkillD3107=Mark of Worship
+tagItemSkillD3107Desc=Mark a foe with a Coven's rune that weakens the target and deals aether damage.
+
+tagItemSkillD3108=Army of the Dead
+tagItemSkillD3108Desc=Raise a massive skeletal army to pummel the targeted location, dealing damage to enemies in the area. ^oArmy of the Dead scales with player damage bonuses.
+tagItemSkillD3108Pet=Skeletal Collision
+
+tagItemSkillD3109=Summon Skeletal Captain
+tagItemSkillD3109Desc=Raise a stronger skeleton to fight by your side. ^oSkeletal Captain scales with pet damage bonuses.
+tagItemSkillD3109Pet=Skeletal Captain
+
+tagD3109PetSkill01=Necrotic Slash
+tagD3109PetSkill02=Requiem Aeternam
+tagD3109PetSkill03=Dona Eis Requiem
+
+tagItemSkillD3110=Realm of Justice
+tagItemSkillD3110Desc=Invoke an angelic realm to protect your allies and banish the enemies. ^oRealm of Justice scales with player damage bonuses.
+
+tagD3110PetSkill01=Sanctification
+tagD3110PetSkill02=Banishment
+
+tagItemSkillD3111=Shi Mizu's Focus
+tagItemSkillD3111Desc=Focus your mind to increase your offensive power.
+
+tagItemSkillD3112=Moonlight Ward
+tagItemSkillD3112Desc=The lunar blessing protects you from elemental harm.
+
+tagItemSkillD3113=Eternal Torment
+tagItemSkillD3113Desc=The belt grants you a chance to cast one of the three necromantic curses.
+
+tagItemSkillD3114=Pandemonium
+tagItemSkillD3114Desc=Slain foes burst in a bloody explosion, dealing physical and bleeding damage to enemies close.
+
+tagItemSkillD3115=Oculus Ring
+tagItemSkillD3115Desc=Create an area of focused power that increases the potency of your attacks.
+tagItemSkillD3115B=Circle of Power
+
+tagItemSkillD3116=Spreading Malediction
+tagItemSkillD3116Desc=Cast a curse on enemies that spreads to nearby foes, dealing damage and lowering their resistances.
+
+tagItemSkillD3117=Krysbin's Sentence
+tagItemSkillD3117Desc=Cast a curse on enemies that slows them and reduces some of their resistances.
+
+tagItemSkillD3118=Hollow Whispers
+tagItemSkillD3118Desc=Occasionally souls haunt nearby enemies for a few seconds.
+
+tagItemSkillD3119=Bul-Kathos Hunger
+tagItemSkillD3119Desc=Temporarily gain an aura that deals damage to nearby enemies and converts part of it to your health.
+
+tagItemSkillD3120=Summon Boar Companion
+tagItemSkillD3120Desc=Summon a boar to fight by your side permanently.
+tagItemSkillD3120Pet=Boar Companion
+tagItemSkillD3120Pet01=Frost Charge
+tagItemSkillD3120Pet02=Chilling Tusks
+tagItemSkillD3120Tracker=One Boar Companion summoned.
+
+tagItemSkillD3121=Fist of the Heavens
+tagItemSkillD3121Desc=Call forth a bolt of holy power from the heavens that explodes, creating a field of energy that deals damage to all enemies in the area for a few seconds.
+
+tagItemSkillD3122=Piranhado
+tagItemSkillD3122Desc=Summon a tornado of piranhas that deals damage and confuse enemies in the area for five seconds.
+
+tagItemSkillD3123=Overpower
+tagItemSkillD3123Desc=Call forth a bolt from above to strike your location, dealing physical and bleeding damage to nearby enemies.
+
+tagItemSkillD3124=Bathed in Light
+tagItemSkillD3124Desc=Surround yourself with a holy aura that deals damage to enemies close.
+
+tagItemSkillD3125=Sigil of Essence
+tagItemSkillD3125Desc=Evoke a sigil that drains the life force of any creature standing on it.
+
+tagItemSkillD3126=Health Globe
+tagItemSkillD3126Desc=Spawns a globe that instantly restores a portion of your health.
+tagItemSkillD3126B=Healing
+
+tagItemSkillD3127=Revelation
+tagItemSkillD3127Desc=The mirrorball reveals the weakness of your enemies.
+
+tagItemSkillD3128=Poison Trap
+tagItemSkillD3128Desc=Lays a trap on the target area that explodes after 3 seconds or whenever a foe gets close to it. The explosion infects enemies and reduces their poison resistance for 6 seconds. ^oPoison Trap scales with player damage bonuses.
+tagItemSkillD3128B=Toxic Explosion
+
+tagItemSkillD3129=Frost Trap
+tagItemSkillD3129Desc=Lays a trap on the target area that explodes after 3 seconds or whenever a foe gets close to it. The explosion freezes enemies and reduces their attack speed and cold resistance for 5 seconds. ^oFrost Trap scales with player damage bonuses.
+tagItemSkillD3129B=Frigid Explosion
+tagItemSkillD3129C=Chilling Weight
+
+tagItemSkillD3130=Death Trap
+tagItemSkillD3130Desc=Lays a trap on the target area that activates after a second, hitting up to 10 enemies in the area with quick multiple strikes. Enemies in the area are also stunned and have their resistances reduced for a few seconds. ^oDeath Trap scales with player damage bonuses.
+tagItemSkillD3130B=Mutilation
+
+tagItemSkillD3131=Shadow Trap
+tagItemSkillD3131Desc=Lays a trap on the target area that activates after a second, hitting up to 10 enemies in the area with quick multiple strikes. Enemies in the area are also stunned by the trap. ^oShadow Trap scales with player damage bonuses.
+tagItemSkillD3131B=Shadow Slashes
+
+tagItemSkillD3132=Storm Barrage
+tagItemSkillD3132Desc=Call forth a line of storm archers that shoot electric arrows on enemies. The arrows pierce through the targets releasing fragments on impact. ^oStorm Archers scale with player damage bonuses.
+tagItemSkillD3132B=Electric Arrow
+tagItemSkillD3132C=Storm Archers
+
+tagItemSkillD3133=Frost Barrage
+tagItemSkillD3133Desc=Call forth a line of Frost Archers that shoot cold arrows on enemies, freezing them for a second. Enemies killed by the damage from Frost Archers will trigger an alternative version of Spray of Teeth. ^oFrost Archers scale with player damage bonuses.
+tagItemSkillD3133B=Frost Archers
+tagItemSkillD3133C=Cold Arrows
+tagItemSkillD3133D=Spray of Teeth
+
+tagItemSkillD3134=Cluster Barrage
+tagItemSkillD3134Desc=Evoke a line of fiery archers that shoot flaming arrows on enemies. Each arrow releases 2 grenades on impact. ^oFiery Archers scale with player damage bonuses.
+tagItemSkillD3134B=Cluster Arrows
+tagItemSkillD3134C=Fiery Archers
+
+tagItemSkillD3135=Unstable Currents
+tagItemSkillD3135Desc=Launch a lightning projectile that flights towards an enemy and ricochets up to 4 additional targets. Every time the projectile hits an enemy, it releases 3 swirling sparks that keep dealing damage to nearby foes.
+
+tagItemSkillD3136=Deep Freeze
+tagItemSkillD3136Desc=Cover yourself with a ice barrier that absorbs all damage taken, grants you massive health regeneration and deals cold damage to all enemies that hit you.
+
+tagItemSkillD3137=Shadow Step
+tagItemSkillD3137Desc=Enter the Shadow Realm, blinding foes and disrupting their skills for a few seconds.
+
+tagItemSkillD3138=Blightwave
+tagItemSkillD3138Desc=Launch a wave of poison that applies a curse to all enemies on its path. Cursed enemies take poison damage and have their acid resistance reduced over 5 seconds.
+
+tagItemSkillD3139=Shadow Blight
+tagItemSkillD3139Desc=Cast a curse upon enemies, reducing their defenses and dealing cold and vitality damage over 5 seconds.
+
+tagItemSkillD3140=Dark Shroud
+tagItemSkillD3140Desc=Shields you from the dangers that a dark night can bring.
+
+tagItemSkillD3141=Living Corpse
+tagItemSkillD3141Desc=Enemies killed turn into a Living Corpse that fights by your command. ^oLiving Corpse scales with player damage bonuses.
+tagItemSkillD3141B=Tentacle Slash
+
+tagItemSkillD3142=Flame Shield
+tagItemSkillD3142Desc=Cover you with a flaming shield that protects you from burn and freeze effects, grants you physical resistance and incinerates nearby enemies. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD3143=Death's Embrace
+tagItemSkillD3143Desc=Surround yourself with a necrotic energy that weakens nearby enemies. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD3144=Seething Hatred
+tagItemSkillD3144Desc=Every critical attack ignite your inner hatred against the evil forces.
+
+tagItemSkillD3145=Decoy
+tagItemSkillD3145Desc=Summon a Mirror Image that attracts enemies and explodes, weakening nearby enemies for a few seconds.
+tagItemSkillD3145B=Explosive Illusion
+
+tagItemSkillD3146=Temple of Twilight
+tagItemSkillD3146Desc=Creates a blessed temple that grants increased resistances to you and allies in the area.
+tagItemSkillD3146B=Twilight Shield
+
+tagItemSkillD3147=Devouring Flames
+tagItemSkillD3147Desc=Launch a wave of fire that travels in a straight line and spreads to different directions every time it hits an enemy, burning enemies and reducing their resistance to fire over 5 seconds.
+
+tagItemSkillD3148=Resonance
+tagItemSkillD3148Desc=Confuse enemies around you with a blasting echo.
+
+tagItemSkillD3149=Andariel's Corruption
+tagItemSkillD3149Desc=Corrupts the ground your enemies stand on, dealing acid and poison damage and reducing their combat abilities for 2 seconds.
+
+tagItemSkillD3150=Kovan's Lust
+tagItemSkillD3150Desc=Kovan had no mercy for the demonic creatures on his way.
+
+tagItemSkillD3151=Forceful Strike
+tagItemSkillD3151Desc=Strike enemies with a powerful blow, carrying the force of a wind tempest. ^oActivates off of default weapon attacks.
+
+tagItemSkillD3152=Way of the Falling Star
+tagItemSkillD3152Desc=Shoot a projectile imbued with cosmic energy that evokes a shooting star upon every enemy it hits. ^oActivates off of default weapon attacks.
+
+tagItemSkillD3153=Puncture
+tagItemSkillD3153Desc=Launch a blade that pierces through enemies, making them bleed and slowing them for a couple seconds.
+
+tagItemSkillD3154=Wave of Light
+tagItemSkillD3154Desc=Drop a sacred bell upon a target, dealing holy damage to enemies in the area.
+
+tagItemSkillD3155=Fletcher's Precision
+tagItemSkillD3155Desc=The fletchers of Jasender were renowned for their amazing skill in combat. ^oThis is a ranged weapon passive bonus.
+
+tagItemSkillD3156=Azurewrath
+tagItemSkillD3156Desc=Unleash a chilling electric blast that deals massive damage and reduces the defensive ability of enemies around you.
+
+tagItemSkillD3157=Blood Wave
+tagItemSkillD3157Desc=Unleash a wave of blood that drains the life of enemies.
+
+tagItemSkillD3158=Corpse Tendrils
+tagItemSkillD3158Desc=Veins burst out from a corpse, pulling nearby foes towards its death location.
+
+tagItemSkillD3159=Shadow Mist
+tagItemSkillD3159Desc=Unleash a dark mist that curses foes on its way, dealing cold and vitality damage and reducing their resistances over 5 seconds.
+
+tagItemSkillD3160=Summon Scarlet Death
+tagItemSkillD3160Desc=Summon the Scarlet Death, an entity ready to put a bloody end to all who oppose you.
+tagItemSkillD3160Pet=The Scarlet Death
+tagItemSkillD3160B=Scarlet Touch
+tagItemSkillD3160C=Vampiric Nova
+
+tagItemSkillD3161=Inferno
+tagItemSkillD3161Desc=Invoke an infernal circle that burns enemies and reduces their defenses as long as they stand in the area.
+tagItemSkillD3161Pet=Infernal Circle
+tagItemSkillD3161B=Hellfire
+tagItemSkillD3161C=Infernal Tentacles
+
+tagItemSkillD3162=Living Conduit
+tagItemSkillD3162Desc=Summon an entity of electricity that reduces enemy's damage and resistance, and continuously strike nearby foes with a lightning conduit.
+tagItemSkillD3162A=Electrocution
+tagItemSkillD3162B=Lightning Conduit
+
+tagItemSkillD3163=Blood Magic
+tagItemSkillD3163Desc=The magic of this blade drains your life, granting you great power in return.
+
+tagItemSkillD3164=Endless Winter
+tagItemSkillD3164Desc=Invoke a snowfall in an area, dealing cold damage to enemies and slowing them for a few seconds.
+
+tagItemSkillD3165=Divine Blast
+tagItemSkillD3165Desc=Unleash an explosion of sacred energy, which deals holy damage to enemies around you.
+
+tagItemSkillD3166=Shocking Aspect
+tagItemSkillD3166Desc=Transform an enemy into a lightning rod that electrocutes nearby foes and reduces their resistance over 6 seconds.
+
+tagItemSkillD3167=Gesture of Orpheus
+tagItemSkillD3167Desc=The scepter periodically protects the one who wields it, restoring health and empowering one of the elemental forces.
+
+tagItemSkillD3168=Fragment of Destiny
+tagItemSkillD3168Desc=Launch a fragment imbued with arcane energy that pierces through enemies, dealing elemental damage and reducing their resistances for a few seconds.
+
+tagItemSkillD3169=Herald of Righteousness
+tagItemSkillD3169Desc=Impose your presence in the battle field, increasing damage and some resistances.
+
+tagItemSkillD3170=Wrath of the Bone King
+tagItemSkillD3170Desc=Release a nova of ghostly skulls that strikes enemies around you.
+
+tagItemSkillD3171=Shatter Earth
+tagItemSkillD3171Desc=Release a shockwave that deals physical damage to nearby enemies, with chance to stun them for a second.
+
+tagItemSkillD3172=Blessed Ground
+tagItemSkillD3172Desc=Sanctify the ground that enemies stand on, dealing holy damage to foes in the area for a few seconds.
+
+tagItemSkillD3173=Black Death
+tagItemSkillD3173Desc=The scythe curses a foe with a plague that rapidly spreads to nearby enemies.
+
+tagItemSkillD3174=Snap Freeze
+tagItemSkillD3174Desc=The shield rapidly lowers the temperature of the air around you, dealing cold damage to enemies and freezing them for a brief moment.
+
+tagItemSkillD3175=Storm Shield
+tagItemSkillD3175Desc=Hurl a shield that hits multiple targets, striking them and nearby foes with lightning bolts.
+
+tagItemSkillD3176=Harvest Hour
+tagItemSkillD3176Desc=Strike a target with the arcane power of the harvest moon, blasting enemies in the area with massive elemental damage and reducing their resistances over 3 seconds.
+
+tagItemSkillD3177=Shroud of Bats
+tagItemSkillD3177Desc=You become surrounded by a cloud of bats that deals damage to nearby enemies continuously.
+
+tagItemSkillD3178=Blood Blast
+tagItemSkillD3178Desc=Releases a nova of blood that deals vitality damage to enemies nearby.
+
+tagItemSkillD3179=Voidstride
+tagItemSkillD3179Desc=Your steps become infused with void energy, dealing damage and reducing the defensive ability of enemies who stand too close to your presence.
+
+tagItemSkillD3180=Horns of the Hexed
+tagItemSkillD3180Desc=Light up the magical power of the horns, increasing your damage and regenerated health for a few seconds.
+
+tagItemSkillD3181=Chaos Legion
+tagItemSkillD3181Desc=Summon a shadow clone from the void to fight by your side for 18 seconds. ^oShadow Clones scale with player damage bonuses.
+tagItemSkillD3181Pet=Shadow Clone
+
+tagItemConsumableTyrael=Tyrael's Essence
+tagItemConsumableTyraelDesc=Essence used to summon the Archangel of Justice, after saving him from corruption. As an act of gratitude, he will fight by your side for 5 minutes, before his return to Sanctuary.
+
+COSMETICS
+
+
+tagItemSetD3CosmeticSet01=Masquerade of the Sanguinary Count
+tagItemSetD3CosmeticSet01Desc=Vestments of the count Caladur, a bloodmancer that lived in a castle located in the northern lands.{^n}{^n}{^y}Cosmetic Set: {^o}This set gives no bonuses, it's intended to be used just as a fashion choice at the Illusionist vendor.{^n} 
+tagItemSetD3CosmeticTorso=Sanguinary Count's Robes
+tagItemSetD3CosmeticShoulder=Sanguinary Count's Mantle
+tagItemSetD3CosmeticHair=Sanguinary Count's Hair
+
+tagItemCosmeticWings01=Lilith's Wings
+tagItemCosmeticWings02=Gigawhale Wings
+tagItemCosmeticWings03=Wanderer Wings
+tagItemCosmeticWings04=D3 Season 28 Wings
+tagItemCosmeticWings05=Inarius' Wings
+tagItemCosmeticWings06=Adventurer's Cape
+
+SHRINES
+
+tagShrineD301=Corrupted by Diablo, the Prime Evil
+tagShrineD302=Corrupted by Malthael, the Angel of Death
+tagShrineD303=Corrupted Shrine: Tyrael's Torment
+tagShrineD304=Corrupted by Azmodan, the Lord of Sin
+tagShrineD305=Corrupted by Belial, the Lord of Lies
+tagShrineD306=Corrupted by Adria, the Witch
+tagShrineD307=Corrupted by Leoric, the Skeleton King
+tagShrineD308=Corrupted by Zoltun Kulle, the Renegade Horadrim
+tagShrineD309=Corrupted by the Butcher, Flesh Carver
+
+
+
+RUNES
+
+tagRuneD301=^cAhu
+tagRuneD301Desc=^wComponent used by ^bDamara^w, the Runewright, the new crafter located at Devil's Crossing. Combine two different runes to form a ^cRuneword^w.
+tagRuneD302=^cGar
+tagRuneD303=^cCir
+tagRuneD304=^cEom
+tagRuneD305=^cZan
+tagRuneD306=^cQax
+tagRuneD307=^cPoc
+tagRuneD308=^cNer
+tagRuneD309=^cMoni
+tagRuneD310=^cVex
+tagRuneD311=^cNoc
+tagRuneD312=^cLum
+tagRuneD313=^cKaa
+tagRuneD314=^cLac
+tagRuneD315=^cBac
+tagRuneD316=^cTal
+tagRuneD317=^cNeo
+tagRuneD318=^cXal
+tagRuneD319=^cFeo
+tagRuneD320=^cTun
+tagRuneD321=^cCem
+tagRuneD322=^cKry
+tagRuneD323=^cYax
+tagRuneD324=^cYul
+tagRuneD325=^cYom
+tagRuneD326=^cThul
+tagRuneD327=^cTam
+tagRuneD328=^cXan
+tagRuneD329=^cLith
+tagRuneD330=^cWat
+tagRuneD331=^cTec
+tagRuneD332=^cXol
+tagRuneD333=^cMot
+
+RUNEWORDS
+
+tagSuppliesComplete=Runeword
+tagSuppliesHelp=Runewords can only be attached to your head armor.
+
+tagRunewordD301=^c"AhuGar"
+tagRunewordD301Desc=^wDemon Hunter gains the ^iDetached ^wrune effect.{^n}{^n}^wThe cooldown of ^sEvade ^wis reduced by 50% and its distance is increased by 30%.
+
+tagRunewordD302=^c"CirEom"
+tagRunewordD302Desc=^wDemon Hunter gains the ^oFinal Vendetta ^wrune effect.
+
+tagRunewordD303=^c"PocNer"
+tagRunewordD303Desc=^wDemon Hunter gains the ^bTrapmaster ^wrune effect.
+
+tagRunewordD304=^c"MoniVex"
+tagRunewordD304Desc=^wDemon Hunter gains the ^iShared Burden ^wrune effect.
+
+tagRunewordD305=^c"KaaLac"
+tagRunewordD305Desc=^yConsistent Demolition: ^wCluster Arrow now pierces through enemies and have 33% chance to reset its cooldown.
+
+tagRunewordD306=^c"ZanQax"
+tagRunewordD306Desc=^wDemon Hunter gains the ^cArtillerist ^wrune effect.
+
+tagRunewordD306b=^c"ZanQax" (Enhanced)
+tagRunewordD306bDesc=^wDemon Hunter gains the enhanced version of the ^cArtillerist ^wrune effect.
+
+tagRunewordD307=^c"CirTun"
+tagRunewordD307Desc=^wBlood Knight gains the ^rObsidian March ^wrune effect.
+
+tagRunewordD307b=^c"CirTun" (Enhanced)
+tagRunewordD307bDesc=^wBlood Knight gains the ^rObsidian March (Enhanced) ^wrune effect.
+
+
+tagRunewordD308=^c"MoniXan"
+tagRunewordD308Desc=^wBlood Knight gains the ^rEye of the Void ^wrune effect. 
+
+tagRunewordD308b=^c"MoniXan" (Enhanced)
+tagRunewordD308bDesc=^wBlood Knight gains the ^rEye of the Void (Enhanced) ^wrune effect.
+
+tagRunewordD309=^c"BacTal"
+tagRunewordD309Desc=^wBlood Knight gains the ^rBloodline's Pride ^wrune effect.
+
+tagRunewordD310=^c"NeoXal"
+tagRunewordD310Desc=^wBlood Knight gains the ^rSiphoner's Carnage ^wrune effect.
+tagRunewordD310b=^c"NeoXal" (Enhanced)
+tagRunewordD310bDesc=^wBlood Knight gains the ^rSiphoner's Carnage (Enhanced) ^wrune effect.
+
+tagRunewordD311=^c"FeoTun"
+tagRunewordD311Desc=^yWinged Protection: ^wWhile close to ^rSwarm of Bats^w, you take 20% reduced damage. ^oRequires 16 skill points to Swarm of Bats.
+
+tagRunewordD312=^c"CemKry"
+tagRunewordD312Desc=^wBlood Knight gains the ^rCrimson Fate ^wrune effect.
+
+tagRunewordD313=^c"YulYom"
+tagRunewordD313Desc=^wNecromancer gains the ^tArmy of the Dead ^wrune effect.
+tagRunewordD313b=^c"YulYom" (Enhanced)
+tagRunewordD313bDesc=^wNecromancer gains the enhanced version of the ^tArmy of the Dead ^wrune effect.
+
+tagRunewordD314=^c"LithXan"
+tagRunewordD314Desc=^yReady to Battle: ^tCommand Skeletons ^wand ^bSkeleton Archer ^wnow grant invulnerability and 15% increased damage to skeletons for 5 seconds after they were ressumoned. However, the cooldown of both skills are increased by 6 seconds.
+
+tagRunewordD315=^c"TamWat"
+tagRunewordD315Desc=^yEarly Grave: ^wWhenever an enemy affected by ^bDecrepify ^wgoes under 15% health, he dies instantly. ^oDecrepify needs to be active ^bbefore ^othe enemy hits the 15% threshold.
+
+tagRunewordD316=^c"BacThul"
+tagRunewordD316Desc=^wNecromancer gains the ^gNovamancer ^wrune effect.
+tagRunewordD316b=^c"BacThul" (Enhanced)
+tagRunewordD316bDesc=^wNecromancer gains the enhanced version of the ^gNovamancer ^wrune effect.
+
+tagRunewordD317=^c"ZanGar"
+tagRunewordD317Desc=^wBarbarian gains the ^hInsatiable ^wrune effect.
+
+tagRunewordD318=^c"AhuTal"
+tagRunewordD318Desc=^wBarbarian gains the ^hSpin to Rule ^wrune effect.
+
+tagRunewordD318b=^c"AhuTal" (Transmutation)
+tagRunewordD318bDesc=^wBarbarian gains the ^hSpin to Rule ^wrune effect.
+
+tagRunewordD318c=^c"AhuTal" (Enhanced)
+tagRunewordD318cDesc=^wBarbarian gains the ^hSpin to Rule ^wrune effect.
+
+tagRunewordD318d=^c"AhuTal" (Transmutation) (Enhanced)
+tagRunewordD318dDesc=^wBarbarian gains the ^hSpin to Rule ^wrune effect.
+
+tagRunewordD319=^c"YaxNer"
+tagRunewordD319Desc=^wBarbarian gains the ^hLeapquake ^wrune effect.
+
+tagRunewordD319b=^c"Yaxner" (Transmutation)
+tagRunewordD319bDesc=^wBarbarian gains the ^hLeapquake ^wrune effect.
+
+tagRunewordD319c=^c"Yaxner" (Enhanced)
+tagRunewordD319cDesc=^wBarbarian gains the ^hLeapquake ^wrune effect.
+
+tagRunewordD319d=^c"Yaxner" (Transmutation) (Enhanced)
+tagRunewordD319dDesc=^wBarbarian gains the ^hLeapquake ^wrune effect.
+
+tagRunewordD320=^c"PocXal"
+tagRunewordD320Desc=^wWitch Doctor gains the ^bSoul Harvester ^wrune effect.
+
+tagRunewordD321=^c"MoniGar"
+tagRunewordD321Desc=^wWitch Doctor gains the ^gSpider Queen ^wrune effect.
+
+tagRunewordD322=^c"ZanKry"
+tagRunewordD322Desc=^wWitch Doctor gains the ^bSpiritual Discharge ^wrune effect.
+
+tagRunewordD322b=^c"ZanKry" (Enhanced)
+tagRunewordD322bDesc=^wWitch Doctor gains the enhanced version of the ^bSpiritual Discharge ^wrune effect.
+
+tagRunewordD323=^c"KaaLum"
+tagRunewordD323Desc=^wWitch Doctor gains the ^oBatarang ^wrune effect.
+
+tagRunewordD323b=^c"KaaLum" (Transmutation)
+tagRunewordD323bDesc=^wWitch Doctor gains the ^gBatarang (Poison) ^wrune effect.
+
+tagRunewordD324=^c"FeoLac"
+tagRunewordD324Desc=^yAscended Mantra: ^pMantra of Healing ^wnow provides almost 50% of the benefits granted by health potions, however, they are no longer available.
+
+tagRunewordD325=^c"CemTun"
+tagRunewordD325Desc=^wMonk gains the ^cThunderbearer ^wrune effect.
+
+tagRunewordD325b=^c"CemTun" (Enhanced)
+tagRunewordD325bDesc=^wMonk gains the ^cThunderbearer (Enhanced) ^wrune effect.
+
+tagRunewordD326=^c"NocVex"
+tagRunewordD326Desc=^wMonk gains the ^bAeromania ^wrune effect.
+
+tagRunewordD326b=^c"NocVex" (Enhanced)
+tagRunewordD326bDesc=^wMonk gains the ^bAeromania (Enhanced) ^wrune effect.
+
+tagRunewordD327=^c"TamXan"
+tagRunewordD327Desc=^yUnity: ^wWhen close to a ^cMystic Ally^w, you receive 10% damage absorption. This effect stacks multiplicatively when different Mystic Allies are active. ^oRequires 12 skill points to ^cMystic Ally^o.
+
+tagRunewordD328=^c"CirWat"
+tagRunewordD328Desc=^wWizard gains the ^bAbsolute Zero ^wrune effect.
+
+tagRunewordD329=^c"NeoTec"
+tagRunewordD329Desc=^wWizard gains the ^pShort Circuit ^wrune effect.
+
+tagRunewordD329b=^c"NeoTec" (Enhanced)
+tagRunewordD329bDesc=^wWizard gains the ^pShort Circuit (Enhanced) ^wrune effect.
+
+
+tagRunewordD330=^c"NocYom"
+tagRunewordD330Desc=^wWizard gains the ^bStone Cold ^wrune effect.
+
+tagRunewordD331=^c"XolQax"
+tagRunewordD331Desc=^yStand Alone: ^wWhile ^pEnergy Armor ^wis active, your total damage is increased by 20% and your maximum casting speed is increased by 10%. However, you no longer can cast ^oHydra ^wand ^pMirror Image^w.
+
+tagRunewordD332=^c"XolThul"
+tagRunewordD332Desc=^wCrusader gains the ^cI Can Do This All Day ^wrune effect.
+
+tagRunewordD333=^c"LithEom"
+tagRunewordD333Desc=^wCrusader gains the ^kSacred Lotus ^wrune effect.
+
+tagRunewordD334=^c"YulMot"
+tagRunewordD334Desc=^yBravado: ^kHold Your Ground ^wnow enables and requires dual wielding melee weapons. However, you no longer can use ^sEvade.
+
+tagRunewordD335=^c"KaaTec"
+tagRunewordD335Desc=^yHeaven on Earth: ^kHeaven's Fury ^wnow binds enemies with a chain of divine energy, continuously dealing holy damage to them, and reducing their elemental resistance by 2%, scaling up to 10% at Rank 12, and 15% at Rank 22. The damage of the chains stacks and the resistances reduction is additive to the ones from the base skill. ^oWhile using ^bAzurewrath^o, the fire damage from the chains will be converted to cold.
+
+tagRunewordD336=^c"AhuQax"
+tagRunewordD336Desc=^wMonk gains the ^bPatience Is For The Weak ^wrune effect.
+
+tagRunewordD337=^c"FeoYom"
+tagRunewordD337Desc=^wDemon Hunter gains the ^oApex Predator ^wrune effect.
+
+tagRunewordD338=^c"NeoWat"
+tagRunewordD338Desc=^wDemon Hunter gains the ^pSmoke Traps ^wrune effect.
+
+tagRunewordD338b=^c"NeoWat" (Enhanced)
+tagRunewordD338bDesc=^wDemon Hunter gains the enhanced version of the ^pSmoke Traps ^wrune effect.
+
+tagRunewordD339=^c"XolTec"
+tagRunewordD339Desc=^wDemon Hunter gains the ^iShadow Trap ^wrune effect.
+
+tagRunewordD339b=^c"XolTec" (Enhanced)
+tagRunewordD339bDesc=^wDemon Hunter gains the enhanced version of the ^iShadow Trap ^wrune effect.
+
+tagRunewordD340=^c"BacEom"
+tagRunewordD340Desc=^wBarbarian gains the ^oPath of Destruction ^wrune effect.
+
+tagRunewordD340b=^c"BacEom" (Transmutation)
+tagRunewordD340bDesc=^wThe ^oMeteors ^wfrom the ^oPath of Destruction ^wrune effect turn into ^bComets.
+
+tagRunewordD340c=^c"BacEom" (Enhanced)
+tagRunewordD340cDesc=^wBarbarian gains the ^oPath of Destruction ^wrune effect with additional damage.
+
+tagRunewordD340d=^c"BacEom" (Transmutation) (Enhanced)
+tagRunewordD340dDesc=^wThe ^oMeteors ^wfrom the ^oPath of Destruction ^wrune effect turns into ^bComets ^wwith additional damage.
+
+tagRunewordD341=^c"CemYom"
+tagRunewordD341Desc=^wBarbarian gains the ^rBlood Pact ^wrune effect.
+
+tagRunewordD342=^c"YaxMot"
+tagRunewordD342Desc=^wBarbarian gains the ^rFields of Crimson ^wrune effect.
+
+tagRunewordD343=^c"YulVex"
+tagRunewordD343Desc=^wCrusader gains the ^cShattering Arrival ^wrune effect.
+
+tagRunewordD343b=^c"YulVex" (Enhanced)
+tagRunewordD343bDesc=^cShattering Arrival ^wnow casts Bounding Light (Level 12).
+
+tagRunewordD344=^c"PocXan"
+tagRunewordD344Desc=^wCrusader gains the ^kBound to Holiness ^wrune effect.
+
+tagRunewordD345=^c"TamLum"
+tagRunewordD345Desc=^wCrusader gains the ^cStormbreaker ^wrune effect.
+
+tagRunewordD345b=^c"TamLum" (Enhanced)
+tagRunewordD345bDesc=^wCrusader gains the ^cStormbreaker (Enhanced) ^wrune effect.
+
+tagRunewordD346=^c"FeoXal"
+tagRunewordD346Desc=^wMonk gains the ^cSpeedrunner ^wrune effect.
+
+tagRunewordD346b=^c"FeoXal" (Enhanced)
+tagRunewordD346bDesc=^wDamage dealt by the ^cswirling sparks ^wis increased.
+
+tagRunewordD347=^c"LithGar"
+tagRunewordD347Desc=^wMonk gains the ^cReverberance ^wrune effect.
+
+tagRunewordD347b=^c"LithGar (Transmutation)"
+tagRunewordD347bDesc=^cReverberance ^wnow deals ^kholy ^wdamage.
+
+tagRunewordD347c=^c"LithGar" (Enhanced)
+tagRunewordD347cDesc=^cReverberance ^wnow casts Wave of Light (Level 9).
+
+tagRunewordD347d=^c"LithGar (Transmutation) (Enhanced)"
+tagRunewordD347dDesc=^cReverberance ^wnow casts Wave of Light (Level 9) and deals ^kholy ^wdamage.
+
+tagRunewordD348=^c"BacKry"
+tagRunewordD348Desc=^wMonk gains the ^kTitanbreaker ^wrune effect.
+
+tagRunewordD349=^c"MoniMot"
+tagRunewordD349Desc=^wNecromancer gains the ^rBloodseeker ^wrune effect.
+
+tagRunewordD350=^c"KaaQax"
+tagRunewordD350Desc=^wNecromancer gains the ^hBone Prison ^wrune effect.
+
+tagRunewordD351=^c"NeoLac"
+tagRunewordD351Desc=^wNecromancer gains the ^tBonewaker ^wrune effect.
+
+tagRunewordD352=^c"NocLum"
+tagRunewordD352Desc=^yRequiem Ultimatum: ^tFinal Service ^wnow grants you guaranteed chance to perform critical attacks, and has 20% chance to have its cooldown restored. However, it also reduces critical damage by 30%.
+
+tagRunewordD353=^c"PocTal"
+tagRunewordD353Desc=^yBlood Harvest: ^tDark Reaping ^wnow restores 20% of your health every second and increases healing effects by 15%. However, you no longer can use health potions.
+
+tagRunewordD354=^c"TamEom"
+tagRunewordD354Desc=^wWitch Doctor gains the ^cEnergy Hunger ^wrune effect.
+
+tagRunewordD355=^c"CirThul"
+tagRunewordD355Desc=^wWitch Doctor gains the ^rFull-blooded ^wrune effect.
+
+tagRunewordD356=^c"YaxQax"
+tagRunewordD356Desc=^yFire Walk With Me: ^wThe resistance reduction applied by Surrounded by Death, from the ^oFire Wall ^wskill, now is also applied to foes that just pass through the burning wall, lasting for 8 seconds. Enemies standing on Fire Wall will receive double resistance reduction.
+
+tagRunewordD357=^c"XolNer"
+tagRunewordD357Desc=^yHead Hunters: ^gZombie Dogs ^wand ^pGargantuan ^wgain 100% chance to perform critical attacks for 3 seconds after being summoned.
+
+tagRunewordD358=^c"YulGar"
+tagRunewordD358Desc=^wWizard gains the ^cStormbender ^wrune effect.
+
+tagRunewordD359=^c"ZanLac"
+tagRunewordD359Desc=^wWizard gains the ^bIceberg ^wrune effect.
+
+tagRunewordD360=^c"AhuEom"
+tagRunewordD360Desc=^wWizard gains the ^bEnergize ^wrune effect.
+
+tagRunewordD361=^c"NocWat"
+tagRunewordD361Desc=^wBlood Knight gains the ^rHemolysis ^wrune effect.
+
+tagRunewordD362=^c"YaxVex"
+tagRunewordD362Desc=^wTempest gains the ^bDust Devil ^wrune effect.
+
+tagRunewordD362b=^c"YaxVex" (Enhanced)
+tagRunewordD362bDesc=^wTempest gains the ^bDust Devil (Enhanced) ^wrune effect.
+
+tagRunewordD363=^c"AhuThul"
+tagRunewordD363Desc=^wTempest gains the ^bSquall ^wrune effect.
+
+tagRunewordD363b=^c"AhuThul" (Enhanced)
+tagRunewordD363bDesc=^wTempest gains the ^bSquall (Enhanced) ^wrune effect.
+
+tagRunewordD364=^c"BacLum"
+tagRunewordD364Desc=^wTempest gains the ^bWaterspout ^wrune effect.
+
+tagRunewordD364b=^c"BacLum" (Enhanced)
+tagRunewordD364bDesc=^wTempest gains the ^bWaterspout (Enhanced) ^wrune effect.
+
+
+
+
+
+
+
+
+
+
+tagGDX1HeadD129=Crimson King's Visage
+tagGDX1ShoulderD126=Crimson King's Scrolls
+tagGDX1TorsoD126=Crimson King's Armor
+tagGDX1NecklaceD125=Crimson King's Pendant
+tagGDX1Blueprint_ArmorD170=Blueprint=Crimson King's Visage
+tagGDX1ItemSetD123Name=The Crimson King
+tagGDX1ItemSetD123Desc="The bloodied armor of Lord Nazaran, a former sanguinary knight who became the King in Crimson."

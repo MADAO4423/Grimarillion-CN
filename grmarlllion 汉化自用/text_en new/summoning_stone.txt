@@ -1,0 +1,159 @@
+Summoning Stone
+*The summoning stone vibrates*{^n}{^n}You can begin the trials by using this stone. {^n}{^n}^rLoot will be cleared between waves so make sure you collect your loot before continuing!
+Begin the trial.
+Totem Challenge - trigger a random Monster Totem event.
+Summon desired wave...
+Which wave would you like to fight? {^n}{^n}^oWaves are unlocked as you complete them.{^n}^rWave skips cost 5 Eternal Shards.
+Wave 1 (Corruptions)
+Wave 6 (Outlaws)
+Wave 11 (Undead)
+Wave 16 (Homestead)
+Wave 21 (Insectoids)
+Wave 26 (Beastkin)
+Wave 31 (Factions)
+Wave 36 (Chthonians)
+Wave 41 (Port Valbury)
+Wave 46 (Ugdenbog)
+Wave 51 (Wendigo)
+Wave 56 (Voidborn)
+Wave 61 (Malmouth)
+Wave 66 (Eldritch)
+Wave 71 (Celestial)
+Back...
+
+Challenge the Gods...
+*You are gazing through the veil of time*
+Lower Pantheon
+*You are watching upon the Avatars*
+Archmage Aleksander
+Rematch Archmage Aleksander
+Benn'Jahr, the Colossal
+Rematch Benn'Jahr, the Colossal
+Fabius 'the Unseen' Gonzar
+Rematch Fabius 'the Unseen' Gonzar
+Grava'Thul the Voiddrinker
+Rematch Grava'Thul the Voiddrinker
+Kaisan, the Eldritch Scion
+Rematch Kaisan, the Eldritch Scion
+Kubacabra, the Endless Menace
+Rematch Kubacabra, the Endless Menace
+Reaper of the Lost
+Rematch Reaper of the Lost
+Moosilauke, the Chillwind
+Rematch Moosilauke, the Chillwind
+Valdaran, the Storm Scourge
+Rematch Valdaran, the Storm Scourge
+The Iron Maiden
+Rematch The Iron Maiden
+Zantarin the Immortal
+Rematch Zantarin the Immortal
+Back...
+
+Rematch Archmage Aleksander (Requires 15 Eterneum)
+Rematch Benn'Jahr, the Colossal (Requires 15 Eterneum)
+Rematch Fabius 'the Unseen' Gonzar (Requires 15 Eterneum)
+Rematch Grava'Thul the Voiddrinker (Requires 15 Eterneum)
+Rematch Kaisan, the Eldritch Scion (Requires 15 Eterneum)
+Rematch Kubacabra, the Endless Menace (Requires 15 Eterneum)
+Rematch Moosilauke, the Chillwind (Requires 15 Eterneum)
+Rematch Reaper of the Lost (Requires 15 Eterneum)
+Rematch The Iron Maiden (Requires 15 Eterneum)
+Rematch Valdaran, the Storm Scourge (Requires 15 Eterneum)
+Rematch Zantarin the Immortal (Requires 15 Eterneum)
+Upper Pantheon...
+*You are watching upon the Avatars*
+Avatar of Mogdrogen
+John Bourbon
+Ulgrim
+Ravager
+Lokarr
+Callagadra, Scion of the Sands
+Crate of Entertainment
+Back...
+
+Rematch Avatar of Mogdrogen (Requires 25 Eterneum)
+Rematch John Bourbon (Requires 25 Eterneum)
+Rematch Ulgrim (Requires 25 Eterneum)
+Rematch Ravager (Requires 25 Eterneum)
+Rematch Lokarr (Requires 25 Eterneum)
+Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
+Rematch Crate of Entertainment (Requires 25 Eterneum)
+Rematch Avatar of Mogdrogen (Requires 25 Eterneum)
+Rematch John Bourbon (Requires 25 Eterneum)
+Rematch Ulgrim (Requires 25 Eterneum)
+Rematch Ravager (Requires 25 Eterneum)
+Rematch Lokarr (Requires 25 Eterneum)
+Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
+Rematch Crate of Entertainment (Requires 25 Eterneum)
+Back...
+
+Other Challenges
+The Summoning Stone detects an item in your inventory that can be used to challenge enemies from other worlds...
+Refracted
+Requires 10 Eterneum and the appropriate refraction (crafted at Thornelius, in the Personal Hideout)
+^pRefracted Abaddoth
+^pRefracted Bolvar
+^yRefracted Horde of Noble Ghosts
+^rRefracted Celestial Jia Qiu
+Back
+
+Hellfire
+These are bosses from Diablo.{^n}^rBEWARE: These bosses can be very difficult, fight at your own risk!{^n}^wRequires 10 Forgotten Souls and 10 Eterneum to summon
+^rAdria the Witch
+^rAzmodan ~ Lord of Sin
+^rBelial ~ Lord of Lies
+^rThe Butcher ~ Flesh Carver
+^rDiablo ~ Prime Evil
+^rLeoric ~ Skeleton King
+^rMalthael ~ Angel of Death
+^rTyrael ~ Archangel of Justice
+^rZoltun Kulle ~ Dark Horadrim
+Back
+
+Eternal Gods
+These are unique Eternal bosses that were in the original Eternal mod, but have been reworked and had their loot adjusted.{^n}{^n}^rBEWARE: These bosses can be very difficult, fight at your own risk!{^n}^wRequires 15 Eterneum to summon.
+^rAria'Bal, the Blood Collector
+^rDromegon, the Riftmother
+^rHarun, the Death Lord
+^rRaznar, the Plaguehawk
+^rSydriana, the Shardkeeper
+^rUrzog, the Unclean
+^rVaneau, the Depravity
+^rMalakos, the Lost Shade
+^rSister Siebna, the Eirenarch
+^rZaulkhan, the Aethershaper
+Back
+
+Classic Eternal
+These are unique Eternal bosses that were in the original Eternal mod.They only drop generic loot orbs. {^n}{^n}^rBEWARE: These bosses are not balanced, fight at your own risk!{^n}^wRequires 10 Eterneum to summon.
+^pAria, Lady Devourer
+^pDepravitie, Lord Corruptor
+^pSabrina, Lady Witch
+^pUrzog, Lord Demolisher
+^pZaul Kahn, Lord Undertaker
+^rIrewa Enabies, Ember Commander
+^rHarun, Master Tactician
+^rRaznar Hawkeye
+Back
+
+Back
+
+Increase Eternal difficulty level
+Reset your Eternal progress and increase the difficulty and the potential rewards of your trials
+Accept
+Decline
+Increase Eternal difficulty level
+
+Decrease Eternal difficulty level.
+Return to an lesser level of Eternal, reducing the difficulty and rewards of your trials.
+Accept
+Decline
+Complete main quest wave 70
+Give me eterneum. (DEBUG)
+
+Test Spawn
+Use Time Warp.
+This will reset your progress
+Accept
+Decline
+Go away.

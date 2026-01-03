@@ -1,0 +1,242 @@
+#Item Info
+tagConsumableAugurName=Mysterious Card
+tagConsumableAugurDesc=This item is no longer summons Inusat. Visit the Personal Hideout near the Devil's Crossing Riftgate to find Inusat.
+tagConsumableAugurDescOLD=Summons Inusat, Legendary Augur of the Gods
+tagConsumableAugurModName=Augury Mod
+
+# NPC Info
+tagAugurSmithName=Inusat
+tagAugurSmithTitle=Legendary Augur
+tagAugurSmithEnhancements01=Augury of the Gods
+tagAugurSmithEnhancements02=Inusat can reveal hidden secrets within the Augury{^n}cards you can find to create items. 
+tagAugurSmithEnhancements03=
+tagAugurSmithEnhancements04={^n}Inusat cannot grant equipment bonuses.
+
+#Blacksmith Augment Crafting Override (this is a GDX2 tag)
+tagCraftingRunes=AUGMENTS
+
+# Cards
+tagAuguryCardX01Name=The Green Merchant
+tagAuguryCardX01Desc=Twenty-five score were his efforts, boundless his results.{^n}{^n}{^o}Used in Grim Armory Recipe: Thunderstruck Stoneplate Greaves of Kings
+
+tagAuguryCardX02Name=The Resolute Devotee
+tagAuguryCardX02Desc=One must pursue power when standing against the world.{^n}{^n}{^o}Used in Grim Armory Recipe: Stonehide Solael-Sect Legguards
+
+tagAuguryCardX03Name=The Fearsmith
+tagAuguryCardX03Desc=A soul once shattered sows fear in many forms.{^n}{^n}{^o}Used in Grim Armory Recipe: Kilrian's Shattered Souls (x3)
+
+tagAuguryCardX04Name=The Heartless
+tagAuguryCardX04Desc=The biting flame of violence may chill and shock alike.{^n}{^n}{^o}Used in Grim Armory Recipe: -heart Dagger
+
+tagAuguryCardX05Name=The Fool
+tagAuguryCardX05Desc=Mistakes forgotten, successes unlearned.{^n}{^n}{^o}Used in Grim Armory Recipe: Tonic of Clarity
+
+tagAuguryCardX06Name=The Aspirant
+tagAuguryCardX06Desc=Time is not to be wasted.{^n}{^n}{^o}Used in Grim Armory Recipe: Potion of Clarity
+
+tagAuguryCardX07Name=The Husk
+tagAuguryCardX07Desc=Thoughts drained, dreams withered, creativity crushed.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Mindwarp
+
+tagAuguryCardX08Name=The Outcast
+tagAuguryCardX08Desc=Even if you may defy our decree, humanity will fall.{^n}{^n}{^o}Used in Grim Armory Recipe: Outcasts's Secret
+
+tagAuguryCardX09Name=The Forest
+tagAuguryCardX09Desc=Roots tangle and turn while branches choke out the sunlight above from shining below.{^n}{^n}{^o}Used in Grim Armory Recipe: Living Armor
+
+tagAuguryCardX10Name=The Bulbous
+tagAuguryCardX10Desc=Beauty on the surface, wrath beneath.{^n}{^n}{^o}Used in Grim Armory Recipe: Ugdenbloom (x10)
+
+tagAuguryCardX11Name=The Vampire
+tagAuguryCardX11Desc=In life, a desecrator of death. In undeath, a thief of life.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Wrath of Tenebris
+
+tagAuguryCardX12Name=The Antagonist
+tagAuguryCardX12Desc=The ruinous one, hunted by all.{^n}{^n}{^o}Used in Grim Armory Recipe: Warrant
+
+tagAuguryCardX13Name=The Protagonist
+tagAuguryCardX13Desc=Arbirtarily chosen, but a hero nonetheless. Their path is challenged.{^n}{^n}{^o}Used in Grim Armory Recipe: Mandate
+
+tagAuguryCardX14Name=The Dagger
+tagAuguryCardX14Desc=Balanced to defend, balanced to kill.{^n}{^n}{^o}Used in Grim Armory Recipe: Incorruptible Cronley's Signet of Attack
+
+tagAuguryCardX15Name=The Butcher
+tagAuguryCardX15Desc=Bathed in blood, none his own.{^n}{^n}{^o}Used in Grim Armory Recipe: Pit Master's Axe of Cruelty
+
+tagAuguryCardX16Name=The Pauper
+tagAuguryCardX16Desc=Possessor of little, he will take what he can get.{^n}{^n}{^o}Used in Grim Armory Recipe: Augury Card
+
+tagAuguryCardX17Name=The Sailor
+tagAuguryCardX17Desc=Seeking lands new, the world of old in his wake.{^n}{^n}{^o}Used in Grim Armory Recipe: Explorer Piece
+
+tagAuguryCardX18Name=The Godless
+tagAuguryCardX18Desc=The belief in the self is all he needs.{^n}{^n}{^o}Used in Grim Armory Recipe: Kymon's Chosen Armor Augment (x3)
+
+tagAuguryCardX19Name=The Hierophant
+tagAuguryCardX19Desc=Enticing the pure for zealous corruption.{^n}{^n}{^o}Used in Grim Armory Recipe: Death's Vigil Armor Augment (x3)
+
+tagAuguryCardX20Name=The Satiated
+tagAuguryCardX20Desc=Drenched in gore, with hunger no more.{^n}{^n}{^o}Used in Grim Armory Recipe: Barrowholm Armor Augment (x3)
+
+tagAuguryCardX21Name=The Denier
+tagAuguryCardX21Desc=A world narrow, with no opportunity for wonder.{^n}{^n}{^o}Used in Grim Armory Recipe: Outcast Armor Augment (x3)
+
+tagAuguryCardX22Name=The Athlete
+tagAuguryCardX22Desc=Ever further shall they run, faster shall they sprint, slower shall they see.{^n}{^n}{^o}Used in Grim Armory Recipe: Glyph{^n}{^n}{^o}Also Used in Grim Armory Recipe: Rune
+
+tagAuguryCardX24Name=The Utopian
+tagAuguryCardX24Desc=What is lost in attaining perfection cannot be regained.{^n}{^n}{^o}Used in Grim Armory Recipe: Eldritch Essence (x10)
+
+tagAuguryCardX25Name=The Dreamer
+tagAuguryCardX25Desc=Ten swallowed whole by the Void, zero survive without change.{^n}{^n}{^o}Used in Grim Armory Recipe: Celestial Lotus (x8)
+
+tagAuguryCardX26Name=The Red Merchant
+tagAuguryCardX26Desc=As blood is spilt in war, his profits grow.{^n}{^n}{^o}Used in Grim Armory Recipe: Aether Crystal Drop (x5)
+
+tagAuguryCardX27Name=The Gemling
+tagAuguryCardX27Desc=Riches abound for a hoarder innate.{^n}{^n}{^o}Used in Grim Armory Recipe: Gem-like Component
+
+tagAuguryCardX28Name=The Peddler
+tagAuguryCardX28Desc=Wares for all folks for but a paltry sum.{^n}{^n}{^o}Used in Grim Armory Recipe: Scavenged Plating (x50)
+
+tagAuguryCardX29Name=The Legend
+tagAuguryCardX29Desc=A warrior's death, far from isolation, leaving behind carnage to be described over meat and ale.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Chausses of Barbaros
+
+tagAuguryCardX30Name=The Entombed
+tagAuguryCardX30Desc=Slow and lumbering, but without weakness.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Stonetreaders
+
+tagAuguryCardX31Name=The Bane
+tagAuguryCardX31Desc=For it is she that does not kneel, her will as unbreakable as her armaments.{^n}{^n}{^o}Used in Grim Armory Recipe: Stoneguard Piece
+
+tagAuguryCardX32Name=The Unstoppable
+tagAuguryCardX32Desc=Unbridled strength, unwavering resolve, unbelievable might.{^n}{^n}{^o}Used in Grim Armory Recipe: Thunderstruck Kaisan's Eldritch Eye of the Gildam Arcanum
+
+tagAuguryCardX33Name=The Affluent
+tagAuguryCardX33Desc=Enslaved to metal, be it coin, ring, or bar...it will all rust in time.{^n}{^n}{^o}Used in Grim Armory Recipe: Stack of Premium Iron Bars
+
+tagAuguryCardX34Name=The Crimson Lord
+tagAuguryCardX34Desc=The rose-red blood of worlds is His, His eye ever watching from bannered Flaggs.{^n}{^n}{^o}Used in Grim Armory Recipe: Blood Knight's Piece
+
+tagAuguryCardX35Name=The Barrelsmith
+tagAuguryCardX35Desc=A champion of another era, now in a forgetful world.{^n}{^n}{^o}Used in Grim Armory Recipe: Legendary Dual-Wield Ranged Enabler
+
+tagAuguryCardX36Name=The Tower
+tagAuguryCardX36Desc=Nexus of all that is or could be.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Silver Tower Piece
+
+tagAuguryCardX37Name=The Blue Merchant
+tagAuguryCardX37Desc=That which needs to be learned is the most valuable of wares.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Relic Blueprint
+
+tagAuguryCardX38Name=The Lifekeeper
+tagAuguryCardX38Desc=Those alive shall stay so, naturally or otherwise.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Tinker's Ingenuinty
+
+tagAuguryCardX39Name=The Fallen Blade
+tagAuguryCardX39Desc=Where blade meets brick, at battle's end or execution dealt.{^n}{^n}{^o}Used in Grim Armory Recipe: Bladefall Piece
+
+tagAuguryCardX40Name=The Magician
+tagAuguryCardX40Desc=Magic bewilders for trick or for trade.{^n}{^n}{^o}Used in Grim Armory Recipe: Spellslinger Piece
+
+tagAuguryCardX41Name=The Twisted
+tagAuguryCardX41Desc=Aberrant of nature, warped into something wrong.{^n}{^n}{^o}Used in Grim Armory Recipe: Twisted Piece
+
+tagAuguryCardX42Name=The Machine
+tagAuguryCardX42Desc=Singular in function but vast in performance.{^n}{^n}{^o}Used in Grim Armory Recipe: Automata Piece
+
+tagAuguryCardX43Name=The Judge
+tagAuguryCardX43Desc=Innocence avowed, guilt excommunicated.{^n}{^n}{^o}Used in Grim Armory Recipe: Judicator Piece
+
+tagAuguryCardX44Name=The Astronomer
+tagAuguryCardX44Desc=What goes up inevitably comes crashing down.{^n}{^n}{^o}Used in Grim Armory Recipe: Meteoric Piece
+
+tagAuguryCardX45Name=The Wayward
+tagAuguryCardX45Desc=Set out upon lands unknown, unlikely to remain for long.{^n}{^n}{^o}Used in Grim Armory Recipe: Realmsplitter Piece
+
+tagAuguryCardX46Name=The Formless
+tagAuguryCardX46Desc=The unmade man can do anything, including die.{^n}{^n}{^o}Used in Grim Armory Recipe: Unraveler Piece
+
+tagAuguryCardX47Name=The Destiny
+tagAuguryCardX47Desc=What shall you do?{^n}{^n}{^o}Used in Grim Armory Recipe: Random Protoset Card (x3)
+
+tagAuguryCardX48Name=The Vanguard
+tagAuguryCardX48Desc=First to arrive, last to survive.{^n}{^n}{^o}Used in Grim Armory Recipe: Forerunner Piece
+
+tagAuguryCardX49Name=The Banished
+tagAuguryCardX49Desc=Profane power, ever-gnawing at reality.{^n}{^n}{^o}Used in Grim Armory Recipe: Primordial Piece
+
+tagAuguryCardX50Name=The Defiler
+tagAuguryCardX50Desc=Devotion to a cause, recognized and rewarded.{^n}{^n}{^o}Used in Grim Armory Recipe: Felsic Piece
+
+tagAuguryCardX51Name=The Favored
+tagAuguryCardX51Desc=Paid in coin to deal in lead.{^n}{^n}{^o}Used in Grim Armory Recipe: Fortune Piece
+
+tagAuguryCardX52Name=The Fist
+tagAuguryCardX52Desc=Sound of cause, singular in spirit.{^n}{^n}{^o}Used in Grim Armory Recipe: Purity Piece
+
+tagAuguryCardX53Name=The Normal
+tagAuguryCardX53Desc=Utterly unremarkable, yet with hidden power.{^n}{^n}{^o}Used in Grim Armory Recipe: Mediocre Piece
+
+tagAuguryCardX54Name=The Herald
+tagAuguryCardX54Desc=Bringer of good tidings.{^n}{^n}{^o}Used in Grim Armory Recipe: Herald Piece
+
+tagAuguryCardX55Name=The Praetor
+tagAuguryCardX55Desc=Defender of the realm.{^n}{^n}{^o}Used in Grim Armory Recipe: Praetorian Piece
+
+
+tagAuguryCardX00Name=
+tagAuguryCardX00Desc={^n}{^n}{^o}Used in Grim Armory Recipe: 
+
+# Blueprints
+tagAuguryBlueprintX01=Thunderstruck Stoneplate Greaves of Kings
+tagAuguryBlueprintX02=Stonehide Solael-Sect Legguards
+tagAuguryBlueprintX03=Kilrian's Shattered Soul (x3)
+tagAuguryBlueprintX04=-heart Dagger
+tagAuguryBlueprintX05=Tonic of Clarity (x3)
+tagAuguryBlueprintX06=Potion of Clarity (x4)
+tagAuguryBlueprintX07=Mythical Mindwarp
+tagAuguryBlueprintX08=Outcasts's Secret
+tagAuguryBlueprintX09=Living Armor
+tagAuguryBlueprintX10=Ugdenbloom (x10)
+tagAuguryBlueprintX11=Mythical Wrath of Tenebris
+tagAuguryBlueprintX12=Warrant
+tagAuguryBlueprintX13=Mandate
+tagAuguryBlueprintX14=Incorruptible Cronley's Signet of Attack
+tagAuguryBlueprintX15=Pit Master's Axe of Cruelty
+tagAuguryBlueprintX16=Augury Card
+tagAuguryBlueprintX17=Explorer Piece
+tagAuguryBlueprintX18=Kymon's Chosen Armor Augment (x3)
+tagAuguryBlueprintX19=Death's Vigil Armor Augment (x3)
+tagAuguryBlueprintX20=Barrowholm Armor Augment (x3)
+tagAuguryBlueprintX21=Outcast Armor Augment (x3)
+tagAuguryBlueprintX22=Glyph
+tagAuguryBlueprintX23=Rune
+tagAuguryBlueprintX24=Eldritch Essence (x10)
+tagAuguryBlueprintX25=Celestial Lotus (x8)
+tagAuguryBlueprintX26=Aether Crystal Drop (x5)
+tagAuguryBlueprintX27=Gem-like Component
+tagAuguryBlueprintX28=Scavenged Plating (x50)
+tagAuguryBlueprintX29=Mythical Chausses of Barbaros
+tagAuguryBlueprintX30=Mythical Stonetreaders
+tagAuguryBlueprintX31=Stoneguard Piece
+tagAuguryBlueprintX32=Thunderstruck Kaisan's Eldritch Eye of the Gildam Arcanum
+tagAuguryBlueprintX33=Stack of Premium Iron Bars
+tagAuguryBlueprintX34=Blood Knight's Piece
+tagAuguryBlueprintX35=Legendary Dual-Wield Ranged Enabler
+tagAuguryBlueprintX36=Mythical Silver Tower Piece
+tagAuguryBlueprintX37=Mythical Relic Blueprint
+tagAuguryBlueprintX38=Mythical Tinker's Ingenuity
+tagAuguryBlueprintX39=Bladefall Piece
+tagAuguryBlueprintX40=Spellslinger Piece
+tagAuguryBlueprintX41=Twisted Piece
+tagAuguryBlueprintX42=Automata Piece
+tagAuguryBlueprintX43=Judicator Piece
+tagAuguryBlueprintX44=Meteoric Piece
+tagAuguryBlueprintX45=Realmsplitter Piece
+tagAuguryBlueprintX46=Unraveler Piece
+tagAuguryBlueprintX47=Random Protoset Card (x3)
+tagAuguryBlueprintX48=Forerunner Piece
+tagAuguryBlueprintX49=Primordial Piece
+tagAuguryBlueprintX50=Felsic Piece
+tagAuguryBlueprintX51=Fortune Piece
+tagAuguryBlueprintX52=Purity Piece
+tagAuguryBlueprintX53=Mediocre Piece
+tagAuguryBlueprintX54=Herald Piece
+tagAuguryBlueprintX55=Praetorian Piece
+
+tagAuguryBlueprintX00=

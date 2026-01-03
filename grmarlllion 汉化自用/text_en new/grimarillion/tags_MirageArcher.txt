@@ -1,0 +1,8 @@
+#tag For Mirage Archer Mod by Okami
+
+tag_MA_pet=Sylvana - Mirage Archer
+tag_MA_skill=Mirage Archer
+tag_MA_petskill= Phantasmal Arrows
+tag_MA_ring= Mirage Archer ring
+
+
