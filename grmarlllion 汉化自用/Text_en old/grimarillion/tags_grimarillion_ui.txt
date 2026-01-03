@@ -1,7 +1,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Version #
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-tagQuests=Active Quests (v094a)
+tagQuests=Active Quests (v095)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Difficulty Tags
@@ -109,17 +109,17 @@ tagCharHealIncreaseModifier={^H}{%+.0f0}% {^E}Healing Effects
 tagCharHealIncreaseModifierR={^H}{%.0f0}% - {%.0f1}% {^E}Healing Effects
 
 
-DefensePhysical={%+.0f0}% {^K}Physical Resistance{^E}
-DefensePierce={%+.0f0}% {^R}Pierce Resistance{^E}
-DefenseElementalResistance={%+.0f0}% {^Y}Elemental Resistance{^E}
-DefenseCold={%+.0f0}% {^C}Cold Resistance{^E}
-DefenseFire={%+.0f0}% {^O}Fire Resistance{^E}
-DefenseAether={%+.0f0}% {^A}Aether Resistance{^E}
-DefenseChaos={%+.0f0}% {^P}Chaos Resistance{^E}
-DefensePoison={%+.0f0}% {^L}Poison & Acid Resistance{^E}
-DefenseLightning={%+.0f0}% {^Z}Lightning Resistance{^E}
-DefenseBleeding={%+.0f0}% {^R}Bleeding Resistance{^E}
-DefenseLife={%+.0f0}% {^M}Vitality Resistance{^E}
+DefensePhysical={%+.0f0}% {^E}Physical Resistance
+DefensePierce={%+.0f0}% {^E}Piercing Resistance
+DefenseElementalResistance={%+.0f0}% {^E}Elemental Resistance
+DefenseCold={%+.0f0}% {^E}Cold Resistance
+DefenseFire={%+.0f0}% {^E}Fire Resistance
+DefenseAether={%+.0f0}% {^E}Aether Resistance
+DefenseChaos={%+.0f0}% {^E}Chaos Resistance
+DefensePoison={%+.0f0}% {^E}Poison & Acid Resistance
+DefenseLightning={%+.0f0}% {^E}Lightning Resistance
+DefenseBleeding={%+.0f0}% {^E}Bleeding Resistance
+DefenseLife={%+.0f0}% {^E}Vitality Resistance
 DefenseLifeLeach={%+.0f0}% {^E}Life Leech Resistance
 DefenseManaLeach={%+.0f0}% {^E}Energy Leech Resistance
 DefensePercentCurrentLife={%+.0f0}% {^E}Resistance to Life Reduction
@@ -137,14 +137,14 @@ tagCharStatsPierceRetInfo=The Piercing Damage dealt to an attacker whenever you 
 tagCharStatsPiercePercentRet=Piercing Modifier
 tagCharStatsPiercePercentRetInfo=The percent bonus to all Piercing Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 tagQualifyingDamagePierce=Piercing
-DamageModifierPierce={%+.0f0}% {^R}Piercing Damage{^E}
-DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}Piercing Damage{^E}
-RetaliationModifierPierceRatio={%+.0f0}% {^R}Piercing Retaliation{^E}
-DefensePierce={%.0f0}% {^R}Piercing Resistance{^E}
-DefensePierceR={%.0f0}-{%.0f1}% {^R}Piercing Resistance{^E}
-DefensePierceModifier={^R}Increases Current Piercing Resistance by {^H}{%.0f0}%{^E}
-DefensePierceMaxResist={%+.0f0}% {^R}Maximum Piercing Resistance{^E}
-DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}Maximum Piercing Resistance{^E}
+DamageModifierPierce={%+.0f0}% {^E}Piercing Damage
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}Piercing Damage
+RetaliationModifierPierceRatio={%+.0f0}% {^E}Piercing Retaliation
+DefensePierce={%.0f0}% {^E}Piercing Resistance
+DefensePierceR={%.0f0}-{%.0f1}% {^E}Piercing Resistance
+DefensePierceModifier={^E}Increases Current Piercing Resistance by {^H}{%.0f0}%
+DefensePierceMaxResist={%+.0f0}% {^E}Maximum Piercing Resistance
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Piercing Resistance
 
 
 DefenseStun={%+.0f0}% {^E}Stun Resistance
@@ -165,8 +165,8 @@ DefenseConfusion={%+.0f0}% {^E}Confusion Resistance
 DefenseDisruption={%+.0f0}% {^E}Disruption Resistance
 
 
-SkillEnhancement=+{%d0} {^X}to all skills{^E}
-ItemAllSkillIncrement={+%d0} {^X}to all skills{^E}
+SkillEnhancement=+{%d0} {^E}to all skills
+ItemAllSkillIncrement={+%d0} {^E}to all skills
 SkillCooldownReductionModifier={^E}Total Skill Recharge Modified by {^H}{%.0f0}%
 DamageLifeLeech={^H}+{%t0}% {^E}Life Steal //{%t0}% {^E}
 
@@ -185,8 +185,8 @@ DamageManaDrain={%t0}% {^E}Energy Burn
 DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}of Energy Burnt dealt as damage)
 DamageModifierManaBurn={%.0f0}% {^E}of Energy Burnt causes Damage
 
-ItemMasteryIncrement={+%d0} {^X}to {%s1} skills{^E}
-ItemAllSkillIncrement={+%d0} {^X}to all skills{^E}
+ItemMasteryIncrement={+%d0} {^E}to {%s1} skills
+ItemAllSkillIncrement={+%d0} {^E}to all skills
 
 //ItemMasteryIncrement={+%d0} {^E}to all skills in {%s1}
 //ItemAllSkillIncrement={+%d0} {^E}to all Skills
@@ -404,7 +404,7 @@ tagGrimar_TutorialTip5TextO=^n^nAlongside these integral NPCs, you will also fin
 tagGrimar_TutorialTip5TextP=^n^n
 
 tagGrimar_TutorialTip6Title=∙Grimarillion Guide 004: Item Swapper
-tagGrimar_TutorialTip6TextA=^nIn the heart of the Personal Hideout, you will find a strange man and an even stranger device. Magnusson, the Artificer is able to some of the vanilla items and replace them with mod variants. There are several legendary items that are included in this, but primarily this includes Monster Infrequents. Better still - unlike Tendo, the Replica Smith, these MIs will not only be replaced with the variant, but they will retain all their affixes so you won't lose your perfectly affixed gear! When you swap a vanilla item into a D3 item, it becomes "Hellforged", a Darkest Dawn item becomes a "Replica", and a Priest item becomes "Reverent". See below for the lists of swappable items:
+tagGrimar_TutorialTip6TextA=^nIn the heart of the Personal Hideout, you will find a strange man and an even stranger device. Magnusson, the Artificer is able to some of the vanilla items and replace them with mod variants. There are several legendary items that are included in this, but primarily this includes Monster Infrequents. Better still - unlike Tendo, the Replica Smith, these MIs will not only be replaced with the variant, but they will retain all their affixes so you won't lose your perfectly affixed gear! When you swap a vanilla item into a D3 item, it becomes "Hellforged", a Darkest Dawn item becomes a "Replica", a Priest item becomes "Reverent", and a SwampMod item becomes "Vineforged". See below for the lists of swappable items:
 
 tagGrimar_TutorialTip6SubtitleB=^n^nDarkest Dawn Swaps:
 tagGrimar_TutorialTip6TextB=^nAbaddoth's Sermons^nAlkamos' Warsword^nAscendant Authority^nAscendant Cowl^nAscendant Source^nAscended Casque^nAscended Diadem^nBalegor's Crusher^nBarthollem's Gavel^nBasilisk Crest^nBlaze Herald^nBloodfeast's Mark^nBloodlord's Blade^nBloodsworn Codex^nBloodsworn Repeater^nBloodsworn Scepter^nBloodsworn Sigil^nBolvar's Pendant^nBonespike^nBound Wraith^nChillblood's Carcass^nChosen Mask^nColossal Defender^nCompelled Wraith^nCrimson's Arcane Scepter^nDeath-Watcher Pendant^nDeath's Whisper Hood^nEllena's Necklace^nFleshwarped Codex^nGaleslice's Mark^nGargoyle Gaze^nGargoyle Visage^nGaze of Ungoliax^nGroble Sand Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nGroble Toxic Effigy^nGroble Vile Effigy^nGrundleplith's Tail^nGulgazor's Heart^nGutworm's Mark^nHalion's Crest^nIlgorr's Eternal Vigil^nIncendiary Casque^nKorvan Gaze^nKorvan Reaping Halberd^nKorvan Storm Halberd^nKymon's Badge^nKyzogg's Skull^nLagoth'Ak's Bloodbinding^nLagoth'Ak's Voidbinding^nLucius Blade-Arm^nMagi Visage^nMark of Nacrathan^nMark of Plagius^nMartin's Crest^nNamadea's Eye^nNamadea's Horns^nNight Herald^nObsidian Defender^nPackla's Skins^nPackla's Visage^nPulsing Shard^nPutrid Necklace^nRag'Nadar's Maw^nRagrathar's Horn^nRavna's Claw^nRolderathis' Tome^nRonaprax's Sting^nRutnick's Blaster^nRylok Mark^nScorpius Pummeler^nSegarius' Tainted Blade^nSlathsarr's Crest^nSpectral Arbalest^nSpectral Battle Axe^nSpectral Bludgeon^nSpectral War Shield^nSpectral Warmaul^nStorm Herald^nTerrnox's Aether Tome^nUgdenbog Bilelauncher^nUgdenbog Boltthrower^nUgdenbog Chillstrife^nUgdenbog Flamestrife^nUgdenbog Howler^nUgdenbog Sparkthrower^nUgdenbog Venom Launcher^nUlraprax's Sting^nVampiric Bonewall^nVilgazor's Heart^nViper Hemorrhager^nWarden's Judgment^nWendigo Eye^nWradlith's Bulwark^nZaria's Pendant
@@ -415,7 +415,8 @@ tagGrimar_TutorialTip6TextC=^nAbaddoth's Sermons^nAetherscorched Cleaver^nAlkamo
 tagGrimar_TutorialTip6SubtitleD=^n^nPriest Swaps:
 tagGrimar_TutorialTip6TextD=^nAlkamos' Scythe^nAlkamos' Warsword^nAscendant Hood^nAscendant Source^nAscended Diadem^nBlaze Herald^nBloodsworn Scepter^nChosen Mask^nCoerced Wraith^nCrimson's Arcane Scepter^nDeath-Watcher Pendant^nDeath's Whisper Hood^nFleshwarped Codex^nFleshwarped Tome^nGaze of Ungoliax^nGroble Ember Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nIlgorr's Eternal Vigil^nKorvaak's Storm-Blade^nKorvan Helm^nKymon's Sanctified Blade^nMalkadarr's Dreadblade^nMartin's Crest^nNight Herald^nOverseer Eye^nPulsing Shard^nRolderathis' Tome^nSegarius' Sacred Blade^nSkybreaker Circlet^nSlathsarr's Crest^nSpectral Arbalest^nSpectral Longsword^nSpectral Warmaul^nStorm Herald^nUgdenbog Arcaneweaver^nUlraprax's Sting^nWendigo Eye^nZarthuzellan's Codex
 
-
+tagGrimar_TutorialTip6SubtitleE=^n^nSwampMod Swaps:
+tagGrimar_TutorialTip6TextE=^nAbaddoth's Sermons^nBloodlord's Vengeance^nFleshwarped Bulwark^nGargoyle Girdle^nGroble Sand Effigy^nGroble Toxic Effigy^nKorvan Burning Halberd^nKorvan Eldritch Halberd^nKorvan Reaping Halberd^nKorvan Storm Halberd^nKyzogg's Skull^nNaren Kur's Blade^nRift Scourge Slicer^nRolderathis' Tome^nRutnick's Blaster^nServitor's Slicer^nSteward's Halberd^nWendigo Barb^nWendigo Claw
 
 tagGrimar_TutorialTip7Title=∙Grimarillion Guide 006: SR Modifications
 tagGrimar_TutorialTip7TextA=^nGrimarillion at it's heart, is an expansion of Grim Dawn and intends to give freedom where possible. The Shattered Realm is no exception, and ASYLUM101 did what he could to open this mode up a little. When you speak to Mazaan to delve into the Shattered Realm, you have two new options if you play Grimarillion. You can use a Loot Stone, or an Arena Stone. These two stones will replace the existing Shattered Realm with a new one that is *slightly* different.
@@ -581,3 +582,5 @@ tagGrimarTutorialQuickTip13=_Grimarillion: Third Party Stuff
 tagGrimarTutorialQuickTip14=_Grimarillion: Faction Goods Info
 tagGrimarTutorialQuickTip15=_Grimarillion: Runewords
 
+tagGrimarBerserkerTitle=(Unavailable)
+tagGrimarBerserkerDesc=Upcoming class included in Fangs of Asterkarn DLC. Do not click this button - the class isn't here, it will just give Demon Hunter mastery instead.

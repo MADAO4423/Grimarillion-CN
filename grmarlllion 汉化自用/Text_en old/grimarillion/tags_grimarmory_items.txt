@@ -244,8 +244,6 @@ tagMalRelicD01=Spellshield Supreme
 tagMalRelicD01Desc=Relic of Maltrovauc, Son of Aeneris, the Wight King.^n^oA path begins in the blood of an Infernal Zealot.
 tagMalRelicBonusSkillName=Spellshield
 tagMalRelicBonusSkillDesc=Anathema to spellcasters, Maltrovauc's Spellshield nullifies malignant hexes placed upon its owner.
-tagMalNotif1=A perilous artifact has entered your pack...
-tagMalNotif2=Your grand quest comes to a close...for now.
 
 tagVanguardShieldD01=Vanguard's Assault
 tagVanguardShieldD01Desc=The Aetherials knew that they only could make one first impression. They made it count.
@@ -264,23 +262,78 @@ tagMediocreShouldersD01=Very Mundane Feathers
 tagMediocreShouldersD01SkillName=Not Quite Callidor's Tempest
 tagMediocreShouldersD01SkillDesc=It's close, but not quite there yet.
 
-tagForceShieldD01=Onec's Forceshield
-tagForceShieldD01Desc=Onec mastered the means of magically mitigating incoming forces...or, so he thought.
+tagForceShieldD01=^xOnec's Forceshield
+tagForceShieldD01Desc="Onec mastered the means of magically mitigating incoming forces...or, so he thought."{^n}^xSo you've slain one of my Avatars, have you? Worry not - I have others.
 tagForceShieldD01SkillName=Shield of Force
 tagForceShieldD01SkillDesc=Convert incoming blows into defensive reinforcement for yourself and strengthen your outgoing might in the process.
 
 tagBrutalSetD01=Darksteel Destroyer
-tagBrutalSetD01Desc=Hit Hard. Hit once.
+tagBrutalSetD01Desc=Hit hard. Hit once.
 tagBrutalMace2HD01=Darksteel Despoiler
 tagBrutalChestD01=Darksteel Core
 tagBrutalShouldersD01=Darksteel Guard
 tagBrutalBootsD01=Darksteel Treads
 
 tagDreadSetD01=Dreadwing's Flight
+tagDreadSetD01Desc=Fly above. Fly beyond.
 tagDreadAxeD01=Dreadwing's Talon
 tagDreadChestD01=Dreadwing's Stock
 tagDreadShouldersD01=Dreadwing's Plumage
 tagDreadHelmD01=Dreadwing's Beak
+
+tagPrimalSetD01=Primal Carnage
+tagPrimalSetD01Desc=Kill as kill can.
+tagPrimalAxeD01=Primal Cleaver
+tagPrimalDaggerD01=Primal Carver
+tagPrimalChestD01=Primal Furs
+tagPrimalShouldersD01=Primal Spines
+
+tagNorthSetD01=Northbite
+tagNorthSetD01Desc=Lashing is the Northern tongue.
+tagNorthChestD01=Northgarb
+tagNorthHelmD01=Northsight
+tagNorthFocusD01=Codices of the North
+tagNorthNecklaceD01=Northward
+
+tagWinterSetD01=Wintershriek
+tagWinterSetD01Desc=Cold are the Words of Winter.
+tagWinterScepterD01=Howling Winds
+tagWinterFocusD01=Biting Frost
+tagWinterBeltD01=Wintershriek's Embrace
+tagWinterShouldersD01=Wintershriek's Mantle
+
+tagEarthSetD01=Earthrend
+tagEarthSetD01Desc=Earth's blood bleeds all.
+tagEarthHelmD01=Earthrend Crown
+tagEarthTorsoD01=Earthrend Garb
+tagEarthShouldersD01=Earthrend Knot
+tagEarthNecklaceD01=Earthrend Gnarl
+
+tagClarionSetD01=Clarion Call
+tagClarionSetD01Desc=The Lord of Blood beckons.
+tagClarionHelmD01=Beckoner's Cowl
+tagClarionChestD01=Beckoner's Cover
+tagClarionGlovesD01=Beckoner's Grasp
+tagClarionRingD01=Beckoner's Band
+
+tagVeilSetD01=Veilbreaker
+tagVeilSetD01Desc=Gaze beyond reality, and be gazed upon.
+tagVeilHelmD01=Veilbreaker Hood
+tagVeilChestD01=Veilbreaker Robes
+tagVeilShouldersD01=Veilbreaker Epaulets
+tagVeilMaceD01=Veilbreaker
+
+tagVoidspeakerSetD01=Voidspeaker
+tagVoidspeakerSetD01Desc=Wicked is the Voice of Damnation.
+tagVoidspeakerMaceD01=Pho'Dorath
+tagVoidspeakerNecklaceD01=Voidspeaker Gems
+tagVoidspeakerRingD01=Voidspeaker Signet
+tagVoidspeakerBeltD01=Voidspeaker Girdle
+
+tagPotentialNecklaceC01=Amulet of Unrealized Potential
+tagPotentialNecklaceC01Desc=As you come into your own, the range of possibilities for you wanes away...
+tagPotentialNecklaceC01Skill=Realize Potential
+tagPotentialNecklaceC01SkillDesc=Manifest the potential within you, allowing your future strength to assist you in battle in the present. ^oRealized Potential scales with Pet Bonuses. Realized Potential grows weaker as you grow stronger.
 
 *******************
 ***END PROTOSETS***
@@ -386,12 +439,10 @@ tagChaosChaos=Abyssal Purity
 ***END COMPONENTS***
 ********************
 
-*************************
-***BEGIN VARIANT ITEMS***
-*************************
+********************************
+***BEGIN MANUAL VARIANT ITEMS***
+********************************
 
-tagProtoVariant=Variant
-tagVariantLeviathanRecipe=Variant Leviathan
 tagVariantGTMWRecipe=Variant Gate to Many Worlds
 tagVariantGTMWSkillName=Variant World Gate
 tagVariantGTMWSkillDesc=Tear a rift in reality that unravels foes that stand within it. ^oVariant World Gates scale with Player Bonuses.
@@ -399,6 +450,9 @@ tagVariantRiftwarpedGraspRecipe=Variant Riftwarped Grasp
 tagVariantSoulrendRecipe=Variant Soulrend
 tagVariantAdversaryRecipe=Variant Adversary
 tagVariantDreadKnightsGuardRecipe=Variant Dread Knight's Guard
+
+tagVariantVortexofSouls=Vortex of Blood
+tagVariantVortexofSoulsDesc="Every shot fired sends ripples through the void."
 
 tagVariantMarkovianSet=Markovian's Citadel
 tagVariantMarkovianSetSkillName=Defense in Depth
@@ -486,6 +540,13 @@ tagVariantVirtueTorso=Variant Virtue's Armor
 tagVariantVirtueShoulders=Variant Virtue's Guard
 tagVariantVirtueShield=Variant Virtue's Defender
 tagVariantVirtueAmulet=Variant Virtue's Ward
+
+tagVariantFenrisSet=Huginn
+tagVariantFenrisHelm=Cowl of Huginn
+tagVariantFenrisTorso=Armor of Huginn
+tagVariantFenrisShoulders=Shoulderguard of Huginn
+tagVariantFenrisAxe=Beak of Huginn
+tagVariantFenrisAmulet=Talisman of Huginn
 
 ***********************
 ***END VARIANT ITEMS***

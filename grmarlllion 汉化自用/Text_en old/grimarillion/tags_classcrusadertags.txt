@@ -9,7 +9,7 @@ tagSkillClassName0614=Storm Cleric
 tagSkillClassName0714=Justiciar
 tagSkillClassName0814=Dread Knight
 tagSkillClassName0914=Centurion
-tagSkillClassName1014=Siegebreaker
+tagSkillClassName1014=Banneret
 tagSkillClassName1114=Apothecary
 tagSkillClassName1214=Exemplar
 tagSkillClassName1314=Seraph
@@ -31,7 +31,7 @@ tagClassCrusaderSkillName01C=Fury
 tagClassCrusaderSkillDescription01C=Damage is increased and your attacks cause internal trauma damage to enemies over 3 seconds.
 
 tagClassCrusaderSkillName02A=Shield Bash
-tagClassCrusaderSkillDescription02A=Charge at your enemy, bashing him and nearby foes, dealing physical and lightning damage to all of them. Enemies hit are stunned for a few seconds. ^oRequires a shield.{^n}{^n}{^y}Shattered Shield {^o}(Unlocked at Skill Level 16){^n}^w20% of your retaliation damage is added to Shield Bash.
+tagClassCrusaderSkillDescription02A=Charge at your enemy, bashing him and nearby foes, dealing physical and lightning damage to all of them. Enemies hit are stunned for a few seconds. ^oRequires a melee weapon and a shield.{^n}{^n}{^y}Shattered Shield {^o}(Unlocked at Skill Level 16){^n}^w15% of your retaliation damage is added to Shield Bash.
 
 tagClassCrusaderSkillName02B=Pound
 tagClassCrusaderSkillDescription02B=Damage is increased and Shield Bash causes internal trauma to enemies, reducing their defensive ability for 3 seconds.
@@ -168,3 +168,18 @@ tagCrusaderRune02Desc=^kConsecration ^wnow releases blessed hammers that swirl a
 
 tagCrusaderRune02b=Rune Effect
 tagCrusaderRune02bDesc=All your skills is increased by 1 due a successful block.
+
+tagCrusaderRune03=^cShattering Arrival
+tagCrusaderRune03Desc=^cShield Bash ^wnow casts Bounding Light (Level 7). {^n}{^n}{^y}Runeword: {^c}YulVex
+
+tagCrusaderRune04=^cBound to Holiness
+tagCrusaderRune04Desc=^kReaping ^wnow heals 20% of your health every second while active. Critical hits performed by ^kSmite ^walso restores 800 of your health and grants 100% chance to deal critical attacks for the next 3 seconds. However, you no longer can use health potions, and your critical damage is reduced by 30% while having 100% chance of dealing critical hits. {^n}{^n}{^y}Runeword: {^c}PocXan
+
+tagCrusaderRune04b=^cRune Effect
+tagCrusaderRune04bDesc=100% chance to perform critical attacks for 3 seconds.
+
+tagCrusaderRune05=^cStormbreaker
+tagCrusaderRune05Desc=Critical hits dealt by ^cJustice ^wevoke a sequence of lightning bolts that strike multiple enemies that are close to the initial target, reducing their elemental resistances by 20 over 3 seconds.{^n}{^n}{^y}Runeword: {^c}TamLum
+
+tagCrusaderRune05b=^cStormbreaker (Enhanced)
+tagCrusaderRune05bDesc=Critical hits dealt by ^cJustice ^wevoke a sequence of lightning bolts that strike multiple enemies that are close to the initial target, reducing their elemental resistances by 25 over 3 seconds.{^n}{^n}{^y}Runeword: {^c}TamLum (Enhanced)

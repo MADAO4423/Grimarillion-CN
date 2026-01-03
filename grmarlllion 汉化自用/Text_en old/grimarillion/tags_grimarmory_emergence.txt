@@ -1,0 +1,83 @@
+#### Quality (Emergent) -> Style -> Name
+
+tagEmergentGlob=Glob of Iron
+tagEmergentGlobDesc=^rStill warm.
+
+#### TIER 0 ####
+tagEmergentTier0=Formless
+
+#### TIER 1 ####
+tagEmergentTier1=Inceptive
+tagStylePhysical=Shattering
+tagStyleFire=Flaming
+tagStyleCold=Freezing
+tagStyleLightning=Electrifying
+tagStylePoison=Corroding
+tagStylePierce=Slicing
+tagStyleLife=Sapping
+tagStyleAether=Corrupting
+tagStyleChaos=Devouring
+tagStyleElemental=Pulsing
+
+#### TIER 2 ####
+tagEmergentTier2=Nascent
+tagWeaponAttack=Alacritous
+tagWeaponCast=Celeritous
+tagArmorHealth=Robust
+tagArmorArmor=Resolute
+
+#### Tier 3 ####
+tagEmergentTier3=Developing
+tagOAFlat=Incisive
+tagDAFlat=Dexterous
+tagArmorPercent=Reinforced
+tagRegenFlat=Regenerative
+
+#### Tier 4 ####
+tagEmergentTier4=Refined
+tagStyleProcDamageAoEMelee=Rampager's
+tagStyleProcDamageAoESpark=Assaulter's
+tagStyleProcDefensive=Defender's
+tagStyleProcDefensiveAura=Guardian's
+tagStyleProcRR=Corruptor's
+tagStyleStats=Devastator's
+
+#### Generic Names ####
+tagEmergentSword1H=Blade
+tagEmergentSword2H=Claymore
+tagEmergentAxe1H=Cleaver
+tagEmergentAxe2H=Great Axe
+tagEmergentMace1H=Mallet
+tagEmergentMace2H=Maul
+tagEmergentDagger=Carver
+tagEmergentScepter=Source
+tagEmergentPistol=Handgun
+tagEmergentRifle=Rifle
+tagEmergentShield=Shield
+tagEmergentFocus=Codex
+
+tagEmergentAmulet=Jewels
+tagEmergentRing=Ring
+tagEmergentMedal=Badge
+
+tagEmergentHelmetMedium=Coif
+tagEmergentHelmetCaster=Circlet
+tagEmergentHelmetHeavy=Helm
+
+tagEmergentShouldersMedium=Spaulders
+tagEmergentShouldersHeavy=Shoulderplates
+
+tagEmergentTorsoMedium=Chestguard
+tagEmergentTorsoCaster=Robes
+tagEmergentTorsoHeavy=Platemail
+
+tagEmergentHandsMedium=Gloves
+tagEmergentHandsHeavy=Gauntlets
+
+tagEmergentBootsMedium=Greaves
+tagEmergentBootsHeavy=Treads
+
+tagEmergentLegsMedium=Leggings
+tagEmergentLegsHeavy=Legguards
+
+tagEmergentBelt=Waistguard

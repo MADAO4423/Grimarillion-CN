@@ -60,13 +60,13 @@ tagClass16SkillDescription01C=^b[Modifier]^n^n^w"I threw down my enemy, and he f
 tagClass16SkillName02A=Suit Up
 tagClass16SkillDescription02A=^b[Passive]^n^n^mDon armor worthy of a Knight of Enolis.
 tagClass16SkillName02B=Hand Armor
-tagClass16SkillDescription02B=^b[Passive]^n^n^^mWield the gauntlets of a destroyer, so that you might strangle death itself.
+tagClass16SkillDescription02B=^b[Passive]^n^n^mWield the gauntlets of a destroyer, so that you might strangle death itself.
 tagClass16SkillName02C=Leg Armor
-tagClass16SkillDescription02C=^b[Passive]^n^n^^mWear the legguards of a juggernaut, so that none may stop your rampage.
+tagClass16SkillDescription02C=^b[Passive]^n^n^mWear the legguards of a juggernaut, so that none may stop your rampage.
 tagClass16SkillName02D=Torso Armor
-tagClass16SkillDescription02D=^b[Passive]^n^n^^mProtect yourself with the breastplate of a centurion, so your resolve is unwavering. 
+tagClass16SkillDescription02D=^b[Passive]^n^n^mProtect yourself with the breastplate of a centurion, so your resolve is unwavering. 
 tagClass16SkillName02E=Head Armor
-tagClass16SkillDescription02E=^b[Passive]^n^n^^mAssume your role of the Terror Knight, let your eyes glow with rage as you ignore the effects of fire and brimstone upon you.
+tagClass16SkillDescription02E=^b[Passive]^n^n^mAssume your role of the Terror Knight, let your eyes glow with rage as you ignore the effects of fire and brimstone upon you.
 
 tagClass16SkillName03A=Conquer
 tagClass16SkillDescription03A=^b[Spell] [Nova] [AOE]^n^n^wProclaim your victory before a fight even starts.
@@ -87,7 +87,7 @@ tagClass16SkillDescription05B=^b[Weapon Pool Skill] [AOE] [Penetrating] ^n^o[Two
 tagClass16SkillName05C=Carnivorous Slaughter
 tagClass16SkillDescription05C=^b[Weapon Pool Skill]^n^o[Two-Handed Melee][Two-Handed Ranged] [Staff]^n^n^wObliterate a target with a tremendous show of strength, and feast upon the damage done.{^n}^oCan activate with all default weapon attacks. Requires a two-handed melee weapon or a staff.
 tagClass16SkillName05B2=Bloodlust
-tagClass16SkillDescription05B2=^b[Timed] [Buff]^n^o[On Crit]^n^n^wLanding a ^ocritical strike^w empowers you. 
+tagClass16SkillDescription05B2=^b[Timed] [Buff] [Delayed Cooldown]^n^o[On Crit]^n^n^wLanding a ^ocritical strike^w empowers you. 
 
 tagClass16SkillName06A=Blood Siphon
 tagClass16SkillDescription06A=^b[Spell] [Nova] [AOE] [Timed]^n^n^wTerror Knights excel against groups of foes. You shall be no different.
@@ -192,7 +192,7 @@ tagClass17SkillDescription10B=^b[Secondary Modifier] [Orbiting]^n^n^wYour elemen
 tagClass17SkillName11A=Sprite
 tagClass17SkillDescription11A=^b[Spell] [AOE]^n^n^wA surge of intense thermal and electrical energies rains down upon your foes from the skies above, muting their very existence.
 
-tagClass17SkillName12A=Rupture
+tagClass17SkillName12A=Flame Rupture
 tagClass17SkillDescription12A=^b[Player Scaled Pet] [Pet Aura] [Stationary] [Debuff]^n^n^wSmash the earth at your feet, forcing the flames beneath the surface to punch through to your plane with violent force.
 tagClass17SkillName12B=Fire Pillar
 tagClass17SkillDescription12B=Scorching flames rocket out of the earth.
@@ -350,7 +350,7 @@ tagClass18SkillName16C=Tactical Advantage
 tagClass18SkillDescription16C=Fighting in a battlefield of your own construction provides you with improved abilities and vigor.
 
 tagClass18SkillName17A=Battle Sense
-tagClass18SkillDescription17A=What separates the average infantrymen from the best soldiers is the awareness of one's needing to perform at greater levels in dire circumstances.{^n}^oThis skill triggers upon critically striking an enemy.
+tagClass18SkillDescription17A=^b[Timed] [Buff] [Delayed Cooldown]^n^o[On Crit]^n^n^wWhat separates the average infantrymen from the best soldiers is the awareness of one's needing to perform at greater levels in dire circumstances.{^n}^oThis skill triggers upon critically striking an enemy.
 tagClass18SkillDescription17AX=What separates the average infantrymen from the best soldiers is the awareness of one's needing to perform at greater levels in dire circumstances.
 tagClass18SkillName17B=Calculated Assault
 tagClass18SkillDescription17B=^b[Exclusive] [Buff]^n^o[Ranged] [Staff]^n^n^wIn war, there is no playing fair. With improved vigor, strike against your foes with greater ferocity than you have demonstrated thus far. ^oRequires a ranged weapon or staff.
@@ -372,10 +372,10 @@ tagClass18SkillName21A=Combat Armor
 tagClass18SkillDescription21A=^b[Passive]^n^n^wWhile not quite as robust as a Terror Knight's full setup, the Outrider's choice of lightweight combat armor is sufficient in protecting its owner from minor injuries.
 
 tagClass18SkillName22A=Soldier's Spirit
-tagClass18SkillDescription22A=^b[Buff] [Timed]^n^o[When Hit]^n^n^wIt was unwise to piss off an Outrider. You really wouldn't like them when they're angry.
+tagClass18SkillDescription22A=^b[Buff] [Timed] [Delayed Cooldown]^n^o[When Hit]^n^n^wIt was unwise to piss off an Outrider. You really wouldn't like them when they're angry.
 
 tagClass18SkillName23A=Ravek's Will
-tagClass18SkillDescription23A=^b[Buff][Timed] [HP Threshold]^n^n^wColonel Ravek was the first Outrider, abandoning his post as part of the 29th Armored Corps. He was hunted by Vallithellian forces until he was presumed dead - though his body was never found - following a massive raid on his encampment. It's rumored that Vallithel lost thirty of its best in that raid.
+tagClass18SkillDescription23A=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wColonel Ravek was the first Outrider, abandoning his post as part of the 29th Armored Corps. He was hunted by Vallithellian forces until he was presumed dead - though his body was never found - following a massive raid on his encampment. It's rumored that Vallithel lost thirty of its best in that raid.
 
 tagClass18SkillName1816=Stratagem of the Hell Hunter
 tagClass18SkillDescription1816=^ZOutrider + Terror Knight{^n}^o[Modifier to Banish]^n^wTerror Knights were not atypical soldiers insofar as their combative tactics went. They knew that if an enemy were to hit you, you needed to hit back harder. ^n^rRequires 32 points in Terror Knight and at least one point in Outrider.
@@ -686,7 +686,7 @@ tagClass21SkillName17A=Situational Awareness
 tagClass21SkillDescription17A=^b[Modifier]^n^n^wThe Necrotic's ability to quickly assess its surroundings has made it incredibly difficult to pin down on the battlefield.
 
 tagClass21SkillName19A=Planeswalker
-tagClass21SkillDescription19A=^b[Buff] [Timed] [HP Threshold]^n^n^wThe Necrotic is capable of melding between planes, although only for a short time and avoid even death while between realms.
+tagClass21SkillDescription19A=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wThe Necrotic is capable of melding between planes, although only for a short time and avoid even death while between realms.
 
 tagClass21SkillName20A=From Beyond
 tagClass21SkillDescription20A=^b[Passive]^n^n^wThe Necrotic's chaotic powers come from beyond this realm, and beyond the next.

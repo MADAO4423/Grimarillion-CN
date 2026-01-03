@@ -1,9 +1,9 @@
 Summoning Stone
 *The summoning stone vibrates*{^n}{^n}You can begin the trials by using this stone. {^n}{^n}^rLoot will be cleared between waves so make sure you collect your loot before continuing!
-Begin the trial. 
+Begin the trial.
 Totem Challenge - trigger a random Monster Totem event.
 Summon desired wave...
-Which wave would you like to fight? {^n}{^n}^oWaves are unlocked as you complete them.{^n}^rWave skips cost 5 Eterneum.
+Which wave would you like to fight? {^n}{^n}^oWaves are unlocked as you complete them.{^n}^rWave skips cost 5 Eternal Shards.
 Wave 1 (Corruptions)
 Wave 6 (Outlaws)
 Wave 11 (Undead)
@@ -74,7 +74,7 @@ Back...
 Rematch Avatar of Mogdrogen (Requires 25 Eterneum)
 Rematch John Bourbon (Requires 25 Eterneum)
 Rematch Ulgrim (Requires 25 Eterneum)
-Rematch Ravager (Requires 25 Eterneum) 
+Rematch Ravager (Requires 25 Eterneum)
 Rematch Lokarr (Requires 25 Eterneum)
 Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
 Rematch Crate of Entertainment (Requires 25 Eterneum)
@@ -87,18 +87,73 @@ Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
 Rematch Crate of Entertainment (Requires 25 Eterneum)
 Back...
 
-Use Time Warp.
-*You are channeling the spell, this will reset your Eternal progress."
-Continue...
-Stop channeling.
-Ascend...
-*You are channeling the spell. This will reset your Eternal progress and increase the strength of your foes.*
-Continue...
-Stop channeling.
-Descend...
-*You are channeling the spell. This will reset your Eternal progress and reduce the strength of your foes.*
-Continue...
-Stop channeling.
+Other Challenges
+The Summoning Stone detects an item in your inventory that can be used to challenge enemies from other worlds...
+Refracted
+Requires 10 Eterneum and the appropriate refraction (crafted at Thornelius, in the Personal Hideout)
+^pRefracted Abaddoth
+^pRefracted Bolvar
+^yRefracted Horde of Noble Ghosts
+^rRefracted Celestial Jia Qiu
+Back
+
+Hellfire
+These are bosses from Diablo.{^n}^rBEWARE: These bosses can be very difficult, fight at your own risk!{^n}^wRequires 10 Forgotten Souls and 10 Eterneum to summon
+^rAdria the Witch
+^rAzmodan ~ Lord of Sin
+^rBelial ~ Lord of Lies
+^rThe Butcher ~ Flesh Carver
+^rDiablo ~ Prime Evil
+^rLeoric ~ Skeleton King
+^rMalthael ~ Angel of Death
+^rTyrael ~ Archangel of Justice
+^rZoltun Kulle ~ Dark Horadrim
+Back
+
+Eternal Gods
+These are unique Eternal bosses that were in the original Eternal mod, but have been reworked and had their loot adjusted.{^n}{^n}^rBEWARE: These bosses can be very difficult, fight at your own risk!{^n}^wRequires 15 Eterneum to summon.
+^rAria'Bal, the Blood Collector
+^rDromegon, the Riftmother
+^rHarun, the Death Lord
+^rRaznar, the Plaguehawk
+^rSydriana, the Shardkeeper
+^rUrzog, the Unclean
+^rVaneau, the Depravity
+^rMalakos, the Lost Shade
+^rSister Siebna, the Eirenarch
+^rZaulkhan, the Aethershaper
+Back
+
+Classic Eternal
+These are unique Eternal bosses that were in the original Eternal mod.They only drop generic loot orbs. {^n}{^n}^rBEWARE: These bosses are not balanced, fight at your own risk!{^n}^wRequires 10 Eterneum to summon.
+^pAria, Lady Devourer
+^pDepravitie, Lord Corruptor
+^pSabrina, Lady Witch
+^pUrzog, Lord Demolisher
+^pZaul Kahn, Lord Undertaker
+^rIrewa Enabies, Ember Commander
+^rHarun, Master Tactician
+^rRaznar Hawkeye
+Back
+
+Back
+
+Increase Eternal difficulty level
+Reset your Eternal progress and increase the difficulty and the potential rewards of your trials
+Accept
+Decline
+Increase Eternal difficulty level
+
+Decrease Eternal difficulty level.
+Return to an lesser level of Eternal, reducing the difficulty and rewards of your trials.
+Accept
+Decline
 Complete main quest wave 70
-Give me eterneum.
+Give me eterneum. (DEBUG)
+
+Test Spawn
+Use Time Warp.
+This will reset your progress
+Accept
+Decline
 Go away.

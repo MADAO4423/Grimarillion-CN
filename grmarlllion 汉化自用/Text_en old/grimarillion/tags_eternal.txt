@@ -1,3 +1,4 @@
+##Locations##
 tagLocation=Achalesas' Domain ^r(Eternal Resurrected Version 0.990)
 tagLocation2=Forgotten Garden ^r(Eternal SE Version 0.980)
 tagLocation3=Precipice of Lunacy ^r(Eternal (Grimarillion Edition))
@@ -6,6 +7,64 @@ tagLocation5=Destroyed House Remains ^r(Eternal (Grimarillion Edition))
 tagArenaRift1=Rift to Achalesa's Domain
 tagArenaRift2=Rift to Precipice of Lunacy
 tag_RiftgateEternal=Eternal Rift
+
+##Script Tags##
+tag_AETHERIAL_spawned=Valdaran Spawned!
+tag_VANGUARD_spawned=Aleksander Spawned!
+tag_BEAST_spawned=Kubacabra Spawned!
+tag_CHTHONIAN_spawned=Benn'Jahr Spawned!
+tag_VOIDBORN_spawned=Grava'Thul Spawned!
+tag_ELDRITCH_spawned=Kaisan Spawned!
+tag_KYMON_spawned=Iron Maiden Spawned!
+tag_KYMON2_spawned=False Iron Maiden Spawned!
+tag_ORDER_spawned=Zantarin Spawned!
+tag_ORDER2_spawned=False Zantarin Spawned!
+tag_OUTLAW_spawned=Fabius Spawned!
+tag_UNDEAD_spawned=Moosilauke Spawned!
+tag_WENDIGO_spawned=Reaper of the Lost Spawned!
+
+tag_AETHERIAL_killed=Valdaran slain!
+tag_VANGUARD_killed=Aleksander slain!
+tag_BEAST_killed=Kubacabra slain!
+tag_CHTHONIAN_killed=Benn'Jahr slain!
+tag_VOIDBORN_killed=Grava'Thul slain!
+tag_ELDRITCH_killed=Kaisan slain!
+tag_KYMON_killed=Iron Maiden slain!
+tag_KYMON2_killed=False Iron Maiden slain!
+tag_ORDER_killed=Zantarin slain!
+tag_ORDER2_killed=False Zantarin slain!
+tag_OUTLAW_killed=Fabius slain!
+tag_UNDEAD_killed=Moosilauke slain!
+tag_WENDIGO_killed=Reaper of the Lost slain!
+tag_ARIA_killed=Aria slain!
+tag_BEANIES_killed=Irewa Slain!
+tag_DEPRAVITIE_killed=Depravities Slain!
+tag_HARUN_killed=Harun Slain!
+tag_RAZNAR_killed=Raznar Slain!
+tag_SABRINA_killed=Sabrina Slain!
+tag_URZOG_killed=Urzog Slain!
+tag_ZAULKAHN_killed=Zaulkahn Slain!
+tag_ALKAMOS_killed=Alkamos Slain!
+tag_MOGDROGEN_killed=Mogdrogen Slain!
+
+tag_god_avatarofmogdrogen_02_spawned=Avatar of Mogdrogen Spawned!
+tag_god_clone_a01_spawned=John Bourbon Spawned!
+tag_god_crate_01_spawned=Crate of Entertainment Spawned!
+tag_god_lokarr_01_spawned=Lokarr Spawned!
+tag_god_sandscion_02_spawned=Callagadra Spawned!
+tag_god_ulgrim_void_spawned=Ulgrim Spawned!
+tag_god_wendigo_ravager_fleshb_spawned=Ravager of Flesh Spawned!
+tag_god_wendigo_ravager_mindsb_spawned=Ravager of Minds Spawned!
+tag_god_wendigo_ravager_soulsb_spawned=Ravager of Souls Spawned!
+
+tag_AVATAR_killed=Avatar of Mogdrogen slain!
+tag_JOHN_killed=John Bourbon slain!
+tag_CRATE_killed=Crate of Entertainment slain!
+tag_LOKARR_killed=Lokarr slain!
+tag_SCION_killed=Callagadra slain!
+tag_ULGRIM_killed=Ulgrim slain!
+tag_RAVAGER_killed=Ravager slain!
+
 tagWave1=Wave 1 has been spawned!
 tagWave2=Wave 2 has been spawned!
 tagWave3=Wave 3 has been spawned!
@@ -159,11 +218,22 @@ tagWaveToSpawn75=Wave 75 will be spawned!
 tagWaveRandom=Wave has been spawned!
 tagGodSpawned=God has arrived!
 tagGodKilled=God has been defeated!
-
-tagSummoningStone=Summoning Stone
+tagCheckpoint=Checkpoint Unlocked!
 tagClear=Stage clear!
-tagCleansingSphere=Cleansing Sphere
 tagChestCustom01=Chest
+
+tagAscend_0=Eternity
+tagAscend_1=Eternity I
+tagAscend_2=Eternity II
+tagAscend_3=Eternity III
+tagAscend_4=Eternity IV
+tagAscend_5=Eternity V
+tagDescend=Eternal level reduced!
+tagWaveCap=Wave Cap Reached, now spawning random enemies.
+
+###NPC###
+tagCleansingSphere=Cleansing Sphere
+tagSummoningStone=Summoning Stone
 tagMerchant=Merchant
 tagImyron=Imyron
 tagNarisk=Narisk
@@ -201,70 +271,181 @@ tagCaeles=Caeles
 tagTallinn=Tallinn ~ Challenger of the Gods
 tagPriestessLuna=Priestess Luna
 tagAchalesa=Achalesa
-tagCheckpoint=Checkpoint Unlocked!
-tagDepravitie=Depravitie, Lord Corruptor
-tagZaulkahn=Zaul Kahn, Lord Undertaker
-tagCorruptionAura=Aura of Corruption
-tagCorruptionAuraDesc=The presence of the corrupted soul is destroying your own flesh.
-tagUrzog=Urzog, Lord Demolisher
-tagSabrina=Sabrina, Lady Witch
-tagAria=Aria, Lady Devourer
-tagBeanies=Irewa Enabies, Ember Commander
-tagHarun=Harun, Master Tactician
-tagRaznar=Raznar Hawkeye
-tagConsumableBlueprintRibbon=Blueprint: Ranger's Ribbon
 tagEnchanter=Enchanter
 tagAlunar=Alunar
 tagJunker=Junker
 tagVaqul=Vaqul
-tagEssenceSkill={^p}Essence of Skill
-tagEssenceSkillDesc=An essence that contains corrupted power of the Void. Awards user with one skill point.
-tagEssencePower={^p}Essence of Power
-tagEssencePowerDesc=An essence that contains corrupted power of the Void. Awards user with one attribute point.
-tagEssenceTrinity={^p}Trinity Essence
-tagEssenceTrinityDesc=Glowing essence that contains corrupted power of the Void. Awards user with one attribute and skill point.
-tagSkillPointAwardedc=1 Skill Point Awarded
-tagAttributePointAwardedc=1 Attribute Point Awarded
 tagAnvil=Anvil
-tagGodlyScythe=Alkamos' Deathbringing Scythe
-tagDepraGloves=Corrupted Depravitie's Rune Gloves
-tagZaulCrystal=Zaul Kahns' Posessed Aether Shard
-tagUrzogMace=Ur Zog's Blazing Scepter
-tagSabrinaRing=Sabrina's Aether Sigil
-tagAriaNecklance=Vile Aria's Necklace
-tagHarunsSword=Chilling Edge of Harun
-tagFrostmourne=Frostmourne
-tagHolyGloves=Holy Gloves
-tagRaznarsGun1=Raznar's Punisher
-tagMogdrogensCowl=True Cowl of Mogdrogen
-tagSabrinaOrbitingAether=Orbiting Aether Wave
-tagSabrinaOrbitingAetherDesc=Call upon the power of aether to summon an orbiting wave of destruction.
-tagZaulKahnSummon=Summon Corrupted Troll
-tagZaulKahnSummonDesc=Use the aether power of the crystal to summon an army of posessed trolls to your side.
-tagUrZogInferno=Inferno
-tagUrZogInfernoDesc=Summon infernal pillar from the very core of the world itself to burn your enemies to ashes.
-tagDepraChaosWave=Wave of Chaos
-tagDepraChaosWaveDesc=Conjure a chaos wave of destructive force that destroys life essence of your foes.
-tagAriaAura=Draining Aura
-tagAriaAuraDescription=Ch'thonian power saps life force from the nearby enemies.
-tagMarkofDeath=Mark of Death
-tagMarkofDeathDesc=You are marked by the headhunter. Your defence is considerably lowered.
-tagBlizzard=Blizzard
-tagBlizzardDesc=Summon the power of nature, freezing and chilling all the enemies in the large area.
-tagCallMog=Call of the Mogdrogen
-tagCallMogDesc=Embrace the power of the Beast God empowering you and your minions.
-tagBeaniesPauldrons=Irewa's Ember Mantle
-tagEva=Eva
-tagAscend_1=Ascension I
-tagAscend_2=Ascension II
-tagAscend_3=Ascension III
-tagDescend=Descended!
-tagRaznarsVolley=Volley of Justice
-tagRaznarsVolleyDesc=Unleash additional projectiles of tremendrous power.
-tagHealSpell=Heal
-tagHealSpellDesc=Instantly restore health of the creature selected.
+
+##Special Nemesis##
 tagNemesis_OrderDeathsVigil01_Illusion=Illusion of Zantarin, the Immortal
 tagNemesis_Kymon02_Illusion=Illusion of the Iron Maiden
+
+##Classic Eternal Gods##
+tagAlkamosEternal=Alkamos, Lord Executioner
+tagMogdrogenEternal=Avatar of Mogdrogen
+tagDepravitieClassic=Depravitie, Lord Corruptor
+tagZaulkahnClassic=Zaul Kahn, Lord Undertaker
+tagUrzogClassic=Urzog, Lord Demolisher
+tagSabrinaClassic=Sabrina, Lady Witch
+tagAriaClassic=Aria, Lady Devourer
+tagBeaniesClassic=Irewa Enabies, Ember Commander
+tagHarunClassic=Harun, Master Tactician
+tagRaznarClassic=Raznar Hawkeye
+
+##New Eternal Gods##
+tagDepravitie=Vaneau the Depravity
+tagZaulkahn=Zaulkhan the Aethershaper
+tagUrzog=Urzog the Unclean
+tagSabrina=Sydriana the Shardkeeper
+tagAria=Aria'Bal the Blood Collector
+tagAlkamos2=Malakos the Lost Shade
+tagBeanies=Sister Siebna the Eirenarch
+tagMog2=Dromegon the Riftmother
+tagHarun=Harun the Death Lord
+tagHarun2=Harun the Death Lich
+tagRaznar=Raznar the Plaguehawk
+
+tagCorruptionAura=Aura of Depravity
+tagCorruptionAuraDesc=The presence of the depraved soul is withering you. ^o^nDeals Chaos Damage and Reduces Speed 
+tagCorruptHealing=Curse of Chaos
+tagCorruptHealingDesc=A curse of chaos lingers following Chaos Blast. ^o^nReduces % Regeneration, % Healing, and applies Sunder.
+tagCorruptHealing2=Crystalline Corruption
+tagCorruptHealing2Desc=Vaneau spreads his curse through this stone, debilitating anyone who goes near it. ^o^nDeals Chaos damage, Reduces % HP, and Reduces % DA
+tagCorruptHealing3=Lifeshatter
+tagCorruptHealing3Desc=The lesser stones Vaneau block the ability to regenerate and heal normally. ^o^nReduces % Regeneration and % Healing.
+tagDromegonFrenzyTurret=Frenzy Totem
+tagDromegonHellhound=Dromgeon's Hellhound
+tagDromegonRaptor=Dromegon's Raptor
+tagDromegonRift=Dromegon's Rift (should not be visible)
+tagDromegonTurret=Dromegon's Turret (should not be visible)
+tagDromegonTurretDebuff=Dromegon's Presence
+tagDromegonTurretDebuffDesc=Dromegon's presence nullifies your resistances to petrification.
+tagDromegonPetrifyHit=Dromegon's Red Rings
+tagDromegonPetrifyHitDesc=The red rings will petrify you intermittently if you remain in the area
+tagTrollStench=Urzog's Pestilence
+tagTrollStenchDesc=A fetid swarm of flies emanates from Urzog, preventing you from healing. ^n^oReduces % Regeneration and % Healing
+tagTrollSwarm=Pestilent Swarm
+tagTrollSwarmDesc=A fetid swarm of flies is preventing you from healing. ^n^oReduces % Regeneration and % Healin
+
+##Eternal Items##
+tagEva=Eva **Incomplete?**
+tagHolyGloves=Holy Gloves **REMOVED**
+tagHealSpell=Heal
+tagHealSpellDesc=Instantly restore health of the creature selected.
+
+tagUrzogMace=Urzog's Blazing Scepter **REMOVED**
+tagUrzogMace2=Urzog's Usurper 
+tagUrZogInferno=Urzog's Inferno
+tagUrZogInfernoDesc=Summon infernal pillar from the very core of the world itself to burn your enemies to ashes.
+tagUrZogInferno2=Urzog's Bile
+tagUrZogInferno2Desc=Summon the foul bile of Urzog to poison your enemies.
+
+tagZaulCrystal=Shard of Zaul'Kahn **REMOVED**
+tagZaulCrystal2=Shard of Zaul'Kahn **WIP**
+tagZaulKahnSummon=Summon Corrupted Troll
+tagZaulKahnSummonDesc=Use the aether power of the crystal to summon an army of posessed trolls to your side.
+
+tagDepraShield=Vaneau's Depraved Wall
+tagDepraShield2=Vaneau's Depraved Bastion
+tagDepraGloves=Depravitie's Corrupt Gloves **REMOVED**
+tagDepraChaosWave=Wave of Depravity
+tagDepraChaosWaveDesc=Conjure a chaos wave of destructive force that destroys life essence of your foes.
+tagDepraChaosBlast=Depraved Blast
+tagDepraChaosBlastDesc=Conjures a destructive chaos blast that destroys the life essence of your foes.
+tagDepraChaosBeam=Depraved Binding
+tagDepraChaosBeamDesc=Binds an enemy to the shield of depravity, dealing damage and draining life from it.
+
+tagGodlyScythe=Alkamos' Deathbringing Scythe **REMOVED**
+tagGodlyScythe2=Malakos' Dirge
+
+tagSabrinaRing=Sabrina's Screaming Signet Ring **REMOVED**
+tagSydrianaFocus=Sydriana's Soul Orb
+tagSabrinaOrbitingAether=Sabrina's Aether Screams
+tagSabrinaOrbitingAetherDesc=Call upon the power of aether to summon an orbiting wave of destruction.
+
+tagAriaNecklance=Vile Gemstone of Aria **REMOVED**
+tagAriaFocus=Aria's Blood Shard
+tagAriaAura=Aria's Hunger
+tagAriaAuraDescription=Ch'thonian power saps life force from the nearby enemies.
+tagAriaPulse=Aria's Blood Nova
+tagAriaPulseDesc=Emit a barrage of piercing blood projectiles from Aria's blood collection.
+
+tagHarunsSword=Chilling Edge of Harun **REMOVED**
+tagHarunsSword1=Harun's Edge
+tagHarunsSword2=Harun's Winterscorn
+tagHarunsSword1Skill=Summon Revenant of Harun
+tagHarunsSword1SkillPet=Revenant of Harun
+tagHarunsSword1SkillDesc=Summons one of Harun's powerful revenants. ^oOnly one Frost Revenant can be summoned at any one time. The Frost Revenant scales with Pet Bonuses.
+tagHarunsSword1Skil2=Hungering Frost
+tagHarunsSword1Skil2Desc=The ancient lich blade hungers for souls, greatly empowering your attacks every few strikes and freezing foes struck. ^oWhen used as your default weapon attack, Hungering Frost will magnify the power of every 3rd single weapon strike.
+tagFrostmourne=Frostmourne **REMOVED**
+tagBlizzard=Harun's Blizzard
+tagBlizzardDesc=Summon the power of nature, freezing and chilling all the enemies in the large area.
+
+tagRaznarsGun1=Raznar's Pillager
+tagRaznarsGun2=Raznar's Plunderer
+tagRaznarsGun=Raznar's Punisher **REMOVED**
+tagMarkofDeath=Raznar's Mark
+tagMarkofDeathDesc=You are marked by the headhunter. Your defense is considerably lowered.
+tagRaznarsWPS=Pillage
+tagRaznarsWPSDesc=A deadly burst of envenomed shots perforates your targets. ^oThis is a ranged technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+tagRaznarsWPS2=Plunder
+tagRaznarsWPS2Desc=Blast your foes with a hail of envenomed shots.^oThis is a ranged technique that activates off of default weapon attacks. Requires a shield or offhand.
+
+tagMogdrogensCowl=True Cowl of Mogdrogen **REMOVED**
+tagMogdrogensCowl1=Dromegon's Cowl
+tagMogdrogensCowl2=Dromegon's Shroud
+tagCallMog=Dromegon's Ire
+tagCallMogDesc=Embrace the power of the Dromegon to empower you and your minions.
+tagCallDrog=Spine Spray
+tagCallDrogDesc=Launches bloody spines to perforate your foes.
+
+tagBeaniesPauldrons=Irewa's Ember Mantle
+tagBeaniesShield1=Irewa's Emberguard
+tagBeaniesShield2=Irewa's Sparkguard
+tagBeaniesSkill=Emberblast
+tagBeaniesSkillDesc=Extreme heat erupts from you, igniting nearby foes.
+
+tagCheatNecklace=Hexed Amulet of Calcification
+tagCheatAura=Calcify
+tagCheatAuraDescription=Your flesh hardens into bone and becomes indestructible... but you can't breathe.
+
+tagEternalPrefix01=Anointed
+tagEternalPrefix02=Saintly
+tagEternalPrefix03=Exalted
+
+##Eternal Souls##
+tagSoulD001=Soul of Vaneau
+tagSoulD001D=^w(Used in medals)
+tagSoulD001SkillName=
+tagSoulD001SkillDesc=
+tagSoulD002=Soul of Raznar
+tagSoulD002D=^w(Used in medals)
+tagSoulD002SkillName=
+tagSoulD002SkillDesc=
+tagSoulD003=Soul of Dromegon
+tagSoulD003D=^w(Used in medals)
+tagSoulD003SkillName=
+tagSoulD003SkillDesc=
+tagSoulD004=Soul of Harun
+tagSoulD004D=^w(Used in medals)
+tagSoulD004SkillName=
+tagSoulD004SkillDesc=
+tagSoulD005=Soul of Sydriana
+tagSoulD005D=^w(Used in medals)
+tagSoulD005SkillName=
+tagSoulD005SkillDesc=
+tagSoulD006=Soul of Urzog
+tagSoulD006D=^w(Used in medals)
+tagSoulD006SkillName=
+tagSoulD006SkillDesc=
+tagSoulD007=Soul of Aria
+tagSoulD007D=^w(Used in medals)
+tagSoulD007SkillName=
+tagSoulD007SkillDesc=
+
+##Eternal Crafting##
 tagEterneum=Eternal Shard
 tagEterneumDesc=A fragment of time found only at the Edge of the World. Priestess Luna should know something about this.
 tagLootbox01N=Pocket Trove
@@ -290,6 +471,7 @@ tagCraftMoney_D3=Sell ten eternal shards for 12000 iron bits.
 tagCraftMoney4=Sell 50 Eternal Shards
 tagCraftMoney_D4=Sell fifty eternal shards for 60000 iron bits.
 
+##Power Ups##
 tagSkillPowerup01=Blessing of Ulo
 tagSkillPowerup01Desc=You are blessed by Ulo, granting you resistance to damage over time and crowd control effects.
 
@@ -302,53 +484,56 @@ tagSkillPowerup03Desc=You are marked by the spirit of Amatok, granting you incre
 tagSkillPowerup04=Ulzuin's Pact
 tagSkillPowerup04Desc=You are marked by Ulzuin, granting you restless fury.
 
+##Super Boss Chests##
+tagChest_ULGRIM_01=Ulgrim's Trove
+tagChest_AVATAR_01=Mogdrogen's Trove
+tagChest_JOHN_01=Bourbon's Trove
+tagChest_LOKARR_01=Lokarr's Trove
+tagChest_SCION_01=Callagadra's Trove
+tagChest_CRATE_01=Entertainment Trove
+tagChest_RAVAGER_01=Flesh Ravager's Trove 
+tagChest_RAVAGER_02=Mind Ravager's Trove
+tagChest_RAVAGER_03=Soul Ravager's Trove
 
-tag_nemesis_aetherial_01_spawned=Valdaran Spawned!
-tag_nemesis_aetherialvanguard_01_spawned=Aleksander Spawned!
-tag_nemesis_beast_01_p1_spawned=Kubacabra Spawned!
-tag_nemesis_chthonian_02_spawned=Benn'Jahr Spawned!
-tag_nemesis_chthonianvoidborn_01_spawned=Grava'Thul Spawned!
-tag_nemesis_eldritch_01_spawned=Kaisan Spawned!
-tag_nemesis_kymon_02_spawned=Iron Maiden Spawned!
-tag_nemesis_kymon_02b_spawned=Iron Maiden Spawned!
-tag_nemesis_orderdeathsvigil_01_spawned=Zantarin Spawned!
-tag_nemesis_orderdeathsvigil_01b_spawned=Zantarin Spawned!
-tag_nemesis_outlaw_01_spawned=Fabius Spawned!
-tag_nemesis_undead_02a_spawned=Moosilauke Spawned!
-tag_nemesis_wendigo_01_spawned=Reaper of the Lost Spawned!
-tag_god_avatarofmogdrogen_02_spawned=Avatar of Mogdrogen Spawned!
-tag_god_clone_a01_spawned=John Bourbon Spawned!
-tag_god_crate_01_spawned=Crate of Entertainment Spawned!
-tag_god_lokarr_01_spawned=Lokarr Spawned!
-tag_god_sandscion_02_spawned=Callagadra Spawned!
-tag_god_ulgrim_void_spawned=Ulgrim Spawned!
-tag_god_wendigo_ravager_fleshb_spawned=Ravager of Flesh Spawned!
-tag_god_wendigo_ravager_mindsb_spawned=Ravager of Minds Spawned!
-tag_god_wendigo_ravager_soulsb_spawned=Ravager of Souls Spawned!
+##Boss Chests##
+tagChest_ALKAMOS_01=Alkamos's Hoard
+tagChest_BRIARTHORN_01=Bloodbriar's Hoard
+tagChest_DARIUS_01=Cronley's Hoard
+tagChest_FACTION_01=Faction Hoard
+tagChest_FLESHMASTER_01=Theodin's Hoard
+tagChest_GARBAGOL_01=Garbagol's Hoard
+tagChest_KORVAAK_01=Korvaak's Hoard
+tagChest_LOGHORREAN_01=Loghorrean's Hoard
+tagChest_MANTICORE_01=Mogara's Hoard
+tagChest_MORGONETH_01=Morgoneth's Hoard
+tagChest_NAMADEA_01=Namadea's Hoard
+tagChest_OBELISK_01=Herald's Hoard
+tagChest_OVERLORD_01=Hoard of the Council
+tagChest_RAVNA_01=Ravna's Hoard
+tagChest_SHARZUL_01=Shar'Zul's Hoard
+tagChest_WARDEN_01=Krieg's Hoard
 
-tag_AETHERIAL_killed=Valdaran slain!
-tag_VANGUARD_killed=Aleksander slain!
-tag_BEAST_killed=Kubacabra slain!
-tag_CHTHONIAN_killed=Benn'Jahr slain!
-tag_VOIDBORN_killed=Grava'Thul slain!
-tag_ELDRITCH_killed=Kaisan slain!
-tag_KYMON_killed=Iron Maiden slain!
-tag_KYMON_killed=Iron Maiden slain!
-tag_ORDER_killed=Zantarin slain!
-tag_ORDER_killed=Zantarin slain!
-tag_OUTLAW_killed=Fabius slain!
-tag_UNDEAD_killed=Moosilauke slain!
-tag_WENDIGO_killed=Reaper of the Lost slain!
+##Nemesis Chests##
+tagChest_AETHERIAL_01=Valdaran's Bounty
+tagChest_BEAST_01=Kubacabra's Bounty
+tagChest_CHTHONIAN_01=Benn'Jahr's Bounty
+tagChest_ELDRITCH_01=Kaisan's Bounty
+tagChest_KYMON_01=Iron Maiden's Bounty
+tagChest_KYMON_02=False Iron Maiden's Bounty
+tagChest_ORDER_01=Zantarin's Bounty
+tagChest_ORDER_02=False Zantarin's Bounty
+tagChest_OUTLAW_01=Fabius's Bounty
+tagChest_UNDEAD_01=Moosilauke's Bounty
+tagChest_VANGUARD_01=Aleksander's Bounty
+tagChest_VOIDBORN_01=Grava'Thul's Bounty
+tagChest_WENDIGO_01=Reaper of the Lost's Bounty
 
-tag_AVATAR_killed=Avatar of Mogdrogen slain!
-tag_JOHN_killed=John Bourbon slain!
-tag_CRATE_killed=Crate of Entertainment slain!
-tag_LOKARR_killed=Lokarr slain!
-tag_SCION_killed=Callagadra slain!
-tag_ULGRIM_killed=Ulgrim slain!
-tag_RAVAGER_killed=Ravager slain!
-
-tagChestUlgrim01=Ulgrim's Trove
+##Ascended Chests##
+tagAscendedChest01=^yEternal Trove
+tagAscendedChest02=^oBlessed Trove
+tagAscendedChest03=^gSacred Trove
+tagAscendedChest04=^bDivine Trove
+tagAscendedChest05=^pExalted Trove
 
 tagTallinnsNote=A note from Tallinn
 tagTallinnsNoteDesc=To whomever finds this, the Eternal Arena does not end with the Loghorrean. It does not continue infinitely as we thought. The Loghorrean is merely a ... gatekeeper, it connects multiple domains and realms for other arenas. I defeated the beast, however in doing so, it retreated to another domain, and dragged me through multiple other domains until I crashed here... Hopefully my Priestess can find another champion to help her escape her torment...
@@ -360,3 +545,12 @@ tagLunasNote1Desc=As the quill glides across the parchment, the weight of my dis
 tagLunasNote2=Eternal Voyage pt 2
 tagLunasNote2Desc=My Final Testament,{^n}{^n}As I pen these words, the air crackles with the electric tension of impending revelation. The riftgate stands before me, a swirling maelstrom of otherworldly energies beckoning me to step beyond the confines of this mortal realm. The time has come to cast aside the trappings of my humanity and embrace the boundless possibilities that lie beyond the veil.{^n}{^n}The pull of the rift is intoxicating, a siren's call that resonates deep within my soul. It whispers promises of untold power, of knowledge beyond comprehension, and of a destiny forged in the crucible of the cosmos. How can I resist such temptation, when the very fabric of reality trembles at my touch?{^n}{^n}The tunnel before me stretches into the abyss, a yawning chasm carved from the blackest obsidian and inscribed with chthonic sigils that writhe and twist like serpents in the gloom. Each step I take brings me closer to the brink, closer to the moment when I shall cast myself into the unknown and embrace the chaos that awaits.{^n}{^n}My companions in this mortal coil, know that I do not take this path lightly. Know that every sacrifice, every drop of blood spilled upon the altar of my ambition, has been for naught if not for the pursuit of truth. And so, I leave behind this testament as a reminder of the price one must pay for enlightenment, and as a warning to those who would dare to follow in my footsteps.{^n}{^n}As I step into the swirling vortex of the riftgate, I feel the last vestiges of my humanity slip away like sand through my fingers. In its place rises something primal and ancient, a force beyond comprehension that yearns to break free from the shackles of mortality.{^n}{^n}Farewell, my friends, and may the stars guide you on your journey. For I am no longer of this world, but a traveler amidst the infinite expanse of the cosmos.{^n}{^n}With trembling hand and steadfast heart,{^n}{^n}Luna
 
+###Removed###
+tagEssenceSkill={^p}Essence of Skill
+tagEssenceSkillDesc=An essence that contains corrupted power of the Void. Awards user with one skill point.
+tagEssencePower={^p}Essence of Power
+tagEssencePowerDesc=An essence that contains corrupted power of the Void. Awards user with one attribute point.
+tagEssenceTrinity={^p}Trinity Essence
+tagEssenceTrinityDesc=Glowing essence that contains corrupted power of the Void. Awards user with one attribute and skill point.
+tagSkillPointAwardedc=1 Skill Point Awarded
+tagAttributePointAwardedc=1 Attribute Point Awarded

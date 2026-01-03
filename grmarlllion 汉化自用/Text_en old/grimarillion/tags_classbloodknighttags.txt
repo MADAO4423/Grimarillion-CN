@@ -56,7 +56,7 @@ tagClassBloodKnightSkillDescription05B=The shadow blade also deals vitality deca
 tagClassBloodKnightSkillName06A=Wave of Blood
 tagClassBloodKnightSkillDescription06A=Expel a wave of blood that deals vitality and chaos damage and slows enemies on its way.{^n}{^n}{^y}Fountain of Despair {^o}(Unlocked at Skill Level 16){^n}^wWave of Blood gains 35% chance to confuse enemies.
 
-tagClassBloodKnightSkillName06B=Death Tide
+tagClassBloodKnightSkillName06B=Deadly Tide
 tagClassBloodKnightSkillDescription06B=Wave of blood deals vitality decay damage to enemies and reduces their resistances over 3 seconds. Base damage is increased.
 
 tagClassBloodKnightSkillName06C=Darkflame River
@@ -137,4 +137,24 @@ tagBloodKnightRune03Desc=Critical attacks performed by ^rLeaping Smash ^wcurse e
 tagBloodKnightRune03b=^cRune Effect
 tagBloodKnightRune03bDesc=This enemy is currently cursed by Leaping Strike.
 tagBloodKnightRune03c=^cCrimson Death
+
+tagBloodKnightRune04=^cObsidian March
+tagBloodKnightRune04Desc=Critical attacks performed by ^rVicious Lift ^wgrants you a shield that absorbs 10% of the damage taken and makes ^rVicious Lift ^wto periodically erupt from under enemies around you over 5 seconds, slowing their total speed by 20%. {^n}{^n}{^y}Runeword: {^c}CirTun
+tagBloodKnightRune04b=^cObsidian March (Enhanced)
+tagBloodKnightRune04bDesc=Critical attacks performed by ^rVicious Lift ^wgrants you a shield that absorbs 15% of the damage taken and makes obsidian spikes to also erupt under enemies around you over 5 seconds, slowing their total speed by 30%. {^n}{^n}{^y}Runeword: {^c}CirTun (Enhanced)
+tagBloodKnightRune04c=^cRune Effect
+tagBloodKnightRune04cDesc=You are currently taking reduced damage and casting ^rVicious Lift's ^wspikes around you.
+
+tagBloodKnightRune05=^cEye of the Void
+tagBloodKnightRune05Desc=The swirling strikes from ^rWhirling Strike ^wcreate a void storm that deals chaos and vitality damage, and impairs the vision of enemies in the area over 5 seconds. Foes caught in the storm also have their chaos and vitality resistances reduced by 10%. Whenever the void storm expires, it explodes in a blast of entropic energy that deals massive chaos damage to enemies. {^n}{^n}{^y}Runeword: {^c}MoniXan
+tagBloodKnightRune05b=^cEye of the Void (Enhanced)
+tagBloodKnightRune05bDesc=The swirling strikes from ^rWhirling Strike ^wcreate a void storm that deals chaos and vitality damage, and impairs the vision of enemies in the area over 5 seconds. Foes caught in the storm also have their chaos and vitality resistances reduced by 15%. Whenever the void storm expires, it explodes in a blast of entropic energy that deals massive chaos damage to enemies. {^n}{^n}{^y}Runeword: {^c}MoniXan (Enhanced)
+tagBloodKnightRune05C=^cRune Effect
+
+tagBloodKnightRune05D=^cVoidstorm
+tagBloodKnightRune05E=^rVoid Energy
+tagBloodKnightRune05F=^rEntropic Explosion
+
+tagBloodKnightRune06=^cHemolysis
+tagBloodKnightRune06Desc=^rWave of Blood ^w applies a ^rblood mark ^wto enemies that lasts for 10 seconds, reducing their vitality and bleeding resistance by 10%. Whenever a marked enemy goes under 50% health, the resistances reduction is tripled and its health regeneration is reduced by 35%. Once the second debuff is activated, a circle will appear around the blood mark, which must be sustained by constantly resetting the 10 seconds duration of the Wave of Blood's mark, otherwise, you will lose the triple resistance reduction and the health regeneration decrease. ^oEnemies must be marked ^rbefore ^othey hit the 50% threshold. {^n}{^n}{^y}Runeword: {^c}NocWat
 
