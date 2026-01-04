@@ -1,3 +1,4 @@
+##Locations##
 tagLocation=阿卡莱萨的领地 ^r（永恒复生版本 0.990）
 tagLocation2=被遗忘的花园 ^r（永恒 SE 版本 0.980）
 tagLocation3=疯狂悬崖 ^r（永恒（Grimarillion 版））
@@ -6,6 +7,63 @@ tagLocation5=毁坏房屋遗迹 ^r（永恒（Grimarillion 版））
 tagArenaRift1=通往阿卡莱萨的裂隙
 tagArenaRift2=通往疯狂悬崖的裂隙
 tag_RiftgateEternal=永恒裂隙
+
+##Script Tags##
+tag_AETHERIAL_spawned=瓦尔达兰出现！
+tag_VANGUARD_spawned=亚历山大出现！
+tag_BEAST_spawned=库巴卡布拉出现！
+tag_CHTHONIAN_spawned=本恩·贾尔出现！
+tag_VOIDBORN_spawned=格拉瓦·图尔出现！
+tag_ELDRITCH_spawned=凯桑出现！
+tag_KYMON_spawned=铁少女出现！
+tag_KYMON2_spawned=假铁少女出现！
+tag_ORDER_spawned=赞塔林出现！
+tag_ORDER2_spawned=假赞塔林出现！
+tag_OUTLAW_spawned=法比乌斯出现！
+tag_UNDEAD_spawned=穆西劳克出现！
+tag_WENDIGO_spawned=失落收割者出现！
+
+tag_AETHERIAL_killed=瓦尔达兰被击杀！
+tag_VANGUARD_killed=亚历山大被击杀！
+tag_BEAST_killed=库巴卡布拉被击杀！
+tag_CHTHONIAN_killed=本恩·贾尔被击杀！
+tag_VOIDBORN_killed=格拉瓦·图尔被击杀！
+tag_ELDRITCH_killed=凯桑被击杀！
+tag_KYMON_killed=铁少女被击杀！
+tag_KYMON2_killed=假铁少女被击杀！
+tag_ORDER_killed=赞塔林被击杀！
+tag_ORDER2_killed=假赞塔林被击杀！
+tag_OUTLAW_killed=法比乌斯被击杀！
+tag_UNDEAD_killed=穆西劳克被击杀！
+tag_WENDIGO_killed=失落收割者被击杀！
+tag_ARIA_killed=阿莉亚被击杀！
+tag_BEANIES_killed=艾瑞瓦被击杀！
+tag_DEPRAVITIE_killed=堕落者被击杀！
+tag_HARUN_killed=哈伦被击杀！
+tag_RAZNAR_killed=拉兹纳尔被击杀！
+tag_SABRINA_killed=萨布丽娜被击杀！
+tag_URZOG_killed=乌尔佐格被击杀！
+tag_ZAULKAHN_killed=扎乌尔卡恩被击杀！
+tag_ALKAMOS_killed=阿尔卡莫斯被击杀！
+tag_MOGDROGEN_killed=莫格德罗根被击杀！
+
+tag_god_avatarofmogdrogen_02_spawned=莫格德罗根化身出现！
+tag_god_clone_a01_spawned=约翰·波旁出现！
+tag_god_crate_01_spawned=娱乐箱出现！
+tag_god_lokarr_01_spawned=罗卡出现！
+tag_god_sandscion_02_spawned=卡拉加德拉出现！
+tag_god_ulgrim_void_spawned=艾格瑞姆出现！
+tag_god_wendigo_ravager_fleshb_spawned=血肉掠夺者出现！
+tag_god_wendigo_ravager_mindsb_spawned=心灵掠夺者出现！
+tag_god_wendigo_ravager_soulsb_spawned=灵魂掠夺者出现！
+
+tag_AVATAR_killed=莫格德罗根化身被击杀！
+tag_JOHN_killed=约翰·波旁被击杀！
+tag_CRATE_killed=娱乐箱被击杀！
+tag_LOKARR_killed=罗卡被击杀！
+tag_SCION_killed=卡拉加德拉被击杀！
+tag_ULGRIM_killed=艾格瑞姆被击杀！
+tag_RAVAGER_killed=掠夺者被击杀！
 
 tagWave1=第 1 波已生成！
 tagWave2=第 2 波已生成！
@@ -82,7 +140,6 @@ tagWave72=第 72 波已生成！
 tagWave73=第 73 波已生成！
 tagWave74=第 74 波已生成！
 tagWave75=第 75 波已生成！
-
 tagWaveToSpawn1=第 1 波即将生成！
 tagWaveToSpawn2=第 2 波即将生成！
 tagWaveToSpawn3=第 3 波即将生成！
@@ -158,15 +215,25 @@ tagWaveToSpawn72=第 72 波即将生成！
 tagWaveToSpawn73=第 73 波即将生成！
 tagWaveToSpawn74=第 74 波即将生成！
 tagWaveToSpawn75=第 75 波即将生成！
-
 tagWaveRandom=波次已生成！
 tagGodSpawned=神灵已降临！
 tagGodKilled=神灵已被击败！
-
-tagSummoningStone=召唤石
+tagCheckpoint=检查点已解锁！
 tagClear=关卡完成！
-tagCleansingSphere=净化球
 tagChestCustom01=宝箱
+
+tagAscend_0=永恒
+tagAscend_1=永恒 I
+tagAscend_2=永恒 II
+tagAscend_3=永恒 III
+tagAscend_4=永恒 IV
+tagAscend_5=永恒 V
+tagDescend=永恒等级降低！
+tagWaveCap=已达波次上限，现在生成随机敌人。
+
+###NPC###
+tagCleansingSphere=净化球
+tagSummoningStone=召唤石
 tagMerchant=商人
 tagImyron=伊米隆
 tagNarisk=纳里斯克
@@ -204,70 +271,181 @@ tagCaeles=凯勒斯
 tagTallinn=塔林 ~ 神之挑战者
 tagPriestessLuna=露娜女祭司
 tagAchalesa=阿卡莱萨
-tagCheckpoint=解锁检查点！
-tagDepravitie=堕落之主 德普拉维蒂
-tagZaulkahn=乌托克领主 扎乌尔·卡恩
-tagCorruptionAura=腐化光环
-tagCorruptionAuraDesc=腐化之魂的存在正在摧毁你的肉身。
-tagUrzog=毁灭者 乌尔佐格
-tagSabrina=萨布丽娜，女巫
-tagAria=阿里亚，吞噬女妖
-tagBeanies=艾瑞瓦·伊纳比斯，烈焰指挥官
-tagHarun=哈伦，策略大师
-tagRaznar=拉兹纳尔·鹰眼
-tagConsumableBlueprintRibbon=蓝图：游侠丝带
 tagEnchanter=附魔师
 tagAlunar=阿鲁纳尔
 tagJunker=垃圾工
 tagVaqul=瓦库尔
-tagEssenceSkill={^p}技能精华
-tagEssenceSkillDesc=包含虚空腐化力量的精华。奖励1个技能点。
-tagEssencePower={^p}力量精华
-tagEssencePowerDesc=包含虚空腐化力量的精华。奖励1点属性点。
-tagEssenceTrinity={^p}三位一体精华
-tagEssenceTrinityDesc=发光精华，包含虚空腐化力量。奖励1点属性和1个技能点。
-tagSkillPointAwardedc=获得1个技能点
-tagAttributePointAwardedc=获得1点属性点
 tagAnvil=铁砧
-tagGodlyScythe=阿尔卡莫斯的死亡镰
-tagDepraGloves=堕落德普拉维蒂符文手套
-tagZaulCrystal=扎乌尔·卡恩的附魔以太晶石
-tagUrzogMace=乌尔佐格的灼热权杖
-tagSabrinaRing=萨布丽娜的以太符印
-tagAriaNecklance=邪恶阿里亚的项链
-tagHarunsSword=哈伦的寒霜之刃
-tagFrostmourne=霜之哀伤
-tagHolyGloves=神圣手套
-tagRaznarsGun1=拉兹纳尔的惩戒者
-tagMogdrogensCowl=摩格德罗根的真理兜帽
-tagSabrinaOrbitingAether=环绕以太波
-tagSabrinaOrbitingAetherDesc=呼唤以太之力，召唤环绕的破坏波。
+
+##特殊敌手##
+tagNemesis_OrderDeathsVigil01_Illusion=永生者赞塔林的幻影
+tagNemesis_Kymon02_Illusion=铁娘子的幻影
+
+##经典永恒之神##
+tagAlkamosEternal=执行者阿尔卡莫斯
+tagMogdrogenEternal=莫格德罗根化身
+tagDepravitieClassic=堕落者德普拉维提
+tagZaulkahnClassic=殡葬者扎乌尔·卡恩
+tagUrzogClassic=毁灭者乌尔佐格
+tagSabrinaClassic=女巫萨布丽娜
+tagAriaClassic=吞血者阿莉亚
+tagBeaniesClassic=埃尔纳比斯·伊雷司，烈焰指挥官
+tagHarunClassic=战术大师哈伦
+tagRaznarClassic=鹰眼拉兹纳尔
+
+##新永恒之神##
+tagDepravitie=堕落之梵诺
+tagZaulkahn=塑界者扎乌尔卡恩
+tagUrzog=污秽乌尔佐格
+tagSabrina=碎片守护者西德里安娜
+tagAria=血收者阿莉亚·巴尔
+tagAlkamos2=迷失之影马拉科斯
+tagBeanies=伊瑞纳克修女西布娜
+tagMog2=裂隙母龙德罗梅贡
+tagHarun=死亡领主哈伦
+tagHarun2=死亡巫妖哈伦
+tagRaznar=瘟疫之鹰拉兹纳尔
+
+tagCorruptionAura=堕落之气
+tagCorruptionAuraDesc=堕落灵魂的气息正在侵蚀你。 ^o^n造成混沌伤害并降低速度
+tagCorruptHealing=混沌诅咒
+tagCorruptHealingDesc=混沌爆破之后，诅咒仍在延续。 ^o^n降低%再生，%治疗并施加粉碎效果
+tagCorruptHealing2=晶化腐蚀
+tagCorruptHealing2Desc=梵诺通过此石传播诅咒，使靠近者受损。 ^o^n造成混沌伤害，降低%生命值及%防御
+tagCorruptHealing3=生命破碎
+tagCorruptHealing3Desc=小型梵诺石阻碍了正常再生和治疗。 ^o^n降低%再生及%治疗
+tagDromegonFrenzyTurret=狂乱图腾
+tagDromegonHellhound=德罗梅贡的地狱犬
+tagDromegonRaptor=德罗梅贡的迅猛龙
+tagDromegonRift=德罗梅贡的裂隙（不可见）
+tagDromegonTurret=德罗梅贡的炮塔（不可见）
+tagDromegonTurretDebuff=德罗梅贡之气
+tagDromegonTurretDebuffDesc=德罗梅贡的存在会削弱你对石化的抗性
+tagDromegonPetrifyHit=德罗梅贡红环
+tagDromegonPetrifyHitDesc=停留在红色区域内会间歇性石化
+tagTrollStench=乌尔佐格的瘟疫
+tagTrollStenchDesc=乌尔佐格释放的恶臭苍蝇阻碍治疗。 ^n^o降低%再生及%治疗
+tagTrollSwarm=瘟疫蜂群
+tagTrollSwarmDesc=恶臭苍蝇阻碍治疗。 ^n^o降低%再生及%治疗
+
+##永恒物品##
+tagEva=伊娃 **未完成？**
+tagHolyGloves=圣手套 **已移除**
+tagHealSpell=治疗
+tagHealSpellDesc=立即恢复选中生物的生命值
+
+tagUrzogMace=乌尔佐格炽焰权杖 **已移除**
+tagUrzogMace2=乌尔佐格篡权者
+tagUrZogInferno=乌尔佐格地狱柱
+tagUrZogInfernoDesc=从世界核心召唤地狱柱，将敌人焚为灰烬
+tagUrZogInferno2=乌尔佐格毒液
+tagUrZogInferno2Desc=召唤乌尔佐格的毒液以毒害敌人
+
+tagZaulCrystal=扎乌尔·卡恩碎片 **已移除**
+tagZaulCrystal2=扎乌尔·卡恩碎片 **制作中**
 tagZaulKahnSummon=召唤腐化巨魔
 tagZaulKahnSummonDesc=利用晶石的以太力量召唤附魔巨魔军团助阵。
-tagUrZogInferno=地狱火柱
-tagUrZogInfernoDesc=从世界之核召唤地狱柱，将敌人化为灰烬。
-tagDepraChaosWave=混沌之波
+
+tagDepraShield=梵诺堕落之壁
+tagDepraShield2=梵诺堕落堡垒
+tagDepraGloves=堕落者之腐蚀手套 **已移除**
+tagDepraChaosWave=堕落浪潮
 tagDepraChaosWaveDesc=召唤毁灭性的混沌之波，摧毁敌人的生命力。
-tagAriaAura=生命吸取光环
-tagAriaAuraDescription=克苏恩之力吸取周围敌人的生命力。
-tagMarkofDeath=死亡印记
-tagMarkofDeathDesc=你已被猎头者标记，防御大幅降低。
-tagBlizzard=暴风雪
+tagDepraChaosBlast=堕落冲击  
+tagDepraChaosBlastDesc=召唤一股毁灭性的混沌冲击，摧毁敌人的生命精华。  
+tagDepraChaosBeam=堕落束缚  
+tagDepraChaosBeamDesc=将敌人绑定到堕落之盾上，对其造成伤害并吸取生命。  
+
+tagGodlyScythe=阿尔卡莫斯的死亡镰刀 **已移除**  
+tagGodlyScythe2=马拉科斯挽歌镰  
+
+tagSabrinaRing=萨布丽娜的尖啸印戒 **已移除**  
+tagSydrianaFocus=希迪瑞娜的灵魂宝珠  
+tagSabrinaOrbitingAether=萨布丽娜的以太尖啸  
+tagSabrinaOrbitingAetherDesc=召唤以太之力，形成环绕的毁灭波。  
+
+tagAriaNecklance=阿莉亚的邪恶宝石 **已移除**  
+tagAriaFocus=阿莉亚的血之碎片  
+tagAriaAura=阿莉亚的饥渴  
+tagAriaAuraDescription=冥神之力吸取周围敌人的生命力。
+tagAriaPulse=阿莉亚的血之新星  
+tagAriaPulseDesc=从阿莉亚的血之收集发射穿刺血弹。  
+
+tagHarunsSword=哈伦的冰冷之刃 **已移除**  
+tagHarunsSword1=哈伦之锋  
+tagHarunsSword2=哈伦的冬霜惩戒  
+tagHarunsSword1Skill=召唤哈伦的幽灵  
+tagHarunsSword1SkillPet=哈伦的幽灵  
+tagHarunsSword1SkillDesc=召唤哈伦的一名强力幽灵。 ^o同一时间只能召唤一个霜之幽灵。霜之幽灵随宠物加成成长。  
+tagHarunsSword1Skil2=饥渴冰霜  
+tagHarunsSword1Skil2Desc=古老的巫妖之刃渴求灵魂，每几次攻击大幅增强你的攻击力，并冻结被击中的敌人。 ^o作为默认武器攻击使用时，饥渴冰霜会增强每第3次单次武器攻击的威力。  
+tagFrostmourne=霜之哀伤 **已移除**  
+tagBlizzard=哈伦的暴雪  
 tagBlizzardDesc=召唤自然之力，冻结大范围敌人。
-tagCallMog=摩格德罗根之召
-tagCallMogDesc=拥抱野兽之神的力量，强化你和你的随从。
+
+tagRaznarsGun1=拉兹纳尔的掠夺者  
+tagRaznarsGun2=拉兹纳尔的掠夺者II  
+tagRaznarsGun=拉兹纳尔的惩戒者 **已移除**  
+tagMarkofDeath=拉兹纳尔的死亡印记  
+tagMarkofDeathDesc=你被首领猎手标记，防御力大幅降低。  
+tagRaznarsWPS=掠夺  
+tagRaznarsWPSDesc=一阵致命的毒箭射击穿透目标。 ^o这是一个远程技能，通过默认武器攻击触发，同时允许双持远程武器。  
+tagRaznarsWPS2=洗劫  
+tagRaznarsWPS2Desc=用毒箭暴雨轰击敌人。 ^o这是一个远程技能，通过默认武器攻击触发，需要盾牌或副手武器。  
+
+tagMogdrogensCowl=莫格德罗根的真兜帽 **已移除**  
+tagMogdrogensCowl1=德罗梅贡的兜帽  
+tagMogdrogensCowl2=德罗梅贡的披风  
+tagCallMog=德罗梅贡之怒  
+tagCallMogDesc=借助德罗梅贡的力量强化你和你的随从。  
+tagCallDrog=脊骨射击  
+tagCallDrogDesc=发射血色脊骨穿透你的敌人。  
+
 tagBeaniesPauldrons=艾瑞瓦的烈焰护肩
-tagEva=伊娃
-tagAscend_1=升华 I
-tagAscend_2=升华 II
-tagAscend_3=升华 III
-tagDescend=降临！
-tagRaznarsVolley=正义之射
-tagRaznarsVolleyDesc=释放额外的强力投射物。
-tagHealSpell=治疗
-tagHealSpellDesc=立即恢复选定生物的生命值。
-tagNemesis_OrderDeathsVigil01_Illusion=赞塔林幻象，不朽者
-tagNemesis_Kymon02_Illusion=铁处女幻象
+tagBeaniesShield1=伊瑞瓦的炽焰守卫  
+tagBeaniesShield2=伊瑞瓦的火花守卫  
+tagBeaniesSkill=炽焰爆发  
+tagBeaniesSkillDesc=极端高温从你体内迸发，点燃附近的敌人。  
+
+tagCheatNecklace=石化咒护符  
+tagCheatAura=石化  
+tagCheatAuraDescription=你的肉体硬化为骨，变得坚不可摧……但你无法呼吸。  
+
+tagEternalPrefix01=受膏者  
+tagEternalPrefix02=圣洁者  
+tagEternalPrefix03=尊崇者  
+
+##永恒之魂##  
+tagSoulD001=瓦纽之魂  
+tagSoulD001D=^w(用于勋章)  
+tagSoulD001SkillName=  
+tagSoulD001SkillDesc=  
+tagSoulD002=拉兹纳尔之魂  
+tagSoulD002D=^w(用于勋章)  
+tagSoulD002SkillName=  
+tagSoulD002SkillDesc=  
+tagSoulD003=德罗梅贡之魂  
+tagSoulD003D=^w(用于勋章)  
+tagSoulD003SkillName=  
+tagSoulD003SkillDesc=  
+tagSoulD004=哈伦之魂  
+tagSoulD004D=^w(用于勋章)  
+tagSoulD004SkillName=  
+tagSoulD004SkillDesc=  
+tagSoulD005=西德莉亚娜之魂  
+tagSoulD005D=^w(用于勋章)  
+tagSoulD005SkillName=  
+tagSoulD005SkillDesc=  
+tagSoulD006=乌尔佐格之魂  
+tagSoulD006D=^w(用于勋章)  
+tagSoulD006SkillName=  
+tagSoulD006SkillDesc=  
+tagSoulD007=阿莉亚之魂  
+tagSoulD007D=^w(用于勋章)  
+tagSoulD007SkillName=  
+tagSoulD007SkillDesc=  
+
+##永恒工艺##  
 tagEterneum=永恒碎片
 tagEterneumDesc=仅在世界尽头发现的时间碎片。露娜女祭司可能知道些信息。
 tagLootbox01N=口袋宝箱
@@ -293,6 +471,7 @@ tagCraftMoney_D3=出售10个永恒碎片换取12000铁币。
 tagCraftMoney4=出售50个永恒碎片
 tagCraftMoney_D4=出售50个永恒碎片换取60000铁币。
 
+##Power Ups##
 tagSkillPowerup01=乌洛的祝福
 tagSkillPowerup01Desc=你受到了乌洛的祝福，获得对持续伤害与控场效果的抗性。
 
@@ -305,53 +484,56 @@ tagSkillPowerup03Desc=你被阿玛托克之灵所印记，获得惊人的力量�
 tagSkillPowerup04=乌祖因之契
 tagSkillPowerup04Desc=你被乌祖因所印记，获得不休的狂怒。
 
+##超级Boss宝箱##  
+tagChest_ULGRIM_01=艾格瑞姆的宝藏  
+tagChest_AVATAR_01=莫格德罗根的宝藏  
+tagChest_JOHN_01=旁波的宝藏  
+tagChest_LOKARR_01=罗卡的宝藏  
+tagChest_SCION_01=卡拉加德拉的宝藏  
+tagChest_CRATE_01=娱乐宝藏  
+tagChest_RAVAGER_01=血肉掠夺者的宝藏  
+tagChest_RAVAGER_02=心灵掠夺者的宝藏  
+tagChest_RAVAGER_03=灵魂掠夺者的宝藏  
 
-tag_nemesis_aetherial_01_spawned=瓦达兰出现了！
-tag_nemesis_aetherialvanguard_01_spawned=亚历山大出现了！
-tag_nemesis_beast_01_p1_spawned=库巴卡布拉出现了！
-tag_nemesis_chthonian_02_spawned=本贾尔出现了！
-tag_nemesis_chthonianvoidborn_01_spawned=格拉瓦图尔出现了！
-tag_nemesis_eldritch_01_spawned=凯森出现了！
-tag_nemesis_kymon_02_spawned=钢铁处女出现了！
-tag_nemesis_kymon_02b_spawned=钢铁处女出现了！
-tag_nemesis_orderdeathsvigil_01_spawned=赞塔林出现了！
-tag_nemesis_orderdeathsvigil_01b_spawned=赞塔林出现了！
-tag_nemesis_outlaw_01_spawned=法比乌斯出现了！
-tag_nemesis_undead_02a_spawned=穆西劳克出现了！
-tag_nemesis_wendigo_01_spawned=失落收割者出现了！
-tag_god_avatarofmogdrogen_02_spawned=莫格卓根化身出现了！
-tag_god_clone_a01_spawned=约翰·伯本出现了！
-tag_god_crate_01_spawned=娱乐之箱出现了！
-tag_god_lokarr_01_spawned=洛卡尔出现了！
-tag_god_sandscion_02_spawned=卡拉加德拉出现了！
-tag_god_ulgrim_void_spawned=乌尔格林出现了！
-tag_god_wendigo_ravager_fleshb_spawned=血肉劫掠者出现了！
-tag_god_wendigo_ravager_mindsb_spawned=心灵劫掠者出现了！
-tag_god_wendigo_ravager_soulsb_spawned=灵魂劫掠者出现了！
+##Boss宝箱##
+tagChest_ALKAMOS_01=阿尔卡莫斯的宝藏
+tagChest_BRIARTHORN_01=血蔷薇的宝藏
+tagChest_DARIUS_01=克朗利的宝藏
+tagChest_FACTION_01=派系宝藏
+tagChest_FLESHMASTER_01=西奥丁的宝藏
+tagChest_GARBAGOL_01=加尔巴戈尔的宝藏
+tagChest_KORVAAK_01=科尔瓦克的宝藏
+tagChest_LOGHORREAN_01=洛格霍瑞恩的宝藏
+tagChest_MANTICORE_01=莫加拉的宝藏
+tagChest_MORGONETH_01=摩尔格内斯的宝藏
+tagChest_NAMADEA_01=纳玛迪亚的宝藏
+tagChest_OBELISK_01=传令者的宝藏
+tagChest_OVERLORD_01=议会宝藏
+tagChest_RAVNA_01=拉夫娜的宝藏
+tagChest_SHARZUL_01=沙尔祖尔的宝藏
+tagChest_WARDEN_01=克里格的宝藏
 
-tag_AETHERIAL_killed=瓦达兰被击杀！
-tag_VANGUARD_killed=亚历山大被击杀！
-tag_BEAST_killed=库巴卡布拉被击杀！
-tag_CHTHONIAN_killed=本贾尔被击杀！
-tag_VOIDBORN_killed=格拉瓦图尔被击杀！
-tag_ELDRITCH_killed=凯森被击杀！
-tag_KYMON_killed=钢铁处女被击杀！
-tag_KYMON_killed=钢铁处女被击杀！
-tag_ORDER_killed=赞塔林被击杀！
-tag_ORDER_killed=赞塔林被击杀！
-tag_OUTLAW_killed=法比乌斯被击杀！
-tag_UNDEAD_killed=穆西劳克被击杀！
-tag_WENDIGO_killed=失落收割者被击杀！
+##Nemesis宝箱##
+tagChest_AETHERIAL_01=瓦尔达兰的赏赐
+tagChest_BEAST_01=库巴卡布拉的赏赐
+tagChest_CHTHONIAN_01=本恩贾尔的赏赐
+tagChest_ELDRITCH_01=凯桑的赏赐
+tagChest_KYMON_01=铁少女的赏赐
+tagChest_KYMON_02=伪铁少女的赏赐
+tagChest_ORDER_01=赞塔林的赏赐
+tagChest_ORDER_02=伪赞塔林的赏赐
+tagChest_OUTLAW_01=法比乌斯的赏赐
+tagChest_UNDEAD_01=穆西劳克的赏赐
+tagChest_VANGUARD_01=亚历山大的赏赐
+tagChest_VOIDBORN_01=格拉瓦图尔的赏赐
+tagChest_WENDIGO_01=迷失收割者的赏赐
 
-tag_AVATAR_killed=莫格卓根化身被击杀！
-tag_JOHN_killed=约翰·伯本被击杀！
-tag_CRATE_killed=娱乐之箱被击杀！
-tag_LOKARR_killed=洛卡尔被击杀！
-tag_SCION_killed=卡拉加德拉被击杀！
-tag_ULGRIM_killed=乌尔格林被击杀！
-tag_RAVAGER_killed=劫掠者被击杀！
-
-tagChestUlgrim01=乌尔格林的宝库
+##Ascended宝箱##
+tagAscendedChest01=^y永恒宝藏
+tagAscendedChest02=^o祝福宝藏
+tagAscendedChest03=^g神圣宝藏
+tagAscendedChest04=^b神赐宝藏
+tagAscendedChest05=^p崇高宝藏
 
 tagTallinnsNote=塔林的笔记
 tagTallinnsNoteDesc=给找到这东西的任何人，永恒竞技场并不会随着洛戈瑞安的败亡而结束，也不像我们以为的那样无限延伸。洛戈瑞安不过是……守门者，它连接着多个领域与位面，通往其他竞技场。我打败了那头怪物，但在此过程中，它逃往了另一处领域，并拖着我穿越多个位面，直到我坠落在这里……希望我的女祭司能找到另一位勇士，帮助她逃离这无尽的折磨……
@@ -362,3 +544,13 @@ tagLunasNote1Desc=当羽笔划过羊皮纸时，我的发现之重如同夜幕�
 
 tagLunasNote2=永恒航行 第二部
 tagLunasNote2Desc=我的最终遗言，{^n}{^n}当我写下这些文字时，空气中充斥着即将揭示真理所带来的电流般的紧张。裂隙之门矗立在我面前，那旋转的异界能量漩涡正召唤我迈出这凡世的束缚。时机已到，我必须抛下人性的外壳，去拥抱帷幕彼端那无限的可能性。{^n}{^n}裂隙的牵引令人沉醉，是回荡在灵魂深处的塞壬之歌。它低语着不可估量的力量、超越理解的知识，以及在宇宙熔炉中锻铸的命运。面对这样的诱惑，又怎能抗拒？当现实的织布在我指尖颤动，我岂能停步？{^n}{^n}在我面前延伸的通道深入深渊，一道由最黑的黑曜石雕凿而成的巨口，其上刻满了扭动的深渊符文，如蛇群在幽暗中蠕动。每迈出一步，都将我推向悬崖边缘，推向那即将投身未知、拥抱混沌的瞬间。{^n}{^n}与我同处凡世的同伴们，请知晓，我并非轻率地踏上这条道路。请知晓，每一次牺牲、每一滴洒落在野心祭坛上的鲜血，若不是为了追求真理，便毫无意义。因此，我留下此份遗言，提醒后人启蒙所需付出的代价，也警告那些胆敢追随我脚步的人。{^n}{^n}当我踏入裂隙之门的旋涡时，我能感觉到人性最后的残影正如指间细沙般滑落。取而代之的，是某种原始而古老的力量，一种超越理解、渴望挣脱凡躯束缚的存在。{^n}{^n}告别了，我的朋友们，愿群星引导你们前行。因为我已不再属于此世，而是宇宙无垠长夜中的旅者。{^n}{^n}以颤抖的手，却怀着坚定之心，{^n}{^n}露娜
+
+###已移除###
+tagEssenceSkill={^p}技巧精华
+tagEssenceSkillDesc=蕴含虚空腐化力量的精华。授予使用者1点技能点。
+tagEssencePower={^p}力量精华
+tagEssencePowerDesc=蕴含虚空腐化力量的精华。授予使用者1点属性点。
+tagEssenceTrinity={^p}三位一体精华
+tagEssenceTrinityDesc=闪烁的精华，蕴含虚空腐化力量。授予使用者1点属性点和1点技能点。
+tagSkillPointAwardedc=获得1点技能点
+tagAttributePointAwardedc=获得1点属性点

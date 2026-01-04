@@ -38,6 +38,8 @@ tagPumpkinMateriaDEBUG=南瓜错误
 tagPumpkinMateriaFlavor=糖果？也许不要随便捡怪物掉落的糖果……
 tagPumpkinMateriaFlavorDEBUG=你本不该找到这个……直接丢掉吧。
 
+tagHalloweenEventTOKEN=美味的南瓜汤
+tagHalloweenEventTOKENDESC=闻起来香气四溢，这股味道肯定让人无法忽视……^n^o若想参与 Grimarillion 万圣节活动，请将此物品保留在你的物品栏中。
 tagPumpkinZone=奇异南瓜田
 
 tagPumpkinVendorDesc=你可以用露米娜的糖果换取各种礼物。

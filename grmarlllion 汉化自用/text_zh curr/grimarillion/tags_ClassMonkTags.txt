@@ -205,6 +205,7 @@ tagMonkRune02bDesc=被 ^b旋风之风 ^w击中的敌人现在在5秒内施放技
 tagMonkRune02c=符文效果
 tagMonkRune02cDesc=该敌人当前正在施放旋风之风的替代版本。
 
+
 tagMonkRune03=^c耐心是弱者的特权
 tagMonkRune03Desc=^o敏捷 ^w增加你的最大总速度20%和总伤害30%。然而，敌人不再受到持续伤害，并且只要周围至少有一个敌人生存，你无法使用体质来恢复生命。 ^o{^n}{^n}{^y}符文词：{^c}AhuQax
 
@@ -213,3 +214,18 @@ tagMonkRune03bDesc=该敌人不再受到持续伤害。
 
 tagRunewordD327b=符文效果
 tagRunewordD327bDesc=当你站在神秘盟友附近时，你受到的伤害会减少。
+
+tagMonkRune04=^c疾风行者
+tagMonkRune04Desc=^c冲刺打击 ^w现在造成的伤害降低，消耗更少能量，并且不再有冷却时间。冲刺过程中，你在路径上释放旋转火花，对敌人造成闪电和触电伤害，并在 3 秒内降低敌人的所有抗性 20。 但你不再可以使用闪避。 ^o{^n}{^n}{^y}符文词: {^c}FeoXal
+
+tagMonkRune05=^c回响
+tagMonkRune05Desc=被 ^c光波之击 ^w击杀的敌人将在死亡位置释放另一道光波之击（等级 6）。{^n}{^n}{^y}符文词: {^c}LithGar{^n}{^n}{^y}亲和性: ^w影响 ^c光波之击 ^w的装备同样会影响此符文效果（不包括伤害转换）。
+
+tagMonkRune06=^c泰坦破碎者
+tagMonkRune06Desc=^k旋风打击 ^w现在可以通过拉拽效果击倒 ^pBoss ^w和 ^r复仇者 ^w怪物。 ^o该符文效果有 35 秒冷却时间，可被技能冷却缩减减少。 ^o{^n}{^n}{^y}符文词: {^c}BacKry
+
+tagMonkRune06b=符文效果
+
+
+
+DefenseKnockdownModifier=^e被 ^k旋风打击 ^w击倒

@@ -1,5 +1,4 @@
 #X1 血骑士职业与技能
-
 tagSkillClassName37=血骑士
 tagSkillClassName0137=骑士指挥官
 tagSkillClassName0237=世界终结者
@@ -17,6 +16,7 @@ tagSkillClassName1337=血法师
 tagSkillClassName1437=亵渎者
 tagSkillClassName1537=[ms]暗帝 [fs]暗帝后
 tagSkillClassName3637=血猎者
+
 
 tagSkillClassDescriptionBloodKnight=血骑士是邪恶生物的克星，他们汲取敌人的生命，将其困于由诅咒之力召唤的致命阴影之中，并依赖武器与危险保持距离。若万般努力皆失败，他们也可能屈服于体内争夺人性的邪恶异体。 ^n^sAdapted by Grimer for the Diablo 3 Mod
 
@@ -135,3 +135,24 @@ tagBloodKnightRune03Desc=^r跃击 ^w的暴击会诅咒周围敌人。被诅咒�
 tagBloodKnightRune03b=^c符文效果
 tagBloodKnightRune03bDesc=该敌人当前被跃击诅咒。
 tagBloodKnightRune03c=^c猩红死亡
+
+tagBloodKnightRune04=^c黑曜行军
+tagBloodKnightRune04Desc=由 ^r残暴提升 ^w触发的暴击会赋予你一个护盾，吸收所受伤害的 10%，并使 ^r残暴提升 ^w在你周围的敌人下方周期性地爆发，持续 5 秒，降低其总移动速度 20%。 {^n}{^n}{^y}符文之语：{^c}CirTun
+tagBloodKnightRune04b=^c黑曜行军（强化）
+tagBloodKnightRune04bDesc=由 ^r残暴提升 ^w触发的暴击会赋予你一个护盾，吸收所受伤害的 15%，并使黑曜尖刺在你周围的敌人下方周期性爆发，持续 5 秒，降低其总移动速度 30%。 {^n}{^n}{^y}符文之语：{^c}CirTun（强化）
+tagBloodKnightRune04c=^c符文效果
+tagBloodKnightRune04cDesc=你当前受到的伤害减少，并且 ^r残暴提升 ^w会在你周围释放尖刺。
+
+tagBloodKnightRune05=^c虚空之眼
+tagBloodKnightRune05Desc=由 ^r旋风打击 ^w触发的旋转攻击创造虚空风暴，在 5 秒内对区域内敌人造成混沌和活力伤害，并削弱他们的视线。被风暴覆盖的敌人其混沌和活力抗性降低 10%。当虚空风暴结束时，会爆发一次熵能冲击，对敌人造成巨量混沌伤害。 {^n}{^n}{^y}符文之语：{^c}MoniXan
+tagBloodKnightRune05b=^c虚空之眼（强化）
+tagBloodKnightRune05bDesc=由 ^r旋风打击 ^w触发的旋转攻击创造虚空风暴，在 5 秒内对区域内敌人造成混沌和活力伤害，并削弱他们的视线。被风暴覆盖的敌人其混沌和活力抗性降低 15%。当虚空风暴结束时，会爆发一次熵能冲击，对敌人造成巨量混沌伤害。 {^n}{^n}{^y}符文之语：{^c}MoniXan（强化）
+tagBloodKnightRune05C=^c符文效果
+
+tagBloodKnightRune05D=^c虚空风暴
+tagBloodKnightRune05E=^r虚空能量
+tagBloodKnightRune05F=^r熵能爆发
+
+tagBloodKnightRune06=^c血液分解
+tagBloodKnightRune06Desc=^r血之波 ^w会给敌人施加一个 ^r血之标记 ^w，持续 10 秒，降低其活力和流血抗性 10%。当被标记敌人生命低于 50% 时，抗性降低效果翻三倍，生命回复降低 35%。一旦第二层减益生效，标记周围会出现一个圆圈，必须通过不断刷新血之波的 10 秒持续时间来维持，否则将失去三倍抗性降低和生命回复削减效果。^o敌人必须在生命达到 50% 前被标记。 {^n}{^n}{^y}符文之语：{^c}NocWat
+

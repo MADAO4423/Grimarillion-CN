@@ -90,22 +90,18 @@ tagMonkHelmD01=(S) {^I}心灵之力
 tagMonkHelmD01Desc=^o此物品的技能修正要求用户未持武器。
 tagMonkHelmSkill=心灵之力
 tagMonkHelmSkillDesc=想象中的一切皆有可能。^o要求用户未持武器。
-
 tagMonkChestD01=(S) {^I}核心之命令
 tagMonkChestD01Desc=^o此物品的技能修正要求用户未持武器。
 tagMonkChestSkill=核心命令
 tagMonkChestSkillDesc=来自内心的攻击性能力。^o要求用户未持武器。
-
 tagMonkShouldersD01=(S) {^I}躯体之防
 tagMonkShouldersD01Desc=^o此物品的技能修正要求用户未持武器。
 tagMonkShoulderSkill=躯体之防
 tagMonkShoulderSkillDesc=来自内心的坚不可摧的防御。^o要求用户未持武器。
-
 tagMonkHandsD01=(S) {^I}灵魂之力
 tagMonkHandsD01Desc=^o此物品的技能修正要求用户未持武器。
 tagMonkHandsSkill=灵魂之力
 tagMonkHandsSkillDesc=灵魂的力量能支配任何敌人，因为没有什么武器能比它更强大。^o要求用户未持武器。
-
 tagMonkSetD01=纯粹之道
 tagMonkSetD01Desc=放弃奥术的腐化和钢铁的懦弱，拥抱内在的超凡力量。^o此套装的技能修正要求用户未持武器。
 tagMonkSetSkill=节奏
@@ -115,7 +111,6 @@ tagAuradinHelmD01=(S) {^I}自动体的面容
 tagAuradinChestD01=(S) {^I}自动体的铠甲
 tagAuradinChestSkill=自适应铠甲
 tagAuradinChestSkillDesc=法术铠甲为你提供持续的再生防御，并偶尔爆发出强大的保护能力。
-
 tagAuradinShouldersD01=(S) {^I}自动体的披风
 tagAuradinShieldD01=(S) {^I}自动体的塔盾
 tagAuradinSet=帝国自动体
@@ -148,13 +143,11 @@ tagPrimordialPistolD01SkillDesc=你获得了对罐弹的增强效果。
 tagPrimordialPistolD02=(S) {^I}原始破坏者
 tagPrimordialPistolD02Skill=格雷纳多强化
 tagPrimordialPistolD02SkillDesc=你获得了对格雷纳多的增强效果。
-
 tagPrimordialHelmD01=(S) {^I}原始之瞳
 tagPrimordialRingD01=(S) {^I}原始之环
 tagPrimordialMedalD01=(S) {^I}原始印记
 tagPrimordialMedalD01Skill=原始掠夺
 tagPrimordialMedalD01SkillDesc=被背叛之神的力量赋予你摧毁敌人的能力。^n^o这是一个远程双持的被动加成，也使得你能够双持远程武器。
-
 tagPrimordialSet=原始破坏者
 tagPrimordialSetDesc=以超自然的力量摧毁和毁灭。
 
@@ -179,7 +172,7 @@ tagFelsicMaceD01SkillDesc=召唤一群裂片来攻击你的敌人。^o黑曜石�
 tagFelsicHandsD01=(S) {^I}辉岩之握
 tagFelsicChestD01=(S) {^I}辉岩堡垒
 tagFelsicChestD01Skill=火成冷却
-tagFelsicChestD01SkillDesc=以牺牲伤害为代价，冷却你周围的区域，治愈自己及周围的随从。^o此效果作用于你和任何附近的盟友。
+tagFelsicChestD01SkillDesc=以牺牲伤害为代价，冷却你周围的区域，治愈自己及周围的随从。 ^o此效果作用于你和任何附近的盟友。
 tagFelsicSet=辉岩之流
 tagFelsicSetDesc=在晶体般的毁灭中，开辟一条胜利之路。
 tagFelsicSetSkill=召唤马斯卡
@@ -199,37 +192,30 @@ tagMalHelmD01=(S) {^I}马尔特罗瓦克的凝视
 tagMalHelmD01Desc=马尔特罗瓦克的头盔，背叛者与被背叛者。^n^o在他的竞技场上碾压自大者。
 tagMalHelmD01Skill=燃烧之声
 tagMalHelmD01SkillDesc=马尔特罗瓦克的言辞灼烧无准备之人。
-
 tagMalShouldersD01=(S) {^I}马尔特罗瓦克的肩甲
 tagMalShouldersD01Desc=马尔特罗瓦克的肩铠，坚定与迅捷的象征。^n^o让燃烧的森林平息。
 tagMalShouldersD01Skill=点燃
 tagMalShouldersD01SkillDesc=马尔特罗瓦克的滔滔仇恨凝聚成熔浆球，在战场上扩散。
-
 tagMalChestD01=(S) {^I}马尔特罗瓦克的战甲
 tagMalChestD01Desc=马尔特罗瓦克的战甲，王者与领主的象征。^n^o沙土与天空交界之地封闭了一条道路。
 tagMalChestD01Skill=放逐之子铠
 tagMalChestD01SkillDesc=马尔特罗瓦克的战甲可以抵挡任何胆小的敌人送来的攻击。
-
 tagMalGlovesD01=(S) {^I}马尔特罗瓦克的手套
 tagMalGlovesD01Desc=马尔特罗瓦克的手套，焚烧者与净化者。^n^o扑灭堡垒中的火焰。
 tagMalGlovesD01Skill=流亡王者的敏捷
 tagMalGlovesD01SkillDesc=传说中，马尔特罗瓦克可以以如此快速的速度挥舞艾瓦努尔，以至于连空气都能被点燃。^o要求使用双手剑。
-
 tagMalBootsD01=(S) {^I}马尔特罗瓦克的步伐
 tagMalBootsD01Desc=马尔特罗瓦克的靴子，恐惧与未来的化身。^n^o点燃虚空饮者。
 tagMalBootsD01Skill=步伐破坏
 tagMalBootsD01SkillDesc=没有人能逃脱马尔特罗瓦克的无可避免的统治。
-
 tagMalLeggingsD01=(S) {^I}马尔特罗瓦克的行进
 tagMalLeggingsD01Desc=马尔特罗瓦克的腿铠，幽暗与光辉的象征。^n^o在战场上，偶遇魔法刺客。
 tagMalLeggingsD01Skill=远步
 tagMalLeggingsD01SkillDesc=马尔特罗瓦克行进的地方，战死者的灵魂跟随着他。
-
 tagMalBeltD01=(S) {^I}马尔特罗瓦克的腰带
 tagMalBeltD01Desc=马尔特罗瓦克的腰护，防卫者与坚定者的象征。^n^o结束女王愚昧的呼喊。
 tagMalBeltD01Skill=炽焰宫廷
 tagMalBeltD01SkillDesc=站在烧伤王者的恩典之下，便是被灼烧。
-
 tagMalRingD01=(S) {^I}马尔特罗瓦克的戒指
 tagMalRingD01Desc=马尔特罗瓦克的左手戒指，热烈与客观的象征。^n^o寻找未知。
 tagMalRingD01Skill=艾内瑞斯之火
@@ -238,32 +224,26 @@ tagMalRingD02=(S) {^I}马尔特罗瓦克的印戒
 tagMalRingD02Desc=马尔特罗瓦克的右手戒指，忠诚与背叛者。^n^o在破裂的堡垒下寻找背叛者。
 tagMalRingD02Skill=艾内瑞斯之火
 tagMalRingD02SkillDesc=艾内瑞斯的火焰从内而外焚烧敌人，将其化为余烬。^o此效果与马尔特罗瓦克的戒指上的效果叠加。
-
 tagMalAmuletD01=(S) {^I}马尔特罗瓦克的灯塔
 tagMalAmuletD01Desc=马尔特罗瓦克的宝石，午夜与烈焰的象征。^n^o寻找永恒阴影的使者。
 tagMalAmuletD01Skill=无日继承者的守护
 tagMalAmuletD01SkillDesc=马尔特罗瓦克的衣饰为他的防御加上了反魔法的护符。
-
 tagMalMedalD01=(S) {^I}马尔特罗瓦克的印记
 tagMalMedalD01Desc=马尔特罗瓦克的徽章，源自教义与被热情拒绝。^n^o推翻群山。
 tagMalMedalD01Skill=恶意的愤怒
 tagMalMedalD01SkillDesc=马尔特罗瓦克的恶意对那些胆敢攻击他的人发动猛烈反击。
-
 tagMalGreatswordD01=(S) {^I}艾瓦努尔
 tagMalGreatswordD01Desc=钢铁为他的皮肤，火焰为他的血液，带着仇恨征服一切。
 tagMalGreatswordD01Skill=炽焰斩击
 tagMalGreatswordD01SkillDesc=艾瓦努尔突破马尔特罗瓦克敌人的阵线，将能够承受一次攻击的敌人削弱得更为脆弱。
-
 tagMalSetD01=凤凰之bane
 tagMalSetD01Desc=无尽的仇恨，无休止的血shed，无限的毁灭。
 tagMalSetSkillName=凤凰之bane
 tagMalSetSkillDesc=消灭所有胆敢挑战马尔特罗瓦克命定统治的人。
-
 tagMalRelicD01=终极法盾
 tagMalRelicD01Desc=马尔特罗瓦克的遗物，艾内瑞斯之子，亡王。^n^o一条道路始于地狱狂热者的鲜血。
 tagMalRelicBonusSkillName=法术盾
 tagMalRelicBonusSkillDesc=魔法施法者的禁忌，马尔特罗瓦克的法术盾无效化施加于拥有者的恶意魔法。
-
 tagMalNotif1=一个危险的神器已进入你的包裹...
 tagMalNotif2=你的伟大任务暂告一段落...
 
@@ -280,7 +260,6 @@ tagMediocreChestD01=(S) {^I}还不错的铠甲
 tagMediocreChestD01Desc=其实也就一般。
 tagMediocreChestD01SkillName=还不错的毁灭之雷
 tagMediocreChestD01SkillDesc=呃，实际上是“毁灭之雷”，两个字。依旧就一般。
-
 tagMediocreShouldersD01=(S) {^I}非常普通的羽毛
 tagMediocreShouldersD01SkillName=差不多的卡尔多尔风暴
 tagMediocreShouldersD01SkillDesc=差不多，但还是差一点。

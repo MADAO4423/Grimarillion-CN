@@ -187,3 +187,19 @@ tagWizardRune03=^c冰封之力
 tagWizardRune03Desc=使用 ^b冰霜射线^w 攻击时，恢复10%+300生命值，但无法使用生命药水。^o此效果有0.5秒冷却，可被冷却缩减。{^n}{^n}{^y}符文词: {^c}NocYom
 tagWizardRune03b=符文效果
 tagWizardRune03bDesc=你正通过冰霜射线持续恢复生命值。
+
+tagWizardRune04=^c风暴之握
+tagWizardRune04Desc=当生命低于 50% 时，^c风暴护甲 ^w提升你的暴击伤害 50%，提升你的攻防能力 15%，增加 100% 闪电/电击伤害，并且你不再会被电击或眩晕。{^n}{^n}{^y}符文词: {^c}YulGar
+tagWizardRune04b=符文效果
+tagWizardRune04bDesc=风暴护甲当前正在提升你的攻击属性，并赋予电击和眩晕免疫。
+
+tagWizardRune05=^c冰山
+tagWizardRune05Desc=当生命低于 66% 时，^b冰霜护甲 ^w减少受到的伤害 50%，增加 15% 的总反击伤害，并且你不再会被冻结或受到霜烧。{^n}{^n}{^y}符文词: {^c}ZanLac
+tagWizardRune05b=符文效果
+tagWizardRune05bDesc=冰霜护甲当前正在减少你受到的伤害，提高你的总反击伤害，并赋予冰冻和霜烧免疫。
+
+tagWizardRune06=^c充能
+tagWizardRune06Desc=在满生命状态下，^p能量护甲 ^w每秒为你恢复 50 能量，并提升 15% 防御能力。{^n}{^n}{^y}符文词: {^c}AhuEom
+tagWizardRune06b=符文效果
+tagWizardRune06bDesc=你当前不再获得能量恢复和额外防御加成。
+

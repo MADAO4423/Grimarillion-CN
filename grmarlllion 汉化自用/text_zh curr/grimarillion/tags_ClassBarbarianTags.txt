@@ -29,6 +29,7 @@ tagClassBarbarianSkillDescription01=挥舞武器造成前方敌人物理与内�
 tagClassBarbarianSkillName02=武器大师{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription02=增加物理伤害，并提升物理、流血和元素伤害。 {^o}这是双持近战武器的加成。并启用双持能力。{^n}{^n}{^y}肉体之力 {^o}(技能等级12解锁){^n}^w体魄提高18%。
 
+
 tagClassBarbarianSkillName05=剑盾术{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription05=减少所受伤害，提供生命回复，并提升格挡几率。 {^o}需要装备盾牌。{^n}{^n}{^y}钢铁意志 {^o}(技能等级10解锁){^n}^w提升120%反击伤害，并增加15%护甲。
 
@@ -42,7 +43,7 @@ tagClassBarbarianSkillName12=地震猛击{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription12=猛击地面产生破坏波，对前方敌人造成物理和内伤伤害。 ^o需要近战武器并触发默认武器攻击。{^n}{^n}{^y}破碎之地 {^o}(技能等级10解锁){^n}^w地震猛击使敌人眩晕1秒。
 
 tagClassBarbarianSkillName13=无视痛苦{^K} 「D3 野蛮人」^-
-tagClassBarbarianSkillDescription13=在5秒内减少所受伤害，并提升所有控制抗性。{^n}{^n}{^y}轻蔑弱者 {^o}(技能等级12解锁){^n}^w激活无视痛苦时立即恢复50%生命值。
+tagClassBarbarianSkillDescription13=在 5 秒内降低你所承受的全部伤害并提高你的防御能力，同时获得对控制类负面效果的抗性。{^n}{^n}{^y}蔑视弱者 {^o}(技能等级 12 解锁){^n}^w在激活无视痛苦时，立即恢复你 50% 的生命值。
 
 tagClassBarbarianSkillName14=狂战士之怒{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription14=进入狂战士状态，提升闪避近战攻击几率、暴击伤害及总伤害20秒。狂战士形态下抵抗控制效果并对敌人造成额外流血伤害。 {^o}角色体型增加40%。{^n}{^n}{^y}混沌之生 {^o}(技能等级12解锁){^n}^w生命回复提升135%。
@@ -57,7 +58,7 @@ tagClassBarbarianSkillName17=冰川{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription17=巨大的冰块击中范围内敌人，伤害转为冰冷，并使敌人短暂冰冻。
 
 tagClassBarbarianSkillName18=狂乱{^K} 「D3 野蛮人」^-
-tagClassBarbarianSkillDescription18=攻击单个目标造成额外物理和流血伤害。默认攻击时，每次命中增加攻击强度。 ^o积累层数可增加效果。{^n}{^n}{^y}嗜血 {^o}(技能等级16解锁){^n}^w造成伤害的5%转化为生命。
+tagClassBarbarianSkillDescription18=攻击对单一目标造成额外的物理和流血伤害。作为默认武器攻击使用时，狂乱会在每一次打击中提升你攻击的强度。^o叠加层数会提高加成效果的强度。需要近战武器。{^n}{^n}{^y}嗜血 {^o}(技能等级 16 解锁){^n}^w造成伤害的 5% 转化为你的生命值。
 
 tagClassBarbarianSkillName19=狂暴{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription19=提升护甲及流血伤害几率。攻击造成敌人物理与内伤，持续3秒。{^n}{^n}{^b}副手 {^o}(被动){^n}^w狂乱有几率投掷穿透斧，对路径上敌人造成物理及流血伤害。
@@ -78,6 +79,7 @@ tagClassBarbarianSkillDescription25=召唤3名先祖野蛮人协助战斗，持�
 
 tagClassBarbarianSkillName25Pet=先祖野蛮人
 tagClassBarbarianSkillName25Aura=合而为一
+
 
 tagClassBarbarianSkillName26=战斗之怒{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillDescription26=进入战怒状态，为你和队友增加伤害和总速度。{^n}{^n}{^y}老兵警告 {^o}(技能等级12解锁){^n}^w你和队友获得20%几率格挡投射物。
@@ -109,7 +111,7 @@ tagClassBarbarianSkillName46=先祖长矛{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillName46Desc=投掷穿透敌人的长矛，造成物理和流血伤害，使其短暂眩晕。{^n}{^n}{^y}锯齿刃 {^o}(技能等级16解锁){^n}^w先祖长矛降低敌人总速度30%，持续3秒。
 
 tagClassBarbarianSkillName47=撕裂{^K} 「D3 野蛮人」^-
-tagClassBarbarianSkillName47Desc=进行扫击，使周围敌人流血5秒。 ^o需要近战武器并触发默认武器攻击。{^n}{^n}{^y}嗜血 {^o}(技能等级10解锁){^n}^w12%伤害转化为生命。
+tagClassBarbarianSkillName47Desc=施展一次横扫攻击，使你周围的所有敌人在 5 秒内流血。^o需要近战武器，并可由所有默认武器攻击触发。{^n}{^n}{^y}嗜血渴望{^o}(技能等级 10 解锁){^n}^w造成伤害的 10% 转化为生命值。
 
 tagClassBarbarianSkillName48=飓风{^K} 「D3 野蛮人」^-
 tagClassBarbarianSkillName48Desc=火焰伤害转为冰冷，旋风斩有12%几率冰冻敌人。
@@ -132,10 +134,8 @@ tagClassBarbarianSkillName55Desc=威慑怒吼进一步降低敌人生命回复�
 #X1 暗黑破坏神物品
 tagX1D3_Belt01={^I}卡修斯之傲
 tagX1D3_Belt01Desc="他行动迅速，攻击凶猛。确实是大地上最伟大的战士。"
-
 tagX1D3_Ring01={^I}力量之戒
 tagX1D3_Ring01Desc="似乎设计用来减少伤害，但我不确定它是如何运作的。显然，它在前任主人身上失败了。希望你使用时效果更佳。"{^n}击中敌人后使用狂怒冲锋、地震猛击或跳跃会回复生命。
-
 tagX1D3_necklace01={^I}地狱火护身符
 tagX1D3_necklace01Desc="地狱火护身符是对那些不惜一切代价，发誓清除圣域恶魔祸害者的忠诚勋章。"
 tagX1D3_necklace01A={^I}僧侣的地狱火护身符
@@ -145,43 +145,34 @@ tagX1D3_necklace01D={^I}恶魔猎人的地狱火护身符
 tagX1D3_necklace01E={^I}死灵法师的地狱火护身符
 tagX1D3_necklace01F={^I}巫师的地狱火护身符
 tagX1D3_necklace01G={^I}巫医的地狱火护身符
-
 tagX1D3_Sword2h01={^I}部族之刃
 tagX1D3_Sword2h01Desc="每个部族都讲述他们最伟大的武器故事，能够移山或震慑敌人，各不相同。但每个部族都声称这把刀是他们的。"
-
 tagX1D3_Axe01={^I}桑基斯的燃烧之斧
 tagX1D3_Axe01Desc="一把由疯狂的桑基斯挥舞的黑曜石斧，他在堡垒内背叛自己的部下。即便在自焚之时，他也未停止对曾统治过的人的攻击。"
-
 tagX1D3_Ring02={^I}骷髅之握
 tagX1D3_Ring02Desc="狡诈的商人常常复制这枚珍贵戒指以欺骗不谨慎的人。"
-
 tagX1D3_Feet01={^I}卢特袜
 tagX1D3_Feet01Desc="卢特·巴哈杜尔的南萨尔制作这些靴子以便轻松攀窗行窃。他最后一次出现时，是被一只大型食腐蝙蝠带走。"
-
 tagX1D3_Shoulders04={^I}远古之怒
 tagX1D3_Shoulders04Desc="这件肩甲由被驱逐出神圣山脉的人打造，以便与远古力量沟通。"
-
 tagX1D3_Sword01={^I}雷霆之怒，风行者之赐
 tagX1D3_Sword01Desc="这把古老之刃蕴含不可预测的元素能量，穿越了广阔的宇宙和隐秘空间后抵达圣域。雷霆之怒寻觅真正的英雄之手，只有他们能安全驾驭其惊人力量。"
-
 tagX1D3_Sword02={^I}因·几奥姆
 tagX1D3_Sword02Desc="古代夏安赛王族所持之剑，据说能驾驭四虎灵的速度与杀伤力。一位国王曾宣称凭此剑驱逐千名恶魔。"
 tagX1D3_Sword02Skill="击杀敌人后，有几率获得15秒巨大冷却缩减效果。"
-
 tagX1D3_Sword03=艾尔德鲁因，公正之剑
 tagX1D3_Sword03Desc="艾尔德鲁因能切开任何敌人或物质。只有心地正直者能使用此剑，愤怒时剑不会帮助其使用者，并携带天使之力。"
 tagX1D3_Sword03skill=艾尔德鲁因之光
-
 tagX1D3_Sword04={^B}黑卫
 tagX1D3_Sword04Desc="这把剑的力量驱使战士罗萨特做出无法言说的行为。"
 tagX1D3_Sword04Skill=黑卫诅咒
 tagX1D3_Sword04SkillDesc="诅咒敌人，使最强大的敌人也易受冰冻与眩晕影响。"
-
 tagX1D3_MedalBelialSkill=贝利亚尔诅咒
 tagX1D3_MedalBelialSkillDesc="诅咒敌人，使其易受虚化与毒素伤害。"
-
 tagX1D3_Mace01={^I}消逝之峰之怒
 tagX1D3_Mace01Desc="科尔将他所有的愤怒与绝望倾注于这件武器，使其在未来岁月中彰显阿瑞特的威严。"
+
+
 
 tagX1D3_Axe02={^I}峡湾劈斧
 tagX1D3_Axe02Desc="在冰冻海岸生存需要一把坚固的武器。"
@@ -192,12 +183,12 @@ tagX1D3_Hands05Desc="这位猎人和他的猎犬曾是最著名的猎人，他�
 tagX1D3_Hands06={^I}塞舍隆护臂
 tagX1D3_Hands06Desc="看起来像是塞舍隆的产物。但奇怪的是，当他人使用时毫无特别，而你使用时，却大不相同。" - 海德里格
 
+
 tagX1D3_Belt03={^I}京四郎之魂
 tagX1D3_Belt03Desc="在夏安赛之战后，京四郎感到一阵宁静涌上心头。他闭上眼睛，仿佛一切未曾改变。"
 
 tagX1D3_Shield01={^I}弗赖德尔之怒
 tagX1D3_Shield01Desc="弗赖德尔濒临死亡，伤口比敌人还多。就在此时，他发现十字军的愤怒深不可测。"
-
 tagX1D3_Shield02={^I}西部马奇守护者
 tagX1D3_Shield02Desc="这面古老的盾牌上布满百战痕迹，由科西克国王在加冕后授予首位西部马奇骑士指挥官。从此，历代英雄皆继承此盾，持盾者受到应有尊敬。"
 tagX1D3_Shield02Skill=西部马奇之狼
@@ -229,12 +220,10 @@ tagX1D3_ItemSkill01Desc="善待你的宠物，它们会跟随你直到最后。"
 tagX1D3_necklace02={^I}拉科夫生命之玻璃
 tagX1D3_necklace02Desc="拉科夫是一名普通抄写员，他研究僧侣的战斗技法，并制作出一件可吸取敌人生命力的物品。"{^o}攻击时有几率生成生命球。
 tagX1D3_HealthGlobe=生命球
-
 tagX1D3_Medal01={^I}大地之傲章
 tagX1D3_Medal02={^I}阿德里亚勋章
 tagX1D3_Medal03={^I}贝利亚尔勋章
 tagX1D3_Medal04={^I}野蛮人印记
-
 #X1 暗黑破坏神套装
 tagItemSetX1D3_01=大地之力
 tagItemSetX1D3_01Desc="5件套奖励：野蛮人使用跳跃落地时造成地震。"
@@ -251,8 +240,6 @@ tagX1D3_Torso01Desc="大地之魂是最强的力量，没有任何事物能抗�
 tagX1D3_Shoulders01=(S) {^B}大地之尖
 tagX1D3_Shoulders01Desc="旅人传说沙漠中的石拱，神秘学者借此获得超自然智慧或地面力量。有些人声称两者兼得。"
 
-
-#X1 暗黑破坏神套装翻译
 
 tagItemSetX1D3_02=不朽之王的召唤
 tagItemSetX1D3_02Desc="远古的野蛮人将协助你踏上征程"
@@ -338,24 +325,38 @@ tagX1D3_BossChest09=玛瑟尔精华
 tagX1D3_BossChest10=李奥瑞克精华
 tagX1D3_BossChest11=佐敦·库勒精华
 
+
 tagX1D3_Boss01SkillName01=恐惧统治
 tagX1D3_Boss01SkillName01Desc=所有抗性降低10%。
 tagX1D3_Boss01SkillName02=迪亚波罗的梦魇
 tagX1D3_Boss01SkillName02Desc=所有控制抗性降低30%。
 tagX1D3_Boss01SkillName03=毁灭诅咒
-tagX1D3_Boss01SkillName03Desc=你和附近的盟友承受20%抗性削弱，并持续受到火焰伤害，直到诅咒结束。
+tagX1D3_Boss01SkillName03Desc=你和附近的盟友将承受 20% 抗性削弱，并持续受到火焰伤害，直到诅咒结束。
 tagX1D3_Boss03SkillName01=泰瑞尔威仪
-tagX1D3_Boss03SkillName01Desc=降低元素抗性和冰冻抗性
-tagX1D3_Boss03SkillName01=泰瑞尔威仪
-
+tagX1D3_Boss03SkillName01Desc=降低元素抗性和冰冻抗性	
 #X1 野蛮人符文翻译
 tagBarbarianRune01=^c贪欲
-tagBarbarianRune01Desc=^h狂怒 ^w提高你的最大攻击速度10%，并为技能添加8%生命偷取。狂怒的暴击可恢复400点生命加额外12%生命。你将无法再使用生命药水。{^n}{^n}{^y}符文之力：{^o}扎恩加尔
+tagBarbarianRune01Desc=^h狂乱 ^w使你的最大攻击速度提高 10%，并为该技能增加 8% 生命偷取。由狂乱造成的暴击会恢复你 400 + 12% 的生命值。然而，你将无法再使用生命药水。{^n}{^n}{^y}符文之语：{^c}ZanGar。
 tagBarbarianRune01B=符文效果
 tagBarbarianRune01BDesc=你在3秒内无敌。
 
 tagBarbarianRune02=^c旋转统御
-tagBarbarianRune02Desc=使用^h旋风斩^w时，你的所有抗性提高10%（增强符文版本为15%），最大抗性提高4%。旋风斩攻击会在地面留下火焰区域，对区域内敌人造成火焰伤害与灼烧效果。敌人站在燃烧区域时，有100%几率将附近敌人拉向你。^o拉拽效果内部冷却5秒，可通过冷却缩减减少。{^n}{^n}{^y}符文之力：{^o}阿胡塔尔{^n}{^n}{^y}转化：有阿胡塔尔符文的替代版本，可将火焰区域变为^b冰^w。
+tagBarbarianRune02Desc=使用^h旋风斩^w时，你的所有抗性提高10%（增强符文版本为15%），最大抗性提高4%。旋风斩攻击会在地面留下火焰区域，对区域内敌人造成火焰伤害与灼烧效果。敌人站在燃烧区域时，有100%几率将附近敌人拉向你。^o拉拽效果内部冷却5秒，可通过冷却缩减减少。{^n}{^n}{^y}符文之力：{^c}阿胡塔尔{^n}{^n}{^y}转化：^w有{^c}阿胡塔尔 ^w符文的替代版本，可将火焰区域变为^b冰霜^w。
 
 tagBarbarianRune03=^c跳震
-tagBarbarianRune03Desc=^h跳跃 ^w不再有冷却时间，并在落地处产生^h地震^w的替代效果，对区域内敌人造成物理与火焰伤害，并有几率将其击倒。但跳跃伤害减少25%，且无法使用闪避技能。{^n}{^n}{^y}符文之力：{^o}雅克斯纳尔{^n}{^n}{^y}转化：有雅克斯纳尔符文的替代版本，可将地震的火焰伤害转为^b冰^w。
+tagBarbarianRune03Desc=^h跃击 ^w不再有冷却，并且在落地处留下一个替代版本的 ^h地震 ^w，对站在区域内的敌人造成物理和火焰伤害，并有几率击倒它们。不过，跃击的伤害降低 25%，且你不再可以使用闪避技能。{^n}{^n}{^y}符文之语：{^c}YaxNer。{^n}{^n}{^y}转化：^w存在一个 {^c}YaxNer ^w符文之语的替代版本，会将地震的火焰伤害转变为 ^b寒冰^w。
+
+tagBarbarianRune04=^c毁灭之途
+tagBarbarianRune04Desc=^o狂怒冲锋 ^w现在会在你身后留下陨石轨迹（等级 8）。{^n}{^n}{^y}符文之语：{^c}BacEom。{^n}{^n}{^y}转化：^w存在一个 {^c}BacEom ^w符文之语的替代版本，会将陨石转变为 ^b彗星^w。
+
+tagBarbarianRune05=^c血之契约
+tagBarbarianRune05Desc=^r狂战士之怒 ^w变为治疗技能，恢复 35% 的生命，并使总伤害提高 100%。技能冷却缩短至 8 秒，持续时间增加至 60 秒。技能激活时，你的所有攻击会标记敌人为 ^r出血 ^w。{^n}{^n}^r出血 ^w持续 30 秒，使敌人流血，同时降低其流血抗性 50% 和生命回复 100%。但是，被标记的敌人不再受到其他类型的伤害。^o未标记敌人受到的第一击会承受技能相关的所有伤害类型，^r出血 ^w立即生效。{^n}{^n}{^y}符文之语：{^c}CemYom
+
+tagBarbarianRune05BDesc=该敌人当前正在承受额外的流血伤害，并且对其他伤害类型免疫。
+
+tagBarbarianRune06=^c血色原野
+tagBarbarianRune06Desc=^r撕裂 ^w现在会留下血池，使敌人每秒流血。站在血池上的敌人其物理抗性降低 15%，流血抗性降低 25%。{^n}{^n}{^y}符文之语：{^c}YaxMot
+
+tagBarbarianRune06C=^r血池
+
+tagBarbarianRuneEffect=^c符文效果

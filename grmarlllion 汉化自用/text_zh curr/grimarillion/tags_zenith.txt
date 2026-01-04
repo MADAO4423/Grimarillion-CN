@@ -1,3 +1,4 @@
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##Unnecessary stuff removed for Grimarillion##
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +87,7 @@ tagClass16SkillDescription05B=^b[武器池技能] [范围] [穿透]^n^o[双手�
 tagClass16SkillName05C=噬血屠戮{^K} 「恐惧骑士」^-
 tagClass16SkillDescription05C=^b[武器池技能]^n^o[双手近战][双手远程][法杖]^n^n^w以毁灭性的力量彻底消灭目标，并享受造成的伤害。{^n}^o由默认武器攻击触发，需要双手武器或法杖。
 tagClass16SkillName05B2=血欲{^K} 「恐惧骑士」^-
-tagClass16SkillDescription05B2=^b[持续] [增益]^n^o[暴击时]^n^n^w命中^o暴击^w会强化你。
+tagClass16SkillDescription05B2=^b[持续] [增益][延迟冷却]^n^o[暴击时]^n^n^w命中^o暴击^w会强化你。
 
 tagClass16SkillName06A=血汲{^K} 「恐惧骑士」^-
 tagClass16SkillDescription06A=^b[法术] [新星] [范围] [持续]^n^n^w恐惧骑士擅长对抗群体敌人，你也将如此。
@@ -147,6 +148,7 @@ tagClass17SkillDescription01A=^b[玩家伤害系数宠物] [陷阱] [范围] [�
 
 tagClass17SkillName01B=冰寒之力{^K} 「唤能师」^-
 tagClass17SkillName01C=寒霜冲击{^K} 「唤能师」^-
+
 
 tagClass17SkillName02A=火球{^K} 「唤能师」^-
 tagClass17SkillDescription02A=^b[法术] [弹道坠落] [范围]^n^n^w向敌人投下由熔岩与火焰凝聚而成的炽热巨石。
@@ -228,21 +230,16 @@ tagClass17SkillDescription19A=^b[法术] [轨道旋转] [持续]^n^n^w以魔法�
 
 tagClass17SkillName1716=战技 - 战法师{^K} 「唤能师」^-
 tagClass17SkillDescription1717=^Z唤能师 + 恐怖骑士{^n}^o[修饰：狂乱屠杀]^n^w唤能师并不偏好近战，但若局势紧急，他们也不会束手就擒。^n^r需要恐怖骑士 32 点与唤能师至少 1 点。
-
 tagClass17SkillName1718=枪斗魔法{^K} 「唤能师」^-
 tagClass17SkillDescription1718=^Z唤能师 + 驭风者{^n}^o[修饰：移动堡垒]^n^w策略与魔法结合，将奥术化作武器，将战术化作魔力。^n^r需要驭风者 32 点与唤能师至少 1 点。
-
 tagClass17SkillName1719=大法师魔典{^K} 「唤能师」^-
 tagClass17SkillDescription1719=^Z唤能师 + 勇士{^n}^o[修饰：以太风暴]^n^w若你认为攻击大法师是明智之举，那他们袖中暗藏的奥术反击会证明你错了。^n^r需要勇士 32 点与唤能师至少 1 点。
 tagClass17SkillName1719X=塞利克之怒{^K} 「唤能师」^-
-
 tagClass17SkillName1720=颠覆者秘术{^K} 「唤能师」^-
 tagClass17SkillDescription1720=^Z唤能师 + 裂隙行者{^n}^o[修饰：无相之形]^n^w将多界之力压缩为基础元素并非易事，但可行。不过…过程极其不稳定。^n^r需要裂隙行者 32 点与唤能师至少 1 点。
-
 tagClass17SkillName1721=罪咒秘法{^K} 「唤能师」^-
 tagClass17SkillDescription1721=^Z唤能师 + 尸灵{^n}^o[修饰：黑曜震颤]^n^w侍奉尸灵所获得的原始力量，会腐蚀奥术之本质，使其呈现惊人的邪恶形态。^n^r需要尸灵 32 点与唤能师至少 1 点。
 tagClass17SkillName1721X=永恒之毒{^K} 「唤能师」^-
-
 tagClass17SkillName1722=占位符
 tagClass17SkillDescription1722=占位符
 
@@ -253,15 +250,14 @@ tagClass17SkillDescription1722=占位符
 tagSkillClassName18=游侠
 tagSkillClassDescription18=神射手。枪手。西方的刺客以匕首和剧毒暗器刺杀雇主的敌人；东方的刺客则用炼金强化的子弹与残暴的枪口初速来夺命，并不效忠任何王室，只侍奉自己的“正义”…或其缺失。人们称他们为游侠。他们不是英雄，但他们的铅弹储备与鹰一般的精准，也许正是人类夺回星球所需要的力量。^n^s由 Ceno 为 Zenith Mod 创作，Asylum101 更新
 
+
 tagClass18SkillName00A=游侠
 tagClass18SkillDescription00A=纪律如士兵，凶猛不受法律束缚。^n^l神射手。枪手。西方的刺客以匕首和剧毒暗器刺杀雇主的敌人；东方的刺客则用炼金强化的子弹与残暴的枪口初速来夺命，并不效忠任何王室，只侍奉自己的“正义”…或其缺失。人们称他们为游侠。他们不是英雄，但他们的铅弹储备与鹰一般的精准，也许正是人类夺回星球所需要的力量。^n^s由 Ceno 为 Zenith Mod 创作，Asylum101 更新
 
 tagClass18SkillName01A=奥术突袭 I{^K} 「游侠」^-
 tagClass18SkillDescription01A=^b[玩家属性召唤物] [远程] [持续]^n^n^w部分游侠研究奥术，特别是召唤术，能够在战斗中召唤无人操控的武器来协助。{^n}^o随玩家伤害加成而提升效果。投入更多点数可解锁更多技能。
-
 tagClass18SkillName01B=奥术突袭 II{^K} 「游侠」^-
 tagClass18SkillDescription01B=^b[玩家属性召唤物] [近战]^n^n^w更高级的奥术突袭，使游侠能召唤更持久的魔法步枪协助作战。{^n}^o随玩家伤害加成而提升效果。投入更多点数可解锁更多技能。
-
 tagClass18AutoFireName=魔化武器{^K} 「游侠」^-
 tagClass18AutoFireSkillName00=默认攻击 ~ 全距离
 tagClass18AutoFireSkillName01=霰弹 ~ 近距离 ~ 100%
@@ -277,34 +273,25 @@ tagClass18SkillDescription03A=为什么这个也要技能点？{^n}^o仅能在�
 
 tagClass18SkillName04A=破片射击{^K} 「游侠」^-
 tagClass18SkillDescription04A=^b[攻击替换] [多发弹]^n^o [远程] [法杖]^n^n^w以刀剑求生早已过时；你，游侠，将以枪械艺术生存。{^n}^o需要装备远程武器。作为默认武器攻击时，破片射击将增强所有单次武器攻击。
-
 tagClass18SkillName04B=四重射击{^K} 「游侠」^-
 tagClass18SkillDescription04B=^b[武器池技能] [穿透] [多发弹]^n^o[远程]^n^n^w事实证明，发射更多子弹能带来更多杀戮。谁能想到？{^n}^o可与所有默认攻击配合。需要远程武器。
-
 tagClass18SkillName04C=榴霰弹射击{^K} 「游侠」^-
 tagClass18SkillDescription04C=^b[武器池技能] [碎裂] [范围]^n^o[远程]^n^n^w将压实的碎片装填入武器，命中时爆裂并切割远处敌人。{^n}^o可与所有默认攻击配合。需要远程武器。
-
 tagClass18SkillName04D=压制弹幕{^K} 「游侠」^-
 tagClass18SkillDescription04D=^b[武器池技能] [穿透] [多发弹]^n^o[远程]^n^n^w倾泻凶猛火力，将成群敌人压制至倒地。{^n}^o可与所有默认攻击配合。需要远程武器。
-
 tagClass18SkillName04XA=狙击手{^K} 「游侠」^-
 tagClass18SkillDescription04XA=^b[被动]^n^o[双手远程]^n^n^w难以捉摸的狙击手，但他们毫不费力地击杀最坚硬的敌人。{^n}^o此为全局被动，适用于所有技能/属性。{^n}需要双手远程武器。
-
 tagClass18SkillName04XB=破坏者{^K} 「游侠」^-
 tagClass18SkillDescription04XB=^b[被动]^n^o[双持远程]^n^n^w富侵略性的破坏者屠戮弱小如割草一般。{^n}^o此为全局被动。需要双持远程武器。
-
 tagClass18SkillName04XC=哨卫{^K} 「游侠」^-
 tagClass18SkillDescription04XC=^b[被动]^n^o[盾牌][施法副手]^n^n^w战术哨卫可怕而精准，以技巧而非蛮力决胜。{^n}^o此为全局被动。需要盾牌或施法副手。
-
 tagClass18SkillName04XD=突击兵{^K} 「游侠」^-
 tagClass18SkillDescription04XD=^b[变体] [范围]^n^o[近战]^n^n^w鲁莽的突击兵会扔下枪，直接冲入战场持近战武器作战。{^n}^o此为破片射击的转换器。需要近战武器，并会阻止与任何远程武器搭配。
 
 tagClass18SkillName05A=庇护{^K} 「游侠」^-
 tagClass18SkillDescription05A=^b[增益] [新星]^n^o[盾牌][法杖]^n^n^w强者的壁垒。{^n}^o需要盾牌或法杖。
-
 tagClass18SkillName05B=折射{^K} 「游侠」^-
 tagClass18SkillDescription05B=^b[变体]^n^n^w游侠所携带的护盾皆经过强化，用于取得远程战斗优势。
-
 tagClass18SkillName05C=逃兵的坚毅{^K} 「游侠」^-
 tagClass18SkillDescription05C=^b[增益] [持续]^n^n^w大多数游侠曾是瓦里塞尔军人，意味着其具备丰富战斗经验与高效率。
 
@@ -313,7 +300,6 @@ tagClass18SkillDescription06A=^b[法术] [范围] [减益]^n^n^w瞄准线里的�
 
 tagClass18SkillName07A=战争引擎{^K} 「游侠」^-
 tagClass18SkillDescription07A=^b[增益]^n^n^w雇佣枪手之中独一无二的存在，你的枪将唱响死亡之歌。
-
 tagClass18SkillName07B=和平引擎{^K} 「游侠」^-
 tagClass18SkillDescription07B=^b[增益]^n^n^w和平永远可能，只是有时必须强行达成。
 
@@ -326,15 +312,13 @@ tagClass18SkillDescription09A=^b[法术] [新星] [范围]^n^n^w当敌人过于�
 tagClass18SkillName10A=移动堡垒{^K} 「游侠」^-
 tagClass18SkillDescription10A=^b[专属] [增益]^n^o[盾牌]^n^n^w将自己定义为远程战斗的堡垒，无论面对何种力量都立足不移。{^n}^o需要盾牌。
 
+##Skill Line 11 is unused
 tagClass18SkillName11A=枪斗术{^K} 「游侠」^-
 tagClass18SkillDescription11A=并非所有游侠都精通双枪技巧，但大多数对此颇有天赋。{^n}^o需要双持远程武器。
-
 tagClass18SkillName11B=碎裂突袭{^K} 「游侠」^-
 tagClass18SkillDescription11B=两把枪意味着更多机会用碎片风暴淹没敌人。
-
 tagClass18SkillName11C=排成一线{^K} 「游侠」^-
 tagClass18SkillDescription11C=贯穿射击！{^n}^o室内勿用。
-
 tagClass18SkillName11D=守卫者的增能{^K} 「游侠」^-
 tagClass18SkillDescription11D=持盾的游侠同样能高效杀敌。大多游侠曾是瓦里塞尔军人，自然拥有严苛锤炼出的战斗效率。{^n}^o需要远程武器。相关触发只会在双持远程武器时生效。为默认攻击的修正技能。
 
@@ -351,10 +335,8 @@ tagClass18SkillDescription14A=^b[增益] [治疗] [持续]^n^n^w平原游侠常�
 #Unused
 tagClass18SkillName15A=化爆轰击{^K} 「游侠」^-
 tagClass18SkillDescription15A=^b[玩家属性召唤物] [投射下落] [固定式]^n^n^w使用迫击炮召唤猛烈的化学武器轰击。
-
 tagClass18SkillName15B=气雾扩散{^K} 「游侠」^-
 tagClass18SkillDescription15B=^b[召唤物技能] [范围] [持续]^n^n^w迫击炮会定期散布致命生化剂，使弱者毙命。
-
 tagClass18SkillName15C=寒爆闪焰{^K} 「游侠」^-
 tagClass18SkillName15D=游侠特制{^K} 「游侠」^-
 tagClass18SkillDescription15D=^b[召唤物技能] [范围]^n^n^l让他们试试能不能活下来。{^n}{^n}^w向敌人投下迫击炮的大型装药。
@@ -362,26 +344,21 @@ tagClass18SkillDescription15D=^b[召唤物技能] [范围]^n^n^l让他们试试�
 tagClass18SkillName16A=路障{^K} 「游侠」^-
 tagClass18SkillDescription16A=制造路障阻拦敌人，取得战术优势。{^n}^o你可以从路障上方射击。
 tagClass18Skill16SummonName=路障
-
 tagClass18SkillName16B=腐蚀之盾{^K} 「游侠」^-
 tagClass18SkillDescription16B=敢攻击你路障的人——徒劳无功——会发现自己被严重削弱。
-
 tagClass18SkillName16C=战术优势{^K} 「游侠」^-
 tagClass18SkillDescription16C=在由你构建的战场上作战，可获得更佳能力与活力。
 
 tagClass18SkillName17A=战斗感知{^K} 「游侠」^-
-tagClass18SkillDescription17A=区别普通步兵与精锐士兵的，是在危急时刻发挥更高水准的意识。{^n}^o此技能在你对敌人造成暴击时触发。
+tagClass18SkillDescription17A=^b[持续] [增益] [延迟冷却]^n^o[暴击时]^n^n^w区别普通步兵与精锐士兵的，是在危急时刻发挥更高水准的意识。{^n}^o此技能在你对敌人造成暴击时触发。
 tagClass18SkillDescription17AX=区别普通步兵与精锐士兵的，是在危急时刻发挥更高水准的意识。
-
 tagClass18SkillName17B=算计突袭{^K} 「游侠」^-
 tagClass18SkillDescription17B=^b[专属] [增益]^n^o[远程] [法杖]^n^n^w战争中没有公平可言。以更强的活力与凶猛攻击你的敌人。^o需要远程武器或法杖。
-
 tagClass18SkillName17C=反射强化{^K} 「游侠」^-
 tagClass18SkillDescription17C=^b[被动]^n^n^w战场经验提升了你利用自身顶级技艺的能力，同时让你更难被杀死。俗话说——没人能轻易放倒一个游侠。
 
 tagClass18SkillName18A=集束炸弹{^K} 「游侠」^-
 tagClass18SkillDescription18A=^b[法术] [手雷] [碎裂] [范围]^n^n^w一个塞满更多炸药的爆弹，可摧毁整片敌阵。存活者也会被减速并受到刺骨寒冷。
-
 tagClass18SkillName18B=污染碎片{^K} 「游侠」^-
 tagClass18SkillDescription18B=^b[变体]^n^n^w为集束炸弹增添恶性碎片，直接破坏敌人生命能量。
 
@@ -395,27 +372,22 @@ tagClass18SkillName21A=战斗护甲{^K} 「游侠」^-
 tagClass18SkillDescription21A=^b[被动]^n^n^w虽然不如恐惧骑士的全套装备坚固，但游侠的轻型战斗护甲足够抵挡轻伤。
 
 tagClass18SkillName22A=士兵之魂{^K} 「游侠」^-
-tagClass18SkillDescription22A=^b[增益] [持续]^n^o[被击中时]^n^n^w招惹游侠是愚蠢的。他们生气起来可不是闹着玩的。
+tagClass18SkillDescription22A=^b[增益] [持续][延迟冷却]^n^o[被击中时]^n^n^w招惹游侠是愚蠢的。他们生气起来可不是闹着玩的。
 
 tagClass18SkillName23A=拉维克的意志{^K} 「游侠」^-
-tagClass18SkillDescription23A=^b[增益][持续] [生命阈值]^n^n^w拉维克上校是第一位游侠，他在第29装甲军团服役期间逃兵。瓦里塞尔部队一直追捕他，直到一次袭击后他被推定死亡——尽管从未找到尸体。传闻那次袭击中瓦里塞尔损失了三十名精英。
+tagClass18SkillDescription23A=^b[增益] [持续] [生命阈值] [延迟冷却]^n^n^w拉维克上校是第一位游侠，他在第29装甲军团服役期间逃兵。瓦里塞尔部队一直追捕他，直到一次袭击后他被推定死亡——尽管从未找到尸体。传闻那次袭击中瓦里塞尔损失了三十名精英。
 
 tagClass18SkillName1816=地狱猎手的谋略{^K} 「游侠」^-
 tagClass18SkillDescription1816=^Z游侠 + 恐惧骑士{^n}^o[放逐技能修正]^n^w恐惧骑士并非寻常士兵，他们明白若敌人击中你，你必须回击得更狠。^n^r需要恐惧骑士 32 点及至少 1 点游侠。
 tagClass18SkillName1816X=超燃
-
 tagClass18SkillName1817=枪魔的谋略{^K} 「游侠」^-
 tagClass18SkillDescription1817=^Z游侠 + 唤能师{^n}^o[吐息之火修正]^n^w唤能师擅长以小变大，这种天赋可表现为戏法或神秘主义，甚至兼而有之。^n^r需要唤能师 32 点及至少 1 点游侠。
-
 tagClass18SkillName1819=追猎者的谋略{^K} 「游侠」^-
 tagClass18SkillDescription1819=^Z游侠 + 勇士{^n}^o[无尽之力修正]^n^w被瓦里塞尔勇士盯上的人几乎必死无疑，因为没人能阻止他们追击。一旦找到你，迅速而公正的裁决便会落下。^n^r需要勇士 32 点及至少 1 点游侠。
-
 tagClass18SkillName1820=破界者的谋略{^K} 「游侠」^-
 tagClass18SkillDescription1820=^Z游侠 + 裂隙行者{^n}^o[多线程修正]^n^w在战场上取得优势需要控制地形；裂隙行者天生擅长此道，而游侠的战术与经验进一步强化了这一点。^n^r需要裂隙行者 32 点及至少 1 点游侠。
-
 tagClass18SkillName1821=流浪者的谋略{^K} 「游侠」^-
 tagClass18SkillDescription1821=^Z游侠 + 腐魂者{^n}^o[汲血手雷修正]^n^w腐魂者浸透着他人的生命力，其本质充满酸腐。靠近它可不是什么明智之举。^n^r需要腐魂者 32 点及至少 1 点游侠。
-
 tagClass18SkillName1822=占位符
 tagClass18SkillDescription1822=占位符
 
@@ -425,6 +397,7 @@ tagClass18SkillDescription1822=占位符
 
 tagSkillClassName19=勇士
 tagSkillClassDescription19=瓦里塞尔最伟大的角斗士，勇士从不畏惧残酷的战斗，即便他们的对手可能是异族。勇士擅长在最凶险的环境中生存，但通常不以制造大规模破坏而闻名……这并不意味着他们不可能做到。许多勇士后来成为瓦里塞尔某些圣洁派系的皇家护卫，因此受过使用与对抗奥术魔法的训练。^n^s由 Ceno 为 Zenith Mod 创作，Asylum101 更新
+
 
 tagClass19GhostPet01=尊贵勇士
 tagClass19GhostSkill01=猛冲前锋
@@ -534,6 +507,7 @@ tagClass19SkillDescription1922=占位符
 tagSkillClassName20=裂隙潜行者
 tagSkillClassDescription20=在众多探索凯恩以外世界的奥术师中，能独自创造并探索裂隙的寥寥无几。然而，那些能够做到的人几乎立刻被绑架、洗脑并作为人体实验对象进行研究。任何幸存者往往会被纳入裂隙潜行者帝国计划（RIP），这是一支遍布帝国领土甚至更远地区的精英秘密战术侦查部队。大多数裂隙潜行者在“灰烬之战”期间立即从凯恩上消失，主要因为他们天生接近造就他们的以太裂隙。 ^n^s由 Ceno 为 Zenith Mod 创建，Asylum101 更新
 
+
 tagClass20SkillName00A=裂隙潜行者
 tagClass20SkillDescription00A=机动与多功能性可智取整支军队。^n^g在众多探索凯恩以外世界的奥术师中，能独自创造并探索裂隙的寥寥无几。然而，那些能够做到的人几乎立刻被绑架、洗脑并作为人体实验对象进行研究。任何幸存者往往会被纳入裂隙潜行者帝国计划（RIP），这是一支遍布帝国领土甚至更远地区的精英秘密战术侦查部队。大多数裂隙潜行者在“灰烬之战”期间立即从凯恩上消失，主要因为他们天生接近造就他们的以太裂隙。 ^n^s由 Ceno 为 Zenith Mod 创建，Asylum101 更新
 
@@ -568,7 +542,6 @@ tagClass20SkillName06A=非实体化{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription06A=^b[被动]^n^n^w融入世界间的帷幕，同时为武器注入无形力量。
 
 # Deprecated
-
 tagClass20SkillName07A=位移{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription07A=随心所欲穿越世界的能力让许多帝国奥术师忘记了跨界的固有危险。有些人立即死亡，有些人稍后离世，其他人被RIP绑架。{^n}^o传送玩家到目标位置。
 tagClass20SkillName07X=诸界之间{^K} 「裂隙潜行者」^-
@@ -585,7 +558,6 @@ tagClass20SkillName09A=异界适应{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription09A=^b[被动]^n^n^w经历过裂隙，你可能对凯恩的疾病没有抵抗力，但对其他世界的疾病有更好防护。同样，你返回裂隙的阻碍也极小。
 
 # Deprecated, merged with Not of this World
-
 tagClass20SkillName10A=兴奋{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription10A=存活裂隙漫游者大多性格兴奋古怪，但相关研究在灰烬之战中付诸火焰。
 
@@ -627,19 +599,14 @@ tagClass20SkillDescription18C=^b[次级修饰] [连锁]^n^n^w以强大异界力�
 
 tagClass20SkillName2016=毁灭者协议{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription2016=^ZRiftstalker + 恐惧骑士{^n}^o[修饰“疯狂低语”]^n^w恐惧领主的军队无疑曾穿越诸界，吸取力量并获得强化。^n^r需恐惧骑士32点及至少1点裂隙潜行者。
-
 tagClass20SkillName2017=颠覆者协议{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription2017=^ZRiftstalker + 唤能者{^n}^o[修饰“风暴呼唤者”]^n^w世俗魔法足以被操控以模仿裂隙之力，但此过程不稳，干扰极为不智。^n^r需唤能者32点及至少1点裂隙潜行者。
-
 tagClass20SkillName2018=破坏者协议{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription2018=^ZRiftstalker + 游骑兵{^n}^o[修饰“破片轰炸”]^n^w裂隙潜行者独行并不罕见，如今更常见。幸存者在荒野中获得更强力量与经验。^n^r需游骑兵32点及至少1点裂隙潜行者。
-
 tagClass20SkillName2019=游击者协议{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription2019=^ZRiftstalker + 冠军{^n}^o[修饰“电池攻击”]^n^w冠军几乎无敌。当有人听闻操控世界移动能力时，很快便会调动天地屠敌。^n^r需冠军32点及至少1点裂隙潜行者。
-
 tagClass20SkillName2021=追击者协议{^K} 「裂隙潜行者」^-
 tagClass20SkillDescription2021=^ZRiftstalker + 天顶死灵{^n}^o[修饰“不洁流星”]^n^w撕裂现实裂口从裂隙深处释放爆裂不洁流星，没有比这更邪恶的了吧？^n^r需天顶死灵32点及至少1点裂隙潜行者。
-
 tagClass20SkillName2022=占位符
 tagClass20SkillDescription2022=占位符
 
@@ -719,7 +686,7 @@ tagClass21SkillName17A=局势感知{^K} 「天顶死灵」^-
 tagClass21SkillDescription17A=^b[修饰]^n^n^w天顶死灵快速评估周围环境的能力，使其在战场上难以被锁定。
 
 tagClass21SkillName19A=行界者{^K} 「天顶死灵」^-
-tagClass21SkillDescription19A=^b[Buff] [定时] [生命阈值]^n^n^w天顶死灵能够在各界间短暂游走，甚至在短暂离域期间避免死亡。
+tagClass21SkillDescription19A=^b[Buff] [定时] [生命阈值] [延迟冷却]^n^n^w天顶死灵能够在各界间短暂游走，甚至在短暂离域期间避免死亡。
 
 tagClass21SkillName20A=来自彼界{^K} 「天顶死灵」^-
 tagClass21SkillDescription20A=^b[被动]^n^n^w天顶死灵的混沌力量源自此界之外，甚至超越下一界。
@@ -758,20 +725,15 @@ tagClass21SkillName2116=死神碎片 - 虚空骑士
 tagClass21SkillDescription2116=^Z天顶死灵 + 恐怖骑士{^n}^o[Engage 修饰]^n^w天顶死灵助力恐怖骑士的事业，甚至有人传言天顶死灵本身就是恐怖之主。虚空骑士将取其一切，而所有也都将归他。^n^r需恐怖骑士 32 点，且至少 1 点天顶死灵。
 tagClass21SkillName2116X=虚空骑士凝视
 tagClass21SkillDescription2116X=获得 140 攻击能力，并将 100% 活力伤害转化为混沌伤害。
-
 tagClass21SkillName2117=死神碎片 - 罪人
 tagClass21SkillDescription2117=^Z天顶死灵 + 唤能师{^n}^o[魔法之力修饰]^n^w天顶死灵不陌生于世间低阶魔法，并可随意使用。至少能轻易防御。^n^r需唤能师 32 点，且至少 1 点天顶死灵。
-
 tagClass21SkillName2118=死神碎片 - 流浪者
 tagClass21SkillDescription2118=^Z天顶死灵 + 突袭者{^n}^o[生物炸弹修饰]^n^w天顶死灵在军团前哨中发现了一种恶毒生化武器——突袭者的常用工具。^n^r需突袭者 32 点，且至少 1 点天顶死灵。
-
 tagClass21SkillName2119=死神碎片 - 审判者
 tagClass21SkillDescription2119=^Z天顶死灵 + 冠军{^n}^o[放肆修饰]^n^w天顶死灵凭何审判敌人？当然是凭自身。^n^r需冠军 32 点，且至少 1 点天顶死灵。
 tagClass21SkillName2119X=灵魂撕裂
-
 tagClass21SkillName2120=死神碎片 - 追击者
 tagClass21SkillDescription2120=^Z天顶死灵 + 裂隙潜行者{^n}^o[裂隙之刃修饰]^n^w被天顶死灵追击的人，大多结局迅速且悲惨。^n^r需裂隙潜行者 32 点，且至少 1 点天顶死灵。
-
 tagClass21SkillName2122=死神碎片 - 异数
 tagClass21SkillDescription2122=^Z天顶死灵 + 化身{^n}^w
 
@@ -779,7 +741,7 @@ tagClass21SkillDescription2122=^Z天顶死灵 + 化身{^n}^w
 #Class 22 - The Incarnate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-tagSkillClassNameINCARNATE=化身
+tagSkillClassNameINCARNATE=
 tagSkillClassDescriptionINCARNATE=啊，那么你想听我的故事，对吧，夺取者？{^n}那就留下来，倾听吧。^n^s由 Ceno 为 Zenith Mod 创作，由 Asylum101 更新
 
 tagClass22SkillName00A=化身
@@ -787,19 +749,14 @@ tagClass22SkillDescription00A=来自伟大彼界的宇宙力量。
 
 tagClass22SkillName2216=龙骑化身
 tagClass22SkillDescription2216=^Z化身 + 恐怖骑士{^n}^w
-
 tagClass22SkillName2217=狂潮化身
 tagClass22SkillDescription2217=^Z化身 + 唤能师{^n}^w
-
 tagClass22SkillName2218=阿巴顿化身
 tagClass22SkillDescription2218=^Z化身 + 突袭者{^n}^w
-
 tagClass22SkillName2219=先锋化身
 tagClass22SkillDescription2219=^Z化身 + 冠军{^n}^w
-
 tagClass22SkillName2220=虚空使者化身
 tagClass22SkillDescription2220=^Z化身 + 裂隙潜行者{^n}^w
-
 tagClass22SkillName2221=异数化身
 tagClass22SkillDescription2221=^Z化身 + 天顶死灵{^n}^w
 
@@ -818,22 +775,16 @@ tagZE_RIPAgent001=神秘特工
 
 tagCraftZEMaterial00=Zenitham
 tagCraftZEMaterial00DESC="来自失落文明的 Zenitham 金属碎片，闪烁着诡异光芒并能微微弯曲，似乎拥有超凡特性。拥有适当技能的人，也许能从中提取有用的东西。去魔鬼交叉点的藏身处寻找化身吧。"
-
 tagCraftZEMaterial01=精华融合：恐怖骑士
 tagCraftZEMaterial01DESC="化身能够将奇异的 Zenitham 融合成净化材料，用于高级制作配方。"
-
 tagCraftZEMaterial02=精华融合：唤能师
 tagCraftZEMaterial02DESC="化身能够将奇异的 Zenitham 融合成净化材料，用于高级制作配方。"
-
 tagCraftZEMaterial03=精华融合：突袭者
 tagCraftZEMaterial03DESC="化身能够将奇异的 Zenitham 融合成净化材料，用于高级制作配方。"
-
 tagCraftZEMaterial04=精华融合：冠军
 tagCraftZEMaterial04DESC="化身能够将奇异的 Zenitham 融合成净化材料，用于高级制作配方。"
-
 tagCraftZEMaterial05=精华融合：裂隙潜行者
 tagCraftZEMaterial05DESC="化身能够将奇异的 Zenitham 融合成净化材料，用于高级制作配方。"
-
 tagCraftZEMaterial06=精华融合：天顶死灵
 tagCraftZEMaterial06DESC="化身能够将奇异的 Zenitham 融合成净化材料，用于高级制作配方。"
 
@@ -846,19 +797,14 @@ tagCraftZE_MaterialBP06=蓝图：恶意精华
 
 tagCraftZEBP_MaterialConvert01=融合血液为 Zenitham
 tagCraftZEBP_MaterialConvert01D="化身能够将克托尼安之血融合为 Zenitham。"
-
 tagCraftZEBP_MaterialConvert02=融合大脑为 Zenitham
 tagCraftZEBP_MaterialConvert02D="化身能够将受污染的脑物质融合为 Zenitham。"
-
 tagCraftZEBP_MaterialConvert03=融合心脏为 Zenitham
 tagCraftZEBP_MaterialConvert03D="化身能够将远古之心融合为 Zenitham。"
-
 tagCraftZEBP_MaterialConvert04=融合信函为 Zenitham
 tagCraftZEBP_MaterialConvert04D="化身能够将以太信函融合为 Zenitham。"
-
 tagCraftZEBP_MaterialConvert05=融合变异因子为 Zenitham
 tagCraftZEBP_MaterialConvert05D="化身能够将以太变异因子融合为 Zenitham。"
-
 tagCraftZEBP_MaterialConvert06=融合灵魂为 Zenitham
 tagCraftZEBP_MaterialConvert06D="化身能够将温迪戈之魂融合为 Zenitham。"
 
@@ -886,6 +832,7 @@ tagZenith_Relic001_08=^r战斗技：恐怖骑士 ^s+8
 tagZenith_Relic001_09=^r战斗技：恐怖骑士 ^s+9
 tagZenith_Relic001_10=^r战斗技：恐怖骑士 ^s+10
 tagZenith_Relic001_DESC=^r“恐惧”
+
 tagZenith_Relic001Skill=^r恐惧光环
 tagZenith_Relic001Skill_DESC=恐怖的光环笼罩周围敌人，吸取其生命并削弱他们的抗性。
 
@@ -913,6 +860,7 @@ tagZenith_Relic002_08=^b唤能师法术 ^s+8
 tagZenith_Relic002_09=^b唤能师法术 ^s+9
 tagZenith_Relic002_10=^b唤能师法术 ^s+10
 tagZenith_Relic002_DESC=^b“控制”
+
 tagZenith_Relic002Skill=^b召唤
 tagZenith_Relic002Skill_DESC=释放一股灾难性的奥术能量击向敌人，然后将其拉回再次命中！
 
@@ -940,6 +888,7 @@ tagZenith_Relic003_08=^l突袭者策略 ^s+8
 tagZenith_Relic003_09=^l突袭者策略 ^s+9
 tagZenith_Relic003_10=^l突袭者策略 ^s+10
 tagZenith_Relic003_DESC=^l“混乱”
+
 tagZenith_Relic003Skill=^l反应护甲
 tagZenith_Relic003Skill_DESC=惩罚那些胆敢攻击你护甲的敌人，让他们尝尝你带来的战争利器。
 
@@ -967,6 +916,8 @@ tagZenith_Relic004_08=^k冠军之盾 ^s+8
 tagZenith_Relic004_09=^k冠军之盾 ^s+9
 tagZenith_Relic004_10=^k冠军之盾 ^s+10
 tagZenith_Relic004_DESC=^k“荣耀”
+
+
 tagZenith_Relic004Skill=^k武装号令
 tagZenith_Relic004Skill_DESC=高举武器，鼓舞士气，准备碾压所有阻挡你的人。
 
@@ -994,6 +945,7 @@ tagZenith_Relic005_08=^g裂隙潜行者协议 ^s+8
 tagZenith_Relic005_09=^g裂隙潜行者协议 ^s+9
 tagZenith_Relic005_10=^g裂隙潜行者协议 ^s+10
 tagZenith_Relic005_DESC=^g“欺诈”
+
 tagZenith_Relic005Skill=^g悖论
 tagZenith_Relic005Skill_DESC=创造一条撕裂时间屏障的裂隙。^o这是近战双持技能，同时赋予双持能力。
 
@@ -1063,46 +1015,34 @@ tagZenithBP_Relic006_005=蓝图：收割者碎片－追猎者
 
 tagZenith_Relic001_002=战斗技：战斗法师
 tagZenith_Relic001_002DESC=^ZTerror Knight + Evocator{^n}^w唤能师并不特别热衷于近身战，但这并不意味着他们在必要时无法应对。
-
 tagZenith_Relic001_003=战斗技：地狱猎手
 tagZenith_Relic001_003DESC=^ZTerror Knight + Outrider{^n}^w地狱猎手在寻找和消灭猎物方面无所限制，非常类似恐怖骑士。那些效忠于恐怖领主的人能够高效地摧毁远方敌人。
-
 tagZenith_Relic001_004=战斗技：无畏者
 tagZenith_Relic001_004DESC=^ZTerror Knight + Champion{^n}^w冠军在普通情况下已足够致命，而加入恐怖领主麾下后更是危险无比。
-
 tagZenith_Relic001_005=战斗技：荒芜者
 tagZenith_Relic001_005DESC=^ZTerror Knight + Riftstalker{^n}^w令人好奇的是，恐怖领主麾下竟有裂隙潜行者。这类存在在战场上必然强大，既能发动猛烈攻击，也能提高防御力，一切皆因虚空与恐怖领主的力量加持。
-
 tagZenith_Relic001_006=战斗技：虚空骑士
 tagZenith_Relic001_006DESC=^ZTerror Knight + the Necrotic{^n}^w最好的敌人就是最快倒下的敌人。天顶死灵善于将最坚韧的敌人削弱为脆弱的影子。恐怖领主必定会为此感到自豪。
 
 tagZenith_Relic002_001=战斗法师魔法
 tagZenith_Relic002_001DESC=^ZEvocator + Terror Knight{^n}^w唤能师通常不喜欢直接动手，但在宫廷的经历让他们明白，战斗经验是奢华生活的重要部分。
-
 tagZenith_Relic002_003=枪法师魔法
 tagZenith_Relic002_003DESC=^ZEvocator + Outrider^w策略与魔法结合，将奥术转化为武器，将战术化作魔法。
-
 tagZenith_Relic002_004=大法师魔法
 tagZenith_Relic002_004DESC=^ZEvocator + Champion{^n}^w直接攻击大法师并不明智，他们总有法术把戏来保护自己。
-
 tagZenith_Relic002_005=颠覆者魔法
 tagZenith_Relic002_005DESC=^ZEvocator + Riftstalker{^n}^w将诸界力量简化为基础元素并非易事，但可行。不过过程极不稳定。
-
 tagZenith_Relic002_006=罪人魔法
 tagZenith_Relic002_006DESC=^ZEvocator + the Necrotic{^n}^w倘若掌握天顶死灵之力，纯粹的奥术力量可能被玷污，并带来邪恶效果。
 
 tagZenith_Relic003_001=地狱猎手策略
 tagZenith_Relic003_001DESC=^ZOutrider + Terror Knight{^n}^w恐怖骑士的战术并不特殊，但他们知道，如果敌人打你，你就必须还击得更强。
-
 tagZenith_Relic003_002=枪法师策略
 tagZenith_Relic003_002DESC=^ZOutrider + Evocator{^n}^w唤能师擅长将现有资源发挥到极致，这种天赋可以体现为欺诈、神秘，甚至两者兼具。
-
 tagZenith_Relic003_004=潜行者策略
 tagZenith_Relic003_004DESC=^ZOutrider + Champion{^n}^w被瓦利塞尔的冠军追击几乎意味着死亡，没有多少方法能阻止他们的到来。一旦被发现，迅速的惩罚必将执行。
-
 tagZenith_Relic003_005=破坏者策略
 tagZenith_Relic003_005DESC=^ZOutrider + Riftstalker{^n}^w保持战场优势需要物理控制战场；裂隙潜行者天生擅长，但突袭者的战术经验在此无疑提供帮助。
-
 tagZenith_Relic003_006=流浪者策略
 tagZenith_Relic003_006DESC=^ZOutrider + the Necrotic{^n}^w天顶死灵吸收过多生命力，其本质充满腐败，接近它极不明智。
 
@@ -1138,6 +1078,7 @@ tagZenith_Relic006_004=天顶死灵收割者碎片 - 审判者
 tagZenith_Relic006_004DESC=
 tagZenith_Relic006_005=天顶死灵收割者碎片 - 追击者
 tagZenith_Relic006_005DESC=
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~
 Zenith Affix Crafting
@@ -1197,3 +1138,5 @@ tagCraftRandomZEMelee1H001=Zenith 单手近战武器
 tagCraftRandomZEMelee2H001=Zenith 双手近战武器
 
 tagZenithDescription=铁匠将打造一件适合你等级的附魔物品，品质可能是魔法或稀有，且有额外几率生成极其稀有物品。任何打造的 Zenith 装备都会随机获得一个 Zenith 精通前缀。
+
+

@@ -60,7 +60,9 @@ tagClassNecromancerSkillDescription04A=从地面召唤一具骷髅战斗，直�
 
 tagClassNecromancerSkillName04D=执法者
 
+
 tagClassNecromancerSkillName04B=攻击伤害
+
 tagClassNecromancerSkillName04C=寒冰箭
 
 tagClassNecromancerSkillName05A=狂乱{^K} 「D3 死灵法师」^-
@@ -68,6 +70,7 @@ tagClassNecromancerSkillDescription05A=你的召唤物进入狂乱状态，获�
 
 tagClassNecromancerSkillName06A=骷髅弓箭手{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription06A=召唤一名骷髅弓箭手战斗，直到死亡。 ^o骷髅弓箭手随宠物加成成长。{^n}{^n}{^y}冰冻之握 {^o}(技能等级12解锁){^n}^w骷髅弓箭手有10%概率冻结敌人。
+
 
 tagClassNecromancerSkillName06B=冰霜箭
 
@@ -86,6 +89,7 @@ tagClassNecromancerSkillDescription09A=削弱被诅咒的敌人，降低其抗�
 tagClassNecromancerSkillName10A=衰老诅咒{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription10A=诅咒目标区域的敌人，对其造成冰冷伤害，并在数秒内降低移动速度和攻击伤害。{^n}{^n}{^y}眩晕诅咒 {^o}(技能等级12解锁){^n}^w被诅咒的敌人有15%几率混乱。
 
+
 tagClassNecromancerSkillName10B=瘫痪诅咒{^K} 「D3 死灵法师」^-
 
 tagClassNecromancerSkillName11A=亡者之地{^K} 「D3 死灵法师」^-
@@ -103,24 +107,38 @@ tagClassNecromancerSkillDescription13B=召唤冰霜魔像作战，为你和盟�
 tagClassNecromancerSkillName13C=血魔像{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription13C=召唤血魔像作战，为你和盟友提供生命恢复、额外活力伤害和流血抗性。死亡或重召时释放血爆，治疗周围所有盟友。
 
+
 tagPetGolem=骨魔像
 
 tagBoneGolem01=力量光环
+
 tagBoneGolem02=以太劈砍
+
 tagBoneGolem03=骨旋风
+
 tagBoneGolem04=以太冲锋
 
+
 tagBloodGolem01=血之光环
+
 tagBloodGolem02=活力劈砍
+
 tagBloodGolem03=治疗新星
+
 tagBloodGolem04=血之冲锋
 
+
 tagIceGolem01=冰霜劈砍
+
 tagIceGolem02=冰霜光环
+
 tagIceGolem03=冰冻死神
+
 tagIceGolem04=冰之冲锋
 
+
 tagTrackerGolem=当前召唤的魔像数量。
+
 
 tagClassNecromancerSkillName14A=锯齿{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription14A=增加骨矛与骨之路径造成的伤害。
@@ -144,6 +162,7 @@ tagClassNecromancerSkillName18A=骨灵{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription18A=召唤骨灵，自动追踪敌人并在接近时爆炸，对附近敌人造成冰冷与活力伤害，并在3秒内减速。 ^o骨灵的伤害随玩家伤害加成成长。
 
 tagClassNecromancerSkillName18B=灵魂爆炸
+
 tagClassNecromancerSkillName18C=恐慌攻击{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription18C=召唤被污染的骨灵，不断使用毒性新星攻击敌人，对附近敌人造成伤害，有几率使其混乱数秒。 ^o骨灵死亡时不再爆炸，但仍随玩家伤害加成成长。
 
@@ -160,6 +179,7 @@ tagClassNecromancerSkillName20A=亡者军团{^K} 「D3 死灵法师」^-
 tagClassNecromancerSkillDescription20A=骷髅从地面升起，10秒内随机攻击敌人。 ^o亡者军团的伤害随宠物加成成长。
 
 tagClassNecromancerSkillName21A=冰冻之握{^K} 「D3 死灵法师」^-
+
 tagClassNecromancerSkillName21B=冰封军团{^K} 「D3 死灵法师」^-
 
 tagLithXanBuff=准备战斗
@@ -176,3 +196,19 @@ tagNecromancerRune02b=^c强化新星大师
 tagNecromancerRune02bDesc=^g死亡新星 ^w现在会标记敌人。被标记目标在3秒内持续施放技能的另一版本。标记敌人及所有被该新星波及的敌人受到酸性、活力和毒性伤害，并降低15%毒素与活力抗性。{^n}{^n}^g毒灵 ^w现在永久存在。由它们施放的新星同样受到此符文效果影响，并且抗性降低效果可叠加。伤害及抗性降低随骨灵等级成长，16级降低15%，26级降低20%。 {^n}{^n}{^y}符文词：{^c}BacThul (强化)
 tagNecromancerRune02c=^c符文效果
 tagNecromancerRune02cDesc=受影响的敌人正在施放死亡新星，降低周围敌人的抗性。
+
+tagNecromancerRune03=^c嗜血者
+tagNecromancerRune03Desc=血即力量现在使你的总伤害提高 20%。但是，每当你的生命值低于 80% 时，你将失去所提供的额外伤害。{^n}{^n}{^y}符文词: {^c}MoniMot
+
+tagNecromancerRune04=^c骨笼
+tagNecromancerRune04Desc=骨矛现在有 30% 概率将敌人困入骨笼，使其多种抗性降低 15%，防御能力降低 25%。{^n}{^n}{^y}符文词: {^c}KaaQax
+
+tagNecromancerRune04b=^c符文效果
+tagNecromancerRune04bDesc=敌人当前被困在骨笼中，防御力降低。
+
+tagNecromancerRune05=^c唤骨者
+tagNecromancerRune05Desc=在骨甲激活状态下，当你的生命值低于 50% 时，你获得 25% 伤害吸收，并有 50% 概率躲避投射物。生命值低于 50% 时，敌人的近战攻击会使你在周围唤醒骨骼，对敌人造成穿刺、以太和活力伤害，并干扰其技能 2 秒。{^n}{^n}{^y}符文词: {^c}NeoLac
+
+tagNecromancerRune05b=符文效果
+tagNecromancerRune05bDesc=骨甲为你提供伤害吸收并有概率偏转投射物。
+tagNecromancerRune05c=骨骼觉醒

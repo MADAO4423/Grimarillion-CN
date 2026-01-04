@@ -2,367 +2,367 @@
 # Darkest Dawn #
 ################
 
-#1: Soldier
-#2: Demolitionist
-#3: Occultist
-#4: Nightblade
-#5: Arcanist
-#6: Shaman
-#7: Inquisitor
-#8: Necromancer
-#9: Oathkeeper
-#10: Berserker
-#11: Lich
-#12: Illusionist
-#13: Chieftain
+#1: 战士
+#2: 爆破手
+#3: 神秘学者
+#4: 暗影刃
+#5: 奥术师
+#6: 萨满
+#7: 审判者
+#8: 死灵法师
+#9: 誓约守护者
+#10: 原版狂战士
+#11: 巫妖
+#12:幻术师
+#13:酋长
 
-tagDDSkillClassName01=Lich
-tagSkillClassName11=Lich
+tagDDSkillClassName01=巫妖
+tagSkillClassName34=巫妖
 
-tagSkillClassName0111=Revenant
-tagSkillClassName0211=Alchemist
-tagSkillClassName0311=Witch Doctor
-tagSkillClassName0411=Dreadblade
-tagSkillClassName0511=Soulbinder
-tagSkillClassName0611=Wraithspeaker
-tagSkillClassName0711=Exile
-tagSkillClassName0811=Deathlord
-tagSkillClassName0911=Gravekeeper
-tagSkillClassName1011=Overlord
-tagSkillClassName1112=Acolyte
+tagSkillClassName0111=复仇者
+tagSkillClassName0211=炼金术士
+tagSkillClassName0311=巫医
+tagSkillClassName0411=恐刃
+tagSkillClassName0511=灵缚者
+tagSkillClassName0611=幽语者
+tagSkillClassName0711=流放者
+tagSkillClassName0811=死亡领主
+tagSkillClassName0911=墓守
+tagSkillClassName1011=霸主
+tagSkillClassName1112=侍徒
 
-tagDDSkillClassName02=Illusionist
-tagSkillClassName12=Illusionist
+tagDDSkillClassName02=幻术师
+tagSkillClassName12=幻术师
 
-tagSkillClassName0112=Harbinger
-tagSkillClassName0212=Stalker
-tagSkillClassName0312=Voidcaller
-tagSkillClassName0412=Spellsword
-tagSkillClassName0512=Archmage
-tagSkillClassName0612=Channeler
-tagSkillClassName0712=Exorcist
-tagSkillClassName0812=Theurgist
-tagSkillClassName0912=Diviner
-tagSkillClassName1012=Veilbreaker
+tagSkillClassName0112=先驱者
+tagSkillClassName0212=潜行者
+tagSkillClassName0312=虚空召唤师
+tagSkillClassName0412=魔剑士
+tagSkillClassName0512=大法师
+tagSkillClassName0612=引能者
+tagSkillClassName0712=驱魔者
+tagSkillClassName0812=神术师
+tagSkillClassName0912=占卜师
+tagSkillClassName1012=面纱破坏者
 
-tagDDSkillClassName03=Chieftain
-tagSkillClassName13=Chieftain
+tagDDSkillClassName03=酋长
+tagSkillClassName13=酋长
 
-tagSkillClassName0113=Titan
-tagSkillClassName0213=Ravager
-tagSkillClassName0313=Bloodcaller
-tagSkillClassName0413=Tyrant
-tagSkillClassName0513=Spellhowler
-tagSkillClassName0613=Totemist
-tagSkillClassName0713=Warpriest
-tagSkillClassName0813=Desecrator
-tagSkillClassName0913=Paragon
-tagSkillClassName1013=Warchief
-tagSkillClassName1113=Wight
-tagSkillClassName1213=Enchanter
-
-
+tagSkillClassName0113=泰坦
+tagSkillClassName0213=破坏者
+tagSkillClassName0313=血之召唤者
+tagSkillClassName0413=暴君
+tagSkillClassName0513=咆哮法师
+tagSkillClassName0613=图腾师
+tagSkillClassName0713=战祭司
+tagSkillClassName0813=亵渎者
+tagSkillClassName0913=典范
+tagSkillClassName1013=战酋
+tagSkillClassName1113=亡灵
+tagSkillClassName1213=附魔师
 
 
 
 
-#LICH
-tagDDSkillClassDescription01=The Lich walks the thin line between life and death, channeling forbidden power to transcend mortal limits. Unlike Necromancers who rely on minions, Liches transform their own bodies into terrifying forms, embodying death's icy grasp and the void's corruption. Shunned even by the Order of Death's Vigil, Liches are solitary practitioners, wielding destructive magic to freeze, dissolve, and crush their foes. Those who master this art become harbingers of the inevitable, their mortal shells cast aside for raw, unrelenting power. ^n^sCreated by T3nd0 for the Darkest Dawn Mod, reworked by Bane for Darkest Dawn Reborn
-
-tagDDClass01SkillName00A=Lich
-tagDDClass01SkillDescription00A=The connection to souls long gone from this world.
-
-tagDDClass01SkillName01A=Bone Ward
-tagDDClass01SkillDescription01A=^b[AOE] [Buff]^n^n^wTo the Lich, bones and flesh are loyal servants, deadly weapons, and heavy armor. This spell offers the protection one would expect from such a morbid suit, while cutting into the flesh of the ones that dare strike it.
-tagDDClass01SkillName01B=Bizzare Shell
-tagDDClass01SkillDescription01B=^b[Modifier]^n^n^wBy selecting sharper bones for your makeshift armor, you greatly increase its harmful potential.
-
-tagDDClass01SkillName02A=Frostbite
-tagDDClass01SkillDescription02A=^b[Attack Replacer] ^n^n^wChanneling their control over life into regular weaponry, Lich rip the will to live right out of their unlucky victims. ^oWhen used as your default weapon attack, Frostbite inflicts additional damage.
-tagDDClass01SkillName02B=Creeping Frost
-tagDDClass01SkillDescription02B=^b[Modifier] [AOE]^n^n^wAdding more force to the strike, you blast the area around target with a deathly chill.
-tagDDClass01SkillName02C=Brittle
-tagDDClass01SkillDescription02C=^b[Modifier]^n^n^wExperienced Liches cover their weapons with deadly cold, softening the victim's body and causing severe wounds with every hit.
-
-tagDDClass01SkillName03A=Flesh Rot
-tagDDClass01SkillDescription03A=^b[Debuff] [Aura]^n^n^wTo accelerate the shift from life and death, you command a nefarious plague that cripples and damages while it eats itself from victim to victim. ^oThis skill drains your life once allocated but cannot kill you.
-tagDDClass01SkillName03B=Infestation
-tagDDClass01SkillDescription03B=^b[Modifier] [Debuff]^n^n^wIn its final stage, Flesh Rot clings and infests muscle fibers, disabling the affected's ability to move and resist.
-tagDDClass01SkillName03C=Spreading Affliction
-tagDDClass01SkillDescription03C=^b[Transmuter]^n^n^wUsing an eldritch incantation, the ever gestalting bacteria spreads in a larger radius at a cost of increased health drain.
-
-tagDDClass01SkillName04A=Rip Blood
-tagDDClass01SkillDescription04A=^b[Spell] [Chaining]^n^n^wFires a tendril that chains between enemies, sapping their blood.
-tagDDClass01SkillName04B=Evisceration
-tagDDClass01SkillDescription04B=^b[Modifier]^n^n^wThe tendril impales the target, causing intense pain and bleeding.
-tagDDClass01SkillName04C=Crimson Flood
-tagDDClass01SkillDescription04C=^b[Modifier] [Chaining]^n^n^wTendril becomes more accelerated and potent, spreading between more targets and deals more damage.
-tagDDClass01SkillName04D=Marrow Drinker
-tagDDClass01SkillDescription04D=^b[Secondary Modifier] [Tether]^n^n^wYour overwhelming magical prowess connects prey and hunter. You watch as the tendril sucks the very life out of your unlucky victim, dealing devastating damage.
-tagDDClass01SkillName04E=Frozen Blood
-tagDDClass01SkillDescription04E=^b[Transmuter]^n^n^wThe knowledge gained from Asterkarn tribes allows you to convert tendril into powerful cold strike, freezing targets blood.
-
-tagDDClass01SkillName05A=The Undeath
-tagDDClass01SkillDescription05A=^b[Exclusive] [Buff]^n^n^wThe Lich extends their influence over the battlefield, enveloping yourself in a shroud of deathly power.
-
-tagDDClass01SkillName06A=Blight Slash
-tagDDClass01SkillDescription06A=^b[Attack] [AOE] ^n^o[Melee]^n^n^wA mighty strike that hits multiple enemies around with deadly toxin. ^oThis is one of Bone Colossus Form skills, a full skill becomes available when FoA releases.
-tagDDClass01SkillName06B=Sapping Frost
-tagDDClass01SkillDescription06B=^b[Modifier]^n^n^wThe former Champion remembers yet another combat technique. He imbues his weapons with chilling cold of the north, reducing enemy ability to fight properly.
-tagDDClass01SkillName06C=Ancient Bones
-tagDDClass01SkillDescription06C=^b[Secondary Modifier] [Timed] [Buff]^n^n^wWreathed in decay, the oldest bones stir once more. Empower your monstrous form with the corroding chill of death and the toxins of the grave. Each kill feeds your transformation, granting a chance to extend your time as the Bone Colossus.
-tagDDClass01SkillName06D=Blight Colossus
-tagDDClass01SkillDescription06D=^b[Transmuter]^n^n^wYour form twists, bones elongating into barbed blight lances, flesh hardening into serrated edges, boiling with unholy power.
-
-tagDDClass01SkillName07A=Corrosion Wave
-tagDDClass01SkillDescription07A=^b[Spell] [Multiple Projectiles]^n^n^wConjure a violent corrosive waves, piercing and poisoning any target they hit before dissipating. ^oWaves initially deal 25% reduced damage before reaching their full strength as they expand outward.
-tagDDClass01SkillName07B=Atonement
-tagDDClass01SkillDescription07B=^b[Modifier]^n^n^wThe waves releases violent fumes, dealing increased poison damage and shredding enemy defences.
-tagDDClass01SkillName07C=Eldritch Might
-tagDDClass01SkillDescription07C=^b[Transmuter] [Shield]^n^n^wWith the will of Eldritch Gods you enhance the waves with retaliatory power to consume everything on their path. ^oThis technique requires a shield.
-
-tagDDClass01SkillName08A=Blood Ritual
-tagDDClass01SkillDescription08A=^b[Heal] [Timed] [Buff]^n^n^wIn an effort to overwhelm a dedicated foe or many foes, you use a heretic spell to boost combat capabilities and heal the wounds.
-tagDDClass01SkillName08B=Flesh to Power
-tagDDClass01SkillDescription08B=^b[Modifier]^n^n^wSkilled Liches spend years to greatly enhance the rituals effect. Let nothing stand in your way.
-tagDDClass01SkillName08C=Boiling Blood
-tagDDClass01SkillDescription08C=^b[Modifier]^n^n^wThe taint of the ritual overflows in a chasm of blood and chaotic energies, increasing the healing potential and protecting the group from leeching and hindering effects.
-tagDDClass01SkillName08D=Blood Pact
-tagDDClass01SkillDescription08D=^b[Transmuter] [Shield]^n^n^wYour ties with shield grows even stronger, enhancing life leech and block capabilities. ^oRequires a shield.
-
-tagDDClass01SkillName09A=Profane Veil
-tagDDClass01SkillDescription09A=^b[Buff] [Aura] [Timed]^n^n^wThe Lich calls upon forbidden rites, enshrouding itself in a sheath of spiteful undeath. The veil pulses immense power - each strike echoes with necrotic fury, burning with the venom of stolen retaliation
-
-tagDDClass01SkillName10A=Harvest
-tagDDClass01SkillDescription10A=^b[Spell] [Nova] [AOE]^n^n^wThe land withers where you tread. With a gesture of finality, you reap not grain, but the very essence of the living, sapping their strength to feed your own. Death begets power, and the harvest is never-ending. ^oThis is one of Restless Wraith Form skills, a full skill becomes available when FoA releases.
-tagDDClass01SkillName10B=Vampiric Drain
-tagDDClass01SkillDescription10B=^b[Modifier]^n^n^wBy focusing ancient magic into a concentrated nova, the Wraith rips the life of affected targets and transfers it to master.
-tagDDClass01SkillName10C=Vampiric Feast
-tagDDClass01SkillDescription10C=^b[Modifier]^n^n^wSuccumb to your thirst for life as you deepen the bond with your wraith form. Extends the duration of Restless Wraith and empowers your attacks with lingering vitality and bleeding energies.
-
-tagDDClass01SkillName11A=Grave Guardian
-tagDDClass01SkillDescription11A=^b[Passive]^n^o[Shield]^n^n^wBolster your defenses with unyielding necrotic power. Enhances your ability to block incoming attacks. ^oThis is a shield bonus.
-
-tagDDClass01SkillName12A=Sanguine Frenzy
-tagDDClass01SkillDescription12A=^b[Timed] [Buff]^n^o[On Crit]^n^n^wSpilling your enemy's blood drives you into a ghoulish hunger, fueling each strike with life-stealing fervor. ^oActivates on critical strike.
-
-tagDDClass01SkillName13A=Unholy Bastion
-tagDDClass01SkillDescription13A=^b[Exclusive] [Buff] [Nova]^n^o[When Hit]^n^n^wYou become a citadel of festering decay - your veins pump with cursed vitality, and your very presence exudes a plague upon those who dare strike you. The harder they hit, the more they choke on their own futility.
 
 
-#ILLUSIONIST
-tagDDSkillClassDescription02=Feared for their mastery of both weapon and sorcery, Illusionists weave steel and spell into a seamless dance of deception and destruction. Unlike brutish warriors or scholarly mages, they strike with a weapon wreathed in phantom fire, feint with illusions, and cloud the minds of their foes before delivering a final, fatal stroke. To an Illusionist, battle is a stage, and they are both the performer and the unseen hand pulling the strings. ^n^sCreated by T3nd0 for the Darkest Dawn Mod, reworked by Bane for Darkest Dawn Reborn
+#巫妖
+tagDDSkillClassDescription01=巫妖在生与死之间行走，借用禁忌力量以超越凡人的极限。与依赖仆从的死灵法师不同，巫妖将自身转化为可怖的形态，化身死亡的冰冷掌握与虚空的腐蚀。即使被死亡守望者的秩序所排斥，巫妖依然独自行走，用破坏性的魔法冻结、溶解并碾压敌人。掌握此艺术者，成为不可避免的先驱，抛弃凡体，只为追求原始且无情的力量。 ^n^s由T3nd0为暗黑黎明Mod创造，由Bane在暗黑黎明重生中重制
 
-tagDDClass02SkillName00A=Illusionist
-tagDDClass02SkillDescription00A=The ability to weave weapon and sorcery into deadly strikes and deceptive illusions.
+tagDDClass01SkillName00A=巫妖
+tagDDClass01SkillDescription00A=与早已逝去灵魂的联系。
 
-tagDDClass02SkillName01A=Imelda's Seeking Blade
-tagDDClass02SkillDescription01A=^b[Spell] [Chaining]^n^n^wImelda of the Arcanum Nihilus was said to have forged daggers from her own nightmares - blades that hungered for the souls of the unworthy. This technique, once banned by the Arkovian Conclave, allows the caster to hurl a sentient dagger that twists through the air, seeking flesh with unnatural precision.
-tagDDClass02SkillName01B=Shocking Arrival
-tagDDClass02SkillDescription01B=^b[Secondary Modifier] [AOE]^n^n^wIncreases lethality of dagger causing it to explode on contact, releasing deadly arcane clouds. ^oArcane clouds deal damage every 1s.
-tagDDClass02SkillName01C=Dispersion
-tagDDClass02SkillDescription01C=^b[Modifier]^n^n^wThe dagger gets charged with a volatile arcane charge, adding a considerable crit damage to the main effect.
+tagDDClass01SkillName01A=骨之守护{^K} 「巫妖」^-
+tagDDClass01SkillDescription01A=^b[范围] [增益]^n^n^w对巫妖而言，骨与肉是忠实的仆从、致命的武器和厚重的盔甲。此法术提供了如此诡异外壳所能期望的保护，同时对敢于攻击它的敌人造成伤害。
+tagDDClass01SkillName01B=怪异外壳{^K} 「巫妖」^-
+tagDDClass01SkillDescription01B=^b[修饰]^n^n^w通过选择更锋利的骨骼作为临时护甲，你大幅提升了其致伤潜力。
 
-tagDDClass02SkillName02A=Aevi's Time Stop
-tagDDClass02SkillDescription02A=^b[Spell] [Nova] [Timed] [Debuff]^n^n^wAevi of the Arkovian Chronomantic College sought to fracture the flow of time itself. Declared mad for her claims of 'harnessing eternity', she was imprisoned in a cell where the candles never burned down. This technique is her revenge - a stolen moment of stillness, wrenched from the gears of fate.
+tagDDClass01SkillName02A=霜咬{^K} 「巫妖」^-
+tagDDClass01SkillDescription02A=^b[攻击替代] ^n^n^w巫妖将对生命的控制注入常规武器中，直接撕裂受害者的生存意志。 ^o当作为默认武器攻击使用时，霜咬会造成额外伤害。
+tagDDClass01SkillName02B=蔓延寒霜{^K} 「巫妖」^-
+tagDDClass01SkillDescription02B=^b[修饰] [范围]^n^n^w在打击中增加力量，对目标周围区域释放死亡寒气。
+tagDDClass01SkillName02C=脆弱{^K} 「巫妖」^-
+tagDDClass01SkillDescription02C=^b[修饰]^n^n^w经验丰富的巫妖会在武器上覆盖致命寒气，每次攻击削弱敌体并造成严重伤害。
 
-tagDDClass02SkillName03A=Veilwalk
-tagDDClass02SkillDescription03A=^b[Spell] [Movement] [Disengage]^n^n^wThe Arcanum Nihilus taught that true mastery lies not in facing danger, but in rewriting its rules. This technique, stolen from the vaults of the exiled Archon Thessara, allows the caster to step between moments - leaving behind a crippling debuffs on those who dared strike at them.
-tagDDClass02SkillName03B=Illusory Escape
-tagDDClass02SkillDescription03B=^b[Modifier]^n^n^wEach backward step fractures reality, slowing adjacent foes and interrupting their actions.
+tagDDClass01SkillName03A=肉腐{^K} 「巫妖」^-
+tagDDClass01SkillDescription03A=^b[减益] [光环]^n^n^w为了加速生死转换，你操控恶性瘟疫，使其蔓延、削弱并伤害敌人。 ^o分配此技能会消耗你的生命，但不会杀死你。
+tagDDClass01SkillName03B=侵蚀{^K} 「巫妖」^-
+tagDDClass01SkillDescription03B=^b[修饰] [减益]^n^n^w在最终阶段，肉腐附着并侵蚀肌肉纤维，使受影响者无法移动或抵抗。
+tagDDClass01SkillName03C=蔓延折磨{^K} 「巫妖」^-
+tagDDClass01SkillDescription03C=^b[转化]^n^n^w通过古老咒语，细菌以更大范围蔓延，但会增加生命消耗。
+
+tagDDClass01SkillName04A=血之触{^K} 「巫妖」^-
+tagDDClass01SkillDescription04A=^b[法术] [连锁]^n^n^w发射触手在敌人间连锁吸取鲜血。
+tagDDClass01SkillName04B=肢解{^K} 「巫妖」^-
+tagDDClass01SkillDescription04B=^b[修饰]^n^n^w触手刺穿目标，造成剧痛和流血。
+tagDDClass01SkillName04C=血色洪流{^K} 「巫妖」^-
+tagDDClass01SkillDescription04C=^b[修饰] [连锁]^n^n^w触手速度与威力增强，可蔓延至更多目标并造成更高伤害。
+tagDDClass01SkillName04D=骨髓吸取{^K} 「巫妖」^-
+tagDDClass01SkillDescription04D=^b[次级修饰] [连接]^n^n^w你强大的魔法力量连接猎物与捕猎者，触手吸取目标的生命造成毁灭性伤害。
+tagDDClass01SkillName04E=冻结之血{^K} 「巫妖」^-
+tagDDClass01SkillDescription04E=^b[转化]^n^n^w从阿斯特卡恩部族学到的知识，使你将触手转化为强力寒击，冻结敌人血液。
+
+tagDDClass01SkillName05A=不死之体{^K} 「巫妖」^-
+tagDDClass01SkillDescription05A=^b[专属] [增益]^n^n^w巫妖在战场上延伸影响力，将自己笼罩在死亡力量的迷雾中。
+
+tagDDClass01SkillName06A=枯萎斩{^K} 「巫妖」^-
+tagDDClass01SkillDescription06A=^b[攻击] [范围] ^n^o[近战]^n^n^w一次强力打击，对周围多个敌人造成致命毒素伤害。 ^o这是骨巨像形态的技能之一，完整技能将在FoA发布时可用。
+tagDDClass01SkillName06B=消耗之霜{^K} 「巫妖」^-
+tagDDClass01SkillDescription06B=^b[修饰]^n^n^w昔日的勇者记起另一种战斗技巧。他用北方的冰寒赋予武器，使敌人战斗能力大幅降低。
+tagDDClass01SkillName06C=古老之骨{^K} 「巫妖」^-
+tagDDClass01SkillDescription06C=^b[次级修饰] [计时] [增益]^n^n^w被腐朽包裹，最古老的骨骼再次苏醒。用死亡的冰寒与坟墓的毒素强化你的巨像形态。每次击杀都会强化你的变形，有机会延长骨巨像形态的持续时间。
+tagDDClass01SkillName06D=枯萎巨像{^K} 「巫妖」^-
+tagDDClass01SkillDescription06D=^b[转化]^n^n^w你的形态扭曲，骨骼延长成带刺的枯萎长矛，肉体硬化为锯齿状边缘，充满亵渎力量。
+
+tagDDClass01SkillName07A=腐蚀之波{^K} 「巫妖」^-
+tagDDClass01SkillDescription07A=^b[法术] [多重投射]^n^n^w召唤猛烈的腐蚀波，对击中的目标造成穿刺和中毒伤害后消散。 ^o波初始伤害降低25%，随扩散而达到全力。
+tagDDClass01SkillName07B=赎罪{^K} 「巫妖」^-
+tagDDClass01SkillDescription07B=^b[修饰]^n^n^w波浪释放剧烈烟雾，造成额外毒素伤害并撕裂敌人防御。
+tagDDClass01SkillName07C=远古之力{^K} 「巫妖」^-
+tagDDClass01SkillDescription07C=^b[转化] [盾牌]^n^n^w借助远古诸神之意志，你赋予波浪反击力量，吞噬路径上的一切。 ^o此技巧需要盾牌。
+
+tagDDClass01SkillName08A=血之仪式{^K} 「巫妖」^-
+tagDDClass01SkillDescription08A=^b[治疗] [计时] [增益]^n^n^w为压制单个或多个敌人，你施展异端法术提升战斗能力并治愈伤口。
+tagDDClass01SkillName08B=以肉为力{^K} 「巫妖」^-
+tagDDClass01SkillDescription08B=^b[修饰]^n^n^w熟练的巫妖经过多年修炼，大幅增强仪式效果。让任何阻碍都消失于你眼前。
+tagDDClass01SkillName08C=沸血{^K} 「巫妖」^-
+tagDDClass01SkillDescription08C=^b[修饰]^n^n^w仪式的污秽溢出成血与混沌能量的深渊，提高治疗能力并保护队伍免受吸取与干扰效果。
+tagDDClass01SkillName08D=血之契约{^K} 「巫妖」^-
+tagDDClass01SkillDescription08D=^b[转化] [盾牌]^n^n^w你与盾牌的联系更为紧密，增强吸血和格挡能力。 ^o需要盾牌。
+
+tagDDClass01SkillName09A=亵渎之幕{^K} 「巫妖」^-
+tagDDClass01SkillDescription09A=^b[增益] [光环] [计时]^n^n^w巫妖召唤禁忌仪式，将自身笼罩在怨毒不死之衣中。面纱涌动强大力量——每次攻击都回响着死灵之怒，燃烧着被窃取的复仇之毒。
+
+tagDDClass01SkillName10A=收割{^K} 「巫妖」^-
+tagDDClass01SkillDescription10A=^b[法术] [新星] [范围]^n^n^w你所踏之地枯萎凋零。以最终手势收获的不再是谷物，而是生者的精华，吸取他们的力量以滋养自身。死亡孕育力量，而收割永无止境。 ^o这是游魂形态的技能之一，完整技能将在FoA发布时可用。
+tagDDClass01SkillName10B=吸血之耗{^K} 「巫妖」^-
+tagDDClass01SkillDescription10B=^b[修饰]^n^n^w通过将古老魔法汇聚成新星，游魂将生命撕离受影响的目标并转移给主人。
+tagDDClass01SkillName10C=吸血盛宴{^K} 「巫妖」^-
+tagDDClass01SkillDescription10C=^b[修饰]^n^n^w沉浸于对生命的渴望，加深与游魂形态的联系。延长游魂持续时间，并使攻击带有持续的生命与流血能量。
+
+tagDDClass01SkillName11A=墓守{^K} 「巫妖」^-
+tagDDClass01SkillDescription11A=^b[被动]^n^o[盾牌]^n^n^w以不屈死灵之力强化防御。提升格挡来袭攻击的能力。 ^o这是盾牌加成。
+
+tagDDClass01SkillName12A=嗜血狂怒{^K} 「巫妖」^-
+tagDDClass01SkillDescription12A=^b[计时] [增益]^n^o[暴击时]^n^n^w溅洒敌人鲜血会激发你的食尸饥渴，使每次攻击都带有吸血狂热。 ^o在暴击时激活。
+
+tagDDClass01SkillName13A=亵渎堡垒{^K} 「巫妖」^-
+tagDDClass01SkillDescription13A=^b[专属] [增益] [新星]^n^o[受击时]^n^n^w你成为腐败的堡垒——血脉充斥诅咒活力，你的存在令敢于攻击者感染瘟疫。他们越用力打击，越会被自己的无力所窒息。
+
+
+#幻术师
+tagDDSkillClassDescription02=因精通武器与魔法而令人畏惧，幻术师将钢铁与法术编织成一场欺骗与破坏的无缝舞蹈。不同于粗野的战士或博学的法师，他们使用被幻影之火环绕的武器攻击，用幻象迷惑对手，在致命一击之前扰乱敌人的心智。对幻术师而言，战斗是一座舞台，他们既是表演者，也是操控幕后之手。 ^n^sCreated by T3nd0 for the Darkest Dawn Mod, reworked by Bane for Darkest Dawn Reborn
+
+tagDDClass02SkillName00A=幻术师
+tagDDClass02SkillDescription00A=将武器与魔法融合为致命攻击与欺骗幻象的能力。
+
+tagDDClass02SkillName01A=伊梅尔达的寻刃{^K} 「幻术师」^-
+tagDDClass02SkillDescription01A=^b[法术] [连锁]^n^n^w据说阿尔卡努姆·尼希鲁斯的伊梅尔达曾用自己的噩梦铸造匕首——这些刀刃渴求不配之人的灵魂。此技巧曾被阿尔科维亚议会禁止，允许施法者投掷一把具意识的匕首，在空中扭曲前行，以超自然的精准寻找目标。
+tagDDClass02SkillName01B=震撼降临{^K} 「幻术师」^-
+tagDDClass02SkillDescription01B=^b[次级修饰] [范围]^n^n^w提高匕首的致命性，使其接触目标时爆炸，释放致命的奥术气云。 ^o奥术气云每1秒造成伤害。
+tagDDClass02SkillName01C=扩散{^K} 「幻术师」^-
+tagDDClass02SkillDescription01C=^b[修饰]^n^n^w匕首被充能为不稳定的奥术能量，为主效果增加可观的暴击伤害。
+
+tagDDClass02SkillName02A=艾维的时间停止{^K} 「幻术师」^-
+tagDDClass02SkillDescription02A=^b[法术] [新星] [计时] [减益]^n^n^w阿尔科维亚时间魔法学院的艾维试图裂解时间的流动。因声称“掌控永恒”而被宣判疯狂，她被囚禁在永不燃尽的烛光牢房中。此技巧是她的复仇——从命运齿轮中夺取的短暂静止。
+
+tagDDClass02SkillName03A=帷幕行步{^K} 「幻术师」^-
+tagDDClass02SkillDescription03A=^b[法术] [移动] [脱离]^n^n^w阿尔卡努姆·尼希鲁斯教导真正的精通不在于面对危险，而在于重写规则。此技巧源自被流放的阿尔孔·塞萨拉的金库，使施法者能够在时间瞬间中跨步——在敢于攻击的人身后留下削弱效果。
+tagDDClass02SkillName03B=幻象逃脱{^K} 「幻术师」^-
+tagDDClass02SkillDescription03B=^b[修饰]^n^n^w每一次后退都撕裂现实，减缓邻近敌人的行动并打断他们的动作。
 
 #pet name and skills
-tagDDClass02SkillName03C=Vile Illusion
+tagDDClass02SkillName03C=邪恶幻象
 tagDDClass02SkillDescription03C=
-tagDDClass02SkillName03D=Vicious Strike
+tagDDClass02SkillName03D=凶残打击
 tagDDClass02SkillDescription03D=
 #pet name and skills
 
-tagDDClass02SkillName04A=Ether Cloak
-tagDDClass02SkillDescription04A=^b[Timed] [Buff]^n^o[When Hit]^n^n^wThe Arcanum Nihilus spoke of a forbidden technique - 'The Shrouded Step' - where pain itself could be weaponized. Each strike against the caster activates this cloak, warping perception until the enemy swings at phantoms while their prey slips away like smoke through grasping fingers. ^oActivates when taking damage.
+tagDDClass02SkillName04A=以太斗篷{^K} 「幻术师」^-
+tagDDClass02SkillDescription04A=^b[计时] [增益]^n^o[受击时]^n^n^w阿尔卡努姆·尼希鲁斯讲述过一项禁忌技巧——“笼罩步伐”，让痛苦本身成为武器。每一次对施法者的攻击都会触发斗篷，扭曲敌人的感知，使其挥击幻影，而目标如烟雾般从指尖滑过。 ^o在受到伤害时激活。
 
-tagDDClass02SkillName05A=Warding Veil
-tagDDClass02SkillDescription05A=^b[Buff] [Timed] [HP Threshold]^n^n^wThis last-ditch defense was perfected by the Arcanists of the Eldritch Vanguard - those who walked the line between life and oblivion. When mortal flesh falters, the Veil awakens, wrapping the caster in threads of unraveled destiny to cheat death itself.
+tagDDClass02SkillName05A=守护帷幕{^K} 「幻术师」^-
+tagDDClass02SkillDescription05A=^b[增益] [计时] [生命阈值]^n^n^w这是被远古先锋的奥术师完善的绝地防御——在生命动摇之时，帷幕觉醒，将施法者包裹在解开的命运丝线中，以欺骗死亡本身。
 
-tagDDClass02SkillName06A=Prismatic Weaver
-tagDDClass02SkillDescription06A=^b[Passive]^n^n^wThe ancient Arcanists of the Celestial Weave believed that fire, frost, and storm were but threads in a grand tapestry - and those who learned to pull them could unravel their enemies while shielding themselves from the loom's backlash.
+tagDDClass02SkillName06A=棱彩编织者{^K} 「幻术师」^-
+tagDDClass02SkillDescription06A=^b[被动]^n^n^w天穹之编的古老奥术师相信，火焰、寒霜与风暴不过是宏大织锦中的丝线——掌握牵引它们之术者，可瓦解敌人，同时保护自身免受织机的反噬。
 
-tagDDClass02SkillName07A=Eldric's Arcane Shot
-tagDDClass02SkillDescription07A=^b[Attack] [Multiple Projectiles] [Ranged]^n^n^wEldric the Heretic, once a prodigy of the Arkovian Thaumaturgical Academy, discovered that magic could be tied together with bullets. His hexspread shots were like a curse - each victim suffered elemental after-effects - be it burn, frostburn or shock. The Conclave executed him for 'corrupting the fabric of the arcane', but his design could not be contained. ^oThis attack requires a ranged weapon.
-tagDDClass02SkillName07B=Hysteria
-tagDDClass02SkillDescription07B=^b[Modifier] [Penetrating]^n^n^wThe Illusionist deeply ingrains their fearsome magic, causing it to penetrate enemy resistances with ease.
+tagDDClass02SkillName07A=埃尔德里克的奥术射击{^K} 「幻术师」^-
+tagDDClass02SkillDescription07A=^b[攻击] [多重投射] [远程]^n^n^w异端者埃尔德里克曾是阿尔科维亚魔法学院的神童，他发现魔法可以与子弹结合。他的诅咒射击使每个目标承受元素后效——无论是燃烧、寒霜烧伤或电击。议会以“腐化奥术结构”将其处决，但其设计无法被封存。 ^o此攻击需要远程武器。
+tagDDClass02SkillName07B=歇斯底里{^K} 「幻术师」^-
+tagDDClass02SkillDescription07B=^b[修饰] [穿透]^n^n^w幻术师深深灌注他们的恐怖魔法，使其轻易穿透敌人的抗性。
 
-tagDDClass02SkillName08A=Obenor's Hall of Illusions
-tagDDClass02SkillDescription08A=^b[Player Scaled Pet] [Timed]^n^n^wObenor the Mirage, a disgraced Archon of the Arkovian Phantasmagoric College, sought to weaponize the self. His final experiment - 'Ego Fragmentation' - split enemy mind into three perfect copies, each screaming for dominance. The Conclave declared the technique 'a crime against the soul,' but the echoes of Obenor still taunt from the void. ^oHall of Illusions require a target and scales with player damage bonuses.
+tagDDClass02SkillName08A=奥贝诺尔的幻境大厅{^K} 「幻术师」^-
+tagDDClass02SkillDescription08A=^b[玩家增幅宠物] [计时]^n^n^w幻影奥贝诺尔，阿尔科维亚幻象学院的失宠大主教，试图将自我武器化。他的最终实验——“自我碎裂”，将敌人的意识分裂为三份完美复制，每份都争夺主导权。议会称其为“灵魂之罪”，但奥贝诺尔的回响仍从虚空中嘲弄。 ^o幻境大厅需要指定目标，并随玩家伤害加成缩放。
 
 #pet name and skills
-tagDDClass02SkillName08B=Vile Illusion
+tagDDClass02SkillName08B=邪恶幻象
 tagDDClass02SkillDescription08B=
-tagDDClass02SkillName08C=Phantom Strike
+tagDDClass02SkillName08C=幻影打击
 tagDDClass02SkillDescription08C=
-tagDDClass02SkillName08D=Provoke
+tagDDClass02SkillName08D=挑衅
 tagDDClass02SkillDescription08D=
 #pet name and skills
 
-tagDDClass02SkillName09A=Striat's Vortex
-tagDDClass02SkillDescription09A=^b[Spell] [AOE] [Timed]^n^n^wStriat's final manuscript, On the Animacy of Ice, was burned by the Conclave. Yet his vortex endures - a frozen Ouroboros that feeds on motion. ^oVortex deals damage every 0.5s.
-tagDDClass02SkillName09B=Downfall
-tagDDClass02SkillDescription09B=^b[Modifier]^n^n^wAugments the vortex with chilling strength of the Asterkarn, leaving behind a frozen bodies of your enemies.
-tagDDClass02SkillName09C=Unbounded Storm
-tagDDClass02SkillDescription09C=^b[Transmuter]^n^n^wNo longer bound by transient cold, the Vortex became a self-sustaining cataclysm, warping gravity and reason alike. The Arcanum Nihilus declared Striat a 'Madman'. But Striat merely smiled as the first test tore his laboratory apart.
+tagDDClass02SkillName09A=斯特里亚特的漩涡{^K} 「幻术师」^-
+tagDDClass02SkillDescription09A=^b[法术] [范围] [计时]^n^n^w斯特里亚特的绝笔，《论冰的生命力》，被议会焚毁。然而他的漩涡依旧存在——一条以运动为食的冰封蛇形。 ^o漩涡每0.5秒造成伤害。
+tagDDClass02SkillName09B=陨落{^K} 「幻术师」^-
+tagDDClass02SkillDescription09B=^b[修饰]^n^n^w为漩涡注入阿斯特卡恩的冰寒力量，使敌人尸体冻结于其路径之中。
+tagDDClass02SkillName09C=无界风暴{^K} 「幻术师」^-
+tagDDClass02SkillDescription09C=^b[转化] ^n^n^w不再受暂时寒冷束缚，漩涡成为自我维系的灾变，扭曲重力与理性。阿尔卡努姆·尼希鲁斯称斯特里亚特为“疯子”，但他只是微笑，看着第一次实验毁掉实验室。
 
-tagDDClass02SkillName10A=Amygdala's Mindstrike
-tagDDClass02SkillDescription10A=^b[Spell] [AOE] [Timed]^n^n^wFocus psionic power upon a single foe to implode their consciousness. The target suffers severe Aether and Elemental decay, with the psychic backlash dealing damage to surrounding enemies.
-tagDDClass02SkillName10B=Mindfray
-tagDDClass02SkillDescription10B=^b[Modifier]^n^n^wMindstrike now splinters the victim's psyche with violent force. The initial target suffers increased damage and psychic backlash.
-tagDDClass02SkillName10C=Arcane Infusion
-tagDDClass02SkillDescription10C=^b[Secondary Modifier] [Timed] [Buff]^n^n^wAmygdala's later research revealed a horrifying truth - the mind burns brightest when fed with opposing forces. By infusing her psychic blades with searing flame, she created a paradox: a thought that scalds the soul, leaving victims' synapses aflame long after death.
-tagDDClass02SkillName10D=Amygdala's Fall
-tagDDClass02SkillDescription10D=^b[Transmuter]^n^n^wBecome a herald of nightmares, striking foes with void energies, disabling them completely.
+tagDDClass02SkillName10A=心源打击{^K} 「幻术师」^-
+tagDDClass02SkillDescription10A=^b[法术] [范围] [计时]^n^n^w将心灵力量集中于单一敌人，使其意识内爆。目标承受严重的以太与元素腐蚀，精神反噬对周围敌人造成伤害。
+tagDDClass02SkillName10B=精神碎裂{^K} 「幻术师」^-
+tagDDClass02SkillDescription10B=^b[修饰]^n^n^w心灵打击现在以暴力之力撕裂受害者的心智。初始目标受到额外伤害及精神反噬。
+tagDDClass02SkillName10C=奥术注入{^K} 「幻术师」^-
+tagDDClass02SkillDescription10C=^b[次级修饰] [计时] [增益]^n^n^w杏仁体的后期研究揭示了一个可怕真相——心智在对抗力量下燃烧最亮。通过将心灵之刃注入炽热火焰，她创造了悖论：一种灼烧灵魂的念头，即便死亡后，受害者神经仍被点燃。~
+tagDDClass02SkillName10D=心源陨落{^K} 「幻术师」^-
+tagDDClass02SkillDescription10D=^b[转化]^n^n^w成为噩梦的使者，以虚空之力打击敌人，使其完全失能。
 
-tagDDClass02SkillName11A=Shroud of Gyrus
-tagDDClass02SkillDescription11A=^b[Timed] [Aura]^n^n^wGyrus the Unyielding, a renegade Arcanist of the Korvan Academy, sought to transcend the body's frailty by weaving his own essence into a living shield. His final experiment - recorded in the infamous Codex of the Unseen Skin - bound his soul to a self-replenishing barrier, one that lashes out with the fury of the elements themselves.
-tagDDClass02SkillName11B=Combustion
-tagDDClass02SkillDescription11B=^b[Modifier]^n^n^wBy supercharging the shroud's matrix with volatile elemental reactions, it transformed into an expanding storm of searing heat and biting frost.
-tagDDClass02SkillName11C=Primeval Force
-tagDDClass02SkillDescription11C=^b[Modifier]^n^n^wBy binding his shroud to this primordial frost, Gyrus achieved an unthinkable stability, its glacial might enduring long past mortal limits.
-tagDDClass02SkillName11D=Vile Shroud
-tagDDClass02SkillDescription11D=^b[Transmuter]^n^n^wThe Witch Gods whispered the secret to 'living armor'. Now the shroud drips with corruption, its hunger mirroring its creator's.
+tagDDClass02SkillName11A=基鲁斯之幕{^K} 「幻术师」^-
+tagDDClass02SkillDescription11A=^b[限时] [光环]^n^n^w不屈的基鲁斯，科尔文学院的叛逆奥术师，试图通过将自身精华编织入活体护盾来超越肉身的脆弱。他的最终实验——记载于臭名昭著的《无形之皮典籍》中——将灵魂绑定于一层自我回复的屏障之上，其力量能以元素之怒反击敌人。
+tagDDClass02SkillName11B=燃烧{^K} 「幻术师」^-
+tagDDClass02SkillDescription11B=^b[修饰]^n^n^w通过用易燃的元素反应超载护幕矩阵，它转化为一场席卷的风暴，焚烧与冰霜并存，凌厉而致命。
+tagDDClass02SkillName11C=原初之力{^K} 「幻术师」^-
+tagDDClass02SkillDescription11C=^b[修饰]^n^n^w将护幕与原始冰霜绑定后，基鲁斯获得了难以想象的稳定性，其冰封之力超越凡人极限，持久不衰。
+tagDDClass02SkillName11D=邪恶之幕{^K} 「幻术师」^-
+tagDDClass02SkillDescription11D=^b[转化]^n^n^w巫神低语了“活体护甲”的秘密。如今护幕充满腐化之力，其饥渴映照出创造者本身的邪恶。
 
-tagDDClass02SkillName12A=Arcane Attunement
-tagDDClass02SkillDescription12A=^b[AOE] [Buff]^n^n^wThe Arcanists of Cortosian spoke of a moment when the mind, the soul, and the fabric of reality aligned - a fleeting state where magic flowed unbidden. This technique distills that ephemeral harmony into a weapon, attuning the caster to the raw frequencies of creation itself.
-tagDDClass02SkillName12B=Ghostwalking
-tagDDClass02SkillDescription12B=^b[Modifier]^n^n^wEmpowered by the fabric of reality, your physical form becomes unstable, increasing the chances to avoid any damage.
-tagDDClass02SkillName12C=Mind Cage
-tagDDClass02SkillDescription12C=^b[Modifier]^n^n^wThe deeper one attunes to the arcane, the thinner the veil between sanity and the void becomes. This refinement encases the caster's mind in an unbreakable lattice of pure logic, forged from the same principles that bind reality itself.
+tagDDClass02SkillName12A=奥术调律{^K} 「幻术师」^-
+tagDDClass02SkillDescription12A=^b[范围] [增益]^n^n^w科尔托西安的奥术师曾谈及一个瞬间——心灵、灵魂与现实之布融为一体的刹那状态。在那一刻，魔法自然而然地流淌。这项技艺将那短暂的和谐凝炼为武器，使施法者与创造的原始频率相连。
+tagDDClass02SkillName12B=幽行{^K} 「幻术师」^-
+tagDDClass02SkillDescription12B=^b[修饰]^n^n^w借助现实之布的力量，你的肉身变得不稳定，增加闪避伤害的几率。
+tagDDClass02SkillName12C=心灵牢笼{^K} 「幻术师」^-
+tagDDClass02SkillDescription12C=^b[修饰]^n^n^w当你越深调谐奥术，理智与虚空的帷幕越薄。这项精炼技艺将施法者的心智封入无可破坏的纯逻辑格栅之中，其原理源自支配现实的同等法则。
 
-tagDDClass02SkillName13A=Magus Clone
-tagDDClass02SkillDescription13A=^b[Player Scaled Pet] [Spell] [Projectile Drop] [AOE] [Multiple Projectiles]^n^n^wForged in the crucible of the Arkovian Blade-Singers' lost arts, this technique calls upon the celestial armory - where weapons of pure elemental fury wait eternally for the worthy. With a gesture, the caster summons two clones who shoot devastating blades from the aether, each imbued with the unrelenting force of storm, flame, and frost. ^oMagus Clone scales with player damage bonuses.
-tagDDClass02SkillName13B=Ethereal Blades
-tagDDClass02SkillDescription13B=^b[Modifier] [Multiple Projectiles]^n^n^wThe Blade-Singers' most guarded secret was not the summoning, but the sharpening - how to whet their weapons with arcane energies. This refinement adds more blades that cuts through dimensions before manifesting in its victim's flesh.
-tagDDClass02SkillName13C=Lasting Legacy
-tagDDClass02SkillDescription13C=^b[Modifier]^n^n^wTrue mastery is measured in scars. These blades do not simply strike - their elemental essence seeping into wounds to burn, freeze, and sear long after impact.
+tagDDClass02SkillName13A=法师分身{^K} 「幻术师」^-
+tagDDClass02SkillDescription13A=^b[随玩家成长宠物] [法术] [投射物掉落] [范围] [多重投射]^n^n^w这项技艺在阿尔科维亚之刃歌者失落的艺术熔炉中锻成，呼唤天界军械库——其中蕴藏的纯元素之力武器永远等待着配得上者。施法者挥手召唤两名分身，从以太中发射毁灭之刃，每一击都蕴含风、火、霜的无情力量。^o法师分身随玩家伤害加成成长。
+tagDDClass02SkillName13B=虚幻之刃{^K} 「幻术师」^-
+tagDDClass02SkillDescription13B=^b[修饰] [多重投射]^n^n^w刃歌者守护最深的秘密不是召唤，而是磨砺——如何用奥术能量锐化武器。这项精炼使分身发射更多穿透维度的刀刃，在触及敌人体表前即已穿越空间。
+tagDDClass02SkillName13C=恒久遗产{^K} 「幻术师」^-
+tagDDClass02SkillDescription13C=^b[修饰]^n^n^w真正的精通以伤痕衡量。这些刀刃不仅仅是攻击——其元素精华渗入伤口，长时间燃烧、冻结并灼烧目标。
 
-#pet name and skills
-tagDDClass02SkillName13D=Magus Clone
+#宠物名及技能
+tagDDClass02SkillName13D=法师分身
 tagDDClass02SkillDescription13D=
-tagDDClass02SkillName13E=Blade Burst
+tagDDClass02SkillName13E=刃之爆发
 tagDDClass02SkillDescription13E=
-#pet name and skills
+#宠物名及技能
 
-tagDDClass02SkillName14A=Elemental Equilibrium
-tagDDClass02SkillDescription14A=^b[Exclusive] [Buff]^n^n^wForged from the lost research of the Arkovian Thaumaturgical Reformists, this technique bends the raw forces of the cosmos into harmony. By sacrificing pure aetheric potency for broader elemental synergy, the caster achieves a state of perfect balance - where even time itself flows swifter under their command.
+tagDDClass02SkillName14A=元素平衡{^K} 「幻术师」^-
+tagDDClass02SkillDescription14A=^b[专属] [增益]^n^n^w由阿尔科维亚魔法改革派失落研究锻成，这项技艺将宇宙的原始力量弯曲为和谐。通过牺牲纯粹以太能量换取更广的元素协同，施法者达成完美平衡——即便是时间在其指挥下也能加速流动。
 
 
 
 #CHIEFTAIN
-tagDDSkillClassDescription03=Towering above the battlefield like a living war totem, the Chieftain is a force of unrelenting strength and primal fury. Wielding colossal weapons with bone-shattering might, they channel the raw power of warcries to bolster allies and strike fear into their foes. But their dominance does not end with the blade - Chieftains call upon ancient totems, each a conduit of battle-born rage, shaking the earth with physical force and crushing all who stand in defiance. To a Chieftain, war is not chaos - it is a sacred rite, and they are its relentless herald. ^n^sCreated by Bane for the Darkest Dawn Reborn Mod
+tagDDSkillClassDescription03=如同活生生的战争图腾般屹立战场，酋长是一股无情的力量与原始怒火的化身。他挥舞着巨型武器，以破骨之力碾压敌人，同时通过战吼汲取战争的原始力量来强化盟友并震慑敌人。但酋长的统治不仅止于武刃——他们召唤古老图腾，每一个图腾都是战斗之怒的导体，使大地震颤，粉碎所有敢于抗衡之人。对酋长而言，战争不是混乱，而是一种神圣仪式，而他们是其不懈的使者。^n^s由Bane为 Darkest Dawn Reborn Mod 创作
 
-tagDDClass03SkillName00A=Chieftain
-tagDDClass03SkillDescription00A=A strong voice combined with immense physical power to control the battlefield.
+tagDDClass03SkillName00A=酋长
+tagDDClass03SkillDescription00A=以洪亮的声音和强大的力量掌控战场。
 
-tagDDClass03SkillName01A=Thorn Totem
-tagDDClass03SkillDescription01A=^b[Player Scaled Pet] [Stationary] [Multiple Projectiles]^n^n^wSummon an ancestral totem that shoots thorns at nearby enemies, dealing pierce damage with profuse bleeding. ^oThorn Totem scales with player damage bonuses.
-tagDDClass03SkillName01B=Thorned Fury
-tagDDClass03SkillDescription01B=^b[Modifier] [Multiple Projectiles]^n^n^wThorns become more lethal, increasing their numbers and piercing power.
-tagDDClass03SkillName01C=Barbed Thorns
-tagDDClass03SkillDescription01C=^b[Modifier]^n^n^wAdds a chance to deal significant bleeding damage upon hit.
-tagDDClass03SkillName01D=Ancestral Bond
-tagDDClass03SkillDescription01D=^b[Secondary Modifier] [Heal]^n^n^wForms a bond between you and totem, sending healing waves when totem hurts enemies.
-tagDDClass03SkillName01E=Volley of Thorns
-tagDDClass03SkillDescription01E=^b[Transmuter]^n^n^wChannel an ancestral power into additional totems, which showers the battlefield with hundreds of thorns. ^oThis technique requires a two-handed melee or ranged weapon.
+tagDDClass03SkillName01A=荆棘图腾{^K} 「酋长」^-
+tagDDClass03SkillDescription01A=^b[随玩家成长宠物] [固定] [多重投射]^n^n^w召唤祖先图腾，向附近敌人射出荆棘，造成穿刺伤害并附带大量流血效果。^o荆棘图腾随玩家伤害加成成长。
+tagDDClass03SkillName01B=荆棘之怒{^K} 「酋长」^-
+tagDDClass03SkillDescription01B=^b[修饰] [多重投射]^n^n^w荆棘变得更加致命，数量与穿透力增加。
+tagDDClass03SkillName01C=带刺荆棘{^K} 「酋长」^-
+tagDDClass03SkillDescription01C=^b[修饰]^n^n^w命中时有几率造成大量流血伤害。
+tagDDClass03SkillName01D=祖灵羁绊{^K} 「酋长」^-
+tagDDClass03SkillDescription01D=^b[二次修饰] [治疗]^n^n^w你与图腾之间形成羁绊，当图腾攻击敌人时向你传送治疗波。
+tagDDClass03SkillName01E=荆棘风暴{^K} 「酋长」^-
+tagDDClass03SkillDescription01E=^b[转化]^n^n^w将祖先之力引导至更多图腾，使战场上雨点般落下成百上千的荆棘。^o此技能需要双手近战或远程武器。
 
-#pet name and skills
-tagDDClass03SkillName01F=Thorn Totem
+#宠物名及技能
+tagDDClass03SkillName01F=荆棘图腾
 tagDDClass03SkillDescription01F=
-tagDDClass03SkillName01G=Thorns
+tagDDClass03SkillName01G=荆棘
 tagDDClass03SkillDescription01G=
-tagDDClass03SkillName01H=Thorn Nova
+tagDDClass03SkillName01H=荆棘新星
 tagDDClass03SkillDescription01H=
-tagDDClass03SkillTracker01A=Current Number of Thorn Totems Placed
+tagDDClass03SkillTracker01A=当前放置的荆棘图腾数量
+#宠物名及技能
+
+tagDDClass03SkillName02A=巨擎{^K} 「酋长」^-
+tagDDClass03SkillDescription02A=^b[被动]^n^o[双手近战] [双手远程]^n^n^w武器的重量成为你力量的延伸，为攻击提供动力，并强化身体以抵御严酷战场的威胁。^o此技能适用于双手近战与双手远程武器加成。
+
+tagDDClass03SkillName03A=必杀{^K} 「酋长」^-
+tagDDClass03SkillDescription03A=^b[武器池技能]^n^n^w精准而有力的挥击，斩杀前方敌人，准确无误。^o可通过所有默认武器攻击触发。
+
+tagDDClass03SkillName04A=穿刺{^K} 「酋长」^-
+tagDDClass03SkillDescription04A=^b[武器池技能]^n^n^w将武器深深刺入敌人体内，撕裂肉体与骨骼，使其痛苦流血而亡。^o可通过所有默认武器攻击触发。
+
+tagDDClass03SkillName06A=地震{^K} 「酋长」^-
+tagDDClass03SkillDescription06A=^b[法术] [范围] [限时]^n^o[近战]^n^n^w一次毁灭性打击引导大地之怒，释放冲击波，粉碎地面并摧毁沿途的一切。^o需要近战武器，每秒造成伤害。
+tagDDClass03SkillName06B=余震{^K} 「酋长」^-
+tagDDClass03SkillDescription06B=^b[修饰]^n^n^w初次冲击后大地仍然震动，猛烈摇晃目标所在区域，并继续撕裂站在上方的敌人。
+tagDDClass03SkillName06C=残虐创伤{^K} 「酋长」^-
+tagDDClass03SkillDescription06C=^b[修饰]^n^n^w大地怒嚎，冲击波成为残酷的自然力量，粉碎敌人骨骼，使其遍体鳞伤。
+
+tagDDClass03SkillName07A=裂地{^K} 「酋长」^-
+tagDDClass03SkillDescription07A=^b[法术] [范围]^n^o[近战]^n^n^w一次强力击地，释放三道波动冲击，撕裂敌人和大地，使敌人流血并遍体受创。^o需要近战武器。
+tagDDClass03SkillName07B=震地者{^K} 「酋长」^-
+tagDDClass03SkillDescription07B=^b[修饰]^n^n^w大地更猛烈地震动，第四道破坏波穿透敌人。
+tagDDClass03SkillName07C=脊椎破碎{^K} 「酋长」^-
+tagDDClass03SkillDescription07C=^b[修饰]^n^n^w波动现在深深穿刺目标，造成大量流血与创伤。
+tagDDClass03SkillName07D=科尔瓦克之焰{^K} 「酋长」^-
+tagDDClass03SkillDescription07D=^b[转化]^n^n^w部分酋长痴迷于科尔瓦克的失落之光，将愤怒转化为神圣而恐怖的火焰。大地曾以蛮力裂开，如今喷发出金色火焰——净化邪恶的洗礼。
+
+tagDDClass03SkillName08A=祖灵之魂{^K} 「酋长」^-
+tagDDClass03SkillDescription08A=^b[随玩家成长宠物] [范围]^n^n^w你的咆哮召唤祖先之魂，它施展多种攻击，击中路径上的所有敌人。^o祖灵之魂随玩家伤害加成成长。
+
 #pet name and skills
-
-tagDDClass03SkillName02A=Juggernaut
-tagDDClass03SkillDescription02A=^b[Passive]^n^o[Two-Handed Melee] [Two-Handed Ranged]^n^n^wThe weight of your weapon becomes an extension of your strength, fueling the strikes and fortifying body against the horrors of Grim Dawn. ^oThis is a two-handed melee and two-handed ranged weapon bonus.
-
-tagDDClass03SkillName03A=Sure Strike
-tagDDClass03SkillDescription03A=^b[Weapon Pool Skill]^n^n^wA precise and powerful swing of your weapon, cutting down enemies in front of you with unerring accuracy. ^oCan activate with all default weapon attacks.
-
-tagDDClass03SkillName04A=Impale
-tagDDClass03SkillDescription04A=^b[Weapon Pool Skill]^n^n^wDrive your weapon deep into your foe, tearing through flesh and bone, leaving them to bleed out in agony. ^oCan activate with all default weapon attacks.
-
-tagDDClass03SkillName06A=Earthquake
-tagDDClass03SkillDescription06A=^b[Spell] [AOE] [Timed]^n^o[Melee]^n^n^wA single, devastating strike channels the fury of the earth itself, unleashing a shockwave that crumbles the ground and shatters all in its path. ^oRequires a melee weapon and deals damage every 1s.
-tagDDClass03SkillName06B=Aftershock
-tagDDClass03SkillDescription06B=^b[Modifier]^n^n^wThe earth refuses to settle after the initial strike, trembling violently beneath the target and continuing to tear apart all who stand upon it.
-tagDDClass03SkillName06C=Savage Wounds
-tagDDClass03SkillDescription06C=^b[Modifier]^n^n^wThe earth itself howls in fury, as the shockwave becomes a brutal force of nature, breaking bones and leaving enemies broken in its wake.
-
-tagDDClass03SkillName07A=Sunder
-tagDDClass03SkillDescription07A=^b[Spell] [AOE]^n^o[Melee]^n^n^wA mighty slam into the ground unleashes three rippling waves of force, tearing through flesh and earth alike, leaving enemies bleeding and broken. ^oRequires a melee weapon.
-tagDDClass03SkillName07B=Earthshaker
-tagDDClass03SkillDescription07B=^b[Modifier]^n^n^wThe ground quakes with even greater fury, as a fourth wave of destruction is unleashed, piercing through enemies.
-tagDDClass03SkillName07C=Spinecruncher
-tagDDClass03SkillDescription07C=^b[Modifier]^n^n^wWaves now heavily impale the targets affected, inflicting heavy bleeding and trauma.
-tagDDClass03SkillName07D=Korvaak's Pyre
-tagDDClass03SkillDescription07D=^b[Transmuter]^n^n^wSome chieftains become obsessed with Korvaak's lost light, which twists their wrath into something holy and terrible. Where once the earth split with brute force, now it erupts in golden fire - a baptism of flame that scours the impure.
-
-tagDDClass03SkillName08A=Ancestral Spirit
-tagDDClass03SkillDescription08A=^b[Player Scaled Pet] [AOE]^n^n^wYour roar calls forth the spirit of an ancestral, which uses a variety of attacks, hitting all enemies in its path. ^oAncestral Spirit scales with player damage bonuses.
-
-#pet name and skills
-tagDDClass03SkillName08B=Ancestral Spirit
+tagDDClass03SkillName08B=祖灵之魂
 tagDDClass03SkillDescription08B=
-tagDDClass03SkillName08C=Blade Fury
+tagDDClass03SkillName08C=刀锋狂怒
 tagDDClass03SkillDescription08C=
-tagDDClass03SkillName08D=Ancestral Maul
+tagDDClass03SkillName08D=祖灵巨槌
 tagDDClass03SkillDescription08D=
 #pet name and skills
 
-tagDDClass03SkillName09A=Seismic Cry
-tagDDClass03SkillDescription09A=^b[Spell] [AOE]^n^n^wYou let out a ground-shaking roar that reverberates through the earth, knocking enemies off their feet and leaving them vulnerable to your crushing blows.
-tagDDClass03SkillName09B=Shock and Awe
-tagDDClass03SkillDescription09B=^b[Modifier]^n^n^wGreatly increases the impact of your warcry, while also giving a chance to reset it's cooldown.
-tagDDClass03SkillName09C=Infernal Cry
-tagDDClass03SkillDescription09C=^b[Transmuter]^n^n^wKorvaak's light was not always pure. Before his fall, he wielded a flame that could sunder the earth itself - a divine wrath that burned through armor, not around it. This technique channels that forgotten fury, turning crushing force into cleansing fire.
+tagDDClass03SkillName09A=震地咆哮{^K} 「酋长」^-
+tagDDClass03SkillDescription09A=^b[法术] [范围]^n^n^w你发出震撼大地的咆哮，使敌人跌倒并暴露在你的重击之下。
+tagDDClass03SkillName09B=震慑威压{^K} 「酋长」^-
+tagDDClass03SkillDescription09B=^b[修饰]^n^n^w大幅增强你的战吼冲击力，并有几率重置其冷却时间。
+tagDDClass03SkillName09C=地狱咆哮{^K} 「酋长」^-
+tagDDClass03SkillDescription09C=^b[转化]^n^n^w科尔瓦克的光并非总是纯净。堕落前，他掌握的烈焰足以劈裂大地——一股穿透护甲的神圣愤怒。此技能引导那遗忘的狂怒，将碾压之力转化为净化火焰。
 
-tagDDClass03SkillName10A=Intimidating Cry
-tagDDClass03SkillDescription10A=^b[Spell] [AOE] [Debuff]^n^n^wYou let out a terrifying roar that strikes fear into the hearts of your enemies, weakening their defences.
-tagDDClass03SkillName10B=Spirit of War
-tagDDClass03SkillDescription10B=^b[Secondary Modifier] [Timed] [Buff]^n^n^wPerforming a warcry gives increased damage and health regen.
+tagDDClass03SkillName10A=震慑咆哮{^K} 「酋长」^-
+tagDDClass03SkillDescription10A=^b[法术] [范围] [减益]^n^n^w你发出令人胆寒的咆哮，恐吓敌人并削弱他们的防御。
+tagDDClass03SkillName10B=战争之魂{^K} 「酋长」^-
+tagDDClass03SkillDescription10B=^b[次级修饰] [持续] [增益]^n^n^w发动战吼可增加伤害并提升生命回复。
 
-tagDDClass03SkillName11A=Enduring Cry
-tagDDClass03SkillDescription11A=^b[Buff] [Timed] [HP Threshold]^n^n^wFor a Chieftain, a single strong word is enough to boost regeneration and protect from incoming damage.
+tagDDClass03SkillName11A=持久咆哮{^K} 「酋长」^-
+tagDDClass03SkillDescription11A=^b[增益] [持续] [生命阈值]^n^n^w对于酋长而言，一个强有力的咆哮足以提升再生并抵御来袭伤害。
 
-tagDDClass03SkillName12A=General's Cry
-tagDDClass03SkillDescription12A=^b[AOE] [Buff] [Timed]^n^n^wYou let out a commanding roar that emboldens your allies, increasing their combat prowess.
-tagDDClass03SkillName12B=Unyielding
-tagDDClass03SkillDescription12B=^b[Modifier]^n^n^wYour commanding roar hardens the resolve of your allies, making them resistant to crowd control effects and bolstering their defenses against incoming attacks.
-tagDDClass03SkillName12C=Soul of Steel
-tagDDClass03SkillDescription12C=^b[Modifier]^n^n^wFills allies with unyielding determination and their weapons strike with the force of a warhammer.
+tagDDClass03SkillName12A=将军之吼{^K} 「酋长」^-
+tagDDClass03SkillDescription12A=^b[范围] [增益] [持续]^n^n^w你发出指挥性的咆哮，鼓舞盟友，提高战斗能力。
+tagDDClass03SkillName12B=坚不可摧{^K} 「酋长」^-
+tagDDClass03SkillDescription12B=^b[修饰]^n^n^w你的指挥咆哮坚定了盟友意志，使他们抗击控场技能并增强防御。
+tagDDClass03SkillName12C=钢铁之魂{^K} 「酋长」^-
+tagDDClass03SkillDescription12C=^b[修饰]^n^n^w灌注盟友以坚毅决心，使他们的武器如战锤般重击敌人。
 
-tagDDClass03SkillName13A=Determination
-tagDDClass03SkillDescription13A=^b[Buff]^n^n^wDraw upon unwavering resolve, bolstering your vitality and recovery through sheer force of spirit.
-tagDDClass03SkillName13B=Ancestral Wrath
-tagDDClass03SkillDescription13B=^b[Secondary Modifier] [AOE] [Debuff]^n^o[When Hit]^n^n^wTo strike the blood of a Chieftain is to awaken the fury of their forebears. Ancestors awaken to guide you through the battle and debuff enemies.
+tagDDClass03SkillName13A=坚定信念{^K} 「酋长」^-
+tagDDClass03SkillDescription13A=^b[增益]^n^n^w凭借坚不可摧的意志，增强自身生命力和恢复速度。
+tagDDClass03SkillName13B=祖灵之怒{^K} 「酋长」^-
+tagDDClass03SkillDescription13B=^b[次级修饰] [范围] [减益]^n^o[被击触发]^n^n^w触碰酋长血脉即唤醒祖先之怒，祖灵降临助战并削弱敌人。
 
-tagDDClass03SkillName14A=Shockwave Totem
-tagDDClass03SkillDescription14A=^b[Player Scaled Pet] [Stationary] [AOE]^n^n^wRaises an ancestral warchief which releases shockwaves to hit enemies if you're nearby. ^oShockwave Totem scales with player damage bonuses.
-tagDDClass03SkillName14B=Fist of War
-tagDDClass03SkillDescription14B=^b[Spell] [AOE]^n^n^wTotem now strikes distant enemies with powerful stone fists, inflicting high physical trauma.
+tagDDClass03SkillName14A=冲击波图腾{^K} 「酋长」^-
+tagDDClass03SkillDescription14A=^b[玩家缩放宠物] [固定] [范围]^n^n^w召唤祖灵酋长释放冲击波攻击附近敌人。 ^o冲击波图腾按玩家伤害加成缩放。
+tagDDClass03SkillName14B=战争之拳{^K} 「酋长」^-
+tagDDClass03SkillDescription14B=^b[法术] [范围]^n^n^w图腾用巨石之拳攻击远处敌人，造成高物理伤害。
 
 #pet name and skills
-tagDDClass03SkillName14C=Shockwave Totem
+tagDDClass03SkillName14C=冲击波图腾
 tagDDClass03SkillDescription14C=
-tagDDClass03SkillName14D=Fist of War
+tagDDClass03SkillName14D=战争之拳
 tagDDClass03SkillDescription14D=
-tagDDClass03SkillName14E=Shockwave
+tagDDClass03SkillName14E=冲击波
 tagDDClass03SkillDescription14E=
-tagDDClass03SkillTracker14A=Current Number of Shockwave Totems Placed
+tagDDClass03SkillTracker14A=当前冲击波图腾数量
 #pet name and skills
 
-tagDDClass03SkillName15A=Urgent Orders
-tagDDClass03SkillDescription15A=^b[Modifier]^n^n^wThe urgency of battle sharpens your commands, empowering your warcries to deal greater damage and allowing you to unleash them more frequently. ^o[Affects Intimidating, Seismic warcries and requires one to unlock]
+tagDDClass03SkillName15A=紧急命令{^K} 「酋长」^-
+tagDDClass03SkillDescription15A=^b[修饰]^n^n^w战场的紧迫感使你的指令更具威力，增强战吼伤害并提高释放频率。 ^o[影响震慑、震地战吼，需要解锁]
 
 
 
@@ -375,166 +375,166 @@ tagDDClass03SkillDescription15A=^b[Modifier]^n^n^wThe urgency of battle sharpens
 
 
 
-#NPC Info
+#NPC信息
 tagReplicaSmithName=Tendo
-tagReplicaSmithTitle=Replica Smith
-tagReplicaSmithEnhancements=Tendo cannot grant equipment bonuses to items.
-tagReplicaSmithEnhancements01=Replica Crafting
-tagReplicaSmithEnhancements02=Tendo can skillfully dismantle and reassemble items to create a replica that serves a new function. 
+tagReplicaSmithTitle=复制工匠
+tagReplicaSmithEnhancements=Tendo 无法为物品赋予装备加成。
+tagReplicaSmithEnhancements01=复制制作
+tagReplicaSmithEnhancements02=Tendo能够熟练拆解和重组物品，创造具新功能的复制品。
 tagReplicaSmithEnhancements03=
-tagReplicaSmithEnhancements04=Tendo cannot grant equipment bonuses.
-tagReplicaSwapper=Magnusson
+tagReplicaSmithEnhancements04=Tendo无法提供装备加成。
+tagReplicaSwapper=马格努森
 
-#REPLICAS
-tagDDReplicaYetiHorn1Name=Replica Yeti Horn
-tagDDReplicaBloodswornScepter1Name=Replica Bloodsworn Scepter
-tagDDReplicaAbaddothSermons1Name=Replica Abaddoth's Sermons
-tagDDReplicaRylokMark1Name=Replica Rylok Mark
-tagDDReplicaZariaPendant1Name=Replica Zaria's Pendant
-tagDDReplicaWardenJudgment1Name=Replica Warden's Judgment
-tagDDReplicaWardenJudgment1SkillName=Warden's Judgment
-tagDDReplicaWardenJudgment1SkillDesc="They call me a monster, an abomination. But now i'm the law here, and only me decides who to live and who to die".
-tagDDReplicaTerrnoxAetherTome1Name=Replica Terrnox's Aether Tome
-tagDDReplicaAscendedCasque1Name=Replica Ascended Casque
-tagDDReplicaUlrapraxSting1Name=Replica Ulraprax's Sting
-tagDDReplicaAscendedDiadem1Name=Replica Ascended Diadem
-tagDDReplicaMarkOfNacrathan1Name=Replica Mark of Nacrathan
-tagDDReplicaStormHerald1Name=Replica Storm Herald
-tagDDReplicaGrobleStoneEffigy1Name=Replica Groble Stone Effigy
-tagDDReplicaBlazeHerald1Name=Replica Blaze Herald
-tagDDReplicaPulsingShard1Name=Replica Pulsing Shard
-tagDDReplicaAscendantCowl1Name=Replica Ascendant Cowl
-tagDDReplicaSlathsarrCrest1Name=Replica Slathsarr's Crest
-tagDDReplicaBloodswornSigil1Name=Replica Bloodsworn Sigil
-tagDDReplicaBloodswornRepeater1Name=Replica Bloodsworn Repeater
-tagDDReplicaBloodswornCodex1Name=Replica Bloodsworn Codex
-tagDDReplicaGrobleSkyEffigy1Name=Replica Groble Sky Effigy
-tagDDReplicaKyzoggSkull1Name=Replica Kyzogg's Skull
-tagDDReplicaAscendantAuthority1Name=Replica Ascendant Authority
-tagDDReplicaAscendantSource1Name=Replica Ascendant Source
-tagDDReplicaCrimsonArcaneScepter1Name=Replica Crimson's Arcane Scepter
-tagDDReplicaChosenMask1Name=Replica Chosen Mask
-tagDDReplicaUgdenbogFlamestrife1Name=Replica Ugdenbog Flamestrife
-tagDDReplicaCompelledWraith1Name=Replica Compelled Wraith
-tagDDReplicaIncendiaryCasque1Name=Replica Incendiary Casque
-tagDDReplicaVilgazorHeart1Name=Replica Vilgazor's Heart
-tagDDReplicaSegariusTaintedBlade1Name=Replica Segarius' Tainted Blade
-tagDDReplicaLagothAkVoidbinding1Name=Replica Lagoth'Ak's Voidbinding
-tagDDReplicaFleshwarpedCodex1Name=Replica Fleshwarped Codex
-tagDDReplicaKymonBadge1Name=Replica Kymon's Badge
-tagDDReplicaRagNadarMaw1Name=Replica Rag'Nadar's Maw
-tagDDReplicaBloodlordBlade1Name=Replica Bloodlord's Blade
-tagDDReplicaObsidianDefender1Name=Replica Obsidian Defender
-tagDDReplicaPacklaSkins1Name=Replica Packla's Skins
-tagDDReplicaGrundleplithTail1Name=Replica Grundleplith's Tail
-tagDDReplicaGazeOfUngoliax1Name=Replica Gaze of Ungoliax
-tagDDReplicaNamadeaEye1Name=Replica Namadea's Eye
-tagDDReplicaUgdenbogSparkthrower1Name=Replica Ugdenbog Sparkthrower
-tagDDReplicaRutnickBlaster1Name=Replica Rutnick's Blaster
-tagDDReplicaLuciusBladeArm1Name=Replica Lucius Blade-Arm
-tagDDReplicaDeathWatcherPendant1Name=Replica Death-Watcher Pendant
-tagDDReplicaSpectralArbalest1Name=Replica Spectral Arbalest
-tagDDReplicaKorvanStormHalberd1Name=Replica Korvan Storm Halberd
-tagDDReplicaMartinCrest1Name=Replica Martin's Crest
-tagDDReplicaBarthollemGavel1Name=Replica Barthollem's Gavel
-tagDDReplicaColossalDefender1Name=Replica Colossal Defender
-tagDDReplicaBalegorCrusher1Name=Replica Balegor's Crusher
-tagDDReplicaBalegorCrusher1SkillName=Swamp King's Fumes
-tagDDReplicaBalegorCrusher1SkillDesc=Attacks spontaneously release poisonous fumes and vapors that eat enemy eyes and noses. Warning, mask is not included!
-tagDDReplicaKorvanReapingHalberd1Name=Replica Korvan Reaping Halberd
-tagDDReplicaRavnaClaw1Name=Replica Ravna's Claw
-tagDDReplicaKorvanGaze1Name=Replica Korvan Gaze
-tagDDReplicaRonapraxSting1Name=Replica Ronaprax's Sting
-tagDDReplicaBasiliskCrest1Name=Replica Basilisk Crest
-tagDDReplicaUgdenbogVenomLauncher1Name=Replica Ugdenbog Venom Launcher
-tagDDReplicaGrobleToxicEffigy1Name=Replica Groble Toxic Effigy
-tagDDReplicaSpectralWarmaul1Name=Replica Spectral Warmaul
-tagDDReplicaGargoyleGaze1Name=Replica Gargoyle Gaze
-tagDDReplicaGulgazorHeart1Name=Replica Gulgazor's Heart
-tagDDReplicaMarkOfPlagius1Name=Replica Mark of Plagius
-tagDDReplicaSpectralBattleAxe1Name=Replica Spectral Battle Axe
-tagDDReplicaUgdenbogBoltthrower1Name=Replica Ugdenbog Boltthrower
-tagDDReplicaRagratharHorn1Name=Replica Ragrathar's Horn
-tagDDReplicaChillbloodCarcass1Name=Replica Chillblood's Carcass
-tagDDReplicaNamadeaHorns1Name=Replica Namadea's Horns
-tagDDReplicaEllenaNecklace1Name=Replica Ellena's Necklace
-tagDDReplicaGutwormMark1Name=Replica Gutworm's Mark
-tagDDReplicaUgdenbogChillstrife1Name=Replica Ugdenbog Chillstrife
-tagDDReplicaAlkamosWarsword1Name=Replica Alkamos' Warsword
-tagDDReplicaWradlithBulwark1Name=Replica Wradlith's Bulwark
-tagDDReplicaGalesliceMark1Name=Replica Galeslice's Mark
-tagDDReplicaScorpiusPummeler1Name=Replica Scorpius Pummeler
-tagDDReplicaGrobleVileEffigy1Name=Replica Groble Vile Effigy
-tagDDReplicaUgdenbogBilelauncher1Name=Replica Ugdenbog Bilelauncher
-tagDDReplicaMagiVisage1Name=Replica Magi Visage
-tagDDReplicaPutridNecklace1Name=Replica Putrid Necklace
-tagDDReplicaHalionCrest1Name=Replica Halion's Crest
-tagDDReplicaUgdenbogHowler1Name=Replica Ugdenbog Howler
-tagDDReplicaViperHemorrhager1Name=Replica Viper Hemorrhager
-tagDDReplicaVampiricBonewall1Name=Replica Vampiric Bonewall
-tagDDReplicaGargoyleVisage1Name=Replica Gargoyle Visage
-tagDDReplicaBolvarPendant1Name=Replica Bolvar's Pendant
-tagDDReplicaLagothAkBloodbinding1Name=Replica Lagoth'Ak's Bloodbinding
-tagDDReplicaBonespike1Name=Replica Bonespike
-tagDDReplicaGrobleSandEffigy1Name=Replica Groble Sand Effigy
-tagDDReplicaSpectralWarShield1Name=Replica Spectral War Shield
-tagDDReplicaPacklaVisage1Name=Replica Packla's Visage
-tagDDReplicaBloodfeastMark1Name=Replica Bloodfeast's Mark
-tagDDReplicaNightHerald1Name=Replica Night Herald
-tagDDReplicaRolderathisTome1Name=Replica Rolderathis' Tome
-tagDDReplicaWendigoEye1Name=Replica Wendigo Eye
-tagDDReplicaSpectralBludgeon1Name=Replica Spectral Bludgeon
-tagDDReplicaBoundWraith1Name=Replica Bound Wraith
-tagDDReplicaDeathWhisperHood1Name=Replica Death's Whisper Hood
-tagDDReplicaIlgorrEternalVigil1Name=Replica Ilgorr's Eternal Vigil
-tagDDReplicaScarabCarapace1Name=Replica Scarab Carapace
-tagDDReplicaBargollHeart1Name=Replica Bargoll's Heart
-tagDDReplicaPusquillTail1Name=Replica Pusquill's Tail
-tagDDReplicaBasiliskFang1Name=Replica Basilisk Fang
-tagDDReplicaKorvanEldritchHalberd1Name=Replica Korvan Eldritch Halberd
-tagDDReplicaRiftScourgeSlicer1Name=Replica Rift Scourge Slicer
-tagDDReplicaBonescythe1Name=Replica Bonescythe
-tagDDReplicaScarabShell1Name=Replica Scarab Shell
-tagDDReplicaSpectralLongsword1Name=Replica Spectral Longsword
-tagDDReplicaBarrogBloodyArm1Name=Replica Barrog's Bloody Arm
-tagDDReplicaViperSandspitter1Name=Replica Viper Sandspitter
-tagDDReplicaAetherwarpedCleaver1Name=Replica Aetherwarped Cleaver
-tagDDReplicaDermapteranSlicer1Name=Replica Dermapteran Slicer
-tagDDReplicaAlkamosScythe1Name=Replica Alkamos' Scythe
-tagDDReplicaMiltonCasque1Name=Replica Milton's Casque
-tagDDReplicaVoldrakCrusher1Name=Replica Voldrak's Crusher
-tagDDReplicaBargollRoot1Name=Replica Bargoll's Root
-tagDDReplicaRylokCrest1Name=Replica Rylok's Crest
-tagDDReplicaShamblerHeart1Name=Replica Shambler's Heart
-tagDDReplicaWardenFortress1Name=Replica Warden's Fortress
-tagDDReplicaBloodbriarThorn1Name=Replica Bloodbriar's Thorn
-tagDDReplicaMessengerRepeater1Name=Replica Messenger's Repeater
-tagDDReplicaMurdererCowl1Name=Replica Murderer's Cowl
-tagDDReplicaBoneslicer1Name=Replica Boneslicer
-tagDDReplicaPitMasterAxe1Name=Replica Pit Master's Axe
-tagDDReplicaTrollBonecrusher1Name=Replica Troll Bonecrusher
-tagDDReplicaFleshwarpedCasque1Name=Replica Fleshwarped Casque
-tagDDReplicaMutantBludgeon1Name=Replica Mutant Bludgeon
-tagDDReplicaBalthazarCrest1Name=Replica Balthazar's Crest
-tagDDReplicaStewardHalberd1Name=Replica Steward's Halberd
-tagDDReplicaUgdenbogArcaneweaver1Name=Replica Ugdenbog Arcaneweaver
-tagDDReplicaFleshwarpedIncinerator1Name=Replica Fleshwarped Incinerator
-tagDDReplicaSkybreakerCirclet1Name=Replica Skybreaker Circlet
-tagDDReplicaAscendantHood1Name=Replica Ascendant Hood
-tagDDReplicaMoltenclawSlicer1Name=Replica Moltenclaw Slicer
-tagDDReplicaFleshwarpedDefender1Name=Replica Fleshwarped Defender
-tagDDReplicaBonebleachHalberd1Name=Replica Bonebleach Halberd
-tagDDReplicaServitorSlicer1Name=Replica Servitor's Slicer
-tagDDReplicaKalisKaShield1Name=Replica Kalis'Ka's Harvest
-tagDDReplicaSunheraldClaymore1Name=Replica Sunherald's Claymore
-tagDDReplicaKilrianSkullbreaker1Name=Replica Kilrian's Skullbreaker
-tagDDReplicaBaneGargothShard1Name=Replica Bane'Gargoth's Shard
+#复制品
+tagDDReplicaYetiHorn1Name={^Q}复制品 {^L}雪人号角
+tagDDReplicaBloodswornScepter1Name={^Q}复制品 {^L}血誓权杖
+tagDDReplicaAbaddothSermons1Name={^Q}复制品 {^L}阿巴多斯的讲道
+tagDDReplicaRylokMark1Name={^Q}复制品 {^L}雷洛克印记
+tagDDReplicaZariaPendant1Name={^Q}复制品 {^L}扎莉亚的吊坠
+tagDDReplicaWardenJudgment1Name={^Q}复制品 {^L}守望者的裁决
+tagDDReplicaWardenJudgment1SkillName=守望者的裁决
+tagDDReplicaWardenJudgment1SkillDesc="他们称我为怪物，称我为畸变。但现在我就是这里的法律，只有我决定谁生谁死。"
+tagDDReplicaTerrnoxAetherTome1Name={^Q}复制品 {^L}特尔诺克的虚灵之书
+tagDDReplicaAscendedCasque1Name={^Q}复制品 {^L}升华头盔
+tagDDReplicaUlrapraxSting1Name={^Q}复制品 {^L}乌尔拉普拉克斯之刺
+tagDDReplicaAscendedDiadem1Name={^Q}复制品 {^L}升华王冠
+tagDDReplicaMarkOfNacrathan1Name={^Q}复制品 {^L}纳克拉森印记
+tagDDReplicaStormHerald1Name={^Q}复制品 {^L}风暴先驱
+tagDDReplicaGrobleStoneEffigy1Name={^Q}复制品 {^L}格罗布石像
+tagDDReplicaBlazeHerald1Name={^Q}复制品 {^L}烈焰先驱
+tagDDReplicaPulsingShard1Name={^Q}复制品 {^L}脉动碎片
+tagDDReplicaAscendantCowl1Name={^Q}复制品 {^L}升华头罩
+tagDDReplicaSlathsarrCrest1Name={^Q}复制品 {^L}斯拉萨尔纹章
+tagDDReplicaBloodswornSigil1Name={^Q}复制品 {^L}血誓徽记
+tagDDReplicaBloodswornRepeater1Name={^Q}复制品 {^L}血誓连发器
+tagDDReplicaBloodswornCodex1Name={^Q}复制品 {^L}血誓法典
+tagDDReplicaGrobleSkyEffigy1Name={^Q}复制品 {^L}格罗布天空像
+tagDDReplicaKyzoggSkull1Name={^Q}复制品 {^L}凯佐格骷髅
+tagDDReplicaAscendantAuthority1Name={^Q}复制品 {^L}升华权威
+tagDDReplicaAscendantSource1Name={^Q}复制品 {^L}升华源泉
+tagDDReplicaCrimsonArcaneScepter1Name={^Q}复制品 {^L}绯红奥术权杖
+tagDDReplicaChosenMask1Name={^Q}复制品 {^L}天选面具
+tagDDReplicaUgdenbogFlamestrife1Name={^Q}复制品 {^L}乌登沼泽火焰之争
+tagDDReplicaCompelledWraith1Name={^Q}复制品 {^L}受控幽魂
+tagDDReplicaIncendiaryCasque1Name={^Q}复制品 {^L}燃烧头盔
+tagDDReplicaVilgazorHeart1Name={^Q}复制品 {^L}维尔加佐心脏
+tagDDReplicaSegariusTaintedBlade1Name={^Q}复制品 {^L}塞加瑞斯污秽之刃
+tagDDReplicaLagothAkVoidbinding1Name={^Q}复制品 {^L}拉戈斯阿克虚空束缚
+tagDDReplicaFleshwarpedCodex1Name={^Q}复制品 {^L}血肉扭曲法典
+tagDDReplicaKymonBadge1Name={^Q}复制品 {^L}凯蒙徽章
+tagDDReplicaRagNadarMaw1Name={^Q}复制品 {^L}拉格纳达咽喉
+tagDDReplicaBloodlordBlade1Name={^Q}复制品 {^L}血王之刃
+tagDDReplicaObsidianDefender1Name={^Q}复制品 {^L}黑曜守卫
+tagDDReplicaPacklaSkins1Name={^Q}复制品 {^L}帕克拉之皮
+tagDDReplicaGrundleplithTail1Name={^Q}复制品 {^L}格伦德普里斯尾巴
+tagDDReplicaGazeOfUngoliax1Name={^Q}复制品 {^L}昂格利亚目光
+tagDDReplicaNamadeaEye1Name={^Q}复制品 {^L}纳玛迪之眼
+tagDDReplicaUgdenbogSparkthrower1Name={^Q}复制品 {^L}乌登沼泽火花投射器
+tagDDReplicaRutnickBlaster1Name={^Q}复制品 {^L}鲁特尼克爆破器
+tagDDReplicaLuciusBladeArm1Name={^Q}复制品 {^L}卢修斯刀臂
+tagDDReplicaDeathWatcherPendant1Name={^Q}复制品 {^L}死者守望吊坠
+tagDDReplicaSpectralArbalest1Name={^Q}复制品 {^L}幽灵弩
+tagDDReplicaKorvanStormHalberd1Name={^Q}复制品 {^L}科尔凡风暴戟
+tagDDReplicaMartinCrest1Name={^Q}复制品 {^L}马丁纹章
+tagDDReplicaBarthollemGavel1Name={^Q}复制品 {^L}巴索勒姆法槌
+tagDDReplicaColossalDefender1Name={^Q}复制品 {^L}巨型守护者
+tagDDReplicaBalegorCrusher1Name={^Q}复制品 {^L}巴雷戈尔破碎者
+tagDDReplicaBalegorCrusher1SkillName=沼泽之王的毒雾
+tagDDReplicaBalegorCrusher1SkillDesc=攻击时自发释放毒气和蒸汽，腐蚀敌人的眼睛和鼻子。注意：面具不包括！
+tagDDReplicaKorvanReapingHalberd1Name={^Q}复制品 {^L}科尔凡收割戟
+tagDDReplicaRavnaClaw1Name={^Q}复制品 {^L}拉夫纳之爪
+tagDDReplicaKorvanGaze1Name={^Q}复制品 {^L}科尔凡之瞳
+tagDDReplicaRonapraxSting1Name={^Q}复制品 {^L}罗纳普拉克斯之刺
+tagDDReplicaBasiliskCrest1Name={^Q}复制品 {^L}蜥蜴王纹章
+tagDDReplicaUgdenbogVenomLauncher1Name={^Q}复制品 {^L}乌格登沼泽毒液发射器
+tagDDReplicaGrobleToxicEffigy1Name={^Q}复制品 {^L}格罗布毒性雕像
+tagDDReplicaSpectralWarmaul1Name={^Q}复制品 {^L}幽灵战槌
+tagDDReplicaGargoyleGaze1Name={^Q}复制品 {^L}石像鬼之瞳
+tagDDReplicaGulgazorHeart1Name={^Q}复制品 {^L}古尔加佐心脏
+tagDDReplicaMarkOfPlagius1Name={^Q}复制品 {^L}普拉吉乌斯印记
+tagDDReplicaSpectralBattleAxe1Name={^Q}复制品 {^L}幽灵战斧
+tagDDReplicaUgdenbogBoltthrower1Name={^Q}复制品 {^L}乌格登沼泽投矢器
+tagDDReplicaRagratharHorn1Name={^Q}复制品 {^L}拉格拉萨之角
+tagDDReplicaChillbloodCarcass1Name={^Q}复制品 {^L}寒血尸体
+tagDDReplicaNamadeaHorns1Name={^Q}复制品 {^L}纳玛迪之角
+tagDDReplicaEllenaNecklace1Name={^Q}复制品 {^L}埃莱娜项链
+tagDDReplicaGutwormMark1Name={^Q}复制品 {^L}肠虫印记
+tagDDReplicaUgdenbogChillstrife1Name={^Q}复制品 {^L}乌格登沼泽寒争
+tagDDReplicaAlkamosWarsword1Name={^Q}复制品 {^L}阿尔卡莫斯战争之剑
+tagDDReplicaWradlithBulwark1Name={^Q}复制品 {^L}拉德利斯壁垒
+tagDDReplicaGalesliceMark1Name={^Q}复制品 {^L}盖尔斯莱斯印记
+tagDDReplicaScorpiusPummeler1Name={^Q}复制品 {^L}斯科皮乌斯打击者
+tagDDReplicaGrobleVileEffigy1Name={^Q}复制品 {^L}格罗布邪恶雕像
+tagDDReplicaUgdenbogBilelauncher1Name={^Q}复制品 {^L}乌格登沼泽胆汁发射器
+tagDDReplicaMagiVisage1Name={^Q}复制品 {^L}魔法师面容
+tagDDReplicaPutridNecklace1Name={^Q}复制品 {^L}腐臭项链
+tagDDReplicaHalionCrest1Name={^Q}复制品 {^L}哈利昂纹章
+tagDDReplicaUgdenbogHowler1Name={^Q}复制品 {^L}乌格登沼泽嚎叫者
+tagDDReplicaViperHemorrhager1Name={^Q}复制品 {^L}毒蛇出血器
+tagDDReplicaVampiricBonewall1Name={^Q}复制品 {^L}吸血骨墙
+tagDDReplicaGargoyleVisage1Name={^Q}复制品 {^L}石像鬼面容
+tagDDReplicaBolvarPendant1Name={^Q}复制品 {^L}博尔瓦吊坠
+tagDDReplicaLagothAkBloodbinding1Name={^Q}复制品 {^L}拉戈斯阿克血缚
+tagDDReplicaBonespike1Name={^Q}复制品 {^L}骨刺
+tagDDReplicaGrobleSandEffigy1Name={^Q}复制品 {^L}格罗布沙雕像
+tagDDReplicaSpectralWarShield1Name={^Q}复制品 {^L}幽灵战盾
+tagDDReplicaPacklaVisage1Name={^Q}复制品 {^L}帕克拉面容
+tagDDReplicaBloodfeastMark1Name={^Q}复制品 {^L}血宴印记
+tagDDReplicaNightHerald1Name={^Q}复制品 {^L}夜之先驱
+tagDDReplicaRolderathisTome1Name={^Q}复制品 {^L}罗尔德拉希之书
+tagDDReplicaWendigoEye1Name={^Q}复制品 {^L}温迪戈之眼
+tagDDReplicaSpectralBludgeon1Name={^Q}复制品 {^L}幽灵棍棒
+tagDDReplicaBoundWraith1Name={^Q}复制品 {^L}束缚幽灵
+tagDDReplicaDeathWhisperHood1Name={^Q}复制品 {^L}死亡低语兜帽
+tagDDReplicaIlgorrEternalVigil1Name={^Q}复制品 {^L}伊尔戈尔永恒守望
+tagDDReplicaScarabCarapace1Name={^Q}复制品 {^L}圣甲虫外壳
+tagDDReplicaBargollHeart1Name={^Q}复制品 {^L}巴格尔之心
+tagDDReplicaPusquillTail1Name={^Q}复制品 {^L}普斯奎尔尾巴
+tagDDReplicaBasiliskFang1Name={^Q}复制品 {^L}蛇怪獠牙
+tagDDReplicaKorvanEldritchHalberd1Name={^Q}复制品 {^L}科尔文奥术戟
+tagDDReplicaRiftScourgeSlicer1Name={^Q}复制品 {^L}裂隙鞭屠刀
+tagDDReplicaBonescythe1Name={^Q}复制品 {^L}骨镰
+tagDDReplicaScarabShell1Name={^Q}复制品 {^L}圣甲虫外壳
+tagDDReplicaSpectralLongsword1Name={^Q}复制品 {^L}幽影长剑
+tagDDReplicaBarrogBloodyArm1Name={^Q}复制品 {^L}巴罗格血臂
+tagDDReplicaViperSandspitter1Name={^Q}复制品 {^L}蝰蛇喷沙器
+tagDDReplicaAetherwarpedCleaver1Name={^Q}复制品 {^L}以太扭曲切肉刀
+tagDDReplicaDermapteranSlicer1Name={^Q}复制品 {^L}双尾蜱切割刀
+tagDDReplicaAlkamosScythe1Name={^Q}复制品 {^L}阿尔卡莫斯镰刀
+tagDDReplicaMiltonCasque1Name={^Q}复制品 {^L}米尔顿头盔
+tagDDReplicaVoldrakCrusher1Name={^Q}复制品 {^L}沃尔德拉克破碎锤
+tagDDReplicaBargollRoot1Name={^Q}复制品 {^L}巴格尔之根
+tagDDReplicaRylokCrest1Name={^Q}复制品 {^L}瑞洛克冠饰
+tagDDReplicaShamblerHeart1Name={^Q}复制品 {^L}蹒跚者之心
+tagDDReplicaWardenFortress1Name={^Q}复制品 {^L}守望者要塞
+tagDDReplicaBloodbriarThorn1Name={^Q}复制品 {^L}血蔷薇之刺
+tagDDReplicaMessengerRepeater1Name={^Q}复制品 {^L}信使连发器
+tagDDReplicaMurdererCowl1Name={^Q}复制品 {^L}凶手兜帽
+tagDDReplicaBoneslicer1Name={^Q}复制品 {^L}骨切割刀
+tagDDReplicaPitMasterAxe1Name={^Q}复制品 {^L}深渊领主战斧
+tagDDReplicaTrollBonecrusher1Name={^Q}复制品 {^L}巨魔碎骨锤
+tagDDReplicaFleshwarpedCasque1Name={^Q}复制品 {^L}扭曲肉体头盔
+tagDDReplicaMutantBludgeon1Name={^Q}复制品 {^L}变异铁棒
+tagDDReplicaBalthazarCrest1Name={^Q}复制品 {^L}巴尔萨泽尔冠饰
+tagDDReplicaStewardHalberd1Name={^Q}复制品 {^L}管家戟
+tagDDReplicaUgdenbogArcaneweaver1Name={^Q}复制品 {^L}乌格登沼泽奥术织者
+tagDDReplicaFleshwarpedIncinerator1Name={^Q}复制品 {^L}扭曲肉体焚烧器
+tagDDReplicaSkybreakerCirclet1Name={^Q}复制品 {^L}破天者头环
+tagDDReplicaAscendantHood1Name={^Q}复制品 {^L}升天者兜帽
+tagDDReplicaMoltenclawSlicer1Name={^Q}复制品 {^L}熔爪切割刀
+tagDDReplicaFleshwarpedDefender1Name={^Q}复制品 {^L}扭曲肉体防御者
+tagDDReplicaBonebleachHalberd1Name={^Q}复制品 {^L}漂骨戟
+tagDDReplicaServitorSlicer1Name={^Q}复制品 {^L}仆从切割刀
+tagDDReplicaKalisKaShield1Name={^Q}复制品 {^L}卡利斯卡战刃
+tagDDReplicaSunheraldClaymore1Name={^Q}复制品 {^L}太阳使者巨剑
+tagDDReplicaKilrianSkullbreaker1Name={^Q}复制品 {^L}基利安碎颅锤
+tagDDReplicaBaneGargothShard1Name={^Q}复制品 {^L}灾祸加尔戈碎片
 
 
 
-tagDDReplicaGargoyleWaistguard1Name=Replica Gargoyle Girdle
-tagDDReplicaUgdenbogWaistguard1Name=Replica Ugdenbog Waistguard
-tagDDReplicaChainsOfOrdas1Name=Replica Chains of Ordas
+tagDDReplicaGargoyleWaistguard1Name={^Q}复制品 {^L}石像鬼腰甲
+tagDDReplicaUgdenbogWaistguard1Name={^Q}复制品 {^L}乌格登沼泽腰甲
+tagDDReplicaChainsOfOrdas1Name={^Q}复制品 {^L}奥尔达斯锁链
 
 
 
@@ -546,417 +546,417 @@ tagDDReplicaChainsOfOrdas1Name=Replica Chains of Ordas
 
 
 #ITEMS
-tagDDItemD001Waist01Name=Belt of the Survivor
-tagDDItemD001Waist01Desc="Years of training did not pass by, you have learned how to survive these harsh lands."
+tagDDItemD001Waist01Name={^I}生存者之腰带
+tagDDItemD001Waist01Desc="多年的训练没有白费，你已学会在这片荒芜之地生存。"
 
-tagDDD001Dagger01Name=Cold Iron Point
-tagDDD001Dagger01Desc="There is nothing more brutal than a simple blade wielded with rage."
-tagDDD001Dagger01SkillName=Critical Overcharge
-tagDDD001Dagger01SkillDesc=Temporary boosts crit damage, allowing you to overcrit.
+tagDDD001Dagger01Name={^I}寒铁短剑
+tagDDD001Dagger01Desc="没有什么比愤怒之下的利刃更为残酷。"
+tagDDD001Dagger01SkillName=暴击过载
+tagDDD001Dagger01SkillDesc=临时提升暴击伤害，使你能够超额暴击。
 
-tagDDD001Blunt2h01Name=Prostagma
-tagDDD001Blunt2h01Desc="An ancient weapon with immeasureable power. How can anyone even able to wield it?"
-tagDDD001Blunt2hSkillName=Overburdened
-tagDDD001Blunt2hSkillDesc=This massive weapon weight makes you clumsy and slower overall. ^oThis is a passive bonus.
+tagDDD001Blunt2h01Name={^I}普罗斯塔格玛
+tagDDD001Blunt2h01Desc="一件古老且威力无比的武器，谁能驾驭它？"
+tagDDD001Blunt2hSkillName=过重负担
+tagDDD001Blunt2hSkillDesc=这件巨型武器使你笨拙且行动迟缓。 ^o这是一个被动加成。
 
-tagDDD001Axe2h01Name=Kingmaker
-tagDDD001Axe2h01Desc="A King and his people are linked together like a soul and a beating heart. Both can be severed by a same edge, then forged anew."
-tagDDD001Axe2hSkillName=King's Presence
-tagDDD001Axe2hSkillDesc="My people, the time has come, your support is making us as one."
+tagDDD001Axe2h01Name={^I}王之造物
+tagDDD001Axe2h01Desc="国王与子民如同灵魂与跳动的心脏相连，一斧可斩断两者，再锻造新的未来。"
+tagDDD001Axe2hSkillName=王者气息
+tagDDD001Axe2hSkillDesc="我的子民，时机已到，你们的支持使我们成为一体。"
 
-tagDDD001Ring01Name=The Infinity Ring
-tagDDD001Ring01Desc="The end is written into the beginning."
-tagDDD001Ring01SkillName=Cosmic Curse
-tagDDD001Ring01SkillDesc="Unending nightmares are haunting your enemy."
+tagDDD001Ring01Name={^I}无限之戒
+tagDDD001Ring01Desc="终结自始已写入命运之中。"
+tagDDD001Ring01SkillName=宇宙诅咒
+tagDDD001Ring01SkillDesc="无尽噩梦不断缠绕你的敌人。"
 
-tagDDD001Necklace01Name=Heart of Targo
-tagDDD001Necklace01Desc="Filled with stoicism and unmatched physical conditioning."
+tagDDD001Necklace01Name={^I}塔尔戈之心
+tagDDD001Necklace01Desc="充满坚忍与无与伦比的体魄训练。"
 
-tagDDD002Necklace01Name=Blessing of Ishtak
-tagDDD002Necklace01Desc="The breath of life is yours to give."
-tagDDD002Necklace01SkillName=Life Recoup
-tagDDD002Necklace01SkillDesc=Soothing waves of Ishtak are mending your wounds.
+tagDDD002Necklace01Name={^I}伊什塔克的祝福
+tagDDD002Necklace01Desc="生命之息在你掌中。"
+tagDDD002Necklace01SkillName=生命回复
+tagDDD002Necklace01SkillDesc=伊什塔克的安抚之波治愈你的伤口。
 
-tagDDD002Ring01Name=Shaper's Dream
-tagDDD002Ring01Desc="The first step in a dream takes you further than a thousand in this world."
+tagDDD002Ring01Name={^I}造物师之梦
+tagDDD002Ring01Desc="梦想中的第一步，比现实中千步更远。"
 
-tagDDD001Shield01Name=Font of Thunder
-tagDDD001Shield01Desc="The lightning fears not the flame."
-tagDDD001Shield01SkillName=Shock Bash
-tagDDD001Shield01SkillDesc=Smash the maggots with an ultimate storm power.
+tagDDD001Shield01Name={^I}雷霆之源
+tagDDD001Shield01Desc="闪电无惧烈焰。"
+tagDDD001Shield01SkillName=震击猛击
+tagDDD001Shield01SkillDesc=用终极风暴之力粉碎蛆虫。
 
-tagDDD001Focus01Name=Gate to Solael
-tagDDD001Focus01Desc="The legend says there's an item which takes you right into Eldritch realm, where Solael resides, among other Witch Gods."
-tagDDD001Focus01SkillName=Words of Solael
-tagDDD001Focus01SkillDesc="Some words hit harder than a sword. Let the non-believers hear them, my fellow zealots."
+tagDDD001Focus01Name={^I}索莱尔之门
+tagDDD001Focus01Desc="传说中有一件物品，可直接通往索莱尔所在的神秘领域。"
+tagDDD001Focus01SkillName=索莱尔之言
+tagDDD001Focus01SkillDesc="有些言语比剑更为锐利，让非信徒听到它们，我的狂热同伴们。"
 
 
 
 #ITEM SETS
-tagDDSetRandomCraft01Name=Legendary DD Set Parts
-tagDDSetRandomCraft01Desc=The blacksmith combines the raw arcane power within these objects to create a 94 level Legendary item. Can only be used on 94+ level characters.
+tagDDSetRandomCraft01Name=传奇DD套装部件
+tagDDSetRandomCraft01Desc=铁匠将这些物品中的原始奥术能量结合，制造出94级传奇装备。仅可用于94级及以上角色。
 
-tagDDSetD001Dagger01Name=Amygdala's Veilslicer
-tagDDSetD001Dagger01SkillName=Etherial Wisp
-tagDDSetD001Dagger01SkillDesc=Summons rotating wisp with every hit, up to 5, dealing pure aether damage.
-tagDDSetD001Shoulders01Name=Amygdala's Mantle
-tagDDSetD001Torso01Name=Amygdala's Robe
-tagDDSetD001Head01Name=Amygdala's Visor
-tagDDSetD001Necklace01Name=Amygdala's Pendant
-tagDDSetD001Full01Name=Amygdala's Legacy
-tagDDSetD001Full01Desc=Vestments of the legendary illusionist Amygdala, which famous technique involved dance and aether, tied together for eternity.
-tagDDSetD001FullSkill01Name=Prismatic Bastion
-tagDDSetD001FullSkill01Desc=Protects the wearer from incoming harm for a some time.
+tagDDSetD001Dagger01Name=(S) {^I}艾米格达拉切雾匕首
+tagDDSetD001Dagger01SkillName=以太虚灵
+tagDDSetD001Dagger01SkillDesc=每次攻击召唤旋转的虚灵，最多可召唤5个，对敌人造成纯虚化伤害。
+tagDDSetD001Shoulders01Name=(S) {^I}艾米格达拉护肩
+tagDDSetD001Torso01Name=(S) {^I}艾米格达拉长袍
+tagDDSetD001Head01Name=(S) {^I}艾米格达拉面罩
+tagDDSetD001Necklace01Name=(S) {^I}艾米格达拉堕落项链
+tagDDSetD001Full01Name=艾米格达拉遗产
+tagDDSetD001Full01Desc=传说幻术师艾米格达拉的服饰，其著名技艺将舞蹈与以太之力永恒融合。
+tagDDSetD001FullSkill01Name=棱彩堡垒
+tagDDSetD001FullSkill01Desc=在一段时间内保护穿戴者免受伤害。
 
-tagDDSetD002Axe01Name=Bonelord's Scythe
-tagDDSetD002Shield01Name=Bonelord's Defender
-tagDDSetD002Shoulders01Name=Bonelord's Shoulderguards
-tagDDsetD002Torso01Name=Bonelord's Shroud
-tagDDSetD002Head01Name=Bonelord's Gaze
-tagDDSetD002Necklace01Name=Bonelord's Heart
-tagDDSetD002Full01Name=Bonelord's Vestments
-tagDDSetD002Full01Desc=Vestments of the first Lich Zandarr, who betrayed Uroboruuk and formed his own circle of loyal alchemists and bone-speakers to study healing and soulbinding techniques.
-tagDDSetD002FullSkill01Name=Circle of Protection
-tagDDSetD002FullSkill01Desc=Creates a protective sigil on the ground, which also deals damage to enemies who dare to step on it. ^oCircle of Protection scale with player damage bonuses.
-tagDDSetD002FullSkill01PetName=Circle of Protection
-tagDDSetD002FullSkill01PetSkill01Name=Defensive Circle
-tagDDSetD002FullSkill01PetSkill02Name=Offensive Circle
+tagDDSetD002Axe01Name=(S) {^I}骨王镰刀
+tagDDSetD002Shield01Name=(S) {^I}骨王之盾
+tagDDSetD002Shoulders01Name=(S) {^I}骨王护肩
+tagDDsetD002Torso01Name=(S) {^I}骨王长袍
+tagDDSetD002Head01Name=(S) {^I}骨王目光
+tagDDSetD002Necklace01Name=(S) {^I}骨王之心
+tagDDSetD002Full01Name=骨王的衣饰
+tagDDSetD002Full01Desc=首位巫妖赞达尔的战袍，他背叛了乌洛波鲁克，组建了自己的忠诚炼金术士与骨语者团体，专研治疗与灵魂绑定的技艺。
+tagDDSetD002FullSkill01Name=防护法阵
+tagDDSetD002FullSkill01Desc=在地面上创造一个保护符文，对敢于踏入的敌人造成伤害。 ^o防护法阵随玩家伤害加成而增强。
+tagDDSetD002FullSkill01PetName=防护法阵
+tagDDSetD002FullSkill01PetSkill01Name=防御法阵
+tagDDSetD002FullSkill01PetSkill02Name=攻击法阵
 
-tagDDSetD003Medal01Name=Hexer's Sacrifice
-tagDDSetD003Necklace01Name=Hexer's Malediction
-tagDDSetD003Ring01Name=Hexer's Decay
-tagDDSetD003Ring02Name=Hexer's Despair
-tagDDSetD003Full01Name=Hexer's Gems
-tagDDSetD003Full01Desc=Found on a dead occultist in Loghorrean tomb, they might be useful for something, but merely touching the gems trigger unnatural whispers around you.
-tagDDSetD003FullSkill01Name=Hexblast
-tagDDSetD003FullSkill01Desc=Explode the guts of dead enemy to damage everything around it and leech some life back.
+tagDDSetD003Medal01Name=(S) {^I}巫术师的牺牲
+tagDDSetD003Necklace01Name=(S) {^I}巫术师的诅咒
+tagDDSetD003Ring01Name=(S) {^I}巫术师的腐化
+tagDDSetD003Ring02Name=(S) {^I}巫术师的绝望
+tagDDSetD003Full01Name=巫术师宝石
+tagDDSetD003Full01Desc=在洛格霍瑞安墓地一名死去的神秘学家身上发现，可能有用，但触碰宝石即触发不自然的低语。
+tagDDSetD003FullSkill01Name=巫术爆发
+tagDDSetD003FullSkill01Desc=引爆周围尸体内脏，对周围造成伤害并吸取生命。
 
-tagDDSetD004Head01Name=Black Knight Casque
-tagDDSetD004Shoulders01Name=Black Knight Shoulders
-tagDDSetD004Torso01Name=Black Knight Armor
-tagDDSetD004Hands01Name=Black Knight Gloves
-tagDDSetD004Full01Name=The Black Knight
-tagDDSetD004Full01Desc=Armor of the loyal Yugol servant. The gear parts are drippling with black blood.
-tagDDSetD004FullSkill01Name=Yugol Echo
-tagDDSetD004FullSkill01Desc=The armor resonates with you, echoing the master's decree - kill and devour, the neverending circle.
+tagDDSetD004Head01Name=(S) {^I}黑骑士头盔
+tagDDSetD004Shoulders01Name=(S) {^I}黑骑士护肩
+tagDDSetD004Torso01Name=(S) {^I}黑骑士铠甲
+tagDDSetD004Hands01Name=(S) {^I}黑骑士手套
+tagDDSetD004Full01Name=黑骑士
+tagDDSetD004Full01Desc=忠诚于尤戈尔的仆从之铠。装备部分滴落着黑色鲜血。
+tagDDSetD004FullSkill01Name=尤戈尔回响
+tagDDSetD004FullSkill01Desc=铠甲与你共鸣，回响主人的命令——杀戮与吞噬，永无止境的循环。
 
-tagDDSetD005Head01Name=Time Traveler Gaze
-tagDDSetD005Shoulders01Name=Time Traveler Pauldrons
-tagDDSetD005Torso01Name=Time Traveler Hauberk
-tagDDSetD005Hands01Name=Time Traveler Grip
-tagDDSetD005Full01Name=The Time Traveler
-tagDDSetD005Full01Desc="I have traveled thousand of light years and many centuries to meet your world, human. My aetheric brothers wouldn't hesitate with you, but me, i'll help you to regain Cairn, with a price of you being my vessel forever. Do we have a deal, human?"
-tagDDSetD005FullSkill01Name=Spark of Time
-tagDDSetD005FullSkill01Desc=Conjure a wisp of unstable aether energy to blast your foes.
-tagDDSetD005FullSkill01PetName=Spark of Time
-tagDDSetD005FullSkill01PetSkill01Name=Cosmic Burn
-tagDDSetD005FullSkill01PetSkill02Name=Explosion
+tagDDSetD005Head01Name=(S) {^I}时光旅行者凝视
+tagDDSetD005Shoulders01Name=(S) {^I}时光旅行者护肩
+tagDDSetD005Torso01Name=(S) {^I}时光旅行者链甲
+tagDDSetD005Hands01Name=(S) {^I}时光旅行者手套
+tagDDSetD005Full01Name=时光旅行者
+tagDDSetD005Full01Desc="我穿越了千光年与数个世纪来到你们的世界，人类。我的虚灵兄弟不会犹豫，但我会帮助你重获凯恩，只是你将永远成为我的容器。我们成交了吗，人类？"
+tagDDSetD005FullSkill01Name=时间火花
+tagDDSetD005FullSkill01Desc=召唤不稳定虚灵能量的一缕火花攻击敌人。
+tagDDSetD005FullSkill01PetName=时间火花
+tagDDSetD005FullSkill01PetSkill01Name=宇宙灼烧
+tagDDSetD005FullSkill01PetSkill02Name=爆炸
 
-tagDDSetD006Head01Name=Exorcist Crown
-tagDDSetD006Torso01Name=Exorcist Raiment
-tagDDSetD006Hands01Name=Exorcist Grip
-tagDDSetD006Necklace01Name=Exorcist Ward
-tagDDSetD006Full01Name=Exorcist Regalia
-tagDDSetD006Full01Desc=Regalia of famous exorcist Victor Alrikson, who used aether as main instrument to purge chthonic souls and torture bloodsworn heretics to death. Later his methods were banned among inquisitor members due to unnecessary cruelty.
-tagDDSetD006FullSkill01Name=Purge the Heresy
-tagDDSetD006FullSkill01Desc=Exude the banishing energies of aetheric nature to punish chthonic and undead heretics.
+tagDDSetD006Head01Name=(S) {^I}驱魔师之冠
+tagDDSetD006Torso01Name=(S) {^I}驱魔师法袍
+tagDDSetD006Hands01Name=(S) {^I}驱魔师手套
+tagDDSetD006Necklace01Name=(S) {^I}驱魔师护符
+tagDDSetD006Full01Name=驱魔师套装
+tagDDSetD006Full01Desc=著名驱魔师维克多·艾尔里克森的套装，他以虚灵为主要手段驱逐地底恶魂，并折磨血誓异端至死。其方法后来因过度残忍被宗教审问者禁止。
+tagDDSetD006FullSkill01Name=清除异端
+tagDDSetD006FullSkill01Desc=释放虚灵驱逐能量，惩罚地底及亡灵异端。
 
-tagDDSetD007Torso01Name=Sky Seer's Robes
-tagDDSetD007Shoulders01Name=Sky Seer's Mantle
-tagDDSetD007Focus01Name=Sky Seer's Tome
-tagDDSetD007Necklace01Name=Sky Seer's Shard
-tagDDSetD007Full01Name=Sky Seer
-tagDDSetD007Full01Desc=Regalia of legendary seer Aldara Lightspire, whose lightning spells were blessed by Ultos himself and delivered devastating results on the battlefield of Cairn.
-tagDDSetD007FullSkill01Name=Storm Cloud
-tagDDSetD007FullSkill01Desc=Conjure a living cloud to shock enemies standing below it.
+tagDDSetD007Torso01Name=(S) {^I}天眼者长袍
+tagDDSetD007Shoulders01Name=(S) {^I}天眼者肩饰
+tagDDSetD007Focus01Name=(S) {^I}天眼者典籍
+tagDDSetD007Necklace01Name=(S) {^I}天眼者水晶
+tagDDSetD007Full01Name=天眼者
+tagDDSetD007Full01Desc=传奇预言者阿尔达拉·光塔的套装，其雷电法术受到乌尔托斯的祝福，在凯恩的战场上造成毁灭性打击。
+tagDDSetD007FullSkill01Name=风暴云
+tagDDSetD007FullSkill01Desc=召唤一片活体云层，对下方敌人造成雷击。
 
-tagDDSetD008Torso01Name=Shroud of the Grave
-tagDDSetD008Shoulders01Name=Mantle of the Grave
-tagDDSetD008Head01Name=Veil of the Grave
-tagDDSetD008Necklace01Name=Amulet of the Grave
-tagDDSetD008NecklaceSkill01Name=Bone Nova
-tagDDSetD008NecklaceSkill01Desc=Multiple bone fragments unleashes from you to pierce nearby enemies.
-tagDDSetD008Full01Name=The Cold Grave
-tagDDSetD008Full01Desc="I was lying here, deep below the surface, in the cold grave until master Uroboruuk awoken me".
-tagDDSetD008FullSkill01Name=Skeleton Mage
-tagDDSetD008FullSkill01Desc=Summons a loyal skeleton which creates an ice blasts beneath enemy feet. ^oSkeleton Mage scale with player damage bonuses.
-tagDDSetD008FullSkill01PetSkill01Name=Freezing Blast
+tagDDSetD008Torso01Name=(S) {^I}墓之裹衣
+tagDDSetD008Shoulders01Name=(S) {^I}墓之肩饰
+tagDDSetD008Head01Name=(S) {^I}墓之面纱
+tagDDSetD008Necklace01Name=(S) {^I}墓之护符
+tagDDSetD008FullSkill01Name=骨之新星
+tagDDSetD008FullSkill01Desc=从你身上释放大量骨片，穿刺附近敌人。
+tagDDSetD008Full01Name=冰冷墓地
+tagDDSetD008Full01Desc="我沉睡于地下深处的冰冷墓地，直到主人乌洛布鲁克将我唤醒。"
+tagDDSetD008FullSkill01Name=骷髅法师
+tagDDSetD008FullSkill01Desc=召唤一个忠诚的骷髅，在敌人脚下释放冰霜冲击。 ^o骷髅法师随玩家伤害加成而增强。
+tagDDSetD008FullSkill01PetSkill01Name=冰霜冲击
 
 
-tagDDSetD009Torso01Name=Fleshweaver Raiment
-tagDDSetD009Shoulders01Name=Fleshweaver Shoulderguards
-tagDDSetD009Waist01Name=Fleshweaver Waistguard
-tagDDSetD009Necklace01Name=Fleshweaver Gem
-tagDDSetD009Full01Name=Fleshweaver
-tagDDSetD009Full01Desc="The discomfort shown by the others is amusing, but none can deny that my work has made quite the splash".
-tagDDSetD009FullSkill01Name=Conjure Abomination
-tagDDSetD009FullSkill01Desc=Assemble a horrific creature from various flesh parts to rip your enemies. ^oAbomination scale with player damage bonuses.
-tagDDSetD009FullSkill01PetName=Abomination
-tagDDSetD009FullSkill01PetSkill01Name=Rotting Claws
-tagDDSetD009FullSkill01PetSkill02Name=Blight Presence
+tagDDSetD009Torso01Name=(S) {^I}血织者法袍
+tagDDSetD009Shoulders01Name=(S) {^I}血织者肩饰
+tagDDSetD009Waist01Name=(S) {^I}血织者腰甲
+tagDDSetD009Necklace01Name=(S) {^I}血织者宝石
+tagDDSetD009Full01Name=血织者
+tagDDSetD009Full01Desc="他人的不适令我娱乐，但没人能否认我的作品造成了不小的轰动。"
+tagDDSetD009FullSkill01Name=召唤憎恶体
+tagDDSetD009FullSkill01Desc=由各种血肉组合成恐怖生物攻击敌人。 ^o憎恶体伤害随玩家加成。
+tagDDSetD009FullSkill01PetName=憎恶体
+tagDDSetD009FullSkill01PetSkill01Name=腐烂利爪
+tagDDSetD009FullSkill01PetSkill02Name=疫病气息
 
-tagDDSetD010Torso01Name=Cadaver's Chestguard
-tagDDSetD010Shoulders01Name=Cadaver's Shoulderguards
-tagDDSetD010Head01Name=Cadaver's Mask
-tagDDSetD010Necklace01Name=Cadaver's Emblem
-tagDDSetD010Full01Name=The Old One
-tagDDSetD010Full01Desc="In order to receive, one must give... without hesitation".
-tagDDSetD010FullSkill01Name=Cadaver's Rage
-tagDDSetD010FullSkill01Desc=Unleash a grim roar empowering your body with blight energies.
+tagDDSetD010Torso01Name=(S) {^I}尸体护胸
+tagDDSetD010Shoulders01Name=(S) {^I}尸体护肩
+tagDDSetD010Head01Name=(S) {^I}尸体面具
+tagDDSetD010Necklace01Name=(S) {^I}尸体徽章
+tagDDSetD010Full01Name=古者
+tagDDSetD010Full01Desc="要获得，必须给予……毫不犹豫。"
+tagDDSetD010FullSkill01Name=尸体之怒
+tagDDSetD010FullSkill01Desc=发出阴森怒吼，用枯萎能量强化自身。
 
-tagDDSetD011Gun2h01Name=Void Bolter
-tagDDSetD011Shoulders01Name=Mantle of the Void
-tagDDSetD011Head01Name=Mask of the Void
-tagDDSetD011Necklace01Name=Emblem of the Void
-tagDDSetD011Full01Name=Void Echo
-tagDDSetD011Full01Desc="Strange voices are emanating from this gear, asking for help.. and offering power?".
-tagDDSetD011FullSkill01Name=Void Echo
-tagDDSetD011FullSkill01Desc=Curses target with void hex, echoing itself between other nearby enemies.
+tagDDSetD011Gun2h01Name=(S) {^I}虚空爆弹枪
+tagDDSetD011Shoulders01Name=(S) {^I}虚空之肩
+tagDDSetD011Head01Name=(S) {^I}虚空面具
+tagDDSetD011Necklace01Name=(S) {^I}虚空徽章
+tagDDSetD011Full01Name=虚空回响
+tagDDSetD011Full01Desc="这套装备散发出奇异声音，寻求帮助……同时提供力量？"
+tagDDSetD011FullSkill01Name=虚空回响
+tagDDSetD011FullSkill01Desc=对目标施加虚空诅咒，并在周围其他敌人间反弹。
 
-tagDDSetD012Focus01Name=Whispering Orb
-tagDDSetD012Shoulders01Name=Whispering Epaulets
-tagDDSetD012Head01Name=Whispering Visage
-tagDDSetD012Full01Name=Ethereal Whisper
-tagDDSetD012Full01Desc="Strange voices are coming from these items, filled with pure arcane".
+tagDDSetD012Focus01Name=(S) {^I}低语之球
+tagDDSetD012Shoulders01Name=(S) {^I}低语肩饰
+tagDDSetD012Head01Name=(S) {^I}低语面容
+tagDDSetD012Full01Name=空灵的低语
+tagDDSetD012Full01Desc="这些物品中传出奇怪的声音，充满了纯粹的神秘力量。"
 
-tagDDSetD013Head01Name=Cowl of Burned Dreams
-tagDDSetD013Shoulders01Name=Shoulders of Burned Dreams
-tagDDSetD013Hands01Name=Grips of Burned Dreams
-tagDDSetD013Gun1h01Name=Revolver of Burned Dreams
-tagDDSetD013Full01Name=Burned Dreams
+tagDDSetD013Head01Name=(S) {^I}燃梦兜帽
+tagDDSetD013Shoulders01Name=(S) {^I}燃梦肩饰
+tagDDSetD013Hands01Name=(S) {^I}燃梦手套
+tagDDSetD013Gun1h01Name=(S) {^I}燃梦左轮
+tagDDSetD013Full01Name=燃梦套装
 tagDDSetD013Full01Desc=
-tagDDSetD013FullSkill01Name=Dreamscorcher
-tagDDSetD013FullSkill01Desc=Covers enemy with lingering flames, reducing fire resistance and burning their dreams.
+tagDDSetD013FullSkill01Name=梦焰燃烧
+tagDDSetD013FullSkill01Desc=用持续火焰覆盖敌人，降低其火焰抗性并灼烧其梦境。
 
-tagDDSetD014Head01Name=Mask of Ghoulish Hunger
-tagDDSetD014Shoulders01Name=Shoulders of Ghoulish Hunger
-tagDDSetD014Torso01Name=Chest of Ghoulish Hunger
-tagDDSetD014Focus01Name=Effigy of Ghoulish Hunger
-tagDDSetD014Full01Name=Insatible King
+tagDDSetD014Head01Name=(S) {^I}饕餮面具
+tagDDSetD014Shoulders01Name=(S) {^I}饕餮肩饰
+tagDDSetD014Torso01Name=(S) {^I}饕餮胸甲
+tagDDSetD014Focus01Name=(S) {^I}饕餮雕像
+tagDDSetD014Full01Name=贪食之王
 tagDDSetD014Full01Desc=
-tagDDSetD014FullSkill01Name=Endless Feast
-tagDDSetD014FullSkill01Desc=Your very own blood erupts from body upon hit, forming a heretic glyph below enemy feet which causes them to bleed intensely.
+tagDDSetD014FullSkill01Name=无尽盛宴
+tagDDSetD014FullSkill01Desc=被击中时，体内鲜血喷出，在敌人脚下形成异端符文，使其大量流血。
 
-tagDDSetD015Head01Name=Bloodgorger Cowl
-tagDDSetD015Shoulders01Name=Bloodgorger Shoulders
-tagDDSetD015Torso01Name=Bloodgorger Robes
-tagDDSetD015Focus01Name=Bloodgorger Codex
-tagDDSetD015Full01Name=Bloodgorger
+tagDDSetD015Head01Name=(S) {^I}噬血兜帽
+tagDDSetD015Shoulders01Name=(S) {^I}噬血肩饰
+tagDDSetD015Torso01Name=(S) {^I}噬血法袍
+tagDDSetD015Focus01Name=(S) {^I}噬血宝典
+tagDDSetD015Full01Name=噬血者
 tagDDSetD015Full01Desc=
-tagDDSetD015FullSkill01Name=Siphoning Totem
-tagDDSetD015FullSkill01Desc=Conjure a vicious totem which applies life draining beams to a number of nearby enemies, restoring life and energy for player. ^oSiphoning Totem scale with player damage bonuses.
-tagDDSetD015FullSkill01PetName=Siphoning Totem
-tagDDSetD015FullSkill01PetSkill01Name=Siphon Life
-tagDDSetD015FullSkill01PetSkill02Name=Life Curse
+tagDDSetD015FullSkill01Name=吸血图腾
+tagDDSetD015FullSkill01Desc=召唤邪恶图腾，对周围敌人施加生命吸取光束，为玩家恢复生命和能量。 ^o吸血图腾伤害随玩家加成。
+tagDDSetD015FullSkill01PetName=吸血图腾
+tagDDSetD015FullSkill01PetSkill01Name=吸取生命
+tagDDSetD015FullSkill01PetSkill02Name=生命诅咒
 
-tagDDSetD016Head01Name=Rebel's Helm
-tagDDSetD016Shoulders01Name=Rebel's Mantle
-tagDDSetD016Torso01Name=Rebel's Tunic
-tagDDSetD016Medal01Name=Rebel's Insignia
-tagDDSetD016Full01Name=Legend of Malmouth
-tagDDSetD016Full01Desc=Lost gear of Malmouth's avenger, a legendary rebel Joseph Silvertide, who was known for assaults on aetherial convoys, until being caught and beheaded by cosmic beings.
-tagDDSetD016FullSkill01Name=Ethereal Burst
-tagDDSetD016FullSkill01Desc=Throws multiple warped daggers in front of you. Let the aetherials taste their own medicine!
+tagDDSetD016Head01Name=(S) {^I}叛军头盔
+tagDDSetD016Shoulders01Name=(S) {^I}叛军肩饰
+tagDDSetD016Torso01Name=(S) {^I}叛军外套
+tagDDSetD016Medal01Name=(S) {^I}叛军徽章
+tagDDSetD016Full01Name=马尔茂斯传奇
+tagDDSetD016Full01Desc=马尔茂斯复仇者，传奇叛军约瑟夫·银潮的遗失装备，他以袭击虚灵护送队闻名，最终被宇宙存在抓获并斩首。
+tagDDSetD016FullSkill01Name=虚灵冲击
+tagDDSetD016FullSkill01Desc=向前投掷多枚扭曲匕首，让虚灵生物尝尝自己的药！
 
-tagDDSetD017Head01Name=Visage of Dark Fate
-tagDDSetD017Shoulders01Name=Epaulets of Dark Fate
-tagDDSetD017Torso01Name=Regalia of Dark Fate
-tagDDSetD017Scepter01Name=Scepter of Dark Fate
-tagDDSetD017Full01Name=Visioneer of Dark Fate
+tagDDSetD017Head01Name=(S) {^I}暗命面容
+tagDDSetD017Shoulders01Name=(S) {^I}暗命肩饰
+tagDDSetD017Torso01Name=(S) {^I}暗命法袍
+tagDDSetD017Scepter01Name=(S) {^I}暗命权杖
+tagDDSetD017Full01Name=暗命先知
 tagDDSetD017Full01Desc=
-tagDDSetD017FullSkill01Name=Dark Fate
-tagDDSetD017FullSkill01Desc=Blasts the area with life diminishing magic, releasing haunted spirits to seek nearby targets.
+tagDDSetD017FullSkill01Name=暗命
+tagDDSetD017FullSkill01Desc=以消减生命的魔法攻击区域，释放被困幽灵寻找附近目标。
 
-tagDDSetD018Head01Name=Warped Visor
-tagDDSetD018Shoulders01Name=Warped Pauldrons
-tagDDSetD018Torso01Name=Warped Chestguard
-tagDDSetD018Blunt2h01Name=Warped Crusher
-tagDDSetD018Full01Name=Warped Praetorian
+tagDDSetD018Head01Name=(S) {^I}扭曲面罩
+tagDDSetD018Shoulders01Name=(S) {^I}扭曲肩甲
+tagDDSetD018Torso01Name=(S) {^I}扭曲护胸
+tagDDSetD018Blunt2h01Name=(S) {^I}扭曲破碎者
+tagDDSetD018Full01Name=扭曲禁卫
 tagDDSetD018Full01Desc=
-tagDDSetD018FullSkill01Name=Summon Chthonian Vanguard
-tagDDSetD018FullSkill01Desc=Conjure the harbinger of destruction, a horrific chthonian vanguard which aid you in battle with mighty attacks. ^oVanguard scales with player damage bonuses.
-tagDDSetD018FullSkill01PetName=Chthonian Vanguard
-tagDDSetD018FullSkill01PetSkill01Name=Void Cleave
-tagDDSetD018FullSkill01PetSkill02Name=Chthonic Presence
+tagDDSetD018FullSkill01Name=召唤地底先锋
+tagDDSetD018FullSkill01Desc=召唤毁灭的先驱——恐怖的地底先锋协助战斗，造成强力攻击。 ^o先锋伤害随玩家加成。
+tagDDSetD018FullSkill01PetName=地底先锋
+tagDDSetD018FullSkill01PetSkill01Name=虚空劈砍
+tagDDSetD018FullSkill01PetSkill02Name=地底之力
 
-tagDDSetD019Waist01Name=Mageblood Girdle
-tagDDSetD019Ring01Name=Mageblood Seal
-tagDDSetD019Ring02Name=Mageblood Sigil
-tagDDSetD019Full01Name=The Mageblood
+tagDDSetD019Waist01Name=法师血腰带
+tagDDSetD019Ring01Name=法师血印戒
+tagDDSetD019Ring02Name=法师血徽戒
+tagDDSetD019Full01Name=法师之血
 tagDDSetD019Full01Desc=
-tagDDSetD019FullSkill01Name=Mageblood
-tagDDSetD019FullSkill01Desc="Rivers of power course through your veins." ^oThis is a passive bonus.
+tagDDSetD019FullSkill01Name=法师之血
+tagDDSetD019FullSkill01Desc="力量之河在你的血脉中流淌。" ^o这是被动加成。
 
-tagDDSetD020Ring01Name=Rising Storm
-tagDDSetD020Ring02Name=Ending Storm
-tagDDSetD020Full01Name=Storm Secret
+tagDDSetD020Ring01Name=风暴之升
+tagDDSetD020Ring02Name=风暴之终
+tagDDSetD020Full01Name=风暴秘宝
 tagDDSetD020Full01Desc=
-tagDDSetD020FullSkill01Name=Shocking Discovery
-tagDDSetD020FullSkill01Desc="Lightning lives in a endless circle, requiring a constant conductor to spark." ^oThis is a passive bonus.
+tagDDSetD020FullSkill01Name=惊雷觉醒
+tagDDSetD020FullSkill01Desc="闪电在无尽循环中，需要不断的导体来触发。" ^o这是被动加成。
 
-tagDDSetD021Torso01Name=Ravenswatch Armor
-tagDDSetD021Shoulders01Name=Ravenswatch Mantle
-tagDDSetD021Necklace01Name=Ravenswatch Pendant
-tagDDSetD021Medal01Name=Ravenswatch Mark
-tagDDSetD021Full01Name=Blood Raven
-tagDDSetD021Full01Desc="From the sky high they watch, they stalk, they feast. The hunt finally begins!".
+tagDDSetD021Torso01Name=乌鸦守卫铠
+tagDDSetD021Shoulders01Name=乌鸦守卫肩饰
+tagDDSetD021Necklace01Name=乌鸦守卫挂坠
+tagDDSetD021Medal01Name=乌鸦守卫徽章
+tagDDSetD021Full01Name=血乌鸦
+tagDDSetD021Full01Desc="他们从高空注视，潜伏，觅食。狩猎终于开始！"
 
-tagDDSetD022Blunt01Name=Meatgrinder the First
-tagDDSetD022Blunt01Desc="Let's pack a punch."
-tagDDSetD022Blunt01SkillName=Brutal Weaponry
-tagDDSetD022Blunt01SkillDesc=The Berek was well known for his cruelty, all because his victims were mutilated beyond recognition. ^oThis is a melee dual-wielding passive bonus. Also enables the ability to dual wield melee weapons.
-tagDDSetD022Blunt02Name=Meatgrinder the Second
-tagDDSetD022Blunt02Desc="Adding few spikes to a chunk of metal was quite effective."
-tagDDSetD022Blunt02SkillName=Grievous Wound
-tagDDSetD022Blunt02SkillDesc=Strike with both of your weapons, dealing a devastating blow to an enemy, overpowering and knocking it down.
-tagDDSetD022Full01Name=Instruments of Berek
-tagDDSetD022Full01Desc="Grievous instruments of Berek the Meatgrinder, who tortured hundreds of innocents in Burrwitch before the Grim Dawn happened."
-tagDDSetD022FullSkill01Name=Meatgrinder
-tagDDSetD022FullSkill01Desc=Strike three times in a quick succession, inflicting severe wounds and profuse bleeding.
+tagDDSetD022Blunt01Name=第一绞肉机
+tagDDSetD022Blunt01Desc="来狠狠一击吧。"
+tagDDSetD022Blunt01SkillName=残暴武器
+tagDDSetD022Blunt01SkillDesc=贝雷克以残酷闻名，因为他的受害者往往被肢解得面目全非。 ^o这是近战双持被动加成，同时开启双持近战武器的能力。
+tagDDSetD022Blunt02Name=第二绞肉机
+tagDDSetD022Blunt02Desc="在一块铁块上加几个尖刺，效果极佳。"
+tagDDSetD022Blunt02SkillName=致命创伤
+tagDDSetD022Blunt02SkillDesc=用双武器同时攻击，对敌人造成毁灭性打击，将其压制并击倒。
+tagDDSetD022Full01Name=贝雷克的乐器
+tagDDSetD022Full01Desc="贝雷克绞肉机的残酷武器，他在灰烬黎明前折磨了数百无辜者。"
+tagDDSetD022FullSkill01Name=绞肉机
+tagDDSetD022FullSkill01Desc=快速连续攻击三次，造成严重创伤和大量流血。
 
 
 
 #COMPONENTS
-tagDDComp01Name=^kCursed Flesh
-tagDDComp01Desc="A thick flesh with a rough surface, taken from void habitants. Greatly increases your constitution."^w^n(Used in belt)
-tagDDComp01SkillName=Dread Surge
-tagDDComp01SkillDesc=The flesh remembers every hit - not with pain, but with grim reciprocity. Your suffering hardens you... and in turn, hardens them. A cruel equilibrium, where survival demands mutual stagnation. ^oThis skill affects enemies.
-tagDDComp02Name=^kChthonic Lens
-tagDDComp02Desc="A locus for the arcane flows of the hidden worlds. It seems to stare back at you."^w^n(Used in belt)
-tagDDComp02SkillName=Gaze of Chthon
-tagDDComp02SkillDesc=The Lens twists your weapon into a whirling storm of teeth and thirst - an aura of ravenous force that chews through nearby foes. But the hunger is never sated, and soon, it begins to feed on you. ^oThis skill affects player and deals weapon damage to nearby enemies.
-tagDDComp03Name=^kVoid Spark
-tagDDComp03Desc="A spark of the most potent void energies. It pulses with hatred and calls you into the battlefield."^w^n(Used in belt)
-tagDDComp03SkillName=Fate's Backlash
-tagDDComp03SkillDesc=Dying God laughs at mortal notions of 'precision'. This curse twists your finest strikes into self-sabotage - for every critical hit, the void retaliates with crushing inevitability. ^oThis skill affects player.
-tagDDComp04Name=^kTainted Diamond
-tagDDComp04Desc="The core shimmers with tainted power. You weapon feels lighter for some reason."^w^n(Used in belt)
-tagDDComp04SkillName=Frenzy Pulse
-tagDDComp04SkillDesc=This diamond hum with unnatural rhythm. Its aura doesn't just quicken allies - it sends friend and foe alike into a gasping, bleeding race toward oblivion. ^oThis skill affects enemies.
-tagDDComp05Name=^kSolael Mirror
-tagDDComp05Desc="The surface of the mirror shifts with claws and hands trying to break through, peering into it induces a painful headache."^w^n(Used in belt)
-tagDDComp05SkillName=Infernal Covenant
-tagDDComp05SkillDesc=Solael's flame burns both ways. Your enemies' defenses crumble... but so do yours. Their eyes glow with borrowed fury as they turn your own power against you. ^oThis skill affects enemies.
+tagDDComp01Name=^k诅咒之肉
+tagDDComp01Desc="来自虚空生物的厚重肉体，表面粗糙。大幅提升你的体质。"^w^n(用于腰带)
+tagDDComp01SkillName=恐惧激流
+tagDDComp01SkillDesc=这块肉体记住每一次打击——不是以痛苦，而是以严酷的报复。你的苦难让你更坚韧……同时也让敌人更脆弱。残酷的平衡，生存需要相互制约。 ^o该技能影响敌人。
+tagDDComp02Name=^k地渊透镜
+tagDDComp02Desc="隐藏世界的奥术流动的焦点，仿佛在注视你。"^w^n(用于腰带)
+tagDDComp02SkillName=冥神凝视
+tagDDComp02SkillDesc=透镜将你的武器扭曲成旋转的风暴，满是利齿与贪欲——一股贪食之力的光环，啃噬周围敌人。但饥饿永不满足，很快，它开始侵蚀你自己。 ^o该技能影响玩家，并对周围敌人造成武器伤害。
+tagDDComp03Name=^k虚空火花
+tagDDComp03Desc="最强虚空能量的火花。它充满仇恨，召唤你走入战场。"^w^n(用于腰带)
+tagDDComp03SkillName=命运反噬
+tagDDComp03SkillDesc=垂死之神嘲笑凡人所谓的“精准”。这诅咒将你最完美的攻击扭曲为自我毁灭——每一次暴击，虚空都会以无情的必然进行反击。 ^o该技能影响玩家。
+tagDDComp04Name=^k污染钻石
+tagDDComp04Desc="核心闪烁着被污染的力量。你的武器莫名变得轻盈。"^w^n(用于腰带)
+tagDDComp04SkillName=狂热脉冲
+tagDDComp04SkillDesc=这颗钻石发出不自然的节奏脉动。它的光环不仅加快盟友的速度——同时也让友敌一同陷入喘息与流血的生死竞赛。 ^o该技能影响敌人。
+tagDDComp05Name=^k索拉尔之镜
+tagDDComp05Desc="镜面不断变形，爪子与手试图突破其表面，凝视它会引发剧烈头痛。"^w^n(用于腰带)
+tagDDComp05SkillName=地狱契约
+tagDDComp05SkillDesc=索拉尔之火双向燃烧。敌人的防御崩解……你的防御亦然。它们的眼睛闪烁着借来的愤怒，将你的力量反过来加诸你身。 ^o该技能影响敌人。
 
-tagDDComp06Name=^kWarped Plating
-tagDDComp06Desc="Plating from a once a huge flesh hulk, now sundered to pieces. Adding it to armor increases your defense, but at a cost."^w^n(Used in belt)
-tagDDComp06SkillName=Reality Fracture
-tagDDComp06SkillDesc=The Aetherials do not weaken you - they simply reveal how fragile you always were. ^oThis skill affects player.
-tagDDComp07Name=^kWhispering Skull
-tagDDComp07Desc="The bones of a haunted paladin slain in a battle for Malmouth. You still feel unnatural voices coming from this skull."^w^n(Used in belt)
-tagDDComp07SkillName=Energy Siphon
-tagDDComp07SkillDesc=The skull's whispers promise boundless power. It lies. When your body falters, it drinks deeper. ^oThis skill affects player.
-tagDDComp08Name=^kDreadstone
-tagDDComp08Desc="Found from the corpse of fallen Terraformer, this stone yearns to be returned to their aetheric construction."^w^n(Used in belt)
-tagDDComp08SkillName=Eventide Anchor
-tagDDComp08SkillDesc=Speed is irrelevant to the Aetherials. They fold space instead - and sometimes, they unfold you. ^oThis skill affects player.
-tagDDComp09Name=^kAetheric Blood
-tagDDComp09Desc="Taken from still living Aetherial Abomination, the blood possesses extreme regeneration possibilities, but rejects any magic in a instant."^w^n(Used in belt)
-tagDDComp09SkillName=Nullfield
-tagDDComp09SkillDesc=Your blood sings with the Aetherials' indifference. Let your enemies learn how it feels to be ignored by physics itself. ^oThis skill affects enemies.
-tagDDComp10Name=^kAetherwarped Ruby
-tagDDComp10Desc="A strange cyan flame dances within the facets of this gem. As you bring ears closer, a horrific screams can be heard."^w^n(Used in belt)
-tagDDComp10SkillName=Catalyst Storm
-tagDDComp10SkillDesc=The ruby does not burn - it unmakes. Fire, frost, and lightning are but facets of the same annihilation. Even your enemies' resistance to them is just another kind of fuel. ^oThis skill affects enemies.
+tagDDComp06Name=^k扭曲护甲
+tagDDComp06Desc="来自曾经庞大的肉体巨人，被撕裂成碎片。加入护甲可增加防御，但需付出代价。"^w^n(用于腰带)
+tagDDComp06SkillName=现实裂隙
+tagDDComp06SkillDesc=以太生物并未削弱你——它们只是揭示你一直以来的脆弱。 ^o该技能影响玩家。
+tagDDComp07Name=^k低语骷髅
+tagDDComp07Desc="来自被诅咒的圣骑士之骨，他死于马尔茂斯的战役。你仍能感受到这颗骷髅发出的不自然声音。"^w^n(用于腰带)
+tagDDComp07SkillName=能量虹吸
+tagDDComp07SkillDesc=骷髅的低语承诺无限力量。它在说谎。当你的身体动摇，它吸得更深。 ^o该技能影响玩家。
+tagDDComp08Name=^k恐惧石
+tagDDComp08Desc="从倒下的地塑者尸体中发现，这块石头渴望被送回它们的以太建筑。"^w^n(用于腰带)
+tagDDComp08SkillName=暮锚
+tagDDComp08SkillDesc=速度对以太生物而言无关紧要。它们折叠空间——有时，也会折叠你。 ^o该技能影响玩家。
+tagDDComp09Name=^k以太之血
+tagDDComp09Desc="取自仍然活着的以太畸变体，其血液拥有极强的再生能力，但会瞬间拒绝任何魔法。"^w^n(用于腰带)
+tagDDComp09SkillName=零域
+tagDDComp09SkillDesc=你的血液歌颂以太生物的冷漠。让敌人亲身体验被物理法则无视的感觉。 ^o该技能影响敌人。
+tagDDComp10Name=^k以太扭曲红宝石
+tagDDComp10Desc="奇异的青色火焰在宝石的切面中舞动。靠近倾听，能听到可怖的尖叫声。"^w^n(用于腰带)
+tagDDComp10SkillName=催化风暴
+tagDDComp10SkillDesc=红宝石不燃烧——它解构。火焰、冰霜与闪电都是同一毁灭的切面。即便敌人抗性强，也只是另一种燃料。 ^o该技能影响敌人。
 
-tagDDComp11Name=^kYugol Essence
-tagDDComp11Desc="Rumored to be a droplet from hunger God, this essence makes you feeling hungry."^w^n(Used in belt)
-tagDDComp11SkillName=Hollow Feast
-tagDDComp11SkillDesc=Yugol's essence sustains you - until it doesn't. Its hunger mirrors your own, and when you strike true, it turns your vitality to ash. ^oThis skill affects player.
-tagDDComp12Name=^kEldritch Remains
-tagDDComp12Desc="The remains of an eldritch being denied its rightful peace."^w^n(Used in belt)
-tagDDComp12SkillName=Leechbane
-tagDDComp12SkillDesc=These remains pulse with anti-life, a void where sustenance should be. Those near you find their thirst unquenchable - blood slips through their fingers like mist. ^oThis skill affects enemies.
-tagDDComp13Name=^kDesecrated Ground
-tagDDComp13Desc="Dirt from the base of the standing stones of Witch Gods."^w^n(Used in belt)
-tagDDComp13SkillName=Oblivion's Toll
-tagDDComp13SkillDesc=The ground remembers what you've done. Now it collects. Each strike risks summoning a maw that devours not just your enemy's strength, but yours. ^oThis skill affects player.
-tagDDComp14Name=^kBlight Crystal
-tagDDComp14Desc="The once pearl-white crystal was found in the fanatic's cauldron, who served Witch Gods. It is unknown in how many rituals the crystal was bathed in."^w^n(Used in belt)
-tagDDComp14SkillName=Catalyst of Ruin
-tagDDComp14SkillDesc=The crystal doesn't corrupt - it reveals. The rot was always in them. Now it stirs, and their fury sharpens alongside it. ^oThis skill affects enemies.
-tagDDComp15Name=^kKorvaak Scale
-tagDDComp15Desc="Found in the ancient burial ground, this scale has eldritch runes, possibly drawn by Korvaak himself."^w^n(Used in belt)
-tagDDComp15SkillName=Penitent's Burden
-tagDDComp15SkillDesc=Korvaak's scales were meant to shield. This one does the opposite - when you falter, it peels away your defenses like a penitent stripping his own skin. ^oThis skill affects player.
+tagDDComp11Name=^k尤戈尔精华
+tagDDComp11Desc="传说是饥饿之神的一滴精华，这精华会让你感到饥饿。"^w^n(用于腰带)
+tagDDComp11SkillName=空洞盛宴
+tagDDComp11SkillDesc=尤戈尔的精华支撑着你——直到它不再支撑。它的饥饿映照你的饥饿，当你一击必中，它便将你的生命化为灰烬。 ^o该技能影响玩家。
+tagDDComp12Name=^k艾尔德瑞奇遗骸
+tagDDComp12Desc="被剥夺安息权的远古生物遗骸。"^w^n(用于腰带)
+tagDDComp12SkillName=吸血克星
+tagDDComp12SkillDesc=这些遗骸脉动着反生命的气息，原本应有的滋养之地却是虚无。周围的人会感到口渴难耐——鲜血如雾般从指缝滑落。 ^o该技能影响敌人。
+tagDDComp13Name=^k亵渎之地
+tagDDComp13Desc="来自女巫神石柱基座的泥土。"^w^n(用于腰带)
+tagDDComp13SkillName=遗忘收割
+tagDDComp13SkillDesc=大地记得你所做之事。现在，它来索取。每一次攻击都有可能召唤吞噬的不只是敌人的力量，还有你的。 ^o该技能影响玩家。
+tagDDComp14Name=^k疫晶
+tagDDComp14Desc="原本珍珠白的水晶，出自侍奉女巫神的狂信者之鼎。未可知它被洗礼过多少次。"^w^n(用于腰带)
+tagDDComp14SkillName=毁灭催化
+tagDDComp14SkillDesc=水晶并非腐蚀——它揭示。腐烂一直存在于他们之中。现在，它搅动起来，他们的愤怒也随之加剧。 ^o该技能影响敌人。
+tagDDComp15Name=^k科尔瓦克鳞片
+tagDDComp15Desc="发现在远古墓地，这片鳞片刻有奥术符文，可能出自科尔瓦克之手。"^w^n(用于腰带)
+tagDDComp15SkillName=忏悔重负
+tagDDComp15SkillDesc=科尔瓦克的鳞片原本用来防护。这片却相反——当你动摇时，它剥离你的防御，如同忏悔者剥去自身肌肤。 ^o该技能影响玩家.
 
 
 
 #RELICS
-tagDDIllusionistRelicc01Name=Silhouette
-tagDDIllusionistRelicc01Desc="An ancient silhouette lost in time.. Can you help them find the way out?"
-tagDDIllusionistRelicc01SkillName=Slippery Shadows
-tagDDIllusionistRelicc01SkillDesc=An otherworld mist surrounds you, making enemy attacks less accurate.
+tagDDIllusionistRelicc01Name=轮廓
+tagDDIllusionistRelicc01Desc="失落在时间中的古老轮廓.. 你能帮他们找到出路吗？"
+tagDDIllusionistRelicc01SkillName=滑溜暗影
+tagDDIllusionistRelicc01SkillDesc="异界雾气环绕你，使敌人的攻击命中率降低。"
 
-tagDDIllusionistRelicd01Name=Veilbreaker
-tagDDIllusionistRelicd01Desc="I have harnessed the shadows that stride from world to world to sow death and madness."
-tagDDIllusionistRelicd01SkillName=Veilbreaker
-tagDDIllusionistRelicd01SkillDesc=The veil has finally fallen, now you see the chthonic and aetherial weaknesses like now one else. Use this knowledge to lead a counterattack against their invasion. ^oSwirling Essences scale with player damage bonuses.
+tagDDIllusionistRelicd01Name=破幕者
+tagDDIllusionistRelicd01Desc="我已掌握穿越世界而来的阴影，以播撒死亡与疯狂。"
+tagDDIllusionistRelicd01SkillName=破幕者
+tagDDIllusionistRelicd01SkillDesc=面纱终于落下，现在你能洞察地狱与以太的弱点，如同无人能及。利用这些知识，领导反击抵御入侵。 ^o旋转精华按玩家伤害加成计算。
 
 #pet name and skills
-tagDDIllusionistRelicd01SkillName_Pet01=Swirling Aether
+tagDDIllusionistRelicd01SkillName_Pet01=旋转以太
 tagDDIllusionistRelicd01SkillDesc_Pet01=
-tagDDIllusionistRelicd01SkillName_PetSkill01=Mindeater
+tagDDIllusionistRelicd01SkillName_PetSkill01=吞心者
 tagDDIllusionistRelicd01SkillDesc_PetSkill01=
-tagDDIllusionistRelicd01SkillName_Pet02=Swirling Chaos
+tagDDIllusionistRelicd01SkillName_Pet02=旋转混沌
 tagDDIllusionistRelicd01SkillDesc_Pet02=
-tagDDIllusionistRelicd01SkillName_PetSkill02=Hungering Void
+tagDDIllusionistRelicd01SkillName_PetSkill02=饥渴虚空
 tagDDIllusionistRelicd01SkillDesc_PetSkill02=
 #pet name and skills
 
-tagDDIllusionistRelicd02Name=Phantasm
-tagDDIllusionistRelicd02Desc="The sound of a thousand spirits calls for blood echo for eternity."
-tagDDIllusionistRelicd02SkillName=Haunting Phantasm
-tagDDIllusionistRelicd02SkillDesc=Invoke a summoning of otherworldly spirits that will haunt your enemies minds and bodies.
+tagDDIllusionistRelicd02Name=幻影
+tagDDIllusionistRelicd02Desc="千灵之声永远回响，呼唤鲜血。"
+tagDDIllusionistRelicd02SkillName=缠魂幻影
+tagDDIllusionistRelicd02SkillDesc="召唤异界灵魂，缠绕敌人的心智与身体。"
 
-tagDDIllusionistRelicd03Name=Arcane Capacitor
-tagDDIllusionistRelicd03Desc="This relic seems to store an endless amount of elemental energy. Use carefully."
-tagDDIllusionistRelicd03SkillName=Arcane Capacitor
-tagDDIllusionistRelicd03SkillDesc=Greatly increases elemental damage over time capabilities, while also consuming harmful spells to restore your energy.
+tagDDIllusionistRelicd03Name=奥术电容器
+tagDDIllusionistRelicd03Desc="这件遗物似乎储存了无尽的元素能量，请谨慎使用。"
+tagDDIllusionistRelicd03SkillName=奥术电容器
+tagDDIllusionistRelicd03SkillDesc=大幅提升持续元素伤害能力，同时吸收有害法术以恢复你的能量。
 
-tagDDReanimatorRelicc01Name=Devour
-tagDDReanimatorRelicc01Desc="In darkness, beast and man alike clamour to survive. But we? We slowly devour them apart."
-tagDDReanimatorRelicc01SkillName=Devouring Touch
-tagDDReanimatorRelicc01SkillDesc=Slowly rips enemy body apart, feasting upon their remnants like a wendigo.
+tagDDReanimatorRelicc01Name=吞噬
+tagDDReanimatorRelicc01Desc="在黑暗中，兽与人都拼命求生。但我们呢？我们慢慢将它们分食殆尽。"
+tagDDReanimatorRelicc01SkillName=吞噬之触
+tagDDReanimatorRelicc01SkillDesc=缓慢撕裂敌人的身体，像食人魔般吞食残骸。
 
-tagDDReanimatorRelicd01Name=Wither
-tagDDReanimatorRelicd01Desc="Blood turns the soil to mud. The very ground seems to wither when you step on it."
-tagDDReanimatorRelicd01SkillName=Withering Nova
-tagDDReanimatorRelicd01SkillDesc=Blast the air with rotten fumes, causing unbearable stench, internal damage and blurring enemy vision.
+tagDDReanimatorRelicd01Name=枯萎
+tagDDReanimatorRelicd01Desc="鲜血将泥土变为泥浆。当你踩上大地时，它似乎都在枯萎。"
+tagDDReanimatorRelicd01SkillName=枯萎新星
+tagDDReanimatorRelicd01SkillDesc=释放腐烂气息，造成难以忍受的臭气、内部伤害并模糊敌人视线。
 
-tagDDReanimatorRelicd02Name=Bonechill
-tagDDReanimatorRelicd02Desc="Beware the dark pool at the bottom of our hearts. In its icy, black depths dwell strange and twisted creatures it is best not to disturb."
-tagDDReanimatorRelicd02SkillName=Chilling Wave
-tagDDReanimatorRelicd02SkillDesc=Sends out a rigid cold wave that break your enemy bones like a soft paper.
+tagDDReanimatorRelicd02Name=骨寒
+tagDDReanimatorRelicd02Desc="小心我们心底的黑暗深渊。在冰冷漆黑的深处，潜伏着扭曲怪异的生物，最好不要打扰它们。"
+tagDDReanimatorRelicd02SkillName=寒意波
+tagDDReanimatorRelicd02SkillDesc=释放僵硬寒流，如同软纸般粉碎敌人的骨骼。
 
-tagDDReanimatorRelicd03Name=Revenant
-tagDDReanimatorRelicd03Desc="The dead ask to be remembered, but such requests are seldom met."
-tagDDReanimatorRelicd03SkillName=Undying Spirit
-tagDDReanimatorRelicd03SkillDesc=The key to immortality is simply not dying. I learned that long ago.
+tagDDReanimatorRelicd03Name=幽灵
+tagDDReanimatorRelicd03Desc="死者希望被铭记，但这种请求很少被满足。"
+tagDDReanimatorRelicd03SkillName=不朽之魂
+tagDDReanimatorRelicd03SkillDesc=通向永生的关键就是不要死。我早就明白这一点。
 
-tagDDChieftainRelicc01Name=Intimidation
-tagDDChieftainRelicc01Desc="The war cry of a hundred conquered warriors lingers in this relic. Let your enemies hear it - and know their end."
-tagDDChieftainRelicc01SkillName=Intimidation
-tagDDChieftainRelicc01SkillDesc=The war cry of the Chieftain does not merely shake the air - it pierces the soul. Let your enemies' resolve fray like torn flesh before the spear.
+tagDDChieftainRelicc01Name=威慑
+tagDDChieftainRelicc01Desc="这件遗物中回响着百名征服者的战吼。让你的敌人听到它——并预见他们的终结。"
+tagDDChieftainRelicc01SkillName=威慑
+tagDDChieftainRelicc01SkillDesc=酋长的战吼不仅震动空气——它刺入灵魂。让敌人的意志如被撕裂的肉般崩解于矛前。
 
-tagDDChieftainRelicd01Name=Ancestral Protector
-tagDDChieftainRelicd01Desc="The stones remember their names. The winds chant their deeds. Now, their strength walks with you."
-tagDDChieftainRelicd01SkillName=Fortify
-tagDDChieftainRelicd01SkillDesc=The ancestors do not let their chosen fall. When blood spills, their spirits rise - a protective barrier against the storm.
+tagDDChieftainRelicd01Name=祖先守护者
+tagDDChieftainRelicd01Desc="石头铭记他们的名字，风吟唱他们的事迹。如今，他们的力量随你而行。"
+tagDDChieftainRelicd01SkillName=强化
+tagDDChieftainRelicd01SkillDesc=祖先不会让他们的选民倒下。当鲜血流淌时，他们的灵魂升起——为你筑起抵御风暴的护盾。
 
-tagDDChieftainRelicd02Name=Tyranny
-tagDDChieftainRelicd02Desc="To rule is to break the unworthy. This relic bears the weight of a thousand subjugated souls."
-tagDDChieftainRelicd02SkillName=Tyranny
-tagDDChieftainRelicd02SkillDesc=The warlord's presence is a drumbeat in the veins of his kin. Where he treads, even the weakest arm strikes with the fury of a conqueror.
+tagDDChieftainRelicd02Name=暴政
+tagDDChieftainRelicd02Desc="统治意味着摧毁不配者。这件遗物承载着千魂被奴役的重量。"
+tagDDChieftainRelicd02SkillName=暴政
+tagDDChieftainRelicd02SkillDesc=将军的存在如鼓点流淌于族人的血脉。他所踏之处，最弱之臂亦以征服者之怒出击。
 
-tagDDChieftainRelicd03Name=Earthshatter
-tagDDChieftainRelicd03Desc="The earth trembles not at your feet, but at your command. Let the world crack beneath their defiance."
-tagDDChieftainRelicd03SkillName=Earthshatter
-tagDDChieftainRelicd03SkillDesc=The earth remembers the footsteps of gods. Let your blows carve their memory into the world, and watch the ground roar its reply.
+tagDDChieftainRelicd03Name=破地
+tagDDChieftainRelicd03Desc="大地在你脚下颤抖，不是因为重力，而是因你的指令。让世界在他们的反抗下裂开。"
+tagDDChieftainRelicd03SkillName=破地
+tagDDChieftainRelicd03SkillDesc=大地铭记诸神的足迹。让你的打击将记忆刻入世界，倾听大地回应的咆哮。
 
 
 
 
 
 #PREFIXES
-tagDDIllusionistWeaponPrefixb01Name=Voidspeaker's
+tagDDIllusionistWeaponPrefixb01Name=虚空使者的

@@ -8,6 +8,7 @@ tagCraftTabMiscA=饰品、消耗品与符文之语
 tagRuneEffects=^c符文效果
 tagRuneEffectsDesc=某些符文之语可以激活符文效果，修改并强化职业技能，为你提供增益、对敌人施加减益或释放攻击法术。符文效果需要消耗一个技能点并配合特定符文之语才能正常运作。{^n}{^n}{^y}符文之语：^w大多数Boss有20%几率掉落符文。更强的Boss保证掉落符文。可制作的所有符文之语可通过访问位于魔鬼十字路口左侧入口的新NPC ^b符文工匠达玛拉^w 查看。{^n}{^n}{^y}强化：^w为了在更高难度保持符文之语效率，一些符文之语可以升级，解锁其符文效果的强化版本。强化符文效果可能造成更高伤害并增加抗性降低。{^n}{^n}{^y}技能点重置：^w当你想重新分配技能点时，请注意符文效果被视为修饰符，因此你需要先移除其上的技能点，然后再重新分配到原先受符文效果影响的基础技能上。
 
+
 tagBloodKnightNoteName=血色的礼物
 tagBloodKnightNoteTitle=欢迎血骑士！
 tagBloodKnightNoteText=血骑士已经到来。感谢游玩！请享受你的外观套装，并以华丽的方式开始你的血腥旅程！
@@ -97,6 +98,7 @@ tag1hGunD301Desc=许多英雄曾在各个年代使用此枪，其传奇故事流
 
 tag2hGunD301=肉扭冰霜扩散器
 
+
 tag2hCrossbowD301=(S) {^I}娜塔莉娅的杀手
 tag2hCrossbowD302={^B}恶魔机关
 tag2hCrossbowD303={^I}艾特拉尤
@@ -115,6 +117,7 @@ tag2hCrossbowD311={^I}风之力
 tag2hCrossbowD311Desc=风带来生命，也带来死亡。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}{^n}
 tag2hCrossbowD312={^I}克马十弹夹
 tag2hCrossbowD312Desc=采用仙塞独特装填机制与弹夹，可一次性发射整轮箭矢，适合在移动中持续射击。{^n}{^n}{^b}独特：{^o}此物品无卡奈遗物可用。{^n}
+
 
 tag2hGunD301={^I}恶魔的末日
 tag2hGunD301B={^I}恶魔的末日
@@ -294,6 +297,11 @@ tagKanaiD3133=卡奈遗物：虔诚
 tagKanaiD3134=卡奈遗物：复仇
 tagKanaiD3135=卡奈遗物：卡斯特拉蒂亚
 tagKanaiD3136=卡奈遗物：赞托多
+tagKanaiD3137=卡奈方块：亚特兰蒂姆  
+tagKanaiD3138=卡奈方块：风织者  
+tagKanaiD3139=卡奈方块：风引者  
+tagKanaiD3140=卡奈方块：海风  
+tagKanaiD3141=卡奈方块：洋流  
 
 tagSwordD301={^I}堕落之命
 tagSwordD302={^I}枯败波刃
@@ -376,6 +384,13 @@ tagSwordD343={^I}温·金·劳
 tagSwordD343Desc=指引迷途者仰望天堂，以沐神恩。
 tagSwordD344={^I}斩
 tagSwordD344Desc=贾耶什自笑。他从未见过如此适合肢解恶魔的剑。
+tagSwordD345=亚特兰蒂姆  
+tagSwordD345Desc=许多水手曾讲述过一把剑的故事，据说它锻造于深海之下的隐秘领域的核心。但他们不知道，那不仅仅是故事。  
+tagSwordD346=风织者  
+tagSwordD346Desc=这把剑的设计理念与船帆相同：利用风势为你带来优势。  
+
+
+MACES
 
 tagMaceD301={^B}阿兹·图拉斯克之拳
 tagMaceD302={^I}大殿火炬
@@ -505,6 +520,8 @@ tagBootsD317={^B}木板行者
 tagBootsD318={^I}忽视之靴
 tagBootsD319={^B}火行者
 tagBootsD320={^I}虚空徘徊者护胫
+tagBootsD321=航海者之靴  
+tagBootsD321Desc="佩尔盖因对贸易的渴望让他们的早期扩张在阿瑞特沿海的远方土地受到欢迎，但布尔-卡索之子们的回击迅速而彻底。" -帕瓦茨·比米，《冰海子嗣》  
 
 
 
@@ -629,6 +646,10 @@ tagShouldersD334=(S) {^I}正义之镜
 tagShouldersD335={^I}费尔南的出生披肩
 tagShouldersD335Desc=血骑士的创始人将染血的出生披肩交给教团，在其失踪之前。穿戴于教团以外，实为亵渎，但当前情势危急。
 tagShouldersD336=(S) {^I}绯红领域肩甲
+tagShouldersD337=深渊之披肩  
+tagShouldersD337Desc=对有志成为风暴之力者而言，踏入激流直至被卷入深渊是一种成年礼，他们紧握孤刀，以示面对死亡的从容。  
+tagShouldersD338=冰原护肩  
+tagShouldersD339=远洋肩铠  
 
 
 
@@ -721,6 +742,9 @@ tagHandsD359={^B}石之护手
 tagHandsD359Desc=沉重。石质。残酷。
 tagHandsD360={^I}根脉护手
 tagHandsD361=(S) {^I}绯红领域手护
+tagHandsD362=海风之触  
+tagHandsD363=远洋之触  
+
 
 
 tagTorsoD301=(S) {^I}暗影克星
@@ -783,6 +807,11 @@ tagTorsoD348Desc="濒死时，心智尤为清明。" - 战士哲学家施·水
 tagTorsoD349={^B}金皮胸甲
 tagTorsoD350={^I}蝙蝠胸甲
 tagTorsoD351=(S) {^I}猩红王国胸衣
+tagTorsoD352=西风卫甲  
+tagTorsoD352Desc=在诸岛上，那些犯下死罪的人通常要通过在咸水中淹死来赎罪。一些风暴之子身着被判者的衣物，以提醒自己永远被流放所束缚。  
+tagTorsoD353=舞风者外套  
+tagTorsoD353Desc=克萨斯拉教导潮汐失落的佩尔盖恩人民掌握剑舞风格的航海与战斗。但战争与旅行总会带来扩张。  
+tagTorsoD354=远洋战衣  
 
 
 tagHeadD301=(S) {^I}暗影面具
@@ -861,6 +890,13 @@ tagHeadD354Desc=看到敌人被剥皮只会加剧恶魔猎人胸中复仇之火�
 tagHeadD355={^I}诅咒之角
 tagHeadD355Desc=扭曲的角是血骑士战斗中的最后手段。看似脆弱，却能多次刺穿敌人而不折断。
 tagHeadD356=(S) {^I}猩红王国凝视
+tagHeadD357=引风者兜帽  
+tagHeadD357Desc="风暴之子必须掌控自身，如同掌控风一般。对盟友如微风般温柔，对敌人如飓风般无情。" - 德拉诺·引风者  
+tagHeadD358=远洋兜帽  
+tagHeadD359=死神的兜帽  
+tagHeadD359Desc=死亡拥有诸多面孔。{^n}{^n}{^b}独特：{^o}此物品无法使用卡奈遗物。{^n}  
+
+
 
 
 tagLegsD301=(S) {^I}宝玉收割者的勇气
@@ -880,6 +916,10 @@ tagLegsD312Desc=行走如同与夜融为一体。
 tagLegsD313={^B}奥古斯丁护腿
 tagLegsD313Desc=恶魔猎人奥古斯丁总能挑选最适用的投射物。
 tagLegsD314={^I}夜行者护腿
+tagLegsD315=逐浪者护腿  
+tagLegsD315Desc=在海岸破碎却不酿成灾祸的浪潮，是吉兆，常被形容为“海洋记得如何舞动”。  
+tagLegsD316=织雾者腿裹  
+
 
 
 tagCraftedD301={^I}瑞德瑞姆法袍
@@ -1022,8 +1062,10 @@ tagItemSetD314Desc=众多生物的骨骼被巧妙地排列在这件防护铠甲�
 tagItemSetD315=瘟疫大师之衣
 tagItemSetD315Desc="你可以使用死亡魔法，但你并非刀枪不入。穿好铠甲，并妥善维护。" - 死亡讲述者迈坎{^n}
 
+
 tagItemSetD316=伊纳瑞斯的恩典
 tagItemSetD316Desc=伊纳瑞斯是首位真正洞察恶魔内心的天使。{^n}
+
 
 tagItemSetD317=特拉古尔化身
 tagItemSetD317Desc=生与死如血液流经血脉般流淌于循环之中。{^n}
@@ -1072,6 +1114,9 @@ tagItemSetD330Desc="强大的力量潜伏于恶魔头骨中。紧贴心脏穿戴
 
 tagItemSetD331=猩红王国之甲
 tagItemSetD331Desc=由黑曜石碎片锻造并注入虚空能量的铠甲，只能在冥界深处找到。
+
+tagItemSetD332=远洋披肩  
+tagItemSetD332Desc=驾驭风，就能感受到灵魂超越眼界的伸展。掌控海浪，就仿佛站在高耸千里的王座之上。若能同时统御风与浪，你便开始理解帝国的真谛。  
 
 
 
@@ -1217,6 +1262,8 @@ tagNecklaceD324=(S) {^I}猩红领域碎片
 tagNecklaceD325={^L}阿兹莫丹炽烈精华
 tagNecklaceD325Desc=罪恶之主阿兹莫丹精华，最后被囚禁于黑魂石中。
 tagNecklaceD326={^L}魅魔吊坠
+tagNecklaceD327=无尽洋流护符
+tagNecklaceD328=远洋吊坠
 
 
 MEDALS
@@ -1246,6 +1293,7 @@ tagWaistD307={^I}骤雨
 tagWaistD307Desc=雨落即是猛烈。
 tagWaistD308={^I}幽灵束带
 tagWaistD308Desc=此腰带充满诡异而令人不安的魔力，扰乱了此界与未成形之地的微妙平衡。佩戴它即是对命运的挑衅。
+Item Skills
 tagWaistD309={^B}超越腰带
 tagWaistD309Desc=巫医早已知晓，某些灵魂渴望造访我们的世界，而某些材料则可引导它们。
 tagWaistD310={^I}法祖拉的不可能锁链
@@ -1294,6 +1342,7 @@ tagShadowArcherPet01=暗影弓手
 
 tagItemSkillD304=召唤蛛后
 tagItemSkillD304Desc=召唤蛛后，她降低周围敌人的抗性。 ^o蛛后随玩家伤害加成成长。
+
 tagItemSkillD304Pet=蛛后
 tagItemSkillD304PetSkill01=毒牙
 tagItemSkillD304PetSkill02=女王威压
@@ -1373,6 +1422,7 @@ tagItemSkillD324Desc=召唤一道天雷，对区域内敌人造成闪电伤害�
 tagItemSkillD325=爆裂冲击
 tagItemSkillD325Desc=成为炽能导体，每0.5秒释放爆炸，燃烧周围敌人。
 
+
 tagItemSkillD326=蝙蝠之云
 tagItemSkillD326Desc=召唤一片蝙蝠云，对敌人造成火焰与活力伤害，并有几率在6秒内混乱敌人。
 
@@ -1412,8 +1462,10 @@ tagItemSkillD336C=天使盟友
 tagItemSkillD337=雷霆冲击
 tagItemSkillD337Desc=闪电碎片从天而降，击打敌人。
 
+
 tagItemSkillD338=召唤圣骷髅
 tagItemSkillD338Desc=召唤短时间存活的骷髅盟友，用圣能攻击敌人。
+
 tagHolySkeleton=圣骷髅
 tagHolySkeletonSkill01=神圣打击
 tagHolySkeletonSkill02=祝福牺牲
@@ -1439,6 +1491,7 @@ tagItemSkillD341CSkill=多重射击
 
 tagItemSkillD342=天启风暴
 tagItemSkillD342Desc=召唤天界风暴，对区域敌人造成神圣伤害并降低其抗性，持续5秒。 ^o天启风暴随玩家伤害加成成长。
+
 tagItemSkillD342C=天界风暴
 
 tagItemSkillD343=破碎灵魂
@@ -1560,6 +1613,7 @@ tagItemSkillD379Desc=冲入敌人的血肉之中，造成活力伤害，并将�
 
 tagItemSkillD380=尘魔
 tagItemSkillD380Desc=召唤旋转的炽焰尘旋风，对敌人造成物理和火焰伤害，并在3秒内降低其进攻能力。
+
 tagItemSkillD380B=旋涡风暴
 tagItemSkillD380C=尘魔
 
@@ -1585,6 +1639,7 @@ tagItemSkillD386Desc=发射穿透的火焰球，燃烧敌人，并在3秒内降�
 
 tagItemSkillD387=冰霜射击
 tagItemSkillD387Desc=发射一枚击中敌人的投射物，然后分裂成冰碎片，对目标附近的敌人造成冰霜伤害。 ^o需远程武器，可与所有默认武器攻击触发。
+
 tagItemSkillD387B=布置尖刺陷阱
 tagItemSkillD387C=冰霜爆炸
 tagItemSkillD387D=尖刺陷阱
@@ -1648,6 +1703,8 @@ tagItemSkillD3104=铭刻符印
 tagItemSkillD3104Desc=诅咒目标，附加削弱符印，使其更易受到元素法术伤害。
 
 tagItemSkillD3105=时间之波
+
+tagItemSkillD3105=时间之波
 tagItemSkillD3105Desc=时间之潮撕裂敌人体内的生命力。
 
 tagItemSkillD3106=毒环
@@ -1670,6 +1727,7 @@ tagD3109PetSkill03=冰霜安魂
 
 tagItemSkillD3110=正义领域
 tagItemSkillD3110Desc=召唤天使领域保护盟友并驱散敌人。 ^o正义领域随玩家伤害加成增强。
+
 tagD3110PetSkill01=圣化
 tagD3110PetSkill02=驱逐
 
@@ -1921,6 +1979,7 @@ tagItemConsumableTyraelDesc=用于召唤正义大天使泰瑞尔，在拯救他�
 
 COSMETICS
 
+
 tagItemSetD3CosmeticSet01=血之伯爵化妆服
 tagItemSetD3CosmeticSet01Desc=卡拉杜尔伯爵的服饰，一位居住在北方城堡的血魔法师。{^n}{^n}{^y}化妆套装: {^o}此套装不提供加成，仅供幻象师商店时装使用。{^n}
 tagItemSetD3CosmeticTorso=血之伯爵长袍
@@ -1945,6 +2004,8 @@ tagShrineD306=被阿德里亚破坏的神殿
 tagShrineD307=被莱奥里克破坏的神殿
 tagShrineD308=被佐尔顿库勒破坏的神殿
 tagShrineD309=被屠夫破坏的神殿
+
+
 
 RUNES
 
@@ -1985,135 +2046,299 @@ tagRuneD333=^cMot
 
 RUNEWORDS
 
-tagSuppliesComplete=符文词
-tagSuppliesHelp=符文词只能附加于头部护甲。
+tagSuppliesComplete=符文之语
+tagSuppliesHelp=符文之语只能镶嵌到头部护甲上。
 
-tagRunewordD301=^c"阿呼加尔"
-tagRunewordD301Desc=^w恶魔猎手获得 ^i超脱 ^w符文效果。{^n}{^n}^w闪避技能冷却时间减少50%，距离增加30%。
+tagRunewordD301=^c"AhuGar"
+tagRunewordD301Desc=^w恶魔猎手获得 ^i分离 ^w符文效果。{^n}{^n}^w^s闪避 ^w的冷却时间减少50%，距离增加30%。
 
-tagRunewordD302=^c"西尔依欧姆"
-tagRunewordD302Desc=^w恶魔猎手获得 ^o最终复仇 ^w符文效果。
+tagRunewordD302=^c"CirEom"
+tagRunewordD302Desc=^w恶魔猎手获得 ^o终极复仇 ^w符文效果。
 
-tagRunewordD303=^c"波克奈尔"
+tagRunewordD303=^c"PocNer"
 tagRunewordD303Desc=^w恶魔猎手获得 ^b陷阱大师 ^w符文效果。
 
-tagRunewordD304=^c"莫尼维克斯"
-tagRunewordD304Desc=^w恶魔猎手获得 ^i共担负荷 ^w符文效果。
+tagRunewordD304=^c"MoniVex"
+tagRunewordD304Desc=^w恶魔猎手获得 ^i分担负荷 ^w符文效果。
 
-tagRunewordD305=^c"卡拉克"
-tagRunewordD305Desc=^b持续爆破: ^w群体箭穿透敌人并有33%概率重置冷却。
+tagRunewordD305=^c"KaaLac"
+tagRunewordD305Desc=^y持续破坏：^w群集箭现在可以穿透敌人，并有33%几率重置冷却。
 
-tagRunewordD309=^c"巴克塔尔"
-tagRunewordD309Desc=^w血骑士获得 ^r血脉之荣 ^w符文效果。
+tagRunewordD306=^c"ZanQax"
+tagRunewordD306Desc=^w恶魔猎手获得 ^c炮兵大师 ^w符文效果。
 
-tagRunewordD310=^c"尼奥萨尔"
-tagRunewordD310Desc=^w血骑士获得 ^r吸血狂虐 ^w符文效果。
-tagRunewordD310b=^c"尼奥萨尔"（增强）
-tagRunewordD310bDesc=^w血骑士获得 ^r吸血狂虐（增强） ^w符文效果。
+tagRunewordD306b=^c"ZanQax" (增强版)
+tagRunewordD306bDesc=^w恶魔猎手获得增强版的 ^c炮兵大师 ^w符文效果。
 
-tagRunewordD311=^c"菲奥图恩"
-tagRunewordD311Desc=^y翼之庇护: ^w靠近 ^r蝙蝠群 ^w时，受到伤害降低20%。 ^o需要在蝙蝠群技能点数达到16。
+tagRunewordD307=^c"CirTun"
+tagRunewordD307Desc=^w血骑士获得 ^r黑曜行军 ^w符文效果。
 
-tagRunewordD312=^c"塞姆克莱"
-tagRunewordD312Desc=^w血骑士获得 ^r赤红命运 ^w符文效果。
+tagRunewordD307b=^c"CirTun" (增强版)
+tagRunewordD307bDesc=^w血骑士获得 ^r黑曜行军 (增强) ^w符文效果。
 
-tagRunewordD313=^c"尤尔尤姆"
+
+tagRunewordD308=^c"MoniXan"
+tagRunewordD308Desc=^w血骑士获得 ^r虚空之眼 ^w符文效果。
+
+tagRunewordD308b=^c"MoniXan" (增强版)
+tagRunewordD308bDesc=^w血骑士获得 ^r虚空之眼 (增强) ^w符文效果。
+
+tagRunewordD309=^c"BacTal"
+tagRunewordD309Desc=^w血骑士获得 ^r血脉骄傲 ^w符文效果。
+
+tagRunewordD310=^c"NeoXal"
+tagRunewordD310Desc=^w血骑士获得 ^r汲取者的屠戮 ^w符文效果。
+tagRunewordD310b=^c"NeoXal" (增强版)
+tagRunewordD310bDesc=^w血骑士获得 ^r汲取者的屠戮 (增强) ^w符文效果。
+
+tagRunewordD311=^c"FeoTun"
+tagRunewordD311Desc=^y翼之守护：^w当靠近 ^r蝙蝠群^w 时，受到伤害减少20%。^o需要蝙蝠群技能达到16点。
+
+tagRunewordD312=^c"CemKry"
+tagRunewordD312Desc=^w血骑士获得 ^r血色命运 ^w符文效果。
+
+tagRunewordD313=^c"YulYom"
 tagRunewordD313Desc=^w死灵法师获得 ^t亡者军团 ^w符文效果。
-tagRunewordD313b=^c"尤尔尤姆"（增强）
-tagRunewordD313bDesc=^w死灵法师获得增强版 ^t亡者军团 ^w符文效果。
+tagRunewordD313b=^c"YulYom" (增强版)
+tagRunewordD313bDesc=^w死灵法师获得增强版的 ^t亡者军团 ^w符文效果。
 
-tagRunewordD314=^c"利斯萨恩"
-tagRunewordD314Desc=^y准备战斗: ^t召唤骷髅 ^w和 ^b骷髅弓箭手 ^w在复活后获得无敌状态并提升15%伤害，冷却增加6秒。
+tagRunewordD314=^c"LithXan"
+tagRunewordD314Desc=^y战意全开：^t指挥骷髅 ^w和 ^b骷髅弓箭手 ^w在复活后5秒内获得无敌状态并提高15%伤害。但两技能的冷却时间增加6秒。
 
-tagRunewordD315=^c"塔姆瓦特"
-tagRunewordD315Desc=^y早死: ^w受到 ^b衰老术 ^w影响的敌人低于15%生命值时立即死亡。 ^o衰老术需在生命降至15%前激活。
+tagRunewordD315=^c"TamWat"
+tagRunewordD315Desc=^y早逝之墓：^w当 ^b衰老术 ^w作用下的敌人生命低于15%时立即死亡。^o衰老术必须在敌人低于15%之前激活。
 
-tagRunewordD316=^c"巴克图尔"
+tagRunewordD316=^c"BacThul"
 tagRunewordD316Desc=^w死灵法师获得 ^g新星法师 ^w符文效果。
-tagRunewordD316b=^c"巴克图尔"（增强）
-tagRunewordD316bDesc=^w死灵法师获得增强版 ^g新星法师 ^w符文效果。
+tagRunewordD316b=^c"BacThul" (增强版)
+tagRunewordD316bDesc=^w死灵法师获得增强版的 ^g新星法师 ^w符文效果。
 
-tagRunewordD317=^c"赞加尔"
+tagRunewordD317=^c"ZanGar"
 tagRunewordD317Desc=^w野蛮人获得 ^h贪婪 ^w符文效果。
 
-tagRunewordD318=^c"阿呼塔尔"
-tagRunewordD318Desc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
-tagRunewordD318b=^c"阿呼塔尔"（变换）
-tagRunewordD318bDesc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
-tagRunewordD318c=^c"阿呼塔尔"（增强）
-tagRunewordD318cDesc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
-tagRunewordD318d=^c"阿呼塔尔"（变换）(增强)
-tagRunewordD318dDesc=^w野蛮人获得 ^h旋风斩 ^w符文效果。
+tagRunewordD318=^c"AhuTal"
+tagRunewordD318Desc=^w野蛮人获得 ^h旋转统御 ^w符文效果。
 
-tagRunewordD319=^c"亚克奈尔"
-tagRunewordD319Desc=^w野蛮人获得 ^h跃地震 ^w符文效果。
-tagRunewordD319b=^c"亚克奈尔"（变换）
-tagRunewordD319bDesc=^w野蛮人获得 ^h跃地震 ^w符文效果。
-tagRunewordD319c=^c"亚克奈尔"（增强）
-tagRunewordD319cDesc=^w野蛮人获得 ^h跃地震 ^w符文效果。
-tagRunewordD319d=^c"亚克奈尔"（变换）（增强）
-tagRunewordD319dDesc=^w野蛮人获得 ^h跃地震 ^w符文效果。
+tagRunewordD318b=^c"AhuTal" (转化版)
+tagRunewordD318bDesc=^w野蛮人获得 ^h旋转统御 ^w符文效果。
 
-tagRunewordD320=^c"波克萨尔"
+tagRunewordD318c=^c"AhuTal" (增强版)
+tagRunewordD318cDesc=^w野蛮人获得 ^h旋转统御 ^w符文效果。
+
+tagRunewordD318d=^c"AhuTal" (转化版)(增强)
+tagRunewordD318dDesc=^w野蛮人获得 ^h旋转统御 ^w符文效果。
+
+tagRunewordD319=^c"YaxNer"
+tagRunewordD319Desc=^w野蛮人获得 ^h震击跳跃 ^w符文效果。
+
+tagRunewordD319b=^c"Yaxner" (转化版)
+tagRunewordD319bDesc=^w野蛮人获得 ^h震击跳跃 ^w符文效果。
+
+tagRunewordD319c=^c"Yaxner" (增强版)
+tagRunewordD319cDesc=^w野蛮人获得 ^h震击跳跃 ^w符文效果。
+
+tagRunewordD319d=^c"Yaxner" (转化版)(增强)
+tagRunewordD319dDesc=^w野蛮人获得 ^h震击跳跃 ^w符文效果。
+
+tagRunewordD320=^c"PocXal"
 tagRunewordD320Desc=^w巫医获得 ^b灵魂收割者 ^w符文效果。
 
-tagRunewordD321=^c"莫尼加尔"
+tagRunewordD321=^c"MoniGar"
 tagRunewordD321Desc=^w巫医获得 ^g蜘蛛女王 ^w符文效果。
 
-tagRunewordD322=^c"赞克莱"
-tagRunewordD322Desc=^w巫医获得 ^b灵魂放电 ^w符文效果。
-tagRunewordD322b=^c"赞克莱"（增强）
-tagRunewordD322bDesc=^w巫医获得增强版 ^b灵魂放电 ^w符文效果。
+tagRunewordD322=^c"ZanKry"
+tagRunewordD322Desc=^w巫医获得 ^b灵魂释放 ^w符文效果。
 
-tagRunewordD323=^c"卡鲁姆"
-tagRunewordD323Desc=^w巫医获得 ^o飞镖 ^w符文效果。
-tagRunewordD323b=^c"卡鲁姆"（变换）
-tagRunewordD323bDesc=^w巫医获得 ^g飞镖（毒素） ^w符文效果。
+tagRunewordD322b=^c"ZanKry" (增强版)
+tagRunewordD322bDesc=^w巫医获得增强版的 ^b灵魂释放 ^w符文效果。
 
-tagRunewordD324=^c“费欧拉克”
-tagRunewordD324Desc=^y升华真言：^p治疗真言 ^w现在可提供接近生命药水 50% 的效果，但你将无法再使用生命药水。
+tagRunewordD323=^c"KaaLum"
+tagRunewordD323Desc=^w巫医获得 ^o回旋镖 ^w符文效果。
 
-tagRunewordD325=^c“塞姆通”
-tagRunewordD325Desc=^w武僧获得 ^c雷霆使者 ^w符文效果。
+tagRunewordD323b=^c"KaaLum" (转化版)
+tagRunewordD323bDesc=^w巫医获得 ^g回旋镖（毒素） ^w符文效果。
 
-tagRunewordD325b=^c“塞姆通”（强化）
-tagRunewordD325bDesc=^w武僧获得 ^c雷霆使者（强化） ^w符文效果。
+tagRunewordD324=^c"FeoLac"
+tagRunewordD324Desc=^y升华咒语：^p治疗咒语 ^w现在提供接近50%的生命药水效果，但药水不再可用。
 
-tagRunewordD326=^c“诺克维克斯”
-tagRunewordD326Desc=^w武僧获得 ^b气流狂热 ^w符文效果。
+tagRunewordD325=^c"CemTun"
+tagRunewordD325Desc=^w武僧获得 ^c雷霆承载者 ^w符文效果。
 
-tagRunewordD326b=^c“诺克维克斯”（强化）
-tagRunewordD326bDesc=^w武僧获得 ^b气流狂热（强化） ^w符文效果。
+tagRunewordD325b=^c"CemTun" (增强版)
+tagRunewordD325bDesc=^w武僧获得增强版的 ^c雷霆承载者 ^w符文效果。
 
-tagRunewordD327=^c“塔姆赞”
-tagRunewordD327Desc=^y合一：^w当你靠近 ^c神秘盟友^w 时，获得 10% 伤害吸收。若存在不同类型的神秘盟友，该效果将以乘法方式叠加。^o需要在 ^c神秘盟友^o 上投入 12 点技能点。
+tagRunewordD326=^c"NocVex"
+tagRunewordD326Desc=^w武僧获得 ^b空气掌控 ^w符文效果。
 
-tagRunewordD328=^c“瑟尔沃特”
+tagRunewordD326b=^c"NocVex" (增强版)
+tagRunewordD326bDesc=^w武僧获得增强版的 ^b空气掌控 ^w符文效果。
+
+tagRunewordD327=^c"TamXan"
+tagRunewordD327Desc=^y团结：^w当靠近 ^c神秘盟友^w 时，受到的伤害减少10%。不同神秘盟友效果可叠加。^o需要12点技能在 ^c神秘盟友^o。
+
+tagRunewordD328=^c"CirWat"
 tagRunewordD328Desc=^w巫师获得 ^b绝对零度 ^w符文效果。
 
-tagRunewordD329=^c“尼欧泰克”
+tagRunewordD329=^c"NeoTec"
 tagRunewordD329Desc=^w巫师获得 ^p短路 ^w符文效果。
 
-tagRunewordD330=^c“诺克约姆”
-tagRunewordD330Desc=^w巫师获得 ^b极寒刺骨 ^w符文效果。
+tagRunewordD329b=^c"NeoTec" (增强版)
+tagRunewordD329bDesc=^w巫师获得增强版的 ^p短路 ^w符文效果。
 
-tagRunewordD331=^c“索尔卡斯”
-tagRunewordD331Desc=^y孤身作战：^w当 ^p能量护甲 ^w激活时，你的总伤害提高 20%，最大施法速度提高 10%。但你将无法再施放 ^o九头蛇 ^w和 ^p镜像^w。
 
-tagRunewordD332=^c“索尔图尔”
-tagRunewordD332Desc=^w圣教军获得 ^c我能战斗一整天 ^w符文效果。
+tagRunewordD330=^c"NocYom"
+tagRunewordD330Desc=^w巫师获得 ^b石冷 ^w符文效果。
 
-tagRunewordD333=^c“利斯伊欧姆”
-tagRunewordD333Desc=^w圣教军获得 ^k圣莲 ^w符文效果。
+tagRunewordD331=^c"XolQax"
+tagRunewordD331Desc=^y独行：^w当 ^p能量护甲 ^w处于激活状态时，总伤害提高20%，最大施法速度提高10%。但无法再施放 ^o九头蛇 ^w和 ^p幻象分身^w。
 
-tagRunewordD334=^c“尤尔莫特”
-tagRunewordD334Desc=^y豪胆：^k坚守阵地 ^w现在启用并要求近战武器双持。但你将无法再使用 ^s闪避。
+tagRunewordD332=^c"XolThul"
+tagRunewordD332Desc=^w十字军获得 ^c我能坚持到底 ^w符文效果。
 
-tagRunewordD335=^c“卡阿泰克”
-tagRunewordD335Desc=^y人间天堂：^k天堂之怒 ^w现在会以神圣能量锁链束缚敌人，持续对其造成神圣伤害，并降低其元素抗性 2%，在等级 12 时提升至 10%，等级 22 时提升至 15%。锁链造成的伤害可叠加，抗性降低效果与基础技能的减抗效果为加法叠加。^o当使用 ^b苍蓝之怒^o 时，锁链造成的火焰伤害将转化为寒冷伤害。
+tagRunewordD333=^c"LithEom"
+tagRunewordD333Desc=^w十字军获得 ^k圣莲 ^w符文效果。
 
-tagRunewordD336=^c“阿胡卡斯”
-tagRunewordD336Desc=^w武僧获得 ^b耐心是弱者的借口 ^w符文效果。
+tagRunewordD334=^c"YulMot"
+tagRunewordD334Desc=^y勇气：^k坚守阵地 ^w现在需要并启用双持近战武器，但无法使用 ^s闪避。
+
+tagRunewordD335=^c"KaaTec"
+tagRunewordD335Desc=^y人间天堂：^k天怒 ^w现在用神圣能量链束缚敌人，持续造成神圣伤害，并降低敌人的元素抗性2%，最高等级12时可至10%，22级时至15%。链伤害叠加，抗性降低与技能基础效果累加。^o使用 ^b苍穹之怒^o 时，链的火伤会转为冰伤。
+
+tagRunewordD336=^c"AhuQax"
+tagRunewordD336Desc=^w武僧获得 ^b耐心是弱者的 ^w符文效果。
+
+tagRunewordD337=^c"FeoYom"
+tagRunewordD337Desc=^w恶魔猎手获得 ^o顶级掠食者 ^w符文效果。
+
+tagRunewordD338=^c"NeoWat"
+tagRunewordD338Desc=^w恶魔猎手获得 ^p烟雾陷阱 ^w符文效果。
+
+tagRunewordD338b=^c"NeoWat" (增强版)
+tagRunewordD338bDesc=^w恶魔猎手获得增强版的 ^p烟雾陷阱 ^w符文效果。
+
+tagRunewordD339=^c"XolTec"
+tagRunewordD339Desc=^w恶魔猎手获得 ^i影子陷阱 ^w符文效果。
+
+tagRunewordD339b=^c"XolTec" (增强版)
+tagRunewordD339bDesc=^w恶魔猎手获得增强版的 ^i影子陷阱 ^w符文效果。
+
+tagRunewordD340=^c"BacEom"
+tagRunewordD340Desc=^w野蛮人获得 ^o毁灭之路 ^w符文效果。
+
+tagRunewordD340b=^c"BacEom" (转化版)
+tagRunewordD340bDesc=^w毁灭之路符文效果中的 ^o陨石 ^w变为 ^b彗星。
+
+tagRunewordD340c=^c"BacEom" (增强版)
+tagRunewordD340cDesc=^w野蛮人获得增强版的 ^o毁灭之路 ^w符文效果。
+
+tagRunewordD340d=^c"BacEom" (转化版) (增强版)
+tagRunewordD340dDesc=^w毁灭之路符文效果中的 ^o陨石 ^w变为 ^b彗星 ^w并附加额外伤害。
+
+tagRunewordD341=^c"CemYom"
+tagRunewordD341Desc=^w野蛮人获得 ^r血之契约 ^w符文效果。
+
+tagRunewordD342=^c"YaxMot"
+tagRunewordD342Desc=^w野蛮人获得 ^r血色原野 ^w符文效果。
+
+tagRunewordD343=^c"YulVex"
+tagRunewordD343Desc=^w十字军获得 ^c粉碎来临 ^w符文效果。
+
+tagRunewordD343b=^c"YulVex" (增强版)
+tagRunewordD343bDesc=^c粉碎来临 ^w现在施放等级12的束缚之光。
+
+tagRunewordD344=^c"PocXan"
+tagRunewordD344Desc=^w十字军获得 ^k圣洁绑定 ^w符文效果。
+
+tagRunewordD345=^c"TamLum"
+tagRunewordD345Desc=^w十字军获得 ^c风暴破坏者 ^w符文效果。
+
+tagRunewordD345b=^c"TamLum" (增强版)
+tagRunewordD345bDesc=^w十字军获得增强版的 ^c风暴破坏者 ^w符文效果。
+
+tagRunewordD346=^c"FeoXal"
+tagRunewordD346Desc=^w武僧获得 ^c疾风行者 ^w符文效果。
+
+tagRunewordD346b=^c"FeoXal" (增强版)
+tagRunewordD346bDesc=^w^c旋转火花 ^w造成的伤害增加。
+
+tagRunewordD347=^c"LithGar"
+tagRunewordD347Desc=^w武僧获得 ^c回响 ^w符文效果。
+
+tagRunewordD347b=^c"LithGar (转化版)"
+tagRunewordD347bDesc=^c回响 ^w现在造成 ^k神圣 ^w伤害。
+
+tagRunewordD347c=^c"LithGar" (增强版)
+tagRunewordD347cDesc=^c回响 ^w现在施放等级9的光波。
+
+tagRunewordD347d=^c"LithGar (转化版) (增强版)"
+tagRunewordD347dDesc=^c回响 ^w现在施放等级9的光波并造成 ^k神圣 ^w伤害。
+
+tagRunewordD348=^c"BacKry"
+tagRunewordD348Desc=^w武僧获得 ^k泰坦破坏者 ^w符文效果。
+
+tagRunewordD349=^c"MoniMot"
+tagRunewordD349Desc=^w死灵法师获得 ^r寻血者 ^w符文效果。
+
+tagRunewordD350=^c"KaaQax"
+tagRunewordD350Desc=^w死灵法师获得 ^h骨囚 ^w符文效果。
+
+tagRunewordD351=^c"NeoLac"
+tagRunewordD351Desc=^w死灵法师获得 ^t唤骨者 ^w符文效果。
+
+tagRunewordD352=^c"NocLum"
+tagRunewordD352Desc=^y安魂终结：^t终极服务 ^w现在保证可进行暴击，并有20%几率重置冷却，但暴击伤害降低30%。
+
+tagRunewordD353=^c"PocTal"
+tagRunewordD353Desc=^y血之收获：^t暗影收割 ^w现在每秒恢复20%生命并增加15%治疗效果，但无法再使用生命药水。
+
+tagRunewordD354=^c"TamEom"
+tagRunewordD354Desc=^w巫医获得 ^c能量饥渴 ^w符文效果。
+
+tagRunewordD355=^c"CirThul"
+tagRunewordD355Desc=^w巫医获得 ^r纯血 ^w符文效果。
+
+tagRunewordD356=^c"YaxQax"
+tagRunewordD356Desc=^y与我同行烈焰：^w死亡包围技能施加的抗性降低，现在也会作用于刚穿过火墙的敌人，持续8秒。站在火墙上的敌人抗性降低效果加倍。
+
+tagRunewordD357=^c"XolNer"
+tagRunewordD357Desc=^y猎头者：^g僵尸犬 ^w和 ^p巨兽 ^w召唤后3秒内获得100%几率进行暴击。
+
+tagRunewordD358=^c"YulGar"
+tagRunewordD358Desc=^w巫师获得 ^c风暴弯曲者 ^w符文效果。
+
+tagRunewordD359=^c"ZanLac"
+tagRunewordD359Desc=^w巫师获得 ^b冰山 ^w符文效果。
+
+tagRunewordD360=^c"AhuEom"
+tagRunewordD360Desc=^w巫师获得 ^b充能 ^w符文效果。
+
+tagRunewordD361=^c"NocWat"
+tagRunewordD361Desc=^w血骑士获得 ^r血溶解 ^w符文效果。
+
+tagRunewordD362=^c"YaxVex"
+tagRunewordD362Desc=^w风暴使获得 ^b尘魔 ^w符文效果。
+
+tagRunewordD362b=^c"YaxVex" (增强版)
+tagRunewordD362bDesc=^w风暴使获得增强版的 ^b尘魔 ^w符文效果。
+
+tagRunewordD363=^c"AhuThul"
+tagRunewordD363Desc=^w风暴使获得 ^b飓风 ^w符文效果。
+
+tagRunewordD363b=^c"AhuThul" (增强版)
+tagRunewordD363bDesc=^w风暴使获得增强版的 ^b飓风 ^w符文效果。
+
+tagRunewordD364=^c"BacLum"
+tagRunewordD364Desc=^w风暴使获得 ^b水龙卷 ^w符文效果。
+
+tagRunewordD364b=^c"BacLum" (增强版)
+tagRunewordD364bDesc=^w风暴使获得增强版的 ^b水龙卷 ^w符文效果。
+
+
+
+
+
+
+
 
 
 

@@ -1,10 +1,22 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-tagQuests=进行中的任务 (v094a)
+Version #
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tagQuests=进行中的任务 (v095)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Difficulty Tags
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 tagRDifficultyTitle01=更加严酷
 tagRDifficultyTitle02=极端严酷
 tagRDifficultyTitle03=终极严酷
 tagChallengeDifficulty=老手终极
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Loading Tips
+Jokingly modded in Grimmest
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 tagJiacoTip01={^g}提示: {^w}当情况变糟时，你总可以逃跑，除非被困住，那就不行。
 tagJiacoTip02={^g}提示: {^w}如果你发现一个你还无法恢复的献祭神龛，你可能很快就会死。
@@ -31,6 +43,10 @@ tagGrimerTip01={^g}提示: {^w}一些怪物神龛现在会生成《暗黑破坏�
 tagGrimerTip02={^g}提示: {^w}你可以将双手近战武器转换为单手版本，并使用“坚守阵地”被动技能作为十字军使用。
 tagAsylumTip01={^g}提示: {^w}有传言说在恶魔十字附近有个藏身处……试着在茅厕后面寻找。
 tagAsylumTip02={^g}提示: {^w}最近东南方向恶魔路口发生过爆炸，你应该去看看遗迹。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vanilla Class Descriptions (added credits)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 tagSkillClassDescription01=帝国军队的士兵经过训练，能在最地狱般的环境中生存，并抵御帝国最致命的敌人。士兵偏好使用近战武器，如剑与盾，但使用火器同样可造成威胁。士兵在直接伤害输出上或许有所欠缺，但他们以坚韧和领导力弥补。 ^n^s由 Crate Ent. 为《Grim Dawn》制作
 
@@ -64,10 +80,10 @@ tagDevotion_RequiresMagic=^o 需要权杖、匕首或施法者副手。
 tagDevotion_RequiresSword=^o 需要剑或矛。
 tagDevotion_RequiresRange=^o 需要远程武器或法杖。
 tagDevotion_Requires2h=^o 需要双手近战武器、双手远程武器或法杖。
-
 tagDamageModifierSleep={%+.0f0}% {^E}睡眠持续时间
 tagDefenseSleep={%.0f0}% {^E}减少睡眠持续时间
 tagDefenseSleepModifier={%+.0f0}% {^E}减少睡眠持续时间
+
 
 DefenseProtectionModifier={^H}{%+.0f0}% {^E}护甲评分
 
@@ -82,15 +98,16 @@ tagCharManaRegenModifier={^H}{%+.0f0}% {^E}能量回复
 tagCharLifeRegenModifierR={^H}{%.0f0}-{%.0f1}% {^E}生命回复
 tagCharManaRegenModifierR={^H}{%.0f0}-{%.0f1}% {^E}能量回复
 
-SkillPetLimitMod={%d0} {^E}召唤上限
-tagSkillPetTimeToLive={^H}{%.1f0}{^E} 秒召唤持续时间
-tagSkillPetTimeToLiveMod={^H}{%+.1f0}{^E} 秒召唤持续时间
-SkillPetBurstSpawn={^E}每次施法召唤 {^H}{%d0} 个
-SkillPetBurstSpawnMod=+{%d0} {^E}每次施法召唤
-SkillPetBurstSpawnsMod=+{%d0} {^E}每次施法召唤
+SkillPetLimitMod={%d0} {^E}召唤物上限
+tagSkillPetTimeToLive={^H}{%.1f0}{^E} 秒 召唤持续时间//tagSkillPetTimeToLive={^E}持续 {^H}{%.1f0} {^E}秒
+tagSkillPetTimeToLiveMod={^H}{%+.1f0}{^E} 秒 召唤持续时间//tagSkillPetTimeToLiveMod={^E}持续时间 {^H}{%+.1f0} {^E}秒
+SkillPetBurstSpawn={^E}每次施放召唤 {^H}{%d0} 个//skills
+SkillPetBurstSpawnMod=+{%d0} {^E}每次施放召唤数量//items
+SkillPetBurstSpawnsMod=+{%d0} {^E}每次施放召唤数量//items with multiple summons?
 
 tagCharHealIncreaseModifier={^H}{%+.0f0}% {^E}治疗效果增强
 tagCharHealIncreaseModifierR={^H}{%.0f0}% - {%.0f1}% {^E}治疗效果增强
+
 
 DefensePhysical={%+.0f0}% {^K}物理抗性{^E}
 DefensePierce={%+.0f0}% {^R}穿刺抗性{^E}
@@ -107,7 +124,6 @@ DefenseLifeLeach={%+.0f0}% {^E}生命偷取抗性
 DefenseManaLeach={%+.0f0}% {^E}能量偷取抗性
 DefensePercentCurrentLife={%+.0f0}% {^E}活力衰减抗性
 DefenseReflectResist={%+.0f0}% {^E}反射伤害减免
-
 tagCharBonusPierceDmg=额外穿刺伤害：
 tagCharStatsPierceAbsDmg=穿刺伤害
 tagCharStatsPierceAbsDmgInfo=每次攻击造成的穿刺伤害，包括加成。
@@ -129,6 +145,7 @@ DefensePierceR={%.0f0}-{%.0f1}% {^R}穿刺抗性{^E}
 DefensePierceModifier={^R}增加当前穿刺抗性 {^H}{%.0f0}%{^E}
 DefensePierceMaxResist={%+.0f0}% {^R}最大穿刺抗性{^E}
 DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}最大穿刺抗性{^E}
+
 
 DefenseStun={%+.0f0}% {^E}眩晕抗性
 DefenseStunNegative={%+.0f0}% {^E}眩晕抗性
@@ -153,6 +170,7 @@ ItemAllSkillIncrement={+%d0} {^X}所有技能{^E}
 SkillCooldownReductionModifier={^E}技能总冷却时间修改 {^H}{%.0f0}%
 DamageLifeLeech={^H}+{%t0}% {^E}生命偷取
 
+
 tagCharStatsTrapResistInfo=抵抗使你无法移动的陷阱效果。
 DamageTrap={^E}陷阱目标 {%t0}
 RetaliationTrap={%t0} 陷阱反击
@@ -167,8 +185,11 @@ DamageManaDrain={%t0}% {^E}能量消耗
 DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}消耗的能量转化为伤害)
 DamageModifierManaBurn={%.0f0}% {^E}消耗的能量造成的伤害
 
-ItemMasteryIncrement={+%d0} {^X}{%s1}技能{^E}
-ItemAllSkillIncrement={+%d0} {^X}所有技能{^E}
+ItemMasteryIncrement={+%d0} {^E}至 {%s1} 技能等级
+ItemAllSkillIncrement={+%d0} {^E}至 全部技能等级
+
+//ItemMasteryIncrement={+%d0} {^E}至 {%s1} 专精的全部技能等级
+//ItemAllSkillIncrement={+%d0} {^E}至 全部技能等级
 
 tagAutoSkillCondition08=（被动激活）
 
@@ -254,6 +275,7 @@ tagWorldMapCorpseCave={^W}屍骸地基
 
 tagWorldMapPortValbury={^W}瓦伯利港
 
+
 tagGDX1WorldMapGloomwald={^Y}幽暗森林
 tagGDX1WorldMapUgdenbog={^Y}巫登沼澤
 tagGDX1WorldMapUgdenbogVillage={^Y}巴羅霍爾姆
@@ -271,6 +293,7 @@ tagGDX1WorldMapMalmouthDocks={^W}馬爾茅斯港口
 tagGDX1WorldMapMalmouthFactory={^W}血肉工廠
 
 tagGDX1WorldMapBeastRoguelike={^W}遠古林地
+
 
 tagGDX2WorldMapWitchGodBase={^T}三巫神秘會
 tagGDX2WorldMapArea01={^Y}科凡高原
@@ -296,6 +319,7 @@ tagGDX2WorldMapVanguard={^T}三巫神先鋒營
 tagGDX2WorldMapRoguelike={^W}異端之墓
 
 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Other Stuff
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -316,7 +340,10 @@ tagGrimar_TutorialTip1Title=∙格里马里昂指南 003：腐化图腾
 tagGrimar_TutorialTip1SubTitleA=^n腐化图腾
 tagGrimar_TutorialTip1TextA=^n在冒险中，你可能会遇到一些危险的怪物图腾，但有时，这些图腾会被地狱的爪牙腐化。这是完全随机的，并不是每次在此地点发现图腾都会发生。当这种情况出现时，如果你决定净化图腾，将面临一场艰苦的战斗。这些图腾并不必须被净化，所以如果你担心自己的实力不足——没关系。你可以等到实力足够时再挑战这些地狱魔物。
 
+
+
 tagGrimar_TutorialTip1SubTitleB=^n地狱爪牙
+(image of the map icons and shrine icons)
 tagGrimar_TutorialTip1TextB=^n上图显示了腐化图腾的图标，根据腐化图腾的Boss不同，图标颜色略有差异（除了暗黑破坏神和马萨尔的图标）。激活这些图腾时，你将遇到地狱的强力爪牙。^n^n以下是他们的列表：
 tagGrimar_TutorialTip1TextC=^n∙阿德里亚：一名被权力诱惑腐化的强大血巫。她能造成多种伤害类型，如物理、混沌、生命、流血和元素伤害。
 tagGrimar_TutorialTip1TextD=^n∙阿兹莫丹：小恶魔，罪孽之主。造成物理、混沌和火焰伤害。
@@ -377,7 +404,7 @@ tagGrimar_TutorialTip5TextO=^n^n除了这些重要NPC外，你还会在藏身处
 tagGrimar_TutorialTip5TextP=^n^n
 
 tagGrimar_TutorialTip6Title=∙格里马里昂指南 004：物品交换器
-tagGrimar_TutorialTip6TextA=^n在个人藏身处的中心，你会发现一名奇怪的男子和一个更奇怪的装置。炼金师 Magnusson 可以将一些原版物品替换为模组版本。其中包括若干传奇物品，但主要涉及怪物稀有物品（MI）。更棒的是——与复制工匠 Tendo 不同，这些 MI 不仅会被替换成对应版本，而且会保留所有词缀，因此你不会丢失完美的装备！当你将原版物品交换成 D3 物品时，它会变为“地狱锻造”；暗黑黎明物品变为“复制品”；牧师物品变为“虔诚”。以下是可交换物品列表：
+tagGrimar_TutorialTip6TextA=^n在个人藏身处的中心，你会发现一名奇怪的男子和一个更奇怪的装置。炼金师 Magnusson 可以将一些原版物品替换为模组版本。其中包括若干传奇物品，但主要涉及怪物稀有物品（MI）。更棒的是——与复制工匠 Tendo 不同，这些 MI 不仅会被替换成对应版本，而且会保留所有词缀，因此你不会丢失完美的装备！当你将原版物品交换成 D3 物品时，它会变为“地狱锻造”；暗黑黎明物品变为“复制品”；牧师物品变为“虔诚”；沼泽模组物品会变成“藤蔓锻造”。以下是可交换物品列表：
 
 tagGrimar_TutorialTip6SubtitleB=^n^n暗黑黎明可交换物品:
 tagGrimar_TutorialTip6TextB=^n阿巴多斯的讲道^n阿尔卡莫斯的战争之剑^n升华权威^n升华头巾^n升华源头^n升华头盔^n升华王冠^n巴莱戈尔的破碎者^n巴索勒姆的法锤^n蛇怪徽章^n烈焰先驱^n血宴印记^n血王之刃^n血誓法典^n血誓连发枪^n血誓权杖^n血誓徽章^n博尔瓦吊坠^n骨刺^n束缚幽灵^n寒血尸体^n选中面具^n巨型守护者^n强迫幽灵^n赤红奥术权杖^n死亡守望者吊坠^n死亡低语兜帽^n艾琳娜的项链^n肉体扭曲法典^n戈雷斯利斯的印记^n石像鬼凝视^n石像鬼面具^n乌戈利亚克之瞳^n格罗布尔沙地雕像^n格罗布尔天空雕像^n格罗布尔石雕像^n格罗布尔毒性雕像^n格罗布尔邪恶雕像^n格伦德普利斯之尾^n古尔加佐之心^n古特沃姆印记^n哈里昂徽章^n伊尔戈尔永恒守望^n燃烧头盔^n科尔文之瞳^n科尔文收割戟^n科尔文风暴戟^n凯蒙徽章^n基佐格头骨^n拉戈斯血契^n拉戈斯虚空契^n卢修斯之刃臂^n魔法师面具^n纳克拉森印记^n普拉吉乌斯印记^n马丁徽章^n纳马迪亚之眼^n纳马迪亚之角^n暗夜先驱^n黑曜守护者^n帕克拉皮肤^n帕克拉面具^n脉动宝石^n腐烂项链^n拉格纳达尔之口^n拉格拉萨角^n拉夫纳之爪^n罗尔德拉希之书^n罗纳普拉克斯之刺^n鲁特尼克爆破枪^n瑞洛克印记^n天蝎粉碎者^n塞加里乌斯腐化之刃^n斯拉萨尔徽章^n幽灵弩^n幽灵战斧^n幽灵大锤^n幽灵战争盾^n幽灵战争巨槌^n风暴先驱^n特尔诺克以太法典^n乌格登博胆汁发射器^n乌格登博连发枪^n乌格登博寒冰怒吼^n乌格登博烈焰怒吼^n乌格登博嚎叫者^n乌格登博火花发射器^n乌格登博毒液发射器^n乌尔拉普拉克斯之刺^n吸血骨墙^n维尔加佐之心^n蝰蛇出血者^n守卫裁决^n大角妖之眼^n乌拉德利斯壁垒^n扎莉亚吊坠
@@ -387,6 +414,9 @@ tagGrimar_TutorialTip6TextC=^n阿巴多斯的讲道^n以太灼烧切割者^n阿�
 
 tagGrimar_TutorialTip6SubtitleD=^n^n牧师可交换物品:
 tagGrimar_TutorialTip6TextD=^n阿尔卡莫斯的镰刀^n阿尔卡莫斯的战争之剑^n升华兜帽^n升华源头^n升华王冠^n烈焰先驱^n血誓权杖^n选中面具^n强迫幽灵^n赤红奥术权杖^n死亡守望者吊坠^n死亡低语兜帽^n肉体扭曲法典^n肉体扭曲法卷^n乌戈利亚克之瞳^n格罗布尔余烬雕像^n格罗布尔天空雕像^n格罗布尔石雕像^n伊尔戈尔永恒守望^n科尔瓦克风暴之刃^n科尔文头盔^n凯蒙圣刃^n马尔卡达尔恐刃^n马丁徽章^n暗夜先驱^n监管者之眼^n脉动宝石^n罗尔德拉希法卷^n塞加里乌斯圣刃^n破天者头冠^n斯拉萨尔徽章^n幽灵弩^n幽灵长剑^n幽灵战争巨槌^n风暴先驱^n乌格登博奥术编织者^n乌尔拉普拉克斯之刺^n大角妖之眼^n扎尔图泽兰法典
+
+tagGrimar_TutorialTip6SubtitleE=^n^n沼泽模组置换：
+tagGrimar_TutorialTip6TextE=^n阿巴多斯的布道^n血之领主的复仇^n肉体扭曲的壁垒^n石像鬼腰带^n格罗布尔沙雕像^n格罗布尔毒性雕像^n科尔万燃烧戟^n科尔万秘法戟^n科尔万收割戟^n科尔万风暴戟^n凯佐格的头骨^n纳伦·库尔之刃^n裂隙劫掠切割器^n罗尔德拉西斯的法典^n鲁特尼克的爆能枪^n仆役切割器^n管家戟^n温迪戈尖刺^n温迪戈利爪
 
 tagGrimar_TutorialTip7Title=∙Grimarillion 指南 006：破碎领域修改
 tagGrimar_TutorialTip7TextA=^nGrimarillion 本质上是 Grim Dawn 的扩展，旨在尽可能提供自由。破碎领域也不例外，ASYLUM101 尽力让此模式更加开放。如果你在 Grimarillion 中与 Mazaan 对话进入破碎领域，你将看到两个新选项。你可以使用战利品石或竞技场石，这两块石头会替换现有的破碎领域，并生成一个略有不同的新领域。
@@ -429,6 +459,7 @@ Image (显示海德里格提示)
 tagGrimar_TutorialTip10TextC=^n要装备圣骑士武器，你需要拥有圣骑士专精，并且“坚守阵地”技能必须升到满级（10/10）。最后也是最简单的一步：装备一面盾牌！满足所有要求后，圣骑士武器就可以装备了！
 
 image (显示“坚守阵地”技能满级 10/10)
+
 
 tagGrimar_TutorialTip11Title=∙Grimarillion 指南 010：模组货币
 tagGrimar_TutorialTip11TextA=^n在 Grimarillion 中，一些模组有自己的货币类型，会随机掉落，主要来源于英雄和 Boss，但偶尔也能从其他地方获得。每当 Grimarillion 中掉落体质物品时，会触发一个脚本，这个脚本会为你掷骰子决定：A）是否掉落货币，以及 B）掉落哪种货币。目前本指南撰写时，共有 3 种货币。
@@ -519,7 +550,6 @@ tagGrimar_TutorialTip15SubtitleD=^n角色属性：
 tagGrimar_TutorialTip15TextD=Hp: 生命值^nEn: 能量^nReg: 回复^nAttSp: 攻击速度^nToSp: 总速度^nMoSp: 移动速度^nOA: 攻击能力^nDA: 防御能力^nSP: 精神^nConst: 体质
 tagGrimar_TutorialTip15SubtitleE=^n防御属性
 tagGrimar_TutorialTip15TextE=Ar: 护甲^nArAbs: 护甲吸收^nShBlCh: 盾牌格挡率^nShDaBl: 盾牌格挡伤害^nR: 抗性
-		
 tagGrimar_TutorialTip15SubtitleF=^n伤害类型：
 tagGrimar_TutorialTip15TextF=El: 元素伤害^nFi: 火焰^nBrn: 灼烧^nCo: 冰冷^nFrb: 霜燃^nLi: 闪电^nElc: 觸電^nAe: 虚灵^nCh: 混沌^nVi: 活力^nViDec: 活力衰减^nPh: 物理^nPi: 穿刺^nBld: 流血^nInT: 内伤^nPoi: 毒素^nAc: 酸性
 tagGrimar_TutorialTip15SubtitleG=^n其他：
@@ -552,3 +582,5 @@ tagGrimarTutorialQuickTip13=_Grimarillion：第三方工具
 tagGrimarTutorialQuickTip14=_Grimarillion：阵营商品信息
 tagGrimarTutorialQuickTip15=_Grimarillion：符文词
 
+tagGrimarBerserkerTitle=(不可用)
+tagGrimarBerserkerDesc=即将加入的职业，包含在《阿斯特卡恩之牙》DLC中。请不要点击此按钮——该职业尚未开放，点击只会授予恶魔猎手的掌握经验。

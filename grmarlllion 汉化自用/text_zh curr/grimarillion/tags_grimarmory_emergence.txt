@@ -1,83 +1,83 @@
 #### Quality (Emergent) -> Style -> Name
 
-tagEmergentGlob=Glob of Iron
-tagEmergentGlobDesc=^rStill warm.
+tagEmergentGlob=铁之球体
+tagEmergentGlobDesc=^r仍带余温。
 
 #### TIER 0 ####
-tagEmergentTier0=Formless
+tagEmergentTier0=无形
 
 #### TIER 1 ####
-tagEmergentTier1=Inceptive
-tagStylePhysical=Shattering
-tagStyleFire=Flaming
-tagStyleCold=Freezing
-tagStyleLightning=Electrifying
-tagStylePoison=Corroding
-tagStylePierce=Slicing
-tagStyleLife=Sapping
-tagStyleAether=Corrupting
-tagStyleChaos=Devouring
-tagStyleElemental=Pulsing
+tagEmergentTier1=初生
+tagStylePhysical=粉碎
+tagStyleFire=燃烧
+tagStyleCold=冰封
+tagStyleLightning=电击
+tagStylePoison=腐蚀
+tagStylePierce=切割
+tagStyleLife=抽取生命
+tagStyleAether=腐化
+tagStyleChaos=吞噬
+tagStyleElemental=脉动
 
 #### TIER 2 ####
-tagEmergentTier2=Nascent
-tagWeaponAttack=Alacritous
-tagWeaponCast=Celeritous
-tagArmorHealth=Robust
-tagArmorArmor=Resolute
+tagEmergentTier2=萌芽
+tagWeaponAttack=敏捷
+tagWeaponCast=迅捷
+tagArmorHealth=强韧
+tagArmorArmor=坚决
 
 #### Tier 3 ####
-tagEmergentTier3=Developing
-tagOAFlat=Incisive
-tagDAFlat=Dexterous
-tagArmorPercent=Reinforced
-tagRegenFlat=Regenerative
+tagEmergentTier3=成长
+tagOAFlat=锐利
+tagDAFlat=灵巧
+tagArmorPercent=加固
+tagRegenFlat=再生
 
 #### Tier 4 ####
-tagEmergentTier4=Refined
-tagStyleProcDamageAoEMelee=Rampager's
-tagStyleProcDamageAoESpark=Assaulter's
-tagStyleProcDefensive=Defender's
-tagStyleProcDefensiveAura=Guardian's
-tagStyleProcRR=Corruptor's
-tagStyleStats=Devastator's
+tagEmergentTier4=精炼
+tagStyleProcDamageAoEMelee=暴徒之
+tagStyleProcDamageAoESpark=突击者之
+tagStyleProcDefensive=防御者之
+tagStyleProcDefensiveAura=守护者之
+tagStyleProcRR=腐化者之
+tagStyleStats=毁灭者之
 
 #### Generic Names ####
-tagEmergentSword1H=Blade
-tagEmergentSword2H=Claymore
-tagEmergentAxe1H=Cleaver
-tagEmergentAxe2H=Great Axe
-tagEmergentMace1H=Mallet
-tagEmergentMace2H=Maul
-tagEmergentDagger=Carver
-tagEmergentScepter=Source
-tagEmergentPistol=Handgun
-tagEmergentRifle=Rifle
-tagEmergentShield=Shield
-tagEmergentFocus=Codex
+tagEmergentSword1H=剑
+tagEmergentSword2H=双手剑
+tagEmergentAxe1H=劈斧
+tagEmergentAxe2H=巨斧
+tagEmergentMace1H=槌
+tagEmergentMace2H=重槌
+tagEmergentDagger=匕首
+tagEmergentScepter=权杖
+tagEmergentPistol=手枪
+tagEmergentRifle=步枪
+tagEmergentShield=盾牌
+tagEmergentFocus=典籍
 
-tagEmergentAmulet=Jewels
-tagEmergentRing=Ring
-tagEmergentMedal=Badge
+tagEmergentAmulet=宝石
+tagEmergentRing=戒指
+tagEmergentMedal=徽章
 
-tagEmergentHelmetMedium=Coif
-tagEmergentHelmetCaster=Circlet
-tagEmergentHelmetHeavy=Helm
+tagEmergentHelmetMedium=头巾
+tagEmergentHelmetCaster=头冠
+tagEmergentHelmetHeavy=头盔
 
-tagEmergentShouldersMedium=Spaulders
-tagEmergentShouldersHeavy=Shoulderplates
+tagEmergentShouldersMedium=肩饰
+tagEmergentShouldersHeavy=肩甲
 
-tagEmergentTorsoMedium=Chestguard
-tagEmergentTorsoCaster=Robes
-tagEmergentTorsoHeavy=Platemail
+tagEmergentTorsoMedium=胸甲
+tagEmergentTorsoCaster=法袍
+tagEmergentTorsoHeavy=板甲
 
-tagEmergentHandsMedium=Gloves
-tagEmergentHandsHeavy=Gauntlets
+tagEmergentHandsMedium=手套
+tagEmergentHandsHeavy=护手
 
-tagEmergentBootsMedium=Greaves
-tagEmergentBootsHeavy=Treads
+tagEmergentBootsMedium=护胫
+tagEmergentBootsHeavy=战靴
 
-tagEmergentLegsMedium=Leggings
-tagEmergentLegsHeavy=Legguards
+tagEmergentLegsMedium=护腿
+tagEmergentLegsHeavy=腿甲
 
-tagEmergentBelt=Waistguard
+tagEmergentBelt=腰带

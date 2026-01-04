@@ -1,242 +1,242 @@
-#Item Info
-tagConsumableAugurName=Mysterious Card
-tagConsumableAugurDesc=This item is no longer summons Inusat. Visit the Personal Hideout near the Devil's Crossing Riftgate to find Inusat.
-tagConsumableAugurDescOLD=Summons Inusat, Legendary Augur of the Gods
-tagConsumableAugurModName=Augury Mod
+# 道具信息
+tagConsumableAugurName=神秘卡牌
+tagConsumableAugurDesc=此物品不再召唤 Inusat。前往 Devil's Crossing 传送门附近的个人藏身处寻找 Inusat。
+tagConsumableAugurDescOLD=召唤 Inusat，诸神的传奇占卜师
+tagConsumableAugurModName=占卜模组
 
-# NPC Info
+# NPC 信息
 tagAugurSmithName=Inusat
-tagAugurSmithTitle=Legendary Augur
-tagAugurSmithEnhancements01=Augury of the Gods
-tagAugurSmithEnhancements02=Inusat can reveal hidden secrets within the Augury{^n}cards you can find to create items. 
+tagAugurSmithTitle=传奇占卜师
+tagAugurSmithEnhancements01=诸神的占卜
+tagAugurSmithEnhancements02=Inusat 可以揭示占卜卡中的隐藏秘密，{^n}你可以使用这些卡牌制作物品。
 tagAugurSmithEnhancements03=
-tagAugurSmithEnhancements04={^n}Inusat cannot grant equipment bonuses.
+tagAugurSmithEnhancements04={^n}Inusat 无法提供装备加成。
 
-#Blacksmith Augment Crafting Override (this is a GDX2 tag)
-tagCraftingRunes=AUGMENTS
+# 铁匠附魔制作覆盖（GDX2 标签）
+tagCraftingRunes=附魔符文
 
-# Cards
-tagAuguryCardX01Name=The Green Merchant
-tagAuguryCardX01Desc=Twenty-five score were his efforts, boundless his results.{^n}{^n}{^o}Used in Grim Armory Recipe: Thunderstruck Stoneplate Greaves of Kings
+# 卡牌
+tagAuguryCardX01Name=绿色商人
+tagAuguryCardX01Desc=他的努力如二十五个十年般浩大，成果无限。{^n}{^n}{^o}用于 Grim Armory 配方：雷霆石板王者护胫
 
-tagAuguryCardX02Name=The Resolute Devotee
-tagAuguryCardX02Desc=One must pursue power when standing against the world.{^n}{^n}{^o}Used in Grim Armory Recipe: Stonehide Solael-Sect Legguards
+tagAuguryCardX02Name=坚定的虔诚者
+tagAuguryCardX02Desc=当你与世界为敌时，必须追求力量。{^n}{^n}{^o}用于 Grim Armory 配方：石肤索雷尔派护腿
 
-tagAuguryCardX03Name=The Fearsmith
-tagAuguryCardX03Desc=A soul once shattered sows fear in many forms.{^n}{^n}{^o}Used in Grim Armory Recipe: Kilrian's Shattered Souls (x3)
+tagAuguryCardX03Name=恐惧匠
+tagAuguryCardX03Desc=曾被粉碎的灵魂，在多种形式中播撒恐惧。{^n}{^n}{^o}用于 Grim Armory 配方：基利安破碎灵魂 (x3)
 
-tagAuguryCardX04Name=The Heartless
-tagAuguryCardX04Desc=The biting flame of violence may chill and shock alike.{^n}{^n}{^o}Used in Grim Armory Recipe: -heart Dagger
+tagAuguryCardX04Name=无情者
+tagAuguryCardX04Desc=暴力的炽焰可能同时使人寒心与震慑。{^n}{^n}{^o}用于 Grim Armory 配方：心之匕首
 
-tagAuguryCardX05Name=The Fool
-tagAuguryCardX05Desc=Mistakes forgotten, successes unlearned.{^n}{^n}{^o}Used in Grim Armory Recipe: Tonic of Clarity
+tagAuguryCardX05Name=愚者
+tagAuguryCardX05Desc=遗忘错误，未学成功。{^n}{^n}{^o}用于 Grim Armory 配方：清明药剂
 
-tagAuguryCardX06Name=The Aspirant
-tagAuguryCardX06Desc=Time is not to be wasted.{^n}{^n}{^o}Used in Grim Armory Recipe: Potion of Clarity
+tagAuguryCardX06Name=立志者
+tagAuguryCardX06Desc=时间不可浪费。{^n}{^n}{^o}用于 Grim Armory 配方：清醒药水
 
-tagAuguryCardX07Name=The Husk
-tagAuguryCardX07Desc=Thoughts drained, dreams withered, creativity crushed.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Mindwarp
+tagAuguryCardX07Name=枯萎者
+tagAuguryCardX07Desc=思绪枯竭，梦想凋零，创造力被摧毁。{^n}{^n}{^o}用于 Grim Armory 配方：神话心智扭曲
 
-tagAuguryCardX08Name=The Outcast
-tagAuguryCardX08Desc=Even if you may defy our decree, humanity will fall.{^n}{^n}{^o}Used in Grim Armory Recipe: Outcasts's Secret
+tagAuguryCardX08Name=流放者
+tagAuguryCardX08Desc=即便你敢违抗我们的法令，人类也将衰亡。{^n}{^n}{^o}用于 Grim Armory 配方：流放者的秘密
 
-tagAuguryCardX09Name=The Forest
-tagAuguryCardX09Desc=Roots tangle and turn while branches choke out the sunlight above from shining below.{^n}{^n}{^o}Used in Grim Armory Recipe: Living Armor
+tagAuguryCardX09Name=森林
+tagAuguryCardX09Desc=根须交错翻腾，枝叶遮蔽阳光。{^n}{^n}{^o}用于 Grim Armory 配方：生命护甲
 
-tagAuguryCardX10Name=The Bulbous
-tagAuguryCardX10Desc=Beauty on the surface, wrath beneath.{^n}{^n}{^o}Used in Grim Armory Recipe: Ugdenbloom (x10)
+tagAuguryCardX10Name=膨胀者
+tagAuguryCardX10Desc=表面美丽，内心愤怒。{^n}{^n}{^o}用于 Grim Armory 配方：乌金之花 (x10)
 
-tagAuguryCardX11Name=The Vampire
-tagAuguryCardX11Desc=In life, a desecrator of death. In undeath, a thief of life.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Wrath of Tenebris
+tagAuguryCardX11Name=吸血鬼
+tagAuguryCardX11Desc=生前亵渎死亡，亡后偷取生命。{^n}{^n}{^o}用于 Grim Armory 配方：神话十黑之怒
 
-tagAuguryCardX12Name=The Antagonist
-tagAuguryCardX12Desc=The ruinous one, hunted by all.{^n}{^n}{^o}Used in Grim Armory Recipe: Warrant
+tagAuguryCardX12Name=对立者
+tagAuguryCardX12Desc=毁灭者，被众人追捕。{^n}{^n}{^o}用于 Grim Armory 配方：逮捕令
 
-tagAuguryCardX13Name=The Protagonist
-tagAuguryCardX13Desc=Arbirtarily chosen, but a hero nonetheless. Their path is challenged.{^n}{^n}{^o}Used in Grim Armory Recipe: Mandate
+tagAuguryCardX13Name=主角
+tagAuguryCardX13Desc=任意选择，但仍是英雄。其道路充满挑战。{^n}{^n}{^o}用于 Grim Armory 配方：命令
 
-tagAuguryCardX14Name=The Dagger
-tagAuguryCardX14Desc=Balanced to defend, balanced to kill.{^n}{^n}{^o}Used in Grim Armory Recipe: Incorruptible Cronley's Signet of Attack
+tagAuguryCardX14Name=匕首
+tagAuguryCardX14Desc=均衡防守，均衡杀戮。{^n}{^n}{^o}用于 Grim Armory 配方：不可腐化的克罗尼攻击印戒
 
-tagAuguryCardX15Name=The Butcher
-tagAuguryCardX15Desc=Bathed in blood, none his own.{^n}{^n}{^o}Used in Grim Armory Recipe: Pit Master's Axe of Cruelty
+tagAuguryCardX15Name=屠夫
+tagAuguryCardX15Desc=沐血成狂，却无自身之血。{^n}{^n}{^o}用于 Grim Armory 配方：屠宰主残酷战斧
 
-tagAuguryCardX16Name=The Pauper
-tagAuguryCardX16Desc=Possessor of little, he will take what he can get.{^n}{^n}{^o}Used in Grim Armory Recipe: Augury Card
+tagAuguryCardX16Name=穷人
+tagAuguryCardX16Desc=财物寥寥，将取所能得。{^n}{^n}{^o}用于 Grim Armory 配方：占卜卡
 
-tagAuguryCardX17Name=The Sailor
-tagAuguryCardX17Desc=Seeking lands new, the world of old in his wake.{^n}{^n}{^o}Used in Grim Armory Recipe: Explorer Piece
+tagAuguryCardX17Name=水手
+tagAuguryCardX17Desc=寻找新土地，旧世界随之远去。{^n}{^n}{^o}用于 Grim Armory 配方：探险者碎片
 
-tagAuguryCardX18Name=The Godless
-tagAuguryCardX18Desc=The belief in the self is all he needs.{^n}{^n}{^o}Used in Grim Armory Recipe: Kymon's Chosen Armor Augment (x3)
+tagAuguryCardX18Name=无神者
+tagAuguryCardX18Desc=只需信仰自己。{^n}{^n}{^o}用于 Grim Armory 配方：凯蒙之选护甲附魔 (x3)
 
-tagAuguryCardX19Name=The Hierophant
-tagAuguryCardX19Desc=Enticing the pure for zealous corruption.{^n}{^n}{^o}Used in Grim Armory Recipe: Death's Vigil Armor Augment (x3)
+tagAuguryCardX19Name=祭司
+tagAuguryCardX19Desc=诱使纯洁者堕入狂热腐化。{^n}{^n}{^o}用于 Grim Armory 配方：死卫护甲附魔 (x3)
 
-tagAuguryCardX20Name=The Satiated
-tagAuguryCardX20Desc=Drenched in gore, with hunger no more.{^n}{^n}{^o}Used in Grim Armory Recipe: Barrowholm Armor Augment (x3)
+tagAuguryCardX20Name=饱食者
+tagAuguryCardX20Desc=满身鲜血，却再无饥饿。{^n}{^n}{^o}用于 Grim Armory 配方：巴罗霍姆护甲附魔 (x3)
 
-tagAuguryCardX21Name=The Denier
-tagAuguryCardX21Desc=A world narrow, with no opportunity for wonder.{^n}{^n}{^o}Used in Grim Armory Recipe: Outcast Armor Augment (x3)
+tagAuguryCardX21Name=否定者
+tagAuguryCardX21Desc=世界狭隘，毫无奇迹可言。{^n}{^n}{^o}用于 Grim Armory 配方：流放护甲附魔 (x3)
 
-tagAuguryCardX22Name=The Athlete
-tagAuguryCardX22Desc=Ever further shall they run, faster shall they sprint, slower shall they see.{^n}{^n}{^o}Used in Grim Armory Recipe: Glyph{^n}{^n}{^o}Also Used in Grim Armory Recipe: Rune
+tagAuguryCardX22Name=运动员
+tagAuguryCardX22Desc=他们将跑得更远，冲刺更快，观察更慢。{^n}{^n}{^o}用于 Grim Armory 配方：符文{^n}{^n}{^o}也用于 Grim Armory 配方：符文
 
-tagAuguryCardX24Name=The Utopian
-tagAuguryCardX24Desc=What is lost in attaining perfection cannot be regained.{^n}{^n}{^o}Used in Grim Armory Recipe: Eldritch Essence (x10)
+tagAuguryCardX24Name=乌托邦者
+tagAuguryCardX24Desc=在追求完美时失去的东西，无法再追回。{^n}{^n}{^o}用于 Grim Armory 配方：奥术精华 (x10)
 
-tagAuguryCardX25Name=The Dreamer
-tagAuguryCardX25Desc=Ten swallowed whole by the Void, zero survive without change.{^n}{^n}{^o}Used in Grim Armory Recipe: Celestial Lotus (x8)
+tagAuguryCardX25Name=梦想家
+tagAuguryCardX25Desc=十个被虚空吞没，没有一个未被改变存活。{^n}{^n}{^o}用于 Grim Armory 配方：天莲 (x8)
 
-tagAuguryCardX26Name=The Red Merchant
-tagAuguryCardX26Desc=As blood is spilt in war, his profits grow.{^n}{^n}{^o}Used in Grim Armory Recipe: Aether Crystal Drop (x5)
+tagAuguryCardX26Name=红色商人
+tagAuguryCardX26Desc=战火洒血，他的利润随之增长。{^n}{^n}{^o}用于 Grim Armory 配方：以太水晶掉落 (x5)
 
-tagAuguryCardX27Name=The Gemling
-tagAuguryCardX27Desc=Riches abound for a hoarder innate.{^n}{^n}{^o}Used in Grim Armory Recipe: Gem-like Component
+tagAuguryCardX27Name=宝石匠
+tagAuguryCardX27Desc=天生的收藏者富可敌国。{^n}{^n}{^o}用于 Grim Armory 配方：宝石状组件
 
-tagAuguryCardX28Name=The Peddler
-tagAuguryCardX28Desc=Wares for all folks for but a paltry sum.{^n}{^n}{^o}Used in Grim Armory Recipe: Scavenged Plating (x50)
+tagAuguryCardX28Name=小贩
+tagAuguryCardX28Desc=为所有人提供货物，却只收取微薄的费用。{^n}{^n}{^o}用于 Grim Armory 配方：回收护板 (x50)
 
-tagAuguryCardX29Name=The Legend
-tagAuguryCardX29Desc=A warrior's death, far from isolation, leaving behind carnage to be described over meat and ale.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Chausses of Barbaros
+tagAuguryCardX29Name=传奇
+tagAuguryCardX29Desc=战士的死亡，不孤立无援，留下的残骸可在酒肉间传说。{^n}{^n}{^o}用于 Grim Armory 配方：巴巴罗斯神话护腿
 
-tagAuguryCardX30Name=The Entombed
-tagAuguryCardX30Desc=Slow and lumbering, but without weakness.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Stonetreaders
+tagAuguryCardX30Name=安葬者
+tagAuguryCardX30Desc=动作缓慢笨重，但毫无弱点。{^n}{^n}{^o}用于 Grim Armory 配方：神话石踏者
 
-tagAuguryCardX31Name=The Bane
-tagAuguryCardX31Desc=For it is she that does not kneel, her will as unbreakable as her armaments.{^n}{^n}{^o}Used in Grim Armory Recipe: Stoneguard Piece
+tagAuguryCardX31Name=祸根
+tagAuguryCardX31Desc=她绝不屈膝，意志如装备般坚不可摧。{^n}{^n}{^o}用于 Grim Armory 配方：石卫碎片
 
-tagAuguryCardX32Name=The Unstoppable
-tagAuguryCardX32Desc=Unbridled strength, unwavering resolve, unbelievable might.{^n}{^n}{^o}Used in Grim Armory Recipe: Thunderstruck Kaisan's Eldritch Eye of the Gildam Arcanum
+tagAuguryCardX32Name=不可阻挡者
+tagAuguryCardX32Desc=力量无拘，意志坚定，威力难以置信。{^n}{^n}{^o}用于 Grim Armory 配方：雷击凯桑的神秘之眼（吉尔达姆秘典）
 
-tagAuguryCardX33Name=The Affluent
-tagAuguryCardX33Desc=Enslaved to metal, be it coin, ring, or bar...it will all rust in time.{^n}{^n}{^o}Used in Grim Armory Recipe: Stack of Premium Iron Bars
+tagAuguryCardX33Name=富裕者
+tagAuguryCardX33Desc=被金属奴役，无论是金币、戒指还是锭子……终将生锈。{^n}{^n}{^o}用于 Grim Armory 配方：优质铁锭堆
 
-tagAuguryCardX34Name=The Crimson Lord
-tagAuguryCardX34Desc=The rose-red blood of worlds is His, His eye ever watching from bannered Flaggs.{^n}{^n}{^o}Used in Grim Armory Recipe: Blood Knight's Piece
+tagAuguryCardX34Name=赤红领主
+tagAuguryCardX34Desc=世界的鲜红之血属于他，他的目光永远注视着旗帜之上。{^n}{^n}{^o}用于 Grim Armory 配方：血骑士碎片
 
-tagAuguryCardX35Name=The Barrelsmith
-tagAuguryCardX35Desc=A champion of another era, now in a forgetful world.{^n}{^n}{^o}Used in Grim Armory Recipe: Legendary Dual-Wield Ranged Enabler
+tagAuguryCardX35Name=制桶师
+tagAuguryCardX35Desc=另一个时代的冠军，如今身处遗忘的世界。{^n}{^n}{^o}用于 Grim Armory 配方：传奇双持远程辅助器
 
-tagAuguryCardX36Name=The Tower
-tagAuguryCardX36Desc=Nexus of all that is or could be.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Silver Tower Piece
+tagAuguryCardX36Name=高塔
+tagAuguryCardX36Desc=一切存在与可能的汇聚点。{^n}{^n}{^o}用于 Grim Armory 配方：神话银塔碎片
 
-tagAuguryCardX37Name=The Blue Merchant
-tagAuguryCardX37Desc=That which needs to be learned is the most valuable of wares.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Relic Blueprint
+tagAuguryCardX37Name=蓝色商人
+tagAuguryCardX37Desc=最有价值的货物，是需要学习的东西。{^n}{^n}{^o}用于 Grim Armory 配方：神话遗物蓝图
 
-tagAuguryCardX38Name=The Lifekeeper
-tagAuguryCardX38Desc=Those alive shall stay so, naturally or otherwise.{^n}{^n}{^o}Used in Grim Armory Recipe: Mythical Tinker's Ingenuinty
+tagAuguryCardX38Name=生命守护者
+tagAuguryCardX38Desc=凡活者，生存或自然，或以其他方式保持生存。{^n}{^n}{^o}用于 Grim Armory 配方：神话匠人工艺
 
-tagAuguryCardX39Name=The Fallen Blade
-tagAuguryCardX39Desc=Where blade meets brick, at battle's end or execution dealt.{^n}{^n}{^o}Used in Grim Armory Recipe: Bladefall Piece
+tagAuguryCardX39Name=堕落之刃
+tagAuguryCardX39Desc=刀锋遇砖，无论战斗结束或处决。{^n}{^n}{^o}用于 Grim Armory 配方：刀落碎片
 
-tagAuguryCardX40Name=The Magician
-tagAuguryCardX40Desc=Magic bewilders for trick or for trade.{^n}{^n}{^o}Used in Grim Armory Recipe: Spellslinger Piece
+tagAuguryCardX40Name=魔术师
+tagAuguryCardX40Desc=魔法令人困惑，可用于诡计或交易。{^n}{^n}{^o}用于 Grim Armory 配方：法术使碎片
 
-tagAuguryCardX41Name=The Twisted
-tagAuguryCardX41Desc=Aberrant of nature, warped into something wrong.{^n}{^n}{^o}Used in Grim Armory Recipe: Twisted Piece
+tagAuguryCardX41Name=扭曲者
+tagAuguryCardX41Desc=异常的天性，被扭曲为错误之物。{^n}{^n}{^o}用于 Grim Armory 配方：扭曲碎片
 
-tagAuguryCardX42Name=The Machine
-tagAuguryCardX42Desc=Singular in function but vast in performance.{^n}{^n}{^o}Used in Grim Armory Recipe: Automata Piece
+tagAuguryCardX42Name=机械
+tagAuguryCardX42Desc=功能单一，但性能卓越。{^n}{^n}{^o}用于 Grim Armory 配方：自动机碎片
 
-tagAuguryCardX43Name=The Judge
-tagAuguryCardX43Desc=Innocence avowed, guilt excommunicated.{^n}{^n}{^o}Used in Grim Armory Recipe: Judicator Piece
+tagAuguryCardX43Name=审判者
+tagAuguryCardX43Desc=无辜得以申明，有罪被驱逐。{^n}{^n}{^o}用于 Grim Armory 配方：裁决者碎片
 
-tagAuguryCardX44Name=The Astronomer
-tagAuguryCardX44Desc=What goes up inevitably comes crashing down.{^n}{^n}{^o}Used in Grim Armory Recipe: Meteoric Piece
+tagAuguryCardX44Name=天文学家
+tagAuguryCardX44Desc=凡升起者，必将坠落。{^n}{^n}{^o}用于 Grim Armory 配方：陨石碎片
 
-tagAuguryCardX45Name=The Wayward
-tagAuguryCardX45Desc=Set out upon lands unknown, unlikely to remain for long.{^n}{^n}{^o}Used in Grim Armory Recipe: Realmsplitter Piece
+tagAuguryCardX45Name=流浪者
+tagAuguryCardX45Desc=踏上未知土地，难以久留。{^n}{^n}{^o}用于 Grim Armory 配方：裂界者碎片
 
-tagAuguryCardX46Name=The Formless
-tagAuguryCardX46Desc=The unmade man can do anything, including die.{^n}{^n}{^o}Used in Grim Armory Recipe: Unraveler Piece
+tagAuguryCardX46Name=无形者
+tagAuguryCardX46Desc=未成之人可为万事，包括死亡。{^n}{^n}{^o}用于 Grim Armory 配方：解构者碎片
 
-tagAuguryCardX47Name=The Destiny
-tagAuguryCardX47Desc=What shall you do?{^n}{^n}{^o}Used in Grim Armory Recipe: Random Protoset Card (x3)
+tagAuguryCardX47Name=命运
+tagAuguryCardX47Desc=你将如何选择？{^n}{^n}{^o}用于 Grim Armory 配方：随机原型卡 (x3)
 
-tagAuguryCardX48Name=The Vanguard
-tagAuguryCardX48Desc=First to arrive, last to survive.{^n}{^n}{^o}Used in Grim Armory Recipe: Forerunner Piece
+tagAuguryCardX48Name=先锋
+tagAuguryCardX48Desc=先到者，最后生存者。{^n}{^n}{^o}用于 Grim Armory 配方：先驱碎片
 
-tagAuguryCardX49Name=The Banished
-tagAuguryCardX49Desc=Profane power, ever-gnawing at reality.{^n}{^n}{^o}Used in Grim Armory Recipe: Primordial Piece
+tagAuguryCardX49Name=被放逐者
+tagAuguryCardX49Desc=亵渎的力量，持续侵蚀现实。{^n}{^n}{^o}用于 Grim Armory 配方：原初碎片
 
-tagAuguryCardX50Name=The Defiler
-tagAuguryCardX50Desc=Devotion to a cause, recognized and rewarded.{^n}{^n}{^o}Used in Grim Armory Recipe: Felsic Piece
+tagAuguryCardX50Name=亵渎者
+tagAuguryCardX50Desc=忠于事业，得到认可与奖赏。{^n}{^n}{^o}用于 Grim Armory 配方：熔岩碎片
 
-tagAuguryCardX51Name=The Favored
-tagAuguryCardX51Desc=Paid in coin to deal in lead.{^n}{^n}{^o}Used in Grim Armory Recipe: Fortune Piece
+tagAuguryCardX51Name=宠儿
+tagAuguryCardX51Desc=以金币为酬，处理铅铁事务。{^n}{^n}{^o}用于 Grim Armory 配方：财富碎片
 
-tagAuguryCardX52Name=The Fist
-tagAuguryCardX52Desc=Sound of cause, singular in spirit.{^n}{^n}{^o}Used in Grim Armory Recipe: Purity Piece
+tagAuguryCardX52Name=拳王
+tagAuguryCardX52Desc=正义之声，精神唯一。{^n}{^n}{^o}用于 Grim Armory 配方：纯净碎片
 
-tagAuguryCardX53Name=The Normal
-tagAuguryCardX53Desc=Utterly unremarkable, yet with hidden power.{^n}{^n}{^o}Used in Grim Armory Recipe: Mediocre Piece
+tagAuguryCardX53Name=平凡者
+tagAuguryCardX53Desc=极其平凡，却潜藏力量。{^n}{^n}{^o}用于 Grim Armory 配方：普通碎片
 
-tagAuguryCardX54Name=The Herald
-tagAuguryCardX54Desc=Bringer of good tidings.{^n}{^n}{^o}Used in Grim Armory Recipe: Herald Piece
+tagAuguryCardX54Name=先驱
+tagAuguryCardX54Desc=好消息的传递者。{^n}{^n}{^o}用于 Grim Armory 配方：先驱碎片
 
-tagAuguryCardX55Name=The Praetor
-tagAuguryCardX55Desc=Defender of the realm.{^n}{^n}{^o}Used in Grim Armory Recipe: Praetorian Piece
+tagAuguryCardX55Name=护民官
+tagAuguryCardX55Desc=王国的守护者。{^n}{^n}{^o}用于 Grim Armory 配方：护民官碎片
 
 
 tagAuguryCardX00Name=
-tagAuguryCardX00Desc={^n}{^n}{^o}Used in Grim Armory Recipe: 
+tagAuguryCardX00Desc={^n}{^n}{^o}用于 Grim Armory 配方：
 
-# Blueprints
-tagAuguryBlueprintX01=Thunderstruck Stoneplate Greaves of Kings
-tagAuguryBlueprintX02=Stonehide Solael-Sect Legguards
-tagAuguryBlueprintX03=Kilrian's Shattered Soul (x3)
-tagAuguryBlueprintX04=-heart Dagger
-tagAuguryBlueprintX05=Tonic of Clarity (x3)
-tagAuguryBlueprintX06=Potion of Clarity (x4)
-tagAuguryBlueprintX07=Mythical Mindwarp
-tagAuguryBlueprintX08=Outcasts's Secret
-tagAuguryBlueprintX09=Living Armor
-tagAuguryBlueprintX10=Ugdenbloom (x10)
-tagAuguryBlueprintX11=Mythical Wrath of Tenebris
-tagAuguryBlueprintX12=Warrant
-tagAuguryBlueprintX13=Mandate
-tagAuguryBlueprintX14=Incorruptible Cronley's Signet of Attack
-tagAuguryBlueprintX15=Pit Master's Axe of Cruelty
-tagAuguryBlueprintX16=Augury Card
-tagAuguryBlueprintX17=Explorer Piece
-tagAuguryBlueprintX18=Kymon's Chosen Armor Augment (x3)
-tagAuguryBlueprintX19=Death's Vigil Armor Augment (x3)
-tagAuguryBlueprintX20=Barrowholm Armor Augment (x3)
-tagAuguryBlueprintX21=Outcast Armor Augment (x3)
-tagAuguryBlueprintX22=Glyph
-tagAuguryBlueprintX23=Rune
-tagAuguryBlueprintX24=Eldritch Essence (x10)
-tagAuguryBlueprintX25=Celestial Lotus (x8)
-tagAuguryBlueprintX26=Aether Crystal Drop (x5)
-tagAuguryBlueprintX27=Gem-like Component
-tagAuguryBlueprintX28=Scavenged Plating (x50)
-tagAuguryBlueprintX29=Mythical Chausses of Barbaros
-tagAuguryBlueprintX30=Mythical Stonetreaders
-tagAuguryBlueprintX31=Stoneguard Piece
-tagAuguryBlueprintX32=Thunderstruck Kaisan's Eldritch Eye of the Gildam Arcanum
-tagAuguryBlueprintX33=Stack of Premium Iron Bars
-tagAuguryBlueprintX34=Blood Knight's Piece
-tagAuguryBlueprintX35=Legendary Dual-Wield Ranged Enabler
-tagAuguryBlueprintX36=Mythical Silver Tower Piece
-tagAuguryBlueprintX37=Mythical Relic Blueprint
-tagAuguryBlueprintX38=Mythical Tinker's Ingenuity
-tagAuguryBlueprintX39=Bladefall Piece
-tagAuguryBlueprintX40=Spellslinger Piece
-tagAuguryBlueprintX41=Twisted Piece
-tagAuguryBlueprintX42=Automata Piece
-tagAuguryBlueprintX43=Judicator Piece
-tagAuguryBlueprintX44=Meteoric Piece
-tagAuguryBlueprintX45=Realmsplitter Piece
-tagAuguryBlueprintX46=Unraveler Piece
-tagAuguryBlueprintX47=Random Protoset Card (x3)
-tagAuguryBlueprintX48=Forerunner Piece
-tagAuguryBlueprintX49=Primordial Piece
-tagAuguryBlueprintX50=Felsic Piece
-tagAuguryBlueprintX51=Fortune Piece
-tagAuguryBlueprintX52=Purity Piece
-tagAuguryBlueprintX53=Mediocre Piece
-tagAuguryBlueprintX54=Herald Piece
-tagAuguryBlueprintX55=Praetorian Piece
+# 蓝图
+tagAuguryBlueprintX01=王者雷击石板护胫
+tagAuguryBlueprintX02=索拉尔教派石革护腿
+tagAuguryBlueprintX03=基利安碎魂 (x3)
+tagAuguryBlueprintX04=-心匕首
+tagAuguryBlueprintX05=清醒药剂 (x3)
+tagAuguryBlueprintX06=清醒药水 (x4)
+tagAuguryBlueprintX07=神话心灵扭曲
+tagAuguryBlueprintX08=放逐者的秘密
+tagAuguryBlueprintX09=生命之甲
+tagAuguryBlueprintX10=乌格登花 (x10)
+tagAuguryBlueprintX11=神话泰尼布里斯之怒
+tagAuguryBlueprintX12=授权令
+tagAuguryBlueprintX13=使命令
+tagAuguryBlueprintX14=不可腐化的克罗利攻击之印
+tagAuguryBlueprintX15=深渊之主残酷之斧
+tagAuguryBlueprintX16=占卜卡
+tagAuguryBlueprintX17=探险者碎片
+tagAuguryBlueprintX18=凯蒙之选护甲增幅 (x3)
+tagAuguryBlueprintX19=死亡守望护甲增幅 (x3)
+tagAuguryBlueprintX20=巴罗霍尔姆护甲增幅 (x3)
+tagAuguryBlueprintX21=放逐者护甲增幅 (x3)
+tagAuguryBlueprintX22=符文刻印
+tagAuguryBlueprintX23=奥术符文
+tagAuguryBlueprintX24=奥秘精华 (x10)
+tagAuguryBlueprintX25=天莲花 (x8)
+tagAuguryBlueprintX26=以太水晶碎片 (x5)
+tagAuguryBlueprintX27=宝石组件
+tagAuguryBlueprintX28=回收装甲板 (x50)
+tagAuguryBlueprintX29=神话巴巴罗斯护腿
+tagAuguryBlueprintX30=神话石行者
+tagAuguryBlueprintX31=石卫碎片
+tagAuguryBlueprintX32=雷击凯桑之秘法之眼
+tagAuguryBlueprintX33=优质铁条堆
+tagAuguryBlueprintX34=血骑士碎片
+tagAuguryBlueprintX35=传奇双持远程装备启用器
+tagAuguryBlueprintX36=神话银塔碎片
+tagAuguryBlueprintX37=神话遗物蓝图
+tagAuguryBlueprintX38=神话工匠巧思
+tagAuguryBlueprintX39=落刃碎片
+tagAuguryBlueprintX40=咒术发射器碎片
+tagAuguryBlueprintX41=扭曲碎片
+tagAuguryBlueprintX42=机械体碎片
+tagAuguryBlueprintX43=裁决者碎片
+tagAuguryBlueprintX44=陨石碎片
+tagAuguryBlueprintX45=裂界者碎片
+tagAuguryBlueprintX46=解缚者碎片
+tagAuguryBlueprintX47=随机原型卡 (x3)
+tagAuguryBlueprintX48=先锋碎片
+tagAuguryBlueprintX49=原初碎片
+tagAuguryBlueprintX50=熔岩碎片
+tagAuguryBlueprintX51=财富碎片
+tagAuguryBlueprintX52=纯净碎片
+tagAuguryBlueprintX53=普通碎片
+tagAuguryBlueprintX54=先驱碎片
+tagAuguryBlueprintX55=护民官碎片
 
 tagAuguryBlueprintX00=

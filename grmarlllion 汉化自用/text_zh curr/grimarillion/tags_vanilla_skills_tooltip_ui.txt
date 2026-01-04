@@ -1,13 +1,10 @@
 
 tagClass01SkillName01A=節奏{^K} 「士兵」^-
 tagClass01SkillDescription01A=^b[攻擊替換] ^n^n^w在戰鬥中使用武器形態會使你的攻擊擁有自然的節奏感，其強度有起伏，雖然可預測，但依然有效且難以應對。 ^o當用作預設武器攻擊時，節奏會增強每三次單次武器攻擊的威力。
-
 tagClass01SkillName01B=戰鬥形態{^K} 「士兵」^-
 tagClass01SkillDescription01B=^b[強化] [範圍] [穿透]^n^n^w節奏的怒火與目標共鳴，造成大量流血並攻擊附近的額外目標。 ^o使用遠程武器時，節奏有幾率穿透敵人。
-
 tagClass01SkillName01C=致命動量{^K} 「士兵」^-
 tagClass01SkillDescription01C=^b[次要修飾符] [限時] [增益]^n^n^w在節奏打擊後，你鞏固優勢，短暫地使你的所有攻擊都附帶額外的致命威力。 ^o致命動量在激活期間影響所有攻擊。
-
 tagClass01SkillName01D=紛爭{^K} 「士兵」^-
 tagClass01SkillDescription01D=^b[轉換器]^n^n^w憤怒靈魂的紛爭流入士兵純粹的戰鬥節奏，並為其註入元素能量。
 
@@ -45,7 +42,7 @@ tagClass01SkillName06B=佐尔汉的技巧{^K} 「士兵」^-
 tagClass01SkillDescription06B=^b[武器池技能] [AOE] [穿透]^n^n^w以著名战斗大师佐尔汉命名，这一攻击利用低重心和强力挥击使对手失衡。 ^o可以与所有默认武器攻击激活。使用近战武器时，攻击会击中多个附近的目标。
 
 tagClass01SkillName07A=战斗精神{^K} 「士兵」^-
-tagClass01SkillDescription07A=^b[增益] [持续]^n^o[被击中]^n^n^w敌人的打击远非将你打倒，反而激起了你的愤怒，增加了攻击的力量。 ^o当受到伤害时激活。
+tagClass01SkillDescription07A=^b[增益] [持续][延迟冷却][延迟冷却]^n^o[被击中]^n^n^w敌人的打击远非将你打倒，反而激起了你的愤怒，增加了攻击的力量。 ^o当受到伤害时激活。
 tagClass01SkillName08A=Menhir的意志{^K} 「士兵」^-
 tagClass01SkillDescription08A=^b[增益] [持续] [HP 阈值]^n^o[盾牌][双手近战]^n^n^w当你接近死亡时，Menhir那不屈的意志使你充满了新的力量。 ^o需要盾牌或双手近战武器。
 
@@ -608,7 +605,6 @@ xtagClass06SkillName04D=大漩渦{^K} 「薩滿」^-
 xtagClass06SkillDescription04D=風暴召喚的掌握讓您能夠將權力集中到一個毀滅性的颮，而不是幾個規模較小的風暴。
 xxtagClass06SkillName03B=風暴圖騰{^K} 「薩滿」^-
 xxtagClass06SkillDescription03B=引導風暴之力是風暴召喚者們的神聖儀式之一。通過足夠的練習，薩滿可以向一個溫迪戈圖騰注入閃電的破壞之力，使得它能快速的發出閃電攻擊附近的敵人。
-
 
 #Class07
 

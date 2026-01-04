@@ -213,7 +213,18 @@ tagWitchDoctorRune04cDesc=该敌人的抗性当前正被 ^c飞镖^w降低。
 tagWitchDoctorRune04d=^c飞镖
 tagWitchDoctorRune04e=^c毒性飞镖
 
+tagWitchDoctorRune05=^c能量饥渴
+tagWitchDoctorRune05Desc=在激活 ^c刺破面纱 ^w时，当你的能量低于 15% 时，所有技能拥有 100% 概率触发暴击。但同时会使你的暴击伤害降低 30%。{^n}{^n}{^y}符文词: {^c}TamEom
+tagWitchDoctorRune05b=^c符文效果
+tagWitchDoctorRune05bDesc=你当前的技能拥有 100% 暴击几率，但暴击伤害被降低。
 
+tagWitchDoctorRune06=^c血脉充盈
+tagWitchDoctorRune06Desc=在激活 ^g沼泽共鸣 ^w时，当你处于满血状态，你和宠物的伤害提高 50%。{^n}{^n}{^y}符文词: {^c}CirThul
+tagWitchDoctorRune06b=^c符文效果
+tagWitchDoctorRune06bDesc=你和宠物的伤害当前提高 50%。
+
+tagWitchDoctorRuneXolNer=^c猎首者
+tagWitchDoctorRuneXolNerDesc=僵尸犬和巨兽现在拥有 100% 暴击几率。
 
 
 

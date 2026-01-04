@@ -2,19 +2,19 @@
 ***BEGIN SUMMONNS***
 ********************
 
-tagFelsicSpawn=Obsidian Fracture
-tagFelsicSpawnSkill01=Impale
-tagFelsicSpawnSkill02=Explosive Demise
-tagFelsicSpawnSkill03=Barrage
+tagFelsicSpawn=黑曜裂片
+tagFelsicSpawnSkill01=穿刺
+tagFelsicSpawnSkill02=爆炸终焉
+tagFelsicSpawnSkill03=弹幕攻击
 
-tagFelsicSpawnLarge=Ma's'Ka, Herald of the Banished God
-tagFelsicSpawnLargeSkill01=Pyroclastic Origins
-tagFelsicSpawnLargeSkill02=Charge
-tagFelsicSpawnLargeSkill03=Skewer
-tagFelsicSpawnLargeSkill04=Cleave
-tagFelsicSpawnLargeSkill05=Obsidian Ward
+tagFelsicSpawnLarge=玛斯卡，放逐之神的使者
+tagFelsicSpawnLargeSkill01=火山起源
+tagFelsicSpawnLargeSkill02=冲锋
+tagFelsicSpawnLargeSkill03=穿刺连击
+tagFelsicSpawnLargeSkill04=横扫
+tagFelsicSpawnLargeSkill05=黑曜守护
 
-tagPotentialSpawn=Realized Potential
+tagPotentialSpawn=潜能显化
 
 ******************
 ***END SUMMONNS***
@@ -24,7 +24,7 @@ tagPotentialSpawn=Realized Potential
 ***BEGIN ENEMIES****
 ********************
 
-tagGrimArmAvatar=Ceno, Avatar of Samael
+tagGrimArmAvatar=塞摩尔化身，萨玛尔之使
 
 ********************
 ***END ENEMIES******

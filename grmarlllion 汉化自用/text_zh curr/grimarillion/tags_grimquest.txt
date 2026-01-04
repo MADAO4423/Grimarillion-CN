@@ -1,3 +1,4 @@
+=
 #Grim Quest NPCs
 
 tagGQForgemaster001=佩拉尼斯，萨梯
@@ -21,17 +22,17 @@ tagClassName09=梦境
 tagClassName10=符文
 tagClassName11=内丹
 //solo classes//
-tagSkillClassName22=守护者
-tagSkillClassName23=[ms]猎人[fs]女猎手
-tagSkillClassName24=通灵师
-tagSkillClassName25=战士
-tagSkillClassName26=漫游者
-tagSkillClassName27=游侠
-tagSkillClassName28=地法师
-tagSkillClassName29=风暴使
-tagSkillClassName30=预言者
-tagSkillClassName32=符文大师
-tagSkillClassName33=内丹大师
+tagSkillClassName22=TQ守护者
+tagSkillClassName23=[ms]TQ猎人[fs]TQ女猎手
+tagSkillClassName24=TQ通灵师
+tagSkillClassName25=TQ战士
+tagSkillClassName26=TQ漫游者
+tagSkillClassName27=TQ游侠
+tagSkillClassName28=TQ纵火者
+tagSkillClassName29=TQ风暴使
+tagSkillClassName30=TQ预言者
+tagSkillClassName32=TQ符文大师
+tagSkillClassName33=TQ内丹大师
 
 #Grim Quest Class Descriptions
 tagSkillClassDescription_TQ01=守护者擅长在战斗中生存，但对输出增益贡献有限。许多技能专注于利用盾牌格挡攻击并削弱敌人。 ^n^s由 Asylum101 为 Grim Quest 模组改编
@@ -53,36 +54,29 @@ tagSkillDescription116=提供坚韧与力量，使你掌握保护自己和他人
 
 tagSkillName133=幽灵壁垒{^K} 「防御」^-
 tagSkillDescription133=^b[法术] [环绕] [定时]^n^n^w召唤一个环绕施法者旋转的幽灵武器。敌人可被此投射物多次击中，命中时攻击速度会短暂减缓。 ^o每个投射物持续5秒，最多可维持10个。
-
 tagSkillName134=撕裂护甲{^K} 「防御」^-
-tagSkillDescription134=^b[修饰符]^n^n^w增强幽灵壁垒的效果，使其以足够的力量削弱敌人的物理抗性。
-
+tagSkillDescription134=^b[修饰符]^n^n^w增强幽灵壁垒的效果，使其以足够的力量击穿盔甲。
 tagSkillName203=震击一击{^K} 「防御」^-
 tagSkillDescription203=^b[修饰符]^n^n^w增加眩晕敌人的概率并提升伤害。
-
 tagOrbitShieldBNAME=狂野投掷{^K} 「防御」^-
 tagOrbitShieldBDESC=^b[转化器]^n^o[盾牌]^n^n^w大幅提升幽灵壁垒的伤害，但此增益仅对盾牌有效。//移除冷却，但会使灵魂盾快速远离你。
 
 tagSkillName137=重装冲锋{^K} 「防御」^-
 tagSkillDescription137=^b[法术] [移动] [嘲讽]^n^n^w一次冲刺攻击，撞击敌人并眩晕。 ^o若携带盾牌，则盾牌伤害将被叠加。
-
 tagSkillName119=破坏{^K} 「防御」^-
 tagSkillDescription119=^b[修饰符]^n^n^w增强盾牌冲锋的冲击效果，击中附近敌人并短时间打断其技能使用。
-
 tagSkillName132=巨力步伐{^K} 「防御」^-
 tagSkillDescription132=^b[次要修饰符] [范围]^n^n^w每一步巨力防御者的脚步都会引发震动，接近防御者的敌人如果未被践踏致死，将受到自然之力的伤害。
 
 tagShieldTossNAME=极乐圣盾{^K} 「防御」^-
 tagShieldTossDESC=^b[法术] [连锁]^n^o[盾牌]^n^n^w召唤一面古老的盾牌并投向敌人。盾牌会自动引导到附近敌人并造成伤害，然后返回你手中。 ^o需要持有盾牌。
-
 tagSkillName118=赎罪{^K} 「防御」^-
 tagSkillDescription118=^b[修饰符]^n^n^w使极乐圣盾造成流血伤害，同时增加盾牌在返回前可进行的弹射次数。 //在肾上腺素激增时提升伤害与攻击速度。
-
 tagSkillName129=蛇发护符{^K} 「防御」^-
 tagSkillDescription129=^b[次要修饰符] [范围]^n^n^w极乐圣盾受到蛇发护符的强化，这一古老符号展示美杜莎之首并作为护身符。每次盾牌击中都会产生冲击波，对半径内敌人造成伤害并眩晕。 ^o此半径仅造成本技能说明中的伤害，不包括极乐圣盾的基础伤害。
 
 tagSkillName117=肾上腺素{^K} 「防御」^-
-tagSkillDescription117=^b[增益] [定时] [生命阈值]^n^n^w每次命中敌人都有机会触发肾上腺素激增，提升生命回复速度。
+tagSkillDescription117=^b[增益] [定时] [生命阈值][延迟冷却]^n^n^w每次命中敌人都有机会触发肾上腺素激增，提升生命回复速度。
 
 tagSkillName121=护甲操控{^K} 「防御」^-
 tagSkillDescription121=^b[被动]^n^n^w掌握正确的护甲调整与移动方法，使你能够穿戴比同等力量的未训练战士更重的护甲和盾牌。
@@ -92,36 +86,27 @@ tagSkillDescription120=^b[被动]^n^o[盾牌]^n^n^w强壮的盾手能更频繁�
 
 tagSkillName130=集结{^K} 「防御」^-
 tagSkillDescription130=^b[范围] [增益] [治疗] [定时]^n^n^w号角的坚定号令可扭转战局，激励范围内的所有队友以焕发的活力作战。
-
 tagSkillName123=鼓舞{^K} 「防御」^-
 tagSkillDescription123=^b[修饰符]^n^n^w鼓舞队友，使其战斗更卖力，提升攻击能力与伤害。
 
 tagSkillName122=战斗感知{^K} 「防御」^-
 tagSkillDescription122=^b[范围] [增益]^n^n^w进入高度警觉状态，使你及周围队友更有效地察觉并应对攻击。
-
 tagSkillName124=反抗{^K} 「防御」^-
 tagSkillDescription124=^b[修饰符]^n^n^w赋予队友抵御巨大逆境的决心。
 
 tagShieldTrainingNAME=盾牌专精{^K} 「防御」^-
 tagShieldTrainingDESC=^b[被动]^n^o[盾牌]^n^n^w经过正确训练，防御者能将盾牌用作武器与防御工具。 ^o需要盾牌。
-
 tagSkillName125=盾击{^K} 「防御」^-
 tagSkillDescription125=^b[武器技能] [近战]^n^o[盾牌]^n^n^w使用盾牌的战斗技巧，可同时造成武器与盾牌伤害。 ^o此为近战武器与盾牌组合技，需同时装备近战武器与盾牌。
-
 tagSkillName126=击晕{^K} 「防御」^-
 tagSkillDescription126=^b[武器技能] [近战]^n^o[盾牌]^n^n^w使用盾牌压制敌人，使其失去平衡。 ^o此为近战武器与盾牌组合技，需同时装备近战武器与盾牌。
-
 tagSkillName127=粉碎{^K} 「防御」^-
 tagSkillDescription127=^b[武器技能] [近战] [波动] [嘲讽]^n^o[盾牌]^n^n^w使用盾牌猛击地面，释放强力冲击波。 ^o此为近战武器与盾牌组合技，需同时装备近战武器与盾牌。
 
-#打击技能
-
 tagBatterSkillNAME=猛击{^K} 「防御」^-
 tagBatterSkillDESC=^b[攻击] [范围]^n^o[近战]^n^n^w一次横扫攻击，击中你附近的多名敌人。 ^o需要近战武器。
-
 tagBatterSkill2NAME=击倒{^K} 「防御」^-
 tagBatterSkill2DESC=^b[修饰符]^n^n^w使用残忍的技巧，猛击可以击中更多敌人，并提高命中率，有时造成毁灭性打击。
-
 tagBatterBNAME=猛力{^K} 「防御」^-
 tagBatterBDESC=^b[转化器]^n^n^w强化猛击，显著增加伤害，但会延长冷却时间。
 
@@ -133,16 +118,13 @@ tagSkillDescription163=提高触发肾上腺素激增的频率。
 
 tagIntimidate1NAME=怨恨{^K} 「防御」^-
 tagIntimidate1DESC=^b[法术] [新星] [定时] [减益] [嘲讽]^n^n^w激怒附近敌人，迫使他们在短时间内攻击你。被嘲讽的敌人会暴露破绽，便于反击。
-
 tagIntimidate2NAME=审判{^K} 「防御」^-
 tagIntimidate2DESC=^b[次要修饰符] [光环]^n^n^w你周围的空气化作复仇之力，在审判生效期间对附近敌人造成伤害。
-
 tagIntimidateBNAME=盲目怒火{^K} 「防御」^-
 tagIntimidateBDESC=^b[转化器]^n^n^w受怨恨影响的敌人因你的恐吓而疯狂攻击，暴露出更多弱点。
 
 tagColossus3NAME=不屈方阵{^K} 「防御」^-
-tagColossus3DESC=^b[玩家等级宠物] [墙]^n^n^w召唤已阵亡盟友的幽影再次与你并肩，阻止任何接近的敌人。幽影会用盾牌撞击接近敌人，将其击退，并偶尔践踏大地，对更远的敌人造成伤害。 ^o不屈方阵可根据召唤空间最多召唤5名极乐士兵，在狭窄空间召唤数量会减少。极乐士兵的伤害随玩家等级而提升。
-
+tagColossus3DESC=^b[玩家等级宠物] [墙]^n^n^w召唤已阵亡盟友的幽影再次与你并肩，阻止任何接近的敌人。幽影会用盾牌撞击接近敌人，将其击退，并偶尔践踏大地，对更远的敌人造成伤害。 ^o不屈方阵可根据技能等级与召唤空间最多召唤8名极乐士兵，在狭窄空间召唤数量会减少。极乐士兵的伤害随玩家等级而提升。
 tagFrontlineSpectreNAME=极乐士兵
 tagPhalanxPetSkillName01=方阵攻击
 tagPhalanxPetSkillName02=极乐猛击
@@ -154,309 +136,239 @@ tagDefenseEx1DESC=^b[专属] [增益]^n^o[盾牌]^n^n^w阿德雷斯是复仇女�
 tagDefenseEx2NAME=雅典娜的智慧{^K} 「防御」^-
 tagDefenseEx2DESC=^b[专属] [范围] [增益]^n^n^w雅典娜是战神女神，时刻准备战斗。虔诚信奉雅典娜者将获得部分战术智慧。
 
-#狩猎技能
 
+#狩猎技能
 tagSkillName076=狩猎精通
 tagSkillDescription076=赋予捕猎所需的野性与狡黠。
 
 tagSkillName081=捕兽陷阱{^K} 「狩猎」^-
 tagSkillDescription081=^b[范围] [定时] [减益]^n^n^w将敌人困于钩网中。附近敌人也会被困。被困敌人无法移动，但仍可攻击。
-
 tagSkillName078=束缚{^K} 「狩猎」^-
 tagSkillDescription078=^b[次要修饰符] [束缚]^n^n^w用来束缚敌人的重网现在被绑定到你身上。施放技能后，一条链条将你与目标相连。目标及任何经过链条的敌人都会减速并受到伤害。
 
 tagSkillName089=击倒{^K} 「狩猎」^-
 tagSkillDescription089=^b[法术] [移动]^n^n^w武器的猛烈刺击造成毁灭性穿刺伤害，并削减敌人部分总生命。 ^o需要近战武器（长矛）。
-
 tagSkillName090=剜裂{^K} 「狩猎」^-
 tagSkillDescription090=^b[修饰符]^n^n^w锁定敌人要害部位造成持续流血伤害，偶尔击中真正的致命点造成暴击伤害。
-
 tagAotHBNAME=瘟疫武器{^K} 「狩猎」^-
 tagAotHBDESC=^b[转化器]^n^n^w猎人将武器涂上毒药，借助可穿透护甲和肉体的酸液轻松猎杀更强猎物。 //^o需要长矛。
 
 tagSkillName095=研究猎物{^K} 「狩猎」^-
 tagSkillDescription095=^b[范围] [定时] [减益]^n^n^w远距离观察猎物可能发现其弱点，从而造成更高穿刺伤害。
-
 tagSkillName096=驱逐{^K} 「狩猎」^-
 tagSkillDescription096=^b[修饰符]^n^n^w将敌人引出掩体，使其更容易被攻击。
 
 tagSkillName084=狩猎之道{^K} 「狩猎」^-
 tagSkillDescription084=^b[范围] [增益]^n^n^w狩猎经验让你在战斗中占据优势，大幅提升猎杀野兽的能力以及穿刺和毒素伤害。
-
 tagSkillName093=开路先锋{^K} 「狩猎」^-
 tagSkillDescription093=^b[修饰符]^n^n^w授予追猎者持久力，使其能不断追踪猎物，即使最密集的灌木丛也无法减缓追击。
-
 tagSkillName094=寻找掩护{^K} 「狩猎」^-
 tagSkillDescription094=^b[修饰符]^n^n^w利用可用掩护进行攻击，帮助你避免不必要的伤害。
 
-#远程技能
-
 tagSkillName169=射击精通{^K} 「狩猎」^-
 tagSkillDescription169=^b[攻击替代]^n^o[远程]^n^n^w射击精通技能使你能够制作并发射飞行更快、穿透力更强的箭矢。 ^o作为默认武器攻击使用时，射击精通会造成额外伤害。 ^o需要远程武器。
-
 tagSkillName170=穿透箭{^K} 「狩猎」^-
 tagSkillDescription170=^b[修饰符] [穿透]^n^n^w将更流线型的箭杆整合入箭矢，使其能够穿透目标并击中路径上的其他敌人。
-
 tagSkillName088=利用弱点{^K} 「狩猎」^-
 tagSkillDescription088=^b[修饰符]^n^n^w瞄准敌人的盔甲薄弱点，使射击精通造成额外闪电伤害，并有可能将敌人击倒。
-
 tagSkillName171=散射箭{^K} 「狩猎」^-
 tagSkillDescription171=^b[修饰符]^n^n^w精湛制箭师的秘密技艺：打造特殊箭头，击中目标时爆裂，向四周发射锋利碎片。每片碎片对击中的敌人造成穿刺伤害。
-
 tagMarksmanshipBNAME=冻原猎手{^K} 「狩猎」^-
 tagMarksmanshipBDESC=^b[转化器]^n^n^w一些猎人不依赖火器或其他远程武器的穿透力，而是使用特殊弹药，此处为冰霜弹药。 ^o需要单手或双手远程武器，不适用于法杖。
 
-#近战风暴技能
+tagSpearTempestNAME=旋风风暴{^K} 「狩猎」^-
+tagSpearTempestDESC=^b[法术] [新星]^n^o[近战]^n^n^w用你的近战武器横扫周围区域，击中多个敌人。 ^o需要近战武器。
+tagStormStrikeNAME=风暴打击{^K} 「狩猎」^-
+tagStormStrikeDESC=^b[修饰符]^n^n^w空气中充满风暴魔法，当你旋转时，对被击中的敌人造成闪电伤害。
+tagTempestBNAME=鲁莽扫击{^K} 「狩猎」^-
+tagTempestBDESC=^b[转化器]^n^n^w以最大力度发动攻击，以极高伤害为代价，消耗更多资源并增加冷却。
 
-tagSpearTempestNAME=旋风风暴{^K} 「风暴」^-
-tagSpearTempestDESC=^b[法术] [新星]^n^o[近战]^n^n^w用近战武器扫击周围区域，打击多个敌人。 ^o需要近战武器。
+tagSkillName079=狩猎呼唤{^K} 「狩猎」^-
+tagSkillDescription079=^b[定时] [增益] [延迟冷却]^n^o[暴击触发]^n^n^w当你命中^o暴击^w时，猎人响应狩猎的呼唤，获得增强的力量与敏捷。//回应狩猎呼唤的人将以更快的速度和更高的敏捷作战。
 
-tagStormStrikeNAME=风暴打击{^K} 「风暴」^-
-tagStormStrikeDESC=^b[修饰符]^n^n^w在施法过程中空气中充满风暴魔力，对击中的敌人造成闪电伤害。
-
-tagTempestBNAME=暴怒{^K} 「风暴」^-
-tagTempestBDESC=^b[转化器]^n^n^w旋风风暴受到阿波罗烈焰的祝福，蕴含太阳之力。
-
-#猎人增益技能
-
-tagSkillName079=狩猎之召{^K} 「狩猎」^-
-tagSkillDescription079=^b[定时] [增益]^n^o[暴击时]^n^n^w成功^o暴击^w时，猎人回应狩猎之召，获得力量与敏捷的提升。 //响应狩猎之召者将以更高速度与狡猾进行战斗。
-
-tagSkillName097=怪物诱饵{^K} 「狩猎」^-
-tagSkillDescription097=^b[玩家等级宠物] [嘲讽]^n^n^w投放诱饵以吸引附近怪物注意。投放后短时间内，诱饵受重甲保护。敌人接近时，机关触发定时炸弹，使诱饵爆炸，火焰碎片四散。 ^o诱饵伤害随玩家加成而提升。
-
+tagSkillName097=诱怪{^K} 「狩猎」^-
+tagSkillDescription097=^b[玩家缩放宠物] [嘲讽]^n^n^w投放一个诱饵，引诱附近怪物的注意，其存在期间带有挑衅光环，并在召唤时产生迷惑爆炸。诱饵在被敌人攻击前不可被破坏，然后开始倒计时直至爆炸。 ^o诱饵会随玩家伤害加成缩放。
 tagSkillName193=引爆{^K} 「狩猎」^-
-tagSkillDescription193=为怪物诱饵添加隐藏炸药，破坏时会引爆。引爆需要诱饵满能量。
-
-tagGQPetSkill01=带刺结构{^K} 「狩猎」^-
-tagMonsterLureInitialSkillNAME=坚固构造
-
-#草药技能
+tagSkillDescription193=给诱饵附加隐藏爆炸，当被摧毁时引爆。诱饵必须满能量才能引爆。
+tagGQPetSkill01=铁刺构造{^K} 「狩猎」^-
+tagMonsterLureInitialSkillNAME=强化构造
 
 tagSkillName091=草药疗法{^K} 「狩猎」^-
-tagSkillDescription091=^b[范围] [增益] [治疗] [定时]^n^n^w依靠大自然生存，你学会辨认和使用药用植物制作治疗膏药。施用后，可抵抗毒素并在一段时间内加速治疗效果。 ^o此效果同时作用于附近盟友。
+tagSkillDescription091=^b[范围] [增益] [治疗] [定时]^n^n^w依靠大自然生存，你学会识别并利用药用植物制作治疗药膏。使用时可增强对毒素的抵抗并加速治疗，持续一段时间。 ^o该效果也适用于附近盟友。
+tagHerbalismBNAME=奇伦之训{^K} 「狩猎」^-
+tagHerbalismBDESC=^b[转化器]^n^n^w奇伦的教导使你能够充分发挥草药疗法的潜力，减少冷却并增加能量回复。 ^o需要长矛或任意双手武器。
 
-tagHerbalismBNAME=奇伦教导{^K} 「狩猎」^-
-tagHerbalismBDESC=^b[转化器]^n^n^w奇伦的教导使你最大化利用草药疗法，缩短冷却时间并提高能量恢复。 ^o需要长矛或任何双手武器。
+tagFlayerNAME=阿尔忒弥斯的月光祝福{^K} 「狩猎」^-
+tagFlayerDESC=^b[专属] [增益]^n^n^w狩猎与月亮女神阿尔忒弥斯赐福那些虔诚者。她的月光祝福让武器更加锋利，并附加闪电效果。
 
-#专属祝福技能
+tagTrapperSenseNAME=阿波罗的阳光祝福{^K} 「狩猎」^-
+tagTrapperSenseDESC=^b[专属] [增益]^n^n^w弓箭与太阳之神阿波罗赐福那些虔诚者。他的阳光祝福增强你的物理力量，并为武器附加火焰效果。
 
-tagFlayerNAME=阿尔忒弥斯月光祝福{^K} 「狩猎」^-
-tagFlayerDESC=^b[专属] [增益]^n^n^w狩猎与月亮女神阿尔忒弥斯祝福虔诚信奉者。月光祝福使武器锋利，并附加闪电之力。
-
-tagTrapperSenseNAME=阿波罗太阳祝福{^K} 「狩猎」^-
-tagTrapperSenseDESC=^b[专属] [增益]^n^n^w弓术与太阳之神阿波罗祝福虔诚信奉者。太阳祝福提升体力，并附加火焰之力于武器。
-
-#自然/猎人武器技能
-
-tagSkillName077=林木学识{^K} 「狩猎」^-
-tagSkillDescription077=^b[被动]^n^o[长矛] [远程]^n^n^w在荒野生存中，能够熟练使用武器进行狩猎至关重要。对这些武器的熟练掌握使你能够以极高的速度和精度使用它们。 ^o提供长矛和远程武器加成。
-
-tagSkillName172=割裂{^K} 「狩猎」^-
-tagSkillDescription172=^b[武器池技能] [多重投射] [多次攻击]^n^o[长矛] [远程]^n^n^w一项战斗技巧，可造成深度创伤并引发持续流血。 ^o需要长矛或远程武器。激活于默认武器攻击。
-
+tagSkillName077=狩猎知识{^K} 「狩猎」^-
+tagSkillDescription077=^b[被动]^n^o[长矛] [远程]^n^n^w生存于荒野的核心能力是善于使用武器狩猎。熟练使用这些武器可以让你以极快的速度和精准作战。 ^o适用于长矛和远程武器加成。
+tagSkillName172=撕裂{^K} 「狩猎」^-
+tagSkillDescription172=^b[武器池技能] [多弹道] [多次攻击]^n^o[长矛] [远程]^n^n^w一项战斗技巧，造成深度创伤并导致持续流血。 ^o需要长矛或远程武器。触发于默认武器攻击。
 tagSkillName173=连射{^K} 「狩猎」^-
-tagSkillDescription173=^b[武器池技能] [多重投射] [多次攻击]^n^o[长矛] [远程]^n^n^w一项战斗技巧，快速连续攻击三次。每次攻击发射指定数量的投射物。 ^o需要长矛或远程武器。激活于默认武器攻击。
-
+tagSkillDescription173=^b[武器池技能] [多弹道] [多次攻击]^n^o[长矛] [远程]^n^n^w快速连续攻击三次，每次攻击发射指定数量的弹道。 ^o需要长矛或远程武器。触发于默认武器攻击。
 tagSerpentStrikeNAME=蛇击{^K} 「狩猎」^-
-tagSerpentStrikeDESC=^b[武器池技能]^n^o[长矛] [远程]^n^n^w增加短时间内攻击两次的几率。每次攻击发射指定数量的投射物。 ^o需要长矛或远程武器。激活于默认武器攻击。
-
-#投射/陷阱宠物技能
+tagSerpentStrikeDESC=^b[武器池技能]^n^o[长矛] [远程]^n^n^w有几率在瞬间攻击两次，每次攻击发射指定数量的弹道。 ^o需要长矛或远程武器。触发于默认武器攻击。
 
 tagFletchetteBombNAME=集束地雷{^K} 「狩猎」^-
-tagFletchetteBombDESC=^b[玩家等级宠物] [陷阱] [多重投射]^n^n^w在指定位置放置炸弹。当敌人靠近时触发，引爆时发射多枚酸液集束炸弹。爆炸时释放更小的酸液碎片。 ^o酸液集束炸弹需要1.5秒激活，并随玩家伤害加成增强。
-
-tagImprovedTrapsNAME=反应装置{^K} 「狩猎」^-
-tagImprovedTrapsDESC=^b[宠物技能] [范围] [初始攻击]^n^n^w为集束炸弹添加机制，使其更具爆炸性，放置后瞬间喷射毒液，对敌人造成酸液伤害并使其眩晕。 //通过改良集束炸弹构造技术，提高伤害。
-
+tagFletchetteBombDESC=^b[玩家缩放宠物] [陷阱] [多弹道]^n^n^w在指定位置放置炸弹。敌人靠近时触发，引爆多枚酸性集束炸弹。炸弹爆炸时会散射小型酸性碎片。 ^o酸性集束炸弹需1.5秒准备，并随玩家伤害加成缩放。//在指定位置放置集束炸弹，敌人靠近触发，引爆时发射碎片，对附近敌人造成伤害。碎片会短暂附着敌人并造成持续伤害。
+tagImprovedTrapsNAME=闪电引爆{^K} 「狩猎」^-
+tagImprovedTrapsDESC=^b[宠物技能] [范围] [初始攻击]^n^n^w给集束炸弹增加机制，使其更具爆炸性，放置后瞬间喷射毒液，喷洒敌人并使其眩晕。//通过改良集束地雷制造技术，提高地雷伤害。
 tagBarbedNailsNAME=强化弹药{^K} 「狩猎」^-
-tagBarbedNailsDESC=^b[宠物修饰符]^n^n^w集束炸弹装填更危险的弹药，提高伤害并降低被击中敌人的攻击速度。
-
-tagFletchetteBombSkillNAME=酸液扫射{^K} 「狩猎」^-
-tagFletchetteBombSkillNAMEB=烈焰扫射{^K} 「狩猎」^-
-
-tagEnsnareBombPet=酸液集束炸弹
+tagBarbedNailsDESC=^b[宠物修饰符]^n^n^w集束炸弹装填更危险的弹药，提高伤害，并降低被击中敌人的攻击速度。
+tagFletchetteBombSkillNAME=引爆
+tagFletchetteBombSkillDESC=给诱饵附加隐藏爆炸，当被摧毁时引爆。
+tagFletchetteBombSkillNAMEB=烈焰连射
+tagEnsnareBombPet=酸性集束炸弹
 tagEnsnareBombBPet=烈焰集束地雷
-
 tagFletchetteBombBNAME=烈焰集束地雷{^K} 「狩猎」^-
-tagFletchetteBombBDESC=^b[转化器] [宠物替换]^n^n^w猎人祈求赫淮斯托斯的力量，制造火焰陷阱代替毒液陷阱。 谁想让猎物中毒呢？不如烧烤它。
+tagFletchetteBombBDESC=^b[转化器] [宠物替换]^n^n^w猎人向赫淮斯托斯祈求，制作火焰陷阱代替毒性陷阱。谁愿意让猎物中毒，不如直接烤熟它们？
+tagImprovedTrapsBDESC=为烈焰集束地雷增加机制，使其更具爆炸性，放置后瞬间喷射火焰，喷洒敌人并使其眩晕。
 
-tagImprovedTrapsBDESC=为烈焰集束地雷添加机制，使其更具爆炸性，放置后瞬间喷射火焰，对敌人造成伤害并使其眩晕。
-
-#弓箭/远程投射宠物技能
-
-tagArrowCurtainNAME=天射箭雨{^K} 「狩猎」^-
-tagArrowCurtainDESC=^b[玩家等级宠物] [投射物下落] [固定]^n^n^w放置迫击炮，发射高空爆炸弹，爆炸后在区域内下落燃烧箭雨。 ^o天射箭雨随玩家伤害加成增强。
-
-tagSignalFirePet=天射箭雨发射器
-
-tagSpectralHunterNAME=雷霆弹药{^K} 「狩猎」^-
-tagSpectralHunterDESC=^b[修饰符]^n^n^w为天射箭雨填充特殊弹药，使其造成闪电伤害并有几率使敌人眩晕。
+tagArrowCurtainNAME=天空箭幕{^K} 「狩猎」^-
+tagArrowCurtainDESC=^b[玩家缩放宠物] [投射物掉落] [固定]^n^n^w召唤猎人之灵协助战斗。幽灵射出尖啸箭矢，在空中爆炸并向区域投射碎片。 ^o极乐射手随玩家伤害加成缩放。
+tagSignalFirePet=极乐射手
+tagSignalFirePetSkill=天空箭幕{^K} 「狩猎」^-
+tagSpectralHunterNAME=德尔菲烈焰{^K} 「狩猎」^-
+tagSpectralHunterDESC=^b[修饰符]^n^n^w为极乐射手的箭矢赋予神圣烈焰，并增加箭幕强度与密度。
 
 
 
 
 
 
+#TQ死靈技能{^K} 「TQ死靈」^-
+tagSkillName030=灵魂掌握
+tagSkillDescription030=提供奥术知识与精神修炼，使你能够研习操控灵魂的黑暗艺术。
 
-#TQ死靈技能
+tagSkillName032=死亡幻象
+tagSkillDescription032=^b[范围] [法术] [定时]^n^n^w对周围敌人的心智施加死亡的影像，使胆怯者陷入虚弱并减速。
+tagSkillName214=恐惧洪流
+tagSkillDescription214=^b[修饰符]^n^n^w恐惧愈加深重，陷入恐惧洪流的敌人有几率被幻象压垮。//古代文明的魔法实践者创造了许多阴险的技巧以增强破坏力。
 
-tagSkillName030=精神掌握{^K} 「TQ死靈」^-
-tagSkillDescription030=提供研究控制灵魂黑暗艺术所需的奥术知识与心智训练。
+tagSkillName039=死亡守护
+tagSkillDescription039=^b[增益] [定时] [生命阈值] [延迟冷却]^n^n^w在玩家身上施加魔法守护，当生命值低至危险水平时自动恢复生命，防止死亡。
 
-tagSkillName032=死亡幻象{^K} 「TQ死靈」^-
-tagSkillDescription032=^b[范围] [法术] [持续]^n^n^w以自身死亡的幻象攻击周围敌人的心智，使胆小者变得虚弱且行动迟缓。
+tagSkillName035=死亡寒意光环
+tagSkillDescription035=^b[减益] [光环]^n^n^w角色散发死亡般的寒意，使敌人减速，同时削弱其力量与速度。
+tagSkillName037=坏死
+tagSkillDescription037=^b[修饰符] [减益]^n^n^w削弱受死亡寒意光环影响的敌人的体质，使其更易受到寒冷、死灵魔法及以太魔法的伤害。
 
-tagSkillName214=恐惧洪流{^K} 「TQ死靈」^-
-tagSkillDescription214=^b[修饰符]^n^n^w疯狂更加深重，被恐惧洪流困住的敌人有几率被幻象压倒。//古文明的魔法师设计了许多阴险技巧以增强破坏力。
+tagSkillName048=力量之环
+tagSkillDescription048=^b[玩家缩放宠物] [固定] [范围] [增益]^n^n^w创造一圈力量之环，使圈内生物获得强大力量，提升魔法能力。
+tagCircleOfPowerSkill1Name=能量吸取
+tagCircleOfPowerSkill2Name=能量转移
 
-tagSkillName039=死亡守护{^K} 「TQ死靈」^-
-tagSkillDescription039=^b[增益] [持续] [生命阈值]^n^n^w在玩家身上施加魔法守护，当生命值降至危险水平时恢复生命以防死亡。
+tagSkillName155=黑暗盟约
+tagSkillDescription155=^b[范围] [增益] [定时]^n^n^w神秘的异界存在为能够与其交流的灵魂掌握者提供强大力量。
+tagSkillName046=异界之力
+tagSkillDescription046=^b[修饰符]^n^n^w汲取更强大的异界力量来增强自身及盟友的战斗能力。
 
-tagSkillName035=死寒光环{^K} 「TQ死靈」^-
-tagSkillDescription035=^b[减益] [光环]^n^n^w从角色身上散发死寂寒气，减缓敌人的速度并削弱其力量。
+tagBoneSpireNAME=以太化
+tagBoneSpireDESC=^b[转化器]^n^o[近战]^n^n^w通过召唤大量古代灵魂，通灵术士可以将强大力量汇聚到近战武器中，而非从法杖发射爆炸弹。
+tagBoneSpire2NAME=冥界契约
+tagBoneSpire2DESC=^b[修饰符]^n^n^w利用黑暗死灵能量，居住于武器中的幽灵渗入你的护甲，强化身体并进一步增强攻击力。//利用黑暗死灵能量，强大的幽灵尖塔能深入破坏敌人体内，并撕裂被攻击者的本质。
+tagBoneSpire3NAME=时间蹂躏//奥术知识
+tagBoneSpire3DESC=^b[二次修饰符] [光环]^n^n^w古代文明的魔法实践者创造了许多阴险技巧以增强战斗致命性。利用这些奥术知识，你可以散发黑暗精华，削弱敌人的生命与力量。//掌握这些方法将解锁攻击的真正威力。//尖塔象征着失落灵魂的扭曲恶意能量，被其击中的敌人将受到黑暗魔法的侵蚀，并在幸存时暂时虚弱。
+tagDeathchillBNAME=凛冽之触
+tagDeathchillBDESC=^b[武器池技能]^n^o[暴击触发]^n^n^w对敌人本质发起阴影攻击，默认攻击的暴击有几率使目标灵魂向外爆裂，对附近敌人造成伤害。
 
-tagSkillName037=腐朽{^K} 「TQ死靈」^-
-tagSkillDescription037=^b[修饰符] [减益]^n^n^w削弱受死寒光环影响敌人的体质，使其更容易受到寒冷、死灵魔法和虚灵魔法的伤害。
 
-tagSkillName048=力量之环{^K} 「TQ死靈」^-
-tagSkillDescription048=^b[玩家等级宠物] [固定] [范围] [增益]^n^n^w创造一个力量之环，为其中的单位赋予强大魔力，增强其魔法能力。
-tagCircleOfPowerSkill1Name=吸取能量
-tagCircleOfPowerSkill2Name=转移能量
+tagSkillName045=召唤巫妖王
+tagSkillDescription045=^b[宠物] [远程]^n^n^w往昔，强大的术士学会了如何欺骗哈迪斯，并在死亡夺走肉体之后仍能以不死巫妖的身份存续。术士们的一项危险技艺是将这些古老巫妖的灵魂绑定于自身意志，从而获得他们的力量。^o一次只能召唤一只巫妖。巫妖的能力随宠物加成而提升。
+tagMonsterName1195=被奴役的巫妖王
+tagSkillName217=幽影之矢
+tagSkillDescription217=从天空释放幽影能量箭，消耗接触到的生物的生命力。
+tagSkillName232=守护领域
+tagSkillDescription232=施放保护结界，减少玩家及附近盟友受到的亡灵攻击伤害。
+tagSkillName042=灵魂诅咒
+tagSkillDescription042=允许巫妖王制造负能量爆炸，削弱敌人的体质，使其对各种伤害更易受影响。
+tagSkillName207=死亡新星
+tagSkillDescription207=^b[宠物技能] [AOE] [新星]^n^n^w释放死亡波，消耗接触到的所有生物的生命力。
+tagSkillName044=幽影护体
+tagSkillDescription044=^b[宠物增益] [AOE]^n^n^w部分强大的亡灵极具韧性，并能将这种韧性延伸给附近盟友。//允许巫妖王削弱其实体存在，使其对各种伤害的抗性提高。
+tagSkillName201=幽影弹幕
+tagSkillDescription201=^b[宠物技能] [投射物投放] [AOE]^n^n^w依靠古老奥术技艺，巫妖王形成致命的死亡能量箭并向敌人发射。
 
-tagSkillName155=暗之契约{^K} 「TQ死靈」^-
-tagSkillDescription155=^b[范围] [增益] [持续]^n^n^w神秘的异界实体为能与之沟通的精神掌握者提供强大力量。
+tagWraithlordBNAME=骨魔
+tagWraithlordBDESC=^b[变换器] [宠物替换]^n^n^w骨魔是一种古老的恐怖，其名字已被遗忘。它从亡者灵魂中汲取力量，将冥河之力源源不断地导入自身。骨魔替代你的巫妖王召唤，其以太伤害被替换为冰霜伤害。
+tagBonefiendNAME=骨魔
+tagBonefiendDESC=骨魔是一种古老的恐怖，其名字已被遗忘。它从亡者灵魂中汲取力量，将冥河之力源源不断地导入自身。^o一次只能召唤一只骨魔。骨魔的能力随宠物加成而提升。
+tagBoneclaws=骨爪
+tagBoneSpiritBreath=灵魂吐息
+tagBoneSpiritBreathDESC=从其古老躯体中汲取以太，骨魔向敌人喷吐致命气息。
+tagBonefiendShellNAME=幽影护体
+tagBonefiendShellDESC=允许骨魔削弱其实体存在，使其对各种伤害的抗性提高。
+tagBonePound=冥河尖刺
+tagBonePoundDESC=释放一圈幽影骨刺，消耗接触到的所有生物的生命力。
 
-tagSkillName046=超凡力量{^K} 「TQ死靈」^-
-tagSkillDescription046=^b[修饰符]^n^n^w汲取更强大的异界力量，为自己和盟友在战斗中提供增强。
+tagInDeathIsDeathNAME=灵魂守护
+tagInDeathIsDeathDESC=^b[AOE] [增益]^n^n^w施放保护结界，为你提供伤害减免，如果敌人为亡灵则效果更佳。//减少受影响单位受到的亡灵攻击伤害，并提升他们的施法速度、活力和能量回复。
+tagServeThyMasterNAME=灵魂之祸
+tagServeThyMasterDESC=^b[修饰]^n^n^w在灵魂守护效果下，大幅提升你的奥术熟练度。//在灵魂守护效果下造成的伤害增加，对亡灵的伤害进一步放大。
 
-tagBoneSpireNAME=以太化{^K} 「TQ死靈」^-
-tagBoneSpireDESC=^b[转化器] ^n^o[近战]^n^n^w通过召唤大量古灵，术士可将巨大力量注入近战武器，而非从法杖发射爆炸能量。
+tagAetherboltNAME=吸取生命
+tagAetherboltDESC=^b[引导] [远程] [法术] [连锁]^n^n^w灵能施法者的主要回复手段，通过汲取他人的生命力来恢复自身。^o这是一个引导技能，需要按住才能持续施放。100%施法速度下，每0.3秒吸取生命并消耗能量。
+tagGraspingDeadNAME=死灵纠缠
+tagGraspingDeadDESC=^b[次级修饰] [AOE]^n^n^w死亡幻象愈发明显，死者灵魂穿越帷幕抓住范围内敌人，压制并吸取他们的生命。
+tagSoulCascadeNAME=灵魂洪流
+tagSoulCascadeDESC=^b[修饰] [连锁]^n^n^w施法者增强对灵魂漩涡中目标的控制，从而吸取更多生命。
+tagLifeDrainBNAME=吞噬
+tagLifeDrainBDESC=^b[变换器]^n^n^w不再只吸取少量生命，而是试图完全榨干目标的生命精华。使用后短时间无法再次施放，因为此技能消耗极大。
 
-tagBoneSpire2NAME=冥界契约{^K} 「TQ死靈」^-
-tagBoneSpire2DESC=^b[修饰符]^n^n^w利用黑暗腐朽能量，武器中的幽灵侵入护甲，强化身体并进一步提升攻击力。 //强大的幽灵尖塔能撕裂肉体，并击碎被击中者的本质。
+tagSpiritWPSNAME=幽灵尖塔
+tagSpiritWPSDESC=^b[武器池技能] [波]^n^n^w通过召唤大量沉睡的魔法，秘法师能够竖起巨大的尖塔，撕裂大地，对路径上的敌人造成毁灭性的打击。 ^o可通过所有默认武器攻击触发。
 
-tagBoneSpire3NAME=时间蹂躏{^K} 「TQ死靈」^-
-tagBoneSpire3DESC=^b[次级修饰符] [光环]^n^n^w古文明的魔法师设计了许多阴险技巧以提升战斗致命性。利用这些奥术知识，你可散发黑暗精华，削弱敌人的生命与力量。 //掌握这些方法可解锁攻击的真正力量。尖塔代表失落灵魂的扭曲恶能，击中敌人会造成伤害并暂时削弱其能力。
+tagSkillName213=三重攻击
+tagSkillDescription213=^b[攻击] [多重投射] [AOE] ^n^o[远程] [法杖]^n^n^w这一强力法师技巧会将魔法能量注入武器，使其发射三枚投射物。初始每次命中威力不如普通攻击，但随等级提升效果增强。 ^o需要远程武器或法杖。
 
-tagDeathchillBNAME=蹂躏{^K} 「TQ死靈」^-
-tagDeathchillBDESC=^b[武器池技能]^n^o[暴击触发]^n^n^w对敌人本质进行阴暗打击，暴击可使目标灵魂爆炸，对周围敌人造成伤害。 //珀耳塞福涅的神力使你的攻击符合其双重性，活力伤害转化为毒性，物理伤害转化为冰冷。
+tagSkillName212=灵魂盛宴
+tagSkillDescription212=^b[新星] [计时] [减益]^n^n^w穿透敌人意识的屏障，束缚其灵魂，将其生命为你所用。被奴役的敌人会暂时混乱，其生命精华会转移给你。
+tagEnslaveBNAME=冥河之心
+tagEnslaveBDESC=^b[变换器]^n^n^w驾驭冥河冰冷的水流，使你能延长冻结敌人灵魂的时间。
+tagMiasmaNAME=阴毒瘴气
+tagMiasmaDESC=^b[修饰] [减益]^n^n^w有毒烟雾环绕你的目标，使其元气削弱，并让其更易受到寄生攻击的伤害。
 
-tagSkillName045=召唤巫妖王{^K} 「TQ死靈」^-
-tagSkillDescription045=^b[宠物] [远程]^n^n^w古代强大法师学习欺骗冥界，使自己在死亡后化为不死巫妖。术士可将古老巫妖的灵魂束缚于自身意志，从而获得其力量。 ^o一次只能召唤一只巫妖，巫妖会随宠物加成提升。
-
-tagMonsterName1195=被束缚的巫妖王
-tagSkillName217=幽灵能量箭{^K} 「TQ死靈」^-
-tagSkillDescription217=从天空释放幽灵能量箭，接触到的生物生命值下降。
-
-tagSkillName232=高级领域{^K} 「TQ死靈」^-
-tagSkillDescription232=施加保护护盾，减少玩家及附近盟友受到的不死生物攻击伤害。
-
-tagSkillName042=灵魂枯萎{^K} 「TQ死靈」^-
-tagSkillDescription042=让巫妖王产生负能量爆炸，削弱敌人的体质，使其更易受到各种伤害。
-
-tagSkillName207=死亡新星{^K} 「TQ死靈」^-
-tagSkillDescription207=^b[宠物技能] [范围] [新星]^n^n^w释放死亡波动，削减接触生物的生命值。
-
-tagSkillName044=幽影护甲{^K} 「TQ死靈」^-
-tagSkillDescription044=^b[宠物增益] [范围]^n^n^w部分强大不死生物极其坚韧，可将这种韧性扩展到附近盟友。 //允许巫妖王减弱自身实体存在，使其对各种伤害更不易受损。
-
-tagSkillName201=幽灵弹幕{^K} 「TQ死靈」^-
-tagSkillDescription201=^b[宠物技能] [投射物下落] [范围]^n^n^w巫妖王利用古代奥术制造致命死能能量弹并发射至敌人。
-
-tagWraithlordBNAME=骨魔{^K} 「TQ死靈」^-
-tagWraithlordBDESC=^b[转化器] [宠物替换]^n^n^w骨魔是一种古老的恐怖，其名字早已遗忘。它汲取亡者的灵魂力量，并无尽地从冥河直接吸取能量。骨魔替换巫妖王召唤，其虚化伤害被替换为寒冷伤害。
-
-tagBonefiendNAME=骨魔{^K} 「TQ死靈」^-
-tagBonefiendDESC=骨魔是一种古老的恐怖，其名字早已遗忘。它汲取亡者的灵魂力量，并无尽地从冥河直接吸取能量。^o一次只能召唤一只骨魔。骨魔随宠物加成提升。
-
-tagBoneclaws=骨爪{^K} 「TQ死靈」^-
-tagBoneSpiritBreath=灵魂吐息{^K} 「TQ死靈」^-
-tagBoneSpiritBreathDESC=从其古老的身体中吸取以太能量，骨魔向敌人吐出致命毒气。
-
-tagBonefiendShellNAME=幽影护甲{^K} 「TQ死靈」^-
-tagBonefiendShellDESC=允许骨魔减弱其实体存在，使其对各种伤害更不易受损。
-
-tagBonePound=冥河尖塔{^K} 「TQ死靈」^-
-tagBonePoundDESC=释放一圈幽灵骨尖塔，接触的生物生命值会被消耗。
-
-tagInDeathIsDeathNAME=灵魂守护{^K} 「TQ死靈」^-
-tagInDeathIsDeathDESC=^b[范围] [增益]^n^n^w施加保护护盾，可保护你免受伤害，对不死生物效果更佳。//减少受护盾影响者受到的不死生物攻击伤害，并增加施法速度、生命力和能量恢复。
-
-tagServeThyMasterNAME=灵魂克星{^K} 「TQ死靈」^-
-tagServeThyMasterDESC=^b[修饰符]^n^n^w在灵魂守护效果下，大幅提升你的奥术熟练度。//在灵魂守护效果下提升造成的伤害，对不死生物的伤害进一步放大。
-
-tagAetherboltNAME=生命吸取{^K} 「TQ死靈」^-
-tagAetherboltDESC=^b[引导] [远程] [法术] [连锁]^n^n^w灵魂施法者的主要恢复手段，通过吸取他人的生命力来恢复自身。^o这是一个引导技能，需要持续按下施放。在100%施法速度下，生命吸取每0.3秒造成伤害并消耗能量。
-
-tagGraspingDeadNAME=死者之握{^K} 「TQ死靈」^-
-tagGraspingDeadDESC=^b[次级修饰符] [范围]^n^n^w死亡幻象更加明显，亡者的灵魂穿越面纱抓挠范围内的敌人，束缚并吸取其生命。
-
-tagSoulCascadeNAME=灵魂倾泻{^K} 「TQ死靈」^-
-tagSoulCascadeDESC=^b[修饰符] [连锁]^n^n^w施法者增强对灵魂风暴中目标的掌控，从其身上吸取更多生命力。
-
-tagLifeDrainBNAME=吞噬{^K} 「TQ死靈」^-
-tagLifeDrainBDESC=^b[转化器]^n^n^w与其仅吸取少量生命不同，你尝试完全抽干目标的生命精华。使用后需短暂冷却，因为技能极其消耗能量。
-
-tagSpiritWPSNAME=幽灵尖塔{^K} 「TQ死靈」^-
-tagSpiritWPSDESC=^b[武器池技能] [波]^n^n^w通过召唤大量休眠魔力，术士可竖起巨大的尖塔撕裂大地，对路径上的敌人造成毁灭性伤害。^o可通过所有默认武器攻击触发。
-
-tagSkillName213=三重攻击{^K} 「TQ死靈」^-
-tagSkillDescription213=^b[攻击] [多重投射物] [范围]^n^o[远程] [法杖]^n^n^w这个强大的法师技巧使你的武器发射三枚投射物，将魔法能量注入武器。初始每次命中威力低于普通攻击，但效果随等级提升。^o需要远程武器或法杖。
-
-tagSkillName212=灵魂盛宴{^K} 「TQ死靈」^-
-tagSkillDescription212=^b[新星] [持续] [减益]^n^n^w穿透敌人的意识屏障，束缚其灵魂，将生命强行转移到自身。被奴役的敌人短时间迷惑，生命精华传输给你。
-
-tagEnslaveBNAME=冥河之心{^K} 「TQ死靈」^-
-tagEnslaveBDESC=^b[转化器]^n^n^w利用冥河冰冷的水域，使你能够延长冻结敌人灵魂的时间。
-
-tagMiasmaNAME=阴险瘴气{^K} 「TQ死靈」^-
-tagMiasmaDESC=^b[修饰符] [减益]^n^n^w有毒蒸汽环绕目标，削弱其体质，使其更易受到寄生攻击。
-
-tagSummonSkeletonNAME=骷髅士兵{^K} 「TQ死靈」^-
-tagSummonSkeletonDESC=^b[宠物] [部队] [近战]^n^n^w最凶残的亡者最渴望重返生者世界。即使是新手，也能诱导这些邪恶灵魂为己所用。^o骷髅士兵随宠物加成提升。等级越高，可同时控制的骷髅数量越多。
-
+tagSummonSkeletonNAME=骷髅士兵
+tagSummonSkeletonDESC=^b[宠物] [成群] [近战] ^n^n^w最凶残的亡者最渴望重返阳间。即使是新手也能将这些恶意灵魂引入奴役。 ^o骷髅士兵随宠物加成成长。等级越高，可同时控制的骷髅数量越多。
 tagSkellyShieldSmackNAME=盾击
 tagRelentlessNAME=不屈亡者
-tagRelentlessDESC=^b[宠物增益] [嘲讽]^n^n^w赋予骷髅士兵通过自身制造的杀戮来强化自身的能力。
+tagRelentlessDESC=^b[宠物增益] [挑衅]^n^n^w赋予骷髅士兵利用其造成的杀戮力量自我增强的能力。
 
-tagSkillName202=召唤异界者{^K} 「TQ死靈」^-
-tagSkillDescription202=^b[宠物] [近战] [持续]^n^n^w从以太之外召唤强大的异界实体。连接只能维持短时间。^o一次只能召唤一名异界者。异界者随宠物加成提升。
-
+tagSkillName202=召唤异界者
+tagSkillDescription202=^b[宠物] [近战] [计时]^n^n^w从以太之外召唤强大的异次元存在。链接只能维持短时间。 ^o每次仅能召唤一名异界者。异界者随宠物加成成长。
 tagMonsterName1324=以太之主
 tagSkillName216=以太打击
-tagSkillDescription216=以超凡的能量打击敌人，其力量可撕裂敌人的灵魂，甚至破坏现实的结构。
+tagSkillDescription216=以异界能量进行打击，能从现实的织体中灼烧敌人的灵魂。
+tagPlanarStepNAME=位面踏步
 
-tagPlanarStepNAME=位面跃步{^K} 「TQ死靈」^-
 
-# 战斗技能
+
+
+#Warfare Skills
 tagSkillName001=战斗精通
 tagSkillDescription001=提供身体素质和纪律训练，使角色能够掌握战士的各种技能。
 
 tagSkillName005=猛攻{^K} 「战斗专精」^-
 tagSkillDescription005=^b[攻击替换]^n^n^w作为默认武器攻击时，每次命中都会增加攻击伤害。首次命中总是将猛攻充能至技能的第一级，并持续充能直至达到当前技能等级。不主动攻击时，猛攻充能会快速消散。^o积累充能可增强加成效果。
-
 tagSkillName007=无视疼痛{^K} 「战斗专精」^-
 tagSkillDescription007=^b[修饰符]^n^n^w在战斗的高压下保持全神贯注，使你忽视物理和穿刺伤害。
-
 tagSkillName006=攻击热情{^K} 「战斗专精」^-
 tagSkillDescription006=^b[修饰符]^n^n^w随着推进攻击，你积聚动能，使攻击更迅速、更凶猛。
-
 tagOnslaughtBNAME=屠戮{^K} 「战斗专精」^-
 tagOnslaughtBDESC=^b[转化器]^n^o[双持]^n^n^w双持近战武器时，猛攻将得到强化。^o这是双持技巧。
 
 tagSkillName010=双持{^K} 「战斗专精」^-
 tagSkillDescription010=^b[被动]^n^o[双持]^n^n^w学习有效双持武器。^o这是近战双持加成，同时启用双持功能。
-
 tagSkillName012=劈砍{^K} 「战斗专精」^-
 tagSkillDescription012=^b[武器池技能]^n^o[双持] [近战]^n^n^w使用双武器进行攻击的战斗技巧。^o这是激活默认武器攻击的近战双持技巧。
-
 tagSkillName009=横斩{^K} 「战斗专精」^-
 tagSkillDescription009=^b[武器池技能] [范围]^n^o[双持] [近战]^n^n^w使用交叉剪切动作攻击多个敌人的战斗技巧。^o这是激活默认武器攻击的近战双持技巧。
-
 tagSkillName008=旋风{^K} 「战斗专精」^-
 tagSkillDescription008=^b[武器池技能] [范围]^n^o[双持] [近战]^n^n^w使用旋转斩攻击周围多个敌人的战斗技巧。^o这是激活默认武器攻击的近战双持技巧。
-
 tagWardanceNAME=无情猛攻{^K} 「战斗专精」^-
 tagWardanceDESC=^b[修饰符]^n^n^w武器训练的巅峰，你的武器技巧变得更致命。^o这是一个技能修饰符，仅适用于^y旋风^o、^y横斩^o和^y劈砍^o，需要先解锁。
 
@@ -465,60 +377,49 @@ tagSkillDescription017=^b[被动]^n^n^w多年的战斗训练让你攻击更快�
 
 tagSkillName014=战风{^K} 「战斗专精」^-
 tagSkillDescription014=^b[引导] [攻击] [范围]^n^o[近战]^n^n^w执行一次毁灭性的旋转攻击，可伤害多个敌人。每次命中初期威力低于普通攻击，但随等级增加。^o需要近战武器。^o这是一个引导技能，需要持续施放。100%攻击速度下，每0.16秒造成伤害并消耗能量。
-
 tagSkillName015=割裂{^K} 「战斗专精」^-
 tagSkillDescription015=^b[修饰符]^n^n^w为战风增加出血伤害，并暂时降低敌人的防御。
-
 tagWarwindBNAME=战意{^K} 「战斗专精」^-
 tagWarwindBDESC=^b[转化器]^n^o[双手近战]^n^n^w武器越大，战风越强。^o需要双手近战武器。
 
 tagSkillName002=战意狂怒{^K} 「战斗专精」^-
-tagSkillDescription002=^b[增益] [持续]^n^o[受击触发]^n^n^w每次命中敌人有几率触发战意狂怒，在短时间内增加攻击伤害和进攻能力。
-
+tagSkillDescription002=^b[增益] [持续][延迟冷却]^n^o[受击触发]^n^n^w每次命中敌人有几率触发战意狂怒，在短时间内增加攻击伤害和进攻能力。
 tagSkillName003=重击{^K} 「战斗专精」^-
 tagSkillDescription003=^b[修饰符]^n^n^w在战意狂怒状态下，攻击有几率造成额外伤害。
 
 tagSkillName016=战争号角{^K} 「战斗专精」^-
 tagSkillDescription016=^b[法术] [范围]^n^n^w你战争号角的凯歌使敌人暂时眩晕。
-
 tagSkillName138=末日号角{^K} 「战斗专精」^-
 tagSkillDescription138=^b[修饰符]^n^n^w你的战争号角宣告敌人的末日，震撼他们的神经，减少他们的防御能力。
-
 tagShrillHornNAME=刺耳号角{^K} 「战斗专精」^-
 tagShrillHornDESC=^b[转化器]^n^n^w迅速吹响战号，产生一个不会令人眩晕但会导致耳朵更加剧烈流血的声音。
 
 tagSkillName192=闪避攻击{^K} 「战斗专精」^-
-tagSkillDescription192=^b[增益] [持续] [生命阈值]^n^n^w即使是最坚固的盔甲也有其弱点。保持生命的最佳方式是避免被击中。
+tagSkillDescription192=^b[增益] [持续] [生命阈值][延迟冷却]^n^n^w即使是最坚固的盔甲也有其弱点。保持生命的最佳方式是避免被击中。
 
 tagSkillName174=战斗旗帜{^K} 「战斗专精」^-
 tagSkillDescription174=^b[范围] [增益]^n^n^w扔下强大的战旗，激励周围盟友的心志。
-
 tagGloryNAME=荣耀{^K} 「战斗专精」^-
 tagGloryDESC=^b[修饰符]^n^n^w你的旗帜为你和你的盟友赢得更大的声誉，激励你们在战斗中发挥近乎传奇的壮举。
 
 tagSkillName139=祖先号角{^K} 「战斗专精」^-
 tagSkillDescription139=^b[玩家加成宠物] [近战]^n^n^w这件古老的传家宝发出的神秘号角召唤古老的幽灵英雄，从极乐世界归来，再次战斗。^o 祖先随玩家的伤害加成提升。
-
 tagMonsterName1326=祖先战士
 tagPetSkillName002=祖先攻击
 tagSkillName179=凯旋
 tagSkillDescription179=^b[宠物光环] [减益]^n^n^w看着你凯旋的必然，敌人失去希望，防御效果大幅降低。
 
 x3tagSkillWarfareLineSlam=泰坦重击{^K} 「战斗专精」^-
-x3tagSkillWarfareLineSlamDesc=^b[法术] [波动]^n^o[近战] [法杖]^n^n^w以巨大力量击中直线上的所有敌人，打乱他们的瞄准和施法。
-
+x3tagSkillWarfareLineSlamDesc=^b[法术] [波动]^n^o[双手近战] [副手]^n^n^w以巨大力量击中直线上的所有敌人，打乱他们的瞄准和施法。
 tagSkillName004=不必要的暴力{^K} 「战斗专精」^-
 tagSkillDescription004=^b[修饰符]^n^n^w大地因暴力的冲击而震动，受到波及的敌人将遭受额外伤害并开始大量出血。
-
 tagVigorNAME=血与肠{^K} 「战斗专精」^-
 tagVigorDESC=^b[次要修饰符] [范围]^n^o[击杀时]^n^n^w被泰坦重击击杀的敌人爆炸，喷出一片血肉，对附近敌人造成伤害。
-
 tagBattleRageBNAME=双重重击{^K} 「战斗专精」^-
-tagBattleRageBDESC=^b[转化器]^n^o[双持]^n^n^w双持近战武器时，泰坦重击的施放时间缩短，每把武器的伤害会被加入攻击中。
+tagBattleRageBDESC=^b[转化器][多次击中]^n^o[双持]^n^n^w泰坦猛击现在可以在双持武器时生效。冲击波的距离会缩短，但每把武器的伤害都会叠加到攻击中。
 
 tagWarleapNAME=英雄跃步{^K} 「战斗专精」^-
 tagWarleapDESC=^b[法术] [移动]^n^n^w战士面对死亡与恐惧，毫不退缩。事实上，给予机会，一位伟大的战士会以强大的跃步冲入战斗。
-
 tagSkillName011=奥林匹克力量{^K} 「战斗专精」^-
 tagSkillDescription011=^b[修饰符]^n^n^w利用奥林匹克的肌肉，你可以跃得更远，并且你的跃击会造成更多伤害。//攻击敌人的双腿会减少敌人的奔跑能力，并使其在短时间内变得更加脆弱。
 
@@ -534,63 +435,48 @@ tagSkillDescription065=赋予你内在的和谐与耐性，使你能够学习野
 
 tagSkillName068=避难所{^K} 「自然精通」^-
 tagSkillDescription068=^b[玩家加成宠物] [静止] [范围] [增益]^n^n^w在你附近生长出一片保护性荆棘，散发出一种恢复气息，能够恢复周围生物的生命，并减少所受的伤害。^o荆棘守护随着玩家的伤害加成提升。
-
 tagSkillName190=刺痛荨麻{^K} 「自然精通」^-
 tagSkillDescription190=^b[宠物光环] [减益]^n^n^w在荆棘附近创造一片毒区，刺痛那些接近的敌人。
-
 tagMonsterName216=荆棘守护{^K} 「自然精通」^-
 tagSkillDescription069=避难所恢复范围内所有生物的生命，提高他们的抗性和再生能力。
 
 tagSkillName141=瘟疫{^K} 「自然精通」^-
 tagSkillDescription141=^b[法术] [传染性] [减益]^n^n^w瘟疫让附近敌人染上致命的病症，造成毒素伤害并迅速蔓延至其他周围生物。
-
 tagSkillName186=疲劳{^K} 「自然精通」^-
 tagSkillDescription186=^b[修饰符] [减益]^n^n^w吸取生病敌人的力量，使他们的行动变得更缓慢，战斗效率降低。
-
 tagSkillName187=易感{^K} 「自然精通」^-
 tagSkillDescription187=^b[修饰符] [减益]^n^n^w削弱受影响敌人的体质，使他们对生命、元素和毒素伤害更加脆弱。
-
 tagPlagueBNAME=奥术诅咒{^K} 「自然精通」^-
 tagPlagueBDESC=将瘟疫转化为一种元素魔法类的疾病。它不再中毒，而是让受害者被各种奥术魔法纠缠，同时灼烧、冰冻并电击他们。
 
 tagSkillName159=野性召唤{^K} 「自然精通」^-
 tagSkillDescription159=^b[宠物] [群体] [近战] [挑衅]^n^n^w召唤一只雄狼与你并肩作战。^o 狼类随宠物加成提升。
-
 tagMonsterName350=雄狼//野狼
 tagSkillName071=生存本能{^K} 「自然精通」^-
-tagSkillDescription071=^b[宠物增益] [持续] [生命阈值]^n^n^w当生命值低时，触发生存本能，激发强烈的生存意志。
-
+tagSkillDescription071=^b[宠物增益] [持续] [生命阈值][延迟冷却]^n^n^w当生命值低时，触发生存本能，激发强烈的生存意志。
 tagSkillName177=猛击{^K} 「自然精通」^-
 tagSkillDescription177=一种咬击攻击，撕裂敌人的肉体，造成短时间的流血伤害。
-
 tagPackDogsNAME=敏锐感知{^K} 「自然精通」^-
 tagPackDogsDESC=^b[宠物光环] [减益]^n^n^w狼类具有敏锐的嗅觉和听觉，通过这些原始的感知，召唤出的狼能够洞察敌人的弱点并将其击溃。
-
 tagSkillName191=狼群之力{^K} 「自然精通」^-
 tagSkillDescription191=^b[宠物增益] [范围]^n^n^w你狼群的嚎叫激励着听到的盟友，使他们战斗得更加猛烈。^o 这一效果也会作用于附近的盟友。
-
 tagWolfBSkillNAME=雄狼{^K} 「自然精通」^-
 tagWolfBSkillDESC=与其召唤一群狼，不如召唤一只雄狼？雄狼能够轻松击败一群普通狼。
-
 tagWolfBNAME=狼群{^K} 「自然精通」^-
 tagWolfBDESC=^b[转化器] [宠物替代]^n^n^w用来召唤较弱的狼群，虽然它们的生命力和力量较低，但你可以召唤更多的狼。
-
 tagDireWolf01=雄狼
 tagWolfNameB=狼伴侣
 
 tagSkillName160=橡树之心{^K} 「自然精通」^-
 tagSkillDescription160=^b[范围] [增益]^n^n^w增强你和周围盟友的生命力。
-
 tagSkillName161=水之宁静{^K} 「自然精通」^-
 tagSkillDescription161=^b[修饰符]^n^n^w增加受到橡树之心光环影响的目标的能量再生和吸收能力。
-
 tagSkillName162=石之永恒{^K} 「自然精通」^-
 tagSkillDescription162=^b[修饰符]^n^n^w赋予石般的坚韧，减少物理和元素攻击造成的伤害。
 
 tagForceofNature=自然之力
 tagForceofNatureNAME=自然之力
 tagForceofNatureDESC=^b[宠物] [近战] [持续]^n^n^w召唤一只巨大而强大的“阿斯卡福斯”与你并肩作战。^o 每次只能召唤一个阿斯卡福斯，阿斯卡福斯的力量随宠物加成提升。
-
 tagRoots=根须
 tagStomp=践踏
 tagAttack=幽灵攻击
@@ -598,26 +484,20 @@ tagTreeSmackNAME=重击
 
 tagFungalBombNAME=真菌群爆{^K} 「自然精通」^-
 tagFungalBombDESC=^b[持续] [法术] [远程] [锥形]^n^n^w在一个地点召唤真菌群落。这群真菌可以喷射到施法者前方的中距离区域。^o这是一个持续技能，必须按住以保持。100%施法速度下，真菌群爆每0.3秒造成伤害并消耗能量。
-
 xtagFungalBombDetonate=真菌爆炸
 tagSporeBombNAME=腐蚀{^K} 「自然精通」^-
 tagSporeBombDESC=^b[修饰符]^n^n^w真菌群的酸性与毒素变得更加强大，轻松溶解盔甲。
-
 tagCorrosionNAME=溃烂孢子{^K} 「自然精通」^-
 tagCorrosionDESC=^b[修饰符]^n^n^w群聚的真菌将受害者覆盖上恶心的水疱，带来极度的不适和痛苦，极大削弱他们的反抗能力。
-
 tagFungalSwarm3NAME=瘟疫{^K} 「自然精通」^-
 tagFungalSwarm3DESC=^b[修饰符]^n^n^w瘟疫喷雾变得更加有毒，造成更多的持续伤害，并在每次伤害间隔中增加额外的固定伤害。
-
 tagFungalBombBNAME=赫卡忒的魔法喷雾{^K} 「自然精通」^-
 tagFungalBombBDESC=腐化遍布各地，甚至忠于得墨忒尔的人也可能被黑暗魔法的诱惑所影响，受到赫卡忒的影响。
 
 tagWildSpiritNAME=木灵{^K} 「自然精通」^-
 tagWildSpiritDESC=^b[范围] [治疗] [增益]^n^n^w从附近的树木召唤出一位古老的精神灵体来帮助你。这个灵体偶尔会治疗附近的盟友，并给附近的敌人施加负担。^o木灵随玩家加成提升。每次只能召唤一位木灵。
-
 tagKodamaDebuffNAME=木灵复仇
 tagKodamaDebuffDESC=木灵的精神增幅生命力和酸性伤害类型。
-
 tagRegrowthBNAME=持续生长
 tagRegrowthBDESC=^b[宠物修饰符]^n^n^w木灵的治疗魔法会持续在空中旋转，复苏附近盟友的身体。
 
@@ -633,22 +513,18 @@ tagNaturePassiveDESC=^b[宠物修饰符]^n^n^w一个熟练的自然召唤者与�
 
 tagSkillName158=林间精灵{^K} 「自然精通」^-
 tagSkillDescription158=^b[宠物] [远程] [多重投射]^n^n^w召唤一位强大的树精，她能用魔法弓箭击倒敌人。^o每次只能召唤一位林间精灵，林间精灵的力量随宠物加成提升。
-
 tagNymphANAME=林间精灵
 tagSkillName227=弓箭攻击
 tagSkillName189=大自然的愤怒
 tagSkillDescription189=^b[宠物技能] [投射物] [链式]^n^n^w林间精灵射出一支注入魔法的箭矢，箭矢击中目标后会追踪附近的敌人。击中点附近的敌人将受到元素魔法和毒素的伤害。//让林间精灵的攻击带上元素之力。
-
 tagNymphBNAME=梅丽亚德{^K} 「自然精通」^-
 tagNymphBDESC=^b[转化器] [宠物替代]^n^n^w你召唤出的是一位灰木精，而非树精。梅丽亚德被赋予了黑暗的冥界魔法，通常被视为“堕落”的精灵。//精灵对其所接触的魔法极为敏感，黑暗能量如混沌和吸血会导致精灵变得堕落，改变它们的外形与魔法。因此，林间精灵被转化为堕落精灵，其魔法由元素转变为生命力。
-
 tagNymphCNAME=梅丽亚德
 tagNymphDNAME=花精
 tagNymphENAME=云精
 
 tagThornSpritesNAME=荆棘精灵{^K} 「自然精通」^-
 tagThornSpritesDESC=^b[宠物] [群体] [远程]^n^n^w让漫游者从虚界召唤出一群顽皮的荆棘精灵。虽然它们造成的伤害较少，但精灵的刺痛能够分散敌人的注意力，它们的毒液会导致敌人产生迷乱甚至昏迷。^o荆棘精灵的力量随宠物加成提升。
-
 tagThornSprite=荆棘精灵
 tagThornSpriteB=荆棘小鬼
 tagThornSpriteC=冰霜精灵
@@ -657,11 +533,9 @@ tagThornSpriteE=血液精灵
 tagThornSpriteF=血液小鬼
 tagThornSpriteG=混沌精灵
 tagThornSpriteH=混沌小鬼
-
 tagSpriteStats2=酸液爆发
 tagFabricalDischargeNAME=荆棘雨{^K} 「自然精通」^-
 tagFabricalDischargeDESC=^b[宠物技能] [多重投射]^n^n^w荆棘精灵向目标处发射一阵荆棘雨，给被击中的敌人造成大量毒素伤害。
-
 tagVenom=荆棘射击
 tagPoof=死亡云雾
 tagSpriteBNAME=荆棘小鬼
@@ -670,21 +544,17 @@ tagSpriteBDESC=^b[转化器] [近战] [宠物替代]^n^n^w使你能够召唤不�
 tagNymphPierceSkillNAME=穿刺
 tagSkillName072=再生{^K} 「自然精通」^-
 tagSkillDescription072=一波治疗能量迅速恢复目标盟友的生命。
-
 tagSkillName073=传播{^K} 「自然精通」^-
 tagSkillDescription073=让再生能量从初始目标扩散并跳跃至其他附近盟友。
-
 tagSkillName075=加速生长{^K} 「自然精通」^-
 tagSkillDescription075=为木灵提供一个自我增益，提升其能量再生速度，使木灵能够更频繁地施放再生。同时，当再生施放时，木灵会发出一个生命再生光环，持续一段时间。
-
 tagSkillName188=过度生长{^K} 「自然精通」^-
-tagSkillDescription188=^b[增益] [持续]^n^o[受击时]^n^n^w创造一个保护性的生命盾牌，吸收伤害并对攻击者造成伤害。
-
+tagSkillDescription188=^b[增益] [持续][延迟冷却]^n^o[受击时]^n^n^w创造一个保护性的生命盾牌，吸收伤害并对攻击者造成伤害。
 tagSkillName074=刷新{^K} 「自然精通」^-
 tagSkillDescription074=减少技能冷却时间，让你可以更频繁地使用它们。
 
-#盗贼
 
+#盗贼
 tagSkillName050=盗贼精通
 tagSkillDescription050=提供必要的体能训练和秘密知识，使你能成为一名盗贼。
 
@@ -693,13 +563,10 @@ tagSkillDescription053=^b[被动]^n^o[剑][匕首][长矛][远程]^n^n^w确保�
 
 tagSkillName054=精确打击{^K} 「盗贼精通」^-
 tagSkillDescription054=^b[攻击替换]^n^n^w用它替代普通攻击，每第三次击打都会造成更高的伤害。^o当作为默认武器攻击使用时，精确打击会增强每第三次单次武器攻击的威力。
-
 tagSkillName142=幸运一击{^K} 「盗贼精通」^-
 tagSkillDescription142=^b[修饰符]^n^n^w不常见的好运为你提供一个机会，使得精确打击能够穿透敌人的盔甲并造成巨大伤害。
-
 tagSkillName056=杀手本能{^K} 「盗贼精通」^-
 tagSkillDescription056=^b[修饰符] [穿透] [范围]^n^n^w完美的攻击角度使得多个敌人被穿透并留下重伤流血。//^b[第二修饰符] [增益]^n^n^w每当精确打击命中时，激发盗贼的杀戮本能，推动他们更加猛烈地战斗以完成任务。^o杀手本能影响所有攻击。
-
 tagCacluclatedStrikeBNAME=痛苦{^K} 「盗贼精通」^-
 tagCacluclatedStrikeBDESC=^b[转化器]^n^n^w神秘主义不仅仅是魔法艺术，在某些情况下，它还可以成为一种战斗技艺，尤其是在使用神秘的魔法时。
 
@@ -711,19 +578,15 @@ tagDarkVaporDESC=^b[武器池技能] [范围]^n^n^w一种黑暗咒语准备的�
 
 tagSkillName057=毒化{^K} 「盗贼精通」^-
 tagSkillDescription057=^b[范围] [增益]^n^n^w在激活时，将你的武器涂上致命的毒素。
-
 tagSkillName062=免疫{^K} 「盗贼精通」^-
 tagSkillDescription062=^b[修饰符]^n^n^w多次接触死亡魔法后，盗贼变得对其致命效果更加抗性。//从致命的夜影植物中提取的油使你的毒化武器能减缓敌人。
-
 tagSkillName055=炼金刺激剂{^K} 「盗贼精通」^-
 tagSkillDescription055=^b[修饰符]^n^n^w运用你的炼金术知识，你制造了一种能够提升你的速度和持续作战能力的药剂。
-
 tagOcculticVenomNAME=神秘毒液{^K} 「盗贼精通」^-
 tagOcculticVenomDESC=^b[转化器]^n^n^w通过利用邪恶法师创造的毒液，盗贼可以改变他们的毒药，制造出一种恶毒的毒药，即便是最好的解毒药也无法治愈。
 
 tagSliceDiceNAME=科里班特斯的优雅{^K} 「盗贼精通」^-
 tagSliceDiceDESC=^b[治疗] [持续] [增益]^n^n^w科里班特斯是被崇敬的战士和舞者，他们的动作优雅至极。掌握这种流畅的动作技巧对盗贼来说非常重要，尽管非常难学，但一旦掌握将极为珍贵。
-
 tagShadowshroudBNAME=影之披风{^K} 「盗贼精通」^-
 tagShadowshroudBDESC=^b[转化器]^n^o[双持]^n^n^w盗贼是欺骗的高手，善于利用任何有利的局面。借助魔法，隐入阴影使自己在战斗中更容易保护自己。
 
@@ -732,62 +595,47 @@ tagSkillDescription058=^b[减益] [投射物] [持续]^n^n^w一种魔术技巧�
 
 tagLethalStrikeNAME=致命打击{^K} 「盗贼精通」^-
 tagLethalStrikeDESC=^b[攻击] [范围]^n^n^w熟练的盗贼明白战斗中最重要的方面是理解敌人，并掌握完美的时机。这个毁灭性技巧释放出一记致命的一击，放大普通武器攻击的伤害。
-
 tagSkillName197=致命伤{^K} 「盗贼精通」^-
 tagSkillDescription197=^b[修饰符]^n^n^w大大增强致命打击的伤害，并给目标造成一个严重的伤口，使目标出现严重出血。
-
 tagSkillName143=虚空打击{^K} 「盗贼精通」^-
 tagSkillDescription143=^b[转化器]^n^n^w虚空魔法脉动进入你的武器，使其被黑暗能量充能，并将穿刺伤害转化为活力伤害。
 
 tagSkillName052=投掷匕首{^K} 「盗贼精通」^-
 tagSkillDescription052=^b[多重投射物] [穿透] [魔法]^n^n^w投掷一把穿透敌人的匕首，能造成长时间的流血伤害。
-
 tagFlickWristNAME=手腕一弹{^K} 「盗贼精通」^-
 tagFlickWristDESC=^b[修饰符]^n^n^w通过巧妙的手法，盗贼能为投掷匕首添加额外的魔力，使其飞行更快等。
-
 tagDeadlyGuileNAME=致命诡计{^K} 「盗贼精通」^-
 tagDeadlyGuileDESC=^b[修饰符]^n^n^w以卓越的技巧，盗贼能以极高的速度投掷匕首，并精确瞄准位置以增加伤害。
-
 tagThrowingKnifeBNAME=终结一击{^K} 「盗贼精通」^-
 tagThrowingKnifeBDESC=^b[转化器]^n^n^w有些盗贼不愿浪费力量投掷华丽的匕首，而是选择用每一把匕首狠狠地停住敌人的脚步，并最大化每次投掷的效果。这样会造成更为灾难性的伤害，但也会消耗更多的法力。
 
 tagSkillName194=毒气炸弹{^K} 「盗贼精通」^-
 tagSkillDescription194=^b[手雷] [分裂] [范围] [魔法]^n^n^w投掷一颗炸弹，爆炸后释放出有毒气体，造成伤害并削弱敌人的攻击。
-
 tagSkillName195=弹片{^K} 「盗贼精通」^-
 tagSkillDescription195=^b[修饰符]^n^n^w毒气炸弹内部装满了易燃液体和金属碎片，炸弹爆炸时会剧烈爆炸，炸弹碎片会散布四周，对敌人造成穿刺伤害。
-
 tagDarkArtsNAME=毒气乱舞{^K} 「盗贼精通」^-
 tagDarkArtsDESC=^b[修饰符]^n^n^w使毒气炸弹不仅能在物理和精神上削弱敌人，而且增加其伤害。
-
 tagAphoticIchorNAME=幽冥之汁{^K} 「盗贼精通」^-
 tagAphoticIchorDESC=^b[转化器]^n^n^w利用恶臭物质制造毒气炸弹，使其中的毒素更为邪恶，撕裂敌人的灵魂，而不仅仅是身体。//在混合物中加入黑暗碎片，这些碎片爆炸时会释放有毒气体，降低敌人。
 
 tagSkillName083=布置陷阱{^K} 「盗贼精通」^-
 tagSkillDescription083=^b[玩家加成宠物] [固定] [远程]^n^n^w放置一个机械捕兽夹，当敌人靠近时，夹子会触发并迅速发射致命的箭矢。^o 陷阱的威力与玩家的伤害加成相关。
-
 tagTrap01=弩箭陷阱
-
 tagSkillName082=改进射击机制{^K} 「盗贼精通」^-
 tagSkillDescription082=对弩箭陷阱的改进增加了每轮发射的箭矢数量。
-
 tagSkillName087=快速建造{^K} 「盗贼精通」^-
 tagSkillDescription087=精通制作陷阱的技术可以减少在设置一个陷阱后再次建造新陷阱所需的时间。
-
 tagPiercingBoltsNAME=穿刺箭矢{^K} 「盗贼精通」^-
 tagPiercingBoltsDESC=^b[宠物修饰符] [穿透]^n^n^w盗贼使用了更强力的弩箭陷阱，改进的箭矢可以穿透敌人并造成更大的伤害。
-
 tagPiercingBoltsBNAME=爆炸炸弹{^K} 「盗贼精通」^-
 tagPiercingBoltsBDESC=^b[宠物修饰符]^n^n^w盗贼使用了更强力的弩箭陷阱，改进的炸弹在爆炸时能够造成更大范围的伤害。
-
 tagBoltTrapBNAME=毒箭陷阱{^K} 「盗贼精通」^-
 tagBoltTrapBDESC=^b[转化器] [宠物替换]^n^n^w经过改装的陷阱，能发射数十颗毒性炸弹，而不是普通箭矢。穿刺和流血伤害被酸性和毒素伤害取代。//通过将弩箭陷阱的攻击力分散，盗贼制造了一种具有不同目的的装置，而不是集中火力准确打击一个位置，而是向一个区域喷射较弱的攻击。
-
 tagRapidFireNAME=改进射击机制{^K} 「盗贼精通」^-
 tagRapidFireDESC=^b[宠物修饰符]^n^n^w通过更换一些齿轮和改进发射部件，盗贼制造了一台可以发射更锐利箭矢的机械。
-
 tagRapidFireBNAME=改进射击机制{^K} 「盗贼精通」^-
 tagRapidFireBDESC=^b[宠物修饰符]^n^n^w通过更换一些齿轮和改进发射部件，盗贼制造了一台可以发射更多毒性炸弹的机械。
+
 
 tagRogueEx1NAME=赫尔墨斯的狡诈{^K} 「盗贼精通」^-
 tagRogueEx1DESC=^b[专属] [增益]^n^n^w赫尔墨斯的名字久已消逝，他是古代伟大的诡计大师。你成为了狡诈和技巧的化身。
@@ -795,26 +643,20 @@ tagRogueEx1DESC=^b[专属] [增益]^n^n^w赫尔墨斯的名字久已消逝，他
 tagRogueEx2NAME=赫卡忒的巫术{^K} 「盗贼精通」^-
 tagRogueEx2DESC=^b[专属] [增益]^n^n^w赫卡忒的名字久已消逝，她是巫术、魔法与植物之神。一个精通赫卡忒知识的弟子能学习赫卡忒所传授的技艺，成为更强大的法师。
 
-
 tagRogueOccultSummonNAME=召唤埃皮亚洛斯
 tagRogueOccultSummonDESC=^b[玩家加成宠物] [远程]^n^n^w利用只有盗贼法师才能掌握的黑暗魔法，你使用被遗弃的神秘术法召唤来自冥界的恶魔来协助你。它用弯钩般的触手攻击敌人，并喷吐出其肚中的内容物。^o埃皮亚洛斯的伤害与玩家的伤害加成挂钩。
-
 tagEpialosTracker=当前召唤的埃皮亚洛斯数量
-
 tagRogueOccultCreatureNAME=埃皮亚洛斯
 tagEpialosSpitSkillNAME=生命之颅
 tagEpialosSpitSkillBNAME=毒液之颅
-
 tagIrregularityAuraNAME=折磨{^K} 「盗贼精通」^-
 tagIrregularityAuraDESC=^b[宠物修饰符] [减益]^n^n^w“埃皮亚洛斯的颅骨喷吐技能得到强化，现造成额外的持续伤害，并削弱被射中的敌人或站在它所制造的毒池中的敌人的抗性。”
-
 tagIrregularityPowerNAME=梅拉斯·欧尼罗斯{^K} 「盗贼精通」^-
 tagIrregularityPowerDESC=^b[宠物技能] [减益]^n^n^w“黑梦”，这是许多涉及恶魔炼金术的法师所称呼你召唤出来的生物的名字。原因很简单，它是活生生的噩梦，以接触到的人的思想和梦境为食。任何它认为是“食物”的生物会立刻后悔与埃皮亚洛斯相遇。
-
 tagRogueOccultPetAttackNAME=剥皮触手
-
 tagEpialosCNAME=沼泽恶魔{^K} 「盗贼精通」^-
 tagEpialosCDESC=^b[转化器] [宠物替换]^n^n^w你并非召唤来自黑暗的恶魔，而是召唤一种完全不同的物种。你召唤出的埃皮亚洛斯是一种毒性类型的恶魔，而非幽暗类型，因此它的伤害类型也发生了变化。
+
 
 # 大地技能
 tagSkillName098=大地精通
@@ -822,25 +664,19 @@ tagSkillDescription098=训练你的思维和精神，掌握古老的技艺，能
 
 tagSkillName105=大地附魔{^K} 「大地精通」^-
 tagSkillDescription105=^b[范围] [增益]^n^n^w赋予你和附近盟友的武器岩石与火焰的力量。
-
 tagSkillName100=石肤{^K} 「大地精通」^-
 tagSkillDescription100=^b[修饰符]^n^n^w在大地附魔的作用下，强化你的护甲，增加保护力和火焰抗性。
-
 tagHephaNAME=赫淮斯托斯之砧{^K} 「大地精通」^-
 tagHephaDESC=^b[修饰符]^n^n^w大地法师通常会忠于赫淮斯托斯，因此他们掌握了使用应该超出他们能力范围的盔甲和武器的技巧，同时增强了他们的速度和抗性，无论他们装备了什么。
-
 tagTartarusFlameNAME=普罗米修斯的礼物{^K} 「大地精通」^-
 tagTartarusFlameDESC=^b[转化器]^n^n^w将你和你的宠物的部分物理伤害转化为火焰伤害。
 
 tagSkillName114=火山之球{^K} 「大地精通」^-
 tagSkillDescription114=^b[范围] [手雷] [分裂] [魔法]^n^n^w投掷一个燃烧的火焰地狱球，爆炸时会剧烈爆炸，释放出岩石碎片，对小范围内的敌人造成火焰和物理伤害。
-
 tagSkillName101=大火焰{^K} 「大地精通」^-
 tagSkillDescription101=^b[修饰符] [范围]^n^n^w火山之球在爆炸时引发炽热的火焰，使被击中的敌人起火并遭受燃烧伤害。
-
 tagSkillName106=碎裂{^K} 「大地精通」^-
 tagSkillDescription106=^b[修饰符]^n^n^w增强火山之球碎片爆炸的爆炸范围和威力。
-
 tagVolcanicOrbBNAME=熵{^K} 「大地精通」^-
 tagVolcanicOrbBDESC=^b[转化器] [穿透]^n^n^w被污染的能量使火焰球变成一颗缓慢移动的熵球，沿直线前进，穿透目标，而不是在一个大范围内爆炸。
 
@@ -852,58 +688,43 @@ tagSkillDescription104=^b[武器池技能] [波动]^n^n^w利用你体内的混�
 
 tagSkillName112=召唤核心守护者{^K} 「大地精通」^-
 tagSkillDescription112=^b[宠物] [近战] [嘲讽]^n^n^w从大地的炽热深处召唤出一位强大的元素守护者。^o每次只能召唤一个核心守护者。核心守护者的能力随着宠物加成而提升。
-
 tagMonsterName1197=核心守护者
-
 tagPetSkillName001=核心守护者攻击
-
 tagSkillName154=挑衅{^K} 「大地精通」^-
 tagSkillDescription154=挑衅敌人，吸引敌人的注意力，保护队友。
-
 tagSkillName108=内在火焰 I{^K} 「大地精通」^-
 tagSkillDescription108=增加核心守护者的速度，并为其攻击添加火焰伤害。
-
 tagSkillName153=内在火焰II{^K} 「大地精通」^-
 tagSkillDescription153=核心守护者从地面撕下石块并将其投掷到目标区域，造成巨大的物理和火焰伤害。//增加核心守护者的速度并为其攻击添加火焰伤害。
-
 tagSkillName115=内在火焰III{^K} 「大地精通」^-
 tagSkillDescription115=^b[宠物技能] [新星] [范围]^n^n^w从核心守护者体内释放出极高的热量，形成一个焚烧区域，周围的敌人都会被灼烧。
-
 tagSkillName099=变形{^K} 「大地精通」^-
 tagSkillDescription099=^b[宠物修饰符]^n^n^w在极度的热量和压力下，核心守护者的构成变得更加坚硬，使其更能抵抗伤害。
-
 tagBoulder=巨石投掷
 
 tagSkillName109=喷发{^K} 「大地精通」^-
 tagSkillDescription109=^b[魔法] [分裂] [范围] [定时]^n^n^w地面上裂开火山裂缝，喷射出致命的火山喷泉和炽热的岩石碎片。每个碎片造成物理和火焰伤害。
-
 tagMoltenLavaNAME=熔岩{^K} 「大地精通」^-
 tagMoltenLavaDESC=^b[修饰符]^n^n^w使熔岩从裂缝中喷涌而出，造成持续的燃烧伤害并减缓敌人。
 
 tagSkillName110=火焰之环{^K} 「大地精通」^-
 tagSkillDescription110=^b[减益] [光环]^n^n^w在你周围形成一个炙热的火焰光环，任何进入其范围的敌人都会受到灼烧。
-
 tagSkillName182=软化金属{^K} 「大地精通」^-
 tagSkillDescription182=^b[修饰符] [减益]^n^n^w火焰之环中的强烈热量使敌人的盔甲和武器金属变软，降低它们的效能。
-
 tagRingFlameBNAME=混沌烈焰{^K} 「大地精通」^-
 tagRingFlameBDESC=火焰术士的灼热光辉被混沌所污染。附近的敌人将失去混沌抗性。同时，火焰术士的火焰光环会变得更加强烈，消耗更多能量并覆盖更大的范围。
 
 tagSkillName113=火焰冲击{^K} 「大地精通」^-
 tagSkillDescription113=^b[手雷] [多个投射物] [魔法]^n^n^w从施法者的双手喷射出三股火焰，对敌人造成灼烧的火焰伤害。
-
 tagSkillName185=灼热{^K} 「大地精通」^-
 tagSkillDescription185=^b[修饰符] [范围]^n^n^w提高火焰冲击穿透目标的能力，可能使敌人暂时晕眩并造成更多的火焰和燃烧伤害。
-
 tagSkillName103=火焰弓{^K} 「大地精通」^-
 tagSkillDescription103=^b[修饰符] [多个投射物]^n^n^w增加火焰冲击的伤害，并增加火焰喷射的数量。
-
 tagFlameSurgeBNAME=地狱火波
 tagFlameSurgeBDESC=^b[转化器]^n^n^w将火焰冲击转化为混沌魔法，改变其性质。
 
 tagSkillName111=大地甲壳{^K} 「大地精通」^-
 tagSkillDescription111=^b[增益]^n^n^w地元素法师分配一部分魔法来创造一个保护屏障。这个屏障虽然代价很高，但提供了一层坚固的石质外壳，减少所有受到的伤害，并且能够迅速自我修复。
-
 tagSkillName152=牢不可破{^K} 「大地精通」^-
 tagSkillDescription152=^b[修饰符]^n^n^w强化大地甲壳的保护效果，提高其修复速度，并允许你突破那些本应令你停滞不前的效果。
 
@@ -915,15 +736,11 @@ tagSkillDescription184=^b[增益] [新星]^n^o[受击时]^n^n^w在你周围释�
 
 tagRupture1=裂解{^K} 「大地精通」^-
 tagRupture2=^b[攻击] [范围]^n^o[双手武器]^n^n^w将玩家的地元素能量连接到武器上，使攻击在击中时爆炸。^o不会触发WPS。需要双手武器。
-
 tagCremate1=焚化{^K} 「大地精通」^-
 tagCremate2=^b[修饰符]^n^n^w裂解变为超高温，造成更多的火焰伤害。
-
 tagFlare1=火焰闪光{^K} 「大地精通」^-
 tagFlare2=^b[次要修饰符] [范围]^n^n^w裂解在击中时会释放火焰闪光，对范围内的敌人造成伤害，比初始攻击范围更广。
-
 tagFlareAutoCast=延迟爆炸
-
 tagRuptureBNAME=火山之力{^K} 「大地精通」^-
 tagRuptureBDESC=当通过双手武器或法杖施放时，裂解会造成毁灭性的伤害。^o需要法杖、双手近战武器或双手远程武器。
 
@@ -934,19 +751,15 @@ tagInfernoNAME=陨石撞击{^K} 「大地精通」^-
 tagInfernoDESC=^b[投射物落下] [魔法] [范围]^n^n^w从天而降一个爆炸性陨石，撞击敌人。//在你所在的区域爆炸，造成物理和火焰伤害，导致敌人在攻击时短暂颤抖。
 
 #风暴
-
 tagSkillName018=风暴精通
 tagSkillDescription018=提供精神控制和专注，使你能够超脱尘世纷扰，学习驾驭天气的元素力量。
 
 tagSkillName022=冰晶{^K} 「风暴精通」^-
 tagSkillDescription022=^b[投射物落下] [魔法]^n^n^w投射一颗致命的冰晶，造成冰霜伤害。
-
 tagSkillName023=速度{^K} 「风暴精通」^-
 tagSkillDescription023=^b[修饰符]^n^n^w增加冰晶的伤害，使每颗冰晶有机会穿透目标并继续前进。
-
 tagSkillName024=激流{^K} 「风暴精通」^-
 tagSkillDescription024=^b[多个投射物] [修饰符]^n^n^w发射的冰晶变得更致命，造成更高的伤害并影响击中区域的小范围敌人。
-
 tagIceShardBName=冻结冰晶{^K} 「风暴精通」^-
 tagIceShardBDESC=^b[转化器]^n^n^w释放的冰块变得更冷，击中敌人时会将其冻结并造成更多伤害，但冷却时间也有所增加。
 
@@ -955,22 +768,19 @@ tagSkillDescription019=冰层包围风暴法师，保护法师免受某些攻击
 
 tagColdSnapNAME=风暴之潮{^K} 「风暴精通」^-
 tagColdSnapDESC=^b[增益] [新星]^n^o[受击时]^n^n^w激活时，每个被击中的敌人有机会释放出猛烈的暴风雪，对周围的敌人造成瞬时冻结效果。
-
 tagSkillName020=震撼暴风{^K} 「风暴精通」^-
 tagSkillDescription020=^b[次要修饰符] [链式反应]^n^n^w受到风暴之潮影响的敌人将触发连锁反应，电击远处的敌人。每次击中目标都会为你回复生命。
+
 
 tagSkillName025=闪电链{^K} 「风暴精通」^-
 tagSkillDescription025=^b[魔法] [范围]^n^n^w召唤一道强大的闪电击中目标，造成大量伤害。^o直接击中目标时，造成双倍伤害。
 
 tagSkillName026=雷球{^K} 「风暴精通」^-
 tagSkillDescription026=^b[魔法] [分裂] [范围]^n^n^w投掷一个缓慢移动的雷电球，在小范围内对敌人造成伤害。
-
 tagSkillName021=震荡爆炸{^K} 「风暴精通」^-
 tagSkillDescription021=^b[修饰符]^n^n^w增强雷球的威力，增加眩晕几率并提升造成的伤害。
-
 tagChainLightning3NAME=雷霆扫荡{^K} 「风暴精通」^-
 tagChainLightning3DESC=^b[修饰符] [范围]^n^n^w使雷球及其碎片扩展影响范围，并造成额外的伤害。
-
 tagSparkNAME=雷霆炸弹{^K} 「风暴精通」^-
 tagSparkDESC=^b[转化器]^n^n^w雷球变得更加爆炸性，造成更大范围的伤害，并产生更强的效果。
 
@@ -982,28 +792,23 @@ tagIceSongDESC=^b[专属] [增益]^n^n^w利用冥界的精华，一些风暴召�
 
 tagSkillName151=暴风{^K} 「风暴精通」^-
 tagSkillDescription151=^b[魔法] [范围] [减益]^n^n^w在目标区域制造一场风暴，减缓并伤害其中的敌人。
-
 tagSkillName204=冰霜旋风{^K} 「风暴精通」^-
 tagSkillDescription204=^b[修饰符] [减益]^n^n^w风暴揭示了被困敌人的弱点，使他们更容易受到某些类型伤害的影响。//将冰霜法术轰向敌人，击中后爆炸，并使周围的敌人减速并更易受到特定伤害类型的影响。//将敌人包裹在冰霜中，冻结他们并使他们更容易受到某些类型伤害的影响。
 
 tagSkillName180=能量护盾{^K} 「风暴精通」^-
-tagSkillDescription180=^b[增益] [定时] [生命值阈值]^n^n^w一层能量护盾保护施法者免受攻击，并增强其元素防御力。
+tagSkillDescription180=^b[增益] [定时] [生命值阈值][延迟冷却]^n^n^w一层能量护盾保护施法者免受攻击，并增强其元素防御力。
 
 tagFrozenBlastNAME=冬季之风{^K} 「风暴精通」^-
 tagFrozenBlastDESC=^b[引导] [近战] [攻击] [范围]^n^n^w著名的风暴召唤者技能，冬季之风让他们能够吸收下方的空气并创造一个旋涡。此旋涡可以被控制，并随施法者移动，直到施法者保持专注。^o需要近战武器或法杖。在100%攻击速度下，冬季之风每0.16秒造成伤害并消耗能量。
-
 tagFrozenBlast2NAME=低温症{^K} 「风暴精通」^-
 tagFrozenBlast2DESC=^b[次要修饰符] [范围]^n^n^w冬季之风将敌人冰冻至骨，并有机会将其冻住。
-
 tagFrozenBlastBNAME=强力爆发{^K} 「风暴精通」^-
 tagFrozenBlastBDESC=^b[转化器]^n^o[双手近战] [法杖]^n^n^w当使用法杖或强力双手近战武器时，冬季之风的力量和范围将被放大。^o需要双手近战武器或法杖。
 
 tagStormChannelNAME=北风之息{^K} 「风暴精通」^-
 tagStormChannelDESC=^b[引导] [魔法] [远程] [锥形]^n^n^w借助北风的力量，风暴召唤者能够从周围环境中引入天气元素，并将它们集中成一个强烈的风暴。^o这是一个需要引导的技能，必须持续按住才能维持。在100%施法速度下，北风之息每0.3秒造成伤害并消耗能量。
-
 tagStrengtheningWindNAME=雷霆台风{^K} 「风暴精通」^-
 tagStrengtheningWindDESC=^b[修饰符]^n^n^w增强风暴的能量，使其造成更多的伤害，并有机会触发雷电伤害。
-
 tagArcticEmanationNAME=极地气息{^K} 「风暴精通」^-
 tagArcticEmanationDESC=^b[修饰符]^n^n^w风暴通道释放出干燥、冰冷的气息，造成寒冷伤害并降低被困敌人的防御力。//施法者能够集中冷系攻击的力量，大幅提高伤害。
 
@@ -1018,68 +823,55 @@ tagLightningBlast3DESC=^b[被动]^n^n^w经过训练的风暴召唤者成为真�
 
 tagWindsoftheStorm2NAME=风暴光环{^K} 「风暴精通」^-
 tagWindsoftheStorm2DESC=^b[范围] [增益]^n^n^w当技能激活时，施法者和附近的盟友将被赋予风暴的力量，使攻击带有寒冷和雷电伤害。//将自己和附近盟友赋予古老的魔法，来自被遗忘的生物——风暴鹫，这些生物因能为盟友赋予强大的风暴光环而成为冒险者的噩梦。
-
 tagSkillName029=静电充能{^K} 「风暴精通」^-
 tagSkillDescription029=^b[修饰符]^n^n^w在风暴光环激活时，施法者和附近的盟友将积累电能，使他们的武器对敌人造成电击伤害。此电能还减少减速效果和敌人攻击的效果。
-
 tagHeartofFrostNAME=冰霜之心{^K} 「风暴精通」^-
-tagHeartofFrostDESC=^b[修饰符]^n^n^w当风暴光环激活时，施法者和附近的盟友将被寒气保护，削弱穿透攻击并无效化冻结效果。这层寒气变得极其强大，施法者的攻击也将被冰冷的霜冻力量强化。
-
+tagHeartofFrostDESC=^b[修饰]^n^n^w当风暴光环激活时，你和附近的盟友受寒气保护，使穿刺攻击减弱，并免疫冻结效果。寒气光环强大到足以使你的攻击也带上令人彻骨的冰霜。  
+几乎接近死灵术的边缘。 //风暴召唤者的黑暗禁术，天气魔法可被操控，将冥界精华作为施法支点。如此，风暴法术便会变得扭曲腐化。
 tagStormNimbusTRANSNAME=以太光环{^K} 「风暴精通」^-
 tagStormNimbusTRANSDESC=秘法师以掌控以太的纯净能量而著称，而风暴法师与秘法师非常接近，虽然他们更专注于操控自然天气现象来获得优势。通过扭曲风暴的雷电能量为以太能量，魔法变得更像是以太风暴。
 
 tagIceSpriteSkillNAME=冬季精灵{^K} 「风暴精通」^-
 tagIceSpriteSkillDESC=^b[宠物] [近战] [挑衅]^n^n^w允许风暴召唤者召唤一个由基欧尼的意志驱动的冬季精灵。精灵会跟随召唤者直至死亡，每三次攻击造成一次范围伤害。^o精灵的技能根据宠物加成进行强化。
-
 tagIceSpriteSkill1NAME=北风猛击{^K} 「风暴精通」^-
 tagIceSpriteSkill1DESC=^b[宠物技能] [穿透] [投射物] [范围]^n^n^w强大的冬季精灵攻击可以引发冰霜魔法爆炸，对周围的敌人造成寒冷伤害并将其冻结。^o每三次攻击触发一次。
-
 tagIceSpriteSkill2NAME=霜息
 tagIceSpriteAttackNAME=基础攻击伤害
 tagIceSpriteAttack2NAME=劈砍
-
 tagMonsterName037=风暴精灵
-
 tagSkillName219=等离子烧灼{^K} 「风暴精通」^-
 tagSkillDescription219=用元素能量的爆发灼烧敌人。
 
 #梦境
-
 xtagSkillDreamName001=梦境精通
 xtagSkillDreamDescription001=扩展你的意识，从梦境领域中汲取更多的力量，并将你的意志施加于物质现实之上。
 
 xtagSkillDreamName002=心灵触碰{^K} 「梦境精通」^-
 xtagSkillDreamDescription002=^b[攻击] [范围]^n^n^w集中在武器中的心灵能量会在接触敌人时产生一种骨骼粉碎的共鸣。此能量会折射，直到它从目标中爆发，伤害周围的敌人。^o不触发武器技能。
-
 tagDisturbanceNAME=心灵灼烧{^K} 「梦境精通」^-
 tagDisturbanceDESC=^b[修饰符]^n^n^w目标体内的心灵能量被点燃，穿透其物质形态并造成极大的伤害。
-
 tagPsionicTouchBSkillNAME=冥想{^K} 「梦境精通」^-
 tagPsionicTouchBSkillDESC=^b[变换器]^n^n^w将心灵触碰技能的能量扭曲，使其转化为纯粹的梦境能量。
 
 xtagSkillDreamName003=心灵光束{^K} 「梦境精通」^-
 xtagSkillDreamDescription003=^b[引导] [魔法] [远程] [光束]^n^n^w将心灵能量投射到外部，迅速击中区域内的所有敌人。^o这是一个需要引导的技能，必须持续按住才能维持。在100%施法速度下，心灵光束每0.3秒造成伤害并消耗能量。
-
 tagPsionicArteryNAME=心灵汲取{^K} 「梦境精通」^-
 tagPsionicArteryDESC=^b[修饰符]^n^n^w允许施法者与心灵共鸣同步，大大增强心灵灼烧的效果，同时可以从受影响的目标身上汲取生命值。
 
 xtagSkillDreamName004=扭曲波{^K} 「梦境精通」^-
-xtagSkillDreamDescription004=^b[魔法] [波动]^n^n^w释放出一波力量，形成混乱的波动，撕裂现实的结构，并对敌人的身体和精神造成毁灭性的伤害。
-
+xtagSkillDreamDescription004=^b[法术] [波]^n^n^w向外释放一股力量波，在现实的织体中形成混乱涟漪，对敌人的身心造成毁灭性伤害。
+^b[法术] [波]^n^n^w向外释放一股力量波，在现实的织体中形成混乱涟漪，对敌人的身心造成毁灭性伤害。
 xtagSkillDreamName005=混乱共鸣{^K} 「梦境精通」^-
 xtagSkillDreamDescription005=^b[修饰符]^n^n^w增强物理扭曲效应，使其波动混乱，对受到击中的敌人造成混乱伤害。
-
 xtagSkillDreamName018=心灵自焚{^K} 「梦境精通」^-
 xtagSkillDreamDescription018=^b[修饰符]^n^n^w现实扭曲魔法增强，受影响的敌人会随着每一波的冲击而撕裂部分本质。如果敌人在波动到来时措手不及，将会被晕眩。
-
 tagAnomalyNAME=异常
 tagAnomalyDESC=^b[变换器]^n^n^w混乱能量溢出扭曲波，创造出一种异常现象。
-
 tagDistortionWaveBNAME=涟漪
 tagDistortionWaveBDESC=^b[变换器]^n^o[法杖] [副手] [双手]^n^n^w不再引导单一、强力的现实扭曲波，而是释放多个较小的涟漪。^o需要双手武器、法杖或施法者副手。
 
 xtagSkillDreamName006=扭曲领域{^K} 「梦境精通」^-
-xtagSkillDreamDescription006=^b[增益] [定时] [生命阈值]^n^n^w当你的生命开始下降时，心灵力量的领域弯曲了周围的现实结构，减少敌人攻击造成的伤害，并对攻击你的敌人造成反击伤害。
+xtagSkillDreamDescription006=^b[增益] [定时] [生命阈值][延迟冷却]^n^n^w当你的生命开始下降时，心灵力量的领域弯曲了周围的现实结构，减少敌人攻击造成的伤害，并对攻击你的敌人造成反击伤害。
 
 xtagSkillDreamName007=预知{^K} 「梦境精通」^-
 xtagSkillDreamDescription007=^b[被动]^n^n^w对即将发生的未来有着预知感，使你在战斗中领先一步，始终保持在敌人前面。
@@ -1092,39 +884,29 @@ xtagSkillDreamDescription016=^b[被动]^n^n^w对梦境状态的增强意识控�
 
 xtagSkillDreamName008=扭曲现实{^K} 「梦境精通」^-
 xtagSkillDreamDescription008=^b[魔法] [新星] [范围]^n^n^w释放出一股强大的扭曲能量波动，撕裂现实的结构，对范围内的敌人造成严重伤害。
-
 xtagSkillDreamName022=时间裂缝
 xtagSkillDreamDescription022=^b[修饰符]^n^n^w增强扭曲波的力量，释放出一股心灵能量浪潮，造成巨大的伤害。
-
 tagDistortRealityBNAME=消融//重现噩梦
 tagDistortRealityBDESC=^b[变换器]^n^n^w不再仅仅释放较小的扭曲波，而是能量与集中力的汇聚使你能够释放出强大的一击。这使你在短时间内无法再释放该技能，但它的威力会大幅提升。//通过释放较弱的现实扭曲魔法，可以更快地施放它们。
 
 xtagSkillDreamName010=幻影打击{^K} 「梦境精通」^-
 xtagSkillDreamDescription010=^b[魔法] [移动]^n^n^w从现实世界消失，瞬间出现在目标敌人面前，给予其一记强力攻击。
-
 xtagSkillDreamName011=梦魇盗贼{^K} 「梦境精通」^-
 xtagSkillDreamDescription011=^b[修饰符]^n^n^w摧毁敌人并从他们的梦境中夺取力量，撕裂他们的心灵。
-
 xtagSkillDreamName015=催眠诅咒{^K} 「梦境精通」^-
 xtagSkillDreamDescription015=^b[次要修饰符] [范围]^n^n^w在梦境行走时，你会被催眠能量包围。当你重新进入现实世界时，这些能量会扩散到附近的敌人身上。^o需要击中敌人才能触发。//占卜者能够从被诅咒者的潜意识中拖出恐怖，令他们每走一步都充满恐惧，并降低他们的警觉性。
 
 xtagSkillDreamName012=召唤梦魇{^K} 「梦境精通」^-
 xtagSkillDreamDescription012=^b[宠物] [远程]^n^n^w从梦境世界召唤出一只梦魇幻象，作为你的召唤兽。^o每次只能召唤一个梦魇。梦魇的能力根据宠物加成进行提升。
-
 xtagMonsterDreamPet002=梦魇
-
 xtagSkillDreamName029=心灵光束{^K} 「梦境精通」^-
 xtagSkillDreamDescription029=一束心灵能量射入敌人，造成可怕的伤害。
-
 xtagSkillDreamName026=梦境激流{^K} 「梦境精通」^-
 xtagSkillDreamDescription026=^b[宠物技能] [范围]^n^n^w从梦境世界扩散出的能量波动，伤害所有敌人。
-
 xtagSkillDreamName024=催眠凝视{^K} 「梦境精通」^-
 xtagSkillDreamDescription024=梦魇的催眠目光能够支配较弱的心灵，让敌人陷入混乱，导致他们漫无目的地徘徊并攻击虚幻的影像。
-
 xtagSkillDreamName013=催眠凝视{^K} 「梦境精通」^-
 xtagSkillDreamDescription013=梦魇的催眠眼光能够支配较弱怪物的心灵，控制它们的行动。
-
 xtagSkillDreamName014=主脑{^K} 「梦境精通」^-
 xtagSkillDreamDescription014=^b[宠物增益] [范围]^n^n^w梦魇能够与附近的盟友心灵沟通，协调他们的攻击，使其在战斗中更加有效。
 
@@ -1133,7 +915,6 @@ xtagSkillDreamDescription019=^b[减益] [光环]^n^n^w心灵能量包围着玩�
 
 xtagSkillDreamName020=康复恍惚{^K} 「梦境精通」^-
 xtagSkillDreamDescription020=^b[范围] [增益]^n^n^w一种安宁的心境状态增加玩家和盟友的恢复速度和抗性。^o此技能需要切换以保持效果。
-
 xtagSkillDreamName021=共鸣{^K} 「梦境精通」^-
 xtagSkillDreamDescription021=^b[修饰符]^n^n^w通过与敌人建立心灵链接，强迫他们分担对你造成的伤害，将痛苦传递给他们。
 
@@ -1148,11 +929,8 @@ tagDreamEX1DESC=^b[专属] [增益]^n^n^w梦神伊克罗斯，亦被人称为恐
 
 tagPhantasmNAME=星界裂缝{^K} 「梦境精通」^-
 tagPhantasmDESC=^b[玩家加成宠物] [范围]^n^n^w召唤一个星界裂缝，它会在召唤者附近持续存在，并用梦境魔法的攻击弹幕轰击周围的敌人。^o星界裂缝的能力根据玩家的伤害加成进行提升。
-
 tagPhantasmPet=星界裂缝
-
 tagPhantasmAuraNAME=幻象
-
 tagRiftBurstNAME=裂缝爆发
 
 tagConvertAuraNAME=先知之视{^K} 「梦境精通」^-
@@ -1165,10 +943,8 @@ x2tagSkillRunesDescription001=学习符文的秘密，训练将战斗的愤怒�
 
 x2tagSkillRunesName002=雷霆一击{^K} 「符文精通」^-
 x2tagSkillRunesDescription002=^b[攻击] [范围]^n^o[近战]^n^n^w一种奥术武器技巧，借用雷电之力，击中多个敌人并造成震撼伤害。
-
 x2tagSkillRunesName003=释放{^K} 「符文精通」^-
 x2tagSkillRunesDescription003=^b[次要修饰符] [范围]^n^n^w释放攻击的全部威力，使敌人被电击并昏迷，波及广泛区域。
-
 tagThunderStrikeBNAME=滚雷{^K} 「符文精通」^-
 tagThunderStrikeBDESC=^b[转化] [穿透] [多重投射] ^n^o[远程]^n^n^w使用远程武器时，雷霆一击会发射多重投射物。 ^o使雷霆一击可与远程武器一起使用。
 
@@ -1182,35 +958,29 @@ x2tagSkillRunesName008=符文词：吸收{^K} 「符文精通」^-
 x2tagSkillRunesDescription008=^b[被动]^n^n^w将盾牌或武器附加上吸收敌人攻击和法术能量的能力，并将其转化为你的力量。
 
 x2tagSkillRunesName009=能量护甲{^K} 「符文精通」^-
-x2tagSkillRunesDescription009=^b[增益] [定时] [HP阈值]^n^n^w编织大量能量形成魔法护甲，保护你免受物理攻击。
+x2tagSkillRunesDescription009=^b[增益] [定时] [HP阈值][延迟冷却]^n^n^w编织大量能量形成魔法护甲，保护你免受物理攻击。
 
 x2tagSkillRunesName010=鲁莽进攻{^K} 「符文精通」^-
 x2tagSkillRunesDescription010=^b[武器池技能] ^n^o[近战]^n^n^w追随狂战士之道的人以愤怒的动物心态战斗，放弃策略，进行无畏攻击。 ^o这是一个近战技巧，可以通过默认武器攻击触发。
 
 x2tagSkillRunesName011=生命符文{^K} 「符文精通」^-
 x2tagSkillRunesDescription011=^b[范围] [增益]^n^n^w为自己或盟友施放生命符文，抵抗黑暗魔法并增加耐力。
-
 tagLifeRune2NAME=力量符文{^K} 「符文精通」^-
 tagLifeRune2DESC=^b[修饰符]^n^n^w赋予生命符文第二效果，在生命符文的影响下，提升你和附近盟友所造成的伤害。
 
 x2tagSkillRunesName012=符文地雷{^K} 「符文精通」^-
 x2tagSkillRunesDescription012=^b[光环] [魔法] [范围]^n^n^w在你脚下画出一个符文，复制它到每个范围内的敌人脚下。
-
 x2tagSkillRunesName013=冰冻地雷{^K} 「符文精通」^-
 x2tagSkillRunesDescription013=^b[修饰符]^n^n^w增强符文地雷的寒冷效果，使敌人被拉向爆炸中心并冻结。
-
 tagRuneMinefieldNAME=符文阵地{^K} 「符文精通」^-
 tagRuneMinefieldDESC=^b[修饰符]^n^n^w成为真正的符文大师需要理解符文应用，并能通过符文增强基础魔法。
-
 tagMinesBNAME=邪恶符文{^K} 「符文精通」^-
 tagMinesBDESC=^b[转化]^n^n^w创造充满来自死亡领域破坏力量的邪恶符文。
 
 x2tagSkillRunesName014=命运封印{^K} 「符文精通」^-
 x2tagSkillRunesDescription014=^b[玩家加成宠物] [固定] [范围]^n^n^w在地面画出一个精致的符号，符号爆炸时立即对区域内敌人造成伤害，然后3秒后再次爆炸。被符文困住的敌人会被减速。^o此符文的伤害与玩家的伤害加成有关。
-
 x2tagSkillRunesName015=余震{^K} 「符文精通」^-
 x2tagSkillRunesDescription015=^b[宠物修饰符]^n^n^w最终爆炸的震荡即便敌人幸存，也会让他们受到重创，几乎无法继续战斗。
-
 tagSealOfFateSkill01NAME=减速符文
 tagSealOfFateSkill02NAME=符文过载
 tagSealOfFateBNAME=命运封印{^K} 「符文精通」^-
@@ -1218,25 +988,20 @@ tagSealOfFateBDESC=^b[转化] [宠物替换]^n^n^w在地面放置一个命运封
 
 x2tagSkillRunesName016=符文武器{^K} 「符文精通」^-
 x2tagSkillRunesDescription016=^b[攻击替换]^n^n^w在辉煌的战斗中，每一次攻击都让你的心灵进入一种陶醉的状态，从而增强你的魔法能力。 ^o积累充能会提升增益效果。
-
 x2tagSkillRunesName017=魔法充能{^K} 「符文精通」^-
 x2tagSkillRunesDescription017=^b[修饰符]^n^n^w随着战斗的进行，积聚的力量点燃你的符文武器，燃烧任何接触到你的敌人。
-
 x2tagSkillRunesName007=符文词：羽毛{^K} 「符文精通」^-
 x2tagSkillRunesDescription007=^b[修饰符]^n^n^w每个符文大师都会学会的基本雕刻技艺，减少武器的重量，让他们能够优雅而精准地挥动重型武器。
-
 tagRuneWeaponBNAME=尼德霍格的饥饿{^K} 「符文精通」^-
 tagRuneWeaponBDESC=^b[转化]^n^n^w元素符文魔法被黑暗领域的腐化所扭曲，变得如同尼德霍格的毒息一样致命。
 
 x2tagSkillRunesName020=神圣愤怒{^K} 「符文精通」^-
 x2tagSkillRunesDescription020=^b[次要修饰符] [定时] [增益]^n^o[攻击时]^n^n^w在你可怕的战斗展示后，变得更加强大，增强你的战斗能力。 //在战斗中受伤只会加速狂战士进入狂怒状态，令那些未能及时击败他们的敌人感到深深的悔恨。
-
 x2tagSkillRunesName021=可怕力量{^K} 「符文精通」^-
 x2tagSkillRunesDescription021=^b[法术] [范围] [减益]^n^n^w发出一声可怕的尖叫，削弱附近敌人的战斗力。
 
 x2tagSkillRunesName022=颤栗巨石{^K} 「符文精通」^-
 x2tagSkillRunesDescription022=^b[玩家加成宠物] [固定] [范围] [增益]^n^n^w召唤一根较小的符文石柱，阻挡并分散敌人的注意。^o该石柱的力量随着玩家的伤害加成而增强。
-
 tagMenhirWallSkill02NAME=震动
 tagStoneAuraNAME=石之契约
 tagWallStoneSkill1NAME=大地脉冲{^K} 「符文精通」^-
@@ -1244,18 +1009,15 @@ tagWallStoneSkill1DESC=^b[宠物技能] [范围]^n^n^w偶尔，巨石会撕裂�
 
 x2tagSkillRunesName023=守护石{^K} 「符文精通」^-
 x2tagSkillRunesDescription023=^b[玩家加成宠物] [固定] [束缚] [定时]^n^n^w召唤一颗更强大的符文石，它会对进入其神圣领域的敌人进行魔法攻击。这些石柱会将敌人绑定，并在一段时间内不断对其造成伤害。^o守护石的力量随着玩家的伤害加成而增强。
-
 x2tagSkillRunesName024=元素闪电
 
 tagRunePrisonNAME=石牢{^K} 「符文精通」^-
 tagRunePrisonDESC=^b[玩家加成宠物] [墙壁] [挑衅] [减益]^n^n^w召唤一圈巨石，将附近的敌人困在其中。靠近监牢的敌人会降低物理和流血抗性。当石牢消失时，会释放二次诅咒，刷新减益效果。^o此监牢根据玩家伤害加成进行加成。
-
 tagRunePrisonPetNAME=监牢墙
 tagRunePrisonPetSkillNAME=囚禁
 
 tagGaldrRuneNAME=火炬符文{^K} 「符文精通」^-
 tagGaldrRuneDESC=^b[玩家加成宠物] [宠物光环] [固定] [减益]^n^n^w在地面刻画多个符文并燃烧，产生符文烈焰，令被其影响的敌人更加脆弱。^o这些符文随着玩家的伤害加成而增强。
-
 tagTorchRunePetNAME=火炬符文
 tagRunicMinesSkill01NAME=符文烈焰
 tagGaldrRuneBNAME=张开虚空{^K} 「符文精通」^-
@@ -1263,7 +1025,6 @@ tagGaldrRuneBDESC=^b[转化] [宠物替换]^n^n^w在地面刻画一个符文，�
 
 tagRuneStormNAME=符文风暴{^K} 「符文精通」^-
 tagRuneStormDESC=^b[法术] [传染性] [减益]^n^n^w当局势需要时，将不匹配的符文组合在一起，创造出一种危险的风暴，带来无法预料的效果。
-
 tagRuneStormBNAME=纷争符文{^K} 「符文精通」^-
 tagRuneStormBDESC=^b[转化]^n^n^w将纷争符文召唤到敌人身上，使敌人受到毒素和混沌伤害，而不是火焰和冰霜伤害。
 
@@ -1274,6 +1035,7 @@ tagRuneExclusive2DESC=^b[专属] [增益]^n^n^w一些符文大师誓言效忠瓦
 tagRuneExclusive1NAME=赫尔的信徒{^K} 「符文精通」^-
 tagRuneExclusive1DESC=^b[专属] [增益]^n^n^w将服务奉献给死者之地，符文大师能够获得不同于同类的力量。与黑暗力量结盟，能够控制死亡与腐化，而非元素之力。
 
+
 #内丹技能
 
 x4tagNeidanMastery=内丹精通
@@ -1281,47 +1043,37 @@ x4tagNeidanMasteryDescription=成为内丹的高手，一位神秘的炼金术�
 
 x4tagSkillNeidanPotionBuff=强效灵药{^K} 「内丹精通」^-
 x4tagSkillNeidanPotionBuffDesc=^b[次要修饰符] [增益]^n^o[药水]^n^n^w内丹修炼者常常改变其药剂配方，使它们在服用时给予额外的增益效果。^o此增益在使用生命或能量药水时触发。
-
 x4tagSkillNeidanEbbandFlow=翡翠精华{^K} 「内丹精通」^-
 x4tagSkillNeidanEbbandFlowDesc={^b}[次要修饰符] [增益]^n^o[药水]{^n}{^n}{^w}使用翡翠这种强大而神秘的矿物，进一步提升你的攻击技巧，使你获得更强的以太和酸性伤害。^o此增益在使用生命或能量药水时触发。
-
 x4tagSkillNeidanPotionB=琼浆药水{^K} 「内丹精通」^-
 x4tagSkillNeidanPotionBDESC=^b[转化]^n^o[药水]^n^n^w你的生命和能量药水现在都会恢复部分生命和能量，但使用之间的延迟被增加了。
 
 oldx4tagSkillNeidanPotionBuff=强效灵药{^K} 「内丹精通」^-
 oldx4tagSkillNeidanPotionBuffDesc=^b[增益]^n^n^w内丹修炼者常常改变其药剂配方，使它们在服用时给予额外的增益效果。
-
 oldx4tagSkillNeidanEbbandFlow=内在平衡{^K} 「内丹精通」^-
 oldx4tagSkillNeidanEbbandFlowDesc={^b}[修饰符]{^n}{^n}{^w}当^b强效灵药^w处于激活状态时，平衡体内能量，提升以太和酸性伤害。
-
 oldx4tagSkillNeidanPotionB=琼浆药水II{^K} 「内丹精通」^-
 oldx4tagSkillNeidanPotionBDESC=你的药水效果变得更加强大，但现在需要更长时间才能再次生效。^o增加药水冷却时间至8秒，但增加药水治疗量。
-
 
 x4tagSkillNeidanConvergence=汇聚{^K} 「内丹精通」^-
 x4tagSkillNeidanConvergenceDesc=^b[专属][可切换][范围][增益]^n^n^w有时，通过将多种药水和原料融合在一起，内丹修炼者能够创造出惊人的药水。
 
 x4tagSkillNeidanEnergyDrain=气脉重整{^K} 「内丹精通」^-
 x4tagSkillNeidanEnergyDrainDesc=^b[增益][定时][无法移动]^n^n^w开始引导3秒并重新整合气脉，恢复生命并在此期间变得无敌。
-
 x4tagSkillNeidanEnergyDrainDisruption=回响{^K} 「内丹精通」^-
 x4tagSkillNeidanEnergyDrainDisruptionDesc=^b[次要修饰符][爆发]^n^n^w在你引导以重新整合气脉时，你释放出能量，从附近的敌人身上吸取生命，并留下持久的后果。
 
 x4tagSkillNeidanShenPao=神炮{^K} 「内丹精通」^-
 x4tagSkillNeidanShenPaoDesc=^b[法术][范围][定时]^n^n^w向敌人投掷一瓶神能药剂，药剂在撞击时爆炸，并点燃地面，激发神火。
-
 x4tagSkillNeidanShenPao3=外丹焰{^K} 「内丹精通」^-
 x4tagSkillNeidanShenPaoDESC3=^b[修饰符]^n^N^w利用外丹技艺，内丹修炼者可以通过炼金火焰增强神能炸弹的威力。
-
 x4tagSkillNeidanDeathBomb=祖先回响{^K} 「内丹精通」^-
 x4tagSkillNeidanDeathBombDesc=^b[修饰符][次要效果]^n^o[击杀时]^n^n^w用神炮击败敌人后，从被击杀的敌人身上散发出冲击波，对其他附近敌人造成伤害。{^n}{^o}可以在敌人死亡时触发。
-
 x4tagSkillNeidanShenPaoB=炸弹{^K} 「内丹精通」^-
 x4tagSkillNeidanShenPaoBDESC=与其依赖神炮慢慢摧毁敌人，不如创造一个瞬间爆炸的炸弹。^o这会改变神炮的投射方式，使其不再具有持续时间。
 
 x4tagSkillNeidanDash=冲刺{^K} 「内丹精通」^-
 x4tagSkillNeidanDashDesc=^b[增益]^n^n^w引导你的气脉，以提高你的移动速度和灵活性。
-
 x4tagSkillNeidanDashPhase=阶段{^K} 「内丹精通」^-
 x4tagSkillNeidanDashPhaseDesc=^b[修饰符]^n^n^w集中你的气脉，提升你的灵活性，避免敌人的攻击。
 
@@ -1330,57 +1082,45 @@ x4tagSkillNeidanWeakestChakraDesc=^b[专属][可切换][范围][光环]^n^n^w你
 
 x4tagSkillNeidanDragonsBreath=魔焰{^K} 「内丹精通」^-
 x4tagSkillNeidanDragonsBreathDesc=^b[法术][波]^n^n^w你释放负能量，向前方的敌人攻击，令他们陷入迷惑。
-
 x4tagSkillNeidanDragonsBreathFearAndFumble=古老之声{^K} 「内丹精通」^-
 x4tagSkillNeidanDragonsBreathFearAndFumbleDesc=^b[修饰符]^n^n^w被魔焰波及的敌人将会遭遇古代力量的愤怒。
-
 x4tagSkillNeidanDragonsBreath2=毒气{^K} 「内丹精通」^-
 x4tagSkillNeidanDragonsBreath2Desc=^b[次要修饰符][光环]^n^n^w释放魔焰后，你的身体被魔力笼罩，对附近的敌人造成额外伤害。
-
 x4tagSkillNeidanDragonsBreathB=狮吼{^K} 「内丹精通」^-
 x4tagSkillNeidanDragonsBreathBDESC=释放大量负能量，覆盖更大范围，增加攻击的距离和扇形宽度。
 
 x4tagSkillNeidanLuckyFind=金蟾的祝福{^K} 「内丹精通」^-
 x4tagSkillNeidanLuckyFindDesc=^b[被动]^n^o[击杀时]^n^n^w金蟾的祝福降临到你身上，提升你的火焰和酸性伤害。此外，击杀敌人时有机会掉落额外的铁块。{^n}{^o}可以在敌人死亡时触发。额外的技能等级增加掉落的金币数量。
-
 x4tagSkillNeidanGoodFortune=好运
 
 x4tagSkillNeidanAuraOfTranquility=宁静光环{^K} 「内丹精通」^-
 x4tagSkillNeidanAuraOfTranquilityDesc=^b[增益]^n^n^w你的心智既是武器又是盾牌。你用气脉创造出一个可再生的屏障，保护自己。
-
 x4tagSkillNeidanMeldingArmor=融铸铠甲{^K} 「内丹精通」^-
 x4tagSkillNeidanMeldingArmorDesc=^b[修饰符]^n^n^w你气脉的流动强度如此之大，以至于你的屏障获得了额外的保护能量。
 
 x4tagSkillNeidanTerracottaServant=召唤陶土战士{^K} 「内丹精通」^-
 x4tagSkillNeidanTerracottaServantDesc=^b[宠物] [近战]^n^n^w投掷一瓶精妙的炼金药剂，在撞击点创造一个陶土战士来为你效力。^o一次只能召唤一个陶土战士。陶土战士的能力随着宠物加成而增强。
-
 x4tagSkillNeidanTerracottaServantPetNAME=陶土战士
 x4tagSkillNeidanTerracottaServantPetSkillA=基础攻击
 x4tagSkillNeidanTerracottaServantPetSkillB=致命一击
 x4tagSkillNeidanTerracottaServantShatter=碎裂{^K} 「内丹精通」^-
 x4tagSkillNeidanTerracottaServantShatterDesc=^b[宠物技能][范围]^n^o[死亡时]^n^n^w即使死亡也无法打破忠诚的束缚。当陶土战士死亡或被击杀时，它会爆炸，对周围敌人造成伤害。
-
 x4tagSkillNeidanTerracottaServantTeachingsOfTheMaster=火铸锻造{^K} 「内丹精通」^-
 x4tagSkillNeidanTerracottaServantTeachingsOfTheMasterDesc=^b[宠物光环]^n^n^w陶土战士不断燃烧，对附近敌人造成伤害。
-
 x4tagSkillNeidanTerracottaServantB=火泥{^K} 「内丹精通」^-
 x4tagSkillNeidanTerracottaServantBDESC=通过稍微调整你的炼金药剂，陶土战士在战斗中会燃烧得更加炽烈，用火焰伤害敌人。
 
 x4tagSkillNeidanConsequences=后果{^K} 「内丹精通」^-
 x4tagSkillNeidanConsequencesDesc=^b[范围][定时][减益]^n^n^w你将力量传导到体内，降低敌人的抗性，使他们更容易受到伤害。
-
 x4tagSkillNeidanSpreadingRot=相互痛苦{^K} 「内丹精通」^-
 x4tagSkillNeidanSpreadingRotDesc=^b[修饰符]^n^n^w受^o后果^w影响的敌人将会受到一个折磨的诅咒，影响他们的身体和灵魂。^b后果^w的范围和持续时间也会增加。
 
 x4tagSkillNeidanLastingConsequences=黄帝恩泽{^K} 「内丹精通」^-
 x4tagSkillNeidanLastingConsequencesDesc=^b[攻击替代]^n^n^w你引导古代皇帝的愤怒，以神能打击敌人。^o当作为默认武器攻击时，黄帝恩泽将放大每一次单次武器攻击的威力。
-
 x4tagSkillNeidanSplash=扩散影响{^K} 「内丹精通」^-
 x4tagSkillNeidanSplashDesc=^b[修饰符]^n^n^w击中敌人时，你的攻击将在一个区域内造成伤害，伤害周围的敌人。
-
 x4tagSkillNeidanHuangdi3=天帝之击{^K} 「内丹精通」^-
 x4tagSkillNeidanHuangdi3DESC=^b[修饰符]^n^n^w偶尔会导致黄帝恩泽的攻击在目标灵魂中回响，点燃敌人的灵魂，有时还会使其石化一段时间。
-
 x4tagSkillNeidanLastingConsequencesB=雷公恩泽{^K} 「内丹精通」^-
 x4tagSkillNeidanLastingConsequencesBDESC=雷公赐予你雷霆之力，让你能以雷电审判敌人。
 
@@ -1389,11 +1129,12 @@ x4tagSkillNeidanSmokeBombDesc=^b[减益][投射物][定时]^n^n^w你投掷少量
 
 x4tagSkillNeidanSummonDemon=召唤妖怪{^K} 「内丹精通」^-
 x4tagSkillNeidanSummonDemonDESC=^b[光束][宠物][定时]^n^n^w所有人类都有他们内心的魔鬼，像虫子一样在体内滋生。内丹修炼者通过一项技术，集中负面能量并将其引导至敌人，召唤出他们的魔鬼并指挥它们为你战斗一段时间。^o妖怪的能力随着宠物加成而增强。
-
 x4tagSkillNeidanSummonDemonPetNAME=妖怪
 x4tagSkillNeidanSummonDemonPetAttackA=魔爪
 
+
 # Artifact Names (神器名称)
+
 tagArtifactName001=神器 ~ 梦境卷轴
 tagArtifactName002=神器 ~ 死亡之声
 tagArtifactName003=神器 ~ 熔火之珠
@@ -1475,10 +1216,8 @@ tagArtifactName078=神器 ~ 斯瓦尔塔法尔誓言
 tagArtifactName079=神器 ~ 塔拉尼斯之轮
 tagArtifactName080=神器 ~ 达瓦林的仿像
 tagArtifactName080BPDesc=一件神秘的遗物，据说能够创造出你自己的镜像。^n^o在制作时，完成奖励会支持其中一个Grim Quest的专精，并授予该专精支持技能。
-
 tagArtifactName080_Reroll=神器 ~ 达瓦林的仿像 - 重置
 tagArtifactName080_RerollBPDesc=^r这将摧毁你库存或储藏中一个随机的达瓦林的仿像，并重新生成一个新的！确保你想重置的仿像在你的库存中，而不是储藏室。
-
 tagArtifactName080a=守卫者仿像
 tagArtifactName080b=预言者仿像
 tagArtifactName080c=火焰法师仿像
@@ -1511,258 +1250,180 @@ tagArtifactName097=神器 ~ 尼克斯的暗面
 # Artifact Skills (神器技能)
 
 tagArtifactSkill001=梦境卷轴
-tagArtifactSkill001D=当这卷轴感知到危险时，它会立刻将敌人催眠，并让他们经历生动的噩梦。
-
+tagArtifactSkill001D=当这卷轴感知到危险时，它会立刻将敌人催眠，并让他们经历生动的噩梦。´
 tagArtifactSkill002=死亡之声
 tagArtifactSkill002D=响起的响尾蛇声提高了佩戴者的攻击速度。
-
 tagArtifactSkill003=熔火之珠
 tagArtifactSkill003D=向目标区域降下火焰之珠，对小范围内的敌人造成火焰和物理伤害。
-
 tagArtifactSkill004=幽灵守护
 tagArtifactSkill004D=释放死亡气息，对附近的敌人造成生命值损失并吸取其健康。
-
 tagArtifactSkill005=琥珀瓶
 tagArtifactSkill005D=仅需一小口魔法瓶中的液体，就能让你恢复活力。
-
 tagArtifactSkill006=星心
 tagArtifactSkill006D=偶尔能保护佩戴者免受元素攻击。
-
 tagArtifactSkill007=永夜之幕
 tagArtifactSkill007D=使附近的敌人视线受损，并对他们造成伤害。
-
 tagArtifactSkill008=苍白月亮
 tagArtifactSkill008D=召唤月亮照亮一个区域，增加佩戴者的魔法能力，并让敌人更易被击败。^o苍白月亮随着玩家的伤害加成而增强。
-
 tagArtifactPet008=月光
 tagArtifactPet008Skill1=光辉
 tagArtifactPet008Skill2=照亮
-
 tagArtifactSkill009=天火爆炸
 tagArtifactSkill009D=吊坠释放一场风暴，将天火爆炸到靠近佩戴者的敌人身上。
-
 tagArtifactPet009=天火风暴
 tagArtifactPet009Skill1=天火爆炸
-
 tagArtifactSkill010=傻子的触摸
 tagArtifactSkill010D=当受到攻击时，神器会以致命的疾病进行反击，使敌人无法有效地进行反击，且动作不协调。
-
 tagArtifactSkill011=混沌立方
 tagArtifactSkill011D=你手中的立方体会自我复制并围绕你旋转，伤害任何接触到它的敌人。
-
 tagArtifactSkill012=叶歌
 tagArtifactSkill012D=当风吹过时，从这束树叶中可以听到歌声，赋予佩戴者更强的战斗能力。
-
 tagArtifactSkill013=烬雷
 tagArtifactSkill013D=发射一波火焰箭矢，点燃并穿透周围的敌人，同时有小几率使敌人陷入混乱。
-
 tagArtifactSkill014=灵魂颤动
 tagArtifactSkill014D=从目标身上吸取生命力来治愈自己。
-
 tagArtifactSkill015=剃刀爪
 tagArtifactSkill015D=召唤一只野性的鬣狗为玩家战斗。这只鬣狗拥有一个增强穿透和流血伤害的光环，并具有击中周围敌人的移动能力。最后，当鬣狗接近死亡时，它会进入狂暴状态，极大地提升其伤害和速度。^o野性鬣狗随着宠物加成而增强。
-
 tagArtifactPet015=野性鬣狗
 tagArtifactPet015Skill1=撕咬
 tagArtifactPet015Skill2=剃刀爪光环  // 旧版
 tagArtifactPet015Skill2D=鬣狗受到剃刀爪神器的增强，将其一部分力量传递给附近的盟友。
 tagArtifactPet015Skill3=狂暴  // 旧版
 tagArtifactPet015Skill4=猛扑  // 旧版
-
 tagArtifactSkill016=蛇神之歌
 tagArtifactSkill016D=触发时，蛇神帮助玩家灵活移动，帮助规避伤害，并变得更像蛇，增强毒素伤害。
-
 tagArtifactSkill017=太阳石
 tagArtifactSkill017D=用一束集中的阳光攻击一个区域，造成重度火焰和混沌伤害。
-
 tagArtifactSkill018=血之狂怒
 tagArtifactSkill018D=当受到攻击时，这件神器使玩家进入血腥愤怒状态，显著增强他们的战斗反应能力。
 tagArtifactSkill019=水晶泪
 tagArtifactSkill019D=极大地增强了发现敌人弱点的能力，给你提供完美的攻击机会，并通过强力的暴击击溃敌人。
-
 tagArtifactSkill020=翡翠羽毛
 tagArtifactSkill020D=每次攻击有几率发射一支毒箭，毒箭在击中时爆炸。
-
 tagArtifactSkill021=翡翠偶像
 tagArtifactSkill021D=增强你的防御力，准备迎接敌人的猛烈进攻。
-
 tagArtifactSkill022=黑暗核心
 tagArtifactSkill022D=打开通往未知魔法领域的裂缝，通过裂缝飞来的是黑暗魔法的碎片，接触时会爆炸。
-
 tagArtifactSkill023=阴影护符
 tagArtifactSkill023D=从护符中逃脱的阴险触手，造成伤害并吸取生命力。
-
 tagArtifactSkill024=精神枯萎
 tagArtifactSkill024D=一只古老的不死生物从神器中逃脱，但目前可以控制它。这只生物带有恶性气息，增加毒素伤害，并有一个横扫攻击，能对附近的敌人造成毒素和物理伤害。最后，它会对周围的敌人持续造成毒素伤害。^o腐臭猎犬随着宠物加成而增强。
-
 tagArtifactPet024=腐臭猎犬
 tagArtifactPet024Skill1=腐烂爪
 tagArtifactPet024Skill2=毒咬
 tagArtifactPet024Skill3=恶性
 tagArtifactPet024Skill3D=这只猎犬由精神枯萎神器增强，将它的部分力量扩展给附近的盟友。
 tagArtifactPet024Skill4=腐臭排放
-
 tagArtifactSkill025=大地护符
 tagArtifactSkill025D=强烈的热量在施法者周围积聚，点燃附近的敌人，并使他们更易受到元素伤害。
-
 tagArtifactSkill026=乌鸦的阴影
 tagArtifactSkill026D=佩戴此神器时，一群不祥的乌鸦跟随着施法者。当受到攻击时，一只乌鸦会从天而降，啄出敢于攻击你的傻瓜的眼睛。^o乌鸦随玩家的伤害加成而增强。
-
 tagArtifactPet026=乌鸦
 tagArtifactPet026Skill1=快速啄击
 tagArtifactPet026Skill2=啄眼
-
 tagArtifactSkill027=疯狂之源
 tagArtifactSkill027D=盒子里传来的声音会扩展到附近的敌人，并进一步蔓延到周围的其他敌人。所有受到影响的人都会听到声音并变得更难作战，同时从混乱的声音中受到伤害。
-
 tagArtifactSkill028=召唤者图腾
 tagArtifactSkill028D=召唤出一条熔炉龙为玩家战斗。熔炉龙能够在一个方向上释放它的气息，焚烧所有被混乱火焰困住的敌人，也可以选择吐出一个单独的火焰宝珠，将一颗混沌火球投掷给敌人。熔炉龙是一只巨大的生物，偶尔它会用爪子扫过多个敌人，造成大量的混沌和燃烧伤害。^o熔炉龙随着宠物加成而增强。
-
 tagArtifactPet028=熔炉龙
 tagArtifactPet028Skill1=龙之打击
 tagArtifactPet028Skill2=横扫攻击
 tagArtifactPet028Skill3=地狱火息
 tagArtifactPet028Skill4=火焰宝珠 // 旧版
-
 tagArtifactSkill029=变化之书
 tagArtifactSkill029D=这本书在被持有时能够完全改变使用者的物理极限。它将部分由战士造成的物理伤害转化为元素伤害。
-
 tagArtifactSkill030=乌木之球
 tagArtifactSkill030D=一颗魔法之球环绕在施法者周围，保护他们免受伤害，并使大多数攻击完全错过。此外，攻击者如果击中该球，会受到割伤并开始流血。
-
 tagArtifactSkill031=火焰之舌
 tagArtifactSkill031D=这包含一个简单的法术，“火焰之言”，施放时会产生一个火焰泡泡，伤害附近的敌人。一段时间后，火焰球会爆炸，对附近的所有敌人造成更多的伤害。^o火焰之言随玩家的伤害加成而增强。
-
 tagArtifactPet031=火焰之言
 tagArtifactPet031Skill1=燃烧
 tagArtifactPet031Skill2=火焰爆裂
-
 tagArtifactSkill032=雷霆之拳
 tagArtifactSkill032D=一次强力的攻击，制造出冲击波，造成闪电和物理伤害。
-
 tagArtifactSkill033=豹神雕像
 tagArtifactSkill033D=赋予佩戴者猫一样的敏捷性，让他们能够用穿透伤害猛击前方的多个敌人。
-
 xtagPantherEffigyProc=豹神之爪 // 旧版
-
 tagArtifactSkill034=银心
 tagArtifactSkill034D=从施法者释放出如风暴般的爆发，造成闪电和寒冷伤害，并对异世界生物造成额外伤害。
-
 tagArtifactSkill035=少女之吻
 tagArtifactSkill035D=一种渴望的情感激励着你，更加努力地战斗并生存。
-
 tagArtifactSkill036=虚无面纱
 tagArtifactSkill036D=从神器中召唤出一个无形的存在，它会四处游荡，对任何靠近的敌人造成伤害。^o虚无面纱随着玩家的伤害加成而增强。
 tagArtifactPet036=虚无面纱
-
 tagArtifactSkill037=梦想之书
 tagArtifactSkill037D=强大的梦境魔法撞击附近的敌人，造成伤害并从敌人身上吸取一部分生命。
-
 tagArtifactSkill038=死灵术
 tagArtifactSkill038D=从一名刚刚被杀死的敌人身上复生一位不死战士。^o骷髅士兵随宠物加成而增强。
-
 tagArtifactPet038=复生的死者
 tagArtifactPet038Skill1=骨拳
-
 tagArtifactSkill039=德鲁伊花环
 tagArtifactPet039Skill1=治愈花环
 tagArtifactPet039Skill2=毒花环
 tagArtifactSkill039D=德鲁伊魔法保护施法者，治愈附近的盟友并毒害附近的敌人。^o德鲁伊花环随玩家伤害加成而增强。
-
 tagArtifactSkill040=阴影浪潮
 tagArtifactSkill040D=一波纯粹的黑暗从玩家的脚下爆发，伤害所有附近的敌人。
-
 tagArtifactSkill041=时代的愤怒
 tagArtifactSkill041D=佩戴盾牌时，时代的愤怒会在你格挡时反击，击打面前的敌人。
-
 tagArtifactSkill042=潮汐波浪
 tagArtifactSkill042D=用三股强大的冰冻水流打击你的敌人。
-
 tagArtifactSkill043=龙之舌
 tagArtifactSkill043D=龙的舌头是一个极易点燃的物体，简单地指向某个方向就会引发自燃。
-
 tagArtifactSkill044=屠王者
 tagArtifactSkill044D=强大的屠王者技巧创造出地动的波纹，摧毁被卷入的敌人并将他们击倒。
-
 tagArtifactSkill045=狮子吼
 tagArtifactSkill045D=释放一声强大的吼叫，大幅提升玩家和附近盟友的战斗技能，持续一段时间。
-
 tagArtifactSkill046=闪电激增
 tagArtifactSkill046D=向你的敌人发射一连串的闪电攻击。
-
 tagArtifactSkill047=永恒之球
 tagArtifactSkill047D=永恒之力通过神器流入你的体内，极大地增强你的力量，持续一段时间。
-
 tagArtifactSkill048=撕裂
 tagArtifactSkill048D=可以在所有默认武器攻击时激活。使用近战武器时，攻击会打击多个附近的目标。
-
 tagArtifactSkill006=血液沸腾 // 旧版
 tagArtifactSkill006=使所有附近的对手血液沸腾，伤害他们并在同一时间魔法般地恢复玩家的生命。 // 旧版
-
 tagArtifactSkill049=最后一息
 tagArtifactSkill049D=当你接近死亡时，这件神器爆发，拉近所有敌人并将他们摔倒，将他们的生命力转移给你。
-
 tagArtifactSkill050=毒蛇之牙
 tagArtifactSkill050D=毒箭从玩家身上射出，向四面八方发射。
-
 tagArtifactSkill051=盖亚之手
 tagArtifactSkill051D=盖亚之手将召唤出她最美丽的植物来保护玩家。这些植物会向任何敌对生物发射尖锐的刺，造成流血和毒素伤害。那些试图摘取花朵的敌人会遭遇一场猛烈的刺击。^o盖亚的荆棘藤随宠物加成而增强。
-
 tagArtifactPet051=盖亚的荆棘藤
 tagArtifactPet051Skill1=刺击射击
 tagArtifactPet051Skill2=飞刺爆炸
-
 tagArtifactSkill052=火心的气息//火焰打击
 tagArtifactSkill052D=用熔岩核心的力量强化自己和你的盟友。//从天而降火焰陨石。
-
 tagArtifactSkill053=征服者的印记
 tagArtifactSkill053D=为了展示他们的力量，征服者将在某个区域打上力量的符号，削弱敌人的决心。
-
 tagArtifactSkill054=暴君之拳
 tagArtifactSkill054D=挥舞你的武器扫过周围的空气，造成混沌伤害给所有在攻击范围内的敌人。
-
 tagArtifactSkill055=荣耀之光
 tagArtifactSkill055D=这件来自古代角斗士时代的神器，在你受到伤害时赋予你角斗场的力量。受到攻击后，你的斗志会被激发，推动你前进，并帮助你为下次战斗做好准备。
-
 tagArtifactSkill056=元素混沌
 tagArtifactSkill056D=召唤出原始的元素力量——火与冰，它们相互碰撞，爆发出可怕的能量。
-
 tagArtifactSkill057=博学之象征
 tagArtifactSkill057D=文艺复兴的男人，万事通，博学者的代名词。这件象征唤醒内在的潜力，让玩家做任何事时都更加出色。任何人都可以充分利用这件物品。
-
 tagArtifactSkill058D=一个保护性屏障出现在玩家周围，治愈玩家并吸收伤害，持续一段时间。
-
 tagArtifactSkill058=镜面墙
-
 tagArtifactSkill059=阿耳忒弥斯之战舞
 tagArtifactSkill059D=以神圣的优雅移动，短时间内提升你的战斗能力。
-
 tagArtifactSkill060=波塞冬的网
 tagArtifactSkill060D=用海神的力量困住一大群怪物。
-
 tagArtifactSkill061=德墨忒尔的恩赐
 tagArtifactSkill061D=恢复玩家和附近盟友的生命，持续一段时间。
-
 tagArtifactSkill062=铁拳
 tagArtifactSkill062D=将玩家的近战力量提升到史诗级水平。
-
 tagArtifactSkill063=血泪
 tagArtifactSkill063D=来自战神阿瑞斯的血火泪水降临到地球，造成流血和火焰伤害给所有被击中的敌人。
-
 tagArtifactSkill064=灵魂吸取
 tagArtifactSkill064D=试图吸取敌人的灵魂，造成足够的伤害以杀死所有敌人，除非是最强的敌人，并将他们的生命转移给玩家。
 tagArtifactSkill065=治疗瀑布
 tagArtifactSkill065D=偶尔恢复玩家及附近盟友的生命。
-
 tagArtifactSkill066=灵魂窃贼
 tagArtifactSkill066D=攻击所有附近的敌人，并从造成的伤害中恢复一定的生命。
-
 tagArtifactSkill067=玉帝的马乌杜伊恩
 tagArtifactSkill067D=强大的皇帝指引你和你的盟友在战斗中取得胜利。
-
 tagArtifactSkill068=梦暴风
 tagArtifactSkill068D=从玩家身上扩散出一团黑暗的梦境，令所有敌人入睡。当他们醒来时，会充满困惑、恐惧和嗜睡。
-
 tagArtifactSkill069=巴斯特的化身
 tagArtifactPet069=巴斯特的化身
 tagArtifactSkill069D=召唤巴斯特的化身——一只幽灵般的剑齿虎——来肆虐你的敌人。^o每次只能召唤一个化身。化身随宠物加成而增强。
@@ -1771,100 +1432,73 @@ tagArtifactPet069Skill2=咬击
 tagArtifactPet069Skill3=粉碎
 tagArtifactPet069Skill4=冲锋
 xtagArtifactPet069Skill5=爪牙与獠牙 // 旧版
-
 tagArtifactSkill070=马尔杜克的愤怒//命运之盾
 tagArtifactSkill070D=成为天界力量的旋风，斩击那些敢于阻挡你愤怒的人。^o需要近战武器。
-
 tagArtifactSkill071=拉的之眼
 tagArtifactSkill071D=用灼热的火焰包围你周围的区域，仅对敌人造成伤害。^o拉的之眼随玩家伤害加成而增强。
-
 tagArtifactSkill072=托特的荣耀
 tagArtifactSkill072D=托特能在你需要时援助你，暂时使你周围的敌人瘫痪。
-
 tagArtifactSkill073=雷暴
 tagArtifactSkill073D=召唤一片雷云降临玩家上方——即便是在室内——从中降下宙斯的闪电攻击所有敌人。
-
 tagArtifactSkill074=阿波罗之歌
 tagArtifactSkill074D=阿波罗的竖琴回荡着他的歌声，激励附近的所有听到的人。//发出一波音波能量，震慑并伤害路径上的所有敌人。
-
 tagArtifactSkill075=女王的战路
 tagArtifactSkill075D=一连串的毁灭向外扩展，象征着天堂女王伊什塔尔的愤怒。
-
 tagArtifactSkill076=召唤利摩斯
 tagArtifactSkill076D=召唤一只古老的生物，它的饥饿无止境。它能吸取附近敌人的生命并将其困在骨骼的牢笼中。^o每次只能召唤一个利摩斯。利摩斯随宠物加成而增强。
 tagArtifactPet076=利摩斯
 tagArtifactPet076Skill1=爪击
-
 tagArtifactSkill077=不朽
 tagArtifactSkill077D=恢复所有附近盟友的生命，并使他们在短时间内更加难以被杀死。
-
 tagArtifactSkill078=精灵法术
 tagArtifactSkill078D=精灵们天生优雅，并与自然与魔法保持和谐。这使得他们能以最小的努力施放出复杂的咒语。^o 这是一项杖类技能。
-
 tagArtifactSkill079=塔拉尼斯之轮
 tagArtifactSkill079D=从你现在拥有的神圣之轮中，一道神秘的火花向外迸发，给敌人带来毁灭。
-
 tagArtifactSkill080=德瓦林的模拟体
 tagArtifactSkill080D=召唤一个模拟体与你并肩作战。此模拟体的技能基于所制造的模拟体类型。^n^o模拟体随玩家伤害加成而增强。
-
 tagArtifactSkill081=甘班泰恩
 tagArtifactSkill081D=向你的目标发射2轮魔法箭矢。^o这是一项远程双手或法杖技术，基于默认武器攻击激活。
-
 tagArtifactSkill082=吉阿尔霍恩
 tagArtifactSkill082D=从吉阿尔霍恩中传出一声可怕的声音，伤害附近听到它的敌人。
-
 tagArtifactSkill083=激怒
 tagArtifactSkill083D=战争之曲激励附近的盟友，帮助他们重新振作，战斗力更强。
-
 tagArtifactSkill084=巨人屠戮者
 tagArtifactSkill084D=用一个巨大的打击摧毁敌人，造成重伤。^o这是一项近战技能，基于默认武器攻击激活。
-
 tagArtifactSkill085=神圣之地
 tagArtifactSkill085D=创建一个神圣的区域，增强进入该区域的玩家和盟友的力量。进入该区域的敌人会受到伤害。^o神圣之地随玩家伤害加成而增强。
-
 tagArtifactSkill085B=责罚
-
 tagArtifactSkill086=召唤辛加斯特恩
 tagArtifactSkill086D=从地面升起一块歌唱的石头来协助你。^o辛加斯特恩随玩家伤害加成而增强。
 tagArtifactPet086=辛加斯特恩
 tagArtifactPet086Skill1=音波冲击
-
 tagArtifactSkill087=气宝
 tagArtifactSkill087D=向敌人发射一波气能爆发。
-
 tagArtifactSkill088=龙王的赏金
 tagArtifactSkill088D=四海已为你目标贴上赏金，圣珠使其更加脆弱，你可以去夺取它。
-
 tagArtifactSkill089=蟠桃
 tagArtifactSkill089D=食用一片蟠桃后赋予自己临时的神力。
-
 tagArtifactSkill090=成为大地
 tagArtifactSkill090D=赋予自己和盟友大地古老的精灵力量，毒素和火焰成为你的命令。^o该技能必须保持激活才能维持效果。
-
 tagArtifactSkill091=破晓
 tagArtifactSkill091D=赫梅拉的皇冠发射明亮的阳光电流，在你周围旋转。
-
 tagArtifactSkill092=西林克斯之歌
 tagArtifactSkill092D=神秘的笛音从魔法的芦笛中回荡出来，偶尔显现出附近的灵魂，并协助你作战。
-
 tagArtifactSkill093=赫尔海姆的气息
 tagArtifactSkill093D=神圣的镰刀笼罩你和附近的盟友，带来死亡的力量。
-
 tagArtifactSkill094=召唤灯火
 tagArtifactSkill094D=^o灯火随宠物加成而增强。
 tagArtifact094Pet=灯火
 tagArtifact094PetSkill1=黑暗火焰
-
 tagArtifactSkill095=松鼠的奔跑
 tagArtifactSkill095D=^o松鼠随宠物加成而增强。
 tagArtifact095Pet=松鼠
 tagArtifact095PetSkill1=小爪子
-
 tagArtifactSkill096=女巫之印
 tagArtifactSkill096D=一个诅咒的符号刻印在大地上，立即引爆，将被困在爆炸中的敌人腐化，用古老的女神魔法把他们摧毁。
-
 tagArtifactSkill097=黄昏 //已删除
 tagArtifactSkill097D=一片阴影云雾从你身上扩散，暂时将附近敌人送入充满噩梦的沉睡。//已删除
+
+Artifact Blueprints
 
 tagArtifactBPName001=神器蓝图 ~ 梦境卷轴
 tagArtifactBPName002=神器蓝图 ~ 死亡之响
@@ -1963,6 +1597,8 @@ tagArtifactBPName094=神器蓝图 ~ 灯火的火炬
 tagArtifactBPName095=神器蓝图 ~ 拉塔托斯克的果实
 tagArtifactBPName096=神器蓝图 ~ 赫卡忒的符号
 tagArtifactBPName097=神器蓝图 ~ 奈克斯的黑暗面纱
+
+Artifact Flavor Text
 
 xtagArtifactFlavor001="这张卷轴上的图像在移动，仿佛透过别人的梦境在看。"
 xtagArtifactFlavor002="骷髅的空洞眼窝似乎在回望你。"
@@ -2068,8 +1704,8 @@ xtagArtifactFlavor095="一颗奇怪的坚果，里面能听到窸窣声……松
 xtagArtifactFlavor096="一个被时间遗忘的符号，其含义只被女巫女神的虔诚信徒所知。"
 xtagArtifactFlavor097="一层纯粹的黑暗之幕；看不见的双眼正从中盯着你。"
 
-Item Skills
 
+Item Skills
 #Affixes
 tagX4Prefix006SkillNAME=虚弱诅咒
 tagX4Prefix006SkillDESC=被击杀的敌人可能散布虚弱的诅咒。
@@ -2106,7 +1742,6 @@ tagShavosRelicSkillDESC=召唤一个地狱的精灵协助你战斗。^o同一时
 tagShavosRelicPetNAME=沙沃的化身
 tagSongoftheSirenSkillNAME=海妖之歌
 tagSongoftheSirenSkillDESC=诅咒般的旋律响起，使附近的敌人随机受到状态效果并粉碎其防御。
-
 #Rings
 tagBandOfSoulsSkillNAME=召唤复仇女神
 tagBandOfSoulsSkillDESC=呼唤其中一位复仇女神来惩戒凡人的灵魂。^o复仇女神随玩家加成成长。
@@ -2197,8 +1832,7 @@ tagX4RingD007SkillDESC=温神议会增强你瘟疫魔法的威力。
 tagX4RingD008SkillNAME=正念
 tagX4RingD008SkillDESC=进入一种身心合一的状态。
 
-Weapons
-
+#Weapons
 tagGuanYuNAME=观音的复兴
 tagGuanYuDESC=这根法杖中蕴含的治疗魔法在生命值低时治疗持有者。
 tagHekaRewindNAME=充能
@@ -2441,9 +2075,23 @@ xtagUWeapon004SkillNAME=被诅咒者的幻象
 xtagUWeapon004SkillDESC=用被诅咒者的影像攻击敌人的心智，让他们变得虚弱。
 tagThyestesSkillNAME=残酷复仇
 tagThyestesSkillDESC=对被此攻击击中的敌人释放毁灭性的复仇。^o通过默认武器攻击触发。
-
+tagGQShieldD125NAME=斯库尔德之印  
+tagGQShieldD125DESC=在你脚下施放的斯库尔德魔法形成的小型印记。  
+tagGQBlunt1hD111SkillNAME=巴洛尔之死视  
+tagGQBlunt1hD111SkillDESC=福莫里王巴洛尔用他的死眼摧毁敌人，如今你的敌人也将承受他的威力。  
+tagGQBlunt1hD112=巨人之牙  
+tagGQBlunt1hD112DESC="佩戴此物，狼群会尊敬你，并通过它们的群体光环赋予更多加成。"  
+tagGQBlunt1hD112SkillNAME=巨人之坚  
+tagGQBlunt1hD112SkillDESC=为你和你的宠物注入巨人的坚韧。  
+tagGQSword1hD110SkillNAME=毁灭之焰  
+tagGQSword1hD110SkillDESC=释放莱瓦坦的奥术烈焰，将区域内的敌人焚烧殆尽。  
+tagGQAxe2hD106SkillNAME=卢塞提乌斯之热忱  
+tagGQAxe2hD106SkillDESC=凯尔特战争之神激励持有者，你和附近的盟友将获得生命力以继续战斗。  
+tagGQBlunt2hD105SkillNAME=碾压一击  
+tagGQBlunt2hD105SkillDESC=从你的武器迸发出一股碾压之力，回荡开来。  
+tagVenomHuskSkillNAME=酸液爆射  
+tagVenomHuskSkillDESC=一股爆炸性的酸液喷射，对你周围的敌人造成伤害。  
 #Sets
-
 tagGQSetC001SkillNAME=玉皇的祝福
 tagGQSetC001SkillDESC=玉皇赐予你祝福，短时间内提供小幅治疗并增加伤害。
 tagGQSetC003SkillNAME=三重射击
@@ -2552,7 +2200,6 @@ tagGQSet032Skill1DESC=你穿戴的狮皮和爪子激励你和附近的盟友更�
 tagGQSet035SkillNAME=布朗忒斯的风暴
 tagGQSet035SkillDESC=一道闪耀的雷电展现，击中附近的敌人。
 
-
 #other
 xtagSkillEquipmentName001=阿尔西俄纽斯的能量护盾
 xtagSkillEquipmentDescription001=一个能量场，吸收所有来自敌人攻击的伤害。
@@ -2648,6 +2295,10 @@ tagX2MedalD008D=没有任何代价，甚至是用掉自己的一只眼睛，对�
 tagX2MedalD009=贝伦努斯之光
 tagX2MedalD009D=贝伦努斯是凯尔特的太阳神，也是疗愈泉水的守护神。
 
+
+
+
+
 #GQ Belts
 tagGQWaistD001=阿基里斯的腰带
 tagGQWaistD001DESC=
@@ -2671,6 +2322,8 @@ tagGQWaistD010={^I}弗雷亚的轻抚
 tagGQWaistD010DESC=
 tagGQWaistD011=道的恩典
 tagGQWaistD011DESC=
+tagGQWaistD012=美杜莎的腰带
+tagGQWaistD012DESC=
 
 #GQ Offhands
 tagGQFocus001=安提凯特拉机械
@@ -2705,6 +2358,7 @@ tagGQFocus018=奥拉伊的偶像
 tagGQFocus019={^I}宇宙之心
 tagGQFocus020=(S) {^B}织梦者的雕像
 
+
 #GQ Amulets
 tagGQAmulet001={^B}征服者的力量
 tagGQAmulet002={^B}被盗的饰品
@@ -2726,6 +2380,7 @@ tagGQAmulet017=红海之龙
 tagGQAmulet018=森沃斯雷特的宝座
 tagGQAmulet019={^I}艾多纽斯
 tagGQAmulet020=伊克洛斯的护符
+tagGQAmulet021=电岩图腾
 
 tagX2AmuletD001=祖先的项圈
 tagX2AmuletD002=斯卡迪的项链
@@ -3430,7 +3085,10 @@ tagGQHunting2HPrefixB004={^G}百夫长的
 tagGQHunting2HPrefixB005={^G}阿波罗的  
 tagGQHunting2HPrefixB006={^G}迅捷射手的  
 tagGQHunting2HPrefixB007={^G}阿耳忒弥斯的  
+
+
 #GQ Suffixes  
+
 tagGQSuffixB001={^I}安努比斯之怒的  
 tagGQSuffixB002={^I}宙斯之雷霆的  
 tagGQSuffixB003={^I}普罗米修斯之火的  
@@ -4828,52 +4486,38 @@ tagItemChrusaoros={^w}克鲁萨奥罗斯
 tagItemAor={^w}阿奥尔
 tagItemQuaddara={^w}奎达拉
 tagItemDrepanon={^w}德雷帕农
-
-# Style and Armor Types
 xtagStyleArmor01={^w}链甲
 xtagStyleArmor02={^w}鳞甲
 xtagStyleMageArmor01={^w}锦缎
 xtagStyleMageArmor02={^w}薄纱
 xtagStyleHelm01={^w}埃雷班头盔
 xtagStyleHelm02={^w}斯蒂吉安头盔
-
-# Mage Armor and Accessories
 xtagItemMageArm01={^w}腕饰
 xtagItemMageArm02={^w}束缚
 xtagItemMageHead01={^w}花环
 xtagItemMageHead02={^w}面纱
-
-# Shields
 xtagItemShield01={^w}塔卡盾
 xtagItemShield02={^w}塞勒俄斯盾
 xtagItemShield03={^w}佩尔塔里安盾
 xtagItemShield04={^w}佩尔塔里安盾
 xtagItemShield05={^w}斯蒂吉安盾
 xtagItemShield06={^w}斯蒂吉安盾
-
-# Rings and Amulets
 xtagItemRing01={^w}库克洛斯
 xtagItemRing02={^w}宝石戒指
 xtagItemAmulet01={^w}霍尔摩斯
 xtagItemAmulet02={^w}奖章
-
-# Axes
 xtagItemAxe01={^w}塞库里斯
 xtagItemAxe02={^w}色雷西亚裂斧
 xtagItemAxe03={^w}帕拉苏
 xtagItemAxe04={^w}双刃斧
 xtagItemAxe05={^w}布洛瓦斧
 xtagItemAxe06={^w}斯蒂吉安雕斧
-
-# Bows
 xtagItemBow01={^w}平弓
 xtagItemBow02={^w}托克索弓
 xtagItemBow03={^w}弓弓
 xtagItemBow04={^w}锻造弓
 xtagItemBow05={^w}攻城弓
 xtagItemBow06={^w}斯蒂吉安弓
-
-# Clubs
 xtagItemClub01={^w}权杖
 xtagItemClub02={^w}斯福里
 xtagItemClub03={^w}巴克特里安爪
@@ -4883,16 +4527,12 @@ xtagItemClub06={^w}亚述棍棒
 xtagItemClub07={^w}伊特鲁里亚锤
 xtagItemClub08={^w}战大槌
 xtagItemClub09={^w}斯蒂吉安权杖
-
-# Spears
 xtagItemSpear01={^w}艾克梅
 xtagItemSpear02={^w}多拉提昂
 xtagItemSpear03={^w}赫索斯
 xtagItemSpear04={^w}萨里萨
 xtagItemSpear05={^w}齐斯通
 xtagItemSpear06={^w}斯蒂吉安戟
-
-# Swords
 xtagItemSword01={^w}帕拉佐尼安
 xtagItemSword02={^w}亚历山大阔剑
 xtagItemSword03={^w}阿基纳克斯
@@ -4902,8 +4542,6 @@ xtagItemSword06={^w}恩凯里迪恩
 xtagItemSword07={^w}库克里
 xtagItemSword08={^w}剑剑
 xtagItemSword09={^w}斯蒂吉安叶刃
-
-# Staffs
 xtagItemStaff01={^w}奥术法杖
 xtagItemStaff02={^w}暗影法杖
 xtagItemStaff03={^w}埃雷班法杖
@@ -4911,7 +4549,6 @@ xtagItemStaff04={^w}阿斯福丹法杖
 xtagItemStaff05={^w}因库巴恩法杖
 xtagItemStaff06={^w}斯蒂吉安法杖
 
-# Miscellaneous
 tagOldItemFlavor=^o这是一个过时的物品，要将其更新为最新版本，请带它到Hangman Jarvis旁的盐环。忽略更新可能导致该物品在未来更新时被删除。
 tagVariantFlavor=^o变体
 tagThornSpriteVariantText=^o变体 ^n丢弃此物品将恢复为基础形式。 ^n^h由此变体召唤的荆棘精灵将替换为荆棘魔。

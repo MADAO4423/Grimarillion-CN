@@ -144,7 +144,33 @@ tagDemonHunterRune03=^c陷阱大师
 tagDemonHunterRune03Desc=^o环刃 ^w变为^b冰霜陷阱 ^w，当敌人靠近时爆炸造成冰霜伤害，并冻结2秒。如果敌人未被爆炸击杀，将被标记。被标记的敌人在5秒内冰霜抗性降低。^o使用冰霜陷阱时，^b剃刃盘 ^o及物品技能加成的伤害增加200%。{^n}{^n}{^y}符文词: {^c}PocNer
 
 tagDemonHunterRune04=^c共担重负
-tagDemonHunterRune04Desc=当^p暗影之力 ^w激活时，你会被诅咒，几乎所有抗性降低15%（物理抗性降低5%）。然而，被敌人攻击会使诅咒扩散并增强，使其在5秒内降低所有敌人的抗性20%。{^n}{^n}{^y}符文词: {^c}MoniVex
+tagDemonHunterRune04Desc=当^i暗影之力 ^w激活时，你会被诅咒，几乎所有抗性降低15%（物理抗性降低5%）。然而，被敌人攻击会使诅咒扩散并增强，使其在5秒内降低所有敌人的抗性30%。{^n}{^n}{^y}符文词: {^c}MoniVex
 
 tagDemonHunterRune04b=^c符文效果
 tagDemonHunterRune04bDesc=该敌人当前被“共担重负”诅咒，所有抗性降低。
+
+tagDemonHunterRune05=^c烟雾陷阱
+tagDemonHunterRune05Desc=每当你施放 ^i暗影之力^w 时，烟雾陷阱会在你周围出现。当敌人靠近陷阱时，它们会爆炸，造成穿刺伤害。被爆炸击中的敌人其防御与攻击能力降低，视野受限 5 秒。{^n}{^n}{^y}符文词: {^c}NeoWat
+tagDemonHunterRune05B=烟雾陷阱
+
+tagDemonHunterRune05C=^c烟雾陷阱 (强化)
+tagDemonHunterRune05CDesc=每当你施放 ^i暗影之力^w 时，烟雾陷阱会在你周围出现。当敌人靠近陷阱时，它们会爆炸，造成穿刺伤害。被爆炸击中的敌人其防御与攻击能力降低，视野受限 5 秒。{^n}{^n}{^y}符文词: {^c}NeoWat (强化)
+tagDemonHunterRune05B=烟雾陷阱
+
+tagDemonHunterRune06=^c顶级掠食者
+tagDemonHunterRune06Desc=每当 ^c多重射击 ^w造成暴击时，你接下来的所有攻击在 3 秒内都将造成暴击。然而，你的暴击伤害降低 30%。{^n}{^n}{^y}符文词: {^c}FeoYom
+
+tagDemonHunterRune06B=^c符文效果
+tagDemonHunterRune06BDesc=你接下来的所有攻击在 3 秒内都造成暴击伤害。
+
+tagDemonHunterRune07=^c暗影陷阱
+tagDemonHunterRune07Desc=^i缠绕射击 ^w获得 10% 几率施放暗影陷阱，对区域内敌人快速造成多段伤害。{^n}{^n}{^y}符文词: {^c}XolTec
+
+tagDemonHunterRune07B=^c暗影陷阱 (强化)
+tagDemonHunterRune07BDesc=^i缠绕射击 ^w获得 15% 几率施放暗影陷阱，对区域内敌人快速造成多段伤害。{^n}{^n}{^y}符文词: {^c}XolTec
+
+tagDemonHunterRune08=^c火炮手
+tagDemonHunterRune08Desc=击杀敌人后，^r复仇之雨 ^w召唤一个哨兵，复制多重射击的效果，不断向敌人发射多枚投射物。{^n}{^n}{^y}符文词: {^c}ZanQax
+
+tagDemonHunterRune08b=^c火炮手 (强化)
+tagDemonHunterRune08bDesc=击杀敌人后，^r复仇之雨 ^w召唤一个哨兵，复制多重射击的效果，不断向敌人发射多枚投射物。{^n}{^n}{^y}符文词: {^c}ZanQax
