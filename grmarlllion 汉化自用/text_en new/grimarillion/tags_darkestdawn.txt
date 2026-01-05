@@ -17,7 +17,7 @@
 #13: Chieftain
 
 tagDDSkillClassName01=Lich
-tagSkillClassName11=Lich
+tagSkillClassName34=Lich
 
 tagSkillClassName0111=Revenant
 tagSkillClassName0211=Alchemist
@@ -32,7 +32,7 @@ tagSkillClassName1011=Overlord
 tagSkillClassName1112=Acolyte
 
 tagDDSkillClassName02=Illusionist
-tagSkillClassName12=Illusionist
+tagSkillClassName36=Illusionist
 
 tagSkillClassName0112=Harbinger
 tagSkillClassName0212=Stalker
@@ -46,7 +46,7 @@ tagSkillClassName0912=Diviner
 tagSkillClassName1012=Veilbreaker
 
 tagDDSkillClassName03=Chieftain
-tagSkillClassName13=Chieftain
+tagSkillClassName42=Chieftain
 
 tagSkillClassName0113=Titan
 tagSkillClassName0213=Ravager
