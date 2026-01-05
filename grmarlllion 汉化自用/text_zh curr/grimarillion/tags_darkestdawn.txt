@@ -13,8 +13,8 @@
 #9: 誓约守护者
 #10: 原版狂战士
 #11: 巫妖
-#12:幻术师
-#13:酋长
+#12: 幻术师
+#13: 酋长
 
 tagDDSkillClassName01=巫妖
 tagSkillClassName34=巫妖
@@ -32,7 +32,7 @@ tagSkillClassName1011=霸主
 tagSkillClassName1112=侍徒
 
 tagDDSkillClassName02=幻术师
-tagSkillClassName12=幻术师
+tagSkillClassName36=幻术师
 
 tagSkillClassName0112=先驱者
 tagSkillClassName0212=潜行者
@@ -46,7 +46,7 @@ tagSkillClassName0912=占卜师
 tagSkillClassName1012=面纱破坏者
 
 tagDDSkillClassName03=酋长
-tagSkillClassName13=酋长
+tagSkillClassName42=酋长
 
 tagSkillClassName0113=泰坦
 tagSkillClassName0213=破坏者
