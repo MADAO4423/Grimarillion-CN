@@ -1,8 +1,0 @@
-Shattered Treasure Trove
-This shattered chest is locked with a powerful unknown magic.{^n}{^n}It will take 5 shattering orbs to break it open and reveal items beyond imagination.
-Not enough Shattering orbs.
-Open the chest.
-Leave it.
-You have opened this chest.
-Ok.
-
