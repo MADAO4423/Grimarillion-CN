@@ -42,9 +42,9 @@ tagClass01SkillName06B=Zolhan's Technique
 tagClass01SkillDescription06B=^b[Weapon Pool Skill]  [AOE] [Penetrating]^n^n^wNamed for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oCan activate with all default weapon attacks. When used with a melee weapon, the attack strikes multiple nearby targets.
 
 tagClass01SkillName07A=Fighting Spirit
-tagClass01SkillDescription07A=^b[Buff] [Timed]^n^o[When Hit]^n^n^wFar from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks. ^oActivates when taking damage.
+tagClass01SkillDescription07A=^b[Buff] [Timed] [Delayed Cooldown]^n^o[When Hit]^n^n^wFar from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks. ^oActivates when taking damage.
 tagClass01SkillName08A=Menhir's Will
-tagClass01SkillDescription08A=^b[Buff] [Timed] [HP Threshold]^n^o[Shield][Two-Handed Melee]^n^n^wAs you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield or two-handed melee weapon.
+tagClass01SkillDescription08A=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^o[Shield][Two-Handed Melee]^n^n^wAs you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield or two-handed melee weapon.
 
 tagClass01SkillName09A=Field Command
 tagClass01SkillDescription09A=^b[AOE] [Buff]^n^n^wA superior sense of discipline and knowledge of battlefield tactics makes you a natural leader in the heat of battle.
@@ -139,7 +139,7 @@ tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerat
 tagClass02SkillName06D=Detonation
 
 tagClass02SkillName07A=Blast Shield
-tagClass02SkillDescription07A=^b[Buff] [Timed] [HP Threshold]^n^n^wA combination of military gear and pyromancy creates a ward capable of fortifying defenses while deflecting a fixed amount of incoming damage. Attacking enemies will suffer the fiery blowback from the shield.
+tagClass02SkillDescription07A=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wA combination of military gear and pyromancy creates a ward capable of fortifying defenses while deflecting a fixed amount of incoming damage. Attacking enemies will suffer the fiery blowback from the shield.
 tagClass02SkillName07B=Ulzuin's Chosen
 tagClass02SkillDescription07B=^b[Modifier]^n^n^wThose who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Affects Stun Jacks, Grenado and Canister Bomb and requires one to unlock]
 
@@ -456,7 +456,7 @@ tagClass05SkillName09A=Inner Focus
 tagClass05SkillDescription09A=^b[Passive]^n^n^wFocusing the mind and body into a locus for arcane energies is one of the first meditative techniques taught to aspiring Arcanists.
 
 tagClass05SkillName10A=Arcane Will
-tagClass05SkillDescription10A=^b[Buff] [Timed] [HP Threshold]^n^n^wAdrenaline is a powerful force in dire situations that can turn the tide of combat. Battle Arcanists learn to use this to their advantage.
+tagClass05SkillDescription10A=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wAdrenaline is a powerful force in dire situations that can turn the tide of combat. Battle Arcanists learn to use this to their advantage.
 
 tagClass05SkillName11A=Mental Alacrity
 tagClass05SkillDescription11A=^b[Passive]^n^n^wMaster Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
@@ -621,7 +621,7 @@ tagGDX1Class07SkillDescription01C=^b[Modifier] [Debuff]^n^n^wWith a single word,
 tagGDX1Class07SkillName02A=Storm Box of Elgoloth
 tagGDX1Class07SkillDescription02A=^b[Spell] [AOE] [Timed] [Debuff]^n^n^wOpen the runed Storm Box of Elgoloth, surrounding the target foe with a psychic energy that electrifies the very air around them, shocking the target and all unfortunate enough to stand too close.
 tagGDX1Class07SkillName02B=Lightning Tether
-tagGDX1Class07SkillDescription02B=^b[Secondary Modifier] [Tether]^n^n^wThe target becomes tethered to you through an electrified connection that rapidly shocks the target and all enemies unfortunate enough to pass through it. The power within the tether is limited however and will snap should the distance between you and the target become too great. ^oUp to 3 enemies can remain tethered at any given time.
+tagGDX1Class07SkillDescription02B=^b[Secondary Modifier] [Tether]^n^n^wThe target becomes tethered to you through an electrified connection that rapidly shocks the target and all enemies unfortunate enough to pass through it. The power within the tether is limited however and will snap should the distance between you and the target become too great. ^oUp to 5 enemies can remain tethered at any given time.
 tagGDX1Class07SkillName02C=Allagast's Arcane Net
 tagGDX1Class07SkillDescription02C=^b[Transmuter]^n^n^wAlthough the Luminari were known to police the activities of the Gildam Arcanum, sanctioned collaboration was not unheard of between the two orders. With carefully calculated adjustments to the Storm Box, the field becomes infused with arcane energies that swell with the Aether. ^oThe tether remains electrified.
 
@@ -687,7 +687,7 @@ tagGDX1Class07SkillName14A=Storm Spread
 tagGDX1Class07SkillDescription14A=^b[Weapon Pool Skill] [Multiple Projectiles] ^n^o[Ranged] [Staff]^n^n^wA reckless technique for when enemy numbers prove overwhelming, a spread across a room can quickly even the odds. ^oThis is a ranged and staff technique that activates off of default weapon attacks.
 
 tagGDX1Class07SkillName15A=Deadly Aim
-tagGDX1Class07SkillDescription15A=^b[Timed] [Buff]^n^o[On Crit]^n^n^wFor an Inquisitor facing off against some of humanity's greatest foes, sometimes a single shot or well-placed ^ocritical blow^w is all the opportunity they have, and the only one they need.
+tagGDX1Class07SkillDescription15A=^b[Timed] [Buff] [Delayed Cooldown]^n^o[On Crit]^n^n^wFor an Inquisitor facing off against some of humanity's greatest foes, sometimes a single shot or well-placed ^ocritical blow^w is all the opportunity they have, and the only one they need.
 
 tagGDX1Class07SkillName16A=Artifact Handling
 tagGDX1Class07SkillDescription16A=^b[Pet Modifier]^n^n^wCareful handling of the dangerous relics and artifacts replicated from the Vault of the Luminari storage is central to all Inquisitor training. In inexperienced hands, even the best of intentions could spell doom for the wielder, and those around them. ^o[Affects ^iRune of Hagarrad ^oand ^iRune of Kalastor^o and requires one to unlock]
@@ -872,4 +872,4 @@ tagGDX2Class09SkillName13A=Shattering Smash
 tagGDX2Class09SkillDescription13A=^b[Weapon Pool Skill] [Wave]  ^n^o[Melee + Shield]^n^n^wSuch is an Oathkeeper's prowess with a shield that the force of the blow resonates through the earth and sends an additional shockwave through your initial target. ^oThis is a shield combat technique that activates off of default weapon attacks. Requires a melee weapon and shield.
 
 tagGDX2Class09SkillName14A=Resilience
-tagGDX2Class09SkillDescription14A=^b[Buff] [Timed] [HP Threshold]^n^n^wFor an Oathkeeper, resolute faith is the absolute defense. As life fades, so the spirit rises to oppose further harm.
+tagGDX2Class09SkillDescription14A=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wFor an Oathkeeper, resolute faith is the absolute defense. As life fades, so the spirit rises to oppose further harm.

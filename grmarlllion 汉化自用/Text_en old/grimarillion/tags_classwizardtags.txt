@@ -192,5 +192,21 @@ tagWizardRune02eDesc=The lightning resistance of this enemy is currently reduced
 tagWizardRune03=^cStone Cold
 tagWizardRune03Desc=While attacking with ^bRay of Frost^w, 10% + 300 of your health is restored, but you no longer can use health potions. ^oThis effect has a 0.5 second cooldown, which can be reduced by CDR. {^n}{^n}{^y}Runeword: {^c}NocYom
 tagWizardRune03b=Rune Effect
-tagWizardRune03bDesc=You health is continuously being restored by Ray of Frost. 
+tagWizardRune03bDesc=You health is continuously being restored by Ray of Frost.
+
+tagWizardRune04=^cStormbender
+tagWizardRune04Desc=While under 50% health, ^cStorm Armor ^wincreases your critical damage by 50%, your offensive ability by 15%, your lightning/electrocute damage by 100%, and you no longer can be electrocuted or stunned. {^n}{^n}{^y}Runeword: {^c}YulGar
+tagWizardRune04b=Rune Effect
+tagWizardRune04bDesc=Storm Armor is currently increasing your offensive stats and granting immunity to electrocution and stun effects.
+
+tagWizardRune05=^cIceberg
+tagWizardRune05Desc=While under 66% health, ^bIce Armor ^wreduces damage taken by 50%, increases total retaliation damage by 15%, and you no longer can be freezed or frostburned.{^n}{^n}{^y}Runeword: {^c}ZanLac
+tagWizardRune05b=Rune Effect
+tagWizardRune05bDesc=Ice Armor is currently reducing damage taken, increasing your total retaliation damage, and granting immunity to frostburn and freeze effects.
+
+tagWizardRune06=^cEnergize
+tagWizardRune06Desc=While at full health, ^pEnergy Armor ^wgrants you 50 energy regenerated per second and increases your defensive ability by 15%.{^n}{^n}{^y}Runeword: {^c}AhuEom
+tagWizardRune06b=Rune Effect
+tagWizardRune06bDesc=You are no longer receiving energy regenerated and bonus defensive ability.
+
 
