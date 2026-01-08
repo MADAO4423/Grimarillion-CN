@@ -189,3 +189,4 @@ We see that you have a Glob of Iron. While interactions with this feature are no
 Step away from the Bounty Table.
 The Black Legion does not yet trust your capabilities.{^n}{^n}A Friendly reputation is required to access the Bounty Table.
 Step away from the Bounty Table.
+

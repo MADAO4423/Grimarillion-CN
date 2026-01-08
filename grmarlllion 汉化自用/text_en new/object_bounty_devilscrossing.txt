@@ -155,3 +155,4 @@ We see that you have a Glob of Iron. While interactions with this feature are no
 Step away from the Bounty Table.
 The people of Devil's Crossing do not yet trust you with their innermost needs.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 Step away from the Bounty Table.
+

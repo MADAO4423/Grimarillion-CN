@@ -109,17 +109,17 @@ tagCharHealIncreaseModifier={^H}{%+.0f0}% {^E}Healing Effects
 tagCharHealIncreaseModifierR={^H}{%.0f0}% - {%.0f1}% {^E}Healing Effects
 
 
-DefensePhysical={%+.0f0}% {^E}Physical Resistance
-DefensePierce={%+.0f0}% {^E}Piercing Resistance
-DefenseElementalResistance={%+.0f0}% {^E}Elemental Resistance
-DefenseCold={%+.0f0}% {^E}Cold Resistance
-DefenseFire={%+.0f0}% {^E}Fire Resistance
-DefenseAether={%+.0f0}% {^E}Aether Resistance
-DefenseChaos={%+.0f0}% {^E}Chaos Resistance
-DefensePoison={%+.0f0}% {^E}Poison & Acid Resistance
-DefenseLightning={%+.0f0}% {^E}Lightning Resistance
-DefenseBleeding={%+.0f0}% {^E}Bleeding Resistance
-DefenseLife={%+.0f0}% {^E}Vitality Resistance
+DefensePhysical={%+.0f0}% {^K}Physical Resistance{^E}
+DefensePierce={%+.0f0}% {^R}Pierce Resistance{^E}
+DefenseElementalResistance={%+.0f0}% {^Y}Elemental Resistance{^E}
+DefenseCold={%+.0f0}% {^C}Cold Resistance{^E}
+DefenseFire={%+.0f0}% {^O}Fire Resistance{^E}
+DefenseAether={%+.0f0}% {^A}Aether Resistance{^E}
+DefenseChaos={%+.0f0}% {^P}Chaos Resistance{^E}
+DefensePoison={%+.0f0}% {^L}Poison & Acid Resistance{^E}
+DefenseLightning={%+.0f0}% {^Z}Lightning Resistance{^E}
+DefenseBleeding={%+.0f0}% {^R}Bleeding Resistance{^E}
+DefenseLife={%+.0f0}% {^M}Vitality Resistance{^E}
 DefenseLifeLeach={%+.0f0}% {^E}Life Leech Resistance
 DefenseManaLeach={%+.0f0}% {^E}Energy Leech Resistance
 DefensePercentCurrentLife={%+.0f0}% {^E}Resistance to Life Reduction
@@ -137,14 +137,14 @@ tagCharStatsPierceRetInfo=The Piercing Damage dealt to an attacker whenever you 
 tagCharStatsPiercePercentRet=Piercing Modifier
 tagCharStatsPiercePercentRetInfo=The percent bonus to all Piercing Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 tagQualifyingDamagePierce=Piercing
-DamageModifierPierce={%+.0f0}% {^E}Piercing Damage
-DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}Piercing Damage
-RetaliationModifierPierceRatio={%+.0f0}% {^E}Piercing Retaliation
-DefensePierce={%.0f0}% {^E}Piercing Resistance
-DefensePierceR={%.0f0}-{%.0f1}% {^E}Piercing Resistance
-DefensePierceModifier={^E}Increases Current Piercing Resistance by {^H}{%.0f0}%
-DefensePierceMaxResist={%+.0f0}% {^E}Maximum Piercing Resistance
-DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Piercing Resistance
+DamageModifierPierce={%+.0f0}% {^R}Piercing Damage{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}Piercing Damage{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}Piercing Retaliation{^E}
+DefensePierce={%.0f0}% {^R}Piercing Resistance{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}Piercing Resistance{^E}
+DefensePierceModifier={^R}Increases Current Piercing Resistance by {^H}{%.0f0}%{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}Maximum Piercing Resistance{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}Maximum Piercing Resistance{^E}
 
 
 DefenseStun={%+.0f0}% {^E}Stun Resistance
@@ -165,8 +165,8 @@ DefenseConfusion={%+.0f0}% {^E}Confusion Resistance
 DefenseDisruption={%+.0f0}% {^E}Disruption Resistance
 
 
-SkillEnhancement=+{%d0} {^E}to all skills
-ItemAllSkillIncrement={+%d0} {^E}to all skills
+SkillEnhancement=+{%d0} {^X}to all skills{^E}
+ItemAllSkillIncrement={+%d0} {^X}to all skills{^E}
 SkillCooldownReductionModifier={^E}Total Skill Recharge Modified by {^H}{%.0f0}%
 DamageLifeLeech={^H}+{%t0}% {^E}Life Steal //{%t0}% {^E}
 
@@ -185,8 +185,8 @@ DamageManaDrain={%t0}% {^E}Energy Burn
 DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}of Energy Burnt dealt as damage)
 DamageModifierManaBurn={%.0f0}% {^E}of Energy Burnt causes Damage
 
-ItemMasteryIncrement={+%d0} {^E}to {%s1} skills
-ItemAllSkillIncrement={+%d0} {^E}to all skills
+ItemMasteryIncrement={+%d0} {^X}to {%s1} skills{^E}
+ItemAllSkillIncrement={+%d0} {^X}to all skills{^E}
 
 //ItemMasteryIncrement={+%d0} {^E}to all skills in {%s1}
 //ItemAllSkillIncrement={+%d0} {^E}to all Skills

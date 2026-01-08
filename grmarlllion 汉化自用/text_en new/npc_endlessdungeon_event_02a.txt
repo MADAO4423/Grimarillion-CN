@@ -1,0 +1,13 @@
+Mazaan, Keeper of Portals
+Well done, this portion of the Shattered Realm is clear of threats and its power ours for the taking.{^n}{^n}I can open the way further or, if you wish, offer you compensation for your efforts. That will mark the end of your journey, however, as the connection to this Shard shall be broken.{^n}{^n}What will it be?
+I must delve deeper! (Proceed to the next Shard)
+Enough, I wish to claim my rewards!
+Enough, I wish to claim my rewards!
+Enough, I wish to choose my rewards!
+Very well, choose one reward before leaving this realm :
+Shattering orbs: 1 for each 10 Shards above 20.
+Random rewards from a Shattered Chest level 40
+Random rewards from a Shattered Chest level 44
+I changed my mind : I must delve deeper! (Proceed to the next Shard)
+Enough, I wish to choose my rewards!
+

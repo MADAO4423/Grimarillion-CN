@@ -5,7 +5,7 @@ This? It's the Edge of the World! It's a little slice of home for me and my fami
 Your family?
 Yes, my followers in the camp. I consider them my family.
 So... you just live here? In this abyss?
-I... well, yes. I know it seems inhospitable but ... we can survive here just fine! Bartuc, our cook has been feeding us regularly! Not sure where he gets the meals but it's best not to ask...
+I... well, yes. I know it seems inhospitable but ... we can survive here just fine! Bartuc, our cook has been feeding us regularly! Not sure where he gets the meals but it's best not to ask... 
 Er... Well I'm happy for you...
 Anyway, I hate to ask this of a stranger, but up ahead there is an arena unlike any you have encountered. {^n}{^n}I would be very appreciative if you would enter the arena on my behalf.
 An arena? Now you're talking my language. What's the catch? The prize?
@@ -13,13 +13,13 @@ No catch, just enter the arena and speak with the Summoning Stone. Yes, it will 
 You didn't say anything about a prize or reward...
 You're an adventurer aren't you? Where's your thrill of the challenge? Why do you need a reward? The thrill of the battle should be enough!
 So... no reward?
-Well, not that I know of... my followers who have attempted the trial haven't gotten very far so I have no idea. My power isn't combat based so I couldn't say...
+Well, not that I know of... my followers who have attempted the trial haven't gotten very far so I have no idea. My power  isn't combat based so I couldn't say...
 Okay okay, sorry for asking. What happens if I die in the arena?
-Well... then you die.
+Well... then you die. 
 That makes sense.
 Oh, you won't die in the arena. You return right here, ready to try again.{^n}{^n}If you do manage to fail the trial, you will have to cleanse the arena. Just behind you there is a glowing orb. Touch it, and the arena should be wiped clean.{^n}{^n}There may be some stragglers who cannot be returned to the void, but that is fine. Just clear the arena of stragglers and try to complete the trials of the arena again. Maybe report any enemies who happen to stay behind to the caretaker of this world...
 Is there anything else I should know?
-There is a unique element only found in this atemporal domain, and perhaps in other ones... Eternal Shards. If you find them, bring it to me. I can help you gain greater power if you utilize it. {^n}{^n}Unfortunately for me, I am not a fighter and I do not possess the capabilities to unlock the potential of Eternal Shards for myself. You however...
+There is a unique element only found in this atemporal domain, and perhaps in other ones... Eterneum. If you find it, bring it to me. I can help you gain greater power if you utilize it. {^n}{^n}Unfortunately for me, I am not a fighter and I do not possess the capabilities to unlock the potential of Eterneum for myself. You however...
 Thanks, I'll keep an eye out for those.
 Very good. That's all I have to tell you, for now.
 Okay, I will try my best.
@@ -27,7 +27,7 @@ Okay, I will try my best.
 Whatever you say.
 Priestess?
 What? You don't believe I am a priestess? I have a following! They know I am a priestess.
-What about all the dead ones back in the cellar?
+What about all the dead ones back in the cellar? 
 Oh, well those were necessary sacrifices. They believed in me and my goal to reach this plane. Besides, not all of them were my followers, some were simply good-for-nothings from the prison! It's not like they had a place in either of these worlds... what better use than fuel for my rituals?
 What exactly is your goal?
 Well... I want power! I've attained a large amount of power so far but it's not enough! I need to find Talinn.
@@ -37,7 +37,7 @@ Okay okay, no more questions...
 Talinn?
 Yes! Do you know of it? Unlikely you don't seem well versed in the esoteric...
 I'm not sure if I should be insulted or not... please go on...
-Talinn is like a holy grail of sorts, they are an entity which can grant knowledge to those who seek it.
+Talinn is like a holy grail of sorts, they are an entity which can grant knowledge to those who seek it. 
 Oh, and where do you expect to find them in this... desolate realm?
 I haven't gotten that far yet, I need to make more rifts. Talinn is a celestial entity, and I know this doesn't seem like it, but this is one of many planes of celestial deities, this one being a tiny segment of Chthon's realm. Maybe I can try to find my way to the aetherial realm...
 I'll leave you to it then...
@@ -45,7 +45,7 @@ Show her the Eternal Shards.
 You found an eternal shard! These are fragments of eternity itself, condensed into a stone which holds infinite possibilities.
 What can I do with Eternal Shards?
 If you have enough Eternal Shards, the Gods will recognize your offering and bestow a gift. Or you can take the shards to my alchemist, Narisk right over there... she can convert them into other useful things.{^n}{^n}It's up to you to decide what gift you'd like.{^n}{^n}(Luna can exchange your Eternal Shards for Devotion Points, Player Levels, or Blessings)
-I wish to receive power.
+I wish to receive power. 
 Power! Smart choice, mortal. Raise your Eternal Shards to the Heavens!
 Offer the Eternal Shards for power. (Need 3 Eternal Shards)
 Not enough Eternal Shards. (Need 3 Eternal Shards)
@@ -57,7 +57,7 @@ Offer the Eternal Shards for power. (Need 18 Eternal Shards)
 Not enough Eternal Shards. (Need 18 Eternal Shards)
 Offer the Eternal Shards for power. (Need 30 Eternal Shards)
 Not enough Eternal Shards. (Need 30 Eternal Shards)
-Really? You think you can still gain more power?
+Really? You think you can still gain more power? 
 Nevermind.
 I wish to receive a blessing.
 Hmm yes, a blessing could benefit you. Raise your Eternal Shards to the Heavens!{^n}{^n}^oBlessing of Ulo grants resists to damage and crowd control.{^n}Empyrion's Guidance grants bonus health.{^n}Might of Amatok grants damage and offensive ability.{^n}Ulzuin's Pact grants cooldown reduction among other minor stats.
@@ -69,16 +69,16 @@ Not enough Eterneum. (Need 12 Eternal Shards)
 Nevermind.
 I wish to prove my devotion.
 Ah, trying to improve your favor with the Gods? I can't blame you.... Raise your Eternal Shards to the Heavens!
-Offer the Eternal Shards for devotion. (Need 3 Eternal Shards)
-Not enough Eternal Shards. (Need 3 Eternal Shards)
-Offer the Eterneum for devotion. (Need 5 Eterneum)
-Not enough Eternal Shards. (Need 5 Eternal Shards)
-Offer the Eternal Shards for devotion. (Need 10 Eternal Shards)
-Not enough Eternal Shards. (Need 10 Eternal Shards)
-Offer the Eternal Shards for devotion. (Need 18 Eternal Shards)
-Not enough Eternal Shards. (Need 18 Eternal Shards)
-Offer the Eternal Shards for devotion. (Need 30 Eternal Shards)
-Not enough Eternal Shards. (Need 30 Eternal Shards)
+Offer the Eternal Shards for devotion.  (Need 3 Eternal Shards)
+Not enough Eternal Shards.  (Need 3 Eternal Shards)
+Offer the Eterneum for devotion.  (Need 5 Eterneum)
+Not enough Eternal Shards.  (Need 5 Eternal Shards)
+Offer the Eternal Shards for devotion.  (Need 10 Eternal Shards)
+Not enough Eternal Shards.  (Need 10 Eternal Shards)
+Offer the Eternal Shards for devotion.  (Need 18 Eternal Shards)
+Not enough Eternal Shards.  (Need 18 Eternal Shards)
+Offer the Eternal Shards for devotion.  (Need 30 Eternal Shards)
+Not enough Eternal Shards.  (Need 30 Eternal Shards)
 The gods will not grant you any more devotion...
 Nevermind.
 I wish to bribe the other factions.
@@ -88,22 +88,31 @@ I'd like to bribe Homestead. (Need 10 Eternal Shards)
 I'd like to bribe the Black Legion. (Need 10 Eternal Shards)
 I'd like to bribe the Ugdenbog Coven. (Need 10 Eternal Shards)
 I'd like to bribe the Malmouth Resistance. (Need 10 Eternal Shards)
-I'd like to bribe Kymon's Chosen. (Need 10 Eternal Shards)
-I'd like to bribe Death's Vigil. (Need 10 Eternal Shards)
 Not enough Eternal Shards (Need 10 Eternal Shards)
 Nevermind.
 I wish for material gains.
-Greed? You could ask for anything and... very well. Raise your Eternal Shards to the Heavens!
-Convert Eternal Shards into Iron Bits. (Need 1 Eternal Shards)
-Convert Eternal Shards into Iron Bits. (Need 5 Eternal Shards)
-Convert Eternal Shards into Iron Bits. (Need 10 Eternal Shards)
-Convert Eternal Shards into Iron Bits. (Need 50 Eternal Shards)
+Greed? You could ask for anything and... very well. Raise your Eternal Shards to the Heavens!{^n}
+Convert Eternal Shards into Iron Bits. (Need 1 Eternal Shards) 
+Convert Eternal Shards into Iron Bits. (Need 5 Eternal Shards) 
+Convert Eternal Shards into Iron Bits. (Need 10 Eternal Shards) 
+Convert Eternal Shards into Iron Bits. (Need 50 Eternal Shards) 
 Convert Eternal Shards into a Pocket Trove. (A pocket trove is a usable item which can contain random loot, or nothing if you're very unlucky.) (Need 25 Eternal Shards and 500,000 Iron Bits.)
 Not enough Eternal Shards. (Need 1 Eternal Shards)
 Nevermind.
 I wish my inventory was bigger.
 You wish... what? I see, you wish to have deeper pockets. A strange request, but it should be possible. Raise the Eternal Shards to the Heavens!
-Offer Eternal Shards for an inventory bag (Maximum of 5 bags). (Needs 10 Eternal Shards)
+Offer Eternal Shards for an inventory bag (Maximum of 5 bags). (Needs 10 Eternal Shards) 
+Nevermind.
+I wish to challenge stronger foes.
+Aha! You are just like my champion, Tallinn.. Indeed, it should be possible! Raise your Eternal Shards to the Heavens!
+Offer the Eternal Shards to unlock Elite Difficulty. (Needs 50 Eternal Shards.)
+Not enough Eternal Shards (Need 50 Eternal Shards)
+Offer the Eternal Shards to unlock Ultimate Difficulty. (Needs 100 Eternal Shards.)
+Not enough Eternal Shards (Need 100 Eternal Shards)
+Offer the Eternal Shards to unlock Challenger Crucible. (Needs 50 Eternal Shards.)
+Not enough Eternal Shards (Need 50 Eternal Shards)
+Offer the Eternal Shards to unlock Gladiator Crucible. (Needs 100 Eternal Shards.)
+Not enough Eternal Shards (Need 100 Eternal Shards)
 Nevermind.
 I wish for allies to aid me.
 Hmph. Allies? I can send one of my followers to aid you, if you must have an ally... ^r(WIP)
@@ -119,6 +128,6 @@ Yes, what is it?
 I have defeated the terrible creature you described, the being with many mouths, eyes and tentacles. It is called the Loghorrean.
 You... defeated it? Loghorrean? I have heard tales of this creature from my followers. But, where is Tallinn? Did you find any clues?
 I did actually. Here, a note written in blood. I.. don't know if it's his blood or the Loghorreans...
-Hmm... so he survived the battle. I assumed as much, Tallinn was a great fighter. We can find Tallinn, I know it. I just need to use a planar spell...{^n}{^n}I can track him through the domains... aha! I think I've pinpointed a location, but it's not in Chthon's realm... strange. {^n}{^n}Brace yourself, I'm going to open a rift to the domain where Tallinn is!
+Hmm... so he survived the battle. I assumed as much, Tallinn was a great fighter. We can find Tallinn, I know it. I just need to use a planar spell...{^n}{^n}I can track him through the domains... aha! I think I've pinpointed a location, but it's not in Chthon's realm... strange. {^n}{^n}Brace yourself, I'm going to open a rift to the domain where Tallinn is!{^n}{^n}
 *You stand back and watch her open the rift*
 Farewell.
