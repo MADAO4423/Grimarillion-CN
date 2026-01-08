@@ -143,33 +143,7 @@ tagDemonHunterRune03=^cTrapmaster
 tagDemonHunterRune03Desc=^oChakram ^wturns into a ^bFrost Trap ^wthat explodes when enemies get close, dealing cold damage, and freezing them for 2 seconds. If an enemy doesn't get killed by the explosion, he will be marked. Marked enemies have their cold resistance reduced over 5 seconds. ^oWhile using Frost Trap, the damage added by ^bRazor Disk ^oand item skill modifiers is increased by 200%. {^n}{^n}{^y}Runeword: {^c}PocNer.
 
 tagDemonHunterRune04=^cShared Burden
-tagDemonHunterRune04Desc=While ^iShadow Power ^wis active, you become cursed, decreasing almost all your resistances by 15% (physical resistance is reduced by 5%). However, being hit by enemies makes the curse to spread and become more powerful, reducing all their resistances by 30% over 5 seconds.{^n}{^n}{^y}Runeword: {^c}MoniVex
+tagDemonHunterRune04Desc=While ^pShadow Power ^wis active, you become cursed, decreasing almost all your resistances by 15% (physical resistance is reduced by 5%). However, being hit by enemies makes the curse to spread and become more powerful, reducing all their resistances by 20% over 5 seconds.{^n}{^n}{^y}Runeword: {^c}MoniVex
 
 tagDemonHunterRune04b=^cRune Effect
 tagDemonHunterRune04bDesc=This enemy is currently cursed by Shared Burden and all his resistances are reduced.
-
-tagDemonHunterRune05=^cSmoke Traps
-tagDemonHunterRune05Desc=Whenever you cast ^iShadow Power^w, smoke traps surge nearby your location. When enemy gets close to the traps, they explode, dealing piercing damage. Enemies caught by the explosion have their defensive and offensive abilities reduced, and their vision gets impaired for 5 seconds.{^n}{^n}{^y}Runeword: {^c}NeoWat
-tagDemonHunterRune05B=Smoke Trap
-
-tagDemonHunterRune05C=^cSmoke Traps (Enhanced)
-tagDemonHunterRune05CDesc=Whenever you cast ^iShadow Power^w, smoke traps surge nearby your location. When enemy gets close to the traps, they explode, dealing piercing damage. Enemies caught by the explosion have their defensive and offensive abilities reduced, and their vision gets impaired for 5 seconds.{^n}{^n}{^y}Runeword: {^c}NeoWat (Enhanced)
-tagDemonHunterRune05B=Smoke Trap
-
-tagDemonHunterRune06=^cApex Predator
-tagDemonHunterRune06Desc=Whenever ^cMultishot ^wlands a critical hit, all your attacks will land critical hits for the next 3 seconds. However, your critical damage is reduced by 30%.{^n}{^n}{^y}Runeword: {^c}FeoYom
-
-tagDemonHunterRune06B=^cRune Effect
-tagDemonHunterRune06BDesc=All your attacks are dealing critical damage over 3 seconds.
-
-tagDemonHunterRune07=^cShadow Trap
-tagDemonHunterRune07Desc=^iEntangling Shot ^wgains 10% chance to cast a Shadow Trap that quickly deals multiple hits to enemies in the area.{^n}{^n}{^y}Runeword: {^c}XolTec
-
-tagDemonHunterRune07B=^cShadow Trap (Enhanced)
-tagDemonHunterRune07BDesc=^iEntangling Shot ^wgains 15% chance to cast a Shadow Trap that quickly deals multiple hits to enemies in the area.{^n}{^n}{^y}Runeword: {^c}XolTec
-
-tagDemonHunterRune08=^cArtillerist
-tagDemonHunterRune08Desc=After killing an enemy, ^rRain of Vengeance ^wsummons a sentry that replicates a version of Multishot, continuously shooting multiple projectiles at enemies.{^n}{^n}{^y}Runeword: {^c}ZanQax
-
-tagDemonHunterRune08b=^cArtillerist (Enhanced)
-tagDemonHunterRune08bDesc=After killing an enemy, ^rRain of Vengeance ^wsummons a sentry that replicates a version of Multishot, continuously shooting multiple projectiles at enemies.{^n}{^n}{^y}Runeword: {^c}ZanQax

@@ -38,8 +38,6 @@ tagPumpkinMateriaDEBUG=Pumpkin ERROR
 tagPumpkinMateriaFlavor=Candy? Maybe don't pick up random candy you find from monsters...
 tagPumpkinMateriaFlavorDEBUG=You weren't supposed to be able to find this... just drop it.
 
-tagHalloweenEventTOKEN=Delicious Pumpkin Soup
-tagHalloweenEventTOKENDESC=It smells so good, surely this scent will be impossible to ignore... ^n^oKeep this in your inventory if you want to participate in the Grimarillion Halloween Event. 
 tagPumpkinZone=Strange Pumpkin Field
 
 tagPumpkinVendorDesc=You may trade Lumina candies for various treats.

@@ -196,19 +196,3 @@ tagNecromancerRune02b=^cEnhanced Novamancer
 tagNecromancerRune02bDesc=^gDeath Nova ^wnow marks an enemy. Marked targets constantly cast an alternate version of the skill over 3 seconds. The marked enemy and all foes caught by this secondary Death Nova take acid, vitality and poison damage, and have their poison and vitality resistances reduced by 15%.{^n}{^n}^gPoison Spirits ^ware now permanent. The Death Nova casted by them also works with this rune effect and the resistance reduction is additive to the previous one. However, its damage and resistances reduction scale with Bone Spirit's levels, reducing the enemy's resistances by 15% at Rank 16, and 20% by Rank 26. {^n}{^n}{^y}Runeword: {^c}BacThul (Enhanced)
 tagNecromancerRune02c=^cRune Effect
 tagNecromancerRune02cDesc=This enemy is currently casting Death Nova, reducing the resistances of nearby foes.
-
-tagNecromancerRune03=^cBloodseeker
-tagNecromancerRune03Desc=Blood is Power now increases your total damage by 20%. However, whenever you go below 80% health, you lose the granted bonus damage.{^n}{^n}{^y}Runeword: {^c}MoniMot
-
-tagNecromancerRune04=^cBone Prison
-tagNecromancerRune04Desc=Bone Spear now has 30% chance to entrap enemies in a Bone Prison that reduces several resistances for 15% and their defensive ability by 25%.{^n}{^n}{^y}Runeword: {^c}KaaQax
-
-tagNecromancerRune04b=^cRune Effect
-tagNecromancerRune04bDesc=Enemy currently trapped in a Bone Prison, with reduced defenses.
-
-tagNecromancerRune05=^cBonewaker
-tagNecromancerRune05Desc=With Bone Armor activated, whenever you are under 50% health, you gain 25% damage absorption and 50% chance to avoid projectiles. While under 50% health, enemy melee attacks causes you to evoke an awakening of bones around you, dealing pierce, aether and vitality damage to enemies, and disrupting their abilities for 2 seconds.{^n}{^n}{^y}Runeword: {^c}NeoLac
-
-tagNecromancerRune05b=Rune Effect
-tagNecromancerRune05bDesc=Bone Armor is granting you damage absorption and chance to deflect projectiles.
-tagNecromancerRune05c=Awakening of Bones

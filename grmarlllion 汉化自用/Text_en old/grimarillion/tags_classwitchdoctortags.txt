@@ -231,18 +231,8 @@ tagWitchDoctorRune04cDesc=The resistances of this enemy is currently reduced by 
 tagWitchDoctorRune04d=^cBatarang
 tagWitchDoctorRune04e=^cPoisoned Batarang
 
-tagWitchDoctorRune05=^cEnergy Hunger
-tagWitchDoctorRune05Desc=With ^cPierce the Veil ^wactivated, whenever you are under 15% energy, all your skills have 100% chance to perform critical attacks. However, it also reduces your critical damage by 30%.{^n}{^n}{^y}Runeword: {^c}TamEom
-tagWitchDoctorRune05b=^cRune Effect
-tagWitchDoctorRune05bDesc=You currently have 100% chance to perform critical attacks with reduced critical damage.
 
-tagWitchDoctorRune06=^cFull-blooded
-tagWitchDoctorRune06Desc=With ^gSwampland Attunement ^wactivated, while you are full health, the damage of you and your pets is increased by 50%.{^n}{^n}{^y}Runeword: {^c}CirThul
-tagWitchDoctorRune06b=^cRune Effect
-tagWitchDoctorRune06bDesc=The damage of you and your pets are currently reduced by 50%.
 
-tagWitchDoctorRuneXolNer=^cHead Hunters
-tagWitchDoctorRuneXolNerDesc=Zombie Dogs and Gargantuan now have 100% chance to perform critical attacks.
 
 
 

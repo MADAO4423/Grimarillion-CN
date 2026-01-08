@@ -215,18 +215,3 @@ tagMonkRune03bDesc=This enemy no longer takes damage over duration.
 
 tagRunewordD327b=Rune Effect
 tagRunewordD327bDesc=Your damage taken is being reduced by standing close to a Mystic Ally.
-
-tagMonkRune04=^cSpeedrunner
-tagMonkRune04Desc=^cDashing Strike ^wnow deals reduced damage, uses less energy, and no longer has a cooldown. While dashing, you release swirling sparks in your path, dealing lightning and electrocute damage to enemies, and reducing all their resistances by 20 over 3 seconds. However, you no longer can use Evade. ^o{^n}{^n}{^y}Runeword: {^c}FeoXal
-
-tagMonkRune05=^cReverberance
-tagMonkRune05Desc=Enemies killed by ^cWave of Light ^wcast another Wave of Light (Level 6) at their death location.{^n}{^n}{^y}Runeword: {^c}LithGar{^n}{^n}{^y}Affinity: ^wItems that modify ^cWave of Light ^wwill also modify this rune effect (no damage conversions included).
-
-tagMonkRune06=^cTitanbreaker
-tagMonkRune06Desc=^kCyclone Strike ^wnow can knockdown ^pbosses ^wand ^rnemesis ^wmonsters with its pull effect. ^oThis rune effect has a 35 seconds cooldown, which can be reduced by CDR. ^o{^n}{^n}{^y}Runeword: {^c}BacKry
-
-tagMonkRune06b=Rune Effect
-
-
-
-DefenseKnockdownModifier=^ebeing knocked down by ^kCyclone Strike
