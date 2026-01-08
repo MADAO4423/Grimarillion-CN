@@ -1,0 +1,104 @@
+Summoning Stone
+*The summoning stone vibrates*{^n}{^n}You can begin the trials by using this stone. {^n}{^n}^rLoot will be cleared between waves so make sure you collect your loot before continuing!
+Begin the trial. 
+Totem Challenge - trigger a random Monster Totem event.
+Summon desired wave...
+Which wave would you like to fight? {^n}{^n}^oWaves are unlocked as you complete them.{^n}^rWave skips cost 5 Eterneum.
+Wave 1 (Corruptions)
+Wave 6 (Outlaws)
+Wave 11 (Undead)
+Wave 16 (Homestead)
+Wave 21 (Insectoids)
+Wave 26 (Beastkin)
+Wave 31 (Factions)
+Wave 36 (Chthonians)
+Wave 41 (Port Valbury)
+Wave 46 (Ugdenbog)
+Wave 51 (Wendigo)
+Wave 56 (Voidborn)
+Wave 61 (Malmouth)
+Wave 66 (Eldritch)
+Wave 71 (Celestial)
+Back...
+
+Challenge the Gods...
+*You are gazing through the veil of time*
+Lower Pantheon
+*You are watching upon the Avatars*
+Archmage Aleksander
+Rematch Archmage Aleksander
+Benn'Jahr, the Colossal
+Rematch Benn'Jahr, the Colossal
+Fabius 'the Unseen' Gonzar
+Rematch Fabius 'the Unseen' Gonzar
+Grava'Thul the Voiddrinker
+Rematch Grava'Thul the Voiddrinker
+Kaisan, the Eldritch Scion
+Rematch Kaisan, the Eldritch Scion
+Kubacabra, the Endless Menace
+Rematch Kubacabra, the Endless Menace
+Reaper of the Lost
+Rematch Reaper of the Lost
+Moosilauke, the Chillwind
+Rematch Moosilauke, the Chillwind
+Valdaran, the Storm Scourge
+Rematch Valdaran, the Storm Scourge
+The Iron Maiden
+Rematch The Iron Maiden
+Zantarin the Immortal
+Rematch Zantarin the Immortal
+Back...
+
+Rematch Archmage Aleksander (Requires 15 Eterneum)
+Rematch Benn'Jahr, the Colossal (Requires 15 Eterneum)
+Rematch Fabius 'the Unseen' Gonzar (Requires 15 Eterneum)
+Rematch Grava'Thul the Voiddrinker (Requires 15 Eterneum)
+Rematch Kaisan, the Eldritch Scion (Requires 15 Eterneum)
+Rematch Kubacabra, the Endless Menace (Requires 15 Eterneum)
+Rematch Moosilauke, the Chillwind (Requires 15 Eterneum)
+Rematch Reaper of the Lost (Requires 15 Eterneum)
+Rematch The Iron Maiden (Requires 15 Eterneum)
+Rematch Valdaran, the Storm Scourge (Requires 15 Eterneum)
+Rematch Zantarin the Immortal (Requires 15 Eterneum)
+Upper Pantheon...
+*You are watching upon the Avatars*
+Avatar of Mogdrogen
+John Bourbon
+Ulgrim
+Ravager
+Lokarr
+Callagadra, Scion of the Sands
+Crate of Entertainment
+Back...
+
+Rematch Avatar of Mogdrogen (Requires 25 Eterneum)
+Rematch John Bourbon (Requires 25 Eterneum)
+Rematch Ulgrim (Requires 25 Eterneum)
+Rematch Ravager (Requires 25 Eterneum) 
+Rematch Lokarr (Requires 25 Eterneum)
+Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
+Rematch Crate of Entertainment (Requires 25 Eterneum)
+Rematch Avatar of Mogdrogen (Requires 25 Eterneum)
+Rematch John Bourbon (Requires 25 Eterneum)
+Rematch Ulgrim (Requires 25 Eterneum)
+Rematch Ravager (Requires 25 Eterneum)
+Rematch Lokarr (Requires 25 Eterneum)
+Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
+Rematch Crate of Entertainment (Requires 25 Eterneum)
+Back...
+
+Use Time Warp.
+*You are channeling the spell, this will reset your Eternal progress."
+Continue...
+Stop channeling.
+Ascend...
+*You are channeling the spell. This will reset your Eternal progress and increase the strength of your foes.*
+Continue...
+Stop channeling.
+Descend...
+*You are channeling the spell. This will reset your Eternal progress and reduce the strength of your foes.*
+Continue...
+Stop channeling.
+Complete main quest wave 70
+Give me eterneum.
+Go away.

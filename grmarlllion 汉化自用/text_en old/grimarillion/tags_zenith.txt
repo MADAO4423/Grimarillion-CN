@@ -1,0 +1,1142 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##Unnecessary stuff removed for Grimarillion##
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+//tagSkillClassName1617=Warmage
+//tagSkillClassName1618=[ms]Hell Hunter[fs]Hell Huntress
+//tagSkillClassName1619=Dreadnaught
+//tagSkillClassName1620=Desolator
+//tagSkillClassName1621=Void Knight
+//tagSkillClassName1622=DragoonX
+//tagSkillClassName1623=
+//tagSkillClassName1624=
+//tagSkillClassName1718=Gunmage
+//tagSkillClassName1719=Archmage
+//tagSkillClassName1720=Subverter
+//tagSkillClassName1721=Sinner
+//tagSkillClassName1722=MaelstromX
+//tagSkillClassName1723=
+//tagSkillClassName1724=
+//tagSkillClassName1819=Stalker
+//tagSkillClassName1820=Disruptor
+//tagSkillClassName1821=Vagabond
+//tagSkillClassName1822=AbaddonX
+//tagSkillClassName1823=
+//tagSkillClassName1824=
+//tagSkillClassName1920=Skirmisher
+//tagSkillClassName1921=Judicator
+//tagSkillClassName1922=VanguardX
+//tagSkillClassName1923=
+//tagSkillClassName1924=
+//tagSkillClassName2021=Pursuer
+//tagSkillClassName2022=VoidbringerX
+//tagSkillClassName2023=
+//tagSkillClassName2024=
+//tagSkillClassName2122=The AnomalyX
+//tagSkillClassName2123=
+//tagSkillClassName2124=
+//tagSkillClassName2223=
+//tagSkillClassName2224=
+//tagSkillClassName2324=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class16 - Terror Knight
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassName16=Terror Knight
+tagSkillClassDescription16=Hailing from the Obsidian Forests of Enolis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass16SkillName00A=Terror Knight
+tagClass16SkillDescription00A=A vanguard of chaos and carnage. ^n^rHailing from the Obsidian Forests of Enolis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass16SkillName01A=Banish
+tagClass16SkillDescription01A=^b[Attack Replacer]^n^n^wSmash your foe out of this life and into the next one.{^n}^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
+tagClass16SkillName01B=Blood Rage
+tagClass16SkillDescription01B=^b[Modifier]^n^n^wPush yourself past your limits to crush your opponent beneath insurmountable power. ^oActivates when attacking enemies with Banish.
+tagClass16SkillName01C=Smite
+tagClass16SkillDescription01C=^b[Modifier]^n^n^w"I threw down my enemy, and he fell from the high place, and broke the mountain-side where he smote it in his ruin."
+
+tagClass16SkillName02A=Suit Up
+tagClass16SkillDescription02A=^b[Passive]^n^n^mDon armor worthy of a Knight of Enolis.
+tagClass16SkillName02B=Hand Armor
+tagClass16SkillDescription02B=^b[Passive]^n^n^^mWield the gauntlets of a destroyer, so that you might strangle death itself.
+tagClass16SkillName02C=Leg Armor
+tagClass16SkillDescription02C=^b[Passive]^n^n^^mWear the legguards of a juggernaut, so that none may stop your rampage.
+tagClass16SkillName02D=Torso Armor
+tagClass16SkillDescription02D=^b[Passive]^n^n^^mProtect yourself with the breastplate of a centurion, so your resolve is unwavering. 
+tagClass16SkillName02E=Head Armor
+tagClass16SkillDescription02E=^b[Passive]^n^n^^mAssume your role of the Terror Knight, let your eyes glow with rage as you ignore the effects of fire and brimstone upon you.
+
+tagClass16SkillName03A=Conquer
+tagClass16SkillDescription03A=^b[Spell] [Nova] [AOE]^n^n^wProclaim your victory before a fight even starts.
+tagClass16SkillName03B=Fortuna Adiuvat Fortis
+tagClass16SkillDescription03B=^b[Modifier]^n^n^wVictory will come to those with great willpower; even if they stole it from others.
+
+tagClass16SkillName04A=Engage
+tagClass16SkillDescription04A=^b[Spell] [Movement] ^n^o[Melee]^n^n^wYour enemies need not come to you; you shall come to them.{^n}^oRequires a melee weapon.
+tagClass16SkillName04B=Deadly Assault
+tagClass16SkillDescription04B=^b[Modifier] [AOE]^n^n^wCharge forth with unyielding force.
+tagClass16SkillName04C=Nowhere to Hide
+tagClass16SkillDescription04C=^b[Modifier] [Taunt]^n^n^wPush your assault ever onward with heightened frequency.
+
+tagClass16SkillName05A=Gore
+tagClass16SkillDescription05A=^b[Weapon Pool Skill] [Penetrating] [AOE] ^n^n^wImpale an enemy upon your weapon with ferocity to make the lesser-willed flee.{^n}^oCan activate with all default weapon attacks.
+tagClass16SkillName05B=Carnage
+tagClass16SkillDescription05B=^b[Weapon Pool Skill] [AOE] [Penetrating] ^n^o[Two-Handed Melee][Two-Handed Ranged] [Staff]^n^n^wSlice apart your surrounding foes.{^n}^oCan activate with all default weapon attacks. Requires a two-handed melee weapon, staff, or ranged weapon. 
+tagClass16SkillName05C=Carnivorous Slaughter
+tagClass16SkillDescription05C=^b[Weapon Pool Skill]^n^o[Two-Handed Melee][Two-Handed Ranged] [Staff]^n^n^wObliterate a target with a tremendous show of strength, and feast upon the damage done.{^n}^oCan activate with all default weapon attacks. Requires a two-handed melee weapon or a staff.
+tagClass16SkillName05B2=Bloodlust
+tagClass16SkillDescription05B2=^b[Timed] [Buff]^n^o[On Crit]^n^n^wLanding a ^ocritical strike^w empowers you. 
+
+tagClass16SkillName06A=Blood Siphon
+tagClass16SkillDescription06A=^b[Spell] [Nova] [AOE] [Timed]^n^n^wTerror Knights excel against groups of foes. You shall be no different.
+tagClass16SkillName06B=Thirst
+tagClass16SkillDescription06B=^b[Modifier] [Debuff]^n^n^wThere is much vigor to take from your enemies, and you are quite thirsty. Drink on!
+
+tagClass16SkillName07A=Well of Fears
+tagClass16SkillDescription07A=^b[Spell] [AOE] [Timed]^n^n^wConjure a pool of terrific power that decays the rational thought of your enemies.
+tagClass16SkillName07B=Swarm of Fears
+tagClass16SkillDescription07B=^b[Modifier]^n^n^wDegrade the will of your foes to push on.
+
+tagClass16SkillName08A=Soldier of Madness
+tagClass16SkillDescription08A=^b[Buff] [AOE]^n^n^wWhile they further the spread of insanity, one must not forget that Terror Knights are just that - Knights, like any other.
+
+tagClass16SkillName09A=Evocation of Terror
+tagClass16SkillDescription09A=^b[Spell] [Nova] [AOE]^n^o[Two-Handed Melee] [Staff]^n^n^wA weapon art kept to the Knights of the Obsidian Forests, now unleashed upon the world.{^n}^oRequires a two-handed melee weapon or a staff.
+
+tagClass16SkillName10A=Entropic Reign
+tagClass16SkillDescription10A=^b[Exclusive] [Buff]^n^n^wYour foes' descent into madness is mirrored by your own, but yours shall prove more powerful.
+
+tagClass16SkillName11A=Whispers of Madness
+tagClass16SkillDescription11A=^b[Spell] [Contagious] [Timed] [Debuff]^n^n^wWhisper the name of Lord Terror into the ears of your foes, that all may hear his voice.
+tagClass16SkillName11B=Epoch of Terror
+tagClass16SkillDescription11B=^b[Modifier]^n^n^wThe weak of will shall buckle beneath Lord Terror's words as their lives eventually fade away into timeless oblivion.
+tagClass16SkillName11C=Inescapable End
+tagClass16SkillDescription11C=^b[Autocasted] [AOE]^n^o[On Kill]^n^n^wLord Terror's incendiary words can turn friend against foe. Those that succumb to his might are guaranteed to be used as weapons against their allies.
+
+tagClass16SkillName1617=Warmage Sorcery
+tagClass16SkillDescription1617=^ZTerror Knight + Evocator{^n}^o[Modifier to Flameblade]^n^w{^n}Evocators generally did not care to get their hands dirty directly, but their time entertaining the royal courts quickly taught them that combative experience was an importance part of opulence. ^n^rRequires 32 points in Evocator and at least one point in Terror Knight.
+tagClass16SkillName1617X=Solidify
+tagClass16SkillName1618=Combat Art - Hell Hunter
+tagClass16SkillDescription1618=^ZTerror Knight + Outrider{^n}^o[Modifier to Engine of War]^n^wLimitless in their scope for finding and terminating their prey, Outriders were very much like Terror Knights. Those that pledged themselves to Lord Terror were able to decimate foes far and wide with extreme efficiency. ^n^rRequires 32 points in Outrider and at least one point in Terror Knight.
+tagClass16SkillName1618X=Sadism
+tagClass16SkillName1619=Combat Art - Dreadnaught
+tagClass16SkillDescription1619=^ZTerror Knight + Champion{^n}^o[Modifier to Taunt]^n^wChampions were deadly even under ordinary circumstances. Those that fell into Lord Terror's ranks were made ever more dangerous. ^n^rRequires 32 points in Champoin and at least one point in Terror Knight.
+tagClass16SkillName1619X=Iron Flesh
+tagClass16SkillName1620=Combat Art - Desolator
+tagClass16SkillDescription1620=^ZTerror Knight + Riftstalker{^n}^o[Modifier to Caedra's Collapse]^n^wIntriguing that there exists a Riftstalker within Lord Terror's forces. Surely such a being would be a formidable foe on the battlefield, spouting hard-hitting attacks and improved defenses alike, all empowered by the void and Lord Terror himself. ^n^rRequires 32 points in Riftstalker and at least one point in Terror Knight.
+tagClass16SkillName1620X=Rift Surge
+tagClass16SkillName1621=Combat Art - Void Knight
+tagClass16SkillDescription1621=^ZTerror Knight + the Necrotic{^n}^o[Modifier to Claws of the Beast]^n^wThe best enemy is the one that dies quickest. The Necrotic was an expert at reducing even the sturdiest of enemies to frail shadows of their former selves. Lord Terror would have been proud. ^n^rRequires 32 points in Necrotic and at least one point in Terror Knight.
+tagClass16SkillName1621X=Smother
+tagClass16SkillName1622=PLACEHOLDER
+tagClass16SkillDescription1622=PLACEHOLDER
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class17 - Evocator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassName17=Evocator
+tagSkillClassDescription17=Traditionally, Evocators were persons of entertainment in Enolis, whose affinity for conjuration was most intriguing. With the occurrence of the Grim Dawn however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass17SkillName00A=Evocator
+tagClass17SkillDescription00A=Tricks of the trade for conjuration and sorcery. ^n^bTraditionally, Evocators were persons of entertainment in Enolis, whose affinity for conjuration was most intriguing. With the occurrence of the Grim Dawn however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass17SkillName01A=Ice Bomb
+tagClass17SkillDescription01A=^b[Player Scaled Pet] [Trap] [AOE] [Debuff]^n^n^wConjure up a sorcerous chunk of ice ahead of you which chills your enemies and explodes after a duration.{^n}^oIce Bombs take 1.5 seconds to arm and scale with player damage bonuses. 
+
+tagClass17SkillName01B=Chilling Ice
+tagClass17SkillName01C=Frost Blast
+
+
+tagClass17SkillName02A=Fireball
+tagClass17SkillDescription02A=^b[Spell] [Projectile Drop] [AOE]^n^n^wDrop a conglomeration of molten rock onto your enemies.
+tagClass17SkillName02B=Barrage
+tagClass17SkillDescription02B=^b[Modifier] [AOE] [Multiple Projectiles]^n^n^wBury your opponents in an onslaught of volcanic stone.
+tagClass17SkillName02C=Hellfire
+tagClass17SkillDescription02C=^b[Modifier] [AOE]^n^n^wThe flames of hell are unrelenting in their assault.
+
+tagClass17SkillName03A=Chain Lightning
+tagClass17SkillDescription03A=^b[Spell] [Chaining]^n^n^wDazzle a crowd in an electrifying display of elementalism!
+tagClass17SkillName03B=Restructure
+tagClass17SkillDescription03B=^b[Modifier]^n^n^wFeed material energies into the power which surges from you.
+
+tagClass17SkillName04A=Elemental Armoring
+tagClass17SkillDescription04A=^b[Passive]^n^n^wYour conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
+
+tagClass17SkillName05A=Rider of the Storm
+tagClass17SkillDescription05A=^b[Buff] [AOE]^n^n^wA maelstrom of the elements surrounds and empowers you.
+
+tagClass17SkillName06A=Ice Surge
+tagClass17SkillDescription06A=^b[Channeled] [Spell] [Ranged] [Beam]^n^n^wCondense the air ahead of you into shards of ice.
+tagClass17SkillName06B=Cold Snap
+tagClass17SkillDescription06B=^b[Secondary Modifier] [AOE]^n^o[On Kill]^n^n^wThe area around your target snaps to frigidity, bursting out violently on death. ^oActivates when killing enemies with Ice Surge.
+
+tagClass17SkillName07A=Frost Armor
+tagClass17SkillDescription07A=^b[Passive]^n^n^wProtect yourself with the strength of ice.
+
+tagClass17SkillName08A=Flameblade
+tagClass17SkillDescription08A=^b[Buff] [AOE]^n^n^wOriginally used to wow crowds, this more potent sorcery is used to tear enemies asunder.
+
+tagClass17SkillName09A=Breathe Fire
+tagClass17SkillDescription09A=^b[Spell] [Wave]^n^n^wAnother incendiary conjuration historically used for entertainment and now made to burn assailants to ash.
+tagClass17SkillName09B=Exhumation
+tagClass17SkillDescription09B=^b[Secondary Modifier]^n^o[On Kill]^n^n^wYour volcanic voice erodes the flesh of even the sturdiest of targets.
+
+tagClass17SkillName10A=Stormcaller
+tagClass17SkillDescription10A=^b[Aura] [Timed]^n^n^wThe might of the Stormcaller God, Selik, is so great that nothing will persist in its presence for long. Likewise, however, calling upon such power is truly taxing on an individual.
+tagClass17SkillName10B=Echoes of Magic
+tagClass17SkillDescription10B=^b[Secondary Modifier] [Orbiting]^n^n^wYour elemental spirit create echoes as they attack, multiplying in number.
+
+tagClass17SkillName11A=Sprite
+tagClass17SkillDescription11A=^b[Spell] [AOE]^n^n^wA surge of intense thermal and electrical energies rains down upon your foes from the skies above, muting their very existence.
+
+tagClass17SkillName12A=Rupture
+tagClass17SkillDescription12A=^b[Player Scaled Pet] [Pet Aura] [Stationary] [Debuff]^n^n^wSmash the earth at your feet, forcing the flames beneath the surface to punch through to your plane with violent force.
+tagClass17SkillName12B=Fire Pillar
+tagClass17SkillDescription12B=Scorching flames rocket out of the earth.
+
+tagClass17SkillName13A=Citadel of Ice
+tagClass17SkillDescription13A=^b[Buff] [Nova]^n^n^wExpend energy to shield yourself from all harm behind a bulwark of tremendous defenses. 
+tagClass17SkillName13B=Ice Fragments
+
+tagClass17SkillName14A=Fire Affinity
+tagClass17SkillDescription14A=^b[Passive]^n^n^wFlames can breathe new life into your being or scorch your enemies to cinder.
+tagClass17SkillName14B=Lightning Affinity
+tagClass17SkillDescription14B=^b[Passive]^n^n^wLightning can excite you to unparalleled levels or bring your enemies to a halt.
+tagClass17SkillName14C=Cold Affinity
+tagClass17SkillDescription14C=^b[Passive]^n^n^wNo armor is sturdier than that of ice, and no attacks hit harder than those likewise.
+
+tagClass17SkillName15A=Refuel
+tagClass17SkillDescription15A=^b[Buff] [Nova]^n^o[When Hit]^n^n^wTake from the arcane power of your enemies to further your own. 
+tagClass17SkillDescription15X=Energy costs increased by 33%.
+
+tagClass17SkillName16A=Elemental Flow
+tagClass17SkillDescription16A=^b[Buff] [Timed] [HP Threshold]^n^n^wAs your vitality comes and goes, so, too, do your defenses.
+
+tagClass17SkillName17A=Pyroclasm
+tagClass17SkillDescription17A=^b[Spell] [AOE] [Timed]^n^n^wIncinerate a piece of the world in a swirling vortex of infernal and electrical energies.
+tagClass17SkillName17B=Power Surge
+tagClass17SkillDescription17B=^b[Secondary Modifier] [AOE] [Debuff]^n^n^wEnergy is fickle. Sometimes you'll barely notice a change in power, and sometimes a change can instantly disintegrate your foes. Fickle.
+
+tagClass17SkillName18A=Stormbolt
+tagClass17SkillDescription18A=^b[Spell] [AOE] [Penetrating]^n^n^wConjure a deadly cluster of ice infused with the powers of storms, piercing through enemies with particular potency.
+tagClass17SkillName18B=Symphony of Storms
+tagClass17SkillDescription18B=^b[Modifier] [Fragmenting]^n^n^wSaturate the Stormbolt with mastery of your signature craft, all while making it strike at the fundamental core of your opponents.
+
+tagClass17SkillName19A=Might of Magic
+tagClass17SkillDescription19A=^b[Spell] [Orbital] [Timed]^n^n^wUse your sorceries to conjure protective spirits of pure elemental energy which attack nearby foes.
+
+tagClass17SkillName1716=Combat Art - Warmage
+tagClass17SkillDescription1717=^ZEvocator + Terror Knight{^n}^o[Modifier to Carnage]^n^wEvocators were not especially fond of martial combat, but that does not mean they were helpless if push came to shove. ^n^rRequires 32 points in Terror Knight and at least one point in Evocator.
+tagClass17SkillName1718=Gunmage Sorcery
+tagClass17SkillDescription1718=^ZEvocator + Outrider{^n}^o[Modifier to Mobile Fortress]^n^wStratagem and Sorcery combined, turn the arcane into weapons and tactics into magic. ^n^rRequires 32 points in Outrider and at least one point in Evocator.
+tagClass17SkillName1719=Archmage Sorcery
+tagClass17SkillDescription1719=^ZEvocator + Champion{^n}^o[Modifier to Aetherstorm]^n^wI cannot say it would be wise to strike an Archmage. They undoubtedly have some trick up their sleeves in defending themselves with arcana magics. ^n^rRequires 32 points in Champion and at least one point in Evocator.
+tagClass17SkillName1719X=Selik's Wrath
+tagClass17SkillName1720=Subverter Sorcery
+tagClass17SkillDescription1720=^ZEvocator + Riftstalker{^n}^o[Modifier to Intangible]^n^wBringing the powers of the planes down to more basic elements is a nontrivial task, but doable. Sure is a volatile process, though. ^n^rRequires 32 points in Riftstalker and at least one point in Evocator.
+tagClass17SkillName1721=Sinner Sorcery
+tagClass17SkillDescription1721=^ZEvocator + the Necrotic{^n}^o[Modifier to Obsidian Tremors]^n^wThe raw power one might acquire, beholden to the Necrotic, could taint the very nature of arcane sorceries, drawing them to vile effect. ^n^rRequires 32 points in Necrotic and at least one point in Evocator.
+tagClass17SkillName1721X=Eternal Vitriol
+tagClass17SkillName1722=PLACEHOLDER
+tagClass17SkillDescription1722=PLACEHOLDER
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class18 - Outrider
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassName18=Outrider
+tagSkillClassDescription18=Sharpshooters. Gunslingers. The assassins of the West carried knives and petty toxins to slay the enemies of the royal houses that had hired them. The assassins of the East deal in alchemically-enhanced lead with vicious muzzle velocities, and serve no order save for their own self-rightousness...or lack thereof. Outriders, they're called. They're not heroes, but their stock of lead and hawklike accuracy could prove precisely what mankind needs to take back its planet. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+
+tagClass18SkillName00A=Outrider
+tagClass18SkillDescription00A=Discipline of a soldier, ferocity unhindered by laws. ^n^lSharpshooters. Gunslingers. The assassins of the West carried knives and petty toxins to slay the enemies of the royal houses that had hired them. The assassins of the East deal in alchemically-enhanced lead with vicious muzzle velocities, and serve no order save for their own self-rightousness...or lack thereof. Outriders, they're called. They're not heroes, but their stock of lead and hawklike accuracy could prove precisely what mankind needs to take back its planet. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass18SkillName01A=Arcane Assault I
+tagClass18SkillDescription01A=^b[Player Scaled Pet] [Ranged] [Timed]^n^n^wSome Outriders would delve into the arcane, particularly with conjuration, and could materialize unmanned weapons of war to assist them in combat.{^n}^oScales with player damage bonuses. Unlocks more skills with further investment.
+tagClass18SkillName01B=Arcane Assault II
+tagClass18SkillDescription01B=^b[Player Scaled Pet] [Melee]^n^n^wA more advanced version of Arcane Assault, this enables the Outrider to summon a more permanent rifle to assist them in combat.{^n}^oScales with player damage bonuses. Unlocks more skills with further investment.
+tagClass18AutoFireName=Conjured Weapon
+tagClass18AutoFireSkillName00=Default Attack ~ All Ranges
+tagClass18AutoFireSkillName01=Shotgun ~ Short Range ~ 100%
+tagClass18AutoFireSkillName02=Splinter ~ Medium Range ~ 67%
+tagClass18AutoFireSkillName03=Snipe ~ Long Range ~ 10%
+
+#Skill Line 2 is unused
+tagClass18SkillName02A=Fenner's Railgun
+tagClass18SkillDescription02A=^b[Spell] [Ranged] [Penetrating] [AOE]^n^n^wCaptain Fenner, upon deserting from the Vallithellian ranks, took with him his great experience with heavy artillery in becoming an Outrider.{^n}^oRequires a ranged weapon or a staff. ^rNote from Captain Fenner: Do NOT use on Reflective opponents.
+
+tagClass18SkillName03A=Kick
+tagClass18SkillDescription03A=Why do you need skillpoints for this?{^n}^oWorks in point-blank range only. Duh.
+
+tagClass18SkillName04A=Flak Blast
+tagClass18SkillDescription04A=^b[Attack Replacer] [Multiple Projectiles^n^o [Ranged] [Staff]^n^n^wTo live and die by the sword are the ways of old; you, Outrider, will live by the art of gunplay. {^n}^oRequires a ranged weapon. When used as your default weapon attack, Flak Blast will magnify the power of every other single weapon strike.
+tagClass18SkillName04B=Tetrad Shot
+tagClass18SkillDescription04B=^b[Weapon Pool Skill] [Penetrating] [Multiple Projectiles]^n^o[Ranged]^n^n^wTurns out shooting more projectiles at once results in more carnage. Who knew?{^n}^oCan activate with all default weapon attacks. Requires a ranged weapon.
+tagClass18SkillName04C=Shrapnel Shot
+tagClass18SkillDescription04C=^b[Weapon Pool Skill] [Fragmenting] [AOE] ^n^o[Ranged]^n^n^wLoad the chamber of your weapon with compacted shrapnel which will surely burst out and cut through far-away enemies on impact.{^n}^oCan activate with all default weapon attacks. Requires a ranged weapon.
+tagClass18SkillName04D=Suppressant
+tagClass18SkillDescription04D=^b[Weapon Pool Skill] [Penetrating] [Multiple Projectiles]^n^o[Ranged]^n^n^wLay down heavy suppressing fire to drop your enemies by the scores.{^n}^oCan activate with all default weapon attacks. Requires a ranged weapon.
+tagClass18SkillName04XA=Sniper
+tagClass18SkillDescription04XA=^b[Passive]^n^o[Two-Handed Ranged]^n^n^wThe elusive Sniper is hard to pin down, but they'll have no issue burying even the toughest of foes.{^n}^oThis is a global passive and applies to all of your skills/stats.{^n}Requires a two-handed ranged weapon.
+tagClass18SkillName04XB=Saboteur
+tagClass18SkillDescription04XB=^b[Passive]^n^o[Dual Wield Ranged]^n^n^wThe aggressive saboteur is a slaughterer of the weak masses.{^n}^oThis is a global passive and applies to all of your skills/stats.{^n}Requires dualwield ranged weapons.
+tagClass18SkillName04XC=Sentinel
+tagClass18SkillDescription04XC=^b[Passive] ^n^o[Shield][Caster Off-Hand]^n^n^wThe tactical Sentinel is a force to be reckoned with, choosing not to hit harder but instead better.{^n}^oThis is a global passive and applies to all of your skills/stats.{^n}Requires a shield or caster off-hand
+tagClass18SkillName04XD=Commando
+tagClass18SkillDescription04XD=^b[Modifier] [AOE]^n^o[Melee]^n^n^wThe headstrong commando is a courageous (or stupid) adversary, opting to drop his gun and wade into the thick of combat with a melee weapon instead.{^n}^oThis is a transmuter and applies to Flak Blast.{^n}Requires a melee weapon and will block the weapon from being usable with ranged weapons.
+
+tagClass18SkillName05A=Providence
+tagClass18SkillDescription05A=^b[Buff] [Nova]^n^o[Shield][Staff]^n^n^wBulwark of the strong.{^n}^oRequires a shield or a staff. 
+tagClass18SkillName05B=Refract
+tagClass18SkillDescription05B=^b[Modifier]^n^n^wThe only shields outriders carry are those infused and empowered for ranged combat superiority.
+tagClass18SkillName05C=Tenacity of the Deserter
+tagClass18SkillDescription05C=^b[Buff] [Timed]^n^n^wMost Outriders were once soldiers of Vallithell, implying substantial expertise and efficiency in their combative actions.
+
+tagClass18SkillName06A=Hawkeye
+tagClass18SkillDescription06A=^b[Spell] [AOE] [Debuff]^n^n^wAnother enemy in your crosshairs, another recorded kill.
+
+tagClass18SkillName07A=Engine of War
+tagClass18SkillDescription07A=^b[Buff]^n^n^wA hired gun like no other, for yours shall sing of death himself.
+tagClass18SkillName07B=Engine of Peace
+tagClass18SkillDescription07B=^b[Buff]^n^n^wPeace is always a possibility, even if it needs to be forced.
+
+tagClass18SkillName08A=Sunder
+tagClass18SkillDescription08A=Smash your defenses into the ground to rip apart those of distant enemies.{^n}^oRequires a shield, two-handed melee weapon, or a staff.
+
+tagClass18SkillName09A=Concussive Blast
+tagClass18SkillDescription09A=^b[Spell] [Nova] [AOE]^n^n^wKnock back foes when they get too close, hammering them off with significant force.
+
+tagClass18SkillName10A=Mobile Fortress
+tagClass18SkillDescription10A=^b[Exclusive] [Buff]^n^o[Shield]^n^n^wDefine yourself as a citadel of ranged combat, planting your feet in the ground no matter the forces ahead of you.{^n}^oRequires a shield. 
+
+##Skill Line 11 is unused
+tagClass18SkillName11A=Gunslinger
+tagClass18SkillDescription11A=Not all Outriders were experts at utilizing two firearms at once, but most had a proficiency with the art.{^n}^oRequires and dual-wielding ranged weapons.
+tagClass18SkillName11B=Fragmented Assault
+tagClass18SkillDescription11B=Two firearms equates to more means to riddle foes with a swarm of shrapnel.
+tagClass18SkillName11C=Line `em Up
+tagClass18SkillDescription11C=Piercing shots!{^n}^oNot for use indoors.
+tagClass18SkillName11D=Empowerment of the Defender
+tagClass18SkillDescription11D=Outriders with shields were nonetheless capable of slaying foes with great efficiency. Most Outriders were once soldiers of Vallithell, implying substantial expertise and efficiency in their combative actions.{^n}^oRequires a ranged weapon. The connected procs only activate with dual-wielded ranged weapons. Is a Default Attack Modifier.
+
+tagClass18SkillName12A=Gambit of Slaughter
+tagClass18SkillDescription12A=Roll the dice of war; your luck will be the bane of your enemies.
+
+#Unused
+tagClass18SkillName13A=Alchemical Enhancement
+tagClass18SkillDescription13A=Normalize your assault toward a specific means of shredding opponents, attacking their armors as much as their vitals.
+
+tagClass18SkillName14A=Pneumatic Surge
+tagClass18SkillDescription14A=^b[Buff] [Heal] [Timed]^n^n^wPopular martial techniques of Outriders living on the plains, enabling one to sustain themselves in the harshest of environments.
+
+#Unused
+tagClass18SkillName15A=Chemical Bombardment
+tagClass18SkillDescription15A=^b[Player Scaled Pet] [Projectile Drop] [Stationary]^n^n^wWith the use of a mortar, call down a vicious bombardment of chemical weaponry.
+tagClass18SkillName15B=Aerosol Dispersion
+tagClass18SkillDescription15B=^b[Pet Skill] [AOE] [Timed]^n^n^wThe mortar will occasionally disperse a deadly biochemical agent that will choke the life out of lesser foes.
+tagClass18SkillName15C=Cold Flare
+tagClass18SkillName15D=The Outrider Special
+tagClass18SkillDescription15D=^b[Pet Skill] [AOE]^n^n^lLet's see them survive this one.{^n}{^n}^wDrops a massive payload from the mortar onto your enemies. 
+
+tagClass18SkillName16A=Barricade
+tagClass18SkillDescription16A=Create a barricade to ward off your foes and give yourself a strategic upper hand.{^n}^oYou can shoot over the Barricade.
+tagClass18Skill16SummonName=Barricade
+tagClass18SkillName16B=Caustic Shield
+tagClass18SkillDescription16B=Those that attempt to strike down your barricades - a futile effort - will find themselves harshly weakened.
+tagClass18SkillName16C=Tactical Advantage
+tagClass18SkillDescription16C=Fighting in a battlefield of your own construction provides you with improved abilities and vigor.
+
+tagClass18SkillName17A=Battle Sense
+tagClass18SkillDescription17A=What separates the average infantrymen from the best soldiers is the awareness of one's needing to perform at greater levels in dire circumstances.{^n}^oThis skill triggers upon critically striking an enemy.
+tagClass18SkillDescription17AX=What separates the average infantrymen from the best soldiers is the awareness of one's needing to perform at greater levels in dire circumstances.
+tagClass18SkillName17B=Calculated Assault
+tagClass18SkillDescription17B=^b[Exclusive] [Buff]^n^o[Ranged] [Staff]^n^n^wIn war, there is no playing fair. With improved vigor, strike against your foes with greater ferocity than you have demonstrated thus far. ^oRequires a ranged weapon or staff.
+tagClass18SkillName17C=Heightened Reflexes
+tagClass18SkillDescription17C=^b[Passive]^n^n^wYour experience on the fields of war has refined your ability to make better use of your already-masterful skillset, all while making you much harder to kill. You know what they say - You can't keep a good Outrider down.
+
+tagClass18SkillName18A=Cluster Bomb
+tagClass18SkillDescription18A=^b[Spell] [Grenade] [Fragmenting] [AOE]^n^n^wAn explosive packed with more explosives, this devilish contraption is capable of laying waste to an entire field of enemies. Those that survive will be slowed and suffer from a biting cold.
+tagClass18SkillName18B=Tainted Shrapnel
+tagClass18SkillDescription18B=^b[Modifier]^n^n^wAdds shrapnel to the Cluster Bomb which will inflict harm upon the very life force of those struck by it.
+
+tagClass18SkillName19A=Biobomb
+tagClass18SkillDescription19A=^b[Spell] [Grenade] [Debuff] [Timed]^n^n^wToss a grenade which, upon detonation, will release a deadly biochemical agent that will harshly debilitate enemies caught in the area.
+
+tagClass18SkillName20A=OMNI-Round
+tagClass18SkillDescription20A=If your target has a weakness, the OMNI-Round will exploit it.{^n}^rLIMITED ISSUE
+
+tagClass18SkillName21A=Combat Armor
+tagClass18SkillDescription21A=^b[Passive]^n^n^wWhile not quite as robust as a Terror Knight's full setup, the Outrider's choice of lightweight combat armor is sufficient in protecting its owner from minor injuries.
+
+tagClass18SkillName22A=Soldier's Spirit
+tagClass18SkillDescription22A=^b[Buff] [Timed]^n^o[When Hit]^n^n^wIt was unwise to piss off an Outrider. You really wouldn't like them when they're angry.
+
+tagClass18SkillName23A=Ravek's Will
+tagClass18SkillDescription23A=^b[Buff][Timed] [HP Threshold]^n^n^wColonel Ravek was the first Outrider, abandoning his post as part of the 29th Armored Corps. He was hunted by Vallithellian forces until he was presumed dead - though his body was never found - following a massive raid on his encampment. It's rumored that Vallithel lost thirty of its best in that raid.
+
+tagClass18SkillName1816=Stratagem of the Hell Hunter
+tagClass18SkillDescription1816=^ZOutrider + Terror Knight{^n}^o[Modifier to Banish]^n^wTerror Knights were not atypical soldiers insofar as their combative tactics went. They knew that if an enemy were to hit you, you needed to hit back harder. ^n^rRequires 32 points in Terror Knight and at least one point in Outrider.
+tagClass18SkillName1816X=Hyperflame
+tagClass18SkillName1817=Stratagem of the Gunmage
+tagClass18SkillDescription1817=^ZOutrider + Evocator{^n}^o[Modifier to Breathe Fire]^n^wEvocators were always fantastic at taking what they had and making something more from it. Such a talent could manifest as either deception or mysticism, or even both. ^n^rRequires 32 points in Evocator and at least one point in Outrider.
+tagClass18SkillName1819=Stratagem of the Stalker
+tagClass18SkillDescription1819=^ZOutrider + Champion{^n}^o[Modifier to Endless Might]^n^wTo be pursued by a Champion of Vallithel would have been a death sentence, as there would be little to prevent their arrival. Once you've been found, a swift justice would surely be executed. ^n^rRequires 32 points in Champion and at least one point in Outrider.
+tagClass18SkillName1820=Stratagem of the Disruptor
+tagClass18SkillDescription1820=^ZOutrider + Riftstalker{^n}^o[Modifier to Multitask]^n^wMaintaing a battlefield advantage involved physically controlling the battlefield; Riftstalkers were innately good at that, but the expertise and tactics of Outriders surely helped out in that regard. ^n^rRequires 32 points in Riftstalker and at least one point in Outrider.
+tagClass18SkillName1821=Stratagem of the Vagabond
+tagClass18SkillDescription1821=^ZOutrider + the Necrotic{^n}^o[Modifier to Leech Grenade]^n^wOverly saturated with the life force of others, the very fiber of the Necrotic is sour. Going near to it is not likely a wise idea. ^n^rRequires 32 points in Necrotic and at least one point in Outrider.
+tagClass18SkillName1822=PLACEHOLDER
+tagClass18SkillDescription1822=PLACEHOLDER
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class19 - Champion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassName19=Champion
+tagSkillClassDescription19=The greatest gladiators of Vallithell, Champions are no strangers to brutal combat, even though their opponents may be alien. Champions excel at surviving in the most ferocious of conditions, but they are generally not known for being able to create wanton destruction...that does not mean it is an impossibility for them, however. Many Champions went on to be royal guards of some of Vallithell's holier sects, and so were trained to utilize and combat arcane magics. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+
+tagClass19GhostPet01=Exalted Champion
+tagClass19GhostSkill01=Charge Forth
+tagClass19GhostSkill02=Vorpal Strike
+
+tagClass19SkillName00A=Champion
+tagClass19SkillDescription00A=Gladitorial supremacy for the ultimate in survivability. ^n^kThe greatest gladiators of Vallithell, Champions are no strangers to brutal combat, even though their opponents may be alien. Champions excel at surviving in the most ferocious of conditions, but they are generally not known for being able to create wanton destruction...that does not mean it is an impossibility for them, however. Many Champions went on to be royal guards of some of Vallithell's holier sects, and so were trained to utilize and combat arcane magics. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass19SkillName01A=Battery
+tagClass19SkillDescription01A=^b[Attack Replacer]^n^n^wLet your enemies come; you shall meet them with undulating ruthlessness.
+tagClass19SkillName01B=Fervent Force
+tagClass19SkillDescription01B=^b[Modifier]^n^n^wWith each attack you make, deliver the next ever quicker.
+
+tagClass19SkillName02A=Everlasting Might
+tagClass19SkillDescription02A=^b[Buff] [Timed] [HP Threshold]^n^n^wNo matter your wounds, combat will only ever empower you.
+tagClass19SkillName02B=Everlasting Spite
+tagClass19SkillDescription02B=^b[Buff] [Timed] [HP Threshold]^n^n^wIt is unwise for your enemies to attack you; you'll make them stop one way or another.
+tagClass19SkillName02C=Everlasting Strength
+tagClass19SkillDescription02C=^b[Buff] [Timed] [HP Threshold]^n^n^wGrow in strength as you are weakened.
+
+tagClass19SkillName03A=Army of None
+tagClass19SkillDescription03A=^b[Autocast] [Pet]^n^o[On Attack]^n^n^wFor you and your comrades belong to no one but yourselves, and will fight for each other regardless of realm. {^n}^oConscription now also summons Exalted Champions which will fight for you for a duration. These spirits scale with player bonuses.
+tagClass19SkillName03B=Radiant Riftburn
+tagClass19SkillDescription03B=Burn the faces off your foes.
+tagClass19SkillName03C=Starfall
+tagClass18SkillDescription03C=^b[Modifier]^n^n^wConscription can be used more often and deal more damage.
+
+tagClass19SkillName04A=Nullification
+tagClass19SkillDescription04A=^b[Spell] [AOE] [Dispel]^n^n^wDispel sorceries and magics from the target area, equalizing the field of battle.
+
+tagClass19SkillName05A=Litany of Blades
+tagClass19SkillDescription05A=^b[Secondary Modifier] [Orbital]^n^n^wMasters of the arena, Champions are never without ample armaments. 
+tagClass19SkillName05B=Litany of Blades
+tagClass19SkillDescription05B=Unleash a show of force when provoked, cutting down swaths of nearby foes. 
+
+tagClass19SkillName06A=Conscription
+tagClass19SkillDescription06A=^b[Attack] [AOE]^n^n^wHammers enemies in an area with a heavy blow. Weaker enemies will become mind controlled, and fight for you for a duration.
+tagClass19SkillName06B=Area of Great Effect
+tagClass19SkillDescription06B=Your magnificence will draw many to be your ally.
+
+tagClass19SkillName07A=Judgment
+tagClass19SkillDescription07A=^b[Secondary Modifier] [Chaining]^n^n^wPass judgment from above upon your foes. Bolts of lightning hit foes within 7 meters of you.
+
+tagClass19SkillName08A=With Reckless Abandon
+tagClass19SkillDescription08A=^b[Spell] [Movement]^n^n^wCharge forth, that you might engage your enemies without fear.
+
+tagClass19SkillName09A=Taunt
+tagClass19SkillDescription09A=^b[Spell] [AOE] [Taunt]^n^n^w"You hit like a Slith!"
+tagClass19SkillName09B=Lambaste
+tagClass19SkillDescription09B=^b[Modifier] [Debuff]^n^n^wIn comedic irony, your taunting words weaken the resolve and strength of your foes, indeed neutering their effectiveness in combat.
+
+tagClass19SkillName10A=Conviction
+tagClass19SkillDescription10A=^b[Secondary Modifier] [AOE] [Timed] [Debuff]^n^o[When Hit]^n^n^wWhile Redemption is active, Convict any enemies who would strike you, inflicting a debuff upon them.
+
+tagClass19SkillName11A=Redemption
+tagClass19SkillDescription11B=^b[Buff] [Timed] [HP Threshold]^n^n^wWhen active, aura attempts to redeem the souls of attacking enemies to give you life and mana.
+
+tagClass19SkillName12A=Divinity
+tagClass19SkillDescription12A=^b[Buff] [Nova] [AOE]^n^n^wLight of noble warfare shines upon you, Champion, when your enemies are foolish enough to strike against you. 
+
+tagClass19SkillName13A=Aetherstorm
+tagClass19SkillDescription13A=^b[Spell] [Projectile Drop] [Timed [AOE]^n^n^wSome gladiatorial champions decided to delve into the arcane to protect themselves. It proved effective.{^n}^oEmbers continue to fall over the duration of the spell. Only one Aetherstorm can be cast at any one time.
+
+tagClass19SkillName14A=Honor
+tagClass19SkillDescription14A=^b[Passive]^n^n^wFight with honor, that no evil is safe from your blade.
+
+tagClass19SkillName15A=Virtue
+tagClass19SkillDescription15A=^b[Passive]^n^n^wLive with virtue, that no vice shall take hold of you.
+
+tagClass19SkillName16A=Courage
+tagClass19SkillDescription16A=^b[Passive]^n^n^wEmbark with courage, that no terror can steer your course.
+
+tagClass19SkillName17A=Earthshatter
+tagClass19SkillDescription17A=^b[Buff] [Nova] [AOE]^n^n^wSteadfast in your own right, if provoked you shall crush the world around you in a blow of distinct finality.
+
+tagClass19SkillName18A=Ground Stomp
+tagClass19SkillDescrption18A=^b[Spell] [AOE]^n^n^wSmash your boot into the ground with energized force, creating a deafening shockwave of great power.
+tagClass19SkillName18B=Thunderous Might
+tagClass19SkillDescrption18B=^b[Modifier]^n^n^wThe shockwave rips apart enemy armor and inflicts considerable damage upon your foes, like a maelstrom blasting into the ground.
+
+tagClass19SkillName19A=Champion's Domain
+tagClass19SkillDescrption19A=^b[Player Scaled Pet] [Stationary][AOE][Buff]^n^n^wStrike at your foe and create a domain where you and any allies are empowered, and enemies are rebuked from.
+tagClass19SkillName19ASummonName=Champion's Domain
+tagClass19SkillName19ASummonSkillName1=Champion's Domain
+tagClass19SkillName19ASummonSkillDescription1=The Champion creates an area of protection that affects all allies within. Allies are imbued with enhanced health regeneration, strength and armor.
+tagClass19SkillName19ASummonSkillName2=Chastise
+
+tagClass19SkillName1916=Bulwark of the Dreadnaught
+tagClass19SkillDescription1916=^ZChampion + Terror Knight{^n}^o[Modifier to Conquer]^n^wWant to go toe-to-toe with the powers of a Terror Knight and the strength of a Champion? Be my guest.  ^n^rRequires 32 points in Terror Knight and at least one point in Champion.
+tagClass19SkillName1917=Bulwark of the Archmage
+tagClass19SkillDescription1917=^ZChampion + Evocator{^n}^o[Modifier to Sprite]^n^wBring down the heavens with the might of the Champion and the sorcery of the Evocator. Maybe today will be your lucky day and lightning will strike the same spot twice.  ^n^rRequires 32 points in Evocator and at least one point in Champion.
+tagClass19SkillName1918=Bulwark of the Stalker
+tagClass19SkillDescription1918=^ZChampion + Outrider{^n}^o[Modifier to Chemical Bombardment]^n^wOutriders and Champions shared a common trait: staying alive while hunting down and executing their pray. It should come as no surprise that those who were both Outriders and Champions were especially good at this.  ^n^rRequires 32 points in Outrider and at least one point in Champion.
+tagClass19SkillName1918X=Retaliatory Offensive
+tagClass19SkillName1920=Bulwark of the Skirmisher
+tagClass19SkillDescription1920=^ZChampion + Riftstalker{^n}^o[Modifier to Bloodless]^n^wChampions loved getting up in their enemies' faces. Having knowledge of the planes made that even easier. Their enemies weren't especially happy.  ^n^rRequires 32 points in Riftstalker and at least one point in Champion.
+tagClass19SkillName1921=Bulwark of the Judicator
+tagClass19SkillDescription1921=^ZChampion + the Necrotic{^n}^o[Modifier to Doombringer]^n^wUnleash untold horrors upon your foes who will charge into battle with greater ferocity.  ^n^rRequires 32 points in Necrotic and at least one point in Champion.
+tagClass19SkillName1921X=Judge's Decree
+tagClass19SkillName1922=PLACEHOLDER
+tagClass19SkillDescription1922=PLACEHOLDER
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class 20 - Riftstalker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassName20=Riftstalker
+tagSkillClassDescription20=Of the many Arcanists who investigated and studied the world beyond Cairn, few were able to create and explore Rifts on their own. Those that could, however, were almost immediately abducted, indoctrinated, and studied as human experiments. Any that survived such experiments often fell into the Riftstalker Imperium Program (RIP), an elite and secretive tactical scouting force that operated all across the empire's holdings...and a bit beyond. The vast majority of Riftstalkers were immediately wiped off the face of Cairn during the Grim Dawn, primarily due to their inherent proximity to the Aetherial Rifts that created them in the first place. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+
+tagClass20SkillName00A=Riftstalker
+tagClass20SkillDescription00A=Mobility and utility to outwit an army. ^n^gOf the many Arcanists who investigated and studied the world beyond Cairn, few were able to create and explore Rifts on their own. Those that could, however, were almost immediately abducted, indoctrinated, and studied as human experiments. Any that survived such experiments often fell into the Riftstalker Imperium Program (RIP), an elite and secretive tactical scouting force that operated all across the empire's holdings...and a bit beyond. The vast majority of Riftstalkers were immediately wiped off the face of Cairn during the Grim Dawn, primarily due to their inherent proximity to the Aetherial Rifts that created them in the first place. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass20SkillName01A=Drain
+tagClass20SkillDescription01A=^b[Spell] [AOE] [Debuff] [Timed]^n^n^wBuy yourself more time while weakening your enemies and making them lose the strength to fight while restoring your health.
+
+tagClass20SkillName02A=Multitask
+tagClass20SkillDescription02A=^b[Channeled] [Attack] [Melee] [AOE]^n^n^wHow Riftstalkers could attack so many enemies so rapidly was entirely a trade secret. It is assumed to have something to do with rifts. ^oAt 100% Attack Speed, Multitask deals damage and drains energy every 0.16s.
+tagClass20SkillName02B=Maim
+tagClass20SkillDescription02B=^b[Modifier] [Autocast] [AOE]^n^o[On Attack]^n^n^wMaim your enemies, that they might never escape your assault.
+
+tagClass20SkillName03A=Riftshock
+tagClass20SkillDescription03A=^b[Attack] [AOE]^n^n^wThe riftstalker creates a stable rift within their hand and imbues their weapon with it. Attacking foes with this rift enchanted weapon creates a reverberation of energy, damaging other enemies nearby with rift magic.
+tagClass20SkillName03B=Tether
+tagClass20SkillDescription03B=Riftshock strikes can tether the riftstalker to the rift, granting nearby allies raw magical and physical prowess.
+tagClass20SkillName03C=Void Siphon
+tagClass20SkillDescription03C=^b[Secondary Modifier] [Buff] [AOE]^n^n^wSiphons power out of enemies and into players.
+
+tagClass20SkillName04A=Sap
+tagClass20SkillDescription04A=^b[Aura] [Debuff]^n^n^wRiftstalkers are not meant to stay in combat for long, but if they do, they can at least whittle away at the defenses of their opponents with their mere presence.
+tagClass20SkillName04B=Detach
+tagClass20SkillDescription04B=^b[Modifier] [Debuff]^n^n^wDetach your targets from the physical realities, leaving them more vulnerable to the powers of the Rifts and making them more sluggish overall.
+
+tagClass20SkillName05A=Swap
+tagClass20SkillDescription05A=Experienced Riftstalkers did not often find themselves out of position, but even inexperienced ones had an escape plan. That escape plan would grow into a plan of attack as Riftstalkers grew in power, taking important targets out of a camp of enemies and disintegrating any sort of strategic advance non-Riftstalkers once possessed.{^n}^oSwaps positions with the target unit.
+tagClass20SkillName05B=Rout
+tagClass20SkillDescription05B=^b[Modifier]^n^n^wAn influx of energies upon the target area inflicts substantial harm upon any foes around.
+tagClass20SkillName05C=Push the Advantage
+tagClass20SkillDescription05C=^b[Secondary Modifier] [Buff]^n^n^wAn unending assault of an unstoppable force would have made even the Death's Bannermen quiver in fear; thankfully Riftstalkers were few and far between.
+
+tagClass20SkillName06A=Intangible
+tagClass20SkillDescription06A=^b[Passive]^n^n^wFade away into the veil between worlds, but enchant your weapons with immaterial power.
+
+# Deprecated
+tagClass20SkillName07A=Warp
+tagClass20SkillDescription07A=The ability to go where one pleased made many Imperial Arcanists forget about the inherent dangers with stepping between worlds. Some died immediately, some would pass shortly thereafter, others were abducted into the RIP.{^n}^oTeleports the player to the target location.
+tagClass20SkillName07X=Of the Planes
+tagClass20SkillDescription07X=^gHow could spending more time off Cairn possibly worsen my condition?{^n}^w-Unnamed ailing RIP member
+
+tagClass20SkillName08A=Inhuman Reflexes
+tagClass20SkillDescription08A=^b[Buff]^n^n^wMembers of the RIP were capable of reacting with greater potency and accuracy at speeds far beyond those of even exemplary soldiers.
+tagClass20SkillName08B=Korvoranian Tactics
+tagClass20SkillDescription08B=^b[Modifier]^n^n^wWhile Nightblades operated at odds with the RIP, even the most pretentious Riftstalkers adopted the teachings of Korvoran into their strategies.
+tagClass20SkillName08X=All As One
+tagClass20SkillDescription08X=It was planned to deploy Riftstalkers throughout the ranks of the Death's Bannermen at the forefront of warzones, and thus Riftstalkers were taught to share their learnings with those of lesser metaphysical ability.
+
+tagClass20SkillName09A=Not of this World
+tagClass20SkillDescription09A=^b[Passive]^n^n^wWith such experience in the Rifts, you may not have developed resistances to the diseases of Cairn, but you are better protected from those of other worlds. Likewise, there will be little to keep you from returning to the Rifts.
+
+# Deprecated, merged with Not of this World
+tagClass20SkillName10A=Excite
+tagClass20SkillDescription10A=Correlation may not imply causation, but it was worth studying how the vast majority of those who survived riftwalking were of a more excited and eccentric nature. All such studies went up in flames during the Grim Dawn, of course.
+
+tagClass20SkillName11A=Multifrequency
+tagClass20SkillDescription11A=^b[Passive]^n^n^wRiftstalkers were capable of converting riftborn energies between each other, though the duality of such specialization could greatly alter the course of a Riftstalker's future.
+
+tagClass20SkillName12A=Fleshwarped
+tagClass20SkillDescription12A=^b[Modifier]^n^n^wWhat does not kill you will only make you stronger. And stranger. And teeming with energy.
+tagClass20SkillName12B=Bloodless
+tagClass20SkillDescription12B=^b[Buff]^n^n^w^gBloodless? Well no, not totally. It is a lot lighter though.{^n}^w-Unnamed ailing RIP member. 
+
+tagClass20SkillName13A=Siren's Call
+tagClass20SkillDescription13A=^b[Exclusive] [Aura]^n^n^wAll RIP members could recount experiencing a voice not theirs within the void. They say if you listen past the currents of rushing air around a rift, you can sometimes hear singing. Could try opening a rift to find out...
+
+tagClass20SkillName14A=Serovin's Scattering
+tagClass20SkillDescription14A=^b[Exclusive] [Aura]^n^n^wSerovin, a Riftstalker reknowned for her fantastic mastery of warping herself and swapping others through rifts, devised a means to plunge any area into complete disarray, allowing her to pick and choose her targets as she pleased.{^n}
+
+tagClass20SkillName15A=Caedra's Collapse
+tagClass20SkillDescription15A=^b[Spell] [Nova] [AOE]^n^n^wRival of Serovin during the final days of the RIP, Caedra believed bringing enemies together was a sounder battlefield tactic for the sake of ensuring maximum carnage from Imperial artillery.{^n}^oPulls enemies toward the player.
+
+tagClass20SkillName16A=Riftstorm
+tagClass20SkillDescription16A=^b[Player Scaled Pet] [AOE]^n^n^gNo RIP member is permitted to create a rift larger than five meters in diameter. Containment of such an anomaly is incredibly difficult and the existence of an anomaly can prove catastrophic for any living creatures nearby.{^n}^w-RIP Reference Manual, 3rd Edition, Page 37
+tagClass20SkillName16B=Rift Winds
+tagClass20SkillName16C=Rift Burst
+
+tagClass20SkillName17A=Warp
+tagClass20SkillDescription17A=^b[Spell] [Movement]^n^n^wEven for Riftstalkers, sometimes engagement with an enemy is inevitable. Best you bring the fight to them.
+tagClass20SkillName17B=Thunder
+tagClass20SkillDescription17B=^b[Modifier]^n^n^wUnleash a great surge of the energy between worlds as you reenter the material plane.
+tagClass20SkillName17C=Hasteful Empowerment
+tagClass20SkillDescription17C=^b[Secondary] [Buff]^n^n^wInfuse your weapons as you travel through the planes.
+
+tagClass20SkillName18A=Riftblade
+tagClass20SkillDescription18A=^b[Spell] [Multiple Projectiles]^n^n^wThe energies of the rifts are sharp and fierce. If escape from combat is impossible, educate your enemies on this matter.
+tagClass20SkillName18B=Stalking Blades
+tagClass20SkillDescription18B=^b[Modifier] [Penetrating]^n^n^wThe Riftblades pierce through reality itself, rupturing the fortitude of those in their way.
+tagClass20SkillName18C=Lightning
+tagClass20SkillDescription18C=^b[Secondary Modifier] [Chaining]^n^n^wStrike your enemies and their allies with vicious otherworldly forces.
+
+tagClass20SkillName2016=Desolator Protocol
+tagClass20SkillDescription2016=^ZRiftstalker + Terror Knight{^n}^o[Modifier to Whispers of Madness]^n^wLord Terror's forces undoubtedly have stalked through the planes, learning from them and growing empowered from them.  ^n^rRequires 32 points in Terror Knight and at least one point in Riftstalker.
+tagClass20SkillName2017=Subverter Protocol
+tagClass20SkillDescription2017=^ZRiftstalker + Evocator{^n}^o[Modifier to Stormcaller]^n^wThe lesser magics of the world were easily capable of being manipulated to fabricate that of the rifts. Doing so was an unstable process, however, and to interrupt it would be unwise. ^n^rRequires 32 points in Evocator and at least one point in Riftstalker.
+tagClass20SkillName2018=Disruptor Protocol
+tagClass20SkillDescription2018=^ZRiftstalker + Outrider{^n}^o[Modifier to Flak Blast]^n^wIt was not especially uncommon for Riftstalkers to strike out on their own. It is much more common nowadays, since the fall of the RIP. Those that have survived in the wilds have grown stronger and more experienced for it. ^n^rRequires 32 points in Outrider and at least one point in Riftstalker.
+tagClass20SkillName2019=Skirmisher Protocol
+tagClass20SkillDescription2019=^ZRiftstalker + Champion{^n}^o[Modifier to Battery]^n^wChampions were already more or less unstoppable. When some heard tales of the power to control the mobility of the world around them, it was only a matter of time before they would be moving heaven and earth to slay their foes. ^n^rRequires 32 points in Champion and at least one point in Riftstalker.
+tagClass20SkillName2021=Pursuer Protocol
+tagClass20SkillDescription2021=^ZRiftstalker + the Necrotic{^n}^o[Modifier to Unholy Hailfire]^n^wNothing quite so evil as tearing a hole in reality to unleash a bunch of unholy exploding meteors from beyond the veil of the Rift, is there? ^n^rRequires 32 points in Necrotic and at least one point in Riftstalker.
+tagClass20SkillName2022=PLACEHOLDER
+tagClass20SkillDescription2022=PLACEHOLDER
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class 21 - Necrotic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassName21=Necrotic
+tagSkillClassDescription21=We are at the end of the world. There are no longer tales of right and wrong. The Chthonians and Aetherials have robbed us of our humanity, but there were those of us before them that lacked such a trait already. I have told you of the horrific powers of the Terror Knights from the Obsidian Forests. I have described the magnificent displays put forth by Evocators throughout Enolis. You have learned of the Riftstalkers and their RIP program, of the gladitorial masters known to us as Champions of mankind. You have caught wind of the elusive Outriders, assassins not of blade, but of bullet. Now I will tell you the story not of a group of people, but of one creature composed purely of malevolence. The Grim Dawn killed many beasts, but could not remove The Necrotic from Cairn. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass21SkillName00A=Necrotic
+tagClass21SkillDescription00A=Curses and debilitations to wear down an empire. ^n^mWe are at the end of the world. There are no longer tales of right and wrong. The Chthonians and Aetherials have robbed us of our humanity, but there were those of us before them that lacked such a trait already. I have told you of the horrific powers of the Terror Knights from the Obsidian Forests. I have described the magnificent displays put forth by Evocators throughout Enolis. You have learned of the Riftstalkers and their RIP program, of the gladitorial masters known to us as Champions of mankind. You have caught wind of the elusive Outriders, assassins not of blade, but of bullet. Now I will tell you the story not of a group of people, but of one creature composed purely of malevolence. The Grim Dawn killed many beasts, but could not remove The Necrotic from Cairn. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass21SkillName01A=Reaper's Glare
+tagClass21SkillDescription01A=^b[Channeled] [Spell] [Ranged] [Chaining]^n^n^wI first met the Necrotic on the fields of Edheren, where I learned its quest for power had given it the ability to directly siphon life from its foes at will.{^n}^oThis skill must be channeled to maintain its effect.
+tagClass21SkillName01B=Bonds of the Broken
+tagClass21SkillDescription01B=Within its view, there was no escape from the monstrous cruelty of the Necrotic.
+tagClass21SkillName01C=Reign of Chaos
+tagClass21SkillDescription01C=^b[Secondary Modifier] [Fragmenting] [AOE]^n^n^wAs it siphoned more and more power into its being, the Necrotic was eventually capable of covering the fields of Edheren in an onslaught of chaotic energies. Only those which were Primordials survived. 
+
+tagClass21SkillName02A=Claws of the Beast
+tagClass21SkillDescription02A=^b[Spell] [Multiple Projectiles] [Penetrating]^n^n^wThe Necrotic possessed a full control over a tormented being which I can only describe as 'the Beast'. When not wanting to get its own hands dirty, the Necrotic would instead ravage enemies within the grasp of this creature.
+tagClass21SkillName02B=Eldritch Torment
+tagClass21SkillDescription02B=^b[Modifier] [AOE] [Multiple Projectiles]^n^n^wWhile pitiable, the Beast was no less malevolent than its Necrotic master. 
+
+tagClass21SkillName03A=Malice
+tagClass21SkillDescription03A=^b[Passive]^n^n^wThe wickedness of the vile Necrotic knew no bounds.
+
+tagClass21SkillName04A=Necrotic Shade
+tagClass21SkillDescription04A=^b[Passive]^n^n^wThe Necrotic may act like a feral animal, but it is not ignorant. It is self-aware enough to know that its malevolence would earn it some enemies, and so it created some formidable defenses about its being.
+
+tagClass21SkillName05A=Leech Grenade
+tagClass21SkillDescription05A=^b[Spell] [Grenade] [AOE]^n^n^wThey had intended to study it. But the Necrotic had other plans when it first ran into the Black Legion. The engagement was swift and merciless, and the Necrotic emerged with a great knowledge of the alchemical weapons of the Legion. As the Necrotic had poured its powers over their weapons in the form of an unholy grenade, the Luminari decided to start collecting new armaments of its own to combat the beast. They have not yet succeeded.
+tagClass21SkillName05B=Necrotic Suffusion
+tagClass21SkillDescription05B=^b[Modifier] [Fragmenting] [AOE]^n^n^wA material weapon served little use to the Necrotic, however; it, therefore, chose to pull powers from the Eldritch planes to torment a wider array of foes.
+
+tagClass21SkillName06A=Primordial Transfer
+tagClass21SkillDescription06A=^b[Spell] [AOE] [Timed] [Debuff]^n^n^wThe Necrotic, like a leech, stole not merely its adversaries' life force, but also the very fabric tethering them to the astral or physical realms, empowering itself in the process.
+
+tagClass21SkillName07A=Obsidian Tremors
+tagClass21SkillDescription07A=^b[Spell] [Wave]^n^n^wI do not believe the Necrotic inherently has an allegiance to Ch'thon, but it does have a control over the obsidian which Chthonians draw their power from. In some instances, the Necrotic has buried armies underneath mountains of the stygian stone.
+tagClass21SkillName07X=Fleeting Obsidian
+tagClass21SkillDescription07X=^b[Transmuter]^n^n^wThe Necrotic traditionally put a great deal of focus into its spells to turn them into magnificent displays of widespread destruction, but it could, with the loss of this focus, put out lesser versions of these cruelties on a whim.
+tagClass21SkillName07B=From the Earth, Poison
+tagClass21SkillDescription07B=^b[Modifier]^n^n^wAs the obsidian shrapnel flew out from the ground, it brought with it the virulent malevolency of the Beast beneath the surface.
+
+tagClass21SkillName08A=Defender of Death
+tagClass21SkillDescription08=^b[Exclusive] [Buff]^n^n^wFor a creature so proficient at causing disaster, the Necrotic proved equally capable of prolonging life for the sake of death.
+
+tagClass21SkillName09A=The Twinning (pt. 1)
+tagClass21SkillDescription09A=There are those among the Primordials who claim that the Necrotic could not have spawned naturally on its own, that a being of such power must have had a twin of equal potency but opposite purpose.
+tagClass21SkillName09B=The Twinning (pt. 2)
+tagClass21SkillDescription09B=There are those among the Primordials who claim the Necrotic's equal and opposite is me, myself.
+
+tagClass21SkillName10A=Unadulterated Power
+tagClass21SkillDescription10A=^b[Secondary Modifier] [Nova] [AOE] ^n^o[When Hit]^n^n^wRaw, unadulterated power, and the expulsion and abuse thereof. That's the Necrotic's motif. Enemies who would strike the Necrotic will be subjected to this raw power.
+
+tagClass21SkillName11A=Unholy Hailfire
+tagClass21SkillDescription11A=^b[Spell] [Fragmenting] [AOE] [Timed]^n^n^w^r"To paint the day's sky black, and the night's sky red. That is my goal, Incarnate."
+
+tagClass21SkillName12A=Obsidian Prison
+tagClass21SkillDescription12A=^b[Spell] [AOE] [Debuff]^n^n^r"Death is inescapable, Incarnate, even for us Primordials. I just happen to be the Reaper."
+
+tagClass21SkillName13A=To End Evil
+tagClass21SkillDescription13A=^b[Spell] [Nova] [AOE] [Debuff]^n^n^wTo wish to be the first to strike down the Necrotic is a death wish. My advice: strive to be the second.
+
+tagClass21SkillName14A=Arcane Experience
+tagClass21SkillDescription14A=^b[Passive]^n^n^wThe Necrotic's experience with reality itself provides it with an enhanced ability to do as it pleases in the universe.
+
+tagClass21SkillName15A=Soul Seeker
+tagClass21SkillDescription15A=^b[Secondary Modifier] [Timed] [Buff]^n^n^wThe Necrotic was more than willing to do whatever it took to reap life from a plane, even corporealizing riftborn energies into physical forms.
+
+tagClass21SkillName16A=Foreknowledge
+tagClass21SkillDescription16A=^b[Buff]^n^n^wIf one were to exist for the purpose of collecting life, it would undoubtedly help if one possessed an awareness of what it would eventually contend with in doing so.
+
+tagClass21SkillName17A=Situational Awareness
+tagClass21SkillDescription17A=^b[Modifier]^n^n^wThe Necrotic's ability to quickly assess its surroundings has made it incredibly difficult to pin down on the battlefield.
+
+tagClass21SkillName19A=Planeswalker
+tagClass21SkillDescription19A=^b[Buff] [Timed] [HP Threshold]^n^n^wThe Necrotic is capable of melding between planes, although only for a short time and avoid even death while between realms.
+
+tagClass21SkillName20A=From Beyond
+tagClass21SkillDescription20A=^b[Passive]^n^n^wThe Necrotic's chaotic powers come from beyond this realm, and beyond the next.
+
+tagClass21SkillName21A=Conjure Dreadguard
+tagClass21SkillDescription21A=^b[Spell] [Beam] [Player Scaled Pet]^n^n^wWhat better way to fight against the meddling Chthonian hordes than to steal some of their best warriors? The Necrotic thought it'd be a good idea too.{^n}^oScales with player damage bonuses. More Dreadguards can be summoned with further investment. 
+
+#Unused
+tagClass21SkillName18A=Doombringer
+tagClass21SkillDescription18A=^b[Spell] [Projectile Drop] [Timed] [AOE]^n^n^wIf the Necrotic were to be waging an excessively long battle, it was likely it would bring down the sky itself, raining doom onto those foolish enough to meet the Necrotic in battle.
+
+oldtagClass21SkillDescription18A=If the Necrotic were to be waging an excessively long battle, it was likely it would conjure its infamous banner, Soth-Voonith, which would provide the Necrotic with a small army in only a few short moments.{^n}^oNote that units summoned by Soth-Voonith will protect Soth-Voonith's position, not yours, and do not scale with Player or Pet bonuses.{^n}{^n}Summons 3 prawns every 5 seconds. The prawns reduce enemy damage and spawn an acid pool on death.
+tagClass21Skill18SummonName=Soth-Voonith
+tagClass21SkillName18B=Summon Prawn
+tagClass21SkillDescription18B=No creature is safe from the Necrotic's collection, not even lesser beings of the planes. Once harvested and empowered by the Necrotic, however, even Prawns will prove dangerous.
+tagClass21Skill18SummonName2=Necro-Prawn
+tagClass21SkillName18C=Summon Ghoul
+tagClass21SkillDescription18C=Being barely on the edge of life counts as lively enough, as far as the Necrotic is concerned. Soth-Voonith is more than happy to offer some cursed and twisted humans to defend its master.
+tagClass21Skill18SummonName3=Necro-Ghoul
+tagClass21SkillName18D=Summon Dranghoul
+tagClass21SkillDescription18D=They say a Dranghoul could carve a boulder in two or tank a cannonball, but such feats are irrelevant to the Necrotic's might. It was better to bow and serve than be eradicated.
+tagClass21Skill18SummonName4=Necro-Dranghoul
+tagClass21SkillName18E=Summon Dreadguard
+tagClass21SkillDescription18E=What better way to fight against the meddling Chthonian hordes than to steal some of their best warriors? The Necrotic thought it'd be a good idea too.
+tagClass21Skill18SummonName5=Dominated Dreadguard
+tagClass21Skill18SummonName5Attack3=Dreadguard Attack
+tagClass21SkillName18F=Summon Golem
+tagClass21SkillDescription18F=How many men and women have been claimed by the Necrotic's incessant soul harvest? Enough to mold into terrifying golems of supreme might, rivaled only perhaps by the Necrotic itself.
+tagClass21Skill18SummonName6=Necro-Golem
+
+
+
+
+
+tagClass21SkillName2116=Reaper's Fragment - Void Knight
+tagClass21SkillDescription2116=^ZThe Necrotic + Terror Knight{^n}^o[Modifier to Engage]^n^wFor all the eldritch horrors it has unleashed, it should come as no surprise that the Necrotic has done a good job of supporting Lord Terror's cause. There are rumors, in fact, that the Necrotic is Lord Terror himself. The Void Knight of Terror comes for all, and all come for him. ^n^rRequires 32 points in Terror Knight and at least one point in Necrotic.
+tagClass21SkillName2116X=Glare of the Void Knight
+tagClass21SkillDescription2116X=Gaining 140 Offensive Ability and Converting 100% Vitality Damage to Chaos Damage.
+tagClass21SkillName2117=Reaper's Fragment - Sinner
+tagClass21SkillDescription2117=^ZThe Necrotic + Evocator{^n}^o[Modifier to Might of Magic]^n^wThe Necrotic was no stranger to the lesser magics of the world, and could certainly make use of them if it willed. At the very least, it could easily find a way to defend itself against them, too. ^n^rRequires 32 points in Evocator and at least one point in Necrotic.
+tagClass21SkillName2118=Reaper's Fragment - Vagabond
+tagClass21SkillDescription2118=^ZThe Necrotic + Outrider{^n}^o[Modifier to Biobomb]^n^wWhen the Necrotic searched through the stores of a legion outpost, it was more than enticed by a particularly nefarious biochemical weapon - a familiar tool of contracted soldiers and Outriders alike. ^n^rRequires 32 points in Outrider and at least one point in Necrotic.
+tagClass21SkillName2119=Reaper's Fragment - Judicator
+tagClass21SkillDescription2119=^ZThe Necrotic + Champion{^n}^o[Modifier to With Reckless Abandon]^n^wOn whose authority does the Necrotic pass judgment on its foes? Its own, of course. ^n^rRequires 32 points in Champion and at least one point in Necrotic.
+tagClass21SkillName2119X=Soul Rip
+tagClass21SkillName2120=Reaper's Fragment - Pursuer
+tagClass21SkillDescription2120=^ZThe Necrotic + Riftstalker{^n}^o[Modifier to Riftblade]^n^wWoe to those pursued by the Necrotic, though their end is most likely going to be quick. The Necrotic will surely enjoy it. ^n^rRequires 32 points in Riftstalker and at least one point in Necrotic.
+tagClass21SkillName2122=Reaper's Fragment - Anomaly
+tagClass21SkillDescription2122=^ZThe Necrotic + the Incarnate{^n}^w
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Class 22 - The Incarnate
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagSkillClassNameINCARNATE=
+tagSkillClassDescriptionINCARNATE=Ah, so you'd like to hear my tale, then, Taken?{^n}Then stay awhile, and listen. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
+
+tagClass22SkillName00A=The Incarnate
+tagClass22SkillDescription00A=Universal power from the great beyond.
+
+tagClass22SkillName2216=Incarnation of a Dragoon
+tagClass22SkillDescription2216=^ZThe Incarnate + Terror Knight{^n}^w
+tagClass22SkillName2217=Incarnation of a Maelstrom
+tagClass22SkillDescription2217=^ZThe Incarnate + Evocator{^n}^w
+tagClass22SkillName2218=Incarnation of an Abaddon 
+tagClass22SkillDescription2218=^ZThe Incarnate + Outrider{^n}^w
+tagClass22SkillName2219=Incarnation of a Vanguard
+tagClass22SkillDescription2219=^ZThe Incarnate + Champion{^n}^w
+tagClass22SkillName2220=Incarnation of a Voidbringer
+tagClass22SkillDescription2220=^ZThe Incarnate + Riftstalker{^n}^w
+tagClass22SkillName2221=Incarnation of an Anomaly
+tagClass22SkillDescription2221=^ZThe Incarnate + the Necrotic{^n}^w
+
+tagZEForgemaster001=The Incarnate
+tagZEForgemaster001_Profession=Zenith Crafter
+tagZEForgemaster001_DESC01=Ritual of Warping Metals
+tagZEForgemaster001_DESC02=The Incarnate will can transmute items of one type into another and mold lost metals into usable gear.
+tagZEForgemaster001_DESC03=
+tagZEForgemaster001_DESC04={^n}The Incarnate cannot grant equipment bonuses.
+
+tagZE_RIPAgent001=Mysterious Agent
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#New Zenith Relics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tagCraftZEMaterial00=Zenitham
+tagCraftZEMaterial00DESC="An amalgamous shard of zenitham metal from a lost civilization, it seems to possess unearthly qualities as it shimmers and bends. With the right skills, someone might be able to extract something useful from this. Seek out the Incarnate in the Devil's Crossing Hideout."
+tagCraftZEMaterial01=Essence Meld: Terror Knight
+tagCraftZEMaterial01DESC="The Incarnate can meld the strange zenitham into a purified material for advanced crafting recipes." 
+tagCraftZEMaterial02=Essence Meld: Evocator
+tagCraftZEMaterial02DESC="The Incarnate can meld the strange zenitham into a purified material for advanced crafting recipes."
+tagCraftZEMaterial03=Essence Meld: Outrider
+tagCraftZEMaterial03DESC="The Incarnate can meld the strange zenitham into a purified material for advanced crafting recipes."
+tagCraftZEMaterial04=Essence Meld: Champion
+tagCraftZEMaterial04DESC="The Incarnate can meld the strange zenitham into a purified material for advanced crafting recipes."
+tagCraftZEMaterial05=Essence Meld: Riftstalker
+tagCraftZEMaterial05DESC="The Incarnate can meld the strange zenitham into a purified material for advanced crafting recipes."
+tagCraftZEMaterial06=Essence Meld: Necrotic
+tagCraftZEMaterial06DESC="The Incarnate can meld the strange zenitham into a purified material for advanced crafting recipes."
+
+tagCraftZE_MaterialBP01=Blueprint: Essence of Dread
+tagCraftZE_MaterialBP02=Blueprint: Essence of Control
+tagCraftZE_MaterialBP03=Blueprint: Essence of Anarchy
+tagCraftZE_MaterialBP04=Blueprint: Essence of Honor
+tagCraftZE_MaterialBP05=Blueprint: Essence of Deception
+tagCraftZE_MaterialBP06=Blueprint: Essence of Malevolence
+
+tagCraftZEBP_MaterialConvert01=Meld Blood into Zenitham
+tagCraftZEBP_MaterialConvert01D="The Incarnate can meld Blood of Chthon into Zenitham."
+tagCraftZEBP_MaterialConvert02=Meld Brain into Zenitham
+tagCraftZEBP_MaterialConvert02D="The Incarnate can meld Tainted Brain Matter to Zenitham."
+tagCraftZEBP_MaterialConvert03=Meld Heart into Zenitham
+tagCraftZEBP_MaterialConvert03D="The Incarnate can meld Ancient Heart into Zenitham."
+tagCraftZEBP_MaterialConvert04=Meld Missive into Zenitham
+tagCraftZEBP_MaterialConvert04D="The Incarnate can meld Aetherial Missive into Zenitham."
+tagCraftZEBP_MaterialConvert05=Meld Mutagen into Zenitham
+tagCraftZEBP_MaterialConvert05D="The Incarnate can meld Aetherial Mutagen into Zenitham."
+tagCraftZEBP_MaterialConvert06=Meld Spirit into Zenitham
+tagCraftZEBP_MaterialConvert06D="The Incarnate can meld Wendigo Spirit into Zenitham."
+
+tagZenithBP_Relic001_00=Blueprint: ^rCombat Art: Terror Knight
+tagZenithBP_Relic001_01=Blueprint: ^rCombat Art: Terror Knight ^s+1
+tagZenithBP_Relic001_02=Blueprint: ^rCombat Art: Terror Knight ^s+2
+tagZenithBP_Relic001_03=Blueprint: ^rCombat Art: Terror Knight ^s+3
+tagZenithBP_Relic001_04=Blueprint: ^rCombat Art: Terror Knight ^s+4
+tagZenithBP_Relic001_05=Blueprint: ^rCombat Art: Terror Knight ^s+5
+tagZenithBP_Relic001_06=Blueprint: ^rCombat Art: Terror Knight ^s+6
+tagZenithBP_Relic001_07=Blueprint: ^rCombat Art: Terror Knight ^s+7
+tagZenithBP_Relic001_08=Blueprint: ^rCombat Art: Terror Knight ^s+8
+tagZenithBP_Relic001_09=Blueprint: ^rCombat Art: Terror Knight ^s+9
+tagZenithBP_Relic001_10=Blueprint: ^rCombat Art: Terror Knight ^s+10
+
+tagZenith_Relic001_00=^rCombat Art: Terror Knight
+tagZenith_Relic001_01=^rCombat Art: Terror Knight ^s+1
+tagZenith_Relic001_02=^rCombat Art: Terror Knight ^s+2
+tagZenith_Relic001_03=^rCombat Art: Terror Knight ^s+3
+tagZenith_Relic001_04=^rCombat Art: Terror Knight ^s+4
+tagZenith_Relic001_05=^rCombat Art: Terror Knight ^s+5
+tagZenith_Relic001_06=^rCombat Art: Terror Knight ^s+6
+tagZenith_Relic001_07=^rCombat Art: Terror Knight ^s+7
+tagZenith_Relic001_08=^rCombat Art: Terror Knight ^s+8
+tagZenith_Relic001_09=^rCombat Art: Terror Knight ^s+9
+tagZenith_Relic001_10=^rCombat Art: Terror Knight ^s+10
+tagZenith_Relic001_DESC=^r"Dread"
+
+tagZenith_Relic001Skill=^rAura of Terror
+tagZenith_Relic001Skill_DESC=The fearsome Aura of Terror permeates the air around you, draining the life of enemies and shredding their resistances.
+
+tagZenithBP_Relic002_00=Blueprint: ^bEvocator Sorcery
+tagZenithBP_Relic002_01=Blueprint: ^bEvocator Sorcery ^s+1
+tagZenithBP_Relic002_02=Blueprint: ^bEvocator Sorcery ^s+2
+tagZenithBP_Relic002_03=Blueprint: ^bEvocator Sorcery ^s+3
+tagZenithBP_Relic002_04=Blueprint: ^bEvocator Sorcery ^s+4
+tagZenithBP_Relic002_05=Blueprint: ^bEvocator Sorcery ^s+5
+tagZenithBP_Relic002_06=Blueprint: ^bEvocator Sorcery ^s+6
+tagZenithBP_Relic002_07=Blueprint: ^bEvocator Sorcery ^s+7
+tagZenithBP_Relic002_08=Blueprint: ^bEvocator Sorcery ^s+8
+tagZenithBP_Relic002_09=Blueprint: ^bEvocator Sorcery ^s+9
+tagZenithBP_Relic002_10=Blueprint: ^bEvocator Sorcery ^s+10
+
+tagZenith_Relic002_00=^bEvocator's Sorcery 
+tagZenith_Relic002_01=^bEvocator's Sorcery  ^s+1
+tagZenith_Relic002_02=^bEvocator's Sorcery  ^s+2
+tagZenith_Relic002_03=^bEvocator's Sorcery  ^s+3
+tagZenith_Relic002_04=^bEvocator's Sorcery  ^s+4
+tagZenith_Relic002_05=^bEvocator's Sorcery  ^s+5
+tagZenith_Relic002_06=^bEvocator's Sorcery  ^s+6
+tagZenith_Relic002_07=^bEvocator's Sorcery  ^s+7
+tagZenith_Relic002_08=^bEvocator's Sorcery  ^s+8
+tagZenith_Relic002_09=^bEvocator's Sorcery  ^s+9
+tagZenith_Relic002_10=^bEvocator's Sorcery  ^s+10
+tagZenith_Relic002_DESC=^b"Control"
+
+tagZenith_Relic002Skill=^bEvocation
+tagZenith_Relic002Skill_DESC=Send forth a cataclysmic surge of arcane energy towards your foes, then pull it back to hit them again!
+
+tagZenithBP_Relic003_00=Blueprint: ^lStratagem of the Outrider
+tagZenithBP_Relic003_01=Blueprint: ^lStratagem of the Outrider  ^s+1
+tagZenithBP_Relic003_02=Blueprint: ^lStratagem of the Outrider  ^s+2
+tagZenithBP_Relic003_03=Blueprint: ^lStratagem of the Outrider  ^s+3
+tagZenithBP_Relic003_04=Blueprint: ^lStratagem of the Outrider  ^s+4
+tagZenithBP_Relic003_05=Blueprint: ^lStratagem of the Outrider  ^s+5
+tagZenithBP_Relic003_06=Blueprint: ^lStratagem of the Outrider  ^s+6
+tagZenithBP_Relic003_07=Blueprint: ^lStratagem of the Outrider  ^s+7
+tagZenithBP_Relic003_08=Blueprint: ^lStratagem of the Outrider  ^s+8
+tagZenithBP_Relic003_09=Blueprint: ^lStratagem of the Outrider  ^s+9
+tagZenithBP_Relic003_10=Blueprint: ^lStratagem of the Outrider  ^s+10
+
+tagZenith_Relic003_00=^lStratagem of the Outrider
+tagZenith_Relic003_01=^lStratagem of the Outrider  ^s+1
+tagZenith_Relic003_02=^lStratagem of the Outrider  ^s+2
+tagZenith_Relic003_03=^lStratagem of the Outrider  ^s+3
+tagZenith_Relic003_04=^lStratagem of the Outrider  ^s+4
+tagZenith_Relic003_05=^lStratagem of the Outrider  ^s+5
+tagZenith_Relic003_06=^lStratagem of the Outrider  ^s+6
+tagZenith_Relic003_07=^lStratagem of the Outrider  ^s+7
+tagZenith_Relic003_08=^lStratagem of the Outrider  ^s+8
+tagZenith_Relic003_09=^lStratagem of the Outrider  ^s+9
+tagZenith_Relic003_10=^lStratagem of the Outrider  ^s+10
+tagZenith_Relic003_DESC=^l"Anarchy"
+
+tagZenith_Relic003Skill=^lReactive Armor
+tagZenith_Relic003Skill_DESC=Punish those who would dare strike your armor, let them know the tools of war you brought with you.
+
+tagZenithBP_Relic004_00=Blueprint: ^kBulwark of Champions
+tagZenithBP_Relic004_01=Blueprint: ^kBulwark of Champions  ^s+1
+tagZenithBP_Relic004_02=Blueprint: ^kBulwark of Champions  ^s+2
+tagZenithBP_Relic004_03=Blueprint: ^kBulwark of Champions  ^s+3
+tagZenithBP_Relic004_04=Blueprint: ^kBulwark of Champions  ^s+4
+tagZenithBP_Relic004_05=Blueprint: ^kBulwark of Champions  ^s+5
+tagZenithBP_Relic004_06=Blueprint: ^kBulwark of Champions  ^s+6
+tagZenithBP_Relic004_07=Blueprint: ^kBulwark of Champions  ^s+7
+tagZenithBP_Relic004_08=Blueprint: ^kBulwark of Champions  ^s+8
+tagZenithBP_Relic004_09=Blueprint: ^kBulwark of Champions  ^s+9
+tagZenithBP_Relic004_10=Blueprint: ^kBulwark of Champions  ^s+10
+
+tagZenith_Relic004_00=^kBulwark of Champions
+tagZenith_Relic004_01=^kBulwark of Champions  ^s+1
+tagZenith_Relic004_02=^kBulwark of Champions  ^s+2
+tagZenith_Relic004_03=^kBulwark of Champions  ^s+3
+tagZenith_Relic004_04=^kBulwark of Champions  ^s+4
+tagZenith_Relic004_05=^kBulwark of Champions  ^s+5
+tagZenith_Relic004_06=^kBulwark of Champions  ^s+6
+tagZenith_Relic004_07=^kBulwark of Champions  ^s+7
+tagZenith_Relic004_08=^kBulwark of Champions  ^s+8
+tagZenith_Relic004_09=^kBulwark of Champions  ^s+9
+tagZenith_Relic004_10=^kBulwark of Champions  ^s+10
+tagZenith_Relic004_DESC=^k"Honor"
+
+
+tagZenith_Relic004Skill=^kTo Arms!
+tagZenith_Relic004Skill_DESC=Raise your weapon high and lift your morale, ready yourself to flatten all who would stand before you.
+
+tagZenithBP_Relic005_00=Blueprint: ^gRiftstalker Protocol
+tagZenithBP_Relic005_01=Blueprint: ^gRiftstalker Protocol  ^s+1
+tagZenithBP_Relic005_02=Blueprint: ^gRiftstalker Protocol  ^s+2
+tagZenithBP_Relic005_03=Blueprint: ^gRiftstalker Protocol  ^s+3
+tagZenithBP_Relic005_04=Blueprint: ^gRiftstalker Protocol  ^s+4
+tagZenithBP_Relic005_05=Blueprint: ^gRiftstalker Protocol  ^s+5
+tagZenithBP_Relic005_06=Blueprint: ^gRiftstalker Protocol  ^s+6
+tagZenithBP_Relic005_07=Blueprint: ^gRiftstalker Protocol  ^s+7
+tagZenithBP_Relic005_08=Blueprint: ^gRiftstalker Protocol  ^s+8
+tagZenithBP_Relic005_09=Blueprint: ^gRiftstalker Protocol  ^s+9
+tagZenithBP_Relic005_10=Blueprint: ^gRiftstalker Protocol  ^s+10
+
+tagZenith_Relic005_00=^gRiftstalker Protocol
+tagZenith_Relic005_01=^gRiftstalker Protocol  ^s+1
+tagZenith_Relic005_02=^gRiftstalker Protocol  ^s+2
+tagZenith_Relic005_03=^gRiftstalker Protocol  ^s+3
+tagZenith_Relic005_04=^gRiftstalker Protocol  ^s+4
+tagZenith_Relic005_05=^gRiftstalker Protocol  ^s+5
+tagZenith_Relic005_06=^gRiftstalker Protocol  ^s+6
+tagZenith_Relic005_07=^gRiftstalker Protocol  ^s+7
+tagZenith_Relic005_08=^gRiftstalker Protocol  ^s+8
+tagZenith_Relic005_09=^gRiftstalker Protocol  ^s+9
+tagZenith_Relic005_10=^gRiftstalker Protocol  ^s+10
+tagZenith_Relic005_DESC=^g"Deception"
+
+tagZenith_Relic005Skill=^gParadox
+tagZenith_Relic005Skill_DESC=Create a rift that penetrates the barrier of time itself. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
+
+tagZenithBP_Relic006_00=Blueprint: ^mReaper Fragment: Necrotic
+tagZenithBP_Relic006_01=Blueprint: ^mReaper Fragment: Necrotic  ^s+1
+tagZenithBP_Relic006_02=Blueprint: ^mReaper Fragment: Necrotic  ^s+2
+tagZenithBP_Relic006_03=Blueprint: ^mReaper Fragment: Necrotic  ^s+3
+tagZenithBP_Relic006_04=Blueprint: ^mReaper Fragment: Necrotic  ^s+4
+tagZenithBP_Relic006_05=Blueprint: ^mReaper Fragment: Necrotic  ^s+5
+tagZenithBP_Relic006_06=Blueprint: ^mReaper Fragment: Necrotic  ^s+6
+tagZenithBP_Relic006_07=Blueprint: ^mReaper Fragment: Necrotic  ^s+7
+tagZenithBP_Relic006_08=Blueprint: ^mReaper Fragment: Necrotic  ^s+8
+tagZenithBP_Relic006_09=Blueprint: ^mReaper Fragment: Necrotic  ^s+9
+tagZenithBP_Relic006_10=Blueprint: ^mReaper Fragment: Necrotic  ^s+10
+
+tagZenith_Relic006_00=^mReaper Fragment: Necrotic
+tagZenith_Relic006_01=^mReaper Fragment: Necrotic  ^s+1
+tagZenith_Relic006_02=^mReaper Fragment: Necrotic  ^s+2
+tagZenith_Relic006_03=^mReaper Fragment: Necrotic  ^s+3
+tagZenith_Relic006_04=^mReaper Fragment: Necrotic  ^s+4
+tagZenith_Relic006_05=^mReaper Fragment: Necrotic  ^s+5
+tagZenith_Relic006_06=^mReaper Fragment: Necrotic  ^s+6
+tagZenith_Relic006_07=^mReaper Fragment: Necrotic  ^s+7
+tagZenith_Relic006_08=^mReaper Fragment: Necrotic  ^s+8
+tagZenith_Relic006_09=^mReaper Fragment: Necrotic  ^s+9
+tagZenith_Relic006_10=^mReaper Fragment: Necrotic  ^s+10
+tagZenith_Relic006_DESC=^m"Malevolence"
+
+tagZenith_Relic006Skill=^mNecrosion
+tagZenith_Relic006Skill_DESC=A horrific malaise erupts from the earth beneath your target, dousing nearby enemies in vile necrotic magic.
+
+tagZenithBP_Relic001_002=Blueprint: Combat Art: Warmages
+tagZenithBP_Relic001_003=Blueprint: Combat Art: Hell Hunters
+tagZenithBP_Relic001_004=Blueprint: Combat Art: Dreadnaughts
+tagZenithBP_Relic001_005=Blueprint: Combat Art: Desolators
+tagZenithBP_Relic001_006=Blueprint: Combat Art: Void Knights
+
+tagZenithBP_Relic002_001=Blueprint: Warmage Sorcery
+tagZenithBP_Relic002_003=Blueprint: Gunmage Sorcery
+tagZenithBP_Relic002_004=Blueprint: Archmage Sorcery
+tagZenithBP_Relic002_005=Blueprint: Subverter Sorcery
+tagZenithBP_Relic002_006=Blueprint: Sinner Sorcery
+
+tagZenithBP_Relic003_001=Blueprint: Stratagem of the Hell Hunter
+tagZenithBP_Relic003_002=Blueprint: Stratagem of the Gunmage
+tagZenithBP_Relic003_004=Blueprint: Stratagem of the Stalker
+tagZenithBP_Relic003_005=Blueprint: Stratagem of the Disruptor
+tagZenithBP_Relic003_006=Blueprint: Stratagem of the Vagabond
+
+tagZenithBP_Relic004_001=Blueprint: Bulwark of the Dreadnaught
+tagZenithBP_Relic004_002=Blueprint: Bulwark of the Archmage
+tagZenithBP_Relic004_003=Blueprint: Bulwark of the Stalker
+tagZenithBP_Relic004_005=Blueprint: Bulwark of the Skirmisher
+tagZenithBP_Relic004_006=Blueprint: Bulwark of the Judicator
+
+tagZenithBP_Relic005_001=Blueprint: Desolator Protocol
+tagZenithBP_Relic005_002=Blueprint: Subverter Protocol
+tagZenithBP_Relic005_003=Blueprint: Disruptor Protocol
+tagZenithBP_Relic005_004=Blueprint: Skirmisher Protocol
+tagZenithBP_Relic005_006=Blueprint: Pursuer Protocol
+
+tagZenithBP_Relic006_001=Blueprint: Reaper's Fragment - Void Knight
+tagZenithBP_Relic006_002=Blueprint: Reaper's Fragment - Sinner
+tagZenithBP_Relic006_003=Blueprint: Reaper's Fragment - Vagabond
+tagZenithBP_Relic006_004=Blueprint: Reaper's Fragment - Judicator
+tagZenithBP_Relic006_005=Blueprint: Reaper's Fragment - Pursuer
+
+tagZenith_Relic001_002=Combat Art: Warmages
+tagZenith_Relic001_002DESC=^ZTerror Knight + Evocator{^n}^wEvocators were not especially fond of martial combat, but that does not mean they were helpless if push came to shove.
+tagZenith_Relic001_003=Combat Art: Hell Hunters
+tagZenith_Relic001_003DESC=^ZTerror Knight + Outrider{^n}^wLimitless in their scope for finding and terminating their prey, Outriders were very much like Terror Knights. Those that pledged themselves to Lord Terror were able to decimate foes far and wide with extreme efficiency.
+tagZenith_Relic001_004=Combat Art: Dreadnaughts
+tagZenith_Relic001_004DESC=^ZTerror Knight + Champion{^n}^wChampions were deadly even under ordinary circumstances. Those that fell into Lord Terror's ranks were made ever more dangerous.
+tagZenith_Relic001_005=Combat Art: Desolators
+tagZenith_Relic001_005DESC=^ZTerror Knight + Riftstalker{^n}^wIntriguing that there exists a Riftstalker within Lord Terror's forces. Surely such a being would be a formidable foe on the battlefield, spouting hard-hitting attacks and improved defenses alike, all empowered by the void and Lord Terror himself. 
+tagZenith_Relic001_006=Combat Art: Void Knights
+tagZenith_Relic001_006DESC=^ZTerror Knight + the Necrotic{^n}^wThe best enemy is the one that dies quickest. The Necrotic was an expert at reducing even the sturdiest of enemies to frail shadows of their former selves. Lord Terror would have been proud.
+
+tagZenith_Relic002_001=Warmage Sorcery
+tagZenith_Relic002_001DESC=^ZEvocator + Terror Knight{^n}^wEvocators generally did not care to get their hands dirty directly, but their time entertaining the royal courts quickly taught them that combative experience was an importance part of opulence. 
+tagZenith_Relic002_003=Gunmage Sorcery
+tagZenith_Relic002_003DESC=^ZEvocator + Outrider^wStratagem and Sorcery combined, turn the arcane into weapons and tactics into magic.
+tagZenith_Relic002_004=Archmage Sorcery
+tagZenith_Relic002_004DESC=^ZEvocator + Champion{^n}^wI cannot say it would be wise to strike an Archmage. They undoubtedly have some trick up their sleeves in defending themselves with arcana magics. 
+tagZenith_Relic002_005=Subverter Sorcery
+tagZenith_Relic002_005DESC=^ZEvocator + Riftstalker{^n}^wBringing the powers of the planes down to more basic elements is a nontrivial task, but doable. Sure is a volatile process, though. 
+tagZenith_Relic002_006=Sinner Sorcery
+tagZenith_Relic002_006DESC=^ZEvocator + the Necrotic{^n}^wThe raw power one might acquire, beholden to the Necrotic, could taint the very nature of arcane sorceries, drawing them to vile effect.
+
+tagZenith_Relic003_001=Stratagem of the Hell Hunter
+tagZenith_Relic003_001DESC=^ZOutrider + Terror Knight{^n}^wTerror Knights were not atypical soldiers insofar as their combative tactics went. They knew that if an enemy were to hit you, you needed to hit back harder.
+tagZenith_Relic003_002=Stratagem of the Gunmage
+tagZenith_Relic003_002DESC=^ZOutrider + Evocator{^n}^wEvocators were always fantastic at taking what they had and making something more from it. Such a talent could manifest as either deception or mysticism, or even both.
+tagZenith_Relic003_004=Stratagem of the Stalker
+tagZenith_Relic003_004DESC=^ZOutrider + Champion{^n}^wTo be pursued by a Champion of Vallithel would have been a death sentence, as there would be little to prevent their arrival. Once you've been found, a swift justice would surely be executed.
+tagZenith_Relic003_005=Stratagem of the Disruptor
+tagZenith_Relic003_005DESC=^ZOutrider + Riftstalker{^n}^wMaintaing a battlefield advantage involved physically controlling the battlefield; Riftstalkers were innately good at that, but the expertise and tactics of Outriders surely helped out in that regard.
+tagZenith_Relic003_006=Stratagem of the Vagabond
+tagZenith_Relic003_006DESC=^ZOutrider + the Necrotic{^n}^wOverly saturated with the life force of others, the very fiber of the Necrotic is sour. Going near to it is not likely a wise idea.
+
+tagZenith_Relic004_001=Bulwark of the Dreadnaught
+tagZenith_Relic004_001DESC=
+tagZenith_Relic004_002=Bulwark of the Archmage
+tagZenith_Relic004_002DESC=
+tagZenith_Relic004_003=Bulwark of the Stalker
+tagZenith_Relic004_003DESC=
+tagZenith_Relic004_005=Bulwark of the Skirmisher
+tagZenith_Relic004_005DESC=
+tagZenith_Relic004_006=Bulwark of the Judicator
+tagZenith_Relic004_006DESC=
+
+tagZenith_Relic005_001=Desolator Protocol
+tagZenith_Relic005_001DESC=
+tagZenith_Relic005_002=Subverter Protocol
+tagZenith_Relic005_002DESC=
+tagZenith_Relic005_003=Disruptor Protocol
+tagZenith_Relic005_003DESC=
+tagZenith_Relic005_004=Skirmisher Protocol
+tagZenith_Relic005_004DESC=
+tagZenith_Relic005_006=Pursuer Protocol
+tagZenith_Relic005_006DESC=
+
+tagZenith_Relic006_001=Reaper's Fragment - Void Knight
+tagZenith_Relic006_001DESC=
+tagZenith_Relic006_002=Reaper's Fragment - Sinner
+tagZenith_Relic006_002DESC=
+tagZenith_Relic006_003=Reaper's Fragment - Vagabond
+tagZenith_Relic006_003DESC=
+tagZenith_Relic006_004=Reaper's Fragment - Judicator
+tagZenith_Relic006_004DESC=
+tagZenith_Relic006_005=Reaper's Fragment - Pursuer
+tagZenith_Relic006_005DESC=
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Zenith Affix Crafting
+~~~~~~~~~~~~~~~~~~~~~~~
+tagPrefixZE001=Terrorknight's
+tagPrefixZE002=Evocators
+tagPrefixZE003=Outrider's
+tagPrefixZE004=Champion's
+tagPrefixZE005=Riftstalker's
+tagPrefixZE006=Necrotic's
+tagPrefixZEB001=
+tagPrefixZEB002=
+tagPrefixZEB003=
+tagPrefixZEB004=
+tagPrefixZEB005=
+tagPrefixZEB006=
+
+tagCraftRandomZEStaff001=Zenith Acid Staff
+tagCraftRandomZEStaff002=Zenith Aether Staff
+tagCraftRandomZEStaff003=Zenith Chaos Staff
+tagCraftRandomZEStaff004=Zenith Vitality Staff
+tagCraftRandomZEStaff005=Zenith Fire Staff
+tagCraftRandomZEStaff006=Zenith Lightning Staff
+tagCraftRandomZEStaff007=Zenith Frost Staff
+
+tagCraftRandomZEImplement001=Zenith Vitality Implement
+tagCraftRandomZEImplement002=Zenith Aether Implement
+tagCraftRandomZEImplement003=Zenith Lightning Implement
+tagCraftRandomZEImplement004=Zenith Fire Implement
+tagCraftRandomZEImplement005=Zenith Chaos Implement
+tagCraftRandomZEImplement006=Zenith Cold Implement
+tagCraftRandomZEImplement007=Zenith Acid Implement
+
+tagCraftRandomZEFocus001=Zenith Focus
+tagCraftRandomZERing001=Zenith Loop
+tagCraftRandomZEAmulet001=Zenith Pendant
+tagCraftRandomZEMedal001=Zenith Medal
+tagCraftRandomZEBelt001=Zenith Belt
+tagCraftRandomZEHelm001=Zenith Helmet
+tagCraftRandomZEHelm002=Zenith Heavy Helmet
+tagCraftRandomZEHelm003=Zenith Caster Helmet
+tagCraftRandomZETorso001=Zenith Chest Armor
+tagCraftRandomZETorso002=Zenith Heavy Chest Armor
+tagCraftRandomZETorso003=Zenith Caster Chest Armor
+tagCraftRandomZELegs001=Zenith Heavy Legguards
+tagCraftRandomZELegs002=Zenith Leggings
+tagCraftRandomZEFeet001=Zenith Heavy Greaves
+tagCraftRandomZEFeet002=Zenith Greaves
+tagCraftRandomZEHands001=Zenith Heavy Gauntlets
+tagCraftRandomZEHands002=Zenith Gauntlets
+tagCraftRandomZEShoulders001=Zenith Heavy Shoulderplates
+tagCraftRandomZEShoulders002=Zenith Spaulders
+tagCraftRandomZEGun1H001=Zenith One-Handed Gun
+tagCraftRandomZEGun2H001=Zenith Two-Handed Crossbow
+tagCraftRandomZEGun2H002=Zenith Two-Handed Gun
+tagCraftRandomZEMelee1H001=Zenith One-Handed Melee Weapon
+tagCraftRandomZEMelee2H001=Zenith Two-Handed Melee Weapon
+
+tagZenithDescription=The blacksmith crafts an enchanted item appropriate to your level of magical or even rare quality, with a bonus chance of generating extremely rare items. Any Zenith item crafted has a guaranteed prefix of any random Zenith mastery.
+
+
