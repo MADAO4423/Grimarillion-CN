@@ -1,7 +1,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Version #
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-tagQuests=Active Quests (v094a)
+tagQuests=Active Quests (v095)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Difficulty Tags
@@ -404,7 +404,7 @@ tagGrimar_TutorialTip5TextO=^n^nAlongside these integral NPCs, you will also fin
 tagGrimar_TutorialTip5TextP=^n^n
 
 tagGrimar_TutorialTip6Title=∙Grimarillion Guide 004: Item Swapper
-tagGrimar_TutorialTip6TextA=^nIn the heart of the Personal Hideout, you will find a strange man and an even stranger device. Magnusson, the Artificer is able to some of the vanilla items and replace them with mod variants. There are several legendary items that are included in this, but primarily this includes Monster Infrequents. Better still - unlike Tendo, the Replica Smith, these MIs will not only be replaced with the variant, but they will retain all their affixes so you won't lose your perfectly affixed gear! When you swap a vanilla item into a D3 item, it becomes "Hellforged", a Darkest Dawn item becomes a "Replica", and a Priest item becomes "Reverent". See below for the lists of swappable items:
+tagGrimar_TutorialTip6TextA=^nIn the heart of the Personal Hideout, you will find a strange man and an even stranger device. Magnusson, the Artificer is able to some of the vanilla items and replace them with mod variants. There are several legendary items that are included in this, but primarily this includes Monster Infrequents. Better still - unlike Tendo, the Replica Smith, these MIs will not only be replaced with the variant, but they will retain all their affixes so you won't lose your perfectly affixed gear! When you swap a vanilla item into a D3 item, it becomes "Hellforged", a Darkest Dawn item becomes a "Replica", a Priest item becomes "Reverent", and a SwampMod item becomes "Vineforged". See below for the lists of swappable items:
 
 tagGrimar_TutorialTip6SubtitleB=^n^nDarkest Dawn Swaps:
 tagGrimar_TutorialTip6TextB=^nAbaddoth's Sermons^nAlkamos' Warsword^nAscendant Authority^nAscendant Cowl^nAscendant Source^nAscended Casque^nAscended Diadem^nBalegor's Crusher^nBarthollem's Gavel^nBasilisk Crest^nBlaze Herald^nBloodfeast's Mark^nBloodlord's Blade^nBloodsworn Codex^nBloodsworn Repeater^nBloodsworn Scepter^nBloodsworn Sigil^nBolvar's Pendant^nBonespike^nBound Wraith^nChillblood's Carcass^nChosen Mask^nColossal Defender^nCompelled Wraith^nCrimson's Arcane Scepter^nDeath-Watcher Pendant^nDeath's Whisper Hood^nEllena's Necklace^nFleshwarped Codex^nGaleslice's Mark^nGargoyle Gaze^nGargoyle Visage^nGaze of Ungoliax^nGroble Sand Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nGroble Toxic Effigy^nGroble Vile Effigy^nGrundleplith's Tail^nGulgazor's Heart^nGutworm's Mark^nHalion's Crest^nIlgorr's Eternal Vigil^nIncendiary Casque^nKorvan Gaze^nKorvan Reaping Halberd^nKorvan Storm Halberd^nKymon's Badge^nKyzogg's Skull^nLagoth'Ak's Bloodbinding^nLagoth'Ak's Voidbinding^nLucius Blade-Arm^nMagi Visage^nMark of Nacrathan^nMark of Plagius^nMartin's Crest^nNamadea's Eye^nNamadea's Horns^nNight Herald^nObsidian Defender^nPackla's Skins^nPackla's Visage^nPulsing Shard^nPutrid Necklace^nRag'Nadar's Maw^nRagrathar's Horn^nRavna's Claw^nRolderathis' Tome^nRonaprax's Sting^nRutnick's Blaster^nRylok Mark^nScorpius Pummeler^nSegarius' Tainted Blade^nSlathsarr's Crest^nSpectral Arbalest^nSpectral Battle Axe^nSpectral Bludgeon^nSpectral War Shield^nSpectral Warmaul^nStorm Herald^nTerrnox's Aether Tome^nUgdenbog Bilelauncher^nUgdenbog Boltthrower^nUgdenbog Chillstrife^nUgdenbog Flamestrife^nUgdenbog Howler^nUgdenbog Sparkthrower^nUgdenbog Venom Launcher^nUlraprax's Sting^nVampiric Bonewall^nVilgazor's Heart^nViper Hemorrhager^nWarden's Judgment^nWendigo Eye^nWradlith's Bulwark^nZaria's Pendant
@@ -415,7 +415,8 @@ tagGrimar_TutorialTip6TextC=^nAbaddoth's Sermons^nAetherscorched Cleaver^nAlkamo
 tagGrimar_TutorialTip6SubtitleD=^n^nPriest Swaps:
 tagGrimar_TutorialTip6TextD=^nAlkamos' Scythe^nAlkamos' Warsword^nAscendant Hood^nAscendant Source^nAscended Diadem^nBlaze Herald^nBloodsworn Scepter^nChosen Mask^nCoerced Wraith^nCrimson's Arcane Scepter^nDeath-Watcher Pendant^nDeath's Whisper Hood^nFleshwarped Codex^nFleshwarped Tome^nGaze of Ungoliax^nGroble Ember Effigy^nGroble Sky Effigy^nGroble Stone Effigy^nIlgorr's Eternal Vigil^nKorvaak's Storm-Blade^nKorvan Helm^nKymon's Sanctified Blade^nMalkadarr's Dreadblade^nMartin's Crest^nNight Herald^nOverseer Eye^nPulsing Shard^nRolderathis' Tome^nSegarius' Sacred Blade^nSkybreaker Circlet^nSlathsarr's Crest^nSpectral Arbalest^nSpectral Longsword^nSpectral Warmaul^nStorm Herald^nUgdenbog Arcaneweaver^nUlraprax's Sting^nWendigo Eye^nZarthuzellan's Codex
 
-
+tagGrimar_TutorialTip6SubtitleE=^n^nSwampMod Swaps:
+tagGrimar_TutorialTip6TextE=^nAbaddoth's Sermons^nBloodlord's Vengeance^nFleshwarped Bulwark^nGargoyle Girdle^nGroble Sand Effigy^nGroble Toxic Effigy^nKorvan Burning Halberd^nKorvan Eldritch Halberd^nKorvan Reaping Halberd^nKorvan Storm Halberd^nKyzogg's Skull^nNaren Kur's Blade^nRift Scourge Slicer^nRolderathis' Tome^nRutnick's Blaster^nServitor's Slicer^nSteward's Halberd^nWendigo Barb^nWendigo Claw
 
 tagGrimar_TutorialTip7Title=∙Grimarillion Guide 006: SR Modifications
 tagGrimar_TutorialTip7TextA=^nGrimarillion at it's heart, is an expansion of Grim Dawn and intends to give freedom where possible. The Shattered Realm is no exception, and ASYLUM101 did what he could to open this mode up a little. When you speak to Mazaan to delve into the Shattered Realm, you have two new options if you play Grimarillion. You can use a Loot Stone, or an Arena Stone. These two stones will replace the existing Shattered Realm with a new one that is *slightly* different.
@@ -581,3 +582,5 @@ tagGrimarTutorialQuickTip13=_Grimarillion: Third Party Stuff
 tagGrimarTutorialQuickTip14=_Grimarillion: Faction Goods Info
 tagGrimarTutorialQuickTip15=_Grimarillion: Runewords
 
+tagGrimarBerserkerTitle=(Unavailable)
+tagGrimarBerserkerDesc=Upcoming class included in Fangs of Asterkarn DLC. Do not click this button - the class isn't here, it will just give Demon Hunter mastery instead.

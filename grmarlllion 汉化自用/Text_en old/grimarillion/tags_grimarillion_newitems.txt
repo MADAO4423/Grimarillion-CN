@@ -503,10 +503,17 @@ tagBossLootToggleOFF=Arena and Loot Waystone deactivated!
 
 tagGrimarillionConvertCurrency_Coin01=Trade Souls for Electrum Coin
 tagGrimarillionConvertCurrency_Coin02=Trade Zenitham for Electrum Coin
+tagGrimarillionConvertCurrency_Coin03=Trade Thread of Reality for Electrum Coin
 tagGrimarillionConvertCurrency_Soul01=Trade Coins for Forgotten Soul
 tagGrimarillionConvertCurrency_Soul02=Trade Zenitham for Forgotten Soul
+tagGrimarillionConvertCurrency_Soul03=Trade Thread of Reality for Forgotten Soul
 tagGrimarillionConvertCurrency_Zeni01=Trade Coins for Zenitham
 tagGrimarillionConvertCurrency_Zeni02=Trade Souls for Zenitham
+tagGrimarillionConvertCurrency_Zeni03=Trade Thread of Reality for Zenitham
+tagGrimarillionConvertCurrency_Thread01=Trade Souls for Thread of Reality
+tagGrimarillionConvertCurrency_Thread02=Trade Zenitham for Thread of Reality
+tagGrimarillionConvertCurrency_Thread03=Trade Coins  of Reality for Thread of Reality
+
 tagGrimarillionConvertCurrency_Desc=A hefty cost for this conversion, make sure this is what you want! You better really need this!
 
 tagConverterNPC001=Mercedes
@@ -520,3 +527,5 @@ tagD3RuneChest=Runic Container
 
 tagGrimarConstitutionC=Mythical Echo
 tagGrimarConstitutionCDesc=The echo of a powerful soul that can be absorbed to restore constitution and some health.
+
+tagGrimarConstitutionC2=Shattered Echo

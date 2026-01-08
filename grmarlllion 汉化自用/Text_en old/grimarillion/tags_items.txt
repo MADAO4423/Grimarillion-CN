@@ -297,7 +297,11 @@ tagKanaiD3133=Kanai's Cube: Reverent
 tagKanaiD3134=Kanai's Cube: Vendetta
 tagKanaiD3135=Kanai's Cube: Castellatia
 tagKanaiD3136=Kanai's Cube: Chantodo
-
+tagKanaiD3137=Kanai's Cube: Atlantium
+tagKanaiD3138=Kanai's Cube: Windweaver
+tagKanaiD3139=Kanai's Cube: Windwaker
+tagKanaiD3140=Kanai's Cube: Seabreeze
+tagKanaiD3141=Kanai's Cube: Currents
 
 tagSwordD301={^I}Fate of the Fell
 tagSwordD302={^I}Blightwave Blade
@@ -380,6 +384,13 @@ tagSwordD343={^I}Won Khim Lau
 tagSwordD343Desc=Directs the wayward's gaze to the heavens that he may benefit from the glory of the gods.
 tagSwordD344={^I}Sever
 tagSwordD344Desc=Jayesh smiled to himself. He had never seen a blade so perfectly suited for dismembering demons.
+tagSwordD345={^I}Atlantium
+tagSwordD345Desc=Many sailors used to tell stories about a sword that was forged in the heart of a realm hidden under the deep ocean. But they didn't know those were not just stories.
+tagSwordD346={^I}Windweaver
+tagSwordD346Desc=This sword was built with the same objective the sail of a ship has: to use the wind in your favor.
+
+
+MACES
 
 tagMaceD301={^B}Fist of Az'Turrasq 
 tagMaceD302={^I}Torch of the Grand Temple
@@ -509,6 +520,8 @@ tagBootsD317={^B}Board Walkers
 tagBootsD318={^I}Boots of Disregard
 tagBootsD319={^B}Fire Walkers
 tagBootsD320={^I}Voidstrider's Greaves
+tagBootsD321={^I}Seafarer's Walkers
+tagBootsD321Desc="Pelghain's appetite for trade saw their early expansion welcomed in the far lands on the coasts near Arreat, where the empire's rebuke by the Children of Bul-Kathos was swift and total." -Pavats Bimmi, "Offspring of the Frozen Sea"
 
 
 
@@ -633,6 +646,10 @@ tagShouldersD334=(S) {^I}Mirrors of Justice
 tagShouldersD335={^I}Fernam's Birthmantle
 tagShouldersD335Desc=The founder of the blood knights entrusted his birthmantle, stained in the blood of dozens of vampires, to the order before his disappearance, Wearing it outside of a chapterhouse is an affront, but these are dire times.
 tagShouldersD336=(S) {^I}Crimson Realm's Shoulderguards
+tagShouldersD337={^I}Depthsdrawn Mantle
+tagShouldersD337Desc=It is a rite of passage for aspiring tempests to wade into a riptide until they are dragged down, holding on to a lone blade to demonstrate their calm in the face of death.
+tagShouldersD338={^I}Frozen Tundra's Shoulderguards
+tagShouldersD339={^I}Pauldrons of the High Seas
 
 
 
@@ -725,6 +742,9 @@ tagHandsD359={^B}Stone Gauntlets
 tagHandsD359Desc=Heavy. Stone. Brutal.
 tagHandsD360={^I}Rootvein Gauntlets
 tagHandsD361=(S) {^I}Crimson Realm's Handguards
+tagHandsD362={^I}Seabreeze's Touch
+tagHandsD363=(S) {^I}Touch of the High Seas
+
 
 
 tagTorsoD301=(S) {^I}The Shadow's Bane
@@ -787,6 +807,11 @@ tagTorsoD348Desc="Being near death tends to focus the mind." -Shi Mizu, Warrior-
 tagTorsoD349={^B}Goldskin Breastplate
 tagTorsoD350={^I}Chiropteran Chestguard
 tagTorsoD351=(S) {^I}Crimson Realm's Hauberk
+tagTorsoD352={^I}Zephyrguard Armor
+tagTorsoD352Desc=Upon the isles, it is common for those guilty of capital crimes to face atonement by drowning in brackish water. Some tempests dress in the garb of the condemned to remind themselves that they are forever bound to exile.
+tagTorsoD353={^I}Galedancer's Coat
+tagTorsoD353Desc=Ksathra taught the people of tide-lost Pelghain to sail and fight in the bladedancing style. Yet war and travel together always beget expansion.
+tagTorsoD354=Raiment of the High Seas
 
 
 tagHeadD301=(S) {^I}The Shadow's Mask
@@ -865,6 +890,13 @@ tagHeadD354Desc=Seeing their enemies flayed serves only to fuel the thirst for r
 tagHeadD355={^I}Horns of the Hexed
 tagHeadD355Desc=The gnarled horns serve as a blood knight's last resort in battle. While they appear delicate, they're able to repeatedly gore enemies without snapping.
 tagHeadD356=(S) {^I}Crimson Realm's Gaze
+tagHeadD357={^I}Windwaker's Hood
+tagHeadD357Desc="Tempests must to control themselves as they control the wind. To your allies, be gentle as a breeze. To your enemies, be relentless as a hurricane." - Delanor Windwaker.
+tagHeadD358=(S) {^I}Cowl of the High Seas
+tagHeadD359={^I}Grin Reaper's Cowl
+tagHeadD359Desc=Death wears many faces.{^n}{^n}{^b}Unique: {^o}There is no Kanai's Relic available for this item.{^n} 
+
+
 
 
 tagLegsD301=(S) {^I}Jade Harvester's Courage
@@ -884,6 +916,10 @@ tagLegsD312Desc=Walk as though you are one with the night.
 tagLegsD313={^B}Augustine's Legguards
 tagLegsD313Desc=The demon hunter Augustine liked to use the right projectile for every occasion.
 tagLegsD314={^I}Nightflayer's Legguards
+tagLegsD315={^I}Waverider's Leggings
+tagLegsD315Desc=A wave that breaks on shore without disaster is a good omen, often described as "the sea remembering how to dance."
+tagLegsD316={^I}Mistweaver's Legwraps
+
 
 
 tagCraftedD301={^I}Rydraelm's Robes
@@ -1079,6 +1115,9 @@ tagItemSetD330Desc="Great power festers within demon skulls. Wear them close to 
 tagItemSetD331=Armor of the Crimson Realm
 tagItemSetD331Desc=Armor forged from obsidian shards imbued with void energy, which can only be found in the depths of the underworld.
 
+tagItemSetD332=Mantle of the High Seas
+tagItemSetD332Desc=To rule the wind is to feel your spirit stretch beyond what your eyes can see. To rule the waves is to feel yourself standing upon a throne miles high. To rule them together is to begin your understanding of empire.
+
 
 
 
@@ -1223,6 +1262,8 @@ tagNecklaceD324=(S) {^I}Crimson Realm's Shard
 tagNecklaceD325={^L}Azmodan's Blazing Essence
 tagNecklaceD325Desc=Essence of Azmodan, the Lord of Sin, the last of the Great Evils to be trapped in the Black Soulstone.
 tagNecklaceD326={^L}Succubus' Pendant
+tagNecklaceD327=Amulet of Endless Currents
+tagNecklaceD328=(S) {^I}Pendant of the High Seas
 
 
 MEDALS
@@ -2021,7 +2062,26 @@ tagRunewordD304=^c"MoniVex"
 tagRunewordD304Desc=^wDemon Hunter gains the ^iShared Burden ^wrune effect.
 
 tagRunewordD305=^c"KaaLac"
-tagRunewordD305Desc=^bConsistent Demolition: ^wCluster Arrow now pierces through enemies and have 33% chance to reset its cooldown.
+tagRunewordD305Desc=^yConsistent Demolition: ^wCluster Arrow now pierces through enemies and have 33% chance to reset its cooldown.
+
+tagRunewordD306=^c"ZanQax"
+tagRunewordD306Desc=^wDemon Hunter gains the ^cArtillerist ^wrune effect.
+
+tagRunewordD306b=^c"ZanQax" (Enhanced)
+tagRunewordD306bDesc=^wDemon Hunter gains the enhanced version of the ^cArtillerist ^wrune effect.
+
+tagRunewordD307=^c"CirTun"
+tagRunewordD307Desc=^wBlood Knight gains the ^rObsidian March ^wrune effect.
+
+tagRunewordD307b=^c"CirTun" (Enhanced)
+tagRunewordD307bDesc=^wBlood Knight gains the ^rObsidian March (Enhanced) ^wrune effect.
+
+
+tagRunewordD308=^c"MoniXan"
+tagRunewordD308Desc=^wBlood Knight gains the ^rEye of the Void ^wrune effect. 
+
+tagRunewordD308b=^c"MoniXan" (Enhanced)
+tagRunewordD308bDesc=^wBlood Knight gains the ^rEye of the Void (Enhanced) ^wrune effect.
 
 tagRunewordD309=^c"BacTal"
 tagRunewordD309Desc=^wBlood Knight gains the ^rBloodline's Pride ^wrune effect.
@@ -2122,6 +2182,10 @@ tagRunewordD328Desc=^wWizard gains the ^bAbsolute Zero ^wrune effect.
 tagRunewordD329=^c"NeoTec"
 tagRunewordD329Desc=^wWizard gains the ^pShort Circuit ^wrune effect.
 
+tagRunewordD329b=^c"NeoTec" (Enhanced)
+tagRunewordD329bDesc=^wWizard gains the ^pShort Circuit (Enhanced) ^wrune effect.
+
+
 tagRunewordD330=^c"NocYom"
 tagRunewordD330Desc=^wWizard gains the ^bStone Cold ^wrune effect.
 
@@ -2143,12 +2207,145 @@ tagRunewordD335Desc=^yHeaven on Earth: ^kHeaven's Fury ^wnow binds enemies with 
 tagRunewordD336=^c"AhuQax"
 tagRunewordD336Desc=^wMonk gains the ^bPatience Is For The Weak ^wrune effect.
 
+tagRunewordD337=^c"FeoYom"
+tagRunewordD337Desc=^wDemon Hunter gains the ^oApex Predator ^wrune effect.
+
+tagRunewordD338=^c"NeoWat"
+tagRunewordD338Desc=^wDemon Hunter gains the ^pSmoke Traps ^wrune effect.
+
+tagRunewordD338b=^c"NeoWat" (Enhanced)
+tagRunewordD338bDesc=^wDemon Hunter gains the enhanced version of the ^pSmoke Traps ^wrune effect.
+
+tagRunewordD339=^c"XolTec"
+tagRunewordD339Desc=^wDemon Hunter gains the ^iShadow Trap ^wrune effect.
+
+tagRunewordD339b=^c"XolTec" (Enhanced)
+tagRunewordD339bDesc=^wDemon Hunter gains the enhanced version of the ^iShadow Trap ^wrune effect.
+
+tagRunewordD340=^c"BacEom"
+tagRunewordD340Desc=^wBarbarian gains the ^oPath of Destruction ^wrune effect.
+
+tagRunewordD340b=^c"BacEom" (Transmutation)
+tagRunewordD340bDesc=^wThe ^oMeteors ^wfrom the ^oPath of Destruction ^wrune effect turn into ^bComets.
+
+tagRunewordD340c=^c"BacEom" (Enhanced)
+tagRunewordD340cDesc=^wBarbarian gains the ^oPath of Destruction ^wrune effect with additional damage.
+
+tagRunewordD340d=^c"BacEom" (Transmutation) (Enhanced)
+tagRunewordD340dDesc=^wThe ^oMeteors ^wfrom the ^oPath of Destruction ^wrune effect turns into ^bComets ^wwith additional damage.
+
+tagRunewordD341=^c"CemYom"
+tagRunewordD341Desc=^wBarbarian gains the ^rBlood Pact ^wrune effect.
+
+tagRunewordD342=^c"YaxMot"
+tagRunewordD342Desc=^wBarbarian gains the ^rFields of Crimson ^wrune effect.
+
+tagRunewordD343=^c"YulVex"
+tagRunewordD343Desc=^wCrusader gains the ^cShattering Arrival ^wrune effect.
+
+tagRunewordD343b=^c"YulVex" (Enhanced)
+tagRunewordD343bDesc=^cShattering Arrival ^wnow casts Bounding Light (Level 12).
+
+tagRunewordD344=^c"PocXan"
+tagRunewordD344Desc=^wCrusader gains the ^kBound to Holiness ^wrune effect.
+
+tagRunewordD345=^c"TamLum"
+tagRunewordD345Desc=^wCrusader gains the ^cStormbreaker ^wrune effect.
+
+tagRunewordD345b=^c"TamLum" (Enhanced)
+tagRunewordD345bDesc=^wCrusader gains the ^cStormbreaker (Enhanced) ^wrune effect.
+
+tagRunewordD346=^c"FeoXal"
+tagRunewordD346Desc=^wMonk gains the ^cSpeedrunner ^wrune effect.
+
+tagRunewordD346b=^c"FeoXal" (Enhanced)
+tagRunewordD346bDesc=^wDamage dealt by the ^cswirling sparks ^wis increased.
+
+tagRunewordD347=^c"LithGar"
+tagRunewordD347Desc=^wMonk gains the ^cReverberance ^wrune effect.
+
+tagRunewordD347b=^c"LithGar (Transmutation)"
+tagRunewordD347bDesc=^cReverberance ^wnow deals ^kholy ^wdamage.
+
+tagRunewordD347c=^c"LithGar" (Enhanced)
+tagRunewordD347cDesc=^cReverberance ^wnow casts Wave of Light (Level 9).
+
+tagRunewordD347d=^c"LithGar (Transmutation) (Enhanced)"
+tagRunewordD347dDesc=^cReverberance ^wnow casts Wave of Light (Level 9) and deals ^kholy ^wdamage.
+
+tagRunewordD348=^c"BacKry"
+tagRunewordD348Desc=^wMonk gains the ^kTitanbreaker ^wrune effect.
+
+tagRunewordD349=^c"MoniMot"
+tagRunewordD349Desc=^wNecromancer gains the ^rBloodseeker ^wrune effect.
+
+tagRunewordD350=^c"KaaQax"
+tagRunewordD350Desc=^wNecromancer gains the ^hBone Prison ^wrune effect.
+
+tagRunewordD351=^c"NeoLac"
+tagRunewordD351Desc=^wNecromancer gains the ^tBonewaker ^wrune effect.
+
+tagRunewordD352=^c"NocLum"
+tagRunewordD352Desc=^yRequiem Ultimatum: ^tFinal Service ^wnow grants you guaranteed chance to perform critical attacks, and has 20% chance to have its cooldown restored. However, it also reduces critical damage by 30%.
+
+tagRunewordD353=^c"PocTal"
+tagRunewordD353Desc=^yBlood Harvest: ^tDark Reaping ^wnow restores 20% of your health every second and increases healing effects by 15%. However, you no longer can use health potions.
+
+tagRunewordD354=^c"TamEom"
+tagRunewordD354Desc=^wWitch Doctor gains the ^cEnergy Hunger ^wrune effect.
+
+tagRunewordD355=^c"CirThul"
+tagRunewordD355Desc=^wWitch Doctor gains the ^rFull-blooded ^wrune effect.
+
+tagRunewordD356=^c"YaxQax"
+tagRunewordD356Desc=^yFire Walk With Me: ^wThe resistance reduction applied by Surrounded by Death, from the ^oFire Wall ^wskill, now is also applied to foes that just pass through the burning wall, lasting for 8 seconds. Enemies standing on Fire Wall will receive double resistance reduction.
+
+tagRunewordD357=^c"XolNer"
+tagRunewordD357Desc=^yHead Hunters: ^gZombie Dogs ^wand ^pGargantuan ^wgain 100% chance to perform critical attacks for 3 seconds after being summoned.
+
+tagRunewordD358=^c"YulGar"
+tagRunewordD358Desc=^wWizard gains the ^cStormbender ^wrune effect.
+
+tagRunewordD359=^c"ZanLac"
+tagRunewordD359Desc=^wWizard gains the ^bIceberg ^wrune effect.
+
+tagRunewordD360=^c"AhuEom"
+tagRunewordD360Desc=^wWizard gains the ^bEnergize ^wrune effect.
+
+tagRunewordD361=^c"NocWat"
+tagRunewordD361Desc=^wBlood Knight gains the ^rHemolysis ^wrune effect.
+
+tagRunewordD362=^c"YaxVex"
+tagRunewordD362Desc=^wTempest gains the ^bDust Devil ^wrune effect.
+
+tagRunewordD362b=^c"YaxVex" (Enhanced)
+tagRunewordD362bDesc=^wTempest gains the ^bDust Devil (Enhanced) ^wrune effect.
+
+tagRunewordD363=^c"AhuThul"
+tagRunewordD363Desc=^wTempest gains the ^bSquall ^wrune effect.
+
+tagRunewordD363b=^c"AhuThul" (Enhanced)
+tagRunewordD363bDesc=^wTempest gains the ^bSquall (Enhanced) ^wrune effect.
+
+tagRunewordD364=^c"BacLum"
+tagRunewordD364Desc=^wTempest gains the ^bWaterspout ^wrune effect.
+
+tagRunewordD364b=^c"BacLum" (Enhanced)
+tagRunewordD364bDesc=^wTempest gains the ^bWaterspout (Enhanced) ^wrune effect.
 
 
-tagGDX1HeadD129=Crimson King's Visage
-tagGDX1ShoulderD126=Crimson King's Scrolls
-tagGDX1TorsoD126=Crimson King's Armor
-tagGDX1NecklaceD125=Crimson King's Pendant
-tagGDX1Blueprint_ArmorD170=Blueprint=Crimson King's Visage
+
+
+
+
+
+
+
+
+tagGDX1HeadD129=(S) {^I}Crimson King's Visage
+tagGDX1ShoulderD126=(S) {^I}Crimson King's Scrolls
+tagGDX1TorsoD126=(S) {^I}Crimson King's Armor
+tagGDX1NecklaceD125=(S) {^I}Crimson King's Pendant
+tagGDX1Blueprint_ArmorD170=Blueprint=(S) {^I}Crimson King's Visage
 tagGDX1ItemSetD123Name=The Crimson King
 tagGDX1ItemSetD123Desc="The bloodied armor of Lord Nazaran, a former sanguinary knight who became the King in Crimson."

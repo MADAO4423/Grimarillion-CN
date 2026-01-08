@@ -22,17 +22,17 @@ tagClassName09=Dream
 tagClassName10=Runes
 tagClassName11=Neidan
 //solo classes//
-tagSkillClassName22=Defender
-tagSkillClassName23=[ms]Hunter[fs]Huntress
-tagSkillClassName24=Theurgist
-tagSkillClassName25=Warrior
-tagSkillClassName26=Wanderer
-tagSkillClassName27=Rogue
-tagSkillClassName28=Geomancer
-tagSkillClassName29=Stormcaller
-tagSkillClassName30=Auspex
-tagSkillClassName32=Runemaster
-tagSkillClassName33=Neidan
+tagSkillClassName22=TQ Defender
+tagSkillClassName23=[ms]TQ Hunter[fs]TQ Huntress
+tagSkillClassName24=TQ Theurgist
+tagSkillClassName25=TQ Warrior
+tagSkillClassName26=TQ Wanderer
+tagSkillClassName27=TQ Rogue
+tagSkillClassName28=TQ Pyromancer
+tagSkillClassName29=TQ Stormcaller
+tagSkillClassName30=TQ Seer
+tagSkillClassName32=TQ Runemaster
+tagSkillClassName33=TQ Neidan
 
 #Grim Quest Class Descriptions
 tagSkillClassDescription_TQ01=The Defender specializes in surviving battles but offers little in the way of offensive enhancements.  Many skills focus on utilizing the shield to deflect attacks and disable enemies. ^n^sAdapted by Asylum101 for the Grim Quest Mod
@@ -55,7 +55,7 @@ tagSkillDescription116=Provides the fortitude and strength to master skills for 
 tagSkillName133=Spectral Bulwark
 tagSkillDescription133=^b[Spell] [Orbital] [Timed]^n^n^wSummons a spectral weapon that twirls around the caster. Enemies can be hit by this projectile more than once, and have their attacks slowed for a short duration when hit. ^oEach projectile lasts 5 seconds, and up to 10 can be maintained.
 tagSkillName134=Rend Armor
-tagSkillDescription134=^b[Modifier]^n^n^wIncreases the effectiveness of Spectral Bulwark causing it to hit with enough force to reduce physical resistance.
+tagSkillDescription134=^b[Modifier]^n^n^wIncreases the effectiveness of Spectral Bulwark causing it to hit with enough force to smash through armor.
 tagSkillName203=Concussive Blow
 tagSkillDescription203=^b[Modifier]^n^n^wAdds a chance to stun enemies and increases the damage dealt.
 tagOrbitShieldBNAME=Wild Throw
@@ -76,7 +76,7 @@ tagSkillName129=Gorgoneion
 tagSkillDescription129=^b[Secondary Modifier] [AOE]^n^n^wThe Elysian Aegis becomes empowered by the Gorgoneion, an ancient symbol which proudly displays the head of Medusa and serves as a protective charm. Each impact of the Aegis triggers creates a shockwave which causes damage and stuns enemies in a radius. ^oThis radius only deals the damage listed in this tooltip, and does not include the base damage of Elysian Aegis.
 
 tagSkillName117=Adrenaline
-tagSkillDescription117=^b[Buff] [Timed] [HP Threshold] ^n^n^wEach enemy hit has a chance of triggering an adrenaline rush that boosts life regeneration.
+tagSkillDescription117=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wEach enemy hit has a chance of triggering an adrenaline rush that boosts life regeneration.
 
 tagSkillName121=Armor Handling
 tagSkillDescription121=^b[Passive]^n^n^wUnderstanding how to properly adjust and move in armor allows you to wear heavier armor and shields than an untrained warrior of equivalent strength could manage.
@@ -124,7 +124,7 @@ tagIntimidateBNAME=Blind Rage
 tagIntimidateBDESC=^b[Transmuter]^n^n^wFoes affected by Spite are so infuriated by your intimidation that they will attack wildly, exposing even greater weakspots.
 
 tagColossus3NAME=Unyielding Phalanx
-tagColossus3DESC=^b[Player Scaled Pet] [Wall]^n^n^wSummon the shades of fallen comrades to form a line with you once more, engaging any enemy that dares to approach. The shades will shield bash enemies who come too close, knocking them back, and will occasionally pulverize the earth, causing trauma to more distant enemies. ^oUnyielding Phalanx summons up to 5 Elysian Soldiers depending on the space they are summoned in, less will be summoned in tight quarters. The Elysian Soldiers scale with player damage.
+tagColossus3DESC=^b[Player Scaled Pet] [Wall]^n^n^wSummon the shades of fallen comrades to form a line with you once more, engaging any enemy that dares to approach. The shades will shield bash enemies who come too close, knocking them back, and will occasionally pulverize the earth, causing trauma to more distant enemies. ^oUnyielding Phalanx summons up to 8 Elysian Soldiers depending on skill rank and the space they are summoned in, less will be summoned in tight quarters. The Elysian Soldiers scale with player damage.
 tagFrontlineSpectreNAME=Elysian Soldier
 tagPhalanxPetSkillName01=Phalanx Attack
 tagPhalanxPetSkillName02=Elysian Slam
@@ -141,10 +141,10 @@ tagDefenseEx2DESC=^b[Exclusive] [AOE] [Buff]^n^n^wAthena was a warrior goddess, 
 tagSkillName076=Hunting Mastery
 tagSkillDescription076=Imparts the predatory spirit and cunning necessary to learn the arts of hunting.
 
-tagSkillName081=Snare Trap
+tagSkillName081=Ensnare
 tagSkillDescription081=^b[AOE] [Timed] [Debuff]^n^n^wTraps an enemy in a hooked net. Nearby enemies are also trapped. A trapped enemy cannot move but they can still attack.
-tagSkillName078=Shackled
-tagSkillDescription078=^b[Secondary Modifier] [Tether]^n^n^wThe heavy net used to ensnare enemies is now bound to you. After casting the skill, a chain tethers you to your target. Your target and any other enemies who pass through the chain are slowed and take damage.
+tagSkillName078=Barbed Netting
+tagSkillDescription078=^b[Modifier]^n^n^wBarbed hooks on the net tear into enemies as they struggle, causing them to bleed. 
 
 tagSkillName089=Take Down
 tagSkillDescription089=^b[Spell] [Movement]^n^n^wA brutal thrust from your weapon delivers devastating piercing damage to enemies and diminishes a portion of your enemy's total life. ^oRequires a melee weapon.//spear.
@@ -180,14 +180,14 @@ tagSpearTempestNAME=Whirling Tempest
 tagSpearTempestDESC=^b[Spell] [Nova]^n^o[Melee]^n^n^wSweep the area around you with your melee weapon, striking multiple enemies. ^o Requires a melee weapon.
 tagStormStrikeNAME=Storm Strike
 tagStormStrikeDESC=^b[Modifier]^n^n^wThe air crackles with storm magic as you whirl it around, causing lightning damage to those struck.
-tagTempestBNAME=Rampage
-tagTempestBDESC=^b[Transmuter]^n^n^wBlessed by Apollo's great flames, Whirling Tempest is imbued with the power of the Sun.
+tagTempestBNAME=Reckless Sweep
+tagTempestBDESC=^b[Transmuter]^n^n^wPut forth maximum effort into your attack, causing devastating damage at the cost of increased resources and cooldown.
 
 tagSkillName079=Call of the Hunt
-tagSkillDescription079=^b[Timed] [Buff]^n^o[On Crit]^n^n^wUpon landing a ^ocritical^w strike, the hunter answers the call of the hunt and surges with increased strength and cunning. //Those who answer the call of the hunt will fight with increased speed and cunning.
+tagSkillDescription079=^b[Timed] [Buff] [Delayed Cooldown]^n^o[On Crit]^n^n^wUpon landing a ^ocritical^w strike, the hunter answers the call of the hunt and surges with increased strength and cunning. //Those who answer the call of the hunt will fight with increased speed and cunning.
 
 tagSkillName097=Monster Lure
-tagSkillDescription097=^b[Player Scaled Pet] [Taunt]^n^n^wDrops down a decoy to attract the attention of nearby monsters. For a short duration after being placed, the decoy is protected by heavy armor. Once enemies come close enough a mechanism triggers a time bomb causing the lure to explode sending flaming debris flying in every diretion.^o The lure scales with player damage bonuses.
+tagSkillDescription097=^b[Player Scaled Pet] [Taunt]^n^n^wDrops down a decoy to attract the attention of nearby monsters with a provocation aura and a disorienting blast when summoned. The lure is invulnerable until an enemy attacks it, then a countdown will begin until detonation. ^o The lure scales with player damage bonuses.
 tagSkillName193=Detonate
 tagSkillDescription193=Adds a hidden explosive charge to the monster lure causing it to detonate when destroyed.  In order to detonate the lure must be at full energy.
 tagGQPetSkill01=Barbed Construction
@@ -215,11 +215,12 @@ tagSerpentStrikeDESC=^b[Weapon Pool Skill]^n^o[Spear] [Ranged]^n^n^wAdds a chanc
 
 tagFletchetteBombNAME=Cluster Mines
 tagFletchetteBombDESC=^b[Player Scaled Pet] [Trap] [Multiple Projectiles]^n^n^wPlaces a bomb at a location. The bomb triggers when enemies wander too closely, and when detonated fires multiple acid filled cluster bombs. When these bombs explode they send out smaller acid fragments. ^oAcid Cluster Bombs take 1.5 seconds to arm and scale with player damage bonuses.//Place a cluster of bombs at a location. The bombs are triggered when enemies wander too closely, and when detonated, launch fletchettes around, shredding nearby enemies. These fletchettes stick to enemies for a short duration and damage them during that time.
-tagImprovedTrapsNAME=Reactive Assembly
+tagImprovedTrapsNAME=Flash Trigger
 tagImprovedTrapsDESC=^b[Pet Skill] [AOE] [Initial Attack]^n^n^wA mechanism is added to the cluster bombs that causes them to become more volatile, spewing poison moments after being placed, spraying foes in acid and stunning them.//By improving the technique used to construct the fletchette mines, the damage dealt by the mines is increased.
 tagBarbedNailsNAME=Improved Munitions
 tagBarbedNailsDESC=^b[Pet Modifier]^n^n^wThe cluster bombs are filled with more dangerous munitions causing them to deal increased damage, as well as slowing the attack speed of those struck.
-tagFletchetteBombSkillNAME=Acid Fusillade
+tagFletchetteBombSkillNAME=Detonate
+tagFletchetteBombSkillDESC=Adds a hidden explosive charge to the monster lure causing it to detonate when destroyed.
 tagFletchetteBombSkillNAMEB=Inferno Fusillade
 tagEnsnareBombPet=Acid Cluster Bomb
 tagEnsnareBombBPet=Inferno Cluster Mine
@@ -228,11 +229,11 @@ tagFletchetteBombBDESC=^b[Transmuter] [Pet Replacer]^n^n^wThe hunter appeals to 
 tagImprovedTrapsBDESC=A mechanism is added to the inferno cluster bombs that causes them to become more volatile, spewing flames moments after being placed, spraying foes in fire and stunning them.
 
 tagArrowCurtainNAME=Sky Shot Salvo
-tagArrowCurtainDESC=^b[Player Scaled Pet] [Projectile Drop] [Stationary]^n^n^wPlaces a mortar that launches a shell which explodes upon reaching a certain height, then rains down burning arrows over an area. ^oSky Shot Salvo scales with player damage bonuses.
-tagSignalFirePet=Sky Shot Salvo Shooter
-tagSpectralHunterNAME=Thunderhead Ammunition
-tagSpectralHunterDESC=^b[Modifier]^n^n^wFills the sky shot ammunition with a special type of ammunition that causes them to have lightning damage and chance to stun.
-
+tagArrowCurtainDESC=^b[Player Scaled Pet] [Projectile Drop] [Stationary]^n^n^wCalls upon a hunter's spirit which aids you in combat. This specter fires whistling arrows into the sky, which then detonate and rain down fragments over an area. ^oElysian Archer scales with player damage bonuses.
+tagSignalFirePet=Elysian Archer
+tagSignalFirePetSkill=Sky Shot Salvo
+tagSpectralHunterNAME=Delphic Flame
+tagSpectralHunterDESC=^b[Modifier]^n^n^wGrants a divine flame to the Elysian Archer's arrows as well as increasing the strength and density of the salvo.
 
 
 
@@ -249,7 +250,7 @@ tagSkillName214=Deluge
 tagSkillDescription214=^b[Modifier]^n^n^wThe madness becomes more profound, foes trapped within the deluge of terror have a chance to be overwhelmed by the visions.//The magic practitioners of older civilizations devised many insidious techniques to bolster the destructive 
 
 tagSkillName039=Death Ward
-tagSkillDescription039=^b[Buff] [Timed] [HP Threshold]^n^n^wPlaces a magical ward on the player that protects them from death by restoring life when their health gets dangerously low.
+tagSkillDescription039=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wPlaces a magical ward on the player that protects them from death by restoring life when their health gets dangerously low.
 
 tagSkillName035=Deathchill Aura
 tagSkillDescription035=^b[Debuff] [Aura]^n^n^wA deathly chill radiates from the character slowing enemies as it diminishes their strength and speed.
@@ -272,8 +273,9 @@ tagBoneSpire2NAME=Underworld Pact
 tagBoneSpire2DESC=^b[Modifier]^n^n^wUtilizing dark necrotic energies, the ghosts that inhabit your weapon creep into your armor and empower your body as well as  improving your attacks further.//Utilizing dark necrotic energies, the mighty ghost spires tear deeper than flesh, and sunder the very essence of those struck by the spires.
 tagBoneSpire3NAME=Ravages of Time//Arcane Lore
 tagBoneSpire3DESC=^b[Secondary Modifier] [Aura]^n^n^wThe magic practitioners of older civilizations devised many insidious techniques to increase their deadliness in combat. Utilizing this arcane knowledge you can exude a dark essence that whittles away the health and strength of your foes.//bolster the destructive capabilities of their weapons.  Knowledge of these methods will unlock the true power of your attacks.//The spires represent twisted malignant energies of long lost souls, enemies struck by these are ravaged by them and are tainted by the dark magics that created them and as such are left temporarily weakened if they survive.
-tagDeathchillBNAME=Ravage//Persephone's Duality
-tagDeathchillBDESC=^b[Weapon Pool Skill]^n^o[On Crit]^n^n^wA tenebrous assault on the very essence of your foe, critical strikes from default attacks can cause the target's soul to explode outwards, dealing damage to nearby enemies as well. //Persephone's divinity aiding you morphs your attacks to become more befitting of her duality. Your vitality damages become poison and any physical damage becomes cold.
+tagDeathchillBNAME=Harrowing Touch
+tagDeathchillBDESC=^b[Weapon Pool Skill]^n^o[On Crit]^n^n^wA tenebrous assault on the very essence of your foe, critical strikes from default attacks can cause the target's soul to explode outwards, dealing damage to nearby enemies as well.
+
 
 tagSkillName045=Summon Liche King
 tagSkillDescription045=^b[Pet] [Ranged]^n^n^wIn ages past, powerful sorcerers learned how to cheat Hades and persist as undead liches long after death had robbed their bodies of life.  A dangerous practice of Theurgists is to bind the souls of these ancient liches to their will, thus acquiring their powers.^oOnly one Liche can be summoned at any time. The Liche scales with Pet Bonuses.
@@ -381,7 +383,7 @@ tagWarwindBNAME=Warlust
 tagWarwindBDESC=^b[Transmuter]^n^o[Two-Handed Melee] ^n^n^wThe bigger the weapon, the bigger the warwind. ^oRequires a two-handed melee weapon.
 
 tagSkillName002=Battle Rage
-tagSkillDescription002=^b[Buff] [Timed]^n^o[When Hit] ^n^n^wEach enemy hit has a chance of sending you into a battle rage that adds bonus damage to attacks and increases Offensive Ability for a short duration.
+tagSkillDescription002=^b[Buff] [Timed] [Delayed Cooldown]^n^o[When Hit] ^n^n^wEach enemy hit has a chance of sending you into a battle rage that adds bonus damage to attacks and increases Offensive Ability for a short duration.
 tagSkillName003=Crushing Blow
 tagSkillDescription003=^b[Modifier]^n^n^wProvides a chance for attacks to cause bonus damage while in Battle Rage.
 
@@ -393,7 +395,7 @@ tagShrillHornNAME=Cacophony
 tagShrillHornDESC=^b[Transmuter]^n^n^wBlasts the warhorn in a quick burst resulting in a sound that isn't as stunning but can cause more severe bleeding to the ears.
 
 tagSkillName192=Dodge Attack
-tagSkillDescription192=^b[Buff] [Timed] [HP Threshold]^n^n^wEven the sturdiest armor has its chinks.  The best way to stay alive is to not get hit.
+tagSkillDescription192=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wEven the sturdiest armor has its chinks.  The best way to stay alive is to not get hit.
 
 tagSkillName174=Battle Standard
 tagSkillDescription174=^b[AOE] [Buff]^n^n^wThrow down a mighty standard to embolden the hearts of nearby allies.
@@ -408,13 +410,13 @@ tagSkillName179=Triumph
 tagSkillDescription179=^b[Pet Aura] [Debuff] ^n^n^wSeeing the inevitability of your triumph, enemies lose hope and the effectiveness of their defense diminishes.
 
 x3tagSkillWarfareLineSlam=Titan Slam
-x3tagSkillWarfareLineSlamDesc=^b[Spell] [Wave]^n^o[Melee] [Staff]^n^n^wHit all enemies in a straight line with staggering force, disrupting their aim and spellcasting.
+x3tagSkillWarfareLineSlamDesc=^b[Spell] [Wave]^n^o[Two-Handed Melee] [Off-Hand]^n^n^wHit all enemies in a straight line with staggering force, disrupting their aim and spellcasting.
 tagSkillName004=Gratuitous Violence
 tagSkillDescription004=^b[Modifier]^n^n^wThe earth rattles with such violent motions, enemies caught in the path take additional damage and begin bleeding profusely.
 tagVigorNAME=Blood and Guts
 tagVigorDESC=^b[Secondary Modifier] [AOE] ^n^o[On Kill] ^n^n^wEnemies killed by the Titan's Slam explode into a mass of gore, dealing damage to other nearby foes.
 tagBattleRageBNAME=Dual Slam
-tagBattleRageBDESC=^b[Transmuter] ^n^o[Dual Wield] ^n^n^wWhen dual wielding melee weapons, the Titan Slam shortens, and the damage from each weapon is added to the attack.
+tagBattleRageBDESC=^b[Transmuter] [Multiple Hits] ^n^o[Dual Wield] ^n^n^wTitan Slam now works while Dual Wielding. The wave distance shortens, but the damage from each weapon is added to the attack.
 
 tagWarleapNAME=Heroic Vault
 tagWarleapDESC=^b[Spell] [Movement]^n^n^wA warrior stares death and fear in the face and gives no ground. In fact, given the chance, a great warrior will thrust themselves into a battle with a mighty leap.
@@ -451,7 +453,7 @@ tagSkillName159=Call of the Wild
 tagSkillDescription159=^b[Pet] [Horde] [Melee] [Taunt]^n^n^wSummons a dire wolf to fight with you in battle. ^o Wolves scale with Pet Bonuses.
 tagMonsterName350=Dire Wolf//Feral Wolf
 tagSkillName071=Survival Instinct
-tagSkillDescription071=^b[Pet Buff] [Timed] [HP Threshold]^n^n^wAn instinctual will to live is triggered whenever health is low.
+tagSkillDescription071=^b[Pet Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wAn instinctual will to live is triggered whenever health is low.
 tagSkillName177=Maul
 tagSkillDescription177=A gnawing attack that rends enemy flesh causing bleed damage for a short duration.
 tagPackDogsNAME=Keen Senses
@@ -547,7 +549,7 @@ tagSkillDescription073=Causes regrowth energy to disseminate from the initial ta
 tagSkillName075=Accelerated Growth
 tagSkillDescription075=Grants the Kodama a self-buff which improves it's energy regeneration, allowing it to recast Regrowth more frequently. In addition, when Regrowth is cast, the Kodama will emit a health regeneration aura for a duration.
 tagSkillName188=Overgrowth
-tagSkillDescription188=^b[Buff] [Timed]^n^o[When Hit] ^n^n^wCreate a protective living shield that absorbs damage and causes harm to enemies who would strike it.
+tagSkillDescription188=^b[Buff] [Timed] [Delayed Cooldown]^n^o[When Hit] ^n^n^wCreate a protective living shield that absorbs damage and causes harm to enemies who would strike it.
 tagSkillName074=Refresh
 tagSkillDescription074=Subtracts time from recharging skills allowing you to use them more frequently.
 
@@ -794,7 +796,7 @@ tagSkillName204=Freezing Cyclone
 tagSkillDescription204=^b[Modifier] [Debuff]^n^n^wThe storm exposes the weaknesses of those caught within, making them more susceptible to certain types of damage.//Blasts an enemy with a frost bolt. Upon impact, the bolt explodes and causes all enemies in a nearby radius to be slowed and more susceptible to certain types of damage.//Encases enemies in ice, immobilizing them but also making them more susceptible to certain types of damage.
 
 tagSkillName180=Energy Shield
-tagSkillDescription180=^b[Buff] [Timed] [HP Threshold]^n^n^wA shield of energy protects against incoming attacks and empowers the caster's elemental defenses.
+tagSkillDescription180=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wA shield of energy protects against incoming attacks and empowers the caster's elemental defenses.
 
 tagFrozenBlastNAME=Winter Winds
 tagFrozenBlastDESC=^b[Channeled] [Melee] [Attack] [AOE]^n^n^wAn infamous Stormcaller skill, Winter Winds allows them to siphon the air spiraling downwards and create a vortex. This vortex can be controlled and moves with them as long as they are able to maintain their focus. ^oRequires a melee weapon or a staff. At 100% Attack Speed, Winter Winds deals damage and drains Energy every 0.16s.
@@ -869,7 +871,7 @@ tagDistortionWaveBNAME=Ripple
 tagDistortionWaveBDESC=^b[Transmuter]^n^o[Staff] [Off-Hand] [Two-Handed]^n^n^wInstead of channeling a singular, more powerful, reality distortion wave, send forth many smaller ripples.^o Requires a two handed weapon, staff or caster off-hand.
 
 xtagSkillDreamName006=Distortion Field
-xtagSkillDreamDescription006=^b[Buff] [Timed] [HP Threshold]^n^n^wWhen your health starts dropping, a field of psionic power bends the fabric of reality around you, negating some of the damage from enemy attacks and dealing retaliatory damage to enemies that strike you.
+xtagSkillDreamDescription006=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wWhen your health starts dropping, a field of psionic power bends the fabric of reality around you, negating some of the damage from enemy attacks and dealing retaliatory damage to enemies that strike you.
 
 xtagSkillDreamName007=Premonition
 xtagSkillDreamDescription007=^b[Passive]^n^n^wA precognitive sense of the imminent future allows you to stay one step ahead of your enemies in combat.
@@ -956,7 +958,7 @@ x2tagSkillRunesName008=Runeword: Absorb
 x2tagSkillRunesDescription008=^b[Passive]^n^n^wEnchants your shield or weapon with the ability to absorb the energy of enemy blows and spells, adding it to your own.
 
 x2tagSkillRunesName009=Energy Armor
-x2tagSkillRunesDescription009=^b[Buff] [Timed] [HP Threshold]^n^n^wWeave vast amounts of Energy into a layer of magical armor that shields you from physical attacks.
+x2tagSkillRunesDescription009=^b[Buff] [Timed] [HP Threshold] [Delayed Cooldown]^n^n^wWeave vast amounts of Energy into a layer of magical armor that shields you from physical attacks.
 
 x2tagSkillRunesName010=Reckless Offense
 x2tagSkillRunesDescription010=^b[Weapon Pool Skill] ^n^o[Melee]^n^n^wThose who follow the way of the Berserkir fight with the mind of an enraged animal, and will forego tactics to attack recklessly. ^oThis is a melee technique that activates off of default weapon attacks.
@@ -2320,6 +2322,8 @@ tagGQWaistD010={^I}Freya's Caress
 tagGQWaistD010DESC=
 tagGQWaistD011=Grace of the Dao
 tagGQWaistD011DESC=
+tagGQWaistD012=Medusa's Sash
+tagGQWaistD012DESC=
 
 #GQ Offhands
 tagGQFocus001=Antikythera Mechanism
@@ -2376,6 +2380,7 @@ tagGQAmulet017=Red Sea Dragon
 tagGQAmulet018=Senwosret's Throne
 tagGQAmulet019={^I}Aidoneus
 tagGQAmulet020=Amulet of Ikelos
+tagGQAmulet021=Fulgurite Totem
 
 tagX2AmuletD001=Torc of the Ancestors
 tagX2AmuletD002=Pendant of Skadi

@@ -43,7 +43,7 @@ tagClassBarbarianSkillName12=Seismic Slam
 tagClassBarbarianSkillDescription12=Slam the ground to cause a wave of destruction that deals physical and internal trauma damage to enemies in front of you. ^oRequires a melee weapon and activates off of default weapon attacks.{^n}{^n}{^y}Shattered Ground {^o}(Unlocked at Skill Level 10){^n}^wSeismic Slam stuns enemies for 1 second.
 
 tagClassBarbarianSkillName13=Ignore Pain
-tagClassBarbarianSkillDescription13=All damage taken is reduced and resistances to all control-impairing effects are increased for 5 seconds.{^n}{^n}{^y}Contempt for Weakness {^o}(Unlocked at Skill Level 12){^n}^wInstantly restores 50% of your health when activating Ignore Pain.
+tagClassBarbarianSkillDescription13=All damage taken is reduced and your defensive ability is increased, while gaining resistances to control-impairing effects for 5 seconds.{^n}{^n}{^y}Contempt for Weakness {^o}(Unlocked at Skill Level 12){^n}^wInstantly restores 50% of your health when activating Ignore Pain.
 
 tagClassBarbarianSkillName14=Wrath of the Berserker
 tagClassBarbarianSkillDescription14=Enter a berserker fury which increases your chance to dodge melee attacks, crit damage and your total damage for 20 seconds. While in the berserker form, you gain resistance to control-impairing effects and deal additional bleeding damage to enemies. {^o}Character size is increased by 40%.{^n}{^n}{^y}Thrive on Chaos {^o}(Unlocked at Skill Level 12){^n}^wYour health regeneration is increased by 135%.
@@ -58,7 +58,7 @@ tagClassBarbarianSkillName17=Glacier
 tagClassBarbarianSkillDescription17=Giant blocks of ice hit foes in the area. Damage is converted to cold and enemies hit are frozen for a few seconds.
 
 tagClassBarbarianSkillName18=Frenzy
-tagClassBarbarianSkillDescription18=Attacks deal additional physical and bleeding damage to a single target. When used as a default weapon attack, Frenzy increases the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the bonuses.{^n}{^n}{^y}Bloodthirsty {^o}(Unlocked at Skill Level 16){^n}^w5% of the damage dealt is converted to your health.
+tagClassBarbarianSkillDescription18=Attacks deal additional physical and bleeding damage to a single target. When used as a default weapon attack, Frenzy increases the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the bonuses. Requires a melee weapon.{^n}{^n}{^y}Bloodthirsty {^o}(Unlocked at Skill Level 16){^n}^w5% of the damage dealt is converted to your health.
 
 tagClassBarbarianSkillName19=Berserk
 tagClassBarbarianSkillDescription19=Grants you additional armor and chance to deal increased bleeding damage. Your attacks also cause internal trauma to enemies over 3 seconds.{^n}{^n}{^b}Sidearm {^o}(Passive){^n}^wFrenzy gains a chance to launch a piercing axe that deals physical and bleeding damage to all enemies in its way.
@@ -111,7 +111,7 @@ tagClassBarbarianSkillName46=Ancient Spear
 tagClassBarbarianSkillName46Desc=Throw a spear that pierces enemies to deal physical and bleeding damage, stunning them for a few seconds.{^n}{^n}{^y}Jagged Edge{^o}(Unlocked at Skill Level 16){^n}^wAncient Spear reduces the total speed of enemies by 30% for 3 seconds.
 
 tagClassBarbarianSkillName47=Rend
-tagClassBarbarianSkillName47Desc=Perform a sweeping strike that causes all enemies around you to bleed for 5 seconds. ^oRequires a melee weapon and activates off of default weapon attacks.{^n}{^n}{^y}Blood Lust{^o}(Unlocked at Skill Level 10){^n}^w12% of the damage dealt is converted to health.
+tagClassBarbarianSkillName47Desc=Perform a sweeping strike that causes all enemies around you to bleed for 5 seconds. ^oRequires a melee weapon and activates off of default weapon attacks.{^n}{^n}{^y}Blood Lust{^o}(Unlocked at Skill Level 10){^n}^w10% of the damage dealt is converted to health.
 
 tagClassBarbarianSkillName48=Hurricane
 tagClassBarbarianSkillName48Desc=Fire damage turns into cold and Whirlwind gains 12% chance to freeze enemies for a few seconds.
@@ -136,15 +136,15 @@ tagX1D3_Belt01={^I}Pride of Cassius
 tagX1D3_Belt01Desc="He moved swiftly and he struck hard. Truly the greatest warrior to have walked the land."
 tagX1D3_Ring01={^I}Band of Might
 tagX1D3_Ring01Desc="Seems designed to reduce damage, but I'm not sure how it works. Obviously, it failed its previous owner. Hopefully it will work better for you."Haedrig{^n}After hitting an enemy with Furious Charge, Ground Stomp, or Leap, you are healed.
-tagX1D3_necklace01={^I}Hellfire amulet
+tagX1D3_necklace01={^I}Hellfire Amulet
 tagX1D3_necklace01Desc="The Hellfire Amulet is truly a badge of dedication to those who, at great cost to themselves, have sworn their lives to eradicating the demon scourge from the lands of Sanctuary."
-tagX1D3_necklace01A={^I}Hellfire amulet of Monk
-tagX1D3_necklace01B={^I}Hellfire amulet of Barbarian
-tagX1D3_necklace01C={^I}Hellfire amulet of Crusader
-tagX1D3_necklace01D={^I}Hellfire amulet of Demon Hunter
-tagX1D3_necklace01E={^I}Hellfire amulet of Necromancer
-tagX1D3_necklace01F={^I}Hellfire amulet of Wizard
-tagX1D3_necklace01G={^I}Hellfire amulet of Witch Doctor
+tagX1D3_necklace01A={^I}Hellfire Amulet of Monk
+tagX1D3_necklace01B={^I}Hellfire Amulet of Barbarian
+tagX1D3_necklace01C={^I}Hellfire Amulet of Crusader
+tagX1D3_necklace01D={^I}Hellfire Amulet of Demon Hunter
+tagX1D3_necklace01E={^I}Hellfire Amulet of Necromancer
+tagX1D3_necklace01F={^I}Hellfire Amulet of Wizard
+tagX1D3_necklace01G={^I}Hellfire Amulet of Witch Doctor
 tagX1D3_Sword2h01={^I}Blade of the Tribes
 tagX1D3_Sword2h01Desc="Every tribe tells tales of their greatest weapons, capable of moving mountains or terrifying enemies, each one different. But every tribe claims this blade as their own."
 tagX1D3_Axe01={^I}The Burning Axe of Sankis
@@ -331,18 +331,32 @@ tagX1D3_Boss01SkillName01Desc=Weakens all resistances by 10%.
 tagX1D3_Boss01SkillName02=Diablo's Nightmare
 tagX1D3_Boss01SkillName02Desc=Weakens all crowd control resistances by 30%.
 tagX1D3_Boss01SkillName03=Curse of Destruction
-tagX1D3_Boss01SkillName03Desc=You and your nearby allies suffer 20% Weakened resistances and continuous Fire damage until the curse ends.tagX1D3_Boss03SkillName01=Tyrael Presence
-tagX1D3_Boss03SkillName01Desc=Weakens Elemental resistance and Freeze resistance
+tagX1D3_Boss01SkillName03Desc=You and your nearby allies suffer 20% Weakened resistances and continuous Fire damage until the curse ends.
 tagX1D3_Boss03SkillName01=Tyrael Presence
-
+tagX1D3_Boss03SkillName01Desc=Weakens Elemental resistance and Freeze resistance
 
 tagBarbarianRune01=^cInsatiable
-tagBarbarianRune01Desc=^hFrenzy ^wincreases your maximum attack speed by 10% and 8% life steal is added to the skill. Critical attacks performed by Frenzy restores 400 + 12% of your health. However, you no longer can use health potions.{^n}{^n}{^y}Runeword: {^o}ZanGar.
+tagBarbarianRune01Desc=^hFrenzy ^wincreases your maximum attack speed by 10% and 8% life steal is added to the skill. Critical attacks performed by Frenzy restores 400 + 12% of your health. However, you no longer can use health potions.{^n}{^n}{^y}Runeword: {^c}ZanGar.
 tagBarbarianRune01B=Rune Effect
 tagBarbarianRune01BDesc=You are invulnerable for 3 seconds.
 
 tagBarbarianRune02=^cSpin to Rule
-tagBarbarianRune02Desc=While using ^hWhirlwind^w, all your resistances are increased by 10% (15% using the enhanced version of the runeword) and your maximum resistances are increased by 4%. Whirlwind's attacks leave a patch of flame on the ground you step on, dealing fire and burn damage to enemies in the area. Enemies standing on the burning patch grant you 100% chance to pull nearby foes towards you. ^oThe pull effect has a internal cooldown of 5 seconds, which can be reduced by CDR.{^n}{^n}{^y}Runeword: {^o}AhuTal.{^n}{^n}{^y}Transmutation: ^wThere is an alternate version of the {^o}AhuTal ^wruneword, which turns the patch of fire into ^bice^w. 
+tagBarbarianRune02Desc=While using ^hWhirlwind^w, all your resistances are increased by 10% (15% using the enhanced version of the runeword) and your maximum resistances are increased by 4%. Whirlwind's attacks leave a patch of flame on the ground you step on, dealing fire and burn damage to enemies in the area. Enemies standing on the burning patch grant you 100% chance to pull nearby foes towards you. ^oThe pull effect has a internal cooldown of 5 seconds, which can be reduced by CDR.{^n}{^n}{^y}Runeword: {^c}AhuTal.{^n}{^n}{^y}Transmutation: ^wThere is an alternate version of the {^c}AhuTal ^wruneword, which turns the patch of fire into ^bice^w. 
 
 tagBarbarianRune03=^cLeapquake
-tagBarbarianRune03Desc=^hLeap ^wno longer has a cooldown and it leaves an alternate version of ^hEarthquake ^won the ground you land, dealing physical and fire damage to enemies standing in the area, with a chance to knock them down. However, Leap's damage is reduced by 25% and you no longer can use your Evade ability.{^n}{^n}{^y}Runeword: {^o}YaxNer.{^n}{^n}{^y}Transmutation: ^wThere is an alternate version of the {^o}YaxNer ^wruneword, which turns the Earthquake's fire damage into ^bcold^w.
+tagBarbarianRune03Desc=^hLeap ^wno longer has a cooldown and it leaves an alternate version of ^hEarthquake ^won the ground you land, dealing physical and fire damage to enemies standing in the area, with a chance to knock them down. However, Leap's damage is reduced by 25% and you no longer can use your Evade ability.{^n}{^n}{^y}Runeword: {^c}YaxNer.{^n}{^n}{^y}Transmutation: ^wThere is an alternate version of the {^c}YaxNer ^wruneword, which turns the Earthquake's fire damage into ^bcold^w.
+
+tagBarbarianRune04=^cPath of Destruction
+tagBarbarianRune04Desc=^oFurious Charge ^wnow leaves a trail of Meteors (Level 8) behind you.{^n}{^n}{^y}Runeword: {^c}BacEom.{^n}{^n}{^y}Transmutation: ^wThere is an alternate version of the {^c}BacEom ^wruneword, which turns Meteors into ^bComets^w.
+
+tagBarbarianRune05=^cBlood Pact
+tagBarbarianRune05Desc=^rBerserker Rage ^wturns into a healing skill that restores 35% of your health and increases your total damage dealt by 100%. Its cooldown is reduced to 8 seconds and duration is increased to 60 seconds. While the skill is active, all your attacks mark enemies with ^rHemorrhage.{^n}{^n}^rHemorrhage ^wlasts for 30 seconds, causing enemies to bleed, while reducing their bleeding resistance by 50% and health regeneration by 100%. However, marked enemies no longer take damage from any other damage type. ^oThe first hit taken by non-marked enemies deals all damage types related to the skill used, ^rHemorrhage ^ois applied right after.{^n}{^n}{^y}Runeword: {^c}CemYom
+
+tagBarbarianRune05BDesc=This enemy is currently taking additional bleeding damage and immune to other damage types.
+
+tagBarbarianRune06=^cFields of Crimson
+tagBarbarianRune06Desc=^rRend ^wnow leaves a blood pool that causes enemies to bleed every second. Foes standing on the bloody area have their physical resistance reduced by 15% and bleeding resistance reduced by 25%.{^n}{^n}{^y}Runeword: {^c}YaxMot
+
+tagBarbarianRune06C=^rBlood Pool
+
+tagBarbarianRuneEffect=^cRune Effect
