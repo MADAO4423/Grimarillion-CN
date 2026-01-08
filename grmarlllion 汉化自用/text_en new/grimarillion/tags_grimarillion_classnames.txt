@@ -1,1554 +1,1845 @@
 ~~~~~~~~
 Soldier
 ~~~~~~~~
-01 and 02
+Soldier + Demolitionist
 tagSkillClassName0102=Commando
-01 and 03
+Soldier + Occultist
 tagSkillClassName0103=Witchblade
-01 and 04
+Soldier + Nightblade
 tagSkillClassName0104=Blademaster
-01 and 05
+Soldier + Arcanist
 tagSkillClassName0105=Battlemage
-01 and 06
+Soldier + Shaman
 tagSkillClassName0106=Warder
-01 and 07
+Soldier + Inquisitor
 tagSkillClassName0107=Tactician
-01 and 08
+Soldier + Necromancer
 tagSkillClassName0108=Death Knight
-01 and 09
+Soldier + Oathkeeper
 tagSkillClassName0109=Warlord
-01 and 10
+Soldier + DemonHunter
 tagSkillClassName0110=Exterminator
-01 and 11
+Soldier + WitchDoctor
 tagSkillClassName0111=Witch Warrior
-01 and 12
+Soldier + Monk
 tagSkillClassName0112=Warpriest
-01 and 13
+Soldier + Wizard
 tagSkillClassName0113=Warmage
-01 and 14
+Soldier + Crusader
 tagSkillClassName0114=Legionnaire
-01 and 15
+Soldier + D3Necro
 tagSkillClassName0115=Dark Commander
-01 and 16
+Soldier + Terror Knight
 tagSkillClassName0116=Fearmonger
-01 and 17
+Soldier + Evocator
 tagSkillClassName0117=Arcane Knight
-01 and 18
+Soldier + Outrider
 tagSkillClassName0118=Bounty Hunter
-01 and 19
+Soldier + Champion
 tagSkillClassName0119=Shock Trooper
-01 and 20
+Soldier + Riftstalker
 tagSkillClassName0120=Riftstriker
-01 and 21
+Soldier + Necrotic
 tagSkillClassName0121=General
-01 and 22
+Soldier + Defense
 tagSkillClassName0122=Imperial Guard
-01 and 23
+Soldier + Hunting
 tagSkillClassName0123=Warwolf
-01 and 24
+Soldier + Spirit
 tagSkillClassName0124=Licheguard
-01 and 25
+Soldier + Warfare
 tagSkillClassName0125=Warmonger
-01 and 26
+Soldier + Nature
 tagSkillClassName0126=Survivalist
-01 and 27
+Soldier + Rogue
 tagSkillClassName0127=Scoundrel
-01 and 28
+Soldier + Earth
 tagSkillClassName0128=Searing Guardsman
-01 and 29
+Soldier + Storm
 tagSkillClassName0129=Stormshield
-01 and 30
+Soldier + Dream
 tagSkillClassName0130=Wiccan
-01 and 31
+Soldier + Barbarian 
 tagSkillClassName0131=Gladiator
-01 and 32
+Soldier + Runes
 tagSkillClassName0132=Rune Wielder
-01 and 33
+Soldier + Neidan
 tagSkillClassName0133=Jiang
-01 and 34
+Soldier + Reanimator
 tagSkillClassName0134=Rot Knight
-01 and 35
+Soldier + Priest
 tagSkillClassName0135=Adversary
-01 and 36
+Soldier + Illusionist
 tagSkillClassName0136=Shadow Warrior
-01 and 37
+Soldier + Blood Knight
 tagSkillClassName0137=Knight Commander
-01 and 38
-tagSkillClassName0138=Soldier+Berserker
+Soldier + Berserker
+tagSkillClassName0138=Thane 
+Soldier + Tempest
+tagSkillClassName0139=Stormdancer
+Soldier + Swampdweller
+tagSkillClassName0140=Deserter
+Soldier + Frigid Hunter
+tagSkillClassName0141=Frost Knight
+Soldier + Chieftain
+tagSkillClassName0142=War Regent
 ~~~~~~~~
 Demolitionist
 ~~~~~~~~
-02 and 03
+Demolitionist + Occultist
 tagSkillClassName0203=Pyromancer
-02 and 04
+Demolitionist + Nightblade
 tagSkillClassName0204=Saboteur
-02 and 05
+Demolitionist + Arcanist
 tagSkillClassName0205=[ms]Sorcerer[fs]Sorceress
-02 and 06
+Demolitionist + Shaman
 tagSkillClassName0206=Elementalist
-02 and 07
+Demolitionist + Inquisitor
 tagSkillClassName0207=Purifier
-02 and 08
+Demolitionist + Necromancer
 tagSkillClassName0208=Defiler
-02 and 09
+Demolitionist + Oathkeeper
 tagSkillClassName0209=Shieldbreaker
-02 and 10
+Demolitionist + DemonHunter
 tagSkillClassName0210=Arsonist
-02 and 11
+Demolitionist + WitchDoctor
 tagSkillClassName0211=Pyrodoctor
-02 and 12
+Demolitionist + Monk
 tagSkillClassName0212=Lightcarrier
-02 and 13
+Demolitionist + Wizard
 tagSkillClassName0213=Hexgunner
-02 and 14
+Demolitionist + Crusader
 tagSkillClassName0214=Arbitrator
-02 and 15
+Demolitionist + D3Necro
 tagSkillClassName0215=Pyromaster
-02 and 16
+Demolitionist + Terror Knight
 tagSkillClassName0216=Ravager
-02 and 17
+Demolitionist + Evocator
 tagSkillClassName0217=Alchemancer
-02 and 18
+Demolitionist + Outrider
 tagSkillClassName0218=Professional Killer
-02 and 19
+Demolitionist + Champion
 tagSkillClassName0219=Liberator
-02 and 20
+Demolitionist + Riftstalker
 tagSkillClassName0220=Gatecrasher
-02 and 21
+Demolitionist + Necrotic
 tagSkillClassName0221=Goremonger
-02 and 22
+Demolitionist + Defense
 tagSkillClassName0222=Burning Watcher
-02 and 23
+Demolitionist + Hunting
 tagSkillClassName0223=Ashstalker
-02 and 24
+Demolitionist + Spirit
 tagSkillClassName0224=Burning Soul
-02 and 25
+Demolitionist + Warfare
 tagSkillClassName0225=Mercenary
-02 and 26
+Demolitionist + Nature
 tagSkillClassName0226=Ash Sower
-02 and 27
+Demolitionist + Rogue
 tagSkillClassName0227=Searing Blade
-02 and 28
+Demolitionist + Earth
 tagSkillClassName0228=Emberweaver
-02 and 29
+Demolitionist + Storm
 tagSkillClassName0229=Hellsbane
-02 and 30
+Demolitionist + Dream
 tagSkillClassName0230=Pyrokineticist
-02 and 31
+Demolitionist + Barbarian 
 tagSkillClassName0231=Destroyer
-02 and 32
+Demolitionist + Runes
 tagSkillClassName0232=Dynamo
-02 and 33
+Demolitionist + Neidan
 tagSkillClassName0233=Firelancer
-02 and 34
+Demolitionist + Reanimator
 tagSkillClassName0234=Alchemist
-02 and 35
+Demolitionist + Priest
 tagSkillClassName0235=Conflagrator
-02 and 36
+Demolitionist + Illusionist
 tagSkillClassName0236=Headhunter
-02 and 37
+Demolitionist + Blood Knight
 tagSkillClassName0237=Worldender
-02 and 38
-tagSkillClassName0238=Demolitionist+Berserker
+Demolitionist + Berserker
+tagSkillClassName0238=Dreadnaught
+Demolitionist + Tempest
+tagSkillClassName0239=Fencer
+Demolitionist + Swampdweller
+tagSkillClassName0240=Esoteric Alchemist
+Demolitionist + Frigid Hunter
+tagSkillClassName0241=Gunsmith
+Demolitionist + Chieftain
+tagSkillClassName0242=Torchbearer
 ~~~~~~~~
 Occultist
 ~~~~~~~~
-03 and 04
+Occultist + Nightblade
 tagSkillClassName0304=Witch Hunter
-03 and 05
+Occultist + Arcanist
 tagSkillClassName0305=Warlock
-03 and 06
+Occultist + Shaman
 tagSkillClassName0306=Conjurer
-03 and 07
+Occultist + Inquisitor
 tagSkillClassName0307=Deceiver
-03 and 08
+Occultist + Necromancer
 tagSkillClassName0308=Cabalist
-03 and 09
+Occultist + Oathkeeper
 tagSkillClassName0309=Sentinel
-03 and 10
+Occultist + DemonHunter
 tagSkillClassName0310=Harbinger
-03 and 11
+Occultist + WitchDoctor
 tagSkillClassName0311=Ceremonialist
-03 and 12
+Occultist + Monk
 tagSkillClassName0312=Corrupter
-03 and 13
+Occultist + Wizard
 tagSkillClassName0313=Thaumaturge
-03 and 14
+Occultist + Crusader
 tagSkillClassName0314=Oathbreaker
-03 and 15
+Occultist + D3Necro
 tagSkillClassName0315=Demonologist
-03 and 16
+Occultist + Terror Knight
 tagSkillClassName0316=Eldritch Knight
-03 and 17
+Occultist + Evocator
 tagSkillClassName0317=Hexer
-03 and 18
+Occultist + Outrider
 tagSkillClassName0318=Malfeasant
-03 and 19
+Occultist + Champion
 tagSkillClassName0319=Eldritch Champion
-03 and 20
+Occultist + Riftstalker
 tagSkillClassName0320=Riftcloser
-03 and 21
+Occultist + Necrotic
 tagSkillClassName0321=Chaotician
-03 and 22
+Occultist + Defense
 tagSkillClassName0322=Witchguard
-03 and 23
+Occultist + Hunting
 tagSkillClassName0323=Witchstalker
-03 and 24
+Occultist + Spirit
 tagSkillClassName0324=Soul Warden
-03 and 25
+Occultist + Warfare
 tagSkillClassName0325=Blade of Insanity
-03 and 26
+Occultist + Nature
 tagSkillClassName0326=Warped Hermit
-03 and 27
+Occultist + Rogue
 tagSkillClassName0327=Sacrificer
-03 and 28
+Occultist + Earth
 tagSkillClassName0328=Firelord
-03 and 29
+Occultist + Storm
 tagSkillClassName0329=[ms]Sky Warlock[fs]Sky Witch
-03 and 30
+Occultist + Dream
 tagSkillClassName0330= Entropic Adept
-03 and 31
+Occultist + Barbarian 
 tagSkillClassName0331=Heathen
-03 and 32
+Occultist + Runes
 tagSkillClassName0332=Dark Sigilist
-03 and 33
+Occultist + Neidan
 tagSkillClassName0333=Gongtau
-03 and 34
+Occultist + Reanimator
 tagSkillClassName0334=Harvester
-03 and 35
+Occultist + Priest
 tagSkillClassName0335=Schismatic
-03 and 36
+Occultist + Illusionist
 tagSkillClassName0336=Voidcaller
-03 and 37
+Occultist + Blood Knight
 tagSkillClassName0337=Doom Knight
-03 and 38
-tagSkillClassName0338=Occultist+Berserker
+Occultist + Berserker
+tagSkillClassName0338=Primalist
+Occultist + Tempest
+tagSkillClassName0339=Jinxer
+Occultist + Swampdweller
+tagSkillClassName0340=Witch
+Occultist + Frigid Hunter
+tagSkillClassName0341=Anatomancer
+Occultist + Chieftain
+tagSkillClassName0342=Cursecaller
 ~~~~~~~~
 Nightblade
 ~~~~~~~~
-04 and 05
+Nightblade + Arcanist
 tagSkillClassName0405=Spellbreaker
-04 and 06
+Nightblade + Shaman
 tagSkillClassName0406=Trickster
-04 and 07
+Nightblade + Inquisitor
 tagSkillClassName0407=Infiltrator
-04 and 08
+Nightblade + Necromancer
 tagSkillClassName0408=Reaper
-04 and 09
+Nightblade + Oathkeeper
 tagSkillClassName0409=Dervish
-04 and 10
+Nightblade + DemonHunter
 tagSkillClassName0410=Shadow Hunter
-04 and 11
+Nightblade + WitchDoctor
 tagSkillClassName0411=Shadow Priest
-04 and 12
-tagSkillClassName0412=Bladedancer
-04 and 13
+Nightblade + Monk
+tagSkillClassName0412=Soulblade
+Nightblade + Wizard
 tagSkillClassName0413=Shadowcaster
-04 and 14
+Nightblade + Crusader
 tagSkillClassName0414=Holyblade
-04 and 15
+Nightblade + D3Necro
 tagSkillClassName0415=Deathblade
-04 and 16
+Nightblade + Terror Knight
 tagSkillClassName0416=Enforcer
-04 and 17
+Nightblade + Evocator
 tagSkillClassName0417=Harmonist
-04 and 18
+Nightblade + Outrider
 tagSkillClassName0418=Shadestriker
-04 and 19
+Nightblade + Champion
 tagSkillClassName0419=Dawnbreaker
-04 and 20
+Nightblade + Riftstalker
 tagSkillClassName0420=Horizon Walker
-04 and 21
-tagSkillClassName0421=Zealot
-04 and 22
+Nightblade + Necrotic
+tagSkillClassName0421=Shadowfiend
+Nightblade + Defense
 tagSkillClassName0422=Duelist
-04 and 23
+Nightblade + Hunting
 tagSkillClassName0423=Nightstalker
-04 and 24
+Nightblade + Spirit
 tagSkillClassName0424=Licheblade
-04 and 25
+Nightblade + Warfare
 tagSkillClassName0425=Cutthroat
-04 and 26
+Nightblade + Nature
 tagSkillClassName0426=Sworn of Gaea
-04 and 27
+Nightblade + Rogue
 tagSkillClassName0427=Swashbuckler
-04 and 28
+Nightblade + Earth
 tagSkillClassName0428=Doomsayer
-04 and 29
+Nightblade + Storm
 tagSkillClassName0429=Swordstreak
-04 and 30
+Nightblade + Dream
 tagSkillClassName0430=Shadowdancer
-04 and 31
+Nightblade + Barbarian 
 tagSkillClassName0431=Bladebreaker
-04 and 32
-tagSkillClassName0432=Reaver
-04 and 33
+Nightblade + Runes
+tagSkillClassName0432=Runeblade
+Nightblade + Neidan
 tagSkillClassName0433=Vishkanya
-04 and 34
+Nightblade + Reanimator
 tagSkillClassName0434=Dreadblade
-04 and 35
+Nightblade + Priest
 tagSkillClassName0435=Phantomblade
-04 and 36
+Nightblade + Illusionist
 tagSkillClassName0436=Mastermind
-04 and 37
+Nightblade + Blood Knight
 tagSkillClassName0437=Voidseeker
-04 and 38
-tagSkillClassName0438=Nightblade+Berserker
+Nightblade + Berserker
+tagSkillClassName0438=Reaver
+Nightblade + Tempest
+tagSkillClassName0439=Bladedancer
+Nightblade + Swampdweller
+tagSkillClassName0440=Killer
+Nightblade + Frigid Hunter
+tagSkillClassName0441=Sniper
+Nightblade + Chieftain
+tagSkillClassName0442=Spellhowler
 ~~~~~~~~
 Arcanist
 ~~~~~~~~
-05 and 06
+Arcanist + Shaman
 tagSkillClassName0506=Druid
-05 and 07
+Arcanist + Inquisitor
 tagSkillClassName0507=Mage Hunter
-05 and 08
+Arcanist + Necromancer
 tagSkillClassName0508=Spellbinder
-05 and 09
+Arcanist + Oathkeeper
 tagSkillClassName0509=Templar
-05 and 10
+Arcanist + DemonHunter
 tagSkillClassName0510=Artificer
-05 and 11
+Arcanist + WitchDoctor
 tagSkillClassName0511=Arcane Doctor
-05 and 12
+Arcanist + Monk
 tagSkillClassName0512=Prophet
-05 and 13
+Arcanist + Wizard
 tagSkillClassName0513=Enchanter
-05 and 14
+Arcanist + Crusader
 tagSkillClassName0514=Guardian
-05 and 15
+Arcanist + D3Necro
 tagSkillClassName0515=Aetherwalker
-05 and 16
+Arcanist + Terror Knight
 tagSkillClassName0516=Dreadmaster
-05 and 17
+Arcanist + Evocator
 tagSkillClassName0517=Savant
-05 and 18
+Arcanist + Outrider
 tagSkillClassName0518=Cleanser
-05 and 19
+Arcanist + Champion
 tagSkillClassName0519=Havoc Mage
-05 and 20
+Arcanist + Riftstalker
 tagSkillClassName0520=Void Disciple
-05 and 21
+Arcanist + Necrotic
 tagSkillClassName0521=Forsaker
-05 and 22
+Arcanist + Defense
 tagSkillClassName0522=Grand Protector
-05 and 23
+Arcanist + Hunting
 tagSkillClassName0523=Seeker
-05 and 24
+Arcanist + Spirit
 tagSkillClassName0524=Black Magus
-05 and 25
+Arcanist + Warfare
 tagSkillClassName0525=Hierarch
-05 and 26
+Arcanist + Nature
 tagSkillClassName0526=Visionary
-05 and 27
+Arcanist + Rogue
 tagSkillClassName0527=Eccentric
-05 and 28
+Arcanist + Earth
 tagSkillClassName0528=[ms]Enchanter[fs]Enchantress
-05 and 29
+Arcanist + Storm
 tagSkillClassName0529=Thaumaturgist
-05 and 30
+Arcanist + Dream
 tagSkillClassName0530=Weaver
-05 and 31
+Arcanist + Barbarian 
 tagSkillClassName0531=Arcane Titan
-05 and 32
+Arcanist + Runes
 tagSkillClassName0532=Runecaster
-05 and 33
+Arcanist + Neidan
 tagSkillClassName0533=Daoshi
-05 and 34
+Arcanist + Reanimator
 tagSkillClassName0534=Sapper
-05 and 35
+Arcanist + Priest
 tagSkillClassName0535=Aetheric Cleric
-05 and 36
+Arcanist + Illusionist
 tagSkillClassName0536=Grand Magus
-05 and 37
+Arcanist + Blood Knight
 tagSkillClassName0537=[ms]Blood Sorcerer [fs]Blood Sorceress
-05 and 38
-tagSkillClassName0538=Arcanist+Berserker
+Arcanist + Berserker
+tagSkillClassName0538=Evoker
+Arcanist + Tempest
+tagSkillClassName0539=Magefencer
+Arcanist + Swampdweller
+tagSkillClassName0540=Foreseer
+Arcanist + Frigid Hunter
+tagSkillClassName0541=Magus
+Arcanist + Chieftain
+tagSkillClassName0542=Totemist
 ~~~~~~~~
 Shaman
 ~~~~~~~~
-06 and 07
+Shaman + Inquisitor
 tagSkillClassName0607=Vindicator
-06 and 08
+Shaman + Necromancer
 tagSkillClassName0608=Ritualist
-06 and 09
+Shaman + Oathkeeper
 tagSkillClassName0609=Archon
-06 and 10
+Shaman + DemonHunter
 tagSkillClassName0610=Savage Hunter
-06 and 11
+Shaman + WitchDoctor
 tagSkillClassName0611=Subjugator
-06 and 12
+Shaman + Monk
 tagSkillClassName0612=Thunderlord
-06 and 13
+Shaman + Wizard
 tagSkillClassName0613=Spiritualist
-06 and 14
+Shaman + Crusader
 tagSkillClassName0614=Storm Cleric
-06 and 15
+Shaman + D3Necro
 tagSkillClassName0615=Beastmaster
-06 and 16
+Shaman + Terror Knight
 tagSkillClassName0616=Lifedrinker
-06 and 17
+Shaman + Evocator
 tagSkillClassName0617=Loremaster
-06 and 18
+Shaman + Outrider
 tagSkillClassName0618=Omen Ender
-06 and 19
+Shaman + Champion
 tagSkillClassName0619=Chosen
-06 and 20
+Shaman + Riftstalker
 tagSkillClassName0620=Bereft
-06 and 21
+Shaman + Necrotic
 tagSkillClassName0621=Effigy Master
-06 and 22
+Shaman + Defense
 tagSkillClassName0622=Huskarl
-06 and 23
+Shaman + Hunting
 tagSkillClassName0623=Pack Leader
-06 and 24
+Shaman + Spirit
 tagSkillClassName0624=Medium
-06 and 25
+Shaman + Warfare
 tagSkillClassName0625=Stormborn
-06 and 26
+Shaman + Nature
 tagSkillClassName0626=Woad Warrior
-06 and 27
+Shaman + Rogue
 tagSkillClassName0627=Blood Gypsy
-06 and 28
+Shaman + Earth
 tagSkillClassName0628=Eye of Gaia
-06 and 29
+Shaman + Storm
 tagSkillClassName0629=Stormlord
-06 and 30
+Shaman + Dream
 tagSkillClassName0630=Farseer
-06 and 31
+Shaman + Barbarian 
 tagSkillClassName0631=Hellion
-06 and 32
+Shaman + Runes
 tagSkillClassName0632=Feral Mage
-06 and 33
+Shaman + Neidan
 tagSkillClassName0633=Musogin
-06 and 34
+Shaman + Reanimator
 tagSkillClassName0634=Fleshweaver
-06 and 35
+Shaman + Priest
 tagSkillClassName0635=Anchorite
-06 and 36
+Shaman + Illusionist
 tagSkillClassName0636=Acolyte
-06 and 37
+Shaman + Blood Knight
 tagSkillClassName0637=Bloodcaller
-06 and 38
-tagSkillClassName0638=Shaman+Berserker
+Shaman + Berserker
+tagSkillClassName0638=Mystic
+Shaman + Tempest
+tagSkillClassName0639=Stormbender
+Shaman + Swampdweller
+tagSkillClassName0640=Bloodgorger
+Shaman + Frigid Hunter
+tagSkillClassName0641=Hermit
+Shaman + Chieftain
+tagSkillClassName0642=Earthshaker
 ~~~~~~~~
 Inquisitor
 ~~~~~~~~
-07 and 08
+Inquisitor + Necromancer
 tagSkillClassName0708=Apostate
-07 and 09
+Inquisitor + Oathkeeper
 tagSkillClassName0709=Paladin
-07 and 10
+Inquisitor + DemonHunter
 tagSkillClassName0710=Interrogator
-07 and 11
+Inquisitor + WitchDoctor
 tagSkillClassName0711=Runepriest
-07 and 12
+Inquisitor + Monk
 tagSkillClassName0712=Keśin
-07 and 13
+Inquisitor + Wizard
 tagSkillClassName0713=Spellslinger
-07 and 14
+Inquisitor + Crusader
 tagSkillClassName0714=Justiciar
-07 and 15
+Inquisitor + D3Necro
 tagSkillClassName0715=Banisher
-07 and 16
+Inquisitor + Terror Knight
 tagSkillClassName0716=Smiter
-07 and 17
+Inquisitor + Evocator
 tagSkillClassName0717=Traitor
-07 and 18
+Inquisitor + Outrider
 tagSkillClassName0718=Lead Dealer
-07 and 19
+Inquisitor + Champion
 tagSkillClassName0719=Marshall
-07 and 20
+Inquisitor + Riftstalker
 tagSkillClassName0720=Witcher
-07 and 21
+Inquisitor + Necrotic
 tagSkillClassName0721=Rune Corrupter
-07 and 22
+Inquisitor + Defense
 tagSkillClassName0722=Captain
-07 and 23
+Inquisitor + Hunting
 tagSkillClassName0723=Sharpshooter
-07 and 24
+Inquisitor + Spirit
 tagSkillClassName0724=Betrayer
-07 and 25
+Inquisitor + Warfare
 tagSkillClassName0725=Magebane
-07 and 26
+Inquisitor + Nature
 tagSkillClassName0726=Protector
-07 and 27
+Inquisitor + Rogue
 tagSkillClassName0727=Outlaw
-07 and 28
+Inquisitor + Earth
 tagSkillClassName0728=Runeshaper
-07 and 29
-tagSkillClassName0729=Tempest
-07 and 30
+Inquisitor + Storm
+tagSkillClassName0729=Electrocmancer
+Inquisitor + Dream
 tagSkillClassName0730=Dreamslayer
-07 and 31
+Inquisitor + Barbarian 
 tagSkillClassName0731=Tyrant
-07 and 32
+Inquisitor + Runes
 tagSkillClassName0732=Vaultkeeper
-07 and 33
+Inquisitor + Neidan
 tagSkillClassName0733=Jitong
-07 and 34
+Inquisitor + Reanimator
 tagSkillClassName0734=Heretic
-07 and 35
+Inquisitor + Priest
 tagSkillClassName0735=Ecclesiarch
-07 and 36
+Inquisitor + Illusionist
 tagSkillClassName0736=Exorcist
-07 and 37
+Inquisitor + Blood Knight
 tagSkillClassName0737=Eradicator
-07 and 38
-tagSkillClassName0738=Inquisitor(07)+Berserker
+Inquisitor + Berserker
+tagSkillClassName0738=Runekeeper
+Inquisitor + Tempest
+tagSkillClassName0739=Corsair
+Inquisitor + Swampdweller
+tagSkillClassName0740=Researcher
+Inquisitor + Frigid Hunter
+tagSkillClassName0741=Luminari Scout
+Inquisitor + Chieftain
+tagSkillClassName0742=Exile
 ~~~~~~~~
 Necromancer
 ~~~~~~~~
-08 and 09
+Necromancer + Oathkeeper
 tagSkillClassName0809=Oppressor
-08 and 10
+Necromancer + DemonHunter
 tagSkillClassName0810=Hellborn
-08 and 11
+Necromancer + WitchDoctor
 tagSkillClassName0811=Soul Harvester
-08 and 12
+Necromancer + Monk
 tagSkillClassName0812=Soulbinder
-08 and 13
+Necromancer + Wizard
 tagSkillClassName0813=Necromage
-08 and 14
+Necromancer + Crusader
 tagSkillClassName0814=Dread Knight
-08 and 15
+Necromancer + D3Necro
 tagSkillClassName0815=Deathlord
-08 and 16
+Necromancer + Terror Knight
 tagSkillClassName0816=Horror
-08 and 17
+Necromancer + Evocator
 tagSkillClassName0817=Outcast
-08 and 18
+Necromancer + Outrider
 tagSkillClassName0818=Plaguespreader
-08 and 19
+Necromancer + Champion
 tagSkillClassName0819=Violator
-08 and 20
+Necromancer + Riftstalker
 tagSkillClassName0820=Siphonist
-08 and 21
+Necromancer + Necrotic
 tagSkillClassName0821=Dirge
-08 and 22
+Necromancer + Defense
 tagSkillClassName0822=Wretched Sentry
-08 and 23
+Necromancer + Hunting
 tagSkillClassName0823=Spectral Hunter
-08 and 24
+Necromancer + Spirit
 tagSkillClassName0824=Grand Necromancer
-08 and 25
+Necromancer + Warfare
 tagSkillClassName0825=Death's Champion
-08 and 26
+Necromancer + Nature
 tagSkillClassName0826=Seer
-08 and 27
+Necromancer + Rogue
 tagSkillClassName0827=Death's Blade
-08 and 28
+Necromancer + Earth
 tagSkillClassName0828=Diabolist
-08 and 29
+Necromancer + Storm
 tagSkillClassName0829=Storm Lich
-08 and 30
+Necromancer + Dream
 tagSkillClassName0830=Bringer of Sleep
-08 and 31
+Necromancer + Barbarian 
 tagSkillClassName0831=Executioner
-08 and 32
+Necromancer + Runes
 tagSkillClassName0832=Deadbinder
-08 and 33
+Necromancer + Neidan
 tagSkillClassName0833=Tang-ki
-08 and 34
+Necromancer + Reanimator
 tagSkillClassName0834=Wraithspeaker
-08 and 35
+Necromancer + Priest
 tagSkillClassName0835=Deathspeaker
-08 and 36
+Necromancer + Illusionist
 tagSkillClassName0836=Theurgist
-08 and 37
+Necromancer + Blood Knight
 tagSkillClassName0837=Blood Lord
-08 and 38
-tagSkillClassName0838=Necromancer(08)+Berserker
+Necromancer + Berserker
+tagSkillClassName0838=Veilwalker
+Necromancer + Tempest
+tagSkillClassName0839=Deathdancer
+Necromancer + Swampdweller
+tagSkillClassName0840=Fleshlord
+Necromancer + Frigid Hunter
+tagSkillClassName0841=Gravekeeper
+Necromancer + Chieftain
+tagSkillClassName0842=Gravespeaker
 ~~~~~~~~
-Oathkeeper
+Oathkeeper 
 ~~~~~~~~
-09 and 10
+Oathkeeper  + DemonHunter
 tagSkillClassName0910=Demonslayer
-09 and 11
+Oathkeeper  + WitchDoctor
 tagSkillClassName0911=Daivrat
-09 and 12
+Oathkeeper  + Monk
 tagSkillClassName0912=Ascetic
-09 and 13
+Oathkeeper  + Wizard
 tagSkillClassName0913=Arcane Keeper
-09 and 14
+Oathkeeper  + Crusader
 tagSkillClassName0914=Centurion
-09 and 15
+Oathkeeper  + D3Necro
 tagSkillClassName0915=Dreadguard
-09 and 16
+Oathkeeper  + Terror Knight
 tagSkillClassName0916=Infernal Knight
-09 and 17
+Oathkeeper  + Evocator
 tagSkillClassName0917=Elemental Keeper
-09 and 18
+Oathkeeper  + Outrider
 tagSkillClassName0918=Pilferer
-09 and 19
+Oathkeeper  + Champion
 tagSkillClassName0919=Holy Guardian
-09 and 20
+Oathkeeper  + Riftstalker
 tagSkillClassName0920=Riftkeeper
-09 and 21
+Oathkeeper  + Necrotic
 tagSkillClassName0921=Profane
-09 and 22
+Oathkeeper  + Defense
 tagSkillClassName0922=Chevalier
-09 and 23
+Oathkeeper  + Hunting
 tagSkillClassName0923=Oath Hunter
-09 and 24
-tagSkillClassName0924=Evocator
-09 and 25
+Oathkeeper  + Spirit
+tagSkillClassName0924=Mortarch
+Oathkeeper  + Warfare
 tagSkillClassName0925=Myrmidon
-09 and 26
+Oathkeeper  + Nature
 tagSkillClassName0926=Preserver
-09 and 27
+Oathkeeper  + Rogue
 tagSkillClassName0927=Errant
-09 and 28
+Oathkeeper  + Earth
 tagSkillClassName0928=Sun Seeker
-09 and 29
+Oathkeeper  + Storm
 tagSkillClassName0929=Cloud Seeker
-09 and 30
+Oathkeeper  + Dream
 tagSkillClassName0930=Ascendant
-09 and 31
-tagSkillClassName0931=Battle Templar
-09 and 32
+Oathkeeper  + Barbarian 
+tagSkillClassName0931=Gallant
+Oathkeeper  + Runes
 tagSkillClassName0932=Glyphkeeper
-09 and 33
+Oathkeeper  + Neidan
 tagSkillClassName0933=Sōhei
-09 and 34
+Oathkeeper  + Reanimator
 tagSkillClassName0934=Hierophant
-09 and 35
+Oathkeeper  + Priest
 tagSkillClassName0935=Archbishop
-09 and 36
+Oathkeeper  + Illusionist
 tagSkillClassName0936=Diviner
-09 and 37
+Oathkeeper  + Blood Knight
 tagSkillClassName0937=Oathbringer
-09 and 38
-tagSkillClassName0938=Oathkeeper (09)+Berserker
+Oathkeeper  + Berserker
+tagSkillClassName0938=Zealot
+Oathkeeper  + Tempest
+tagSkillClassName0939=Chaplain
+Oathkeeper  + Swampdweller
+tagSkillClassName0940=Tribekeeper
+Oathkeeper  + Frigid Hunter
+tagSkillClassName0941=Devout Disciple
+Oathkeeper  + Chieftain
+tagSkillClassName0942=Iron Warden
 ~~~~~~~~
-DemonHunter
+DemonHunter 
 ~~~~~~~~
-10 and 11
+DemonHunter  + WitchDoctor
 tagSkillClassName1011=Mystic Hunter
-10 and 12
+DemonHunter  + Monk
 tagSkillClassName1012=Holy Hunter
-10 and 13
+DemonHunter  + Wizard
 tagSkillClassName1013=Magic Ranger
-10 and 14
+DemonHunter  + Crusader
 tagSkillClassName1014=Siegebreaker
-10 and 15
+DemonHunter  + D3Necro
 tagSkillClassName1015=Dark Ranger
-10 and 16
-tagSkillClassName1016=Avatar of Vengance
-10 and 17
+DemonHunter  + Terror Knight
+tagSkillClassName1016=Avatar of Vengeance
+DemonHunter  + Evocator
 tagSkillClassName1017=Elemental Curator
-10 and 18
+DemonHunter  + Outrider
 tagSkillClassName1018=Gunslinger
-10 and 19
+DemonHunter  + Champion
 tagSkillClassName1019=Demonbuster
-10 and 20
+DemonHunter  + Riftstalker
 tagSkillClassName1020=Shadow Walker
-10 and 21
+DemonHunter  + Necrotic
 tagSkillClassName1021=Ghastly Pathfinder
-10 and 22
+DemonHunter  + Defense
 tagSkillClassName1022=Partisan
-10 and 23
+DemonHunter  + Hunting
 tagSkillClassName1023=Strategist
-10 and 24
+DemonHunter  + Spirit
 tagSkillClassName1024=Banshee
-10 and 25
+DemonHunter  + Warfare
 tagSkillClassName1025=Eviscerator
-10 and 26
+DemonHunter  + Nature
 tagSkillClassName1026=Wild Reaper
-10 and 27
+DemonHunter  + Rogue
 tagSkillClassName1027=Shinobi
-10 and 28
+DemonHunter  + Earth
 tagSkillClassName1028=Immolator
-10 and 29
+DemonHunter  + Storm
 tagSkillClassName1029=Sky Stalker
-10 and 30
+DemonHunter  + Dream
 tagSkillClassName1030=Phantasm
-10 and 31
+DemonHunter  + Barbarian 
 tagSkillClassName1031=Raider
-10 and 32
+DemonHunter  + Runes
 tagSkillClassName1032=Demonbinder
-10 and 33
+DemonHunter  + Neidan
 tagSkillClassName1033=Ryōshi
-10 and 34
+DemonHunter  + Reanimator
 tagSkillClassName1034=Puppeteer
-10 and 35
+DemonHunter  + Priest
 tagSkillClassName1035=Blessed Slayer
-10 and 36
+DemonHunter  + Illusionist
 tagSkillClassName1036=Ebonshade Stalker
-10 and 37
+DemonHunter  + Blood Knight
 tagSkillClassName1037=Blood Hunter
-10 and 38
-tagSkillClassName1038=DemonHunter (10)+Berserker
+DemonHunter  + Berserker
+tagSkillClassName1038=Revenger
+DemonHunter  + Tempest
+tagSkillClassName1039=Bladeweaver
+DemonHunter  + Swampdweller
+tagSkillClassName1040=Demon Gutter
+DemonHunter  + Frigid Hunter
+tagSkillClassName1041=Daredevil
+DemonHunter  + Chieftain
+tagSkillClassName1042=Dreadhunter
 ~~~~~~~~
 WitchDoctor
 ~~~~~~~~
-11 and 12
+WitchDoctor + Monk
 tagSkillClassName1112=Channeler
-11 and 13
+WitchDoctor + Wizard
 tagSkillClassName1113=Spiritbinder
-11 and 14
+WitchDoctor + Crusader
 tagSkillClassName1114=Apothecary
-11 and 15
+WitchDoctor + D3Necro
 tagSkillClassName1115=Resurrector
-11 and 16
+WitchDoctor + Terror Knight
 tagSkillClassName1116=Blight Fiend
-11 and 17
+WitchDoctor + Evocator
 tagSkillClassName1117=Wormtongue
-11 and 18
+WitchDoctor + Outrider
 tagSkillClassName1118=Gun Hexer
-11 and 19
+WitchDoctor + Champion
 tagSkillClassName1119=Fallen Seraphim
-11 and 20
+WitchDoctor + Riftstalker
 tagSkillClassName1120=Planestalker
-11 and 21
+WitchDoctor + Necrotic
 tagSkillClassName1121=Vile Devourer
-11 and 22
+WitchDoctor + Defense
 tagSkillClassName1122=Spirit Guardian
-11 and 23
+WitchDoctor + Hunting
 tagSkillClassName1123=Swamp Stalker
-11 and 24
+WitchDoctor + Spirit
 tagSkillClassName1124=Essence Drinker
-11 and 25
+WitchDoctor + Warfare
 tagSkillClassName1125=Warchief
-11 and 26
+WitchDoctor + Nature
 tagSkillClassName1126=Plague Lord
-11 and 27
+WitchDoctor + Rogue
 tagSkillClassName1127=Miasma Master
-11 and 28
+WitchDoctor + Earth
 tagSkillClassName1128=Speaker of the Depths
-11 and 29
+WitchDoctor + Storm
 tagSkillClassName1129=Stormhexer
-11 and 30
+WitchDoctor + Dream
 tagSkillClassName1130=Bonespeaker
-11 and 31
+WitchDoctor + Barbarian 
 tagSkillClassName1131=Tribalist
-11 and 32
+WitchDoctor + Runes
 tagSkillClassName1132=Obeah
-11 and 33
+WitchDoctor + Neidan
 tagSkillClassName1133=Soultwister
-11 and 34
+WitchDoctor + Reanimator
 tagSkillClassName1134=Necrologist
-11 and 35
+WitchDoctor + Priest
 tagSkillClassName1135=Hedgewitch
-11 and 36
+WitchDoctor + Illusionist
 tagSkillClassName1136=Hexweaver
-11 and 37
+WitchDoctor + Blood Knight
 tagSkillClassName1137=Blood Witch
-11 and 38
-tagSkillClassName1138=WitchDoctor(11)+Berserker
+WitchDoctor + Berserker
+tagSkillClassName1138=Skinwalker
+WitchDoctor + Tempest
+tagSkillClassName1139=[ms]Taskmaster[fs]Taskmistress
+WitchDoctor + Swampdweller
+tagSkillClassName1140=Atasaya
+WitchDoctor + Frigid Hunter
+tagSkillClassName1141=Spiritbreaker
+WitchDoctor + Chieftain
+tagSkillClassName1142=[ms]Oyun[fs]Udagan
 ~~~~~~~~
 Monk
 ~~~~~~~~
-12 and 13
+Monk + Wizard
 tagSkillClassName1213=Mageseeker
-12 and 14
+Monk + Crusader
 tagSkillClassName1214=Exemplar
-12 and 15
+Monk + D3Necro
 tagSkillClassName1215=Death Priest
-12 and 16
+Monk + Terror Knight
 tagSkillClassName1216=Unholy Apostle
-12 and 17
+Monk + Evocator
 tagSkillClassName1217=Sentinel of the Prism
-12 and 18
+Monk + Outrider
 tagSkillClassName1218=Paragon
-12 and 19
+Monk + Champion
 tagSkillClassName1219=Arbiter
-12 and 20
+Monk + Riftstalker
 tagSkillClassName1220=Warp Priest
-12 and 21
+Monk + Necrotic
 tagSkillClassName1221=Tormentor
-12 and 22
+Monk + Defense
 tagSkillClassName1222=Peacekeeper
-12 and 23
+Monk + Hunting
 tagSkillClassName1223=Valkyrie
-12 and 24
+Monk + Spirit
 tagSkillClassName1224=Spiritual Entity
-12 and 25
+Monk + Warfare
 tagSkillClassName1225=Combatant
-12 and 26
+Monk + Nature
 tagSkillClassName1226=Elder
-12 and 27
+Monk + Rogue
 tagSkillClassName1227=Martial Artist
-12 and 28
+Monk + Earth
 tagSkillClassName1228=Firebender
-12 and 29
+Monk + Storm
 tagSkillClassName1229=Airbender
-12 and 30
+Monk + Dream
 tagSkillClassName1230=Hypnotist
-12 and 31
-tagSkillClassName1231=Brawler
-12 and 32
+Monk + Barbarian 
+tagSkillClassName1231=Pathfinder
+Monk + Runes
 tagSkillClassName1232=Vicar of the Arcane
-12 and 33
+Monk + Neidan
 tagSkillClassName1233=Budoka
-12 and 34
+Monk + Reanimator
 tagSkillClassName1234=Dismantler
-12 and 35
+Monk + Priest
 tagSkillClassName1235=Temple Guardian
-12 and 36
+Monk + Illusionist
 tagSkillClassName1236=Illusory Martialist
-12 and 37
+Monk + Blood Knight
 tagSkillClassName1237=Forbringer
-12 and 38
-tagSkillClassName1238=Monk(12)+Berserker
+Monk + Berserker
+tagSkillClassName1238=Brawler
+Monk + Tempest
+tagSkillClassName1239=Windrunner
+Monk + Swampdweller
+tagSkillClassName1240=Journeyer
+Monk + Frigid Hunter
+tagSkillClassName1241=Windwalker
+Monk + Chieftain
+tagSkillClassName1242=Battlefield Pilgrim
 ~~~~~~~~
 Wizard
 ~~~~~~~~
-13 and 14
+Wizard + Crusader
 tagSkillClassName1314=Seraph
-13 and 15
+Wizard + D3Necro
 tagSkillClassName1315=Dark Mage
-13 and 16
+Wizard + Terror Knight
 tagSkillClassName1316=Doomcaster
-13 and 17
+Wizard + Evocator
 tagSkillClassName1317=Master of Magic
-13 and 18
+Wizard + Outrider
 tagSkillClassName1318=Incanter
-13 and 19
+Wizard + Champion
 tagSkillClassName1319=Overlord
-13 and 20
+Wizard + Riftstalker
 tagSkillClassName1320=Riftmage
-13 and 21
+Wizard + Necrotic
 tagSkillClassName1321=Void Shaper
-13 and 22
+Wizard + Defense
 tagSkillClassName1322=Vizier
-13 and 23
+Wizard + Hunting
 tagSkillClassName1323=Chimera
-13 and 24
+Wizard + Spirit
 tagSkillClassName1324=Spectral Mage
-13 and 25
+Wizard + Warfare
 tagSkillClassName1325=Arcane Marauder
-13 and 26
+Wizard + Nature
 tagSkillClassName1326=White Magi
-13 and 27
+Wizard + Rogue
 tagSkillClassName1327=Spellthief
-13 and 28
+Wizard + Earth
 tagSkillClassName1328=Incinerator
-13 and 29
+Wizard + Storm
 tagSkillClassName1329=Aeromancer
-13 and 30
+Wizard + Dream
 tagSkillClassName1330=Clairvoyant
-13 and 31
+Wizard + Barbarian 
 tagSkillClassName1331=Wild Mage
-13 and 32
+Wizard + Runes
 tagSkillClassName1332=Mesmer
-13 and 33
+Wizard + Neidan
 tagSkillClassName1333=Wu-Jen
-13 and 34
+Wizard + Reanimator
 tagSkillClassName1334=Obliterator
-13 and 35
+Wizard + Priest
 tagSkillClassName1335=Divine Sorcerer
-13 and 36
+Wizard + Illusionist
 tagSkillClassName1336=Sacramentor
-13 and 37
+Wizard + Blood Knight
 tagSkillClassName1337=Blood Mage
-13 and 38
-tagSkillClassName1338=Wizard(13)+Berserker
+Wizard + Berserker
+tagSkillClassName1338=Metamorph
+Wizard + Tempest
+tagSkillClassName1339=Arcane Blade
+Wizard + Swampdweller
+tagSkillClassName1340=Hag
+Wizard + Frigid Hunter
+tagSkillClassName1341=Ice Hunter
+Wizard + Chieftain
+tagSkillClassName1342=Wardbinder
 ~~~~~~~~
 Crusader
 ~~~~~~~~
-14 and 15
+Crusader + D3Necro
 tagSkillClassName1415=Dark Cleric
-14 and 16
+Crusader + Terror Knight
 tagSkillClassName1416=Cursed Knight
-14 and 17
+Crusader + Evocator
 tagSkillClassName1417=Guardian of the Elements
-14 and 18
+Crusader + Outrider
 tagSkillClassName1418=Vanquisher
-14 and 19
+Crusader + Champion
 tagSkillClassName1419=Lawbringer
-14 and 20
+Crusader + Riftstalker
 tagSkillClassName1420=Wraith
-14 and 21
+Crusader + Necrotic
 tagSkillClassName1421=Massacrist
-14 and 22
+Crusader + Defense
 tagSkillClassName1422=Vanguard
-14 and 23
+Crusader + Hunting
 tagSkillClassName1423=Arrow of Justice
-14 and 24
+Crusader + Spirit
 tagSkillClassName1424=Efreet
-14 and 25
+Crusader + Warfare
 tagSkillClassName1425=Bruiser
-14 and 26
+Crusader + Nature
 tagSkillClassName1426=Primal Warden
-14 and 27
+Crusader + Rogue
 tagSkillClassName1427=Marauder
-14 and 28
+Crusader + Earth
 tagSkillClassName1428=Stonemarcher
-14 and 29
+Crusader + Storm
 tagSkillClassName1429=Stormrider
-14 and 30
+Crusader + Dream
 tagSkillClassName1430=Mind Wrecker
-14 and 31
-tagSkillClassName1431=[ms]Chieftain[fs]Valkyrie
-14 and 32
+Crusader + Barbarian 
+tagSkillClassName1431=High Exarch
+Crusader + Runes
 tagSkillClassName1432=Esoteric Dragoon
-14 and 33
+Crusader + Neidan
 tagSkillClassName1433=Shugenja
-14 and 34
+Crusader + Reanimator
 tagSkillClassName1434=Fallen
-14 and 35
+Crusader + Priest
 tagSkillClassName1435=Sanctifier
-14 and 36
+Crusader + Illusionist
 tagSkillClassName1436=Faithweaver
-14 and 37
+Crusader + Blood Knight
 tagSkillClassName1437=Profanator
-14 and 38
-tagSkillClassName1438=Crusader(14)+Berserker
+Crusader + Berserker
+tagSkillClassName1438=Banneret
+Crusader + Tempest
+tagSkillClassName1439=Storm Marcher
+Crusader + Swampdweller
+tagSkillClassName1440=Swamp Defender
+Crusader + Frigid Hunter
+tagSkillClassName1441=Frostguard
+Crusader + Chieftain
+tagSkillClassName1442=Highborn
 ~~~~~~~~
 D3Necro
 ~~~~~~~~
-15 and 16
+D3Necro + Terror Knight
 tagSkillClassName1516=Gorefiend
-15 and 17
+D3Necro + Evocator
 tagSkillClassName1517=Deathwind
-15 and 18
+D3Necro + Outrider
 tagSkillClassName1518=Deathdealer
-15 and 19
+D3Necro + Champion
 tagSkillClassName1519=Hexblade
-15 and 20
+D3Necro + Riftstalker
 tagSkillClassName1520=Tenebrae
-15 and 21
+D3Necro + Necrotic
 tagSkillClassName1521=Abomination
-15 and 22
+D3Necro + Defense
 tagSkillClassName1522=Undying Warder
-15 and 23
+D3Necro + Hunting
 tagSkillClassName1523=Restless Ranger
-15 and 24
+D3Necro + Spirit
 tagSkillClassName1524=Soul Weaver
-15 and 25
+D3Necro + Warfare
 tagSkillClassName1525=Fallen Headsman
-15 and 26
+D3Necro + Nature
 tagSkillClassName1526=Desecrator
-15 and 27
+D3Necro + Rogue
 tagSkillClassName1527=Dread Pirate
-15 and 28
+D3Necro + Earth
 tagSkillClassName1528=Order of the Blackflame
-15 and 29
+D3Necro + Storm
 tagSkillClassName1529=Dread Warlock
-15 and 30
+D3Necro + Dream
 tagSkillClassName1530=Netherseer
-15 and 31
+D3Necro + Barbarian 
 tagSkillClassName1531=Revenant
-15 and 32
+D3Necro + Runes
 tagSkillClassName1532=Bonecaster
-15 and 33
+D3Necro + Neidan
 tagSkillClassName1533=Maho-Tsukai
-15 and 34
+D3Necro + Reanimator
 tagSkillClassName1534=Fleshcrafter
-15 and 35
+D3Necro + Priest
 tagSkillClassName1535=Crypt Keeper
-15 and 36
+D3Necro + Illusionist
 tagSkillClassName1536=Wraithweaver
-15 and 37
+D3Necro + Blood Knight
 tagSkillClassName1537=[ms]Dark Emperor [fs]Dark Empress
-15 and 38
-tagSkillClassName1538=D3Necro(15)+Berserker
+D3Necro + Berserker
+tagSkillClassName1538=Decimator
+D3Necro + Tempest
+tagSkillClassName1539=Deathbringer
+D3Necro + Swampdweller
+tagSkillClassName1540=Drowner
+D3Necro + Frigid Hunter
+tagSkillClassName1541=Cursed Huntsman
+D3Necro + Chieftain
+tagSkillClassName1542=Bonecrusher
 ~~~~~~~~
 Terror Knight
 ~~~~~~~~
-16 and 17
+Terror Knight + Evocator
 tagSkillClassName1617=Terrormage
-16 and 18
+Terror Knight + Outrider
 tagSkillClassName1618=[ms]Hell Hunter[fs]Hell Huntress
-16 and 19
-tagSkillClassName1619=Dreadnaught
-16 and 20
+Terror Knight + Champion
+tagSkillClassName1619=Terrornaught
+Terror Knight + Riftstalker
 tagSkillClassName1620=Desolator
-16 and 21
+Terror Knight + Necrotic
 tagSkillClassName1621=Void Knight
-16 and 22
+Terror Knight + Defense
 tagSkillClassName1622=Bloodguard
-16 and 23
+Terror Knight + Hunting
 tagSkillClassName1623=Foe Hunter
-16 and 24
+Terror Knight + Spirit
 tagSkillClassName1624=Ghostwalker
-16 and 25
+Terror Knight + Warfare
 tagSkillClassName1625=Warmaster
-16 and 26
+Terror Knight + Nature
 tagSkillClassName1626=Ronin
-16 and 27
+Terror Knight + Rogue
 tagSkillClassName1627=Malconvoker
-16 and 28
+Terror Knight + Earth
 tagSkillClassName1628=Flame Fanatic
-16 and 29
+Terror Knight + Storm
 tagSkillClassName1629=Stormforged
-16 and 30
+Terror Knight + Dream
 tagSkillClassName1630=Doomdreamer
-16 and 31
+Terror Knight + Barbarian 
 tagSkillClassName1631=Annihilator
-16 and 32
+Terror Knight + Runes
 tagSkillClassName1632=Conquistador
-16 and 33
+Terror Knight + Neidan
 tagSkillClassName1633=Oni
-16 and 34
+Terror Knight + Reanimator
 tagSkillClassName1634=Terrorbringer
-16 and 35
+Terror Knight + Priest
 tagSkillClassName1635=Prophet of Terror
-16 and 36
+Terror Knight + Illusionist
 tagSkillClassName1636=Herald of Terror
-16 and 37
+Terror Knight + Blood Knight
 tagSkillClassName1637=Savage Knight
-16 and 38
-tagSkillClassName1638=Terror Knight+Berserker
+Terror Knight + Berserker
+tagSkillClassName1638=Burned Fury
+Terror Knight + Tempest
+tagSkillClassName1639=Windfury
+Terror Knight + Swampdweller
+tagSkillClassName1640=Iron Demon
+Terror Knight + Frigid Hunter
+tagSkillClassName1641=Tupilaq
+Terror Knight + Chieftain
+tagSkillClassName1642=Pillager
 ~~~~~~~~
-Evocatus
+Evocator
 ~~~~~~~~
-17 and 18
+Evocator + Outrider
 tagSkillClassName1718=Gunmage
-17 and 19
+Evocator + Champion
 tagSkillClassName1719=Archmage
-17 and 20
+Evocator + Riftstalker
 tagSkillClassName1720=Subverter
-17 and 21
+Evocator + Necrotic
 tagSkillClassName1721=Sinner
-17 and 22
+Evocator + Defense
 tagSkillClassName1722=Elemental Scion
-17 and 23
+Evocator + Hunting
 tagSkillClassName1723=Arcane Archer
-17 and 24
+Evocator + Spirit
 tagSkillClassName1724=Theurge
-17 and 25
+Evocator + Warfare
 tagSkillClassName1725=Spellsword
-17 and 26
+Evocator + Nature
 tagSkillClassName1726=Wild Magus
-17 and 27
+Evocator + Rogue
 tagSkillClassName1727=Arcane Traitor
-17 and 28
+Evocator + Earth
 tagSkillClassName1728=Earthblessed
-17 and 29
+Evocator + Storm
 tagSkillClassName1729=Thunder Guide
-17 and 30
+Evocator + Dream
 tagSkillClassName1730=Metamind
-17 and 31
+Evocator + Barbarian 
 tagSkillClassName1731=Mystic Fighter
-17 and 32
+Evocator + Runes
 tagSkillClassName1732=Primal Magus
-17 and 33
+Evocator + Neidan
 tagSkillClassName1733=Onmyouji
-17 and 34
+Evocator + Reanimator
 tagSkillClassName1734=Soul Shrieker
-17 and 35
+Evocator + Priest
 tagSkillClassName1735=Sacralyte
-17 and 36
+Evocator + Illusionist
 tagSkillClassName1736=Phantasmal Mage
-17 and 37
+Evocator + Blood Knight
 tagSkillClassName1737=Cursed Invoker
-17 and 38
-tagSkillClassName1738=Elementalist+Berserker
+Evocator + Berserker
+tagSkillClassName1738=Asterkarn Enchanter
+Evocator + Tempest
+tagSkillClassName1739=Wildstorm
+Evocator + Swampdweller
+tagSkillClassName1740=Arcaneweaver
+Evocator + Frigid Hunter
+tagSkillClassName1741=Cryomancer
+Evocator + Chieftain
+tagSkillClassName1742=Leyweaver
 ~~~~~~~~
 Outrider
 ~~~~~~~~
-18 and 19
+Outrider + Champion
 tagSkillClassName1819=Stalker
-18 and 20
+Outrider + Riftstalker
 tagSkillClassName1820=Disruptor
-18 and 21
+Outrider + Necrotic
 tagSkillClassName1821=Vagabond
-18 and 22
+Outrider + Defense
 tagSkillClassName1822=Deadeye
-18 and 23
+Outrider + Hunting
 tagSkillClassName1823=Deepwood Sniper
-18 and 24
+Outrider + Spirit
 tagSkillClassName1824=Soul Sniper
-18 and 25
+Outrider + Warfare
 tagSkillClassName1825=Bloodbound
-18 and 26
+Outrider + Nature
 tagSkillClassName1826=Houndsman
-18 and 27
+Outrider + Rogue
 tagSkillClassName1827=Fortune's Friend
-18 and 28
+Outrider + Earth
 tagSkillClassName1828=Primordial Agent
-18 and 29
+Outrider + Storm
 tagSkillClassName1829=Windrider
-18 and 30
+Outrider + Dream
 tagSkillClassName1830=Fatespinner
-18 and 31
+Outrider + Barbarian 
 tagSkillClassName1831=Outlander
-18 and 32
+Outrider + Runes
 tagSkillClassName1832=Mystic Vanguard
-18 and 33
+Outrider + Neidan
 tagSkillClassName1833=Cike
-18 and 34
+Outrider + Reanimator
 tagSkillClassName1834=Dread Sniper
-18 and 35
+Outrider + Priest
 tagSkillClassName1835=Dissenter
-18 and 36
+Outrider + Illusionist
 tagSkillClassName1836=Mirage
-18 and 37
+Outrider + Blood Knight
 tagSkillClassName1837=Renegade
-18 and 38
-tagSkillClassName1838=Outrider+Berserker
+Outrider + Berserker
+tagSkillClassName1838=Trailblazer
+Outrider + Tempest
+tagSkillClassName1839=Bulletstorm
+Outrider + Swampdweller
+tagSkillClassName1840=Forest Dweller
+Outrider + Frigid Hunter
+tagSkillClassName1841=Hired Gun
+Outrider + Chieftain
+tagSkillClassName1842=Wayfarer
 ~~~~~~~~
 Champion
 ~~~~~~~~
-19 and 20
+Champion + Riftstalker
 tagSkillClassName1920=Skirmisher
-19 and 21
-tagSkillClassName1921=Overlord
-19 and 22
+Champion + Necrotic
+tagSkillClassName1921=Judicator
+Champion + Defense
 tagSkillClassName1922=Cataphract
-19 and 23
+Champion + Hunting
 tagSkillClassName1923=Animal Lord
-19 and 24
+Champion + Spirit
 tagSkillClassName1924=Ironsoul Champion
-19 and 25
+Champion + Warfare
 tagSkillClassName1925=Cavalier
-19 and 26
+Champion + Nature
 tagSkillClassName1926=Apostle of Peace
-19 and 27
+Champion + Rogue
 tagSkillClassName1927=Janissary
-19 and 28
+Champion + Earth
 tagSkillClassName1928=Everburning
-19 and 29
+Champion + Storm
 tagSkillClassName1929=Sturmkrieger
-19 and 30
+Champion + Dream
 tagSkillClassName1930=Martyr
-19 and 31
+Champion + Barbarian 
 tagSkillClassName1931=Battle Herald
-19 and 32
+Champion + Runes
 tagSkillClassName1932=Defender of the Nine
-19 and 33
+Champion + Neidan
 tagSkillClassName1933=Youxia
-19 and 34
+Champion + Reanimator
 tagSkillClassName1934=Chaos Knight
-19 and 35
+Champion + Priest
 tagSkillClassName1935=Knight-Enchanter
-19 and 36
+Champion + Illusionist
 tagSkillClassName1936=Pious Fighter
-19 and 37
+Champion + Blood Knight
 tagSkillClassName1937=Twilight Knight
-19 and 38
-tagSkillClassName1938=Champion+Berserker
+Champion + Berserker
+tagSkillClassName1938=Asterkarn Defender
+Champion + Tempest
+tagSkillClassName1939=Frozen Conqueror
+Champion + Swampdweller
+tagSkillClassName1940=Bogknight
+Champion + Frigid Hunter
+tagSkillClassName1941=Frostbiter
+Champion + Chieftain
+tagSkillClassName1942=Veteran
 ~~~~~~~~
 Riftstalker
 ~~~~~~~~
-20 and 21
+Riftstalker + Necrotic
 tagSkillClassName2021=Pursuer
-20 and 22
+Riftstalker + Defense
 tagSkillClassName2022=Doomguard
-20 and 23
+Riftstalker + Hunting
 tagSkillClassName2023=Abolisher
-20 and 24
+Riftstalker + Spirit
 tagSkillClassName2024=Umbrawalker
-20 and 25
+Riftstalker + Warfare
 tagSkillClassName2025=Chirurgeon
-20 and 26
+Riftstalker + Nature
 tagSkillClassName2026=Tamer of Beasts
-20 and 27
+Riftstalker + Rogue
 tagSkillClassName2027=Ethereal Butcher
-20 and 28
+Riftstalker + Earth
 tagSkillClassName2028=Planescorcher
-20 and 29
+Riftstalker + Storm
 tagSkillClassName2029=Realmwarper
-20 and 30
+Riftstalker + Dream
 tagSkillClassName2030=Mindspy
-20 and 31
+Riftstalker + Barbarian 
 tagSkillClassName2031=Rift Titan
-20 and 32
+Riftstalker + Runes
 tagSkillClassName2032=Worldwalker
-20 and 33
+Riftstalker + Neidan
 tagSkillClassName2033=Etheric Traveler
-20 and 34
+Riftstalker + Reanimator
 tagSkillClassName2034=Dark Stalker
-20 and 35
+Riftstalker + Priest
 tagSkillClassName2035=Planeswalker
-20 and 36
+Riftstalker + Illusionist
 tagSkillClassName2036=Arcane Pugilist
-20 and 37
+Riftstalker + Blood Knight
 tagSkillClassName2037=Netherblade
-20 and 38
-tagSkillClassName2038=Riftstalker+Berserker
+Riftstalker + Berserker
+tagSkillClassName2038=Chaosblade
+Riftstalker + Tempest
+tagSkillClassName2039=Swiftblade
+Riftstalker + Swampdweller
+tagSkillClassName2040=Veilwarden
+Riftstalker + Frigid Hunter
+tagSkillClassName2041=Bulletwarper
+Riftstalker + Chieftain
+tagSkillClassName2042=Gloomwalker
 ~~~~~~~~
 Necrotic
 ~~~~~~~~
-21 and 22
+Necrotic + Defense
 tagSkillClassName2122=Black Guard
-21 and 23
+Necrotic + Hunting
 tagSkillClassName2123=Mortal Hunter
-21 and 24
+Necrotic + Spirit
 tagSkillClassName2124=Pale Master
-21 and 25
+Necrotic + Warfare
 tagSkillClassName2125=Corruptor
-21 and 26
+Necrotic + Nature
 tagSkillClassName2126=Blighter
-21 and 27
+Necrotic + Rogue
 tagSkillClassName2127=Wight
-21 and 28
+Necrotic + Earth
 tagSkillClassName2128=Scourge
-21 and 29
+Necrotic + Storm
 tagSkillClassName2129=Primevil
-21 and 30
+Necrotic + Dream
 tagSkillClassName2130=Nightmare
-21 and 31
+Necrotic + Barbarian 
 tagSkillClassName2131=Predator
-21 and 32
+Necrotic + Runes
 tagSkillClassName2132=Inyanga
-21 and 33
+Necrotic + Neidan
 tagSkillClassName2133=Jiang-shi
-21 and 34
+Necrotic + Reanimator
 tagSkillClassName2134=Hellcaller
-21 and 35
+Necrotic + Priest
 tagSkillClassName2135=Bloodvine
-21 and 36
+Necrotic + Illusionist
 tagSkillClassName2136=Bloodcharmer
-21 and 37
+Necrotic + Blood Knight
 tagSkillClassName2137=Dissolver
-21 and 38
-tagSkillClassName2138=Necrotic+Berserker
-~~~~~~~~
-Necrotic
-~~~~~~~~
-21 and 22
-tagSkillClassName2122=Black Guard
-21 and 23
-tagSkillClassName2123=Mortal Hunter
-21 and 24
-tagSkillClassName2124=Pale Master
-21 and 25
-tagSkillClassName2125=Corruptor
-21 and 26
-tagSkillClassName2126=Blighter
-21 and 27
-tagSkillClassName2127=Wight
-21 and 28
-tagSkillClassName2128=Scourge
-21 and 29
-tagSkillClassName2129=Primevil
-21 and 30
-tagSkillClassName2130=Nightmare
-21 and 31
-tagSkillClassName2131=Predator
-21 and 32
-tagSkillClassName2132=Inyanga
-21 and 33
-tagSkillClassName2133=Jiang-shi
-21 and 34
-tagSkillClassName2134=Hellcaller
-21 and 35
-tagSkillClassName2135=Bloodvine
-21 and 36
-tagSkillClassName2136=Bloodcharmer
-21 and 37
-tagSkillClassName2137=Dissolver
-21 and 38
-tagSkillClassName2138=Necrotic+Berserker
+Necrotic + Berserker
+tagSkillClassName2138=Claw of the Beast
+Necrotic + Tempest
+tagSkillClassName2139=Limbstorm
+Necrotic + Swampdweller
+tagSkillClassName2140=Calamitas
+Necrotic + Frigid Hunter
+tagSkillClassName2141=Deathchill
+Necrotic + Chieftain
+tagSkillClassName2142=Witchking
 ~~~~~~~~
 Defense
 ~~~~~~~~
-22 and 23
+Defense + Hunting
 tagSkillClassName2223=TQ Warden
-22 and 24
+Defense + Spirit
 tagSkillClassName2224=TQ Spellbinder
-22 and 25
+Defense + Warfare
 tagSkillClassName2225=TQ Conqueror
-22 and 26
+Defense + Nature
 tagSkillClassName2226=TQ Guardian
-22 and 27
+Defense + Rogue
 tagSkillClassName2227=TQ Corsair
-22 and 28
+Defense + Earth
 tagSkillClassName2228=TQ Juggernaut
-22 and 29
+Defense + Storm
 tagSkillClassName2229=TQ Paladin
-22 and 30
+Defense + Dream
 tagSkillClassName2230=TQ Templar
-22 and 31
+Defense + Barbarian 
 tagSkillClassName2231=Hoplite
-22 and 32
+Defense + Runes
 tagSkillClassName2232=TQ Runesmith
-22 and 33
+Defense + Neidan
 tagSkillClassName2233=TQ Monk
-22 and 34
+Defense + Reanimator
 tagSkillClassName2234=Coagulator
-22 and 35
+Defense + Priest
 tagSkillClassName2235=Defender of Faith
-22 and 36
+Defense + Illusionist
 tagSkillClassName2236=Stonefist
-22 and 37
+Defense + Blood Knight
 tagSkillClassName2237=Breacher
-22 and 38
-tagSkillClassName2238=Defense+Berserker
+Defense + Berserker
+tagSkillClassName2238=Juggernaut
+Defense + Tempest
+tagSkillClassName2239=Shieldspark
+Defense + Swampdweller
+tagSkillClassName2240=Oakskin
+Defense + Frigid Hunter
+tagSkillClassName2241=Tundra Guard
+Defense + Chieftain
+tagSkillClassName2242=Phalanx
 ~~~~~~~~
 Hunting
 ~~~~~~~~
-23 and 24
+Hunting + Spirit
 tagSkillClassName2324=TQ Bone Charmer
-23 and 25
+Hunting + Warfare
 tagSkillClassName2325=TQ Slayer
-23 and 26
+Hunting + Nature
 tagSkillClassName2326=TQ Ranger
-23 and 27
+Hunting + Rogue
 tagSkillClassName2327=TQ Brigand
-23 and 28
+Hunting + Earth
 tagSkillClassName2328=TQ Avenger
-23 and 29
+Hunting + Storm
 tagSkillClassName2329=TQ Sage
-23 and 30
+Hunting + Dream
 tagSkillClassName2330=TQ Haruspex
-23 and 31
+Hunting + Barbarian 
 tagSkillClassName2331=Highlander
-23 and 32
+Hunting + Runes
 tagSkillClassName2332=TQ Dragon Hunter
-23 and 33
+Hunting + Neidan
 tagSkillClassName2333=TQ Pilgrim
-23 and 34
+Hunting + Reanimator
 tagSkillClassName2334=Rot Seeker
-23 and 35
+Hunting + Priest
 tagSkillClassName2335=Pagan Hunter
-23 and 36
+Hunting + Illusionist
 tagSkillClassName2336=Herbalist
-23 and 37
+Hunting + Blood Knight
 tagSkillClassName2337=Ruthless Tracker
-23 and 38
-tagSkillClassName2338=Hunting+Berserker
+Hunting + Berserker
+tagSkillClassName2338=Feral Predator
+Hunting + Tempest
+tagSkillClassName2339=Cryokeeper
+Hunting + Swampdweller
+tagSkillClassName2340=Primal Hunter
+Hunting + Frigid Hunter
+tagSkillClassName2341=Tundra Hunter
+Hunting + Chieftain
+tagSkillClassName2342=Impaler
 ~~~~~~~~
 Spirit
 ~~~~~~~~
-24 and 25
+Spirit + Warfare
 tagSkillClassName2425=TQ Spellbreaker
-24 and 26
+Spirit + Nature
 tagSkillClassName2426=TQ Soothsayer
-24 and 27
+Spirit + Rogue
 tagSkillClassName2427=TQ Warlock
-24 and 28
+Spirit + Earth
 tagSkillClassName2428=TQ Conjurer
-24 and 29
+Spirit + Storm
 tagSkillClassName2429=TQ Oracle
-24 and 30
+Spirit + Dream
 tagSkillClassName2430=TQ Diviner
-24 and 31
+Spirit + Barbarian 
 tagSkillClassName2431=Harrower
-24 and 32
+Spirit + Runes
 tagSkillClassName2432=TQ Shaman
-24 and 33
+Spirit + Neidan
 tagSkillClassName2433=TQ Spiritualist
-24 and 34
+Spirit + Reanimator
 tagSkillClassName2434=Soulbringer
-24 and 35
+Spirit + Priest
 tagSkillClassName2435=Veilpiercer
-24 and 36
+Spirit + Illusionist
 tagSkillClassName2436=Bone Puppeteer
-24 and 37
+Spirit + Blood Knight
 tagSkillClassName2437=Apparition
-24 and 38
-tagSkillClassName2438=Spirit+Berserker
+Spirit + Berserker
+tagSkillClassName2438=Draugr
+Spirit + Tempest
+tagSkillClassName2439=Soulstorm
+Spirit + Swampdweller
+tagSkillClassName2440=Soulslurper
+Spirit + Frigid Hunter
+tagSkillClassName2441=Barong
+Spirit + Chieftain
+tagSkillClassName2442=Shade
 ~~~~~~~~
 Warfare
 ~~~~~~~~
-25 and 26
+Warfare + Nature
 tagSkillClassName2526=TQ Champion
-25 and 27
+Warfare + Rogue
 tagSkillClassName2527=TQ Assassin
-25 and 28
+Warfare + Earth
 tagSkillClassName2528=TQ Battlemage
-25 and 29
+Warfare + Storm
 tagSkillClassName2529=TQ Thane
-25 and 30
+Warfare + Dream
 tagSkillClassName2530=TQ Harbinger
-25 and 31
+Warfare + Barbarian 
 tagSkillClassName2531=Furibund
-25 and 32
+Warfare + Runes
 tagSkillClassName2532=TQ Berserker
-25 and 33
+Warfare + Neidan
 tagSkillClassName2533=TQ Daoist
-25 and 34
+Warfare + Reanimator
 tagSkillClassName2534=Warbringer
-25 and 35
+Warfare + Priest
 tagSkillClassName2535=Castigator
-25 and 36
+Warfare + Illusionist
 tagSkillClassName2536=Phantom
-25 and 37
+Warfare + Blood Knight
 tagSkillClassName2537=Formation Breaker
-25 and 38
-tagSkillClassName2538=Warfare+Berserker
+Warfare + Berserker
+tagSkillClassName2538=Warhound
+Warfare + Tempest
+tagSkillClassName2539=Wind Dancer
+Warfare + Swampdweller
+tagSkillClassName2540=Terrorblade
+Warfare + Frigid Hunter
+tagSkillClassName2541=Icecutter
+Warfare + Chieftain
+tagSkillClassName2542=Basileus
 ~~~~~~~~
 Nature
 ~~~~~~~~
-26 and 27
+Nature + Rogue
 tagSkillClassName2627=TQ Illusionist
-26 and 28
+Nature + Earth
 tagSkillClassName2628=TQ Summoner
-26 and 29
+Nature + Storm
 tagSkillClassName2629=TQ Druid
-26 and 30
+Nature + Dream
 tagSkillClassName2630=TQ Ritualist
-26 and 31
+Nature + Barbarian 
 tagSkillClassName2631=Forest Titan
-26 and 32
+Nature + Runes
 tagSkillClassName2632=TQ Skinchanger
-26 and 33
+Nature + Neidan
 tagSkillClassName2633=TQ Hermit
-26 and 34
+Nature + Reanimator
 tagSkillClassName2634=Plaguebringer
-26 and 35
+Nature + Priest
 tagSkillClassName2635=Lifewarden
-26 and 36
+Nature + Illusionist
 tagSkillClassName2636=Naturalist
-26 and 37
+Nature + Blood Knight
 tagSkillClassName2637=Witherer
-26 and 38
-tagSkillClassName2638=Nature+Berserker
+Nature + Berserker
+tagSkillClassName2638=Changeling
+Nature + Tempest
+tagSkillClassName2639=Cycloneer
+Nature + Swampdweller
+tagSkillClassName2640=Phytomancer
+Nature + Frigid Hunter
+tagSkillClassName2641=Wisp
+Nature + Chieftain
+tagSkillClassName2642=Thorn Druid
 ~~~~~~~~
 Rogue
 ~~~~~~~~
-27 and 28
+Rogue + Earth
 tagSkillClassName2728=TQ Magician
-27 and 29
+Rogue + Storm
 tagSkillClassName2729=TQ Sorcerer
-27 and 30
+Rogue + Dream
 tagSkillClassName2730=TQ Dreamkiller
-27 and 31
+Rogue + Barbarian 
 tagSkillClassName2731=Nomad
-27 and 32
+Rogue + Runes
 tagSkillClassName2732=TQ Trickster
-27 and 33
+Rogue + Neidan
 tagSkillClassName2733=TQ Disruptor
-27 and 34
+Rogue + Reanimator
 tagSkillClassName2734=Bone Assassin
-27 and 35
+Rogue + Priest
 tagSkillClassName2735=Shadowcleric
-27 and 36
+Rogue + Illusionist
 tagSkillClassName2736=Bard
-27 and 37
+Rogue + Blood Knight
 tagSkillClassName2737=Despoiler
-27 and 38
-tagSkillClassName2738=Rogue+Berserker
+Rogue + Berserker
+tagSkillClassName2738=Lonewolf
+Rogue + Tempest
+tagSkillClassName2739=Bladefury
+Rogue + Swampdweller
+tagSkillClassName2740=Venomscarred
+Rogue + Frigid Hunter
+tagSkillClassName2741=Heartpiercer
+Rogue + Chieftain
+tagSkillClassName2742=Manslayer
 ~~~~~~~~
 Earth
 ~~~~~~~~
-28 and 29
+Earth + Storm
 tagSkillClassName2829=TQ Elementalist
-28 and 30
+Earth + Dream
 tagSkillClassName2830=TQ Evoker
-28 and 31
+Earth + Barbarian 
 tagSkillClassName2831=Inferno Titan
-28 and 32
+Earth + Runes
 tagSkillClassName2832=TQ Stonespeaker
-28 and 33
+Earth + Neidan
 tagSkillClassName2833=TQ Wu
-28 and 34
+Earth + Reanimator
 tagSkillClassName2834=Scorcher
-28 and 35
+Earth + Priest
 tagSkillClassName2835=Emberpriest
-28 and 36
+Earth + Illusionist
 tagSkillClassName2836=Gaiamancer
-28 and 37
+Earth + Blood Knight
 tagSkillClassName2837=Dominator
-28 and 38
-tagSkillClassName2838=Earth+Berserker
+Earth + Berserker
+tagSkillClassName2838=Cerberus
+Earth + Tempest
+tagSkillClassName2839=Sand Devil
+Earth + Swampdweller
+tagSkillClassName2840=Hellbore
+Earth + Frigid Hunter
+tagSkillClassName2841=Geoslicer
+Earth + Chieftain
+tagSkillClassName2842=Savage Titan
 ~~~~~~~~
 Storm
 ~~~~~~~~
-29 and 30
+Storm + Dream
 tagSkillClassName2930=TQ Prophet
-29 and 31
+Storm + Barbarian 
 tagSkillClassName2931=Storm Titan
-29 and 32
+Storm + Runes
 tagSkillClassName2932=TQ Thunderer
-29 and 33
+Storm + Neidan
 tagSkillClassName2933=TQ Channeler
-29 and 34
+Storm + Reanimator
 tagSkillClassName2934=Temestarii
-29 and 35
+Storm + Priest
 tagSkillClassName2935=Tempestrian
-29 and 36
+Storm + Illusionist
 tagSkillClassName2936=Harmonizer
-29 and 37
+Storm + Blood Knight
 tagSkillClassName2937=Dark Vortex
-29 and 38
-tagSkillClassName2938=Storm+Berserker
+Storm + Berserker
+tagSkillClassName2938=Blizzard Bringer
+Storm + Tempest
+tagSkillClassName2939=Monsooner
+Storm + Swampdweller
+tagSkillClassName2940=Bog Witch
+Storm + Frigid Hunter
+tagSkillClassName2941=Icecaller
+Storm + Chieftain
+tagSkillClassName2942=Iceborn
 ~~~~~~~~
 Dream
 ~~~~~~~~
-30 and 31
+Dream + Barbarian 
 tagSkillClassName3031=Dreamcatcher
-30 and 32
+Dream + Runes
 tagSkillClassName3032=TQ Seidr Worker
-30 and 33
+Dream + Neidan
 tagSkillClassName3033=TQ Contemplator
-30 and 34
+Dream + Reanimator
 tagSkillClassName3034=Elder Seer
-30 and 35
+Dream + Priest
 tagSkillClassName3035=Dreamtender
-30 and 36
+Dream + Illusionist
 tagSkillClassName3036=Mindshaker
-30 and 37
+Dream + Blood Knight
 tagSkillClassName3037=Dreameater
-30 and 38
-tagSkillClassName3038=Dream+Berserker
+Dream + Berserker
+tagSkillClassName3038=Lunatic
+Dream + Tempest
+tagSkillClassName3039=Mind Freezer
+Dream + Swampdweller
+tagSkillClassName3040=Mindscrambler
+Dream + Frigid Hunter
+tagSkillClassName3041=Forebearer
+Dream + Chieftain
+tagSkillClassName3042=Knight of Reverie
 ~~~~~~~~
-Barbarian 
+Barbarian
 ~~~~~~~~
-31 and 32
+Barbarian + Runes
 tagSkillClassName3132=Glyphlord
-31 and 33
+Barbarian + Neidan
 tagSkillClassName3133=Banjin
-31 and 34
+Barbarian + Reanimator
 tagSkillClassName3134=Soul Reaver
-31 and 35
+Barbarian + Priest
 tagSkillClassName3135=Bloodsaint
-31 and 36
+Barbarian + Illusionist
 tagSkillClassName3136=Bloodrager
-31 and 37
+Barbarian + Blood Knight
 tagSkillClassName3137=Devastator
-31 and 38
-tagSkillClassName3138=Barbarian+Berserker
+Barbarian + Berserker
+tagSkillClassName3138=Battlerager
+Barbarian + Tempest
+tagSkillClassName3139=Siegemaster
+Barbarian + Swampdweller
+tagSkillClassName3140=Swamp Titan
+Barbarian + Frigid Hunter
+tagSkillClassName3141=Frost Giant
+Barbarian + Chieftain
+tagSkillClassName3142=Mauler
 ~~~~~~~~
 Runes
 ~~~~~~~~
-32 and 33
+Runes + Neidan
 tagSkillClassName3233=TQ Esoterist
-32 and 34
+Runes + Reanimator
 tagSkillClassName3234=Acheron
-32 and 35
+Runes + Priest
 tagSkillClassName3235=Rune Chaplain
-32 and 36
+Runes + Illusionist
 tagSkillClassName3236=Spellshaper
-32 and 37
+Runes + Blood Knight
 tagSkillClassName3237=Hexcarver
-32 and 38
-tagSkillClassName3238=Runes+Berserker
+Runes + Berserker
+tagSkillClassName3238=Bloodthirster
+Runes + Tempest
+tagSkillClassName3239=Runic Fury
+Runes + Swampdweller
+tagSkillClassName3240=Hulder
+Runes + Frigid Hunter
+tagSkillClassName3241=Helheimer
+Runes + Chieftain
+tagSkillClassName3242=Menhir Raiser
 ~~~~~~~~
 Neidan
 ~~~~~~~~
-33 and 34
+Neidan + Reanimator
 tagSkillClassName3334=Blightsinger
-33 and 35
+Neidan + Priest
 tagSkillClassName3335=Taoist
-33 and 36
+Neidan + Illusionist
 tagSkillClassName3336=Luminant
-33 and 37
+Neidan + Blood Knight
 tagSkillClassName3337=Bloodmixer
-33 and 38
-tagSkillClassName3338=Neidan+Berserker
+Neidan + Berserker
+tagSkillClassName3338=Toxifier
+Neidan + Tempest
+tagSkillClassName3339=Zapper
+Neidan + Swampdweller
+tagSkillClassName3340=Tainted
+Neidan + Frigid Hunter
+tagSkillClassName3341=Sherpa
+Neidan + Chieftain
+tagSkillClassName3342=Mudang
 ~~~~~~~~
 Reanimator
 ~~~~~~~~
-34 and 35
+Reanimator + Priest
 tagSkillClassName3435=Soul Reaper
-34 and 36
+Reanimator + Illusionist
 tagSkillClassName3436=Omenologist
-34 and 37
+Reanimator + Blood Knight
 tagSkillClassName3437=Manipulator
-34 and 38
-tagSkillClassName3438=Reanimator+Berserker
+Reanimator + Berserker
+tagSkillClassName3438=Death's Fury
+Reanimator + Tempest
+tagSkillClassName3439=Shadow Monarch
+Reanimator + Swampdweller
+tagSkillClassName3440=Marrowdrinker
+Reanimator + Frigid Hunter
+tagSkillClassName3441=Lichlord
+Reanimator + Chieftain
+tagSkillClassName3442=Dread Sovereign
 ~~~~~~~~
 Priest
 ~~~~~~~~
-35 and 36
+Priest + Illusionist
 tagSkillClassName3536=Envoy
-35 and 37
+Priest + Blood Knight
 tagSkillClassName3537=Transgressor
-35 and 38
-tagSkillClassName3538=Priest+Berserker
+Priest + Berserker
+tagSkillClassName3538=Bloodtither
+Priest + Tempest
+tagSkillClassName3539=Wind Adept
+Priest + Swampdweller
+tagSkillClassName3540=Cursebinder
+Priest + Frigid Hunter
+tagSkillClassName3541=Emissary of Amatok
+Priest + Chieftain
+tagSkillClassName3542=Vicar of War
 ~~~~~~~~
 Illusionist
 ~~~~~~~~
-36 and 37
+Illusionist + Blood Knight
 tagSkillClassName3637=Intimidator
-36 and 38
-tagSkillClassName3638=Illusionist+Berserker
+Illusionist + Berserker
+tagSkillClassName3638=Night Terror
+Illusionist + Tempest
+tagSkillClassName3639=Soul Shatterer
+Illusionist + Swampdweller
+tagSkillClassName3640=Mindeater
+Illusionist + Frigid Hunter
+tagSkillClassName3641=Voidtaken
+Illusionist + Chieftain
+tagSkillClassName3642=[ms]Oungan[fs]Manbo
 ~~~~~~~~
 Blood Knight
 ~~~~~~~~
-37 and 38
+Blood Knight + Berserker
 tagSkillClassName3738=Bloodshaper
+Blood Knight + Tempest
+tagSkillClassName3739=Crimson Slayer
+Blood Knight + Swampdweller
+tagSkillClassName3740=Hemophage
+Blood Knight + Frigid Hunter
+tagSkillClassName3741=Volkihar
+Blood Knight + Chieftain
+tagSkillClassName3742=Bloodfiend
+~~~~~~~~
+Berserker
+~~~~~~~~
+Berserker + Tempest
+tagSkillClassName3839=Scavenger
+Berserker + Swampdweller
+tagSkillClassName3840=Apex Predator
+Berserker + Frigid Hunter
+tagSkillClassName3841=Asterkarn Outcast
+Berserker + Chieftain
+tagSkillClassName3842=Veilbreaker
+~~~~~~~~
+Tempest
+~~~~~~~~
+Tempest + Swampdweller
+tagSkillClassName3940=Grove Guardian
+Tempest + Frigid Hunter
+tagSkillClassName3941=Wanderer
+Tempest + Chieftain
+tagSkillClassName3942=Sea Fury
+~~~~~~~~
+Swampdweller
+~~~~~~~~
+Swampdweller + Frigid Hunter
+tagSkillClassName4041=Silent Storm
+Swampdweller + Chieftain
+tagSkillClassName4042=Fenslayer
+~~~~~~~~
+Frigid Hunter
+~~~~~~~~
+Frigid Hunter + Chieftain
+tagSkillClassName4142=Aurora Dragoon

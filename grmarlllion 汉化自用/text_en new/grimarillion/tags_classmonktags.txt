@@ -1,0 +1,232 @@
+
+tagSkillClassName12=Monk
+tagSkillClassName0112=Warpriest
+tagSkillClassName0212=Lightcarrier
+tagSkillClassName0312=Corrupter
+tagSkillClassName0412=Bladedancer
+tagSkillClassName0512=Prophet
+tagSkillClassName0612=Thunderlord
+tagSkillClassName0712=Runemaster
+tagSkillClassName0812=Soulbinder
+tagSkillClassName0912=Ascetic
+tagSkillClassName1012=Holy Hunter
+tagSkillClassName1112=Channeler
+tagSkillClassName3712=Holy Hunter
+
+tagSkillClassDescriptionMonk=Monks are sacred warriors who channel divine power through sheer force of will. Healing waves, mantras of protection and attacks empowered with holy might are all within their purview. ^n^sAdapted by Grimer for the Diablo 3 Mod
+
+#ClassMonk
+tagClassMonkSkillName00=Monk
+tagClassMonkSkillDescription00="The gods guide me. You cannot win."
+
+tagClassMonkSkillName01A=Fists of Thunder
+tagClassMonkSkillDescription01A=Energize yourself with the blessing of thunder, empowering every third strike dealt to enemies. ^oRequires a melee weapon and can be used as default weapon attack.{^n}{^n}{^y}Static Charge {^o}(Unlocked at Skill Level 16){^n}^wEvery third strike also stuns enemies for 1 second.
+
+tagClassMonkSkillName01B=Bounding Light
+tagClassMonkSkillDescription01B=Every third hit also strikes nearby enemies with chains of lightning that electrocute them over 2 seconds.
+
+tagClassMonkSkillName01C=Thunderclap
+tagClassMonkSkillDescription01C=The empowered strike hits additional targets and electrocutes them over 3 seconds.
+
+tagClassMonkSkillName01D=Mythic Rhythm
+tagClassMonkSkillDescription01D=Fists of Thunder grants you increased damage for 5 seconds. ^oMythic Rhythm affects all skills while active.
+
+tagClassMonkSkillName02A=Wave of Light
+tagClassMonkSkillDescription02A=Launch a wave of light that strikes enemies with lightning and physical damage.{^n}{^n}{^y}Wall of Light {^o}(Unlocked at Skill Level 16){^n}^wWave of Light stuns enemies for 4 seconds.
+
+tagClassMonkSkillName02B=Empowered Wave
+tagClassMonkSkillDescription02B=The wave is charged with a powerful blow that electrocutes enemies and causes internal trauma over 3 seconds. Damage is increased.
+
+tagClassMonkSkillName02C=Explosive Light
+tagClassMonkSkillDescription02C=Release a burst of holy energy that deals additional damage to Chthonics and Undead enemies.
+
+tagClassMonkSkillName03A=Dashing Strike
+tagClassMonkSkillDescription03A=Quickly dash to the target location, striking enemies along the way, dealing lightning and physical damage.{^n}{^n}{^y}Quicksilver {^o}(Unlocked at Skill Level 16){^n}^wGain 25% chance to reset Dashing Strike's cooldown.
+
+tagClassMonkSkillName03B=Blinding Speed
+tagClassMonkSkillDescription03B=Dashing Strike inflicts internal wounds on enemies and makes their attacks less effective.
+
+tagClassMonkSkillName04A=Tempest Rush
+tagClassMonkSkillDescription04A=Surround yourself with an electric energy that increases your movement speed and periodically deals lightning damage to nearby enemies.{^n}{^n}{^y}Bluster {^o}(Unlocked at Skill Level 12){^n}^wEnemies hit are knocked down and deal 20% reduced damage for 4 seconds.
+
+tagClassMonkSkillName04B=Flurry
+tagClassMonkSkillDescription04B=Periodically causes an icy blast to nearby enemies, with a chance to freeze them for 2 seconds.
+
+tagClassMonkSkillName05A=Resolve
+tagClassMonkSkillDescription05A=Damage you deal reduces the enemy offensive power for 4 seconds. {^n}{^n}{^y}Beacon of Ytar {^o}(Unlocked at Skill Level 8){^n}^wReduce the cooldown of your skills by 10%.
+
+tagClassMonkSkillName06A=Mantra of Healing
+tagClassMonkSkillDescription06A=A blast of divine energy heals you and nearby allies, granting health regeneration and defensive ability for 60 seconds.{^n}{^n}{^y}Heavenly Body {^o}(Unlocked at Skill Level 12){^n}^wThe health of you and your allies is increased by 25%.
+
+tagClassMonkSkillName06B=Mantra of Salvation
+tagClassMonkSkillDescription06B=Increases healing effects and resistances to elemental, poison and bleeding damage of you and your allies.
+
+tagClassMonkSkillName06C=Mantra of Retribution
+tagClassMonkSkillDescription06C=Increases sources of damage for you and your allies, while also granting fire retaliation.
+
+tagClassMonkSkillName07A=Alacrity
+tagClassMonkSkillDescription07A=Increases your offensive ability and agility to attack and cast spells.{^n}{^n}{^y}Momentum {^o}(Unlocked at Skill Level 12){^n}^wYou gain 30% resistance to slow effects.
+
+tagClassMonkSkillName07B=Harmony
+tagClassMonkSkillDescription07B=Reduce your elemental resistance to gain bonus protection against chaos, aether and vitality damage.
+
+tagClassMonkSkillName07C=The Guardian's Path
+tagClassMonkSkillName07CDesc=You gain additional elemental damage and chance to dodge enemy attacks. {^o}This is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
+
+tagClassMonkSkillName08A=Crippling Wave
+tagClassMonkSkillDescription08A=Unleash a sweeping attack that deals lightning damage to enemies in front of you, slowing their total speed for 4 seconds. ^oRequires a melee weapon. Can activate with all default weapon attacks.{^n}{^n}{^y}Concussion {^o}(Unlocked at Skill Level 12){^n}^wReduces the damage of enemies by 25% for 4 seconds.
+
+tagClassMonkSkillName08B=Breaking Wave
+tagClassMonkSkillDescription08B=Crippling Wave electrocutes enemies and reduces their offensive ability for a few seconds. Damage is increased.
+
+tagClassMonkSkillName08C=Tsunami
+tagClassMonkSkillDescription08C=Strike enemies with a chilling blow and freeze them for a brief moment.
+
+tagClassMonkSkillName09A=Exploding Palm
+tagClassMonkSkillDescription09A=Attack enemies to deal additional cold damage and chill them for 3 seconds. Enemies killed explode, dealing massive damage to nearby foes. Enemies killed by the explosion will explode as well. ^oRequires a melee weapon and can be used as default weapon attack.{^n}{^n}{^y}The Flesh is Weak {^o}(Unlocked at Skill Level 12){^n}^wExploding Palm reduces all resistances of enemies by 25 for 5 seconds. This effect are also applied by the explosions, but it doesn't stack.
+
+tagClassMonkSkillName09B=Impending Doom
+
+tagClassMonkSkillName09C=Explosive Mark
+
+tagClassMonkSkillName09D=Shocking Grasp
+tagClassMonkSkillDescription09D=Exploding Palm deals additional lightning damage and electrocutes enemies over 3 seconds. Base damage is increased.
+
+tagClassMonkSkillName09E=Replicate
+
+tagClassMonkSkillName10A=Cyclone Strike
+tagClassMonkSkillDescription10A=Pull all enemies around you, dealing holy damage and knocking them down for a second.{^n}{^n}{^y}Soothing Breeze {^o}(Unlocked at Skill Level 16){^n}^w15% of the damage dealt is converted to health.
+
+tagClassMonkSkillName10B=Sunblast
+tagClassMonkSkillDescription10B=Strike enemies with a larger explosion that incinerates enemies and reduces their defensive ability over 3 seconds.
+
+tagClassMonkSkillName10C=Soothing Breeze
+tagClassMonkSkillDescription10C=Cyclone Strike heal you and your allies and reduces the duration of ailments for 5 seconds.
+
+tagClassMonkSkillName10D=Wall of Wind
+tagClassMonkSkillDescription10D=Enemies are frozen for 2 seconds. Fire damage is turned into cold.
+
+tagClassMonkSkillName11A=Transcendence
+tagClassMonkSkillDescription11A=Turns portion of your energy into health every second while it's active.{^n}{^n}{^y}Determination {^o}(Unlocked at Skill Level 12){^n}^wAll your damage (including the damage multiplied by bonuses) is increased by 20% while Transcendence active.
+
+tagClassMonkSkillName12A=Serenity
+tagClassMonkSkillDescription12A=You are enveloped in a protective shield that absorbs all incoming damage for 3 seconds and grants resistance to control impairing effects.{^n}{^n}{^y}Peaceful Repose {^o}(Unlocked at Skill Level 10){^n}^wYou gain massive health regeneration while Serenity is active.
+
+tagClassMonkSkillName13A=Sweeping Wind
+tagClassMonkSkillDescription13A=Surround yourself in a vortex that continuously deals cold and lightning damage to all enemies around you.{^n}{^n}{^y}Master of Wind {^o}(Unlocked at Skill Level 16){^n}^wSweeping Wind gains 15% chance to freeze targets for 2 seconds.
+
+tagClassMonkSkillName13B=Inner Storm
+tagClassMonkSkillDescription13B=The vortex electrocutes enemies and reduces their elemental resistances for 2 seconds.
+
+tagClassMonkSkillName13C=Cyclone
+tagClassMonkSkillDescription13C=While the vortex is active, it has a chance to spawn a Cyclone that chases and electrocutes enemies over 2 seconds. Cyclones can confuse targets and live for 6 seconds. Sweeping Wind's damage is increased.
+
+tagClassMonkSkillName13D=Raging Storm
+
+tagClassMonkSkillName14A=Mystic Ally 
+tagClassMonkSkillDescription14A=Summon a mystic ally to fight by your side as long as you live. There are four different allies, but only one can be active at a time. ^oMystic Ally scales with player damage bonuses.{^n}{^n}{^a}Air Ally{^n}{^y}Aura of Swiftness: {^w}Increases movement speed, resistance to stun and entrapment and energy regeneration of you and all allies.{^n}{^y}Sweeping Wind: {^w}An offensive aura that deals cold and lightning damage to enemies.{^n}{^y}Squallring: {^w}Launch whirlwinds in a spiral, dealing physical and electrocute damage. Enemies hit may be knocked up.{^n}{^n}{^e}Earth Ally{^n}{^y}Aura of Might: {^w}You and all allies receive resistance to pierce and physical damage and gain bonus armor.{^n}{^y}Ground Slam: {^w}Smash the ground, causing earth to erupt around him, dealing physical damage to enemies and stunning them for a brief moment.{^n}{^y}Avalanche: {^w}Stones fall from the sky, dealing physical damage and causing internal trauma to foes.{^n}{^n}{^b}Water Ally{^n}{^y}Aura of Purity: {^w}Grants resistance to freeze effect, while reducing bleeding and poison damage duration.{^n}{^y}Tidal Wave: {^w}Launch a wave of water that deals cold damage to enemies and freeze them for 2 seconds.{^n}{^y}Storm Cloud: {^w}Summon a stormcloud that deals cold and lightning damage to enemies in the area.{^n}{^n}{^o}Fire Ally{^n}{^y}Aura of Radiance: {^w}Grants fire retaliation, chance to deflect projectiles and reduction to burn duration.{^n}{^y}Flame Nova: {^w}Launch a ring of flamelines that burns enemies over 3 seconds.{^n}{^y}Burning Touch: {^w}Fire Ally's attacks burns enemies over 2 seconds.
+
+
+tagAirAllySkill01=Air Ally
+tagAirAllySkill02=Aura of Swiftness
+tagAirAllySkill03=Sweeping Wind
+tagAirAllySkill04=Squallring
+tagAirAllySkill05=Windy Strike
+
+tagEarthAllySkill01=Earth Ally
+tagEarthAllySkill02=Aura of Protection
+tagEarthAllySkill03=Avalanche
+tagEarthAllySkill04=Ground Stomp
+tagEarthAllySkill05=Earthsplitter
+
+tagWaterAllySkill01=Water Ally
+tagWaterAllySkill02=Aura of Purity
+tagWaterAllySkill03=Tidal Wave
+tagWaterAllySkill04=Storm Cloud
+tagWaterAllySkill05=Cold Slash
+
+tagFireAllySkill01=Fire Ally
+tagFireAllySkill02=Aura of Radiance
+tagFireAllySkill03=Flame Nova
+tagFireAllySkill04=Burning Touch
+
+tagEnduringAllySkill01=Enduring Ally
+
+tagClassMonkSkillName14B=Tidal Wave
+
+tagClassMonkSkillName14C=Mystical Slash
+
+tagClassMonkSkillName14D=Mystical Presence
+
+tagClassMonkSkillName15A=Near Death Experience
+tagClassMonkSkillDescription15A=When you are badly hurt, portions of your maximum life and energy are restored and you are immune to damage and control impairing effects for 3 seconds.
+
+tagClassMonkSkillName16A=Epiphany
+tagClassMonkSkillDescription16A=Have an Epiphany, increasing all your damage, total speed, healing effects and offensive ability. While it's active, you also gain resistance to control impairing effects.{^n}{^n}{^y}Desert Shroud {^o}(Unlocked at Skill Level 12){^n}^wYou gain 50% resistance against damage reflected by monsters and attacks that cause life reduction.
+
+tagClassMonkSkillName17A=Mantra of Salvation
+tagClassMonkSkillDescription17A=Increases defensive ability and resistances to elemental, poison and bleeding damage of you and your allies.{^n}{^n}{^y}Hard Target {^o}(Unlocked at Skill Level 10){^n}^wThe armor of you and your allies is increased by 25%.
+
+tagClassMonkSkillName18A=Mantra of Healing
+tagClassMonkSkillDescription18A=Shroud you and your allies with a shield that absorbs a portion of the damage taken and increases your life and health regeneration.{^n}{^n}{^y}Boon of Inspiration {^o}(Unlocked at Skill Level 10){^n}^wYou and your allies receive 5% life steal.
+
+tagClassMonkSkillName19A=Mantra of Conviction
+tagClassMonkSkillDescription19A=Slows all nearby enemies and reduces their elemental resistance and defensive ability.{^n}{^n}{^y}Submission {^o}(Unlocked at Skill Level 12){^n}^wEnemies also take Fire and Lightning damage every second.
+
+tagClassMonkSkillName20A=Inner Sanctuary
+tagClassMonkSkillName20ADesc=Create a runic circle on the ground that deals holy damage to enemies, while granting bonus defensive ability, increased maximum resistances and damage absorption to you and your allies for 6 seconds.{^n}{^n}{^y}Forbidden Palace {^o}(Unlocked at Skill Level 12){^n}^wInner Sanctuary disrupt the skills of enemies standing on the area.
+
+tagClassMonkSkillName20B=Safe Haven
+tagClassMonkSkillName20BDesc=Inner Sanctuary grants bonus health regeneration and reduced damage from Chthonics and Undead.
+
+tagClassMonkSkillName20C=Temple of Protection
+
+tagClassMonkSkillName20D=Sanctified Ground
+
+tagClassMonkSkillName21A=Sixth Sense
+tagClassMonkSkillDescription21A=Increase your physique and gain chance to dodge enemy attacks.{^n}{^n}{^y}Transcendence {^o}(Unlocked at Skill Level 10){^n}^wIncreases healing effects by 12%.
+
+RUNE EFFECTS
+
+tagMonkRune01=^cThunderbearer
+tagMonkRune01Desc=Every time ^cFists of Thunder ^wperforms a critical hit, a storm cloud forms around you over 3 seconds. The cloud periodically strikes foes in the area with lightning bolts from above, dealing lightning and electrocute damage, with a 33% chance to stun them for a second. While surrounded by the storm cloud, you become immune to lightning damage.{^n}{^n}{^y}Runeword: {^c}CemTun
+
+tagMonkRune01b=^cThunderbearer (Enhanced)
+tagMonkRune01bDesc=Every time ^cFists of Thunder ^wperforms a critical hit, a storm cloud forms around you over 3 seconds. The cloud periodically strikes foes in the area with lightning bolts from above, dealing lightning and electrocute damage, with a 33% chance to stun them for a second. While surrounded by the storm cloud, you become immune to lightning damage.{^n}{^n}{^y}Runeword: {^c}CemTun (Enhanced)
+
+tagMonkRune01c=Rune Effect
+tagMonkRune01cDesc=You are surrounded by Thunderbearer's storm cloud, becoming immune to lightning damage.
+
+tagMonkRune02=^cAeromania
+tagMonkRune02Desc=Enemies hit by ^bSweeping Wind ^wnow cast an alternate version of the skill over 5 seconds, dealing cold and lightning damage to nearby foes and reducing their elemental resistance by 10%. ^o{^n}{^n}{^y}Runeword: {^c}NocVex
+
+tagMonkRune02b=^cAeromania (Enhanced)
+tagMonkRune02bDesc=Enemies hit by ^bSweeping Wind ^wnow cast an alternate version of the skill over 5 seconds, dealing cold and lightning damage to nearby foes and reducing their elemental resistance by 15%. ^o{^n}{^n}{^y}Runeword: {^c}NocVex (Enhanced)
+
+tagMonkRune02c=Rune Effect
+tagMonkRune02cDesc=This enemy is currently casting an alternate version of Sweeping Wind.
+
+
+tagMonkRune03=^cPatience Is For The Weak
+tagMonkRune03Desc=^oAlacrity ^wincreases your maximum total speed by 20% and your total damage by 30%. However, enemies no longer take damage over time and while there is at least one enemy around alive, you can't use constitution to restore health. ^o{^n}{^n}{^y}Runeword: {^c}AhuQax
+
+tagMonkRune03b=Rune Effect
+tagMonkRune03bDesc=This enemy no longer takes damage over duration.
+
+tagRunewordD327b=Rune Effect
+tagRunewordD327bDesc=Your damage taken is being reduced by standing close to a Mystic Ally.
+
+tagMonkRune04=^cSpeedrunner
+tagMonkRune04Desc=^cDashing Strike ^wnow deals reduced damage, uses less energy, and no longer has a cooldown. While dashing, you release swirling sparks in your path, dealing lightning and electrocute damage to enemies, and reducing all their resistances by 20 over 3 seconds. However, you no longer can use Evade. ^o{^n}{^n}{^y}Runeword: {^c}FeoXal
+
+tagMonkRune05=^cReverberance
+tagMonkRune05Desc=Enemies killed by ^cWave of Light ^wcast another Wave of Light (Level 6) at their death location.{^n}{^n}{^y}Runeword: {^c}LithGar{^n}{^n}{^y}Affinity: ^wItems that modify ^cWave of Light ^wwill also modify this rune effect (no damage conversions included).
+
+tagMonkRune06=^cTitanbreaker
+tagMonkRune06Desc=^kCyclone Strike ^wnow can knockdown ^pbosses ^wand ^rnemesis ^wmonsters with its pull effect. ^oThis rune effect has a 35 seconds cooldown, which can be reduced by CDR. ^o{^n}{^n}{^y}Runeword: {^c}BacKry
+
+tagMonkRune06b=Rune Effect
+
+
+
+DefenseKnockdownModifier=^ebeing knocked down by ^kCyclone Strike
