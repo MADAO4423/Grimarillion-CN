@@ -19,7 +19,7 @@ Well... then you die.
 That makes sense.
 Oh, you won't die in the arena. You return right here, ready to try again.{^n}{^n}If you do manage to fail the trial, you will have to cleanse the arena. Just behind you there is a glowing orb. Touch it, and the arena should be wiped clean.{^n}{^n}There may be some stragglers who cannot be returned to the void, but that is fine. Just clear the arena of stragglers and try to complete the trials of the arena again. Maybe report any enemies who happen to stay behind to the caretaker of this world...
 Is there anything else I should know?
-There is a unique element only found in this atemporal domain, and perhaps in other ones... Eterneum. If you find it, bring it to me. I can help you gain greater power if you utilize it. {^n}{^n}Unfortunately for me, I am not a fighter and I do not possess the capabilities to unlock the potential of Eterneum for myself. You however...
+There is a unique element only found in this atemporal domain, and perhaps in other ones... Eternal Shards. If you find them, bring it to me. I can help you gain greater power if you utilize it. {^n}{^n}Unfortunately for me, I am not a fighter and I do not possess the capabilities to unlock the potential of Eternal Shards for myself. You however...
 Thanks, I'll keep an eye out for those.
 Very good. That's all I have to tell you, for now.
 Okay, I will try my best.
@@ -88,6 +88,8 @@ I'd like to bribe Homestead. (Need 10 Eternal Shards)
 I'd like to bribe the Black Legion. (Need 10 Eternal Shards)
 I'd like to bribe the Ugdenbog Coven. (Need 10 Eternal Shards)
 I'd like to bribe the Malmouth Resistance. (Need 10 Eternal Shards)
+I'd like to bribe Kymon's Chosen. (Need 10 Eternal Shards)
+I'd like to bribe Death's Vigil. (Need 10 Eternal Shards)
 Not enough Eternal Shards (Need 10 Eternal Shards)
 Nevermind.
 I wish for material gains.
@@ -102,17 +104,6 @@ Nevermind.
 I wish my inventory was bigger.
 You wish... what? I see, you wish to have deeper pockets. A strange request, but it should be possible. Raise the Eternal Shards to the Heavens!
 Offer Eternal Shards for an inventory bag (Maximum of 5 bags). (Needs 10 Eternal Shards) 
-Nevermind.
-I wish to challenge stronger foes.
-Aha! You are just like my champion, Tallinn.. Indeed, it should be possible! Raise your Eternal Shards to the Heavens!
-Offer the Eternal Shards to unlock Elite Difficulty. (Needs 50 Eternal Shards.)
-Not enough Eternal Shards (Need 50 Eternal Shards)
-Offer the Eternal Shards to unlock Ultimate Difficulty. (Needs 100 Eternal Shards.)
-Not enough Eternal Shards (Need 100 Eternal Shards)
-Offer the Eternal Shards to unlock Challenger Crucible. (Needs 50 Eternal Shards.)
-Not enough Eternal Shards (Need 50 Eternal Shards)
-Offer the Eternal Shards to unlock Gladiator Crucible. (Needs 100 Eternal Shards.)
-Not enough Eternal Shards (Need 100 Eternal Shards)
 Nevermind.
 I wish for allies to aid me.
 Hmph. Allies? I can send one of my followers to aid you, if you must have an ally... ^r(WIP)
