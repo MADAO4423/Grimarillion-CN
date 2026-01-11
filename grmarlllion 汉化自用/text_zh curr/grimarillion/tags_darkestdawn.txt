@@ -779,33 +779,33 @@ tagDDSetD018FullSkill01PetName=地底先锋
 tagDDSetD018FullSkill01PetSkill01Name=虚空劈砍
 tagDDSetD018FullSkill01PetSkill02Name=地底之力
 
-tagDDSetD019Waist01Name=法师血腰带
-tagDDSetD019Ring01Name=法师血印戒
-tagDDSetD019Ring02Name=法师血徽戒
+tagDDSetD019Waist01Name=(S) {^I}法师血腰带
+tagDDSetD019Ring01Name=(S) {^I}法师血印戒
+tagDDSetD019Ring02Name=(S) {^I}法师血徽戒
 tagDDSetD019Full01Name=法师之血
 tagDDSetD019Full01Desc=
 tagDDSetD019FullSkill01Name=法师之血
 tagDDSetD019FullSkill01Desc="力量之河在你的血脉中流淌。" ^o这是被动加成。
 
-tagDDSetD020Ring01Name=风暴之升
-tagDDSetD020Ring02Name=风暴之终
+tagDDSetD020Ring01Name=(S) {^I}风暴之升
+tagDDSetD020Ring02Name=(S) {^I}风暴之终
 tagDDSetD020Full01Name=风暴秘宝
 tagDDSetD020Full01Desc=
 tagDDSetD020FullSkill01Name=惊雷觉醒
 tagDDSetD020FullSkill01Desc="闪电在无尽循环中，需要不断的导体来触发。" ^o这是被动加成。
 
-tagDDSetD021Torso01Name=乌鸦守卫铠
-tagDDSetD021Shoulders01Name=乌鸦守卫肩饰
-tagDDSetD021Necklace01Name=乌鸦守卫挂坠
-tagDDSetD021Medal01Name=乌鸦守卫徽章
+tagDDSetD021Torso01Name=(S) {^I}乌鸦守卫铠
+tagDDSetD021Shoulders01Name=(S) {^I}乌鸦守卫肩饰
+tagDDSetD021Necklace01Name=(S) {^I}乌鸦守卫挂坠
+tagDDSetD021Medal01Name=(S) {^I}乌鸦守卫徽章
 tagDDSetD021Full01Name=血乌鸦
 tagDDSetD021Full01Desc="他们从高空注视，潜伏，觅食。狩猎终于开始！"
 
-tagDDSetD022Blunt01Name=第一绞肉机
+tagDDSetD022Blunt01Name=(S) {^I}第一绞肉机
 tagDDSetD022Blunt01Desc="来狠狠一击吧。"
 tagDDSetD022Blunt01SkillName=残暴武器
 tagDDSetD022Blunt01SkillDesc=贝雷克以残酷闻名，因为他的受害者往往被肢解得面目全非。 ^o这是近战双持被动加成，同时开启双持近战武器的能力。
-tagDDSetD022Blunt02Name=第二绞肉机
+tagDDSetD022Blunt02Name=(S) {^I}第二绞肉机
 tagDDSetD022Blunt02Desc="在一块铁块上加几个尖刺，效果极佳。"
 tagDDSetD022Blunt02SkillName=致命创伤
 tagDDSetD022Blunt02SkillDesc=用双武器同时攻击，对敌人造成毁灭性打击，将其压制并击倒。

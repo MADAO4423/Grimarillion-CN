@@ -82,7 +82,7 @@ tagSkillClassName0140=逃兵
 士兵 + 冰霜猎手
 tagSkillClassName0141=冰霜骑士
 士兵 + 酋长
-tagSkillClassName0142=战斗摄政者
+tagSkillClassName0142=战斗摄政
 ~~~~~~~~
 爆破手
 ~~~~~~~~
@@ -354,7 +354,7 @@ tagSkillClassName0516=恐惧大师
 奥术师 + 唤能者
 tagSkillClassName0517=博学者
 奥术师 + 先遣者
-tagSkillClassName0518=净化者
+tagSkillClassName0518=清道夫
 奥术师 + 冠军
 tagSkillClassName0519=浩劫法师
 奥术师 + 裂隙追踪者
@@ -814,7 +814,7 @@ tagSkillClassName1136=织咒者
 巫医 + 血骑士
 tagSkillClassName1137=血巫
 巫医 + 狂战士
-tagSkillClassName1138=变形者
+tagSkillClassName1138=WitchDoctor(11)+Berserker
 巫医 + 风暴
 tagSkillClassName1139=督工
 巫医 + 沼泽居民
@@ -938,7 +938,7 @@ tagSkillClassName1336=圣礼施法者
 法师 + 血骑士
 tagSkillClassName1337=血法师
 法师 + 狂战士
-tagSkillClassName1338=变形者
+tagSkillClassName1338=Wizard(13)+Berserker
 法师 + 风暴
 tagSkillClassName1339=奥术刃
 法师 + 沼泽居民
@@ -995,7 +995,7 @@ tagSkillClassName1435=圣化者
 十字军 + 幻术师
 tagSkillClassName1436=信仰编织者
 十字军 + 血骑士
-tagSkillClassName1437=亵渎者
+tagSkillClassName1437=渎圣者
 十字军 + 狂战士
 tagSkillClassName1438=旗手
 十字军 + 风暴
@@ -1030,7 +1030,7 @@ tagSkillClassName1524=灵魂编织者
 D3死灵 + 战争
 tagSkillClassName1525=堕落刽子手
 D3死灵 + 自然
-tagSkillClassName1526=亵渎者
+tagSkillClassName1526=剥夺者
 D3死灵 + 流氓
 tagSkillClassName1527=死亡海盗
 D3死灵 + 大地
@@ -1475,7 +1475,7 @@ tagSkillClassName2435=面纱刺客
 灵魂 + 幻术师
 tagSkillClassName2436=骨傀儡
 灵魂 + 血骑士
-tagSkillClassName2437=幽灵
+tagSkillClassName2437=血灵
 灵魂 + 狂战士
 tagSkillClassName2438=尸灵
 灵魂 + 风暴
@@ -1549,7 +1549,7 @@ tagSkillClassName2636=博物学者
 自然 + 血骑士
 tagSkillClassName2637=枯萎者
 自然 + 狂战士
-tagSkillClassName2638=变形者
+tagSkillClassName2638=自然 + 狂战士
 自然 + 风暴
 tagSkillClassName2639=旋风使
 自然 + 沼泽居民
@@ -1580,7 +1580,7 @@ tagSkillClassName2735=暗影牧师
 盗贼 + 幻术师
 tagSkillClassName2736=吟游诗人
 盗贼 + 血骑士
-tagSkillClassName2737=亵渎者
+tagSkillClassName2737=血掠者
 盗贼 + 狂战士
 tagSkillClassName2738=独狼
 盗贼 + 风暴

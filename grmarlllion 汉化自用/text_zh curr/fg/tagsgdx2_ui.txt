@@ -1,0 +1,102 @@
+#Faction
+
+tagFactionUser13=拜斯迈尔教团
+tagFactionUser13Info=总部：三神议会 {^n}{^n} 崇拜神秘莫测的低语女士，拜斯迈尔教团以操纵与诡计而自豪。 {^n}{^n} 正是由于拜斯迈尔的阴谋，帝国的审判官们数个世纪以来徒劳无功地追捕巫神教派，他们的努力被无尽的诱饵与谎言之网所迷惑。 {^n}{^n} 这一切得以实现，依靠的是一个庞大的间谍与线人网络，被称为“拜斯迈尔之网”。只有极少数人被信任，得以知晓拜斯迈尔计划的全貌。
+tagFactionUser13Rewards1=N/A
+tagFactionUser13Rewards2=N/A
+tagFactionUser13Rewards3=N/A
+tagFactionUser13Rewards4=空
+tagFactionUser13Rewards5=解锁阵营商人
+tagFactionUser13Rewards6=解锁悬赏任务板 {^n}阵营武器 {^n}阵营护甲 {^n}阵营蓝图
+tagFactionUser13Rewards7=新任务（若为盟友） {^n}阵营附魔 {^n}阵营武器 {^n}阵营饰品 {^n}阵营文书 {^n}阵营蓝图
+tagFactionUser13Rewards8=稀有附魔 {^n}阵营委任状 {^n}精英阵营护甲 {^n}传奇阵营蓝图
+tagFactionUser14=德里格教团
+tagFactionUser14Info=总部：三神议会 {^n}{^n} 受伟大守护者赐予真实之视，德里格的信徒被无数可能未来的幻象所吞噬。许多人在低语中走向疯狂，但那些坚持下来的人，将成为无比珍贵的资产，能够为实现巫神的目标而改变未来的走向。 {^n}{^n} 德里格的信徒们说，能站在伟大守护者面前，是无与伦比的祝福。他的睿智之言回荡于万古之间，试图在由诸天编织的动荡命运之线中寻求平衡。据说，凡人若亲眼目睹德里格扭曲的形态，其脆弱的心智必将粉碎。
+tagFactionUser14Rewards1=N/A
+tagFactionUser14Rewards2=N/A
+tagFactionUser14Rewards3=N/A
+tagFactionUser14Rewards4=空
+tagFactionUser14Rewards5=解锁阵营商人
+tagFactionUser14Rewards6=解锁悬赏任务板 {^n}阵营武器 {^n}阵营护甲 {^n}阵营蓝图
+tagFactionUser14Rewards7=新任务（若为盟友） {^n}阵营附魔 {^n}阵营武器 {^n}阵营饰品 {^n}阵营文书 {^n}阵营蓝图
+tagFactionUser14Rewards8=稀有附魔 {^n}阵营委任状 {^n}精英阵营护甲 {^n}传奇阵营蓝图
+tagFactionUser15=索拉尔教团
+tagFactionUser15Info=总部：三神议会 {^n}{^n} 索拉尔可随其意志塑造艾尔德里奇领域的本质，并将这一知识分享给他忠诚的仆从。但如此力量并非毫无代价。有些人必须死去，才能让他人沐浴于他的荣光之中，这是忠诚的终极体现。 {^n}{^n} 索拉尔的信徒愿意付出任何代价，只为品尝索拉尔的恩赐。他们说，艾尔德里奇之火无与伦比，值得为之流一点血，即便那必须是他们自己的血……或是盟友的血。
+tagFactionUser15Rewards1=N/A
+tagFactionUser15Rewards2=N/A
+tagFactionUser15Rewards3=N/A
+tagFactionUser15Rewards4=空
+tagFactionUser15Rewards5=解锁阵营商人
+tagFactionUser15Rewards6=解锁悬赏任务板 {^n}阵营武器 {^n}阵营护甲 {^n}阵营蓝图
+tagFactionUser15Rewards7=新任务（若为盟友） {^n}阵营附魔 {^n}阵营武器 {^n}阵营饰品 {^n}阵营文书 {^n}阵营蓝图
+tagFactionUser15Rewards8=稀有附魔 {^n}阵营委任状 {^n}精英阵营护甲 {^n}传奇阵营蓝图
+tagFactionUser16=艾尔德里奇异怪
+tagFactionUser16Info= 数个世纪以来，艾尔德里奇生物一直能够通过现实帷幕的裂隙进入凯恩，但在科瓦恩之地，不同现实之间的屏障似乎最为薄弱。 {^n}{^n} 此地的恐怖存在数量众多，其形态也与凯恩其他地区所见的截然不同。它们以充盈着艾尔德里奇能量的利齿与利爪发动攻击，并拍动覆甲之翼，俯冲袭击毫无防备的猎物。 {^n}{^n} 艾尔德里奇领域被认为是巫神的国度，但在科瓦恩之地，似乎还有其他存在在争夺其秘密的掌控权，而他们的仆从正静待召唤。
+tagFactionUser16Rewards1=宿敌生成
+tagFactionUser16Rewards2=额外英雄生成
+tagFactionUser16Rewards3=额外生成
+tagFactionUser16Rewards4=空
+tagFactionUser16Rewards5=N/A
+tagFactionUser16Rewards6=N/A
+tagFactionUser16Rewards7=N/A
+tagFactionUser16Rewards8=N/A
+
+
+#Quest
+tagCodexJournalSubHeadingWitchGods=幸存者 - 巫神教团
+tagCodexJournalSubHeadingKorvan=历史 - 科瓦恩
+
+
+#Challenge Areas
+tagChallengeArea_Easy=危险领域
+tagChallengeArea_Easy_Desc=你已进入一片被敌人占据的危险区域。此处的怪物更为强大，并且有一个变异效果生效，但战利品掉落有所提升。
+
+tagChallengeArea_Hard=险恶领域
+tagChallengeArea_Hard_Desc=你已进入一片极度险恶、敌人密布的区域。此处的怪物被强化，多个变异效果同时生效，但战利品掉落将大幅提升。
+
+tagChallengeArea_Roguelike=禁忌领域
+tagChallengeArea_Roguelike_Desc=你已进入一座类 Rogue 地牢。此处的怪物被注入了邪恶的力量，变得异常强大，并且有多个变异效果生效。在当前游戏进程中也无法再次进入。不过，战利品掉落将显著提升。
+
+#Endless Dungeon
+tagEndlessFloorNotComplete=击败敌人并收集他们的破碎灵魂
+tagEndlessFloorComplete=前往下一个传送门
+tagEndlessFloorBoss=击败你的敌人
+tagEndlessFloorBossDead=与玛赞交谈以继续
+tagEndlessFloorLoot=收集你的奖励
+tagEndlessDungeonCounterName=碎片
+tagEndlessDungeonCounterInfo=当前破碎领域的碎片层级
+tagEndlessFloorCounterName=区块
+tagEndlessFloorCounterInfo=当前碎片内的区块进度
+tagEndlessTimerName=计时器
+tagEndlessTimerNameInfo=破碎领域崩解前的剩余时间。^n^n击败强大的敌人并迅速消灭大量怪物可获得额外时间奖励。^n^n在时间耗尽前击败该碎片的首领，可在“破碎领域的珍宝”中获得额外奖励！
+tagEndlessDungeonBonusTime=杀戮狂潮：{%d0} 名敌人被击杀！^n^n时间增加 {%.0f1} 秒！
+tagEndlessDungeonHeroBonusTime=强大敌人被击杀！^n^n时间增加 {%.0f0} 秒！
+
+#Inventor - Transmute
+tagConvertCost=转化消耗：
+tagConvertSameSet=
+tagConvertSameSetInfo=将一件套装部件转化为同一套装中的另一部件。
+tagConvertRandomSet=
+tagConvertRandomSetInfo=将一件套装部件转化为同等级范围内的另一随机套装部件。
+tagConvert=转化
+tagConvertCreateInfo=选择转化将会摧毁该物品。^o（来自固定来源掉落的套装物品无法转化）
+tagConvertInfo=转化装置可用于将属于某一套装的强力物品转化为同一套装的其他部件，或全新的套装部件。发明家尚未掌握这项能力。
+tagConvertInfoB=转化装置可用于将属于某一套装的强力物品转化为同一套装的其他部件，或全新的套装部件。该过程需要强大的奥术能量，因此发明家已直接前往能量源头。
+tagConvertBlacklist=该物品无法进行转化。
+
+#Crafter - Subheadings
+tagCraftingRunes=符文
+
+SkillRetaliationDamageFormat={%.0f0%} {^E}反击伤害附加至攻击
+SkillRetaliationDamageFormatNumbers={%.0f0%} {^E}反击伤害附加至攻击（{^H}{%.0f1} - {%.0f2}{^E}）
+
+tagCharHealIncreaseModifier={^E}治疗效果提高 {^H}{%.0f0}%
+tagCharHealIncreaseModifierR={^E}治疗效果提高 {^H}{%.0f0}% - {%.0f1}%
+
+#Char Stats Tab 2
+
+#Character
+tagCharStatsHealIncrease=治疗增幅
+tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加成，包括药水效果与攻击伤害转化为生命值。不影响生命回复速度。
+tagCharStatsOathkeeperSkillsBonus=誓约守护者技能
+tagCharStatsOathkeeperSkillsBonusInfo=对誓约守护者专精中所有已学习技能的加成。

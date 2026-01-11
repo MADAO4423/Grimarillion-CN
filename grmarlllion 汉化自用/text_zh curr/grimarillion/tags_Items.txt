@@ -384,9 +384,9 @@ tagSwordD343={^I}温·金·劳
 tagSwordD343Desc=指引迷途者仰望天堂，以沐神恩。
 tagSwordD344={^I}斩
 tagSwordD344Desc=贾耶什自笑。他从未见过如此适合肢解恶魔的剑。
-tagSwordD345=亚特兰蒂姆  
+tagSwordD345={^I}亚特兰蒂姆  
 tagSwordD345Desc=许多水手曾讲述过一把剑的故事，据说它锻造于深海之下的隐秘领域的核心。但他们不知道，那不仅仅是故事。  
-tagSwordD346=风织者  
+tagSwordD346={^I}风织者  
 tagSwordD346Desc=这把剑的设计理念与船帆相同：利用风势为你带来优势。  
 
 
@@ -520,7 +520,7 @@ tagBootsD317={^B}木板行者
 tagBootsD318={^I}忽视之靴
 tagBootsD319={^B}火行者
 tagBootsD320={^I}虚空徘徊者护胫
-tagBootsD321=航海者之靴  
+tagBootsD321={^I}航海者之靴  
 tagBootsD321Desc="佩尔盖因对贸易的渴望让他们的早期扩张在阿瑞特沿海的远方土地受到欢迎，但布尔-卡索之子们的回击迅速而彻底。" -帕瓦茨·比米，《冰海子嗣》  
 
 
@@ -646,10 +646,10 @@ tagShouldersD334=(S) {^I}正义之镜
 tagShouldersD335={^I}费尔南的出生披肩
 tagShouldersD335Desc=血骑士的创始人将染血的出生披肩交给教团，在其失踪之前。穿戴于教团以外，实为亵渎，但当前情势危急。
 tagShouldersD336=(S) {^I}绯红领域肩甲
-tagShouldersD337=深渊之披肩  
+tagShouldersD337={^I}深渊之披肩  
 tagShouldersD337Desc=对有志成为风暴之力者而言，踏入激流直至被卷入深渊是一种成年礼，他们紧握孤刀，以示面对死亡的从容。  
-tagShouldersD338=冰原护肩  
-tagShouldersD339=远洋肩铠  
+tagShouldersD338={^I}冰原护肩  
+tagShouldersD339={^I}远洋肩铠  
 
 
 
@@ -742,8 +742,8 @@ tagHandsD359={^B}石之护手
 tagHandsD359Desc=沉重。石质。残酷。
 tagHandsD360={^I}根脉护手
 tagHandsD361=(S) {^I}绯红领域手护
-tagHandsD362=海风之触  
-tagHandsD363=远洋之触  
+tagHandsD362={^I}海风之触  
+tagHandsD363=(S) {^I}远洋之触  
 
 
 
@@ -807,9 +807,9 @@ tagTorsoD348Desc="濒死时，心智尤为清明。" - 战士哲学家施·水
 tagTorsoD349={^B}金皮胸甲
 tagTorsoD350={^I}蝙蝠胸甲
 tagTorsoD351=(S) {^I}猩红王国胸衣
-tagTorsoD352=西风卫甲  
+tagTorsoD352={^I}西风卫甲  
 tagTorsoD352Desc=在诸岛上，那些犯下死罪的人通常要通过在咸水中淹死来赎罪。一些风暴之子身着被判者的衣物，以提醒自己永远被流放所束缚。  
-tagTorsoD353=舞风者外套  
+tagTorsoD353={^I}舞风者外套  
 tagTorsoD353Desc=克萨斯拉教导潮汐失落的佩尔盖恩人民掌握剑舞风格的航海与战斗。但战争与旅行总会带来扩张。  
 tagTorsoD354=远洋战衣  
 
@@ -890,10 +890,10 @@ tagHeadD354Desc=看到敌人被剥皮只会加剧恶魔猎人胸中复仇之火�
 tagHeadD355={^I}诅咒之角
 tagHeadD355Desc=扭曲的角是血骑士战斗中的最后手段。看似脆弱，却能多次刺穿敌人而不折断。
 tagHeadD356=(S) {^I}猩红王国凝视
-tagHeadD357=引风者兜帽  
+tagHeadD357={^I}引风者兜帽  
 tagHeadD357Desc="风暴之子必须掌控自身，如同掌控风一般。对盟友如微风般温柔，对敌人如飓风般无情。" - 德拉诺·引风者  
-tagHeadD358=远洋兜帽  
-tagHeadD359=死神的兜帽  
+tagHeadD358=(S) {^I}远洋兜帽  
+tagHeadD359={^I}死神的兜帽  
 tagHeadD359Desc=死亡拥有诸多面孔。{^n}{^n}{^b}独特：{^o}此物品无法使用卡奈遗物。{^n}  
 
 
@@ -916,9 +916,9 @@ tagLegsD312Desc=行走如同与夜融为一体。
 tagLegsD313={^B}奥古斯丁护腿
 tagLegsD313Desc=恶魔猎人奥古斯丁总能挑选最适用的投射物。
 tagLegsD314={^I}夜行者护腿
-tagLegsD315=逐浪者护腿  
+tagLegsD315={^I}逐浪者护腿  
 tagLegsD315Desc=在海岸破碎却不酿成灾祸的浪潮，是吉兆，常被形容为“海洋记得如何舞动”。  
-tagLegsD316=织雾者腿裹  
+tagLegsD316={^I}织雾者腿裹  
 
 
 
@@ -1263,7 +1263,7 @@ tagNecklaceD325={^L}阿兹莫丹炽烈精华
 tagNecklaceD325Desc=罪恶之主阿兹莫丹精华，最后被囚禁于黑魂石中。
 tagNecklaceD326={^L}魅魔吊坠
 tagNecklaceD327=无尽洋流护符
-tagNecklaceD328=远洋吊坠
+tagNecklaceD328=(S) {^I}远洋吊坠
 
 
 MEDALS
@@ -2342,10 +2342,10 @@ tagRunewordD364bDesc=^w风暴使获得增强版的 ^b水龙卷 ^w符文效果。
 
 
 
-tagGDX1HeadD129=赤红王之面具
-tagGDX1ShoulderD126=赤红王之卷轴
-tagGDX1TorsoD126=赤红王之铠甲
-tagGDX1NecklaceD125=赤红王之吊坠
-tagGDX1Blueprint_ArmorD170=蓝图=赤红王之面具
+tagGDX1HeadD129=(S) {^I}赤红王之面具
+tagGDX1ShoulderD126=(S) {^I}赤红王之卷轴
+tagGDX1TorsoD126=(S) {^I}赤红王之铠甲
+tagGDX1NecklaceD125=(S) {^I}赤红王之吊坠
+tagGDX1Blueprint_ArmorD170=蓝图=(S) {^I}赤红王之面具
 tagGDX1ItemSetD123Name=赤红之王
 tagGDX1ItemSetD123Desc="纳扎兰领主的血色铠甲，他曾是一名血骑士，后来成为赤红之王。"
