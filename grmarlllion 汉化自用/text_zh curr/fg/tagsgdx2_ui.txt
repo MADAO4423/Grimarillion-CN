@@ -1,40 +1,40 @@
 #Faction
 
-tagFactionUser13=拜斯迈尔教团
-tagFactionUser13Info=总部：三神议会 {^n}{^n} 崇拜神秘莫测的低语女士，拜斯迈尔教团以操纵与诡计而自豪。 {^n}{^n} 正是由于拜斯迈尔的阴谋，帝国的审判官们数个世纪以来徒劳无功地追捕巫神教派，他们的努力被无尽的诱饵与谎言之网所迷惑。 {^n}{^n} 这一切得以实现，依靠的是一个庞大的间谍与线人网络，被称为“拜斯迈尔之网”。只有极少数人被信任，得以知晓拜斯迈尔计划的全貌。
+tagFactionUser13=拜斯邁教團
+tagFactionUser13Info=營地：三巫神秘會 {^n}{^n} 信奉難以捉摸的低語女士，拜斯邁教團以偽造和詭計為榮。{^n}{^n} 正是由於拜斯邁的陰謀詭計，帝國的審判官們花了幾個世紀漫無目的地尋找巫神教團，他們的努力被無盡的誘騙和謊言所困擾。{^n}{^n}所有這一切都是通過龐大的間諜和線人網路實現的，這些網路被稱為拜斯邁的情報網，只有極少數被選中的人才知道拜斯邁計劃的全貌。
 tagFactionUser13Rewards1=N/A
 tagFactionUser13Rewards2=N/A
 tagFactionUser13Rewards3=N/A
 tagFactionUser13Rewards4=空
-tagFactionUser13Rewards5=解锁阵营商人
-tagFactionUser13Rewards6=解锁悬赏任务板 {^n}阵营武器 {^n}阵营护甲 {^n}阵营蓝图
-tagFactionUser13Rewards7=新任务（若为盟友） {^n}阵营附魔 {^n}阵营武器 {^n}阵营饰品 {^n}阵营文书 {^n}阵营蓝图
-tagFactionUser13Rewards8=稀有附魔 {^n}阵营委任状 {^n}精英阵营护甲 {^n}传奇阵营蓝图
-tagFactionUser14=德里格教团
-tagFactionUser14Info=总部：三神议会 {^n}{^n} 受伟大守护者赐予真实之视，德里格的信徒被无数可能未来的幻象所吞噬。许多人在低语中走向疯狂，但那些坚持下来的人，将成为无比珍贵的资产，能够为实现巫神的目标而改变未来的走向。 {^n}{^n} 德里格的信徒们说，能站在伟大守护者面前，是无与伦比的祝福。他的睿智之言回荡于万古之间，试图在由诸天编织的动荡命运之线中寻求平衡。据说，凡人若亲眼目睹德里格扭曲的形态，其脆弱的心智必将粉碎。
+tagFactionUser13Rewards5=可進入勢力特有商店
+tagFactionUser13Rewards6=領取賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有設計圖
+tagFactionUser13Rewards7=新任務(已結盟) {^n}勢力特有增幅 {^n}勢力特有武器 {^n}勢力特有飾品 {^n}該勢力赦令 {^n}勢力特有設計圖
+tagFactionUser13Rewards8=稀有增幅 {^n}該勢力的委任狀 {^n}精英級勢力護甲 {^n}精英級勢力設計圖
+tagFactionUser14=德里格教團
+tagFactionUser14Info=營地：三巫神秘會 {^n}{^n} 宏偉守護者賜予了德里格的信徒們一副真實的景象，他們被未來的景象所吸引。許多人被低語逼瘋，但是爲了追尋巫神的目標成功而忍耐下來的人變成了足以改變世界的無價之寶。{^n}{^n}德里格的信徒們說，站在宏偉守護者面前是一件無與倫比的恩賜。他的智慧之言千古流傳，因為他試圖在天神們編織的混亂命運中取得平衡。傳言說目睹德里格那扭曲的身形，會使脆弱的凡人心智崩潰。
 tagFactionUser14Rewards1=N/A
 tagFactionUser14Rewards2=N/A
 tagFactionUser14Rewards3=N/A
 tagFactionUser14Rewards4=空
-tagFactionUser14Rewards5=解锁阵营商人
-tagFactionUser14Rewards6=解锁悬赏任务板 {^n}阵营武器 {^n}阵营护甲 {^n}阵营蓝图
-tagFactionUser14Rewards7=新任务（若为盟友） {^n}阵营附魔 {^n}阵营武器 {^n}阵营饰品 {^n}阵营文书 {^n}阵营蓝图
-tagFactionUser14Rewards8=稀有附魔 {^n}阵营委任状 {^n}精英阵营护甲 {^n}传奇阵营蓝图
-tagFactionUser15=索拉尔教团
-tagFactionUser15Info=总部：三神议会 {^n}{^n} 索拉尔可随其意志塑造艾尔德里奇领域的本质，并将这一知识分享给他忠诚的仆从。但如此力量并非毫无代价。有些人必须死去，才能让他人沐浴于他的荣光之中，这是忠诚的终极体现。 {^n}{^n} 索拉尔的信徒愿意付出任何代价，只为品尝索拉尔的恩赐。他们说，艾尔德里奇之火无与伦比，值得为之流一点血，即便那必须是他们自己的血……或是盟友的血。
+tagFactionUser14Rewards5=可進入勢力特有商店
+tagFactionUser14Rewards6=領取賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有設計圖
+tagFactionUser14Rewards7=新任務(已結盟) {^n}勢力特有增幅 {^n}勢力特有武器 {^n}勢力特有飾品 {^n}該勢力赦令 {^n}勢力特有設計圖
+tagFactionUser14Rewards8=稀有增幅 {^n}該勢力的委任狀 {^n}精英級勢力護甲 {^n}精英級勢力設計圖
+tagFactionUser15=索拉爾教團
+tagFactionUser15Info=營地：三巫神秘會 {^n}{^n}邪術領域扭曲的本質是由於索拉爾按照他認為合適的方式創造所導致的。他與他的僕人們分享了這些知識。但是這種力量並非沒有犧牲。有些人必須死，以便其他人可以獲取他的榮耀，這是忠誠的終極表現。{^n}{^n}索拉爾的信徒會爲了索拉爾的恩賜付出任何代價。他們說邪術之火是無與倫比的，值得付出一點鮮血，即使是他們自己的血...或者是他們盟友的。
 tagFactionUser15Rewards1=N/A
 tagFactionUser15Rewards2=N/A
 tagFactionUser15Rewards3=N/A
 tagFactionUser15Rewards4=空
-tagFactionUser15Rewards5=解锁阵营商人
-tagFactionUser15Rewards6=解锁悬赏任务板 {^n}阵营武器 {^n}阵营护甲 {^n}阵营蓝图
-tagFactionUser15Rewards7=新任务（若为盟友） {^n}阵营附魔 {^n}阵营武器 {^n}阵营饰品 {^n}阵营文书 {^n}阵营蓝图
-tagFactionUser15Rewards8=稀有附魔 {^n}阵营委任状 {^n}精英阵营护甲 {^n}传奇阵营蓝图
-tagFactionUser16=艾尔德里奇异怪
-tagFactionUser16Info= 数个世纪以来，艾尔德里奇生物一直能够通过现实帷幕的裂隙进入凯恩，但在科瓦恩之地，不同现实之间的屏障似乎最为薄弱。 {^n}{^n} 此地的恐怖存在数量众多，其形态也与凯恩其他地区所见的截然不同。它们以充盈着艾尔德里奇能量的利齿与利爪发动攻击，并拍动覆甲之翼，俯冲袭击毫无防备的猎物。 {^n}{^n} 艾尔德里奇领域被认为是巫神的国度，但在科瓦恩之地，似乎还有其他存在在争夺其秘密的掌控权，而他们的仆从正静待召唤。
-tagFactionUser16Rewards1=宿敌生成
-tagFactionUser16Rewards2=额外英雄生成
-tagFactionUser16Rewards3=额外生成
+tagFactionUser15Rewards5=可進入勢力特有商店
+tagFactionUser15Rewards6=領取賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有設計圖
+tagFactionUser15Rewards7=新任務(已結盟) {^n}勢力特有增幅 {^n}勢力特有武器 {^n}勢力特有飾品 {^n}該勢力赦令 {^n}勢力特有設計圖
+tagFactionUser15Rewards8=稀有增幅 {^n}該勢力的委任狀 {^n}精英級勢力護甲 {^n}精英級勢力設計圖
+tagFactionUser16=邪魔
+tagFactionUser16Info= 幾個世紀以來，邪術生物都能夠通過位面之間的漏洞來進入凱恩世界，但是在科凡大陸，不同位面之間的屏障似乎是最薄弱的。{^n}{^n}在這裡，恐怖生物數量眾多，它們的外形結構不同於在凱恩其他地方看到的任何形式。它們使用充滿邪術能量的牙齒和爪子來攻擊，使用甲殼保護著的雙翼撲倒任何毫無防備的獵物。{^n}{^n}據說邪術領域是巫神們的領地，但是在科凡大陸上，似乎有其他人在爭奪對其秘密的控制權，並且他的僕人們也隨時等待著召喚。
+tagFactionUser16Rewards1=產生復仇級單位
+tagFactionUser16Rewards2=產生額外精英單位
+tagFactionUser16Rewards3=產生額外敵人
 tagFactionUser16Rewards4=空
 tagFactionUser16Rewards5=N/A
 tagFactionUser16Rewards6=N/A
@@ -43,8 +43,8 @@ tagFactionUser16Rewards8=N/A
 
 
 #Quest
-tagCodexJournalSubHeadingWitchGods=幸存者 - 巫神教团
-tagCodexJournalSubHeadingKorvan=历史 - 科瓦恩
+tagCodexJournalSubHeadingWitchGods=倖存者 - 巫神教團
+tagCodexJournalSubHeadingKorvan=歷史 - 科凡
 
 
 #Challenge Areas
@@ -55,22 +55,22 @@ tagChallengeArea_Hard=险恶领域
 tagChallengeArea_Hard_Desc=你已进入一片极度险恶、敌人密布的区域。此处的怪物被强化，多个变异效果同时生效，但战利品掉落将大幅提升。
 
 tagChallengeArea_Roguelike=禁忌领域
-tagChallengeArea_Roguelike_Desc=你已进入一座类 Rogue 地牢。此处的怪物被注入了邪恶的力量，变得异常强大，并且有多个变异效果生效。在当前游戏进程中也无法再次进入。不过，战利品掉落将显著提升。
+tagChallengeArea_Roguelike_Desc=你進入了一個隨機地下城。這裡的怪物被注入了邪惡的力量，使他們變得更加強大，同時數個变异效果也被啟用，本局遊戲也無法再次進入，但是掉落獎勵也得到了極大提升。
 
 #Endless Dungeon
-tagEndlessFloorNotComplete=击败敌人并收集他们的破碎灵魂
-tagEndlessFloorComplete=前往下一个传送门
-tagEndlessFloorBoss=击败你的敌人
-tagEndlessFloorBossDead=与玛赞交谈以继续
-tagEndlessFloorLoot=收集你的奖励
-tagEndlessDungeonCounterName=碎片
-tagEndlessDungeonCounterInfo=当前破碎领域的碎片层级
-tagEndlessFloorCounterName=区块
-tagEndlessFloorCounterInfo=当前碎片内的区块进度
-tagEndlessTimerName=计时器
-tagEndlessTimerNameInfo=破碎领域崩解前的剩余时间。^n^n击败强大的敌人并迅速消灭大量怪物可获得额外时间奖励。^n^n在时间耗尽前击败该碎片的首领，可在“破碎领域的珍宝”中获得额外奖励！
-tagEndlessDungeonBonusTime=杀戮狂潮：{%d0} 名敌人被击杀！^n^n时间增加 {%.0f1} 秒！
-tagEndlessDungeonHeroBonusTime=强大敌人被击杀！^n^n时间增加 {%.0f0} 秒！
+tagEndlessFloorNotComplete=消滅敵人，收集碎裂之魂
+tagEndlessFloorComplete=前往下一個傳送門
+tagEndlessFloorBoss=擊敗你的敵人
+tagEndlessFloorBossDead=與瑪贊對話
+tagEndlessFloorLoot=獲取你的獎勵
+tagEndlessDungeonCounterName=碎境
+tagEndlessDungeonCounterInfo=碎裂之境的當前碎境
+tagEndlessFloorCounterName=區塊
+tagEndlessFloorCounterInfo=目前碎境內的區塊
+tagEndlessTimerName=計時器
+tagEndlessTimerNameInfo=碎裂之境變得不穩定之前的剩餘時間。 ^n^n擊殺強大的敵人或者迅速消除大量的敵人可以獲得獎勵時間。 ^n^n在時間耗盡前擊殺碎境的Boss可以在碎裂之境的輝煌中領取額外的獎勵。
+tagEndlessDungeonBonusTime=屠殺：{%d0} 怪物被擊殺！^n^n+{%.0f1} 秒到計時器！
+tagEndlessDungeonHeroBonusTime=擊殺強力敵人！^n^n+{%.0f0} 秒到計時器！
 
 #Inventor - Transmute
 tagConvertCost=转化消耗：
@@ -96,7 +96,7 @@ tagCharHealIncreaseModifierR={^E}治疗效果提高 {^H}{%.0f0}% - {%.0f1}%
 #Char Stats Tab 2
 
 #Character
-tagCharStatsHealIncrease=治疗增幅
-tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加成，包括药水效果与攻击伤害转化为生命值。不影响生命回复速度。
-tagCharStatsOathkeeperSkillsBonus=誓约守护者技能
-tagCharStatsOathkeeperSkillsBonusInfo=对誓约守护者专精中所有已学习技能的加成。
+tagCharStatsHealIncrease=強化治療
+tagCharStatsHealIncreaseInfo=所有治療效果的百分比加成，包括藥水和攻擊傷害轉化為生命值。不增加生命恢復速度。
+tagCharStatsOathkeeperSkillsBonus=守誓者技能加成
+tagCharStatsOathkeeperSkillsBonusInfo=所有守誓者專精中已習得技能的額外加成。
