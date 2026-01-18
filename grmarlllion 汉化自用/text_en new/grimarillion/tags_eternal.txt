@@ -7,6 +7,7 @@ tagLocation5=Destroyed House Remains ^r(Eternal (Grimarillion Edition))
 tagArenaRift1=Rift to Achalesa's Domain
 tagArenaRift2=Rift to Precipice of Lunacy
 tag_RiftgateEternal=Eternal Rift
+tag_EternalCellarDoor=Strange Cellar Doorway
 
 ##Script Tags##
 tag_AETHERIAL_spawned=Valdaran Spawned!
@@ -315,8 +316,8 @@ tagCorruptHealing2Desc=Vaneau spreads his curse through this stone, debilitating
 tagCorruptHealing3=Lifeshatter
 tagCorruptHealing3Desc=The lesser stones Vaneau block the ability to regenerate and heal normally. ^o^nReduces % Regeneration and % Healing.
 tagDromegonFrenzyTurret=Frenzy Totem
-tagDromegonHellhound=Dromgeon's Hellhound
-tagDromegonRaptor=Dromegon's Raptor
+tagDromegonHellhound=Rifthunter
+tagDromegonRaptor=Riftscreecher
 tagDromegonRift=Dromegon's Rift (should not be visible)
 tagDromegonTurret=Dromegon's Turret (should not be visible)
 tagDromegonTurretDebuff=Dromegon's Presence
@@ -327,6 +328,7 @@ tagTrollStench=Urzog's Pestilence
 tagTrollStenchDesc=A fetid swarm of flies emanates from Urzog, preventing you from healing. ^n^oReduces % Regeneration and % Healing
 tagTrollSwarm=Pestilent Swarm
 tagTrollSwarmDesc=A fetid swarm of flies is preventing you from healing. ^n^oReduces % Regeneration and % Healin
+tagSydrianaShard=Sydriana's Shard
 
 ##Eternal Items##
 tagEva=Eva **Incomplete?**
@@ -361,11 +363,11 @@ tagGodlyScythe2=Malakos' Dirge
 
 tagSabrinaRing=Sabrina's Screaming Signet Ring **REMOVED**
 tagSydrianaFocus=Sydriana's Soul Orb
-tagSabrinaOrbitingAether=Sabrina's Aether Screams
+tagSabrinaOrbitingAether=Aether Screams
 tagSabrinaOrbitingAetherDesc=Call upon the power of aether to summon an orbiting wave of destruction.
 
 tagAriaNecklance=Vile Gemstone of Aria **REMOVED**
-tagAriaFocus={^B}Aria's Blood Shard
+tagAriaFocus=Aria's Blood Shard
 tagAriaAura=Aria's Hunger
 tagAriaAuraDescription=Ch'thonian power saps life force from the nearby enemies.
 tagAriaPulse=Aria's Blood Nova
@@ -373,7 +375,7 @@ tagAriaPulseDesc=Emit a barrage of piercing blood projectiles from Aria's blood 
 
 tagHarunsSword=Chilling Edge of Harun **REMOVED**
 tagHarunsSword1=Harun's Edge
-tagHarunsSword2={^B}Harun's Winterscorn
+tagHarunsSword2=Harun's Winterscorn
 tagHarunsSword1Skill=Summon Revenant of Harun
 tagHarunsSword1SkillPet=Revenant of Harun
 tagHarunsSword1SkillDesc=Summons one of Harun's powerful revenants. ^oOnly one Frost Revenant can be summoned at any one time. The Frost Revenant scales with Pet Bonuses.
@@ -407,7 +409,7 @@ tagBeaniesShield2=Irewa's Sparkguard
 tagBeaniesSkill=Emberblast
 tagBeaniesSkillDesc=Extreme heat erupts from you, igniting nearby foes.
 
-tagCheatNecklace={^I}Hexed Amulet of Calcification
+tagCheatNecklace=Hexed Amulet of Calcification
 tagCheatAura=Calcify
 tagCheatAuraDescription=Your flesh hardens into bone and becomes indestructible... but you can't breathe.
 

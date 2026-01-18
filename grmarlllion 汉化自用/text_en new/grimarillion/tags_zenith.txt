@@ -95,7 +95,7 @@ tagClass16SkillName06B=Thirst
 tagClass16SkillDescription06B=^b[Modifier] [Debuff]^n^n^wThere is much vigor to take from your enemies, and you are quite thirsty. Drink on!
 
 tagClass16SkillName07A=Well of Fears
-tagClass16SkillDescription07A=^b[Spell] [AOE] [Timed]^n^n^wConjure a pool of terrific power that decays the rational thought of your enemies.
+tagClass16SkillDescription07A=^b[Spell] [AOE] [Timed]^n^o[Interval: 1 Second]^n^n^wConjure a pool of terrific power that decays the rational thought of your enemies.
 tagClass16SkillName07B=Swarm of Fears
 tagClass16SkillDescription07B=^b[Modifier]^n^n^wDegrade the will of your foes to push on.
 
@@ -216,7 +216,7 @@ tagClass17SkillName16A=Elemental Flow
 tagClass17SkillDescription16A=^b[Buff] [Timed] [HP Threshold]^n^n^wAs your vitality comes and goes, so, too, do your defenses.
 
 tagClass17SkillName17A=Pyroclasm
-tagClass17SkillDescription17A=^b[Spell] [AOE] [Timed]^n^n^wIncinerate a piece of the world in a swirling vortex of infernal and electrical energies.
+tagClass17SkillDescription17A=^b[Spell] [AOE] [Timed]^n^o[Interval: 1 Second]^n^n^wIncinerate a piece of the world in a swirling vortex of infernal and electrical energies.
 tagClass17SkillName17B=Power Surge
 tagClass17SkillDescription17B=^b[Secondary Modifier] [AOE] [Debuff]^n^n^wEnergy is fickle. Sometimes you'll barely notice a change in power, and sometimes a change can instantly disintegrate your foes. Fickle.
 
@@ -336,7 +336,7 @@ tagClass18SkillDescription14A=^b[Buff] [Heal] [Timed]^n^n^wPopular martial techn
 tagClass18SkillName15A=Chemical Bombardment
 tagClass18SkillDescription15A=^b[Player Scaled Pet] [Projectile Drop] [Stationary]^n^n^wWith the use of a mortar, call down a vicious bombardment of chemical weaponry.
 tagClass18SkillName15B=Aerosol Dispersion
-tagClass18SkillDescription15B=^b[Pet Skill] [AOE] [Timed]^n^n^wThe mortar will occasionally disperse a deadly biochemical agent that will choke the life out of lesser foes.
+tagClass18SkillDescription15B=^b[Pet Skill] [AOE] [Timed]^n^o[Interval: 1 Second]^n^n^wThe mortar will occasionally disperse a deadly biochemical agent that will choke the life out of lesser foes.
 tagClass18SkillName15C=Cold Flare
 tagClass18SkillName15D=The Outrider Special
 tagClass18SkillDescription15D=^b[Pet Skill] [AOE]^n^n^lLet's see them survive this one.{^n}{^n}^wDrops a massive payload from the mortar onto your enemies. 
@@ -363,7 +363,7 @@ tagClass18SkillName18B=Tainted Shrapnel
 tagClass18SkillDescription18B=^b[Modifier]^n^n^wAdds shrapnel to the Cluster Bomb which will inflict harm upon the very life force of those struck by it.
 
 tagClass18SkillName19A=Biobomb
-tagClass18SkillDescription19A=^b[Spell] [Grenade] [Debuff] [Timed]^n^n^wToss a grenade which, upon detonation, will release a deadly biochemical agent that will harshly debilitate enemies caught in the area.
+tagClass18SkillDescription19A=^b[Spell] [Grenade] [Debuff] [Timed]^n^o[Interval: 0.95 Seconds]^n^n^wToss a grenade which, upon detonation, will release a deadly biochemical agent that will harshly debilitate enemies caught in the area.
 
 tagClass18SkillName20A=OMNI-Round
 tagClass18SkillDescription20A=If your target has a weakness, the OMNI-Round will exploit it.{^n}^rLIMITED ISSUE
@@ -665,7 +665,7 @@ tagClass21SkillName10A=Unadulterated Power
 tagClass21SkillDescription10A=^b[Secondary Modifier] [Nova] [AOE] ^n^o[When Hit]^n^n^wRaw, unadulterated power, and the expulsion and abuse thereof. That's the Necrotic's motif. Enemies who would strike the Necrotic will be subjected to this raw power.
 
 tagClass21SkillName11A=Unholy Hailfire
-tagClass21SkillDescription11A=^b[Spell] [Fragmenting] [AOE] [Timed]^n^n^w^r"To paint the day's sky black, and the night's sky red. That is my goal, Incarnate."
+tagClass21SkillDescription11A=^b[Spell] [Fragmenting] [AOE] [Timed]^n^o[Interval: 0.8 Seconds]^n^n^w^r"To paint the day's sky black, and the night's sky red. That is my goal, Incarnate."
 
 tagClass21SkillName12A=Obsidian Prison
 tagClass21SkillDescription12A=^b[Spell] [AOE] [Debuff]^n^n^r"Death is inescapable, Incarnate, even for us Primordials. I just happen to be the Reaper."

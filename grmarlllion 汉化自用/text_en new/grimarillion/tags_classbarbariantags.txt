@@ -132,72 +132,72 @@ tagClassBarbarianSkillName55=Falter
 tagClassBarbarianSkillName55Desc=Threatening Shout also reduces the health regeneration and some resistances of affected enemies.
 
 #X1 Diablo Items
-tagX1D3_Belt01={^I}Pride of Cassius
+tagX1D3_Belt01=Pride of Cassius
 tagX1D3_Belt01Desc="He moved swiftly and he struck hard. Truly the greatest warrior to have walked the land."
-tagX1D3_Ring01={^I}Band of Might
+tagX1D3_Ring01=Band of Might
 tagX1D3_Ring01Desc="Seems designed to reduce damage, but I'm not sure how it works. Obviously, it failed its previous owner. Hopefully it will work better for you."Haedrig{^n}After hitting an enemy with Furious Charge, Ground Stomp, or Leap, you are healed.
-tagX1D3_necklace01={^I}Hellfire Amulet
+tagX1D3_necklace01=Hellfire Amulet
 tagX1D3_necklace01Desc="The Hellfire Amulet is truly a badge of dedication to those who, at great cost to themselves, have sworn their lives to eradicating the demon scourge from the lands of Sanctuary."
-tagX1D3_necklace01A={^I}Hellfire Amulet of Monk
-tagX1D3_necklace01B={^I}Hellfire Amulet of Barbarian
-tagX1D3_necklace01C={^I}Hellfire Amulet of Crusader
-tagX1D3_necklace01D={^I}Hellfire Amulet of Demon Hunter
-tagX1D3_necklace01E={^I}Hellfire Amulet of Necromancer
-tagX1D3_necklace01F={^I}Hellfire Amulet of Wizard
-tagX1D3_necklace01G={^I}Hellfire Amulet of Witch Doctor
-tagX1D3_Sword2h01={^I}Blade of the Tribes
+tagX1D3_necklace01A=Hellfire Amulet of Monk
+tagX1D3_necklace01B=Hellfire Amulet of Barbarian
+tagX1D3_necklace01C=Hellfire Amulet of Crusader
+tagX1D3_necklace01D=Hellfire Amulet of Demon Hunter
+tagX1D3_necklace01E=Hellfire Amulet of Necromancer
+tagX1D3_necklace01F=Hellfire Amulet of Wizard
+tagX1D3_necklace01G=Hellfire Amulet of Witch Doctor
+tagX1D3_Sword2h01=Blade of the Tribes
 tagX1D3_Sword2h01Desc="Every tribe tells tales of their greatest weapons, capable of moving mountains or terrifying enemies, each one different. But every tribe claims this blade as their own."
-tagX1D3_Axe01={^I}The Burning Axe of Sankis
+tagX1D3_Axe01=The Burning Axe of Sankis
 tagX1D3_Axe01Desc="An obsidian axe wielded by the mad Sankis as he turned on his own men inside their fortress. Even as he burned to death himself, he would not stop his attacks on those he had once ruled.
-tagX1D3_Ring02={^I}Skull Grasp
+tagX1D3_Ring02=Skull Grasp
 tagX1D3_Ring02Desc="Unscrupulous merchants have often duplicated this much sought-after ring to sell to the unwary."
-tagX1D3_Feet01={^I}Lut Socks
+tagX1D3_Feet01=Lut Socks
 tagX1D3_Feet01Desc="Southal of Lut Bahadur crafted these boots in order to reach high, open windows to make his thieving easier. He was last seen disappearing into the night in the claws of a large carrion bat."
-tagX1D3_Shoulders04={^I}Fury of the Ancients
+tagX1D3_Shoulders04=Fury of the Ancients
 tagX1D3_Shoulders04Desc="This mantle was crafted by one banished from the sacred mountain, in order to commune with the ancients."
-tagX1D3_Sword01={^I}Thunderfury, blessed blade of the windseeker
+tagX1D3_Sword01=Thunderfury, blessed blade of the windseeker
 tagX1D3_Sword01Desc="This ancient blade, imbued with unpredictable elemental energies, crossed vast universes and hidden dimensions before arriving in Sanctuary. Thunderfury seeks the hand of a true hero, one capable of safely wielding its awesome power."
-tagX1D3_Sword02={^I}In Geom
+tagX1D3_Sword02=In Geom
 tagX1D3_Sword02Desc="Carried by the kings of Xiansai in antiquity, this sword was said to harness the speed and lethality of four tiger spirits. One king claimed to have exorcised a thousand demons from their hapless victims, using only this blade."
 tagX1D3_Sword02Skill=After killing an enemy, gives a chance to buff yourself with a huge cooldown reduction for 15 seconds.
 tagX1D3_Sword03=El'Druin, Sword of Justice
 tagX1D3_Sword03Desc="El'druin is capable of cutting through any foe or substance in existence.Only those with a righteous heart can wield the blade, and will not aid its user if used in anger.It carries angelic resonance."
 tagX1D3_Sword03skill=El'Druin light
-tagX1D3_Sword04={^B}Blackguard
+tagX1D3_Sword04=Blackguard
 tagX1D3_Sword04Desc="The power of this sword drove the warrior Rothat to unspeakable acts."
 tagX1D3_Sword04Skill=Blackguard Curse
 tagX1D3_Sword04SkillDesc=Curse your enemies, making even the most powerful foes vulnerable to freeze and stun.
 tagX1D3_MedalBelialSkill=Belial Curse
 tagX1D3_MedalBelialSkillDesc=Curse your enemies, making them vulnerable to Aether and poison.
-tagX1D3_Mace01={^I}Fury of the Vanished Peak
+tagX1D3_Mace01=Fury of the Vanished Peak
 tagX1D3_Mace01Desc="Korr took all his anger and despair and poured them into the creation of a weapon that would speak to the majesty of Arreat for ages to come."
 
 
 
-tagX1D3_Axe02={^I}Fjord Cutter
+tagX1D3_Axe02=Fjord Cutter
 tagX1D3_Axe02Desc="It takes a sturdy weapon to survive on the shores of the Frozen Sea."
 
-tagX1D3_Hands05={^I}Tasker and Teo
+tagX1D3_Hands05=Tasker and Teo
 tagX1D3_Hands05Desc="The master and his hound were the most famed hunters of their day. He died fighting beside his favorite dog, just as the way he would have wanted it. His loyal companion soon followed."
 
-tagX1D3_Hands06={^I}Vambraces of Sesheron
+tagX1D3_Hands06=Vambraces of Sesheron
 tagX1D3_Hands06Desc="These look to be of Sescheron origin to me. Strange though - when others use them, they are nothing special. When you use them, well..." - Haedrig
 
 
-tagX1D3_Belt03={^I}Kyoshiro's Soul
+tagX1D3_Belt03=Kyoshiro's Soul
 tagX1D3_Belt03Desc="Kyoshiro felt a great calm come over him after the battle at Xiansai. He closed his eyes and it felt like nothing changed at all."
 
-tagX1D3_Shield01={^I}Frydehr's Wrath
+tagX1D3_Shield01=Frydehr's Wrath
 tagX1D3_Shield01Desc="Frydehr was near death, his wounds outnumbered only by his foes. It was then that he discovered that the depth of a crusader's wrath is far greater than anyone had ever suspected."
-tagX1D3_Shield02={^I}Defender of Westmarch
+tagX1D3_Shield02=Defender of Westmarch
 tagX1D3_Shield02Desc="This aged, wolf-crested shield bears scars from hundreds of battles. It was presented to the original Knight Commander of Westmarch by King Korsikk as the first official act after his coronation. Since then, it has been borne by many of the order's greatest heroes, and its bearer is accorded all the respect such a badge of honor deserves."
 tagX1D3_Shield02Skill=Wolves of Westmarch
 tagX1D3_Shield02SkillDesc="Every block will summon charging wolves that deals weapon damage to all enemies they passes through."
 
-tagX1D3_Hands07={^I}Bracers of Destruction
+tagX1D3_Hands07=Bracers of Destruction
 tagX1D3_Hands07Desc="These bracers appear to utilize primal forces channeled from the ground itself. Interesting, to say the least." -Abd al-hazir
 
-tagX1D3_Hands08={^I}Mortick's Bracers
+tagX1D3_Hands08=Mortick's Bracers
 tagX1D3_Hands08Desc="These ancient bracers belonged to the barbarian berserker Mortick, who believed them to be lucky and never took them off. When at last he died, his tribesmen discovered he had stitched them into his flesh."
 
 tagX1D3_TragOulWings01=Trag'Oul's Wings
@@ -217,75 +217,75 @@ tagX1D3_MercyWings=Cosmetic Wings - Mercy
 tagX1D3_ItemSkill01=Loyalty of the Lemmings
 tagX1D3_ItemSkill01Desc="Take care of your pets, they will follow you until the end".
 
-tagX1D3_necklace02={^I}Rakoff's Glass of Life
+tagX1D3_necklace02=Rakoff's Glass of Life
 tagX1D3_necklace02Desc="Rakoff was a simple layman scribe who studied the ways and fighting technique of the monks extensively before creating an item to draw out the life force of a defeated enemy."{^o}Chance to spawn an Health globe on attack.
 tagX1D3_HealthGlobe=Health Globe
-tagX1D3_Medal01={^I}Pride of the Earth
-tagX1D3_Medal02={^I}Medal of Adria
-tagX1D3_Medal03={^I}Medal of Belial
-tagX1D3_Medal04={^I}Mark of the Barbarian
+tagX1D3_Medal01=Pride of the Earth
+tagX1D3_Medal02=Medal of Adria
+tagX1D3_Medal03=Medal of Belial
+tagX1D3_Medal04=Mark of the Barbarian
 #X1 Diablo SET Items
 tagItemSetX1D3_01=Might of Earth
 tagItemSetX1D3_01Desc="The 5 piece bonus causes an Earthquake whenever the Barbarian lands after using Leap."
-tagX1D3_Feet02=(S) {^B}Foundation of the Earth
+tagX1D3_Feet02=Foundation of the Earth
 tagX1D3_Feet02Desc="Even the grandest structure will fall if it is built on sand. "
-tagX1D3_Hands01=(S) {^B}Pull of the Earth
+tagX1D3_Hands01=Pull of the Earth
 tagX1D3_Hands01Desc="No mortal can escape the grasp of the earth. No matter how high something jumps or flies, it inevitably plummets back to the ground. Imagine that power in your hands."
-tagX1D3_Head01=(S) {^B}Eyes of the Earth
+tagX1D3_Head01=Eyes of the Earth
 tagX1D3_Head01Desc="Mountains crumble. Cliffs fall. Canyons rip asunder. The forces that shape the land are a mystery to most. But not to you. Not anymore."
 tagX1D3_Legs01=Weight of the Earth
 tagX1D3_Legs01Desc="All living creatures trust in the stillness of the earth. They know nothing of the currents that flow beneath its surface. They do not comprehend its weight. They cannot understand its power."
-tagX1D3_Torso01=(S) {^B}Spirit of the Earth
+tagX1D3_Torso01=Spirit of the Earth
 tagX1D3_Torso01Desc="The spirit of the earth is the strongest force there is, nothing can withstand its power."
-tagX1D3_Shoulders01=(S) {^B}Spires of the Earth
+tagX1D3_Shoulders01=Spires of the Earth
 tagX1D3_Shoulders01Desc="Travelers speak of a stone arch in the desert, where mystics seek wisdom from supernatural visions, or strength from the ground. Some claim to have received both"
 
 
 tagItemSetX1D3_02=Immortal King's Call
 tagItemSetX1D3_02Desc="The Ancients Barbariants will aid you on your journey"
-tagX1D3_Legs02=(S) {^I}Immortal King's Stature
+tagX1D3_Legs02=Immortal King's Stature
 tagX1D3_Legs02Desc="Crafted to commemorate Worusk's ascendance to the position of Immortal King, the first and only time this honor was bestowed since Bul-Kathos ruled the tribes."
-tagX1D3_Torso02=(S) {^I}Immortal King's Eternal Reign
+tagX1D3_Torso02=Immortal King's Eternal Reign
 tagX1D3_Torso02Desc="Worn during the Immortal King's final battle."
-tagX1D3_Head02=(S) {^I}Immortal King's Triumph
+tagX1D3_Head02=Immortal King's Triumph
 tagX1D3_Head02Desc="In the days when the barbarians roamed the entire western continent-long before the coming of Rakkis-one man, Worusk, united the tribes, and for the briefest of moments, the barbarians had a king."
-tagX1D3_Hands02=(S) {^I}Immortal King's Irons
+tagX1D3_Hands02=Immortal King's Irons
 tagX1D3_Hands02Desc="Worusk struck his enemies so hard his hands would have broken had they not been protected."
-tagX1D3_Sword2h01=(S) {^I}Immortal King's Boulder Breaker
+tagX1D3_Sword2h01=Immortal King's Boulder Breaker
 tagX1D3_Sword2h01Desc="The favorite weapon of Worusk, the king of the tribes."
-tagX1D3_Feet03=(S) {^I}Immortal King's Stride
+tagX1D3_Feet03=Immortal King's Stride
 tagX1D3_Feet03Desc="The king of the barbarians strode the world like a god."
-tagX1D3_Belt02=(S) {^I}Immortal King's Tribal Binding
+tagX1D3_Belt02=Immortal King's Tribal Binding
 tagX1D3_Belt02Desc="The mark of the king adorns this belt."
 
 tagItemSetX1D3_03=The Legacy of Raekor
 tagItemSetX1D3_03Desc="Charge through your enemies !"
-tagX1D3_Head03=(S) {^I}Raekor's Will
+tagX1D3_Head03=Raekor's Will
 tagX1D3_Head03Desc="Though barbarian women were respected as warriors, they were still seen as inferior to their male brethren on the field of battle until the coming of Raekor, the first woman to attain the exalted status of warmaster."
-tagX1D3_Hands03=(S) {^I}Raekor's Wraps
+tagX1D3_Hands03=Raekor's Wraps
 tagX1D3_Hands03Desc="These ox-leather gloves were crafted specifically to commemorate Raekor's ascension to the status of warmaster."
-tagX1D3_Legs03=(S) {^I}Raekor's Breeches
+tagX1D3_Legs03=Raekor's Breeches
 tagX1D3_Legs03Desc="Originally part of Joritz the Mighty's fearsome armor, Raekor wore these oxen-hide breeches into battle for the rest of her life following her husband's untimely death."
-tagX1D3_Feet04=(S) {^I}Raekor's Striders
+tagX1D3_Feet04=Raekor's Striders
 tagX1D3_Feet04Desc="Loren of the Samaurenian famously said he would crush the barbarians beneath his boots. Raekor took great delight in ripping them from his cold, dead feet. Forever after, they were a symbol of Raekor's greatest triumph."
-tagX1D3_Torso03=(S) {^I}Raekor's Heart
+tagX1D3_Torso03=Raekor's Heart
 tagX1D3_Torso03Desc="Joritz the Mighty dedicated his life to Raekor after she liberated him from a Samaurenian labor camp. This magnificent brigandine was his gift to her on their wedding day."
-tagX1D3_Shoulders02=(S) {^I}Raekor's Burden
+tagX1D3_Shoulders02=Raekor's Burden
 tagX1D3_Shoulders02Desc="These spaulders are the symbol of the Oxen Tribe Warmaster. Raekor stripped them from her fallen commander and donned them herself in order to lead her tribe to victory at the sack of Samauren."
 
 tagItemSetX1D3_04=Wrath of the Wastes
 tagItemSetX1D3_04Desc=Increase Whirlwind damage
-tagX1D3_Head04=(S) {^I}Helm of the Wastes
+tagX1D3_Head04=Helm of the Wastes
 tagX1D3_Head04Desc="Noglar of the Crane Tribe went into the wastes for his rite of adulthood. He returned with tales of horrendous cannibal barbarian tribes, many new scars, and this helm."
-tagX1D3_Hands04=(S) {^I}Gauntlet of the Wastes
+tagX1D3_Hands04=Gauntlet of the Wastes
 tagX1D3_Hands04Desc="Offo of the Henknoc Tribe discovered a barrow in the wastes. Inside, skeletons with filed teeth were arrayed around the body of a great king. Offo left as quickly as he could, taking only the king's gauntlets."
-tagX1D3_Legs04=(S) {^I}Tasset of the Wastes
+tagX1D3_Legs04=Tasset of the Wastes
 tagX1D3_Legs04Desc="Jorkt of the Snake Tribe found a mad hermit smith in the wastes, who forged this tasset for him, but took Jorkt's fingers and toes in payment."
-tagX1D3_Feet05=(S) {^I}Sabaton of the Wastes
+tagX1D3_Feet05=Sabaton of the Wastes
 tagX1D3_Feet05Desc="The Tribe of Thunder was moving through the wastes when a madman with one arm rushed from the snowy twilight, babbling of horrendous acts, both suffered and witnessed. He was clad only in rags and these sabatons."
-tagX1D3_Torso04=(S) {^I}Cuirass of the Wastes
+tagX1D3_Torso04=Cuirass of the Wastes
 tagX1D3_Torso04Desc="Narthal of the Bear Tribe discovered the aftermath of a great battle in the wastes. He did not recognize the dead, but noticed that many had filed their teeth to points. Among the debris of the battle, he found this cuirass."
-tagX1D3_Shoulders03=(S) {^I}Pauldron of the Wastes
+tagX1D3_Shoulders03=Pauldron of the Wastes
 tagX1D3_Shoulders03Desc="Forckan of the Shadow Wolf Tribe was captured by cannibals in the wastes. He escaped before dinnertime and stole just enough equipment to survive, including these pauldrons."
 
 #X1 Relics Kanai Cube

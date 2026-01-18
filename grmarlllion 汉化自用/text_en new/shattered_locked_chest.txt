@@ -5,4 +5,3 @@ Open the chest.
 Leave it.
 You have opened this chest.
 Ok.
-
