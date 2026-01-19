@@ -245,7 +245,7 @@ tagSkillName030=Spirit Mastery
 tagSkillDescription030=Provides the arcane knowledge and mental discipline to study the dark art of controlling spirits.
 
 tagSkillName032=Vision of Death
-tagSkillDescription032=^b[AOE] [Spell] [Timed]^n^n^wAssaults the minds of surrounding enemies with images of their own death causing the weak-hearted to become enfeebled and slowed.
+tagSkillDescription032=^b[AOE] [Spell] [Timed]^n^o[Interval: 0.5 Seconds]^n^n^wAssaults the minds of surrounding enemies with images of their own death causing the weak-hearted to become enfeebled and slowed.
 tagSkillName214=Deluge
 tagSkillDescription214=^b[Modifier]^n^n^wThe madness becomes more profound, foes trapped within the deluge of terror have a chance to be overwhelmed by the visions.//The magic practitioners of older civilizations devised many insidious techniques to bolster the destructive 
 
@@ -703,7 +703,7 @@ tagSkillDescription099=^b[Pet Modifier]^n^n^wUnder tremendous heat and pressure,
 tagBoulder=Boulder Toss
 
 tagSkillName109=Eruption
-tagSkillDescription109=^b[Spell] [Fragmenting] [AOE] [Timed]^n^n^wVolcanic fissures form in the ground, emitting deadly geysers of molten flame and fiery chunks of brimstone.  Each fragment inflicts physical and fire damage to the enemies it hits.
+tagSkillDescription109=^b[Spell] [Fragmenting] [AOE] [Timed]^n^o[Interval: 0.8 Seconds]^n^n^wVolcanic fissures form in the ground, emitting deadly geysers of molten flame and fiery chunks of brimstone.  Each fragment inflicts physical and fire damage to the enemies it hits.
 tagMoltenLavaNAME=Molten Lava
 tagMoltenLavaDESC=^b[Modifier]^n^n^wCauses lava to pour out of the fissure, dealing prolonged burn damage and hindering enemies.
 
@@ -1021,8 +1021,7 @@ tagGaldrRuneDESC=^b[Spell] [AOE] [Debuff]^n^n^w^n^n^wInscribes several runes on 
 tagTorchRunePetNAME=Torch Rune
 tagRunicMinesSkill01NAME=Runic Blaze
 tagGaldrRuneBNAME=The Yawning Void
-tagGaldrRuneBDESC=^b[Transmuter]^n^n^wInscribes a rune which projects the chaotic void energies of the Ginnungagap to wreak havoc on the souls caught within the boundary. The rune now instead debuffs pierce, chaos and poison resistances. ^oThis is not considered true conversion and so the damage may be converted "twice".
-
+tagGaldrRuneBDESC=^b[Transmuter]^n^n^wInscribes a rune which projects the chaotic void energies of the Ginnungagap to wreak havoc on the souls caught within the boundary. 
 tagRuneStormNAME=Rune Storm
 tagRuneStormDESC=^b[Spell] [Contagious] [Debuff]^n^n^wWhen the situation calls for it, combining mismatched rune can create a dangerous storm of unforeseen effects.
 tagRuneStormBNAME=Runes of Discord
@@ -1064,7 +1063,7 @@ x4tagSkillNeidanEnergyDrainDisruption=Reverberation
 x4tagSkillNeidanEnergyDrainDisruptionDesc=^b[Secondary Modifier][Nova]^n^n^wAs you channel to realign your Qi, you emanate energy and drain health from nearby enemies and leave them with lasting consequences.
 
 x4tagSkillNeidanShenPao=Shen Pao
-x4tagSkillNeidanShenPaoDesc=^b[Spell][AOE][Timed]^n^n^wThrow a concoction of spirit energy at a foe that detonates on impact and ignites the ground with spirit fire.
+x4tagSkillNeidanShenPaoDesc=^b[Spell][AOE][Timed]^n^o[Interval: 1 Second]^n^n^wThrow a concoction of spirit energy at a foe that detonates on impact and ignites the ground with spirit fire.
 x4tagSkillNeidanShenPao3=Waidan Flame
 x4tagSkillNeidanShenPaoDESC3=^b[Modifier]^n^N^wUtilizing waidan techniques, the Neidan can amplify the power of spirit bombs with alchemical flames.
 x4tagSkillNeidanDeathBomb=Echoes of the Ancestors
