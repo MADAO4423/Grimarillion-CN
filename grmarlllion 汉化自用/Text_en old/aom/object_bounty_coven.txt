@@ -107,4 +107,3 @@ We see that you have a Glob of Iron. While interactions with this feature are no
 Step away from the Bounty Table.
 The Coven of Ugdenbog does not yet trust you to handle their most secretive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 Step away from the Bounty Table.
-

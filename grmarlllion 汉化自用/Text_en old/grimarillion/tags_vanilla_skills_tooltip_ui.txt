@@ -144,7 +144,7 @@ tagClass02SkillName07B=Ulzuin's Chosen
 tagClass02SkillDescription07B=^b[Modifier]^n^n^wThose who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Affects Stun Jacks, Grenado and Canister Bomb and requires one to unlock]
 
 tagClass02SkillName08A=Blackwater Cocktail
-tagClass02SkillDescription08A=^b[AOE] [Timed] [Spell]^n^n^wBlackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
+tagClass02SkillDescription08A=^b[AOE] [Timed] [Spell]^n^o[Interval: 1 second]^n^n^wBlackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
 tagClass02SkillName08B=Demon Fire
 tagClass02SkillDescription08B=^b[Modifier]^n^n^wSorcerous enchantment imbues the flames with chaotic power that melts enemy flesh.
 tagClass02SkillName08C=Agonizing Flames
@@ -234,7 +234,7 @@ tagClass03SkillName06B=Vulnerability
 tagClass03SkillDescription06B=^b[Modifier] [Debuff]^n^n^wEmpowers the curse's vile potency so that it also weakens the constitution of your enemies, making them more susceptible to witchcraft and poisons.
 
 tagClass03SkillName10A=Sigil of Consumption
-tagClass03SkillDescription10A=^b[Spell] [AOE] [Timed]^n^n^wCreates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the Occultist.
+tagClass03SkillDescription10A=^b[Spell] [AOE] [Timed]^n^o[Interval: 1 Second]^n^n^wCreates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the Occultist.
 tagClass03SkillName10B=Destruction
 tagClass03SkillDescription10B=^b[Modifier]^n^n^wImbues the sigil with the destructive powers of chaos itself.
 
@@ -584,7 +584,7 @@ tagClass06SkillDescription16B=^b[Transmuter]^n^n^wTwisted shamans obsessed with 
 tagClass06SkillName16_Pet=Storm Strike
 
 tagClass06SkillName17A=Grasping Vines
-tagClass06SkillDescription17A=^b[Spell] [AOE] [Timed]^n^n^wAt your whim, thorned vines erupt from the earth underneath your foes, inhibiting their movement.
+tagClass06SkillDescription17A=^b[Spell] [AOE] [Timed]^n^o[Interval: 0.5 Seconds]^n^n^wAt your whim, thorned vines erupt from the earth underneath your foes, inhibiting their movement.
 tagClass06SkillName17B=Entangling Vines
 tagClass06SkillDescription17B=^b[Modifier]^n^n^wThe vines grow virulently, entrapping helpless foes in a tangle of thorns.
 
@@ -738,7 +738,7 @@ tagGDX1Class08SkillName03D=Harvester of Death
 tagGDX1Class08SkillDescription03D=^b[Transmuter] ^n^o[Two-Handed Melee]^n^n^wNecromancers trained in melee combat are not uncommon, but those who brandish heavy two-handed weapons to cut swathes of death across battlefields rightfully earn themselves the title of bone harvesters. There have been rumors of the Black Legion having employed such individuals into their ranks rather than having them executed for defying Imperial decree. ^oRequires a two-handed melee weapon.
 
 tagGDX1Class08SkillName04A=Ravenous Earth
-tagGDX1Class08SkillDescription04A=^b[Spell] [Fragmenting] [AOE] [Timed]^n^n^wAt your command, disease and rot pour forth through a hellish maw within the earth and infect all unfortunate enough to stand too close.
+tagGDX1Class08SkillDescription04A=^b[Spell] [Fragmenting] [AOE] [Timed]^n^o[Interval: 0.8 Seconds]^n^n^wAt your command, disease and rot pour forth through a hellish maw within the earth and infect all unfortunate enough to stand too close.
 tagGDX1Class08SkillName04B=Decay
 tagGDX1Class08SkillDescription04B=^b[Modifier]^n^n^wThe toxic fumes of decay emanate from the earth, weakening the resolve of enemies standing too close.
 tagGDX1Class08SkillName04C=Foul Eruption

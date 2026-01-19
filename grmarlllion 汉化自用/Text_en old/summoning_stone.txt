@@ -1,6 +1,6 @@
 Summoning Stone
 *The summoning stone vibrates*{^n}{^n}You can begin the trials by using this stone. {^n}{^n}^rLoot will be cleared between waves so make sure you collect your loot before continuing!
-Begin the trial. 
+Begin the trial.
 Totem Challenge - trigger a random Monster Totem event.
 Summon desired wave...
 Which wave would you like to fight? {^n}{^n}^oWaves are unlocked as you complete them.{^n}^rWave skips cost 5 Eternal Shards.
@@ -74,7 +74,7 @@ Back...
 Rematch Avatar of Mogdrogen (Requires 25 Eterneum)
 Rematch John Bourbon (Requires 25 Eterneum)
 Rematch Ulgrim (Requires 25 Eterneum)
-Rematch Ravager (Requires 25 Eterneum) 
+Rematch Ravager (Requires 25 Eterneum)
 Rematch Lokarr (Requires 25 Eterneum)
 Rematch Callagadra, Scion of the Sands (Requires 25 Eterneum)
 Rematch Crate of Entertainment (Requires 25 Eterneum)
@@ -111,7 +111,7 @@ These are bosses from Diablo.{^n}^rBEWARE: These bosses can be very difficult, f
 Back
 
 Eternal Gods
-These are unique Eternal bosses that were in the original Eternal mod, but have been reworked and had their loot adjusted.{^n}{^n}^rBEWARE: These bosses can be very difficult, fight at your own risk!{^n}^wRequires 15 Eterneum to summon.{^n}
+These are unique Eternal bosses that were in the original Eternal mod, but have been reworked and had their loot adjusted.{^n}{^n}^rBEWARE: These bosses can be very difficult, fight at your own risk!{^n}^wRequires 15 Eterneum to summon.
 ^rAria'Bal, the Blood Collector
 ^rDromegon, the Riftmother
 ^rHarun, the Death Lord
@@ -125,7 +125,7 @@ These are unique Eternal bosses that were in the original Eternal mod, but have 
 Back
 
 Classic Eternal
-These are unique Eternal bosses that were in the original Eternal mod.They only drop generic loot orbs. {^n}{^n}^rBEWARE: These bosses are not balanced, fight at your own risk!{^n}^wRequires 10 Eterneum to summon.{^n}
+These are unique Eternal bosses that were in the original Eternal mod.They only drop generic loot orbs. {^n}{^n}^rBEWARE: These bosses are not balanced, fight at your own risk!{^n}^wRequires 10 Eterneum to summon.
 ^pAria, Lady Devourer
 ^pDepravitie, Lord Corruptor
 ^pSabrina, Lady Witch

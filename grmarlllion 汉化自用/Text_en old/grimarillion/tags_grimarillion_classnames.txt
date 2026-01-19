@@ -1,4 +1,49 @@
 ~~~~~~~~
+Solo Class Titles:
+~~~~~~~~
+tagSkillClassName01=Soldier
+tagSkillClassName02=Demolitionist
+tagSkillClassName03=Occultist
+tagSkillClassName04=Nightblade
+tagSkillClassName05=Arcanist
+tagSkillClassName06=Shaman
+tagSkillClassName07=Inquisitor
+tagSkillClassName08=Necromancer
+tagSkillClassName09=Oathkeeper
+tagSkillClassName10=DemonHunter 
+tagSkillClassName11=WitchDoctor
+tagSkillClassName12=Monk
+tagSkillClassName13=Wizard
+tagSkillClassName14=Crusader
+tagSkillClassName15=D3Necro
+tagSkillClassName16=Terror Knight
+tagSkillClassName17=Evocator
+tagSkillClassName18=Outrider
+tagSkillClassName19=Champion
+tagSkillClassName20=Riftstalker
+tagSkillClassName21=Necrotic
+tagSkillClassName22=TQ Defender
+tagSkillClassName23=[ms]TQ Hunter[fs]TQ Huntress
+tagSkillClassName24=TQ Theurgist
+tagSkillClassName25=TQ Warrior
+tagSkillClassName26=TQ Wanderer
+tagSkillClassName27=TQ Rogue
+tagSkillClassName28=TQ Pyromancer
+tagSkillClassName29=TQ Stormcaller
+tagSkillClassName30=TQ Seer
+tagSkillClassName31=Barbarian
+tagSkillClassName32=TQ Runemaster
+tagSkillClassName33=TQ Neidan
+tagSkillClassName34=Lich
+tagSkillClassName35=[ms]Priest [fs]Priestess
+tagSkillClassName36=Illusionist
+tagSkillClassName37=Blood Knight
+tagSkillClassName38=Berserker
+tagSkillClassName39=Tempest
+tagSkillClassName40=Swampdweller
+tagSkillClassName41=Frigid Hunter
+tagSkillClassName42=Chieftain
+~~~~~~~~
 Soldier
 ~~~~~~~~
 Soldier + Demolitionist
@@ -65,7 +110,7 @@ Soldier + Runes
 tagSkillClassName0132=Rune Wielder
 Soldier + Neidan
 tagSkillClassName0133=Jiang
-Soldier + Reanimator
+Soldier + Lich
 tagSkillClassName0134=Rot Knight
 Soldier + Priest
 tagSkillClassName0135=Adversary
@@ -148,7 +193,7 @@ Demolitionist + Runes
 tagSkillClassName0232=Dynamo
 Demolitionist + Neidan
 tagSkillClassName0233=Firelancer
-Demolitionist + Reanimator
+Demolitionist + Lich
 tagSkillClassName0234=Alchemist
 Demolitionist + Priest
 tagSkillClassName0235=Conflagrator
@@ -229,7 +274,7 @@ Occultist + Runes
 tagSkillClassName0332=Dark Sigilist
 Occultist + Neidan
 tagSkillClassName0333=Gongtau
-Occultist + Reanimator
+Occultist + Lich
 tagSkillClassName0334=Harvester
 Occultist + Priest
 tagSkillClassName0335=Schismatic
@@ -308,7 +353,7 @@ Nightblade + Runes
 tagSkillClassName0432=Runeblade
 Nightblade + Neidan
 tagSkillClassName0433=Vishkanya
-Nightblade + Reanimator
+Nightblade + Lich
 tagSkillClassName0434=Dreadblade
 Nightblade + Priest
 tagSkillClassName0435=Phantomblade
@@ -385,7 +430,7 @@ Arcanist + Runes
 tagSkillClassName0532=Runecaster
 Arcanist + Neidan
 tagSkillClassName0533=Daoshi
-Arcanist + Reanimator
+Arcanist + Lich
 tagSkillClassName0534=Sapper
 Arcanist + Priest
 tagSkillClassName0535=Aetheric Cleric
@@ -460,7 +505,7 @@ Shaman + Runes
 tagSkillClassName0632=Feral Mage
 Shaman + Neidan
 tagSkillClassName0633=Musogin
-Shaman + Reanimator
+Shaman + Lich
 tagSkillClassName0634=Fleshweaver
 Shaman + Priest
 tagSkillClassName0635=Anchorite
@@ -533,7 +578,7 @@ Inquisitor + Runes
 tagSkillClassName0732=Vaultkeeper
 Inquisitor + Neidan
 tagSkillClassName0733=Jitong
-Inquisitor + Reanimator
+Inquisitor + Lich
 tagSkillClassName0734=Heretic
 Inquisitor + Priest
 tagSkillClassName0735=Ecclesiarch
@@ -604,7 +649,7 @@ Necromancer + Runes
 tagSkillClassName0832=Deadbinder
 Necromancer + Neidan
 tagSkillClassName0833=Tang-ki
-Necromancer + Reanimator
+Necromancer + Lich
 tagSkillClassName0834=Wraithspeaker
 Necromancer + Priest
 tagSkillClassName0835=Deathspeaker
@@ -673,7 +718,7 @@ Oathkeeper  + Runes
 tagSkillClassName0932=Glyphkeeper
 Oathkeeper  + Neidan
 tagSkillClassName0933=Sōhei
-Oathkeeper  + Reanimator
+Oathkeeper  + Lich
 tagSkillClassName0934=Hierophant
 Oathkeeper  + Priest
 tagSkillClassName0935=Archbishop
@@ -740,7 +785,7 @@ DemonHunter  + Runes
 tagSkillClassName1032=Demonbinder
 DemonHunter  + Neidan
 tagSkillClassName1033=Ryōshi
-DemonHunter  + Reanimator
+DemonHunter  + Lich
 tagSkillClassName1034=Puppeteer
 DemonHunter  + Priest
 tagSkillClassName1035=Blessed Slayer
@@ -805,7 +850,7 @@ WitchDoctor + Runes
 tagSkillClassName1132=Obeah
 WitchDoctor + Neidan
 tagSkillClassName1133=Soultwister
-WitchDoctor + Reanimator
+WitchDoctor + Lich
 tagSkillClassName1134=Necrologist
 WitchDoctor + Priest
 tagSkillClassName1135=Hedgewitch
@@ -868,7 +913,7 @@ Monk + Runes
 tagSkillClassName1232=Vicar of the Arcane
 Monk + Neidan
 tagSkillClassName1233=Budoka
-Monk + Reanimator
+Monk + Lich
 tagSkillClassName1234=Dismantler
 Monk + Priest
 tagSkillClassName1235=Temple Guardian
@@ -929,7 +974,7 @@ Wizard + Runes
 tagSkillClassName1332=Mesmer
 Wizard + Neidan
 tagSkillClassName1333=Wu-Jen
-Wizard + Reanimator
+Wizard + Lich
 tagSkillClassName1334=Obliterator
 Wizard + Priest
 tagSkillClassName1335=Divine Sorcerer
@@ -988,7 +1033,7 @@ Crusader + Runes
 tagSkillClassName1432=Esoteric Dragoon
 Crusader + Neidan
 tagSkillClassName1433=Shugenja
-Crusader + Reanimator
+Crusader + Lich
 tagSkillClassName1434=Fallen
 Crusader + Priest
 tagSkillClassName1435=Sanctifier
@@ -1045,7 +1090,7 @@ D3Necro + Runes
 tagSkillClassName1532=Bonecaster
 D3Necro + Neidan
 tagSkillClassName1533=Maho-Tsukai
-D3Necro + Reanimator
+D3Necro + Lich
 tagSkillClassName1534=Fleshcrafter
 D3Necro + Priest
 tagSkillClassName1535=Crypt Keeper
@@ -1100,7 +1145,7 @@ Terror Knight + Runes
 tagSkillClassName1632=Conquistador
 Terror Knight + Neidan
 tagSkillClassName1633=Oni
-Terror Knight + Reanimator
+Terror Knight + Lich
 tagSkillClassName1634=Terrorbringer
 Terror Knight + Priest
 tagSkillClassName1635=Prophet of Terror
@@ -1153,7 +1198,7 @@ Evocator + Runes
 tagSkillClassName1732=Primal Magus
 Evocator + Neidan
 tagSkillClassName1733=Onmyouji
-Evocator + Reanimator
+Evocator + Lich
 tagSkillClassName1734=Soul Shrieker
 Evocator + Priest
 tagSkillClassName1735=Sacralyte
@@ -1204,7 +1249,7 @@ Outrider + Runes
 tagSkillClassName1832=Mystic Vanguard
 Outrider + Neidan
 tagSkillClassName1833=Cike
-Outrider + Reanimator
+Outrider + Lich
 tagSkillClassName1834=Dread Sniper
 Outrider + Priest
 tagSkillClassName1835=Dissenter
@@ -1253,7 +1298,7 @@ Champion + Runes
 tagSkillClassName1932=Defender of the Nine
 Champion + Neidan
 tagSkillClassName1933=Youxia
-Champion + Reanimator
+Champion + Lich
 tagSkillClassName1934=Chaos Knight
 Champion + Priest
 tagSkillClassName1935=Knight-Enchanter
@@ -1300,7 +1345,7 @@ Riftstalker + Runes
 tagSkillClassName2032=Worldwalker
 Riftstalker + Neidan
 tagSkillClassName2033=Etheric Traveler
-Riftstalker + Reanimator
+Riftstalker + Lich
 tagSkillClassName2034=Dark Stalker
 Riftstalker + Priest
 tagSkillClassName2035=Planeswalker
@@ -1345,7 +1390,7 @@ Necrotic + Runes
 tagSkillClassName2132=Inyanga
 Necrotic + Neidan
 tagSkillClassName2133=Jiang-shi
-Necrotic + Reanimator
+Necrotic + Lich
 tagSkillClassName2134=Hellcaller
 Necrotic + Priest
 tagSkillClassName2135=Bloodvine
@@ -1388,7 +1433,7 @@ Defense + Runes
 tagSkillClassName2232=TQ Runesmith
 Defense + Neidan
 tagSkillClassName2233=TQ Monk
-Defense + Reanimator
+Defense + Lich
 tagSkillClassName2234=Coagulator
 Defense + Priest
 tagSkillClassName2235=Defender of Faith
@@ -1429,7 +1474,7 @@ Hunting + Runes
 tagSkillClassName2332=TQ Dragon Hunter
 Hunting + Neidan
 tagSkillClassName2333=TQ Pilgrim
-Hunting + Reanimator
+Hunting + Lich
 tagSkillClassName2334=Rot Seeker
 Hunting + Priest
 tagSkillClassName2335=Pagan Hunter
@@ -1468,7 +1513,7 @@ Spirit + Runes
 tagSkillClassName2432=TQ Shaman
 Spirit + Neidan
 tagSkillClassName2433=TQ Spiritualist
-Spirit + Reanimator
+Spirit + Lich
 tagSkillClassName2434=Soulbringer
 Spirit + Priest
 tagSkillClassName2435=Veilpiercer
@@ -1505,7 +1550,7 @@ Warfare + Runes
 tagSkillClassName2532=TQ Berserker
 Warfare + Neidan
 tagSkillClassName2533=TQ Daoist
-Warfare + Reanimator
+Warfare + Lich
 tagSkillClassName2534=Warbringer
 Warfare + Priest
 tagSkillClassName2535=Castigator
@@ -1540,7 +1585,7 @@ Nature + Runes
 tagSkillClassName2632=TQ Skinchanger
 Nature + Neidan
 tagSkillClassName2633=TQ Hermit
-Nature + Reanimator
+Nature + Lich
 tagSkillClassName2634=Plaguebringer
 Nature + Priest
 tagSkillClassName2635=Lifewarden
@@ -1573,7 +1618,7 @@ Rogue + Runes
 tagSkillClassName2732=TQ Trickster
 Rogue + Neidan
 tagSkillClassName2733=TQ Disruptor
-Rogue + Reanimator
+Rogue + Lich
 tagSkillClassName2734=Bone Assassin
 Rogue + Priest
 tagSkillClassName2735=Shadowcleric
@@ -1604,7 +1649,7 @@ Earth + Runes
 tagSkillClassName2832=TQ Stonespeaker
 Earth + Neidan
 tagSkillClassName2833=TQ Wu
-Earth + Reanimator
+Earth + Lich
 tagSkillClassName2834=Scorcher
 Earth + Priest
 tagSkillClassName2835=Emberpriest
@@ -1633,7 +1678,7 @@ Storm + Runes
 tagSkillClassName2932=TQ Thunderer
 Storm + Neidan
 tagSkillClassName2933=TQ Channeler
-Storm + Reanimator
+Storm + Lich
 tagSkillClassName2934=Temestarii
 Storm + Priest
 tagSkillClassName2935=Tempestrian
@@ -1660,7 +1705,7 @@ Dream + Runes
 tagSkillClassName3032=TQ Seidr Worker
 Dream + Neidan
 tagSkillClassName3033=TQ Contemplator
-Dream + Reanimator
+Dream + Lich
 tagSkillClassName3034=Elder Seer
 Dream + Priest
 tagSkillClassName3035=Dreamtender
@@ -1685,7 +1730,7 @@ Barbarian + Runes
 tagSkillClassName3132=Glyphlord
 Barbarian + Neidan
 tagSkillClassName3133=Banjin
-Barbarian + Reanimator
+Barbarian + Lich
 tagSkillClassName3134=Soul Reaver
 Barbarian + Priest
 tagSkillClassName3135=Bloodsaint
@@ -1708,7 +1753,7 @@ Runes
 ~~~~~~~~
 Runes + Neidan
 tagSkillClassName3233=TQ Esoterist
-Runes + Reanimator
+Runes + Lich
 tagSkillClassName3234=Acheron
 Runes + Priest
 tagSkillClassName3235=Rune Chaplain
@@ -1729,7 +1774,7 @@ tagSkillClassName3242=Menhir Raiser
 ~~~~~~~~
 Neidan
 ~~~~~~~~
-Neidan + Reanimator
+Neidan + Lich
 tagSkillClassName3334=Blightsinger
 Neidan + Priest
 tagSkillClassName3335=Taoist
@@ -1750,21 +1795,21 @@ tagSkillClassName3342=Mudang
 ~~~~~~~~
 Reanimator
 ~~~~~~~~
-Reanimator + Priest
+Lich + Priest
 tagSkillClassName3435=Soul Reaper
-Reanimator + Illusionist
+Lich + Illusionist
 tagSkillClassName3436=Omenologist
-Reanimator + Blood Knight
+Lich + Blood Knight
 tagSkillClassName3437=Manipulator
-Reanimator + Berserker
+Lich + Berserker
 tagSkillClassName3438=Death's Fury
-Reanimator + Tempest
+Lich + Tempest
 tagSkillClassName3439=Shadow Monarch
-Reanimator + Swampdweller
+Lich + Swampdweller
 tagSkillClassName3440=Marrowdrinker
-Reanimator + Frigid Hunter
+Lich + Frigid Hunter
 tagSkillClassName3441=Lichlord
-Reanimator + Chieftain
+Lich + Chieftain
 tagSkillClassName3442=Dread Sovereign
 ~~~~~~~~
 Priest
