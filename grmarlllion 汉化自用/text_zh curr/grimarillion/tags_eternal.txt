@@ -7,6 +7,7 @@ tagLocation5=毁坏房屋遗迹 ^r（永恒（Grimarillion 版））
 tagArenaRift1=通往阿卡莱萨的裂隙
 tagArenaRift2=通往疯狂悬崖的裂隙
 tag_RiftgateEternal=永恒裂隙
+tag_EternalCellarDoor=奇怪的地窖入口
 
 ##Script Tags##
 tag_AETHERIAL_spawned=瓦尔达兰出现！
@@ -315,8 +316,8 @@ tagCorruptHealing2Desc=梵诺通过此石传播诅咒，使靠近者受损。 ^o
 tagCorruptHealing3=生命破碎
 tagCorruptHealing3Desc=小型梵诺石阻碍了正常再生和治疗。 ^o^n降低%再生及%治疗
 tagDromegonFrenzyTurret=狂乱图腾
-tagDromegonHellhound=德罗梅贡的地狱犬
-tagDromegonRaptor=德罗梅贡的迅猛龙
+tagDromegonHellhound=裂隙猎手
+tagDromegonRaptor=裂隙尖啸者
 tagDromegonRift=德罗梅贡的裂隙（不可见）
 tagDromegonTurret=德罗梅贡的炮塔（不可见）
 tagDromegonTurretDebuff=德罗梅贡之气
@@ -327,6 +328,7 @@ tagTrollStench=乌尔佐格的瘟疫
 tagTrollStenchDesc=乌尔佐格释放的恶臭苍蝇阻碍治疗。 ^n^o降低%再生及%治疗
 tagTrollSwarm=瘟疫蜂群
 tagTrollSwarmDesc=恶臭苍蝇阻碍治疗。 ^n^o降低%再生及%治疗
+tagSydrianaShard=西德莉安娜的碎片
 
 ##永恒物品##
 tagEva=伊娃 **未完成？**
@@ -361,7 +363,7 @@ tagGodlyScythe2=马拉科斯挽歌镰
 
 tagSabrinaRing=萨布丽娜的尖啸印戒 **已移除**  
 tagSydrianaFocus=希迪瑞娜的灵魂宝珠  
-tagSabrinaOrbitingAether=萨布丽娜的以太尖啸  
+tagSabrinaOrbitingAether=以太尖啸  
 tagSabrinaOrbitingAetherDesc=召唤以太之力，形成环绕的毁灭波。  
 
 tagAriaNecklance=阿莉亚的邪恶宝石 **已移除**  

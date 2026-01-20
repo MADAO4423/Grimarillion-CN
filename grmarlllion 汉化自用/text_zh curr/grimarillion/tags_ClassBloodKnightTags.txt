@@ -36,8 +36,10 @@ tagClassBloodKnightSkillDescription02B=裂击提供护甲、生命恢复及眩�
 tagClassBloodKnightSkillName02C=剔骨{^K} 「血骑士」^-
 tagClassBloodKnightSkillDescription02C=变得更加凶猛，使敌人流血，并有机会对敌人造成要害打击。
 
+
 tagClassBloodKnightSkillName02D=虚火{^K} 「血骑士」^-
 tagClassBloodKnightSkillDescription02D=用虚空之火强化你的攻击。
+
 
 tagClassBloodKnightSkillName03A=跃击{^K} 「血骑士」^-
 tagClassBloodKnightSkillDescription03A=跃向空中，用武器重击地面，产生熵爆，对范围内敌人造成伤害并降低攻击速度。 ^o基于默认攻击，需近战武器。{^n}{^n}{^y}尘埃落定前 {^o}(技能等级10解锁){^n}^w敌人有35%几率在3秒内近战攻击失败。

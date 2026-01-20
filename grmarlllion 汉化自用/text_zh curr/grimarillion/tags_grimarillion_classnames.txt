@@ -1,4 +1,49 @@
 ~~~~~~~~
+单职业称号:
+~~~~~~~~
+tagSkillClassName01=士兵
+tagSkillClassName02=爆破专家
+tagSkillClassName03=神秘学者
+tagSkillClassName04=夜刃
+tagSkillClassName05=奥术师
+tagSkillClassName06=萨满
+tagSkillClassName07=审判官
+tagSkillClassName08=死灵法师
+tagSkillClassName09=守誓
+tagSkillClassName10=恶魔猎手
+tagSkillClassName11=巫医
+tagSkillClassName12=武僧
+tagSkillClassName13=法师
+tagSkillClassName14=十字军
+tagSkillClassName15=D3死灵法师
+tagSkillClassName16=恐怖骑士
+tagSkillClassName17=唤能者
+tagSkillClassName18=前锋
+tagSkillClassName19=冠军
+tagSkillClassName20=裂隙潜行者
+tagSkillClassName21=天顶死灵
+tagSkillClassName22=TQ 防御者
+tagSkillClassName23=[ms]TQ 猎人[fs]TQ 女猎人
+tagSkillClassName24=TQ 祈法师
+tagSkillClassName25=TQ 战士
+tagSkillClassName26=TQ 流浪者
+tagSkillClassName27=TQ 盗贼
+tagSkillClassName28=TQ 火焰术士
+tagSkillClassName29=TQ 风暴使者
+tagSkillClassName30=TQ 先知
+tagSkillClassName31=野蛮人
+tagSkillClassName32=TQ 符文大师
+tagSkillClassName33=TQ 内丹师
+tagSkillClassName34=巫妖
+tagSkillClassName35=[ms]牧师[fs]女祭司
+tagSkillClassName36=幻术师
+tagSkillClassName37=血骑士
+tagSkillClassName38=狂战士
+tagSkillClassName39=风暴使
+tagSkillClassName40=沼泽居民
+tagSkillClassName41=霜寒猎人
+tagSkillClassName42=酋长
+~~~~~~~~
 士兵
 ~~~~~~~~
 士兵 + 爆破手
@@ -768,7 +813,7 @@ tagSkillClassName1113=灵魂束缚者
 巫医 + 十字军
 tagSkillClassName1114=药剂师
 巫医 + D3死灵
-tagSkillClassName1115=复生者
+tagSkillClassName1115=巫妖
 巫医 + 恐惧骑士
 tagSkillClassName1116=瘟疫魔
 巫医 + 唤能者
@@ -1345,7 +1390,7 @@ tagSkillClassName2131=掠食者
 tagSkillClassName2132=因扬加
 天顶死灵 + 内丹
 tagSkillClassName2133=僵尸僧
-天顶死灵 + 复生者
+天顶死灵 + 巫妖
 tagSkillClassName2134=地狱召唤者
 天顶死灵 + 牧师
 tagSkillClassName2135=血藤
@@ -1388,7 +1433,7 @@ tagSkillClassName2231=重装步兵
 tagSkillClassName2232=TQ 符文师
 防御 + 内丹
 tagSkillClassName2233=TQ 僧侣
-防御 + 复生者
+防御 + 巫妖
 tagSkillClassName2234=TQ 凝固者
 防御 + 牧师
 tagSkillClassName2235=TQ 信仰守护者
@@ -1429,7 +1474,7 @@ tagSkillClassName2331=高地人
 tagSkillClassName2332=TQ 龙猎手
 狩猎 + 内丹
 tagSkillClassName2333=TQ 朝圣者
-狩猎 + 复生者
+狩猎 + 巫妖
 tagSkillClassName2334=腐烂寻者
 狩猎 + 牧师
 tagSkillClassName2335=异教猎手
@@ -1468,7 +1513,7 @@ tagSkillClassName2431=破坏者
 tagSkillClassName2432=TQ 萨满
 灵魂 + 内丹
 tagSkillClassName2433=TQ 灵媒
-灵魂 + 复生者
+灵魂 + 巫妖
 tagSkillClassName2434=灵魂使
 灵魂 + 牧师
 tagSkillClassName2435=面纱刺客
@@ -1505,7 +1550,7 @@ tagSkillClassName2531=狂怒者
 tagSkillClassName2532=TQ 狂战士
 战争 + 内丹
 tagSkillClassName2533=TQ 道士
-战争 + 复生者
+战争 + 巫妖
 tagSkillClassName2534=战争使者
 战争 + 牧师
 tagSkillClassName2535=惩戒者
@@ -1540,7 +1585,7 @@ tagSkillClassName2631=森林泰坦
 tagSkillClassName2632=TQ 变皮者
 自然 + 内丹
 tagSkillClassName2633=TQ 隐修者
-自然 + 复生者
+自然 + 巫妖
 tagSkillClassName2634=疫病使
 自然 + 牧师
 tagSkillClassName2635=生命守卫
@@ -1573,7 +1618,7 @@ tagSkillClassName2731=游牧者
 tagSkillClassName2732=TQ 诡术师
 盗贼 + 内丹
 tagSkillClassName2733=TQ 扰乱者
-盗贼 + 复生者
+盗贼 + 巫妖
 tagSkillClassName2734=骸骨刺客
 盗贼 + 牧师
 tagSkillClassName2735=暗影牧师
@@ -1604,7 +1649,7 @@ tagSkillClassName2831=炼狱泰坦
 tagSkillClassName2832=TQ 石语者
 大地 + 内丹
 tagSkillClassName2833=TQ 巫
-大地 + 复生者
+大地 + 巫妖
 tagSkillClassName2834=灼烧者
 大地 + 牧师
 tagSkillClassName2835=余烬牧师
@@ -1633,7 +1678,7 @@ tagSkillClassName2931=风暴泰坦
 tagSkillClassName2932=TQ 雷霆者
 风暴 + 内丹
 tagSkillClassName2933=TQ 引导者
-风暴 + 复生者
+风暴 + 巫妖
 tagSkillClassName2934=暴风使
 风暴 + 牧师
 tagSkillClassName2935=风暴祭司
@@ -1660,7 +1705,7 @@ tagSkillClassName3031=捕梦者
 tagSkillClassName3032=TQ 西德术士
 梦境 + 内丹
 tagSkillClassName3033=TQ 冥想者
-梦境 + 复生者
+梦境 + 巫妖
 tagSkillClassName3034=远古先知
 梦境 + 牧师
 tagSkillClassName3035=梦境抚育者
@@ -1685,7 +1730,7 @@ tagSkillClassName3042=遐想骑士
 tagSkillClassName3132=符文领主
 野蛮人 + 内丹
 tagSkillClassName3133=班金
-野蛮人 + 复生者
+野蛮人 + 巫妖
 tagSkillClassName3134=灵魂收割者
 野蛮人 + 牧师
 tagSkillClassName3135=血圣
@@ -1708,7 +1753,7 @@ tagSkillClassName3142=重击者
 ~~~~~~~~
 符文 + 内丹
 tagSkillClassName3233=TQ 秘法师
-符文 + 复生者
+符文 + 巫妖
 tagSkillClassName3234=阿刻戎
 符文 + 牧师
 tagSkillClassName3235=符文牧师
@@ -1729,7 +1774,7 @@ tagSkillClassName3242=门希尔唤起者
 ~~~~~~~~
 内丹
 ~~~~~~~~
-内丹 + 复生者
+内丹 + 巫妖
 tagSkillClassName3334=疫咏者
 内丹 + 牧师
 tagSkillClassName3335=道士

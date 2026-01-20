@@ -245,7 +245,7 @@ tagSkillName030=灵魂掌握
 tagSkillDescription030=提供奥术知识与精神修炼，使你能够研习操控灵魂的黑暗艺术。
 
 tagSkillName032=死亡幻象
-tagSkillDescription032=^b[范围] [法术] [定时]^n^n^w对周围敌人的心智施加死亡的影像，使胆怯者陷入虚弱并减速。
+tagSkillDescription032=^b[范围] [法术] [持续]^n^o[间隔：0.5 秒]^n^n^w用敌人自身死亡的幻象侵袭其心智，使意志薄弱者陷入虚弱并被减速。
 tagSkillName214=恐惧洪流
 tagSkillDescription214=^b[修饰符]^n^n^w恐惧愈加深重，陷入恐惧洪流的敌人有几率被幻象压垮。//古代文明的魔法实践者创造了许多阴险的技巧以增强破坏力。
 
@@ -703,7 +703,7 @@ tagSkillDescription099=^b[宠物修饰符]^n^n^w在极度的热量和压力下�
 tagBoulder=巨石投掷
 
 tagSkillName109=喷发{^K} 「大地精通」^-
-tagSkillDescription109=^b[魔法] [分裂] [范围] [定时]^n^n^w地面上裂开火山裂缝，喷射出致命的火山喷泉和炽热的岩石碎片。每个碎片造成物理和火焰伤害。
+tagSkillDescription109=^b[法术][破碎][范围][定时]^n^o[间隔：0.8秒]^n^n^w地面裂开火山裂隙，喷射致命的熔岩喷泉和炽热硫磺碎块。每块碎片都会对击中的敌人造成物理和火焰伤害。
 tagMoltenLavaNAME=熔岩{^K} 「大地精通」^-
 tagMoltenLavaDESC=^b[修饰符]^n^n^w使熔岩从裂缝中喷涌而出，造成持续的燃烧伤害并减缓敌人。
 
@@ -1017,12 +1017,11 @@ tagRunePrisonPetNAME=监牢墙
 tagRunePrisonPetSkillNAME=囚禁
 
 tagGaldrRuneNAME=火炬符文{^K} 「符文精通」^-
-tagGaldrRuneDESC=^b[玩家加成宠物] [宠物光环] [固定] [减益]^n^n^w在地面刻画多个符文并燃烧，产生符文烈焰，令被其影响的敌人更加脆弱。^o这些符文随着玩家的伤害加成而增强。
+tagGaldrRuneDESC=^b[法术] [范围] [减益]^n^n^w^n^n^w在地面上铭刻数枚符文，并以符文之焰燃烧，使受影响的敌人陷入易伤状态。
 tagTorchRunePetNAME=火炬符文
 tagRunicMinesSkill01NAME=符文烈焰
 tagGaldrRuneBNAME=张开虚空{^K} 「符文精通」^-
-tagGaldrRuneBDESC=^b[转化] [宠物替换]^n^n^w在地面刻画一个符文，释放来自吉农加普（Ginnungagap）的混沌虚空能量，摧残被困于符文内的灵魂。此符文现在会削弱穿透、混沌和毒素抗性。^o这不被认为是“真正的转换”，因此伤害可以被“转换两次”。
-
+tagGaldrRuneBDESC=^b[转换]^n^n^w刻下符文，释放吉努加加普的混沌虚空能量，对被困在符文范围内的灵魂造成毁灭性打击。
 tagRuneStormNAME=符文风暴{^K} 「符文精通」^-
 tagRuneStormDESC=^b[法术] [传染性] [减益]^n^n^w当局势需要时，将不匹配的符文组合在一起，创造出一种危险的风暴，带来无法预料的效果。
 tagRuneStormBNAME=纷争符文{^K} 「符文精通」^-
@@ -1064,7 +1063,7 @@ x4tagSkillNeidanEnergyDrainDisruption=回响{^K} 「内丹精通」^-
 x4tagSkillNeidanEnergyDrainDisruptionDesc=^b[次要修饰符][爆发]^n^n^w在你引导以重新整合气脉时，你释放出能量，从附近的敌人身上吸取生命，并留下持久的后果。
 
 x4tagSkillNeidanShenPao=神炮{^K} 「内丹精通」^-
-x4tagSkillNeidanShenPaoDesc=^b[法术][范围][定时]^n^n^w向敌人投掷一瓶神能药剂，药剂在撞击时爆炸，并点燃地面，激发神火。
+x4tagSkillNeidanShenPaoDesc=^b[法术][范围][定时]^n^o[间隔：1秒]^n^n^w向敌人投掷一团灵力混合物，击中时爆炸并点燃地面，释放灵火。
 x4tagSkillNeidanShenPao3=外丹焰{^K} 「内丹精通」^-
 x4tagSkillNeidanShenPaoDESC3=^b[修饰符]^n^N^w利用外丹技艺，内丹修炼者可以通过炼金火焰增强神能炸弹的威力。
 x4tagSkillNeidanDeathBomb=祖先回响{^K} 「内丹精通」^-
