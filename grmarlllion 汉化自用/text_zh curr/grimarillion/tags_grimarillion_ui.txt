@@ -109,17 +109,17 @@ tagCharHealIncreaseModifier={^H}{%+.0f0}% {^E}治疗效果增强
 tagCharHealIncreaseModifierR={^H}{%.0f0}% - {%.0f1}% {^E}治疗效果增强
 
 
-DefensePhysical={%+.0f0}% {^E}物理抗性
-DefensePierce={%+.0f0}% {^E}穿刺抗性
-DefenseElementalResistance={%+.0f0}% {^E}元素抗性
-DefenseCold={%+.0f0}% {^E}寒冷抗性
-DefenseFire={%+.0f0}% {^E}火焰抗性
-DefenseAether={%+.0f0}% {^E}以太抗性
-DefenseChaos={%+.0f0}% {^E}混沌抗性
-DefensePoison={%+.0f0}% {^E}毒素与酸性抗性
-DefenseLightning={%+.0f0}% {^E}闪电抗性
-DefenseBleeding={%+.0f0}% {^E}流血抗性
-DefenseLife={%+.0f0}% {^E}活力抗性
+DefensePhysical={%+.0f0}% {^K}物理抗性{^E}
+DefensePierce={%+.0f0}% {^R}穿刺抗性{^E}
+DefenseElementalResistance={%+.0f0}% {^Y}元素抗性{^E}
+DefenseCold={%+.0f0}% {^C}冰霜抗性{^E}
+DefenseFire={%+.0f0}% {^O}火焰抗性{^E}
+DefenseAether={%+.0f0}% {^A}虚化抗性{^E}
+DefenseChaos={%+.0f0}% {^P}混沌抗性{^E}
+DefensePoison={%+.0f0}% {^L}毒素 & 酸性抗性{^E}
+DefenseLightning={%+.0f0}% {^Z}闪电抗性{^E}
+DefenseBleeding={%+.0f0}% {^R}流血抗性{^E}
+DefenseLife={%+.0f0}% {^M}活力抗性{^E}
 DefenseLifeLeach={%+.0f0}% {^E}生命偷取抗性
 DefenseManaLeach={%+.0f0}% {^E}能量偷取抗性
 DefensePercentCurrentLife={%+.0f0}% {^E}活力衰减抗性
@@ -137,14 +137,14 @@ tagCharStatsPierceRetInfo=被攻击时对攻击者造成的穿刺伤害。
 tagCharStatsPiercePercentRet=穿刺加成百分比
 tagCharStatsPiercePercentRetInfo=对所有穿刺反击效果的百分比加成。% 所有伤害不影响反击伤害。
 tagQualifyingDamagePierce=穿刺
-DamageModifierPierce={%+.0f0}% {^E}穿刺伤害
-DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}穿刺伤害
-RetaliationModifierPierceRatio={%+.0f0}% {^E}穿刺反击伤害
-DefensePierce={%.0f0}% {^E}穿刺抗性
-DefensePierceR={%.0f0}-{%.0f1}% {^E}穿刺抗性
-DefensePierceModifier={^E}当前穿刺抗性提高 {^H}{%.0f0}%
-DefensePierceMaxResist={%+.0f0}% {^E}穿刺抗性上限
-DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}穿刺抗性上限
+DamageModifierPierce={%+.0f0}% {^R}穿刺伤害{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}穿刺伤害{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}穿刺反击{^E}
+DefensePierce={%.0f0}% {^R}穿刺抗性{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}穿刺抗性{^E}
+DefensePierceModifier={^R}增加当前穿刺抗性 {^H}{%.0f0}%{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}最大穿刺抗性{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}最大穿刺抗性{^E}
 
 
 DefenseStun={%+.0f0}% {^E}眩晕抗性
@@ -165,8 +165,8 @@ DefenseConfusion={%+.0f0}% {^E}混乱抗性
 DefenseDisruption={%+.0f0}% {^E}干扰抗性
 
 
-SkillEnhancement=+{%d0} {^E}所有技能
-ItemAllSkillIncrement={+%d0} {^E}所有技能
+SkillEnhancement=+{%d0} {^X}所有技能{^E}
+ItemAllSkillIncrement={+%d0} {^X}所有技能{^E}
 SkillCooldownReductionModifier={^E}技能总冷却时间修改 {^H}{%.0f0}%
 DamageLifeLeech={^H}+{%t0}% {^E}生命偷取
 
