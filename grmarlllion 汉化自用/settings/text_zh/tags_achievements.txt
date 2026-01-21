@@ -1,0 +1,2112 @@
+# Achievement Groups
+
+achGroupAct1=第一幕
+achGroupAct2=第二幕
+achGroupAct3=第三幕
+achGroupChallenges=挑戰
+achGroupCharacter=角色
+achGroupMonsters=怪物
+achGroupStory=故事
+achGroupWorld=世界
+
+# Achievements
+
+ach001Title=怪物屠殺者
+ach001Desc=消滅 25只 精英怪物(帶有星形標記)。
+
+ach002Title=史詩屠殺者
+ach002Desc=消滅 100只 精英怪物(帶有星形標記)。
+
+ach003Title=傳奇屠殺者
+ach003Desc=消滅 1000只 精英怪物(帶有星形標記)。
+
+ach004Title=復仇者
+ach004Desc=在{^B}精英難度{^-}或{^P}終極難度^-中擊殺 1名 復仇級怪物(名稱為紅色)。
+
+ach005Title=不可阻擋
+ach005Desc=在{^B}精英難度{^-}或{^P}終極難度^-中擊殺 6名 復仇級怪物(名稱為紅色)。
+
+ach006Title=凈化世界
+ach006Desc=清除凱恩世界的 25000只 怪物。
+
+ach007Title=屠戮過境
+ach007Desc=清除凱恩世界的 50000只 怪物。
+
+ach008Title=屍山血海
+ach008Desc=清除凱恩世界的 100000只 怪物。
+
+ach009Title=末世友誼
+ach009Desc=與 1個 勢力關係達到崇敬。
+
+ach010Title=凱恩世界的典範
+ach010Desc=與 6個 勢力關係達到崇敬。
+
+ach011Title=至高之神的僕從
+ach011Desc=與凱蒙的神選者的關係達到崇敬。
+
+ach012Title=尤若布魯克的信徒
+ach012Desc=與死亡守夜人教團的關係達到崇敬。
+
+ach013Title=墮落的終結
+ach013Desc=擊殺墮落聖殿的冥神之刃 ~ 薩拉查。
+
+ach014Title=粉碎冥神之刃
+ach014Desc=在{^P}終極難度^-中擊殺墮落聖殿的冥神之刃 ~ 薩拉查。
+
+ach015Title=死亡行刑者
+ach015Desc=擊殺苦痛階梯的行刑者領主 ~ 阿卡莫斯。
+
+ach016Title=苦痛終結
+ach016Desc=在{^P}終極難度^-中擊殺苦痛階梯的行刑者領主 ~ 阿卡莫斯。
+
+ach017Title=不朽行刑者
+ach017Desc=在{^Z}專家模式^-中擊殺苦痛階梯的行刑者領主 ~ 阿卡莫斯。
+
+ach018Title=伸張正義
+ach018Desc=擊殺隱藏實驗室的典獄長 ~ 克里格。
+
+ach019Title=舊威脅
+ach019Desc=擊殺德萊厄斯·克隆利。
+
+ach020Title=血債血償
+ach020Desc=擊殺冥神魔印 ~ 卡若茲。
+
+ach021Title=凱恩的夢魘
+ach021Desc=擊殺冥神代言人 ~ 羅格霍瑞恩。
+
+ach022Title=凈化戰火平原
+ach022Desc=擊殺戰火平原的烈焰使者。
+
+ach023Title=無懼火焰
+ach023Desc=在{^P}終極難度^-中擊殺戰火平原的烈焰使者。
+
+ach024Title=屠殺格特沃姆
+ach024Desc=擊殺走私者盆地的格特沃姆。
+
+ach025Title=你很有種
+ach025Desc=在{^P}終極難度^-中擊殺走私者盆地的格特沃姆。
+
+ach026Title=修補是她的專長
+ach026Desc=解救在伯爾維治的達萊特。
+
+ach027Title=以曼海爾的錘骨之名
+ach027Desc=爭取到鐵匠的幫助。
+
+ach028Title=無湯可喝
+ach028Desc=解救在伯爾維治郊外的艾格瑞姆。
+
+ach029Title=學徒級工匠
+ach029Desc=製作 10件 物品。
+
+ach030Title=專家級工匠
+ach030Desc=製作 100件 物品。
+
+ach031Title=大師級工匠
+ach031Desc=製作 1000件 物品。
+
+ach032Title=古代聖物
+ach032Desc=合成 1個 聖物。
+
+ach033Title=卓越之力
+ach033Desc=合成 1個 卓越聖物。
+
+ach034Title=神話之力
+ach034Desc=合成 1個 神話聖物。
+
+ach035Title=初級探索者
+ach035Desc=打開 10個 一次性寶箱。
+
+ach036Title=探險家們，分贓吧
+ach036Desc=打開 20個 一次性寶箱。
+
+ach037Title=尋星
+ach037Desc=修復 10座 神龕。
+
+ach038Title=真實信仰
+ach038Desc=修復 50座 神龕。
+
+ach039Title=倖存者
+ach039Desc=達到等級10級。
+
+ach040Title=冠軍
+ach040Desc=達到等級35級。
+
+ach041Title=英雄
+ach041Desc=達到等級50級。
+
+ach042Title=傳奇
+ach042Desc=達到等級85級。
+
+ach043Title=不朽傳說
+ach043Desc=在{^Z}專家模式^-中達到等級85級。
+
+ach044Title=凱恩的救世主
+ach044Desc=以{^P}終極難度^-通關遊戲。
+
+ach045Title=永恒救世主
+ach045Desc=在{^Z}專家模式^-中以{^P}終極難度^-通關遊戲。
+
+ach046Title=艱難決斷
+ach046Desc=不依靠暴力解決新港的問題。
+
+ach047Title=無法倖免
+ach047Desc=擊殺安娜斯特瑞婭。
+
+ach048Title=沒想到會是你，人類
+ach048Desc=在老兵難度中用低於 11級 的角色擊殺典獄長 ~ 克里格。
+
+ach049Title=保衛伯爾維治
+ach049Desc=在老兵難度中保衛伯爾維治傳送門。
+
+ach050Title=藏於浸沒通道
+ach050Desc=找出浸沒通道的倒塌巖石後藏匿著什麼。
+
+ach051Title=克隆利的秘密
+ach051Desc=揭開德萊厄斯·克隆利的秘密。
+
+ach052Title=隱藏的寶藏
+ach052Desc=在霍姆斯特德附近的農田裡找到埋藏的寶藏。
+
+ach053Title=存活於遺忘深處
+ach053Desc=擊殺穴居者 ~ 咕嚕。
+
+ach054Title=死亡空間
+ach054Desc=在靈魂密室中活下來。
+
+ach055Title=我來收集我的紙條
+ach055Desc=收集 5條 學識記錄。
+
+ach056Title=筆記收集者
+ach056Desc=收集 20條 學識記錄。
+
+ach057Title=學識管理者
+ach057Desc=收集 50條 學識記錄。
+
+ach058Title=絕望之地
+ach058Desc=在絕望之地活下來。
+
+ach059Title=神靈之災
+ach059Desc=擊敗莫格卓根的化身。
+
+ach060Title=沙祖爾的熄滅
+ach060Desc=擊殺混沌要塞的混亂先驅 ~ 沙祖爾。
+
+ach061Title=征服要塞
+ach061Desc=在{^P}終極難度^-中擊殺混沌要塞的混亂先驅 ~ 沙祖爾。
+
+ach062Title=不朽的混亂征服者
+ach062Desc=在{^Z}專家模式^-中擊殺混沌要塞的混亂先驅 ~ 沙祖爾。
+
+ach063Title=教團的擁護者
+ach063Desc=在{^P}終極難度^-中以死亡守夜人教團的名義擊殺執政官 ~ 巴索勒姆。
+
+ach064Title=凱蒙的神選者
+ach064Desc=在{^P}終極難度^-中以凱蒙神選者的名義擊殺馬卡達。
+
+ach065Title=凈化獻祭
+ach065Desc=擊殺獻祭之地的毀滅使者。
+
+ach066Title=先驅擱淺
+ach066Desc=在{^P}終極難度^-中擊殺獻祭之地的毀滅使者。
+
+ach067Title=凱恩守護者
+ach067Desc=完成遊戲。
+
+ach068Title=凱恩的冠軍戰士
+ach068Desc=以{^B}精英難度^-完成遊戲。
+
+ach069Title=瓦伯利之火
+ach069Desc=在瓦伯利的虛化之火中活下來。
+
+ach070Title=戰勝領主
+ach070Desc=擊殺瓦伯利的領主 ~ 范·奧德里奇。
+
+ach071Title=為瓦伯利復仇
+ach071Desc=在{^P}終極難度^-中擊殺瓦伯利的領主 ~ 范·奧德里奇。
+
+ach072Title=瓦伯利的不朽征服者
+ach072Desc=在{^Z}專家模式^-中擊殺瓦伯利的領主 ~ 范·奧德里奇。
+
+#Grimarillion Class Combos ---------------------------------------------------------------------------------------------------------------------
+# Base Masteries without combo - does not include base game - needs update when foa or another class on grimarillion is released
+
+tagSkillClassName10=恶魔猎手
+tagSkillClassName11=巫医
+tagSkillClassName12=武僧
+tagSkillClassName13=法师
+tagSkillClassName14=十字军
+tagSkillClassName15=D3死灵法师
+tagSkillClassName16=恐怖骑士
+tagSkillClassName17=唤能者
+tagSkillClassName18=前锋
+tagSkillClassName19=冠军
+tagSkillClassName20=裂隙潜行者
+tagSkillClassName21=天顶死灵
+tagSkillClassName22=TQ 防御者
+tagSkillClassName23=[ms]TQ 猎人[fs]TQ 女猎人
+tagSkillClassName24=TQ 祈法师
+tagSkillClassName25=TQ 战士
+tagSkillClassName26=TQ 流浪者
+tagSkillClassName27=TQ 盗贼
+tagSkillClassName28=TQ 火焰术士
+tagSkillClassName29=TQ 风暴使者
+tagSkillClassName30=TQ 先知
+tagSkillClassName31=野蛮人
+tagSkillClassName32=TQ 符文大师
+tagSkillClassName33=TQ 内丹师
+tagSkillClassName34=巫妖
+tagSkillClassName35=[ms]牧师[fs]女祭司
+tagSkillClassName36=幻术师
+tagSkillClassName37=血骑士
+tagSkillClassName38=狂战士
+tagSkillClassName39=风暴使
+tagSkillClassName40=沼泽居民
+tagSkillClassName41=霜寒猎人
+tagSkillClassName42=酋长
+
+# -------------------- below is copied from the classcombo tags of grimarillion ------------------------------
+~~~~~~~~
+士兵
+~~~~~~~~
+士兵 + 爆破手
+tagSkillClassName0102=突击队员
+士兵 + 神秘
+tagSkillClassName0103=巫刃
+士兵 + 夜刃
+tagSkillClassName0104=刀锋大师
+士兵 + 奥术师
+tagSkillClassName0105=战斗法师
+士兵 + 萨满
+tagSkillClassName0106=守护者
+士兵 + 审判官
+tagSkillClassName0107=战术家
+士兵 + 死灵法师
+tagSkillClassName0108=死亡骑士
+士兵 + 誓约守护者
+tagSkillClassName0109=军阀
+士兵 + 恶魔猎手
+tagSkillClassName0110=灭绝者
+士兵 + 巫医
+tagSkillClassName0111=巫战士
+士兵 + 武僧
+tagSkillClassName0112=战祭司
+士兵 + 法师
+tagSkillClassName0113=战斗法师
+士兵 + 十字军
+tagSkillClassName0114=军团士
+士兵 + D3死灵
+tagSkillClassName0115=黑暗指挥官
+士兵 + 恐惧骑士
+tagSkillClassName0116=恐惧散布者
+士兵 + 唤能者
+tagSkillClassName0117=奥术骑士
+士兵 + 先遣者
+tagSkillClassName0118=赏金猎人
+士兵 + 冠军
+tagSkillClassName0119=冲锋兵
+士兵 + 裂隙追踪者
+tagSkillClassName0120=裂隙穿击者
+士兵 + 死腐
+tagSkillClassName0121=将军
+士兵 + 防御
+tagSkillClassName0122=帝国卫士
+士兵 + 狩猎
+tagSkillClassName0123=战狼
+士兵 + 灵魂
+tagSkillClassName0124=死灵守卫
+士兵 + 战争
+tagSkillClassName0125=战争煽动者
+士兵 + 自然
+tagSkillClassName0126=生存者
+士兵 + 流氓
+tagSkillClassName0127=恶徒
+士兵 + 大地
+tagSkillClassName0128=灼热守卫
+士兵 + 风暴
+tagSkillClassName0129=风暴盾
+士兵 + 梦境
+tagSkillClassName0130=巫术师
+士兵 + 野蛮人
+tagSkillClassName0131=角斗士
+士兵 + 符文
+tagSkillClassName0132=符文使
+士兵 + 内丹
+tagSkillClassName0133=江
+士兵 + 复活者
+tagSkillClassName0134=腐败骑士
+士兵 + 牧师
+tagSkillClassName0135=对抗者
+士兵 + 幻术师
+tagSkillClassName0136=暗影战士
+士兵 + 血骑士
+tagSkillClassName0137=骑士指挥官
+士兵 + 狂战士
+tagSkillClassName0138=酋长
+士兵 + 风暴
+tagSkillClassName0139=风暴舞者
+士兵 + 沼泽居民
+tagSkillClassName0140=逃兵
+士兵 + 冰霜猎手
+tagSkillClassName0141=冰霜骑士
+士兵 + 酋长
+tagSkillClassName0142=战斗摄政
+~~~~~~~~
+爆破手
+~~~~~~~~
+爆破手 + 神秘
+tagSkillClassName0203=火焰术士
+爆破手 + 夜刃
+tagSkillClassName0204=破坏者
+爆破手 + 奥术师
+tagSkillClassName0205=魔法师
+爆破手 + 萨满
+tagSkillClassName0206=元素师
+爆破手 + 审判官
+tagSkillClassName0207=净化者
+爆破手 + 死灵法师
+tagSkillClassName0208=亵渎者
+爆破手 + 誓约守护者
+tagSkillClassName0209=破盾者
+爆破手 + 恶魔猎手
+tagSkillClassName0210=纵火者
+爆破手 + 巫医
+tagSkillClassName0211=火焰巫医
+爆破手 + 武僧
+tagSkillClassName0212=光明使者
+爆破手 + 法师
+tagSkillClassName0213=符文射手
+爆破手 + 十字军
+tagSkillClassName0214=仲裁者
+爆破手 + D3死灵
+tagSkillClassName0215=火焰大师
+爆破手 + 恐惧骑士
+tagSkillClassName0216=毁灭者
+爆破手 + 唤能者
+tagSkillClassName0217=炼金师
+爆破手 + 先遣者
+tagSkillClassName0218=职业杀手
+爆破手 + 冠军
+tagSkillClassName0219=解放者
+爆破手 + 裂隙追踪者
+tagSkillClassName0220=突入者
+爆破手 + 死腐
+tagSkillClassName0221=血腥散布者
+爆破手 + 防御
+tagSkillClassName0222=燃烧观察者
+爆破手 + 狩猎
+tagSkillClassName0223=灰烬追踪者
+爆破手 + 灵魂
+tagSkillClassName0224=燃烧之魂
+爆破手 + 战争
+tagSkillClassName0225=雇佣兵
+爆破手 + 自然
+tagSkillClassName0226=播灰者
+爆破手 + 流氓
+tagSkillClassName0227=炽热之刃
+爆破手 + 大地
+tagSkillClassName0228=余烬织者
+爆破手 + 风暴
+tagSkillClassName0229=地狱克星
+爆破手 + 梦境
+tagSkillClassName0230=心灵操控者
+爆破手 + 野蛮人
+tagSkillClassName0231=毁灭者
+爆破手 + 符文
+tagSkillClassName0232=发电者
+爆破手 + 内丹
+tagSkillClassName0233=火枪手
+爆破手 + 复活者
+tagSkillClassName0234=炼金术师
+爆破手 + 牧师
+tagSkillClassName0235=焚化者
+爆破手 + 幻术师
+tagSkillClassName0236=猎头者
+爆破手 + 血骑士
+tagSkillClassName0237=世界终结者
+爆破手 + 狂战士
+tagSkillClassName0238=恐怖战舰
+爆破手 + 风暴
+tagSkillClassName0239=击剑手
+爆破手 + 沼泽居民
+tagSkillClassName0240=秘法炼金师
+爆破手 + 冰霜猎手
+tagSkillClassName0241=火器大师
+爆破手 + 酋长
+tagSkillClassName0242=火炬手
+~~~~~~~~
+神秘
+~~~~~~~~
+神秘 + 夜刃
+tagSkillClassName0304=猎巫者
+神秘 + 奥术师
+tagSkillClassName0305=术士
+神秘 + 萨满
+tagSkillClassName0306=召唤师
+神秘 + 审判官
+tagSkillClassName0307=欺诈者
+神秘 + 死灵法师
+tagSkillClassName0308=密教师
+神秘 + 誓约守护者
+tagSkillClassName0309=哨兵
+神秘 + 恶魔猎手
+tagSkillClassName0310=预兆者
+神秘 + 巫医
+tagSkillClassName0311=仪式师
+神秘 + 武僧
+tagSkillClassName0312=腐化者
+神秘 + 法师
+tagSkillClassName0313=奇术师
+神秘 + 十字军
+tagSkillClassName0314=破誓者
+神秘 + D3死灵
+tagSkillClassName0315=恶魔学者
+神秘 + 恐惧骑士
+tagSkillClassName0316=奥术骑士
+神秘 + 唤能者
+tagSkillClassName0317=咒术师
+神秘 + 先遣者
+tagSkillClassName0318=邪行者
+神秘 + 冠军
+tagSkillClassName0319=奥术冠军
+神秘 + 裂隙追踪者
+tagSkillClassName0320=裂隙封闭者
+神秘 + 死腐
+tagSkillClassName0321=混沌师
+神秘 + 防御
+tagSkillClassName0322=巫师守卫
+神秘 + 狩猎
+tagSkillClassName0323=巫猎者
+神秘 + 灵魂
+tagSkillClassName0324=灵魂守护者
+神秘 + 战争
+tagSkillClassName0325=疯狂之刃
+神秘 + 自然
+tagSkillClassName0326=扭曲隐士
+神秘 + 流氓
+tagSkillClassName0327=牺牲者
+神秘 + 大地
+tagSkillClassName0328=火焰领主
+神秘 + 风暴
+tagSkillClassName0329=天空术士
+神秘 + 梦境
+tagSkillClassName0330=熵能学者
+神秘 + 野蛮人
+tagSkillClassName0331=异教徒
+神秘 + 符文
+tagSkillClassName0332=暗符术士
+神秘 + 内丹
+tagSkillClassName0333=功道
+神秘 + 复活者
+tagSkillClassName0334=收割者
+神秘 + 牧师
+tagSkillClassName0335=分裂者
+神秘 + 幻术师
+tagSkillClassName0336=虚空呼唤者
+神秘 + 血骑士
+tagSkillClassName0337=厄运骑士
+神秘 + 狂战士
+tagSkillClassName0338=原始主义者
+神秘 + 风暴
+tagSkillClassName0339=厄运术师
+神秘 + 沼泽居民
+tagSkillClassName0340=女巫
+神秘 + 冰霜猎手
+tagSkillClassName0341=解剖法师
+神秘 + 酋长
+tagSkillClassName0342=诅咒呼唤者
+~~~~~~~~
+夜刃
+~~~~~~~~
+夜刃 + 奥术师
+tagSkillClassName0405=破法者
+夜刃 + 萨满
+tagSkillClassName0406=欺诈者
+夜刃 + 审判官
+tagSkillClassName0407=潜行者
+夜刃 + 死灵法师
+tagSkillClassName0408=死神
+夜刃 + 誓约守护者
+tagSkillClassName0409=旋风者
+夜刃 + 恶魔猎手
+tagSkillClassName0410=暗影猎手
+夜刃 + 巫医
+tagSkillClassName0411=暗影牧师
+夜刃 + 武僧
+tagSkillClassName0412=魂刃
+夜刃 + 法师
+tagSkillClassName0413=暗影施法者
+夜刃 + 十字军
+tagSkillClassName0414=圣刃
+夜刃 + D3死灵
+tagSkillClassName0415=死亡之刃
+夜刃 + 恐惧骑士
+tagSkillClassName0416=执法者
+夜刃 + 唤能者
+tagSkillClassName0417=和谐者
+夜刃 + 先遣者
+tagSkillClassName0418=影击者
+夜刃 + 冠军
+tagSkillClassName0419=黎明破坏者
+夜刃 + 裂隙追踪者
+tagSkillClassName0420=地平行者
+夜刃 + 死腐
+tagSkillClassName0421=暗影恶魔
+夜刃 + 防御
+tagSkillClassName0422=决斗者
+夜刃 + 狩猎
+tagSkillClassName0423=夜行者
+夜刃 + 灵魂
+tagSkillClassName0424=死灵刃
+夜刃 + 战争
+tagSkillClassName0425=割喉者
+夜刃 + 自然
+tagSkillClassName0426=盖亚誓约者
+夜刃 + 流氓
+tagSkillClassName0427=海盗
+夜刃 + 大地
+tagSkillClassName0428=末日预言者
+夜刃 + 风暴
+tagSkillClassName0429=剑痕者
+夜刃 + 梦境
+tagSkillClassName0430=影舞者
+夜刃 + 野蛮人
+tagSkillClassName0431=断刃者
+夜刃 + 符文
+tagSkillClassName0432=符文刃
+夜刃 + 内丹
+tagSkillClassName0433=毒女
+夜刃 + 复活者
+tagSkillClassName0434=恐怖刃
+夜刃 + 牧师
+tagSkillClassName0435=幻刃
+夜刃 + 幻术师
+tagSkillClassName0436=智谋者
+夜刃 + 血骑士
+tagSkillClassName0437=虚空探寻者
+夜刃 + 狂战士
+tagSkillClassName0438=掠夺者
+夜刃 + 风暴
+tagSkillClassName0439=刃舞者
+夜刃 + 沼泽居民
+tagSkillClassName0440=杀手
+夜刃 + 冰霜猎手
+tagSkillClassName0441=狙击手
+夜刃 + 酋长
+tagSkillClassName0442=咒语咆哮者
+~~~~~~~~
+奥术师
+~~~~~~~~
+奥术师 + 萨满
+tagSkillClassName0506=德鲁伊
+奥术师 + 审判官
+tagSkillClassName0507=法术猎手
+奥术师 + 死灵法师
+tagSkillClassName0508=魔法束缚者
+奥术师 + 誓约守护者
+tagSkillClassName0509=圣殿骑士
+奥术师 + 恶魔猎手
+tagSkillClassName0510=工艺师
+奥术师 + 巫医
+tagSkillClassName0511=奥术医师
+奥术师 + 武僧
+tagSkillClassName0512=先知
+奥术师 + 法师
+tagSkillClassName0513=附魔师
+奥术师 + 十字军
+tagSkillClassName0514=守护者
+奥术师 + D3死灵
+tagSkillClassName0515=以太行者
+奥术师 + 恐惧骑士
+tagSkillClassName0516=恐惧大师
+奥术师 + 唤能者
+tagSkillClassName0517=博学者
+奥术师 + 先遣者
+tagSkillClassName0518=清道夫
+奥术师 + 冠军
+tagSkillClassName0519=浩劫法师
+奥术师 + 裂隙追踪者
+tagSkillClassName0520=虚空信徒
+奥术师 + 死腐
+tagSkillClassName0521=遗弃者
+奥术师 + 防御
+tagSkillClassName0522=大守护者
+奥术师 + 狩猎
+tagSkillClassName0523=探索者
+奥术师 + 灵魂
+tagSkillClassName0524=黑魔法师
+奥术师 + 战争
+tagSkillClassName0525=主教
+奥术师 + 自然
+tagSkillClassName0526=先见者
+奥术师 + 流氓
+tagSkillClassName0527=古怪者
+奥术师 + 大地
+tagSkillClassName0528=附魔师
+奥术师 + 风暴
+tagSkillClassName0529=奇术师
+奥术师 + 梦境
+tagSkillClassName0530=编织者
+奥术师 + 野蛮人
+tagSkillClassName0531=奥术泰坦
+奥术师 + 符文
+tagSkillClassName0532=符文施法者
+奥术师 + 内丹
+tagSkillClassName0533=道士
+奥术师 + 复活者
+tagSkillClassName0534=工兵
+奥术师 + 牧师
+tagSkillClassName0535=以太牧师
+奥术师 + 幻术师
+tagSkillClassName0536=大魔导师
+奥术师 + 血骑士
+tagSkillClassName0537=血法师
+奥术师 + 狂战士
+tagSkillClassName0538=唤魔者
+奥术师 + 风暴
+tagSkillClassName0539=法术剑士
+奥术师 + 沼泽居民
+tagSkillClassName0540=先知者
+奥术师 + 冰霜猎手
+tagSkillClassName0541=魔导师
+奥术师 + 酋长
+tagSkillClassName0542=图腾师
+~~~~~~~~
+萨满
+~~~~~~~~
+萨满 + 审判官
+tagSkillClassName0607=复仇者
+萨满 + 死灵法师
+tagSkillClassName0608=祭祀师
+萨满 + 誓约守护者
+tagSkillClassName0609=神使
+萨满 + 恶魔猎手
+tagSkillClassName0610=野性猎手
+萨满 + 巫医
+tagSkillClassName0611=驯服者
+萨满 + 武僧
+tagSkillClassName0612=雷霆领主
+萨满 + 法师
+tagSkillClassName0613=灵媒师
+萨满 + 十字军
+tagSkillClassName0614=风暴牧师
+萨满 + D3死灵
+tagSkillClassName0615=野兽大师
+萨满 + 恐惧骑士
+tagSkillClassName0616=嗜血者
+萨满 + 唤能者
+tagSkillClassName0617=博学者
+萨满 + 先遣者
+tagSkillClassName0618=预兆终结者
+萨满 + 冠军
+tagSkillClassName0619=天选者
+萨满 + 裂隙追踪者
+tagSkillClassName0620=失落者
+萨满 + 死腐
+tagSkillClassName0621=偶像大师
+萨满 + 防御
+tagSkillClassName0622=护卫
+萨满 + 狩猎
+tagSkillClassName0623=族群首领
+萨满 + 灵魂
+tagSkillClassName0624=通灵者
+萨满 + 战争
+tagSkillClassName0625=风暴之子
+萨满 + 自然
+tagSkillClassName0626=瓦德战士
+萨满 + 流氓
+tagSkillClassName0627=血流浪者
+萨满 + 大地
+tagSkillClassName0628=盖亚之眼
+萨满 + 风暴
+tagSkillClassName0629=风暴领主
+萨满 + 梦境
+tagSkillClassName0630=先知
+萨满 + 野蛮人
+tagSkillClassName0631=炼狱者
+萨满 + 符文
+tagSkillClassName0632=野性法师
+萨满 + 内丹
+tagSkillClassName0633=武藏银
+萨满 + 复活者
+tagSkillClassName0634=血肉编织者
+萨满 + 牧师
+tagSkillClassName0635=隐士
+萨满 + 幻术师
+tagSkillClassName0636=侍从
+萨满 + 血骑士
+tagSkillClassName0637=血之呼唤者
+萨满 + 狂战士
+tagSkillClassName0638=秘术师
+萨满 + 风暴
+tagSkillClassName0639=风暴弯曲者
+萨满 + 沼泽居民
+tagSkillClassName0640=血吞者
+萨满 + 冰霜猎手
+tagSkillClassName0641=隐士
+萨满 + 酋长
+tagSkillClassName0642=震地者
+~~~~~~~~
+审判官
+~~~~~~~~
+审判官 + 死灵法师
+tagSkillClassName0708=叛教者
+审判官 + 誓约守护者
+tagSkillClassName0709=圣骑士
+审判官 + 恶魔猎手
+tagSkillClassName0710=审讯者
+审判官 + 巫医
+tagSkillClassName0711=符文祭司
+审判官 + 武僧
+tagSkillClassName0712=克辛
+审判官 + 法师
+tagSkillClassName0713=魔法枪手
+审判官 + 十字军
+tagSkillClassName0714=执法官
+审判官 + D3死灵
+tagSkillClassName0715=驱逐者
+审判官 + 恐惧骑士
+tagSkillClassName0716=制裁者
+审判官 + 唤能者
+tagSkillClassName0717=叛徒
+审判官 + 先遣者
+tagSkillClassName0718=首席执行者
+审判官 + 冠军
+tagSkillClassName0719=元帅
+审判官 + 裂隙追踪者
+tagSkillClassName0720=猎巫者
+审判官 + 死腐
+tagSkillClassName0721=符文腐化者
+审判官 + 防御
+tagSkillClassName0722=队长
+审判官 + 狩猎
+tagSkillClassName0723=神射手
+审判官 + 灵魂
+tagSkillClassName0724=背叛者
+审判官 + 战争
+tagSkillClassName0725=魔法克星
+审判官 + 自然
+tagSkillClassName0726=守护者
+审判官 + 流氓
+tagSkillClassName0727=亡命徒
+审判官 + 大地
+tagSkillClassName0728=符文塑形者
+审判官 + 风暴
+tagSkillClassName0729=电术师
+审判官 + 梦境
+tagSkillClassName0730=梦魇杀手
+审判官 + 野蛮人
+tagSkillClassName0731=暴君
+审判官 + 符文
+tagSkillClassName0732=宝库守护者
+审判官 + 内丹
+tagSkillClassName0733=济通
+审判官 + 复活者
+tagSkillClassName0734=异端者
+审判官 + 牧师
+tagSkillClassName0735=教会领袖
+审判官 + 幻术师
+tagSkillClassName0736=驱魔者
+审判官 + 血骑士
+tagSkillClassName0737=根除者
+审判官 + 狂战士
+tagSkillClassName0738=符文守护者
+审判官 + 风暴
+tagSkillClassName0739=海盗
+审判官 + 沼泽居民
+tagSkillClassName0740=研究者
+审判官 + 冰霜猎手
+tagSkillClassName0741=光明侦察者
+审判官 + 酋长
+tagSkillClassName0742=流亡者
+~~~~~~~~
+死灵法师
+~~~~~~~~
+死灵法师 + 誓约守护者
+tagSkillClassName0809=压迫者
+死灵法师 + 恶魔猎手
+tagSkillClassName0810=地狱之子
+死灵法师 + 巫医
+tagSkillClassName0811=灵魂收割者
+死灵法师 + 武僧
+tagSkillClassName0812=灵魂束缚者
+死灵法师 + 法师
+tagSkillClassName0813=死灵法师
+死灵法师 + 十字军
+tagSkillClassName0814=恐怖骑士
+死灵法师 + D3死灵
+tagSkillClassName0815=死亡领主
+死灵法师 + 恐惧骑士
+tagSkillClassName0816=恐怖者
+死灵法师 + 唤能者
+tagSkillClassName0817=流亡者
+死灵法师 + 先遣者
+tagSkillClassName0818=瘟疫传播者
+死灵法师 + 冠军
+tagSkillClassName0819=践踏者
+死灵法师 + 裂隙追踪者
+tagSkillClassName0820=虹吸者
+死灵法师 + 死腐
+tagSkillClassName0821=挽歌
+死灵法师 + 防御
+tagSkillClassName0822=可怜哨兵
+死灵法师 + 狩猎
+tagSkillClassName0823=幽灵猎手
+死灵法师 + 灵魂
+tagSkillClassName0824=大死灵法师
+死灵法师 + 战争
+tagSkillClassName0825=死亡勇士
+死灵法师 + 自然
+tagSkillClassName0826=先知
+死灵法师 + 流氓
+tagSkillClassName0827=死亡之刃
+死灵法师 + 大地
+tagSkillClassName0828=魔道师
+死灵法师 + 风暴
+tagSkillClassName0829=风暴巫妖
+死灵法师 + 梦境
+tagSkillClassName0830=梦魇使者
+死灵法师 + 野蛮人
+tagSkillClassName0831=刽子手
+死灵法师 + 符文
+tagSkillClassName0832=死亡束缚者
+死灵法师 + 内丹
+tagSkillClassName0833=唐奇
+死灵法师 + 复活者
+tagSkillClassName0834=幽灵使者
+死灵法师 + 牧师
+tagSkillClassName0835=死亡宣告者
+死灵法师 + 幻术师
+tagSkillClassName0836=术士
+死灵法师 + 血骑士
+tagSkillClassName0837=血领主
+死灵法师 + 狂战士
+tagSkillClassName0838=面纱行者
+死灵法师 + 风暴
+tagSkillClassName0839=死亡舞者
+死灵法师 + 沼泽居民
+tagSkillClassName0840=肉体领主
+死灵法师 + 冰霜猎手
+tagSkillClassName0841=墓地守护者
+死灵法师 + 酋长
+tagSkillClassName0842=墓语者
+~~~~~~~~
+守誓
+~~~~~~~~
+守誓 + 恶魔猎手
+tagSkillClassName09010=圣猎者
+守誓 + 巫医
+tagSkillClassName0911=神佑祭司
+守誓 + 武僧
+tagSkillClassName0912=守护武僧
+守誓 + 法师
+tagSkillClassName0913=光辉术士
+守誓 + 十字军
+tagSkillClassName0914=圣裁者
+守誓 + D3死灵
+tagSkillClassName0915=天罚者
+守誓 + 恐惧骑士
+tagSkillClassName0916=铁卫
+守誓 + 唤能者
+tagSkillClassName0917=信仰骑士
+守誓 + 先遣者
+tagSkillClassName0918=守誓先锋
+守誓 + 冠军
+tagSkillClassName0919=圣骑统领
+守誓 + 裂隙追踪者
+tagSkillClassName0920=裂隙守誓
+守誓 + 死腐
+tagSkillClassName0921=腐化守卫
+守誓 + 防御
+tagSkillClassName0922=圣盾卫士
+守誓 + 狩猎
+tagSkillClassName0923=猎誓者
+守誓 + 灵魂
+tagSkillClassName0924=灵誓者
+守誓 + 战争
+tagSkillClassName0925=战誓者
+守誓 + 自然
+tagSkillClassName0926=守誓德鲁伊
+守誓 + 流氓
+tagSkillClassName0927=暗誓者
+守誓 + 大地
+tagSkillClassName0928=大地守誓
+守誓 + 风暴
+tagSkillClassName0929=雷霆守誓
+守誓 + 梦境
+tagSkillClassName0930=梦誓者
+守誓 + 野蛮人
+tagSkillClassName0931=狂誓者
+守誓 + 符文
+tagSkillClassName0932=符文守誓
+守誓 + 内丹
+tagSkillClassName0933=内丹守誓
+守誓 + 复活者
+tagSkillClassName0934=复生守誓
+守誓 + 牧师
+tagSkillClassName0935=圣誓牧师
+守誓 + 幻术师
+tagSkillClassName0936=幻誓者
+守誓 + 血骑士
+tagSkillClassName0937=血誓骑士
+守誓 + 狂战士
+tagSkillClassName0938=战誓狂战士
+守誓 + 风暴
+tagSkillClassName0939=风暴守誓
+守誓 + 沼泽居民
+tagSkillClassName0940=沼泽守誓
+守誓 + 冰霜猎手
+tagSkillClassName0941=霜誓者
+守誓 + 酋长
+tagSkillClassName0942=酋长守誓
+~~~~~~~~
+恶魔猎手
+~~~~~~~~
+恶魔猎手 + 巫医
+tagSkillClassName1011=神秘猎手
+恶魔猎手 + 武僧
+tagSkillClassName1012=圣猎手
+恶魔猎手 + 法师
+tagSkillClassName1013=魔法游侠
+恶魔猎手 + 十字军
+tagSkillClassName1014=攻城破坏者
+恶魔猎手 + D3死灵
+tagSkillClassName1015=暗影游侠
+恶魔猎手 + 恐惧骑士
+tagSkillClassName1016=复仇化身
+恶魔猎手 + 唤能者
+tagSkillClassName1017=元素守护者
+恶魔猎手 + 先遣者
+tagSkillClassName1018=枪手
+恶魔猎手 + 冠军
+tagSkillClassName1019=恶魔猎杀者
+恶魔猎手 + 裂隙追踪者
+tagSkillClassName1020=影行者
+恶魔猎手 + 死腐
+tagSkillClassName1021=幽魂探索者
+恶魔猎手 + 防御
+tagSkillClassName1022=党羽
+恶魔猎手 + 狩猎
+tagSkillClassName1023=战略猎手
+恶魔猎手 + 灵魂
+tagSkillClassName1024=女妖
+恶魔猎手 + 战争
+tagSkillClassName1025=剔骨者
+恶魔猎手 + 自然
+tagSkillClassName1026=野性收割者
+恶魔猎手 + 流氓
+tagSkillClassName1027=忍者
+恶魔猎手 + 大地
+tagSkillClassName1028=焚炎者
+恶魔猎手 + 风暴
+tagSkillClassName1029=空行者
+恶魔猎手 + 梦境
+tagSkillClassName1030=幻影
+恶魔猎手 + 野蛮人
+tagSkillClassName1031=袭击者
+恶魔猎手 + 符文
+tagSkillClassName1032=恶魔束缚者
+恶魔猎手 + 内丹
+tagSkillClassName1033=渔夫
+恶魔猎手 + 复活者
+tagSkillClassName1034=操偶者
+恶魔猎手 + 牧师
+tagSkillClassName1035=圣裁猎手
+恶魔猎手 + 幻术师
+tagSkillClassName1036=影痕追猎者
+恶魔猎手 + 血骑士
+tagSkillClassName1037=血猎手
+恶魔猎手 + 狂战士
+tagSkillClassName1038=复仇者
+恶魔猎手 + 风暴
+tagSkillClassName1039=刃织者
+恶魔猎手 + 沼泽居民
+tagSkillClassName1040=恶魔地痞
+恶魔猎手 + 冰霜猎手
+tagSkillClassName1041=冒险家
+恶魔猎手 + 酋长
+tagSkillClassName1042=恐猎者
+~~~~~~~~
+巫医
+~~~~~~~~
+巫医 + 武僧
+tagSkillClassName1112=引导者
+巫医 + 法师
+tagSkillClassName1113=灵魂束缚者
+巫医 + 十字军
+tagSkillClassName1114=药剂师
+巫医 + D3死灵
+tagSkillClassName1115=巫妖
+巫医 + 恐惧骑士
+tagSkillClassName1116=瘟疫魔
+巫医 + 唤能者
+tagSkillClassName1117=虫舌者
+巫医 + 先遣者
+tagSkillClassName1118=枪术巫师
+巫医 + 冠军
+tagSkillClassName1119=堕落天使
+巫医 + 裂隙追踪者
+tagSkillClassName1120=平行猎者
+巫医 + 死腐
+tagSkillClassName1121=恶毒吞噬者
+巫医 + 防御
+tagSkillClassName1122=灵魂守护者
+巫医 + 狩猎
+tagSkillClassName1123=沼泽猎手
+巫医 + 灵魂
+tagSkillClassName1124=精华饮者
+巫医 + 战争
+tagSkillClassName1125=战争首领
+巫医 + 自然
+tagSkillClassName1126=瘟疫之王
+巫医 + 流氓
+tagSkillClassName1127=瘴气大师
+巫医 + 大地
+tagSkillClassName1128=深渊使者
+巫医 + 风暴
+tagSkillClassName1129=风暴巫师
+巫医 + 梦境
+tagSkillClassName1130=骨语者
+巫医 + 野蛮人
+tagSkillClassName1131=部族领袖
+巫医 + 符文
+tagSkillClassName1132=巫术师
+巫医 + 内丹
+tagSkillClassName1133=灵魂扭曲者
+巫医 + 复活者
+tagSkillClassName1134=死志师
+巫医 + 牧师
+tagSkillClassName1135=草木巫师
+巫医 + 幻术师
+tagSkillClassName1136=织咒者
+巫医 + 血骑士
+tagSkillClassName1137=血巫
+巫医 + 狂战士
+tagSkillClassName1138=WitchDoctor(11)+Berserker
+巫医 + 风暴
+tagSkillClassName1139=督工
+巫医 + 沼泽居民
+tagSkillClassName1140=阿塔萨雅
+巫医 + 冰霜猎手
+tagSkillClassName1141=灵魂破坏者
+巫医 + 酋长
+tagSkillClassName1142=[ms]奥尤恩[fs]乌达甘
+~~~~~~~~
+武僧
+~~~~~~~~
+武僧 + 法师
+tagSkillClassName1213=寻法者
+武僧 + 十字军
+tagSkillClassName1214=典范
+武僧 + D3死灵
+tagSkillClassName1215=死亡牧师
+武僧 + 恐惧骑士
+tagSkillClassName1216=不洁使徒
+武僧 + 唤能者
+tagSkillClassName1217=棱镜守卫
+武僧 + 先遣者
+tagSkillClassName1218=典范者
+武僧 + 冠军
+tagSkillClassName1219=仲裁者
+武僧 + 裂隙追踪者
+tagSkillClassName1220=位移牧师
+武僧 + 死腐
+tagSkillClassName1221=折磨者
+武僧 + 防御
+tagSkillClassName1222=和平守护者
+武僧 + 狩猎
+tagSkillClassName1223=女武神
+武僧 + 灵魂
+tagSkillClassName1224=灵体
+武僧 + 战争
+tagSkillClassName1225=战斗者
+武僧 + 自然
+tagSkillClassName1226=长老
+武僧 + 流氓
+tagSkillClassName1227=武术家
+武僧 + 大地
+tagSkillClassName1228=火焰操控者
+武僧 + 风暴
+tagSkillClassName1229=风元素师
+武僧 + 梦境
+tagSkillClassName1230=催眠师
+武僧 + 野蛮人
+tagSkillClassName1231=探索者
+武僧 + 符文
+tagSkillClassName1232=奥术牧师
+武僧 + 内丹
+tagSkillClassName1233=武道家
+武僧 + 复活者
+tagSkillClassName1234=拆解者
+武僧 + 牧师
+tagSkillClassName1235=圣殿守护者
+武僧 + 幻术师
+tagSkillClassName1236=幻影武僧
+武僧 + 血骑士
+tagSkillClassName1237=惩罚者
+武僧 + 狂战士
+tagSkillClassName1238=拳斗士
+武僧 + 风暴
+tagSkillClassName1239=风行者
+武僧 + 沼泽居民
+tagSkillClassName1240=旅者
+武僧 + 冰霜猎手
+tagSkillClassName1241=风行猎手
+武僧 + 酋长
+tagSkillClassName1242=战场朝圣者
+~~~~~~~~
+法师
+~~~~~~~~
+法师 + 十字军
+tagSkillClassName1314=炽天使
+法师 + D3死灵
+tagSkillClassName1315=暗影法师
+法师 + 恐惧骑士
+tagSkillClassName1316=厄运施法者
+法师 + 唤能者
+tagSkillClassName1317=魔法大师
+法师 + 先遣者
+tagSkillClassName1318=咒术师
+法师 + 冠军
+tagSkillClassName1319=霸主
+法师 + 裂隙追踪者
+tagSkillClassName1320=裂隙法师
+法师 + 死腐
+tagSkillClassName1321=虚空塑形者
+法师 + 防御
+tagSkillClassName1322=宰相
+法师 + 狩猎
+tagSkillClassName1323=奇美拉
+法师 + 灵魂
+tagSkillClassName1324=幽灵法师
+法师 + 战争
+tagSkillClassName1325=奥术掠夺者
+法师 + 自然
+tagSkillClassName1326=白魔导师
+法师 + 流氓
+tagSkillClassName1327=盗法者
+法师 + 大地
+tagSkillClassName1328=焚焰者
+法师 + 风暴
+tagSkillClassName1329=气流法师
+法师 + 梦境
+tagSkillClassName1330=先知
+法师 + 野蛮人
+tagSkillClassName1331=狂野法师
+法师 + 符文
+tagSkillClassName1332=迷惑者
+法师 + 内丹
+tagSkillClassName1333=巫人
+法师 + 复活者
+tagSkillClassName1334=歼灭者
+法师 + 牧师
+tagSkillClassName1335=神圣魔术师
+法师 + 幻术师
+tagSkillClassName1336=圣礼施法者
+法师 + 血骑士
+tagSkillClassName1337=血法师
+法师 + 狂战士
+tagSkillClassName1338=Wizard(13)+Berserker
+法师 + 风暴
+tagSkillClassName1339=奥术刃
+法师 + 沼泽居民
+tagSkillClassName1340=女巫
+法师 + 冰霜猎手
+tagSkillClassName1341=冰猎者
+法师 + 酋长
+tagSkillClassName1342=守护符文师
+~~~~~~~~
+十字军
+~~~~~~~~
+十字军 + D3死灵
+tagSkillClassName1415=暗黑牧师
+十字军 + 恐惧骑士
+tagSkillClassName1416=诅咒骑士
+十字军 + 唤能者
+tagSkillClassName1417=元素守护者
+十字军 + 先遣者
+tagSkillClassName1418=征服者
+十字军 + 冠军
+tagSkillClassName1419=执法者
+十字军 + 裂隙追踪者
+tagSkillClassName1420=幽影
+十字军 + 死腐
+tagSkillClassName1421=屠戮者
+十字军 + 防御
+tagSkillClassName1422=先锋
+十字军 + 狩猎
+tagSkillClassName1423=正义之箭
+十字军 + 灵魂
+tagSkillClassName1424=伊弗利特
+十字军 + 战争
+tagSkillClassName1425=猛击者
+十字军 + 自然
+tagSkillClassName1426=原始守卫
+十字军 + 流氓
+tagSkillClassName1427=掠夺者
+十字军 + 大地
+tagSkillClassName1428=石行者
+十字军 + 风暴
+tagSkillClassName1429=风暴骑士
+十字军 + 梦境
+tagSkillClassName1430=心灵破坏者
+十字军 + 野蛮人
+tagSkillClassName1431=高等执政官
+十字军 + 符文
+tagSkillClassName1432=奥秘骑兵
+十字军 + 内丹
+tagSkillClassName1433=术忍
+十字军 + 复活者
+tagSkillClassName1434=堕落者
+十字军 + 牧师
+tagSkillClassName1435=圣化者
+十字军 + 幻术师
+tagSkillClassName1436=信仰编织者
+十字军 + 血骑士
+tagSkillClassName1437=渎圣者
+十字军 + 狂战士
+tagSkillClassName1438=旗手
+十字军 + 风暴
+tagSkillClassName1439=风暴行者
+十字军 + 沼泽居民
+tagSkillClassName1440=沼泽守护者
+十字军 + 冰霜猎手
+tagSkillClassName1441=霜卫
+十字军 + 酋长
+tagSkillClassName1442=高贵者
+~~~~~~~~
+D3死灵
+~~~~~~~~
+D3死灵 + 恐惧骑士
+tagSkillClassName1516=血腥恶魔
+D3死灵 + 唤能者
+tagSkillClassName1517=死亡之风
+D3死灵 + 先遣者
+tagSkillClassName1518=死亡使者
+D3死灵 + 冠军
+tagSkillClassName1519=咒刃
+D3死灵 + 裂隙追踪者
+tagSkillClassName1520=暗影
+D3死灵 + 死腐
+tagSkillClassName1521=畸变
+D3死灵 + 防御
+tagSkillClassName1522=不朽守卫
+D3死灵 + 狩猎
+tagSkillClassName1523=不眠游侠
+D3死灵 + 灵魂
+tagSkillClassName1524=灵魂编织者
+D3死灵 + 战争
+tagSkillClassName1525=堕落刽子手
+D3死灵 + 自然
+tagSkillClassName1526=剥夺者
+D3死灵 + 流氓
+tagSkillClassName1527=死亡海盗
+D3死灵 + 大地
+tagSkillClassName1528=黑焰骑士团
+D3死灵 + 风暴
+tagSkillClassName1529=死亡术士
+D3死灵 + 梦境
+tagSkillClassName1530=虚空先知
+D3死灵 + 野蛮人
+tagSkillClassName1531=复仇者
+D3死灵 + 符文
+tagSkillClassName1532=骨术师
+D3死灵 + 内丹
+tagSkillClassName1533=魔法使
+D3死灵 + 复活者
+tagSkillClassName1534=肉工
+D3死灵 + 牧师
+tagSkillClassName1535=墓穴守护者
+D3死灵 + 幻术师
+tagSkillClassName1536=幽影编织者
+D3死灵 + 血骑士
+tagSkillClassName1537=暗帝
+D3死灵 + 狂战士
+tagSkillClassName1538=毁灭者
+D3死灵 + 风暴
+tagSkillClassName1539=死亡使者
+D3死灵 + 沼泽居民
+tagSkillClassName1540=溺者
+D3死灵 + 冰霜猎手
+tagSkillClassName1541=诅咒猎人
+D3死灵 + 酋长
+tagSkillClassName1542=碎骨者
+~~~~~~~~
+恐惧骑士
+~~~~~~~~
+恐惧骑士 + 唤能者
+tagSkillClassName1617=恐惧法师
+恐惧骑士 + 先遣者
+tagSkillClassName1618=地狱猎手
+恐惧骑士 + 冠军
+tagSkillClassName1619=恐惧巨舰
+恐惧骑士 + 裂隙追踪者
+tagSkillClassName1620=荒漠使者
+恐惧骑士 + 死腐
+tagSkillClassName1621=虚空骑士
+恐惧骑士 + 防御
+tagSkillClassName1622=血卫
+恐惧骑士 + 狩猎
+tagSkillClassName1623=敌猎者
+恐惧骑士 + 灵魂
+tagSkillClassName1624=幽行者
+恐惧骑士 + 战争
+tagSkillClassName1625=战争大师
+恐惧骑士 + 自然
+tagSkillClassName1626=浪人
+恐惧骑士 + 流氓
+tagSkillClassName1627=恶召者
+恐惧骑士 + 大地
+tagSkillClassName1628=烈焰狂徒
+恐惧骑士 + 风暴
+tagSkillClassName1629=风暴锻造者
+恐惧骑士 + 梦境
+tagSkillClassName1630=末日梦行者
+恐惧骑士 + 野蛮人
+tagSkillClassName1631=歼灭者
+恐惧骑士 + 符文
+tagSkillClassName1632=征服者
+恐惧骑士 + 内丹
+tagSkillClassName1633=鬼神
+恐惧骑士 + 复活者
+tagSkillClassName1634=恐怖使者
+恐惧骑士 + 牧师
+tagSkillClassName1635=恐怖先知
+恐惧骑士 + 幻术师
+tagSkillClassName1636=恐怖传令者
+恐惧骑士 + 血骑士
+tagSkillClassName1637=野蛮骑士
+恐惧骑士 + 狂战士
+tagSkillClassName1638=焚怒
+恐惧骑士 + 风暴
+tagSkillClassName1639=风怒
+恐惧骑士 + 沼泽居民
+tagSkillClassName1640=钢铁恶魔
+恐惧骑士 + 冰霜猎手
+tagSkillClassName1641=图皮拉克
+恐惧骑士 + 酋长
+tagSkillClassName1642=掠夺者
+~~~~~~~~
+唤能者
+~~~~~~~~
+唤能者 + 先遣者
+tagSkillClassName1718=枪法师
+唤能者 + 冠军
+tagSkillClassName1719=大法师
+唤能者 + 裂隙追踪者
+tagSkillClassName1720=颠覆者
+唤能者 + 死腐
+tagSkillClassName1721=罪徒
+唤能者 + 防御
+tagSkillClassName1722=元素继承者
+唤能者 + 狩猎
+tagSkillClassName1723=奥术弓手
+唤能者 + 灵魂
+tagSkillClassName1724=神术师
+唤能者 + 战争
+tagSkillClassName1725=法剑士
+唤能者 + 自然
+tagSkillClassName1726=野性法师
+唤能者 + 流氓
+tagSkillClassName1727=奥术叛徒
+唤能者 + 大地
+tagSkillClassName1728=地祝者
+唤能者 + 风暴
+tagSkillClassName1729=雷导者
+唤能者 + 梦境
+tagSkillClassName1730=元心者
+唤能者 + 野蛮人
+tagSkillClassName1731=神秘战士
+唤能者 + 符文
+tagSkillClassName1732=原始法师
+唤能者 + 内丹
+tagSkillClassName1733=阴阳师
+唤能者 + 复活者
+tagSkillClassName1734=灵魂尖啸者
+唤能者 + 牧师
+tagSkillClassName1735=圣灵使
+唤能者 + 幻术师
+tagSkillClassName1736=幻术法师
+唤能者 + 血骑士
+tagSkillClassName1737=诅咒施法者
+唤能者 + 狂战士
+tagSkillClassName1738=阿斯特卡恩魔法师
+唤能者 + 风暴
+tagSkillClassName1739=狂野风暴
+唤能者 + 沼泽居民
+tagSkillClassName1740=奥术编织者
+唤能者 + 冰霜猎手
+tagSkillClassName1741=冰霜法师
+唤能者 + 酋长
+tagSkillClassName1742=法则编织者
+~~~~~~~~
+先遣者
+~~~~~~~~
+先遣者 + 冠军
+tagSkillClassName1819=潜行者
+先遣者 + 裂隙追踪者
+tagSkillClassName1820=破坏者
+先遣者 + 死腐
+tagSkillClassName1821=流浪者
+先遣者 + 防御
+tagSkillClassName1822=神射手
+先遣者 + 狩猎
+tagSkillClassName1823=深林狙击手
+先遣者 + 灵魂
+tagSkillClassName1824=灵魂狙击手
+先遣者 + 战争
+tagSkillClassName1825=血誓者
+先遣者 + 自然
+tagSkillClassName1826=猎犬使
+先遣者 + 流氓
+tagSkillClassName1827=幸运之友
+先遣者 + 大地
+tagSkillClassName1828=原始特使
+先遣者 + 风暴
+tagSkillClassName1829=风行者
+先遣者 + 梦境
+tagSkillClassName1830=命运纺织者
+先遣者 + 野蛮人
+tagSkillClassName1831=异乡人
+先遣者 + 符文
+tagSkillClassName1832=秘法先锋
+先遣者 + 内丹
+tagSkillClassName1833=刺客
+先遣者 + 复活者
+tagSkillClassName1834=恐怖狙击手
+先遣者 + 牧师
+tagSkillClassName1835=叛教者
+先遣者 + 幻术师
+tagSkillClassName1836=幻影
+先遣者 + 血骑士
+tagSkillClassName1837=叛逆者
+先遣者 + 狂战士
+tagSkillClassName1838=开拓者
+先遣者 + 风暴
+tagSkillClassName1839=子弹风暴
+先遣者 + 沼泽居民
+tagSkillClassName1840=森林居民
+先遣者 + 冰霜猎手
+tagSkillClassName1841=雇佣枪手
+先遣者 + 酋长
+tagSkillClassName1842=旅人
+~~~~~~~~
+冠军
+~~~~~~~~
+冠军 + 裂隙追踪者
+tagSkillClassName1920=小队指挥
+冠军 + 死腐
+tagSkillClassName1921=裁决者
+冠军 + 防御
+tagSkillClassName1922=重骑兵
+冠军 + 狩猎
+tagSkillClassName1923=兽王
+冠军 + 灵魂
+tagSkillClassName1924=钢铁灵魂冠军
+冠军 + 战争
+tagSkillClassName1925=骑士
+冠军 + 自然
+tagSkillClassName1926=和平使徒
+冠军 + 流氓
+tagSkillClassName1927=土耳其卫士
+冠军 + 大地
+tagSkillClassName1928=永燃者
+冠军 + 风暴
+tagSkillClassName1929=风暴战士
+冠军 + 梦境
+tagSkillClassName1930=殉道者
+冠军 + 野蛮人
+tagSkillClassName1931=战斗先驱
+冠军 + 符文
+tagSkillClassName1932=九守护者
+冠军 + 内丹
+tagSkillClassName1933=游侠
+冠军 + 复活者
+tagSkillClassName1934=混沌骑士
+冠军 + 牧师
+tagSkillClassName1935=骑士-附魔师
+冠军 + 幻术师
+tagSkillClassName1936=虔诚信徒
+冠军 + 血骑士
+tagSkillClassName1937=暮光骑士
+冠军 + 狂战士
+tagSkillClassName1938=阿斯特卡恩守护者
+冠军 + 风暴
+tagSkillClassName1939=冰封征服者
+冠军 + 沼泽居民
+tagSkillClassName1940=沼泽骑士
+冠军 + 冰霜猎手
+tagSkillClassName1941=霜噬者
+冠军 + 酋长
+tagSkillClassName1942=老兵
+~~~~~~~~
+裂隙追踪者
+~~~~~~~~
+裂隙追踪者 + 死腐
+tagSkillClassName2021=追踪者
+裂隙追踪者 + 防御
+tagSkillClassName2022=末日守卫
+裂隙追踪者 + 狩猎
+tagSkillClassName2023=废止者
+裂隙追踪者 + 灵魂
+tagSkillClassName2024=暗影行者
+裂隙追踪者 + 战争
+tagSkillClassName2025=外科医
+裂隙追踪者 + 自然
+tagSkillClassName2026=驯兽师
+裂隙追踪者 + 流氓
+tagSkillClassName2027=虚灵刽子手
+裂隙追踪者 + 大地
+tagSkillClassName2028=平面焚者
+裂隙追踪者 + 风暴
+tagSkillClassName2029=领域扭曲者
+裂隙追踪者 + 梦境
+tagSkillClassName2030=心灵侦察者
+裂隙追踪者 + 野蛮人
+tagSkillClassName2031=裂隙泰坦
+裂隙追踪者 + 符文
+tagSkillClassName2032=世界行者
+裂隙追踪者 + 内丹
+tagSkillClassName2033=以太旅行者
+裂隙追踪者 + 复活者
+tagSkillClassName2034=暗影追猎者
+裂隙追踪者 + 牧师
+tagSkillClassName2035=平面行者
+裂隙追踪者 + 幻术师
+tagSkillClassName2036=奥术拳师
+裂隙追踪者 + 血骑士
+tagSkillClassName2037=虚空之刃
+裂隙追踪者 + 狂战士
+tagSkillClassName2038=混沌之刃
+裂隙追踪者 + 风暴
+tagSkillClassName2039=疾刃
+裂隙追踪者 + 沼泽居民
+tagSkillClassName2040=面纱守卫
+裂隙追踪者 + 冰霜猎手
+tagSkillClassName2041=弹道扭曲者
+裂隙追踪者 + 酋长
+tagSkillClassName2042=幽影行者
+~~~~~~~~
+天顶死灵
+~~~~~~~~
+天顶死灵 + 防御
+tagSkillClassName2122=黑卫
+天顶死灵 + 狩猎
+tagSkillClassName2123=凡人猎手
+天顶死灵 + 灵魂
+tagSkillClassName2124=苍白大师
+天顶死灵 + 战争
+tagSkillClassName2125=腐化者
+天顶死灵 + 自然
+tagSkillClassName2126=荒化者
+天顶死灵 + 盗贼
+tagSkillClassName2127=幽灵
+天顶死灵 + 大地
+tagSkillClassName2128=祸害
+天顶死灵 + 风暴
+tagSkillClassName2129=原始邪灵
+天顶死灵 + 梦境
+tagSkillClassName2130=噩梦
+天顶死灵 + 野蛮人
+tagSkillClassName2131=掠食者
+天顶死灵 + 符文
+tagSkillClassName2132=因扬加
+天顶死灵 + 内丹
+tagSkillClassName2133=僵尸僧
+天顶死灵 + 巫妖
+tagSkillClassName2134=地狱召唤者
+天顶死灵 + 牧师
+tagSkillClassName2135=血藤
+天顶死灵 + 幻术师
+tagSkillClassName2136=血魅术士
+天顶死灵 + 血骑士
+tagSkillClassName2137=溶解者
+天顶死灵 + 狂战士
+tagSkillClassName2138=野兽之爪
+天顶死灵 + 风暴
+tagSkillClassName2139=肢风
+天顶死灵 + 沼泽居民
+tagSkillClassName2140=灾厄
+天顶死灵 + 寒猎者
+tagSkillClassName2141=死亡寒
+天顶死灵 + 酋长
+tagSkillClassName2142=巫王
+~~~~~~~~
+防御
+~~~~~~~~
+防御 + 狩猎
+tagSkillClassName2223=TQ 卫士
+防御 + 灵魂
+tagSkillClassName2224=TQ 咒术师
+防御 + 战争
+tagSkillClassName2225=TQ 征服者
+防御 + 自然
+tagSkillClassName2226=TQ 守护者
+防御 + 盗贼
+tagSkillClassName2227=TQ 海盗
+防御 + 大地
+tagSkillClassName2228=TQ 重装
+防御 + 风暴
+tagSkillClassName2229=TQ 圣骑士
+防御 + 梦境
+tagSkillClassName2230=TQ 圣殿骑士
+防御 + 野蛮人
+tagSkillClassName2231=重装步兵
+防御 + 符文
+tagSkillClassName2232=TQ 符文师
+防御 + 内丹
+tagSkillClassName2233=TQ 僧侣
+防御 + 巫妖
+tagSkillClassName2234=TQ 凝固者
+防御 + 牧师
+tagSkillClassName2235=TQ 信仰守护者
+防御 + 幻术师
+tagSkillClassName2236=TQ 石拳
+防御 + 血骑士
+tagSkillClassName2237=TQ 破门者
+防御 + 狂战士
+tagSkillClassName2238=TQ 重装战士
+防御 + 风暴
+tagSkillClassName2239=TQ 盾火花
+防御 + 沼泽居民
+tagSkillClassName2240=TQ 橡皮皮肤
+防御 + 寒猎者
+tagSkillClassName2241=TQ 苔原守卫
+防御 + 酋长
+tagSkillClassName2242=TQ 方阵
+~~~~~~~~
+狩猎
+~~~~~~~~
+狩猎 + 灵魂
+tagSkillClassName2324=TQ 骨魅术士
+狩猎 + 战争
+tagSkillClassName2325=TQ 屠戮者
+狩猎 + 自然
+tagSkillClassName2326=TQ 游侠
+狩猎 + 盗贼
+tagSkillClassName2327=TQ 强盗
+狩猎 + 大地
+tagSkillClassName2328=TQ 复仇者
+狩猎 + 风暴
+tagSkillClassName2329=TQ 智者
+狩猎 + 梦境
+tagSkillClassName2330=TQ 祭司
+狩猎 + 野蛮人
+tagSkillClassName2331=高地人
+狩猎 + 符文
+tagSkillClassName2332=TQ 龙猎手
+狩猎 + 内丹
+tagSkillClassName2333=TQ 朝圣者
+狩猎 + 巫妖
+tagSkillClassName2334=腐烂寻者
+狩猎 + 牧师
+tagSkillClassName2335=异教猎手
+狩猎 + 幻术师
+tagSkillClassName2336=药师
+狩猎 + 血骑士
+tagSkillClassName2337=无情追踪者
+狩猎 + 狂战士
+tagSkillClassName2338=野性掠食者
+狩猎 + 风暴
+tagSkillClassName2339=寒冰守护
+狩猎 + 沼泽居民
+tagSkillClassName2340=原始猎手
+狩猎 + 寒猎者
+tagSkillClassName2341=苔原猎手
+狩猎 + 酋长
+tagSkillClassName2342=穿刺者
+~~~~~~~~
+灵魂
+~~~~~~~~
+灵魂 + 战争
+tagSkillClassName2425=TQ 破咒者
+灵魂 + 自然
+tagSkillClassName2426=TQ 预言者
+灵魂 + 盗贼
+tagSkillClassName2427=TQ 术士
+灵魂 + 大地
+tagSkillClassName2428=TQ 召唤师
+灵魂 + 风暴
+tagSkillClassName2429=TQ 神谕者
+灵魂 + 梦境
+tagSkillClassName2430=TQ 占卜者
+灵魂 + 野蛮人
+tagSkillClassName2431=破坏者
+灵魂 + 符文
+tagSkillClassName2432=TQ 萨满
+灵魂 + 内丹
+tagSkillClassName2433=TQ 灵媒
+灵魂 + 巫妖
+tagSkillClassName2434=灵魂使
+灵魂 + 牧师
+tagSkillClassName2435=面纱刺客
+灵魂 + 幻术师
+tagSkillClassName2436=骨傀儡
+灵魂 + 血骑士
+tagSkillClassName2437=血灵
+灵魂 + 狂战士
+tagSkillClassName2438=尸灵
+灵魂 + 风暴
+tagSkillClassName2439=灵魂风暴
+灵魂 + 沼泽居民
+tagSkillClassName2440=灵魂吸取者
+灵魂 + 寒猎者
+tagSkillClassName2441=巴龙
+灵魂 + 酋长
+tagSkillClassName2442=暗影
+~~~~~~~~
+战争
+~~~~~~~~
+战争 + 自然
+tagSkillClassName2526=TQ 冠军
+战争 + 盗贼
+tagSkillClassName2527=TQ 刺客
+战争 + 大地
+tagSkillClassName2528=TQ 战斗法师
+战争 + 风暴
+tagSkillClassName2529=TQ 领主
+战争 + 梦境
+tagSkillClassName2530=TQ 先驱
+战争 + 野蛮人
+tagSkillClassName2531=狂怒者
+战争 + 符文
+tagSkillClassName2532=TQ 狂战士
+战争 + 内丹
+tagSkillClassName2533=TQ 道士
+战争 + 巫妖
+tagSkillClassName2534=战争使者
+战争 + 牧师
+tagSkillClassName2535=惩戒者
+战争 + 幻术师
+tagSkillClassName2536=幻影
+战争 + 血骑士
+tagSkillClassName2537=破阵者
+战争 + 狂战士
+tagSkillClassName2538=战犬
+战争 + 风暴
+tagSkillClassName2539=风舞者
+战争 + 沼泽居民
+tagSkillClassName2540=恐惧之刃
+战争 + 寒猎者
+tagSkillClassName2541=冰斩者
+战争 + 酋长
+tagSkillClassName2542=巴西琉斯
+~~~~~~~~
+自然
+~~~~~~~~
+自然 + 盗贼
+tagSkillClassName2627=TQ 幻术师
+自然 + 大地
+tagSkillClassName2628=TQ 召唤师
+自然 + 风暴
+tagSkillClassName2629=TQ 德鲁伊
+自然 + 梦境
+tagSkillClassName2630=TQ 仪式师
+自然 + 野蛮人
+tagSkillClassName2631=森林泰坦
+自然 + 符文
+tagSkillClassName2632=TQ 变皮者
+自然 + 内丹
+tagSkillClassName2633=TQ 隐修者
+自然 + 巫妖
+tagSkillClassName2634=疫病使
+自然 + 牧师
+tagSkillClassName2635=生命守卫
+自然 + 幻术师
+tagSkillClassName2636=博物学者
+自然 + 血骑士
+tagSkillClassName2637=枯萎者
+自然 + 狂战士
+tagSkillClassName2638=自然 + 狂战士
+自然 + 风暴
+tagSkillClassName2639=旋风使
+自然 + 沼泽居民
+tagSkillClassName2640=植法师
+自然 + 寒猎者
+tagSkillClassName2641=幽光
+自然 + 酋长
+tagSkillClassName2642=荆棘德鲁伊
+~~~~~~~~
+盗贼
+~~~~~~~~
+盗贼 + 大地
+tagSkillClassName2728=TQ 魔术师
+盗贼 + 风暴
+tagSkillClassName2729=TQ 巫师
+盗贼 + 梦境
+tagSkillClassName2730=TQ 梦魇杀手
+盗贼 + 野蛮人
+tagSkillClassName2731=游牧者
+盗贼 + 符文
+tagSkillClassName2732=TQ 诡术师
+盗贼 + 内丹
+tagSkillClassName2733=TQ 扰乱者
+盗贼 + 巫妖
+tagSkillClassName2734=骸骨刺客
+盗贼 + 牧师
+tagSkillClassName2735=暗影牧师
+盗贼 + 幻术师
+tagSkillClassName2736=吟游诗人
+盗贼 + 血骑士
+tagSkillClassName2737=血掠者
+盗贼 + 狂战士
+tagSkillClassName2738=独狼
+盗贼 + 风暴
+tagSkillClassName2739=刀锋狂怒
+盗贼 + 沼泽居民
+tagSkillClassName2740=毒痕者
+盗贼 + 寒猎者
+tagSkillClassName2741=穿心者
+盗贼 + 酋长
+tagSkillClassName2742=屠人者
+~~~~~~~~
+大地
+~~~~~~~~
+大地 + 风暴
+tagSkillClassName2829=TQ 元素使
+大地 + 梦境
+tagSkillClassName2830=TQ 唤法者
+大地 + 野蛮人
+tagSkillClassName2831=炼狱泰坦
+大地 + 符文
+tagSkillClassName2832=TQ 石语者
+大地 + 内丹
+tagSkillClassName2833=TQ 巫
+大地 + 巫妖
+tagSkillClassName2834=灼烧者
+大地 + 牧师
+tagSkillClassName2835=余烬牧师
+大地 + 幻术师
+tagSkillClassName2836=盖亚法师
+大地 + 血骑士
+tagSkillClassName2837=支配者
+大地 + 狂战士
+tagSkillClassName2838=刻耳柏洛斯
+大地 + 风暴
+tagSkillClassName2839=沙魔
+大地 + 沼泽居民
+tagSkillClassName2840=地狱钻
+大地 + 寒猎者
+tagSkillClassName2841=地裂斩者
+大地 + 酋长
+tagSkillClassName2842=野蛮泰坦
+~~~~~~~~
+风暴
+~~~~~~~~
+风暴 + 梦境
+tagSkillClassName2930=TQ 先知
+风暴 + 野蛮人
+tagSkillClassName2931=风暴泰坦
+风暴 + 符文
+tagSkillClassName2932=TQ 雷霆者
+风暴 + 内丹
+tagSkillClassName2933=TQ 引导者
+风暴 + 巫妖
+tagSkillClassName2934=暴风使
+风暴 + 牧师
+tagSkillClassName2935=风暴祭司
+风暴 + 幻术师
+tagSkillClassName2936=谐调者
+风暴 + 血骑士
+tagSkillClassName2937=暗黑漩涡
+风暴 + 狂战士
+tagSkillClassName2938=暴雪使者
+风暴 + 风暴
+tagSkillClassName2939=季风使
+风暴 + 沼泽居民
+tagSkillClassName2940=沼泽女巫
+风暴 + 寒猎者
+tagSkillClassName2941=唤冰者
+风暴 + 酋长
+tagSkillClassName2942=冰裔
+~~~~~~~~
+梦境
+~~~~~~~~
+梦境 + 野蛮人
+tagSkillClassName3031=捕梦者
+梦境 + 符文
+tagSkillClassName3032=TQ 西德术士
+梦境 + 内丹
+tagSkillClassName3033=TQ 冥想者
+梦境 + 巫妖
+tagSkillClassName3034=远古先知
+梦境 + 牧师
+tagSkillClassName3035=梦境抚育者
+梦境 + 幻术师
+tagSkillClassName3036=心灵震荡者
+梦境 + 血骑士
+tagSkillClassName3037=噬梦者
+梦境 + 狂战士
+tagSkillClassName3038=癫狂者
+梦境 + 风暴
+tagSkillClassName3039=心智冰封者
+梦境 + 沼泽居民
+tagSkillClassName3040=心智扰乱者
+梦境 + 寒猎者
+tagSkillClassName3041=先祖继承者
+梦境 + 酋长
+tagSkillClassName3042=遐想骑士
+~~~~~~~~
+野蛮人
+~~~~~~~~
+野蛮人 + 符文
+tagSkillClassName3132=符文领主
+野蛮人 + 内丹
+tagSkillClassName3133=班金
+野蛮人 + 巫妖
+tagSkillClassName3134=灵魂收割者
+野蛮人 + 牧师
+tagSkillClassName3135=血圣
+野蛮人 + 幻术师
+tagSkillClassName3136=血怒者
+野蛮人 + 血骑士
+tagSkillClassName3137=毁灭者
+野蛮人 + 狂战士
+tagSkillClassName3138=战斗狂怒者
+野蛮人 + 风暴
+tagSkillClassName3139=攻城统帅
+野蛮人 + 沼泽居民
+tagSkillClassName3140=沼泽泰坦
+野蛮人 + 寒猎者
+tagSkillClassName3141=霜巨人
+野蛮人 + 酋长
+tagSkillClassName3142=重击者
+~~~~~~~~
+符文
+~~~~~~~~
+符文 + 内丹
+tagSkillClassName3233=TQ 秘法师
+符文 + 巫妖
+tagSkillClassName3234=阿刻戎
+符文 + 牧师
+tagSkillClassName3235=符文牧师
+符文 + 幻术师
+tagSkillClassName3236=法术塑形者
+符文 + 血骑士
+tagSkillClassName3237=咒刻者
+符文 + 狂战士
+tagSkillClassName3238=嗜血者
+符文 + 风暴
+tagSkillClassName3239=符文之怒
+符文 + 沼泽居民
+tagSkillClassName3240=胡德尔
+符文 + 寒猎者
+tagSkillClassName3241=赫尔海姆者
+符文 + 酋长
+tagSkillClassName3242=门希尔唤起者
+~~~~~~~~
+内丹
+~~~~~~~~
+内丹 + 巫妖
+tagSkillClassName3334=疫咏者
+内丹 + 牧师
+tagSkillClassName3335=道士
+内丹 + 幻术师
+tagSkillClassName3336=辉光者
+内丹 + 血骑士
+tagSkillClassName3337=血液调合者
+内丹 + 狂战士
+tagSkillClassName3338=毒化者
+内丹 + 风暴
+tagSkillClassName3339=电击者
+内丹 + 沼泽居民
+tagSkillClassName3340=污染者
+内丹 + 寒猎者
+tagSkillClassName3341=夏尔巴
+内丹 + 酋长
+tagSkillClassName3342=巫堂
+~~~~~~~~
+巫妖
+~~~~~~~~
+巫妖 + 牧师
+tagSkillClassName3435=灵魂收割者
+巫妖 + 幻术师
+tagSkillClassName3436=预兆学者
+巫妖 + 血骑士
+tagSkillClassName3437=操控者
+巫妖 + 狂战士
+tagSkillClassName3438=死亡之怒
+巫妖 + 风暴
+tagSkillClassName3439=暗影君主
+巫妖 + 沼泽居民
+tagSkillClassName3440=髓饮者
+巫妖 + 寒猎者
+tagSkillClassName3441=巫妖领主
+巫妖 + 酋长
+tagSkillClassName3442=恐惧君王
+~~~~~~~~
+牧师
+~~~~~~~~
+牧师 + 幻术师
+tagSkillClassName3536=使者
+牧师 + 血骑士
+tagSkillClassName3537=越界者
+牧师 + 狂战士
+tagSkillClassName3538=血什者
+牧师 + 风暴
+tagSkillClassName3539=御风修士
+牧师 + 沼泽居民
+tagSkillClassName3540=诅咒缚者
+牧师 + 寒猎者
+tagSkillClassName3541=阿玛托克使徒
+牧师 + 酋长
+tagSkillClassName3542=战争教牧
+~~~~~~~~
+幻术师
+~~~~~~~~
+幻术师 + 血骑士
+tagSkillClassName3637=威慑者
+幻术师 + 狂战士
+tagSkillClassName3638=夜之梦魇
+幻术师 + 风暴
+tagSkillClassName3639=灵魂粉碎者
+幻术师 + 沼泽居民
+tagSkillClassName3640=噬心者
+幻术师 + 寒猎者
+tagSkillClassName3641=虚空侵染者
+幻术师 + 酋长
+tagSkillClassName3642=[ms]翁冈[fs]曼波
+~~~~~~~~
+血骑士
+~~~~~~~~
+血骑士 + 狂战士
+tagSkillClassName3738=血塑者
+血骑士 + 风暴
+tagSkillClassName3739=绯红杀戮者
+血骑士 + 沼泽居民
+tagSkillClassName3740=噬血者
+血骑士 + 寒猎者
+tagSkillClassName3741=沃尔基哈尔
+血骑士 + 酋长
+tagSkillClassName3742=血魔
+~~~~~~~~
+狂战士
+~~~~~~~~
+狂战士 + 风暴
+tagSkillClassName3839=拾荒者
+狂战士 + 沼泽居民
+tagSkillClassName3840=顶级掠食者
+狂战士 + 寒猎者
+tagSkillClassName3841=阿斯特卡恩流亡者
+狂战士 + 酋长
+tagSkillClassName3842=帷幕破坏者
+~~~~~~~~
+风暴
+~~~~~~~~
+风暴 + 沼泽居民
+tagSkillClassName3940=林地守护者
+风暴 + 寒猎者
+tagSkillClassName3941=流浪者
+风暴 + 酋长
+tagSkillClassName3942=海怒
+~~~~~~~~
+沼泽居民
+~~~~~~~~
+沼泽居民 + 寒猎者
+tagSkillClassName4041=寂静风暴
+沼泽居民 + 酋长
+tagSkillClassName4042=沼泽屠戮者
+~~~~~~~~
+寒猎者
+~~~~~~~~
+寒猎者 + 酋长
+tagSkillClassName4142=极光龙骑兵
