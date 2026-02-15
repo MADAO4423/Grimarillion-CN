@@ -17,7 +17,7 @@ tagSkillClassDescriptionMonk=Monks are sacred warriors who channel divine power 
 
 #ClassMonk
 tagClassMonkSkillName00=Monk
-tagClassMonkSkillDescription00="The gods guide me. You cannot win."
+tagClassMonkSkillDescription00="The gods guide me. You cannot win." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassMonkSkillName01A=Fists of Thunder
 tagClassMonkSkillDescription01A=Energize yourself with the blessing of thunder, empowering every third strike dealt to enemies. ^oRequires a melee weapon and can be used as default weapon attack.{^n}{^n}{^y}Static Charge {^o}(Unlocked at Skill Level 16){^n}^wEvery third strike also stuns enemies for 1 second.

@@ -12,7 +12,7 @@ tagBossRushTrueNoOrb=#debug BR=True Orb=False
 
 #Shattering Items
 tag_sa_shattering_orb=Shattering Orb
-tag_sa_shattering_orbDesc=Use it to craft affixes on any legendary helm, gloves or boots.Talk to Ignus at the Conclave of the Three to use it.
+tag_sa_shattering_orbDesc=Use it to craft affixes on any legendary helm, gloves or boots. Talk to Masamune at the Personal Hideout to use it.
 
 tag_sa_shattered_soul={^F}Shattered Celestial Soul
 tag_sa_shattered_soulDes=Keep it in your character inventory and use it above shard 99 in the Shattered Realm to unlock new reward options.
@@ -512,15 +512,15 @@ tag_sa_notify_RewardShatteringOrb10=You earned 10 Shattering Orbs!
 tag_sa_notify_NOReward=No Shattering Orbs earned, but remember, higher shards have higher chances!
 
 #Shattered Chest
-tag_sa_chest65={^R}Shattered Loot orb - Level 65
-tag_sa_chest70={^R}Shattered Loot orb - Level 70
-tag_sa_chest75={^R}Shattered Loot orb - Level 75
-tag_sa_chest80={^R}Shattered Loot orb - Level 80
-tag_sa_chest85={^R}Shattered Loot orb - Level 85
-tag_sa_chest90={^R}Shattered Loot orb - Level 90
-tag_sa_chest95={^R}Shattered Loot orb - Level 95
-tag_sa_chest100={^R}Shattered Treasure Trove - Level 100
-tag_sa_chest110={^R}Shattered Treasure Trove - Level 110
+tag_sa_chest65={^R}Shattered Cache (Shard 26)
+tag_sa_chest70={^R}Shattered Cache (Shard 28)
+tag_sa_chest75={^R}Shattered Cache (Shard 30)
+tag_sa_chest80={^R}Shattered Cache (Shard 32)
+tag_sa_chest85={^R}Shattered Cache (Shard 34)
+tag_sa_chest90={^R}Shattered Cache (Shard 36)
+tag_sa_chest95={^R}Shattered Cache (Shard 38)
+tag_sa_chest100={^R}Shattered Trove (Shard 40)
+tag_sa_chest110={^R}Shattered Trove (Shard 44)
 tag_sa_chestDevotionAffixes={^R}Shattered Treasure Trove : Legendary item with devotion affixes modifiers
 tag_sa_chestSkillAffixes={^R}Shattered Treasure Trove: Legendary item with skill affixes modifiers
 

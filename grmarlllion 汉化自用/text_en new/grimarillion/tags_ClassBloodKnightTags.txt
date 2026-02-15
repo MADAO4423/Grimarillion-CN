@@ -22,7 +22,7 @@ tagSkillClassDescriptionBloodKnight=Blood Knights are vanquishers of evil creatu
 
 #ClassBloodKnight
 tagClassBloodKnightSkillName00=Blood Knight
-tagClassBloodKnightSkillDescription00="All that remains of my life, vowed against the darkness."
+tagClassBloodKnightSkillDescription00="All that remains of my life, vowed against the darkness." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassBloodKnightSkillName01A=Emissary of Chaos
 tagClassBloodKnightSkillDescription01A=All your damage and health is increased and chaos damage is added to your attacks. ^oRequires a melee weapon.{^n}{^n}{^y}Obsidian Armor {^o}(Unlocked at Skill Level 12){^n}^wYour armor is increased by 25%.

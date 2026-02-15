@@ -14,7 +14,7 @@ tagSkillClassDescriptionDemonHunter=Demon Hunters are relentless vigilantes who 
 
 #ClassDemonHunter
 tagClassDemonHunterSkillName00=Demon Hunter
-tagClassDemonHunterSkillDescription00="A beast for the slaughter."
+tagClassDemonHunterSkillDescription00="A beast for the slaughter." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassDemonHunterSkillName01A=Hungering Shot
 tagClassDemonHunterSkillDescription01A=Fire a magically imbued projectile that deals pierce and cold damage to enemies. ^oRequires a ranged weapon and can be used as default weapon attack. Bonuses from modifiers are granted only when Hungering Shot is charged.{^n}{^n}{^y}Devouring Shots {^o}(Unlocked at Skill Level 16){^n}^wNumber of charges is increased to 6. Every consecutive strike empowers your attacks by 5% until a limit of 25%. 

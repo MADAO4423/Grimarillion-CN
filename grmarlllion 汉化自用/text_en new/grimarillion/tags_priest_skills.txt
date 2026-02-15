@@ -16,7 +16,7 @@ tagSkillClassName35=[ms]Priest [fs]Priestess
 tagSkillClassDescription35=Living as a master of dark power or a practioner of arcane magic, a Priest is always fighting to abolish evil under the blessing of the celestial matrons, seeking penitence in the name of the lost souls of Arkovia. They are survivors of the tragedy caused by the greed and recklessness of the oligarchs that ruled the city in the past. Whether exorcising creatures with sacred rituals or condemning foes with necrotic energy, they will not tolerate any threat to this new chapter of the Arkovian history.^n^sCreated by Grimer for the Priest Mod.
 
 tagClass11SkillName00=Priest
-tagClass11SkillDescription00=Sacred follower of the Arkovian matrons.
+tagClass11SkillDescription00=Sacred follower of the Arkovian matrons.^n^sCreated by Grimer for the Priest Mod.
 
 tagClass11SkillName01A=Requiem Aeternam
 tagClass11SkillDescription01A=For priests, to fight in the war between the good and evil is not just an act of protecting the living ones, but also, it's to grant an opportunity for those souls, which once were dominated by dark entities or tormented by necrotic curses, to finally find their way to the eternal rest. ^oWhen used as your default weapon attack, Requiem Aeternam inflicts additional damage.

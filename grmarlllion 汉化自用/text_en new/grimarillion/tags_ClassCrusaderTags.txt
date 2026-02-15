@@ -19,7 +19,7 @@ tagSkillClassDescriptionCrusader=Crusaders are unbending champions of faith and 
 
 #ClassCrusader
 tagClassCrusaderSkillName00=Crusader
-tagClassCrusaderSkillDescription00="The crusade calls me...So I go."
+tagClassCrusaderSkillDescription00="The crusade calls me...So I go." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassCrusaderSkillName01A=Punish
 tagClassCrusaderSkillDescription01A=Strike your enemies with empowered attacks, causing electrocute damage over 3 seconds and increasing your block chance for 5 seconds. ^oPunish can be used as a default weapon attack and requires a melee weapon. All bonuses from modifiers also last for 5 seconds.{^n}{^n}{^y}Rebirth {^o}(Unlocked at Skill Level 16){^n}^wYour health regeneration is increased by 100%.

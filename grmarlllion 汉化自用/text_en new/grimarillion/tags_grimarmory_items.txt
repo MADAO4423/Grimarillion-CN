@@ -330,6 +330,12 @@ tagVoidspeakerNecklaceD01=Voidspeaker Gems
 tagVoidspeakerRingD01=Voidspeaker Signet
 tagVoidspeakerBeltD01=Voidspeaker Girdle
 
+tagBleakSetD01=Blur of Bleak Blades
+tagBleakSetD01Desc=Accoutrements of those insipid assassins from the Age of Unreason.
+tagBleakRingD01=Band of the Bleak
+tagBleakHandsD01=Bindings of the Bleak
+tagBleakMedalD01=Badge of the Bleak
+
 tagPotentialNecklaceC01=Amulet of Unrealized Potential
 tagPotentialNecklaceC01Desc=As you come into your own, the range of possibilities for you wanes away...
 tagPotentialNecklaceC01Skill=Realize Potential

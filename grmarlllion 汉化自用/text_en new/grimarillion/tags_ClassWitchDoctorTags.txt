@@ -16,7 +16,7 @@ tagSkillClassDescriptionWitchDoctor=Witch doctors are spiritual warriors who sum
 
 #ClassWitchDoctor
 tagClassWitchDoctorSkillName00=Witch Doctor
-tagClassWitchDoctorSkillDescription00="The spirits smile upon me."
+tagClassWitchDoctorSkillDescription00="The spirits smile upon me." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassWitchDoctorSkillName01A=Acid Cloud
 tagClassWitchDoctorSkillDescription01A=Cause acid to rain down, infecting enemies in the area with poison over 3 seconds.{^n}{^n}{^y}Bad Medicine {^o}(Unlocked at Skill Level 12){^n}^wAcid Cloud reduces the damage of enemies by 20% for 3 seconds.

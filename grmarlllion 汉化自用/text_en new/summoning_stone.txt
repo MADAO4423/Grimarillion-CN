@@ -142,7 +142,7 @@ Increase Eternal difficulty level
 Reset your Eternal progress and increase the difficulty and the potential rewards of your trials
 Accept
 Decline
-Increase Eternal difficulty level
+Increase Eternal difficulty level (DEBUG)
 
 Decrease Eternal difficulty level.
 Return to an lesser level of Eternal, reducing the difficulty and rewards of your trials.

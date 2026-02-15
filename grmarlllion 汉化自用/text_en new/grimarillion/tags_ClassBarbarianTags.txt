@@ -20,7 +20,7 @@ tagSkillClassDescriptionBarbarian=Barbarians are savage wanderers who never flin
 
 #Class31
 tagClassBarbarianSkillName00=Barbarian
-tagClassBarbarianSkillDescription00="The ancients have blessed me."
+tagClassBarbarianSkillDescription00="The ancients have blessed me." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 #Barbarian skills
 tagClassBarbarianSkillName01=Cleave

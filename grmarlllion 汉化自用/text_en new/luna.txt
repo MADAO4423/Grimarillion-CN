@@ -60,7 +60,7 @@ Not enough Eternal Shards. (Need 30 Eternal Shards)
 Really? You think you can still gain more power?
 Nevermind.
 I wish to receive a blessing.
-Hmm yes, a blessing could benefit you. Raise your Eternal Shards to the Heavens!{^n}{^n}^oBlessing of Ulo grants resists to damage and crowd control.{^n}Empyrion's Guidance grants bonus health.{^n}Might of Amatok grants damage and offensive ability.{^n}Ulzuin's Pact grants cooldown reduction among other minor stats.
+Hmm yes, a blessing could benefit you. Raise your Eternal Shards to the Heavens!{^n}{^n}^oBlessing of Ulo grants resists to damage and crowd control.{^n}Empyrion's Guidance grants bonus health.{^n}Might of Amatok grants damage modified and offensive ability.{^n}Ulzuin's Pact grants energy cost reduction, energy regeneration, OA and DA
 Gain Blessing of Ulo. (Need 12 Eternal Shards)
 Gain Empyrion's Guidance. (Need 12 Eternal Shards)
 Gain Might of Amatok. (Need 12 Eternal Shards)
@@ -88,16 +88,18 @@ I'd like to bribe Homestead. (Need 10 Eternal Shards)
 I'd like to bribe the Black Legion. (Need 10 Eternal Shards)
 I'd like to bribe the Ugdenbog Coven. (Need 10 Eternal Shards)
 I'd like to bribe the Malmouth Resistance. (Need 10 Eternal Shards)
+I'd like to bribe Barrowholm. (Need 10 Eternal Shards)
+I'd like to bribe the Witch Cults. (Need 10 Eternal Shards)
 I'd like to bribe Kymon's Chosen. (Need 10 Eternal Shards)
 I'd like to bribe Death's Vigil. (Need 10 Eternal Shards)
 Not enough Eternal Shards (Need 10 Eternal Shards)
 Nevermind.
 I wish for material gains.
 Greed? You could ask for anything and... very well. Raise your Eternal Shards to the Heavens!
-Convert Eternal Shards into Iron Bits. (Need 1 Eternal Shards)
-Convert Eternal Shards into Iron Bits. (Need 5 Eternal Shards)
-Convert Eternal Shards into Iron Bits. (Need 10 Eternal Shards)
-Convert Eternal Shards into Iron Bits. (Need 50 Eternal Shards)
+Convert Eternal Shards into 1000 Iron Bits. (Need 1 Eternal Shards)
+Convert Eternal Shards into 6000 Iron Bits. (Need 5 Eternal Shards)
+Convert Eternal Shards into 12000 Iron Bits. (Need 10 Eternal Shards)
+Convert Eternal Shards into 60000 Iron Bits. (Need 50 Eternal Shards)
 Convert Eternal Shards into a Pocket Trove. (A pocket trove is a usable item which can contain random loot, or nothing if you're very unlucky.) (Need 25 Eternal Shards and 500,000 Iron Bits.)
 Not enough Eternal Shards. (Need 1 Eternal Shards)
 Nevermind.

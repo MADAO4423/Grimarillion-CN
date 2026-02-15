@@ -12,62 +12,62 @@
 #8: Necromancer
 #9: Oathkeeper
 #10: Berserker
-#11: Lich
-#12: Illusionist
-#13: Chieftain
+#34: Lich
+#39: Illusionist
+#42: Chieftain
 
 tagDDSkillClassName01=Lich
-tagSkillClassName11=Lich
+tagSkillClassName34=Lich
 
-tagSkillClassName0111=Revenant
-tagSkillClassName0211=Alchemist
-tagSkillClassName0311=Witch Doctor
-tagSkillClassName0411=Dreadblade
-tagSkillClassName0511=Soulbinder
-tagSkillClassName0611=Wraithspeaker
-tagSkillClassName0711=Exile
-tagSkillClassName0811=Deathlord
-tagSkillClassName0911=Gravekeeper
-tagSkillClassName1011=Overlord
-tagSkillClassName1112=Acolyte
+tagSkillClassName0134=Revenant
+tagSkillClassName0234=Alchemist
+tagSkillClassName0334=Witch Doctor
+tagSkillClassName0434=Dreadblade
+tagSkillClassName0534=Soulbinder
+tagSkillClassName0634=Wraithspeaker
+tagSkillClassName0734=Exile
+tagSkillClassName0834=Deathlord
+tagSkillClassName0934=Gravekeeper
+tagSkillClassName1034=Overlord
+tagSkillClassName3934=Acolyte
 
 tagDDSkillClassName02=Illusionist
-tagSkillClassName12=Illusionist
+tagSkillClassName39=Illusionist
 
-tagSkillClassName0112=Harbinger
-tagSkillClassName0212=Stalker
-tagSkillClassName0312=Voidcaller
-tagSkillClassName0412=Spellsword
-tagSkillClassName0512=Archmage
-tagSkillClassName0612=Channeler
-tagSkillClassName0712=Exorcist
-tagSkillClassName0812=Theurgist
-tagSkillClassName0912=Diviner
-tagSkillClassName1012=Veilbreaker
+tagSkillClassName0139=Harbinger
+tagSkillClassName0239=Stalker
+tagSkillClassName0339=Voidcaller
+tagSkillClassName0439=Spellsword
+tagSkillClassName0539=Archmage
+tagSkillClassName0639=Channeler
+tagSkillClassName0739=Exorcist
+tagSkillClassName0839=Theurgist
+tagSkillClassName0939=Diviner
+tagSkillClassName1039=Veilbreaker
 
 tagDDSkillClassName03=Chieftain
-tagSkillClassName13=Chieftain
+tagSkillClassName42=Chieftain
 
-tagSkillClassName0113=Titan
-tagSkillClassName0213=Ravager
-tagSkillClassName0313=Bloodcaller
-tagSkillClassName0413=Tyrant
-tagSkillClassName0513=Spellhowler
-tagSkillClassName0613=Totemist
-tagSkillClassName0713=Warpriest
-tagSkillClassName0813=Desecrator
-tagSkillClassName0913=Paragon
-tagSkillClassName1013=Warchief
-tagSkillClassName1113=Wight
-tagSkillClassName1213=Enchanter
+tagSkillClassName0142=Titan
+tagSkillClassName0242=Ravager
+tagSkillClassName0342=Bloodcaller
+tagSkillClassName0442=Tyrant
+tagSkillClassName0542=Spellhowler
+tagSkillClassName0642=Totemist
+tagSkillClassName0742=Warpriest
+tagSkillClassName0842=Desecrator
+tagSkillClassName0942=Paragon
+tagSkillClassName1042=Warchief
+tagSkillClassName3442=Wight
+tagSkillClassName3942=Enchanter
 
 
-
+tagSwap_Complete=Success! Check your inventory!
 
 
 
 #LICH
-tagDDSkillClassDescription01=The Lich walks the thin line between life and death, channeling forbidden power to transcend mortal limits. Unlike Necromancers who rely on minions, Liches transform their own bodies into terrifying forms, embodying death's icy grasp and the void's corruption. Shunned even by the Order of Death's Vigil, Liches are solitary practitioners, wielding destructive magic to freeze, dissolve, and crush their foes. Those who master this art become harbingers of the inevitable, their mortal shells cast aside for raw, unrelenting power. ^n^sCreated by T3nd0 for the Darkest Dawn Mod, reworked by Bane for Darkest Dawn Reborn
+tagDDSkillClassDescription01=The Lich walks the thin line between life and death, channeling forbidden power to transcend mortal limits. Unlike Necromancers who rely on minions, Liches transform their own bodies into terrifying forms, embodying death's icy grasp and the void's corruption. Shunned even by the Order of Death's Vigil, Liches are solitary practitioners, wielding destructive magic to freeze, dissolve, and crush their foes. Those who master this art become harbingers of the inevitable, their mortal shells cast aside for raw, unrelenting power.
 
 tagDDClass01SkillName00A=Lich
 tagDDClass01SkillDescription00A=The connection to souls long gone from this world.
@@ -151,7 +151,7 @@ tagDDClass01SkillDescription13A=^b[Exclusive] [Buff] [Nova]^n^o[When Hit]^n^n^wY
 
 
 #ILLUSIONIST
-tagDDSkillClassDescription02=Feared for their mastery of both weapon and sorcery, Illusionists weave steel and spell into a seamless dance of deception and destruction. Unlike brutish warriors or scholarly mages, they strike with a weapon wreathed in phantom fire, feint with illusions, and cloud the minds of their foes before delivering a final, fatal stroke. To an Illusionist, battle is a stage, and they are both the performer and the unseen hand pulling the strings. ^n^sCreated by T3nd0 for the Darkest Dawn Mod, reworked by Bane for Darkest Dawn Reborn
+tagDDSkillClassDescription02=Feared for their mastery of both weapon and sorcery, Illusionists weave steel and spell into a seamless dance of deception and destruction. Unlike brutish warriors or scholarly mages, they strike with a weapon wreathed in phantom fire, feint with illusions, and cloud the minds of their foes before delivering a final, fatal stroke. To an Illusionist, battle is a stage, and they are both the performer and the unseen hand pulling the strings.
 
 tagDDClass02SkillName00A=Illusionist
 tagDDClass02SkillDescription00A=The ability to weave weapon and sorcery into deadly strikes and deceptive illusions.
@@ -171,13 +171,6 @@ tagDDClass02SkillDescription03A=^b[Spell] [Movement] [Disengage]^n^n^wThe Arcanu
 tagDDClass02SkillName03B=Illusory Escape
 tagDDClass02SkillDescription03B=^b[Modifier]^n^n^wEach backward step fractures reality, slowing adjacent foes and interrupting their actions.
 
-#pet name and skills
-tagDDClass02SkillName03C=Vile Illusion
-tagDDClass02SkillDescription03C=
-tagDDClass02SkillName03D=Vicious Strike
-tagDDClass02SkillDescription03D=
-#pet name and skills
-
 tagDDClass02SkillName04A=Ether Cloak
 tagDDClass02SkillDescription04A=^b[Timed] [Buff]^n^o[When Hit]^n^n^wThe Arcanum Nihilus spoke of a forbidden technique - 'The Shrouded Step' - where pain itself could be weaponized. Each strike against the caster activates this cloak, warping perception until the enemy swings at phantoms while their prey slips away like smoke through grasping fingers. ^oActivates when taking damage.
 
@@ -188,7 +181,7 @@ tagDDClass02SkillName06A=Prismatic Weaver
 tagDDClass02SkillDescription06A=^b[Passive]^n^n^wThe ancient Arcanists of the Celestial Weave believed that fire, frost, and storm were but threads in a grand tapestry - and those who learned to pull them could unravel their enemies while shielding themselves from the loom's backlash.
 
 tagDDClass02SkillName07A=Eldric's Arcane Shot
-tagDDClass02SkillDescription07A=^b[Attack] [Multiple Projectiles] [Ranged]^n^n^wEldric the Heretic, once a prodigy of the Arkovian Thaumaturgical Academy, discovered that magic could be tied together with bullets. His hexspread shots were like a curse - each victim suffered elemental after-effects - be it burn, frostburn or shock. The Conclave executed him for 'corrupting the fabric of the arcane', but his design could not be contained. ^oThis attack requires a ranged weapon.
+tagDDClass02SkillDescription07A=^b[Attack] [Multiple Projectiles] [Ranged]^n^n^wEldric the Heretic, once a prodigy of the Arkovian Thaumaturgical Academy, discovered that magic could be tied together with bullets. His hexspread shots were like a curse - each victim suffered elemental after-effects - be it burn, frostburn or shock. The Conclave executed him for 'corrupting the fabric of the arcane', but his design could not be contained. ^oThis attack requires a ranged weapon and is not a default weapon attack enhancer and cannot trigger weapon pool skills.
 tagDDClass02SkillName07B=Hysteria
 tagDDClass02SkillDescription07B=^b[Modifier] [Penetrating]^n^n^wThe Illusionist deeply ingrains their fearsome magic, causing it to penetrate enemy resistances with ease.
 
@@ -237,7 +230,7 @@ tagDDClass02SkillName12C=Mind Cage
 tagDDClass02SkillDescription12C=^b[Modifier]^n^n^wThe deeper one attunes to the arcane, the thinner the veil between sanity and the void becomes. This refinement encases the caster's mind in an unbreakable lattice of pure logic, forged from the same principles that bind reality itself.
 
 tagDDClass02SkillName13A=Magus Clone
-tagDDClass02SkillDescription13A=^b[Player Scaled Pet] [Spell] [Projectile Drop] [AOE] [Multiple Projectiles]^n^n^wForged in the crucible of the Arkovian Blade-Singers' lost arts, this technique calls upon the celestial armory - where weapons of pure elemental fury wait eternally for the worthy. With a gesture, the caster summons two clones who shoot devastating blades from the aether, each imbued with the unrelenting force of storm, flame, and frost. ^oMagus Clone scales with player damage bonuses.
+tagDDClass02SkillDescription13A=^b[Player Scaled Pet] [Spell] [Projectile Drop] [AOE] [Multiple Projectiles]^n^n^wForged in the crucible of the Arkovian Blade-Singers' lost arts, this technique calls upon the celestial armory - where weapons of pure elemental fury wait eternally for the worthy. With a gesture, the caster summons two clones who blasts the area with the unrelenting force of storm, flame, and frost. ^oMagus Clone scales with player damage bonuses.
 tagDDClass02SkillName13B=Ethereal Blades
 tagDDClass02SkillDescription13B=^b[Modifier] [Multiple Projectiles]^n^n^wThe Blade-Singers' most guarded secret was not the summoning, but the sharpening - how to whet their weapons with arcane energies. This refinement adds more blades that cuts through dimensions before manifesting in its victim's flesh.
 tagDDClass02SkillName13C=Lasting Legacy
@@ -246,7 +239,7 @@ tagDDClass02SkillDescription13C=^b[Modifier]^n^n^wTrue mastery is measured in sc
 #pet name and skills
 tagDDClass02SkillName13D=Magus Clone
 tagDDClass02SkillDescription13D=
-tagDDClass02SkillName13E=Blade Burst
+tagDDClass02SkillName13E=Elemental Blast
 tagDDClass02SkillDescription13E=
 #pet name and skills
 
@@ -256,7 +249,7 @@ tagDDClass02SkillDescription14A=^b[Exclusive] [Buff]^n^n^wForged from the lost r
 
 
 #CHIEFTAIN
-tagDDSkillClassDescription03=Towering above the battlefield like a living war totem, the Chieftain is a force of unrelenting strength and primal fury. Wielding colossal weapons with bone-shattering might, they channel the raw power of warcries to bolster allies and strike fear into their foes. But their dominance does not end with the blade - Chieftains call upon ancient totems, each a conduit of battle-born rage, shaking the earth with physical force and crushing all who stand in defiance. To a Chieftain, war is not chaos - it is a sacred rite, and they are its relentless herald. ^n^sCreated by Bane for the Darkest Dawn Reborn Mod
+tagDDSkillClassDescription03=Towering above the battlefield like a living war totem, the Chieftain is a force of unrelenting strength and primal fury. Wielding colossal weapons with bone-shattering might, they channel the raw power of warcries to bolster allies and strike fear into their foes. But their dominance does not end with the blade - Chieftains call upon ancient totems, each a conduit of battle-born rage, shaking the earth with physical force and crushing all who stand in defiance. To a Chieftain, war is not chaos - it is a sacred rite, and they are its relentless herald.
 
 tagDDClass03SkillName00A=Chieftain
 tagDDClass03SkillDescription00A=A strong voice combined with immense physical power to control the battlefield.
@@ -264,11 +257,11 @@ tagDDClass03SkillDescription00A=A strong voice combined with immense physical po
 tagDDClass03SkillName01A=Thorn Totem
 tagDDClass03SkillDescription01A=^b[Player Scaled Pet] [Stationary] [Multiple Projectiles]^n^n^wSummon an ancestral totem that shoots thorns at nearby enemies, dealing pierce damage with profuse bleeding. ^oThorn Totem scales with player damage bonuses.
 tagDDClass03SkillName01B=Thorned Fury
-tagDDClass03SkillDescription01B=^b[Modifier] [Multiple Projectiles]^n^n^wThorns become more lethal, increasing their numbers and piercing power.
+tagDDClass03SkillDescription01B=^b[Modifier]^n^n^wThorns become more lethal, increasing their damage and now pierce multiple enemies with ease. ^oModifies Thorns skill.
 tagDDClass03SkillName01C=Barbed Thorns
-tagDDClass03SkillDescription01C=^b[Modifier]^n^n^wAdds a chance to deal significant bleeding damage upon hit.
+tagDDClass03SkillDescription01C=^b[Modifier]^n^n^wAdds a chance to deal significant bleeding damage upon hit. ^oModifies Thorns skill.
 tagDDClass03SkillName01D=Ancestral Bond
-tagDDClass03SkillDescription01D=^b[Secondary Modifier] [Heal]^n^n^wForms a bond between you and totem, sending healing waves when totem hurts enemies.
+tagDDClass03SkillDescription01D=^b[Secondary Modifier] [Heal]^n^n^wForms a bond between you and totem, sending healing waves when totem hurts enemies. ^oModifies Thorns skill.
 tagDDClass03SkillName01E=Volley of Thorns
 tagDDClass03SkillDescription01E=^b[Transmuter]^n^n^wChannel an ancestral power into additional totems, which showers the battlefield with hundreds of thorns. ^oThis technique requires a two-handed melee or ranged weapon.
 
@@ -277,7 +270,7 @@ tagDDClass03SkillName01F=Thorn Totem
 tagDDClass03SkillDescription01F=
 tagDDClass03SkillName01G=Thorns
 tagDDClass03SkillDescription01G=
-tagDDClass03SkillName01H=Thorn Nova
+tagDDClass03SkillName01H=Thorn Aura
 tagDDClass03SkillDescription01H=
 tagDDClass03SkillTracker01A=Current Number of Thorn Totems Placed
 #pet name and skills
@@ -299,7 +292,7 @@ tagDDClass03SkillName06C=Savage Wounds
 tagDDClass03SkillDescription06C=^b[Modifier]^n^n^wThe earth itself howls in fury, as the shockwave becomes a brutal force of nature, breaking bones and leaving enemies broken in its wake.
 
 tagDDClass03SkillName07A=Sunder
-tagDDClass03SkillDescription07A=^b[Spell] [AOE]^n^o[Melee]^n^n^wA mighty slam into the ground unleashes three rippling waves of force, tearing through flesh and earth alike, leaving enemies bleeding and broken. ^oRequires a melee weapon.
+tagDDClass03SkillDescription07A=^b[Spell] [AOE]^n^o[Melee]^n^n^wA mighty slam into the ground unleashes rippling wave of force, tearing through flesh and earth alike, leaving enemies bleeding and broken. ^oRequires a melee weapon.
 tagDDClass03SkillName07B=Earthshaker
 tagDDClass03SkillDescription07B=^b[Modifier]^n^n^wThe ground quakes with even greater fury, as a fourth wave of destruction is unleashed, piercing through enemies.
 tagDDClass03SkillName07C=Spinecruncher
@@ -317,6 +310,7 @@ tagDDClass03SkillName08C=Blade Fury
 tagDDClass03SkillDescription08C=
 tagDDClass03SkillName08D=Ancestral Maul
 tagDDClass03SkillDescription08D=
+tagDDClass03SkillTracker08A=Current Number of Ancestral Spirits Summoned
 #pet name and skills
 
 tagDDClass03SkillName09A=Seismic Cry
@@ -347,9 +341,9 @@ tagDDClass03SkillName13B=Ancestral Wrath
 tagDDClass03SkillDescription13B=^b[Secondary Modifier] [AOE] [Debuff]^n^o[When Hit]^n^n^wTo strike the blood of a Chieftain is to awaken the fury of their forebears. Ancestors awaken to guide you through the battle and debuff enemies.
 
 tagDDClass03SkillName14A=Shockwave Totem
-tagDDClass03SkillDescription14A=^b[Player Scaled Pet] [Stationary] [AOE]^n^n^wRaises an ancestral warchief which releases shockwaves to hit enemies if you're nearby. ^oShockwave Totem scales with player damage bonuses.
+tagDDClass03SkillDescription14A=^b[Player Scaled Pet] [Stationary] [AOE]^n^n^wRaises an ancestral warchief which releases shockwaves to hit enemies if you're nearby. ^oShockwave Totem scales with player damage bonuses. Shockwaves deal double damage when strike target directly.
 tagDDClass03SkillName14B=Fist of War
-tagDDClass03SkillDescription14B=^b[Spell] [AOE]^n^n^wTotem now strikes distant enemies with powerful stone fists, inflicting high physical trauma.
+tagDDClass03SkillDescription14B=^b[Modifier] [AOE]^n^n^wIncreases area of effect for Shockwaves and gives a chance to inflict high physical trauma.
 
 #pet name and skills
 tagDDClass03SkillName14C=Shockwave Totem
@@ -362,7 +356,7 @@ tagDDClass03SkillTracker14A=Current Number of Shockwave Totems Placed
 #pet name and skills
 
 tagDDClass03SkillName15A=Urgent Orders
-tagDDClass03SkillDescription15A=^b[Modifier]^n^n^wThe urgency of battle sharpens your commands, empowering your warcries to deal greater damage and allowing you to unleash them more frequently. ^o[Affects Intimidating, Seismic warcries and requires one to unlock]
+tagDDClass03SkillDescription15A=^b[Modifier]^n^n^wThe urgency of battle sharpens your commands, empowering your warcries to deal greater damage and allowing you to unleash them more frequently. ^o[Affects Intimidating and Seismic warcries and requires one to unlock]
 
 
 
@@ -529,6 +523,16 @@ tagDDReplicaKalisKaShield1Name=Replica Kalis'Ka's Harvest
 tagDDReplicaSunheraldClaymore1Name=Replica Sunherald's Claymore
 tagDDReplicaKilrianSkullbreaker1Name=Replica Kilrian's Skullbreaker
 tagDDReplicaBaneGargothShard1Name=Replica Bane'Gargoth's Shard
+tagDDReplicaKorvanCasque1Name=Replica Korvan Casque
+tagDDReplicaKorvanCelestialHalberd1Name=Replica Korvan's Celestial Halberd
+tagDDReplicaMogaraFangs1Name=Replica Mogara's Fangs
+tagDDReplicaWendigoGlare1Name=Replica Wendigo Glare
+tagDDReplicaChosenGaze1Name=Replica Chosen Gaze
+tagDDReplicaSandclawSlicer1Name=Replica Sandclaw Slicer
+tagDDReplicaMarkHarvoul1Name=Replica Mark of Harvoul
+tagDDReplicaFleshwarpedBulwark1Name=Replica Fleshwarped Bulwark
+tagDDReplicaUgdebogRepeater1Name=Replica Ugdenbog Repeater
+tagDDReplicaObsidianWarCleaver1Name=Replica Obsidian War Cleaver
 
 
 
@@ -743,8 +747,8 @@ tagDDSetD015Torso01Name=Bloodgorger Robes
 tagDDSetD015Focus01Name=Bloodgorger Codex
 tagDDSetD015Full01Name=Bloodgorger
 tagDDSetD015Full01Desc=
-tagDDSetD015FullSkill01Name=Siphoning Totem
-tagDDSetD015FullSkill01Desc=Conjure a vicious totem which applies life draining beams to a number of nearby enemies, restoring life and energy for player. ^oSiphoning Totem scale with player damage bonuses.
+tagDDSetD015FullSkill01Name=Blood Hex
+tagDDSetD015FullSkill01Desc=A malicious curse that siphons life and lowers resistances.
 tagDDSetD015FullSkill01PetName=Siphoning Totem
 tagDDSetD015FullSkill01PetSkill01Name=Siphon Life
 tagDDSetD015FullSkill01PetSkill02Name=Life Curse
@@ -759,6 +763,8 @@ tagDDSetD016FullSkill01Name=Ethereal Burst
 tagDDSetD016FullSkill01Desc=Throws multiple warped daggers in front of you. Let the aetherials taste their own medicine!
 
 tagDDSetD017Head01Name=Visage of Dark Fate
+tagDDSetD017Head01SkillName=Dread Visage
+tagDDSetD017Head01SkillDesc=Sends a horrific visions of their own death to enemies.
 tagDDSetD017Shoulders01Name=Epaulets of Dark Fate
 tagDDSetD017Torso01Name=Regalia of Dark Fate
 tagDDSetD017Scepter01Name=Scepter of Dark Fate
@@ -813,6 +819,39 @@ tagDDSetD022Full01Name=Instruments of Berek
 tagDDSetD022Full01Desc="Grievous instruments of Berek the Meatgrinder, who tortured hundreds of innocents in Burrwitch before the Grim Dawn happened."
 tagDDSetD022FullSkill01Name=Meatgrinder
 tagDDSetD022FullSkill01Desc=Strike three times in a quick succession, inflicting severe wounds and profuse bleeding.
+
+tagDDSetD023Torso01Name=Warden's Furs
+tagDDSetD023Shoulder01Name=Warden's Mantle
+tagDDSetD023Head01Name=Warden's Horns
+tagDDSetD023Necklace01Name=Warden's Talisman
+tagDDSetD023Axe2H01Name=Warden's Piercer
+tagDDSetD023Full01Name=Ancestral Warden
+tagDDSetD023Full01Desc="The Ancestors guide me through the battle."
+tagDDSetD023FullSkill01Name=Ancestral Cry
+tagDDSetD023FullSkill01Desc=Performs a powerful cry boosting allies health regen and damage.
+
+tagDDSetD024Torso01Name=Righteous Hauberk
+tagDDSetD024Shoulder01Name=Righteous Pauldrons
+tagDDSetD024Head01Name=Righteous Mask
+tagDDSetD024Feet01Name=Righteous Boots
+tagDDSetD024Hands01Name=Righteous Grip
+tagDDSetD024Full01Name=Order of the Righteous Fire
+tagDDSetD024Full01Desc="My eyes were the first to burn, so I might see the truth in the ash."
+tagDDSetD024FullSkill01Name=Righteous Fire
+tagDDSetD024FullSkill01Desc=Ignite your own life force, creating a searing aura of divine fire that burns you and all enemies nearby. ^oThis skill drains your life once activated but cannot kill you.
+
+tagDDSetD025Torso01Name=Ramako's Cuirass
+tagDDSetD025Shoulder01Name=Ramako's Spaulders
+tagDDSetD025Head01Name=Ramako's Hood
+tagDDSetD025Necklace01Name=Ramako's Gem
+tagDDSetD025Full01Name=Blessing of Ramako
+tagDDSetD025Full01Desc="Rumored to be the vestments of Ramako the Fireborn himself, these armor pieces are glowing with ancestral flame."
+tagDDSetD025FullSkill01Name=Blessing of Ramako
+tagDDSetD025FullSkill01Desc=Ramako blesses you with immense regenerative capabilities.
+
+
+
+
 
 
 

@@ -50,7 +50,7 @@ tagSkillClassDescription_TQ11=Master Neidan, the art of internal and external al
 #Defense Skills
 
 tagSkillName116=Defense Mastery
-tagSkillDescription116=Provides the fortitude and strength to master skills for the protection of yourself and others.
+tagSkillDescription116=Provides the fortitude and strength to master skills for the protection of yourself and others.^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName133=Spectral Bulwark
 tagSkillDescription133=^b[Spell] [Orbital] [Timed]^n^n^wSummons a spectral weapon that twirls around the caster. Enemies can be hit by this projectile more than once, and have their attacks slowed for a short duration when hit. ^oEach projectile lasts 5 seconds, and up to 10 can be maintained.
@@ -139,7 +139,7 @@ tagDefenseEx2DESC=^b[Exclusive] [AOE] [Buff]^n^n^wAthena was a warrior goddess, 
 
 #Hunting Skills
 tagSkillName076=Hunting Mastery
-tagSkillDescription076=Imparts the predatory spirit and cunning necessary to learn the arts of hunting.
+tagSkillDescription076=Imparts the predatory spirit and cunning necessary to learn the arts of hunting. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName081=Ensnare
 tagSkillDescription081=^b[AOE] [Timed] [Debuff]^n^n^wTraps an enemy in a hooked net. Nearby enemies are also trapped. A trapped enemy cannot move but they can still attack.
@@ -224,8 +224,8 @@ tagFletchetteBombSkillDESC=Adds a hidden explosive charge to the monster lure ca
 tagFletchetteBombSkillNAMEB=Inferno Fusillade
 tagEnsnareBombPet=Acid Cluster Bomb
 tagEnsnareBombBPet=Inferno Cluster Mine
-tagFletchetteBombBNAME=Inferno Cluster Mine
-tagFletchetteBombBDESC=^b[Transmuter] [Pet Replacer]^n^n^wThe hunter appeals to Hephaestus and crafts a fire trap instead of a poison trap. Who really wants their prey to be poisoned, when they could be char grilled instead?
+tagFletchetteBombBNAME=Volcanic Lure 
+tagFletchetteBombBDESC=^b[Transmuter] [Pet Replacer]^n^n^wThe hunter appeals to Hephaestus and crafts fills the lure with flammable ingredients instead of poisons.
 tagImprovedTrapsBDESC=A mechanism is added to the inferno cluster bombs that causes them to become more volatile, spewing flames moments after being placed, spraying foes in fire and stunning them.
 
 tagArrowCurtainNAME=Sky Shot Salvo
@@ -242,7 +242,7 @@ tagSpectralHunterDESC=^b[Modifier]^n^n^wGrants a divine flame to the Elysian Arc
 
 #Spirit Skills
 tagSkillName030=Spirit Mastery
-tagSkillDescription030=Provides the arcane knowledge and mental discipline to study the dark art of controlling spirits.
+tagSkillDescription030=Provides the arcane knowledge and mental discipline to study the dark art of controlling spirits. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName032=Vision of Death
 tagSkillDescription032=^b[AOE] [Spell] [Timed]^n^o[Interval: 0.5 Seconds]^n^n^wAssaults the minds of surrounding enemies with images of their own death causing the weak-hearted to become enfeebled and slowed.
@@ -350,7 +350,7 @@ tagPlanarStepNAME=Planarstep
 
 #Warfare Skills
 tagSkillName001=Warfare Mastery
-tagSkillDescription001=Provides physical conditioning and discipline that will allow your character to master the skills of a warrior.
+tagSkillDescription001=Provides physical conditioning and discipline that will allow your character to master the skills of a warrior. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName005=Onslaught
 tagSkillDescription005=^b[Attack Replacer]^n^n^wWhen used as your default weapon attack, Onslaught increases the damage of your attacks with every strike. The first hit always charges Onslaught to the first level of the skill and it continues to charge until it reaches your current skill level. Onslaught dissipates rapidly when not actively attacking. ^oBuilding up charges increases the potency of the bonuses.
@@ -431,7 +431,7 @@ tagFuryOfAresDESC=^b[Exclusive] [Buff]^n^n^wThe spirit of Ares flows through you
 
 #Nature Skills
 tagSkillName065=Nature Mastery
-tagSkillDescription065=Grants the inner harmony and patience necessary to learn the language of wild creatures and master the hidden power of nature.
+tagSkillDescription065=Grants the inner harmony and patience necessary to learn the language of wild creatures and master the hidden power of nature. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName068=Sanctuary
 tagSkillDescription068=^b[Player Scaled Pet] [Stationary] [AOE] [Buff]^n^n^wA protective briars grows near you, it exudes an aura which revitalizes those within and reduces the damage taken. ^oThe Briar Ward scales with player damage bonuses.
@@ -556,7 +556,7 @@ tagSkillDescription074=Subtracts time from recharging skills allowing you to use
 
 #Rogue Skills
 tagSkillName050=Rogue Mastery
-tagSkillDescription050=Provides the physical conditioning and secret knowledge necessary to train as a rogue.
+tagSkillDescription050=Provides the physical conditioning and secret knowledge necessary to train as a rogue. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName053=Blade Honing
 tagSkillDescription053=^b[Passive]^n^o[Sword][Dagger][Spear][Ranged]^n^n^wEnsures that your weapons and wits will remain razor sharp.^o Requires a bladed melee weapon or any ranged weapon.//Ensures that your weapons will remain razor sharp and inflict increased piercing damage.
@@ -660,7 +660,7 @@ tagEpialosCDESC=^b[Transmuter] [Pet Replacer]^n^n^wRather than summoning a daemo
 
 #Earth Skills
 tagSkillName098=Earth Mastery
-tagSkillDescription098=Trains your mind and spirit in ancient techniques that will enable you to draw power from the Earth and gain mastery over rock and fire.
+tagSkillDescription098=Trains your mind and spirit in ancient techniques that will enable you to draw power from the Earth and gain mastery over rock and fire. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName105=Earth Enchantment
 tagSkillDescription105=^b[AOE] [Buff]^n^n^wImbues your weapons and the weapons of nearby allies with the power of rock and flame.
@@ -752,7 +752,7 @@ tagInfernoDESC=^b[Projectile Drop] [Spell] [AOE]^n^n^wBring down an explosive me
 
 #Storm Skills
 tagSkillName018=Storm Mastery
-tagSkillDescription018=Provides the mental control and spiritual focus to unfetter your mind of earthly concerns and learn to harness the elemental power of weather.
+tagSkillDescription018=Provides the mental control and spiritual focus to unfetter your mind of earthly concerns and learn to harness the elemental power of weather. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 tagSkillName022=Ice Shard
 tagSkillDescription022=^b[Projectile Drop] [Spell]^n^n^wProjects a deadly shard of ice at the target inflicting cold damage.
@@ -844,7 +844,7 @@ tagSkillDescription219=Scalds enemies with a blast of elemental energy.
 
 #Dream Skills
 xtagSkillDreamName001=Dream Mastery
-xtagSkillDreamDescription001=Expand your consciousness to draw more deeply from the power of the dream realm and exert your will upon physical reality.
+xtagSkillDreamDescription001=Expand your consciousness to draw more deeply from the power of the dream realm and exert your will upon physical reality. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 xtagSkillDreamName002=Psionic Touch
 xtagSkillDreamDescription002=^b[Attack] [AOE]^n^n^wPsionic energies focused within your weapons will create a bone shattering resonance when they contact your enemies. This energy refracts until it bursts from the target and damages all foes in the vicinity. ^oDoes not trigger WPS.
@@ -939,7 +939,7 @@ tagConvertAuraDESC=^b[Timed] [Buff]^n^n^wPeer through the dream world and prepar
 #Runes Skills
 
 x2tagSkillRunesName001=Rune Mastery
-x2tagSkillRunesDescription001=Learn the secrets of the runes and train to harness the fury of battle for your magic.
+x2tagSkillRunesDescription001=Learn the secrets of the runes and train to harness the fury of battle for your magic. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 x2tagSkillRunesName002=Thunder Strike
 x2tagSkillRunesDescription002=^b[Attack] [AOE]^n^o[Melee]^n^n^wAn arcane weapon technique that channels the power of a thunderbolt, hitting mutliple enemies with staggering force.
@@ -1038,7 +1038,7 @@ tagRuneExclusive1DESC=^b[Exclusive] [Buff]^n^n^wTrading their services to the la
 #Neidan Skills
 
 x4tagNeidanMastery=Neidan Mastery
-x4tagNeidanMasteryDescription=Become a master of Neidan, a mystical alchemist who uses deadly concoctions and abilities to annihilate his enemies.
+x4tagNeidanMasteryDescription=Become a master of Neidan, a mystical alchemist who uses deadly concoctions and abilities to annihilate his enemies. ^n^sAdapted by Asylum101 for the Grim Quest Mod
 
 x4tagSkillNeidanPotionBuff=Potent Elixir
 x4tagSkillNeidanPotionBuffDesc=^b[Secondary Modifier] [Buff] ^n^o[Potion] ^n^n^wNeidan practitioners often alter their concoctions to grant them additional boons when imbibed. ^oThis buff triggers when you use a health or energy potion.
