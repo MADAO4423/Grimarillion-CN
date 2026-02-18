@@ -18,7 +18,7 @@ tagSkillClassDescriptionWizard=Wizards are supreme magic-users, defined and unit
 
 #Class13
 tagClassWizardSkillName00=Wizard
-tagClassWizardSkillDescription00="If my old masters could see me now..."
+tagClassWizardSkillDescription00="If my old masters could see me now..." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 
 tagClassWizardSkillName01A=Magic Missile

@@ -25,7 +25,7 @@ tagSkillClassDescriptionTempest=In a time of ever-growing danger for the world, 
 
 #ClassTempest
 tagClassTempestSkillName00=Tempest
-tagClassTempestSkillDescription00="Uncontrolled power is the doom of the soul. Power gripped tight the doom of the world."
+tagClassTempestSkillDescription00="Uncontrolled power is the doom of the soul. Power gripped tight the doom of the world." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassTempestSkillName01A=Flowing Strike
 tagClassTempestSkillDescription01A=Imbue your blades with the power of the seas, increasing your physical damage and adding cold damage to your attacks.{^n}{^n}{^y}Dispersion {^o}(Unlocked at Skill Level 12){^n}^wFlowing Strike now hits 2 additional targets in a cone area. ^oWhen used as your default weapon attack, Flowing Strike inflicts additional damage.

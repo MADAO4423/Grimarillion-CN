@@ -231,6 +231,16 @@ tagAscend_4=Eternity IV
 tagAscend_5=Eternity V
 tagDescend=Eternal level reduced!
 tagWaveCap=Wave Cap Reached, now spawning random enemies.
+tagAscendUI_1=Eternity I
+tagAscendUI_2=Eternity II
+tagAscendUI_3=Eternity III
+tagAscendUI_4=Eternity IV
+tagAscendUI_5=Eternity V
+tagAscendUI_1Desc=Eternal Difficulty Modifier^nLevel 1^nEnemies gain absurd stat boosts: ^n^o3800% HP^n1850% All Damage^n56% Crit Dmg^n15% Attack/Cast Speed^n120% Health Regen^n151% Energy Regen^n71 OA^n9% OA^n95 DA^n9% DA
+tagAscendUI_2Desc=Eternal Difficulty Modifier^nLevel 2^nEnemies gain outrageous stat boosts: ^n^o5600% HP^n3000% All Damage^n67% Crit Dmg^n16% Attack/Cast Speed^n158% Health Regen^n158% Energy Regen^n78 OA^n10% OA^n102 DA^n10% DA
+tagAscendUI_3Desc=Eternal Difficulty Modifier^nLevel 3^nEnemies gain ridiculous stat boosts: ^n^o7850% HP^n4400% All Damage^n81% Crit Dmg^n16% Attack/Cast Speed^n195% Health Regen^n164% Energy Regen^n84 OA^n10% OA^n114 DA^n10% DA
+tagAscendUI_4Desc=Eternal Difficulty Modifier^nLevel 4^nEnemies gain ludicrous stat boosts: ^n^o9550% HP^n5500% All Damage^n92% Crit Dmg^n17% Attack/Cast Speed^n232% Health Regen^n170% Energy Regen^n90 OA^n11% OA^n119 DA^n11% DA
+tagAscendUI_5Desc=Eternal Difficulty Modifier^nLevel 5^nEnemies gain preposterous stat boosts: ^n^o12000% HP^n6900% All Damage^n106% Crit Dmg^n20% Attack/Cast Speed^n270% Health Regen^n177% Energy Regen^n97 OA^n11% OA^n130 DA^n11% DA
 
 ###NPC###
 tagCleansingSphere=Cleansing Sphere
@@ -310,11 +320,11 @@ tagRaznar=Raznar the Plaguehawk
 tagCorruptionAura=Aura of Depravity
 tagCorruptionAuraDesc=The presence of the depraved soul is withering you. ^o^nDeals Chaos Damage and Reduces Speed 
 tagCorruptHealing=Curse of Chaos
-tagCorruptHealingDesc=A curse of chaos lingers following Chaos Blast. ^o^nReduces % Regeneration, % Healing, and applies Sunder.
+tagCorruptHealingDesc=A curse of chaos lingers following Chaos Blast. ^o^nReduces % Health Regeneration, % Healing, and applies Sunder.
 tagCorruptHealing2=Crystalline Corruption
 tagCorruptHealing2Desc=Vaneau spreads his curse through this stone, debilitating anyone who goes near it. ^o^nDeals Chaos damage, Reduces % HP, and Reduces % DA
 tagCorruptHealing3=Lifeshatter
-tagCorruptHealing3Desc=The lesser stones Vaneau block the ability to regenerate and heal normally. ^o^nReduces % Regeneration and % Healing.
+tagCorruptHealing3Desc=The lesser stones Vaneau block the ability to regenerate and heal normally. ^o^nReduces % Health Regeneration and % Healing.
 tagDromegonFrenzyTurret=Frenzy Totem
 tagDromegonHellhound=Rifthunter
 tagDromegonRaptor=Riftscreecher
@@ -325,10 +335,13 @@ tagDromegonTurretDebuffDesc=Dromegon's presence nullifies your resistances to pe
 tagDromegonPetrifyHit=Dromegon's Red Rings
 tagDromegonPetrifyHitDesc=The red rings will petrify you intermittently if you remain in the area
 tagTrollStench=Urzog's Pestilence
-tagTrollStenchDesc=A fetid swarm of flies emanates from Urzog, preventing you from healing. ^n^oReduces % Regeneration and % Healing
+tagTrollStenchDesc=A fetid swarm of flies emanates from Urzog, preventing you from healing. ^n^oReduces % Health Regeneration and % Healing
 tagTrollSwarm=Pestilent Swarm
-tagTrollSwarmDesc=A fetid swarm of flies is preventing you from healing. ^n^oReduces % Regeneration and % Healin
+tagTrollSwarmDesc=A fetid swarm of flies is preventing you from healing. ^n^oReduces % Health Regeneration and % Healing
+tagUrzogAOE=Fetid Bile
+tagUrzogAOEDesc=Grotesque bile clings to you, preventing you from healing.^n^oReduces % Health Regeneration and % Healing
 tagSydrianaShard=Sydriana's Shard
+
 
 ##Eternal Items##
 tagEva=Eva **Incomplete?**

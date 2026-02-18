@@ -20,7 +20,7 @@ tagSkillClassDescriptionNecromancer=Necromancers are masters of the dark arts. T
 
 #ClassNecromancer
 tagClassNecromancerSkillName00=D3 Necromancer
-tagClassNecromancerSkillDescription00="A new army of the dead will rise at my command."
+tagClassNecromancerSkillDescription00="A new army of the dead will rise at my command." ^n^sAdapted by Grimer for the Diablo 3 Mod
 
 tagClassNecromancerSkillName01A=Bone Spikes
 tagClassNecromancerSkillDescription01A=Summon bone spikes from the ground dealing piercing and cold damage to all enemies in the area.

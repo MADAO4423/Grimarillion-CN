@@ -119,3 +119,4 @@ We see that you have a Glob of Iron. While interactions with this feature are no
 Step away from the Bounty Table.
 The Witch Gods Cults do not yet trust you with their innermost secrets.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 Step away from the Bounty Table.
+
