@@ -129,18 +129,18 @@ tagClassDemonHunterSkillName23C=Fire at Will
 tagClassDemonHunterSkillDescription23C=Energy cost is reduced by 30% and Multishot becomes fully electrified.
 
 tagDemonHunterRune01=^cDetached
-tagDemonHunterRune01Desc=^bHungering Shot ^wincreases your offensive ability and defensive ability by 5%, and your maximum movement and attack speed by 50%. However, every time an enemy gets too close, you lose the bonuses granted by the skill.{^n}{^n}{^y}Runeword: {^c}AhuGar.
+tagDemonHunterRune01Desc=^bHungering Shot ^wincreases your offensive ability and defensive ability by 5%, and your maximum movement and attack speed by 50%. However, every time an enemy gets too close, you lose the bonuses granted by the skill.{^n}{^n}{^y}Runeword: {^c}AhuGar
 tagDemonHunterRune01b=^cRune Effect
 tagDemonHunterRune01c=^cKeep Distance
 tagDemonHunterRune01cDesc=You are too close from enemies, losing the bonuses from the Detached rune effect.
 
 tagDemonHunterRune02=^cFinal Vendetta
-tagDemonHunterRune02Desc=Critical hits performed by ^oElemental Strike ^wgrants you 100% Fire/Burn Damage, 15% Damage Absorption and 5% Offensive Ability over 5 seconds. However, you no longer can cast Vengeance. ^oThis effect doesn't stack, critical hits just refresh its duration.{^n}{^n}{^y}Runeword: {^c}CirEom.
+tagDemonHunterRune02Desc=Critical hits performed by ^oElemental Strike ^wgrants you 100% Fire/Burn Damage, 15% Damage Absorption and 5% Offensive Ability over 5 seconds. However, you no longer can cast Vengeance. ^oThis effect doesn't stack, critical hits just refresh its duration.{^n}{^n}{^y}Runeword: {^c}CirEom
 tagDemonHunterRune02b=^cRune Effect
 tagDemonHunterRune02bDesc=Bonuses activated by a critical hit performed by Elemental Strike.
 
 tagDemonHunterRune03=^cTrapmaster
-tagDemonHunterRune03Desc=^oChakram ^wturns into a ^bFrost Trap ^wthat explodes when enemies get close, dealing cold damage, and freezing them for 2 seconds. If an enemy doesn't get killed by the explosion, he will be marked. Marked enemies have their cold resistance reduced over 5 seconds. ^oWhile using Frost Trap, the damage added by ^bRazor Disk ^oand item skill modifiers is increased by 200%. {^n}{^n}{^y}Runeword: {^c}PocNer.
+tagDemonHunterRune03Desc=^oChakram ^wturns into a ^bFrost Trap ^wthat explodes when enemies get close, dealing cold damage, and freezing them for 2 seconds. If an enemy doesn't get killed by the explosion, he will be marked. Marked enemies have their cold resistance reduced over 5 seconds. ^oWhile using Frost Trap, the damage added by ^bRazor Disk ^oand item skill modifiers is increased by 200%. {^n}{^n}{^y}Runeword: {^c}PocNer
 
 tagDemonHunterRune04=^cShared Burden
 tagDemonHunterRune04Desc=While ^iShadow Power ^wis active, you become cursed, decreasing almost all your resistances by 15% (physical resistance is reduced by 5%). However, being hit by enemies makes the curse to spread and become more powerful, reducing all their resistances by 30% over 5 seconds.{^n}{^n}{^y}Runeword: {^c}MoniVex
