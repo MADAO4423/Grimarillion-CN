@@ -1,0 +1,27 @@
+***************************************
+***THIS FILE IS APPENDED TO VIA CODE***
+***DO NOT EDIT MANUALLY             ***
+***UNLESS YOUR ALIAS IS CENO        ***
+***************************************
+
+tagProtoVariant=Variant
+tagVariantLeviathanRecipe=Variant 利维坦
+tagVariantRiftwarpedGraspRecipe=Variant 裂隙扭曲之握
+tagVariantSoulrendRecipe=Variant 灵魂裂斩
+tagVariantAdversaryRecipe=Variant 对手
+tagVariantDreadKnightsGuardRecipe=Variant 恐惧骑士护甲
+tagVariantGladiatorsDistinctionRecipe=Variant 角斗士的徽章
+tagVariantChainsofNightfireRecipe=Variant 夜焰锁链
+tagVariantCrimsonLotusRecipe=Variant 血红莲花
+tagVariantLightsOathRecipe=Variant 光之誓约
+tagVariantAlbrechtsDualityRecipe=Variant 阿尔布雷希特的二元
+tagVariantBandoftheEternalPyreRecipe=Variant 永世火焰之环
+tagVariantSignetoftheFallenRecipe=Variant 堕落者印记
+tagVariantDawnshardPauldronsRecipe=Variant 晨光碎片护肩
+tagVariantBonewraithPauldronsRecipe=Variant 骨魅护肩
+tagVariantMantleofMogdrogenRecipe=Variant 莫格德罗根披肩
+tagVariantTheCrimsonClawsRecipe=Variant 血红之爪
+tagVariantMorguulsMortalityRecipe=Variant 莫古尔的死亡印记
+tagVariantDeviltongueRecipe=Variant 魔舌
+tagVariantVortexofSoulsRecipe=血之漩涡
+tagVariantKorvanWyrmRecipe=Variant 科尔万巨龙

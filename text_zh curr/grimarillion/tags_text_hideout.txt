@@ -1,0 +1,54 @@
+tag_Hideout=个人藏匿处
+tag_RiftgateHideout=个人藏匿处
+
+tag_EntranceHideout=通往 ^y个人藏匿处 的船只
+
+## NPCs
+
+tag_Mirror=镜子
+tag_Stash=个人储物箱
+tag_Lectern=清除讲台
+tag_CraftingTable=准备桌
+
+tag_Illusionist=伊瓦尔
+tag_Reallocator=阿夫拉
+tag_Inventor=弗瑞亚
+
+tag_Merchant=普通商品商人
+
+tag_Merchant01=伊德维格
+tag_Merchant02=
+
+# Cook
+tag_Mirglu=米尔格鲁
+
+## Faction Merchants
+
+tag_MerchantFaction=阵营商人
+
+tag_HomesteadM=霍姆斯特德
+tag_KymonM=凯蒙的神选者
+tag_OrderM=死亡守望教团
+tag_RoversM=流浪者
+tag_LegionM=黑色军团
+tag_CrossingM=恶魔十字
+tag_ExileM=流放者
+tag_CovenM=沼泽女巫团
+tag_MalmouthM=马尔矛斯抵抗军
+tag_WendigoM=巴洛霍尔姆
+tag_DreegM=德瑞格教派
+tag_SolaelM=索拉尔教派
+tag_BysmielM=拜斯盟教派
+
+## Blacksmiths
+
+tag_Blacksmith=铁匠
+
+tag_HomesteadSmith=霍姆斯特德铁匠
+tag_SteelcapSmith=钢帽铁匠
+tag_NecropolisSmith=亡者之城铁匠
+tag_LegendarySmith=传奇铁匠
+tag_DevilsCrossingSmithA=恶魔十字铁匠（大师）
+tag_DevilsCrossingSmithB=恶魔十字铁匠（学徒）
+tag_ConclaveSmith=集结铁匠
+tag_MalmouthSmith=马尔矛斯铁匠

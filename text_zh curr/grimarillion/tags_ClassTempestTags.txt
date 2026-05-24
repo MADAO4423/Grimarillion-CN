@@ -1,0 +1,156 @@
+
+tagSkillClassName38=风暴使
+tagSkillClassName0138=散兵
+tagSkillClassName0238=浪客
+tagSkillClassName0338=咒刃
+tagSkillClassName0438=刃舞者
+tagSkillClassName0538=魔剑士
+tagSkillClassName0638=驭风者
+tagSkillClassName0738=海盗
+tagSkillClassName0838=死舞者
+tagSkillClassName0938=牧师
+tagSkillClassName1038=拾荒者
+tagSkillClassName1138=监工
+tagSkillClassName1238=逐风者
+tagSkillClassName1338=法缚者
+tagSkillClassName1438=先锋
+tagSkillClassName1538=死亡使者
+tagSkillClassName3138=攻城大师
+tagSkillClassName3638=无赖
+tagSkillClassName3738=猩红杀手
+
+
+
+tagSkillClassDescriptionTempest=在这个世界危机日益加深的时代，神秘的流浪者自北方冰冷的迷雾中扬帆而来，驱逐包围我们的黑暗。这些敏捷的双刃战士驾驭风暴的狂怒，以狂风与巨浪冲击敌人。 ^n^s由 Grimer 为暗黑破坏神 3 模组改编
+
+#ClassTempest
+tagClassTempestSkillName00=风暴使
+tagClassTempestSkillDescription00="失控的力量是灵魂的毁灭，紧握的力量是世界的毁灭。"
+
+tagClassTempestSkillName01A=流动斩{^K} 「风暴使」^-
+tagClassTempestSkillDescription01A=将海洋之力注入你的刀刃，提高你的物理伤害，并为攻击附加寒冷伤害。{^n}{^n}{^y}扩散 {^o}(技能等级 12 解锁){^n}^w流动斩现在会在锥形区域内额外命中 2 个目标。 ^o作为默认武器攻击时，流动斩会造成额外伤害。
+
+tagClassTempestSkillName01B=深海{^K} 「风暴使」^-
+tagClassTempestSkillDescription01B=提高流动斩的寒冷伤害与攻击范围，命中更多敌人，并在 2 秒内造成霜燃伤害。
+
+tagClassTempestSkillName01C=回响激流{^K} 「风暴使」^-
+tagClassTempestSkillDescription01C=流动斩的每一次攻击都会使目标释放一次水爆，对附近敌人造成物理与寒冷伤害。
+
+tagClassTempestSkillName01D=潮汐粉碎{^K} 「风暴使」^-
+tagClassTempestSkillDescription01D=每第二次流动斩都会召唤向你所在位置涌动的水浪，对路径上的敌人造成寒冷与霜燃伤害，并降低其攻击速度 3 秒。
+
+tagClassTempestSkillName01E=危险水域{^K} 「风暴使」^-
+tagClassTempestSkillDescription01E=即便是汪洋大海也饱受蔓延世界的腐化侵蚀，但在与被附身水手的无数战斗之后，风暴使学会了将以太之力为己所用。 ^o伤害转化不作用于 ^b回响激流 ^o和 ^b潮汐粉碎^o。
+
+
+tagClassTempestSkillName02A=穿刺狂风{^K} 「风暴使」^-
+tagClassTempestSkillDescription02A=释放一道可贯穿目标的风刃，对敌人造成穿刺与寒冷伤害。{^n}{^n}{^y}交错气流 {^o}(技能等级 12 解锁){^n}^w穿刺狂风在命中目标时会释放两道风刃。
+
+tagClassTempestSkillName02B=剃刃之风{^K} 「风暴使」^-
+tagClassTempestSkillDescription02B=提高穿刺伤害，并使穿刺狂风令敌人流血，降低其防御能力 3 秒。
+
+tagClassTempestSkillName02C=寒风{^K} 「风暴使」^-
+tagClassTempestSkillDescription02C=提高寒冷伤害，风刃现在会对敌人造成霜燃伤害，并在 2 秒内降低其移动速度。
+
+tagClassTempestSkillName02D=旋乱风暴{^K} 「风暴使」^-
+tagClassTempestSkillDescription02D=穿刺狂风会释放更小的风刃，在初始目标位置附近盘旋，对敌人造成寒冷与穿刺伤害，并有几率使其混乱 2 秒。
+
+tagClassTempestSkillName03A=风刃突袭{^K} 「风暴使」^-
+tagClassTempestSkillDescription03A=迅速对目标发动 3 次打击，对敌人造成穿刺与寒冷伤害。当你不在近战范围内时，你将化身为风，瞬移至目标位置。 ^o需要双持近战武器。{^n}{^n}{^y}风刃剃切 {^o}(技能等级 16 解锁){^n}^w暴击伤害提高 50%。 ^o需要双持近战武器。
+
+tagClassTempestSkillName03B=刃舞{^K} 「风暴使」^-
+tagClassTempestSkillDescription03B=风刃突袭会发射飞刃，飞行一小段距离后返回，对路径上的所有敌人造成穿刺、寒冷与流血伤害。
+
+tagClassTempestSkillName03C=冰寒重击{^K} 「风暴使」^-
+tagClassTempestSkillDescription03C=风刃突袭现在会在 3 秒内对敌人造成霜燃伤害，并提高其基础伤害。
+
+tagClassTempestSkillName04A=波刃{^K} 「风暴使」^-
+tagClassTempestSkillDescription04A=施展一次旋转攻击，释放环绕自身的水波漩涡，对周围敌人造成寒冷与霜燃伤害。 ^o需要近战武器，并且可由所有默认武器攻击触发。{^n}{^n}{^y}模糊 {^o}(技能等级 12 解锁){^n}^w被波刃命中的敌人有 25% 几率使其近战攻击失误。
+
+tagClassTempestSkillName05A=破浪{^K} 「风暴使」^-
+tagClassTempestSkillDescription05A=猛击你前方的地面，使水柱在敌人脚下喷涌而出。 ^o需要近战武器，并且可由所有默认武器攻击触发。{^n}{^n}{^y}来自深渊 {^o}(技能等级 12 解锁){^n}^w破浪获得 15% 几率将敌人击飞。
+
+tagClassTempestSkillName06A=裂潮{^K} 「风暴使」^-
+tagClassTempestSkillDescription06A=在指定位置召唤一道环形波浪，将敌人拉向中心，并对其造成寒冷与物理伤害。{^n}{^n}{^y}溢流 {^o}(技能等级 12 解锁){^n}^w裂潮还会在 3 秒内降低敌人 25% 的总速度。
+
+tagClassTempestSkillName06B=深海碾压{^K} 「风暴使」^-
+tagClassTempestSkillDescription06B=提高伤害，波浪同时对敌人造成霜燃伤害，并在 3 秒内降低其所有抗性。
+
+tagClassTempestSkillName06C=水之奥术{^K} 「风暴使」^-
+tagClassTempestSkillDescription06C=裂潮使海洋之力流经你的身体，在 5 秒内强化你的伤害。
+
+tagClassTempestSkillName06D=奥术旋风{^K} 「风暴使」^-
+tagClassTempestSkillDescription06D=召唤一场飓风，依旧会将敌人拉向中心，但造成更高伤害，并将其转化为以太与闪电伤害。
+
+tagClassTempestSkillName07A=踏风而行{^K} 「风暴使」^-
+tagClassTempestSkillDescription07A=召唤一道旋风，在 1 秒后开始提高你与盟友的攻击能力与生命回复，并在 3 秒内吸收所有受到的伤害。{^n}{^n}{^y}风之交响 {^o}(技能等级 12 解锁){^n}^w当你与盟友站在风暴中时，总伤害提高 25%。
+tagClassTempestSkillName07B=旋风{^K} 「风暴使」^-
+tagClassTempestSkillDescription07B=所有受到的伤害都会被吸收，并提高你的攻击速度。
+tagClassTempestSkillName07C=风之回旋{^K} 「风暴使」^-
+
+tagClassTempestSkillName08A=漩涡{^K} 「风暴使」^-
+tagClassTempestSkillDescription08A=化身为活生生的台风，在 6 秒内持续旋转，随机向敌人射出水刃。 ^o执行任何需要动画的动作都会使漩涡进入冷却。{^n}{^n}{^y}飘忽旋风 {^o}(技能等级 16 解锁){^n}^w漩涡激活期间，获得 50% 几率偏转投射物。
+
+tagClassTempestSkillName08B=不可阻挡{^K} 「风暴使」^-
+tagClassTempestSkillDescription08B=漩涡将你化为无情的自然之力，赋予你对控制削弱效果的极高抗性。{^n}{^n}{^y}风暴之眼 {^o}(次级转化){^n}^w投入 2 点技能点，使漩涡的伤害同时转化为以太与闪电。
+
+tagClassTempestSkillName09A=倾泻{^K} 「风暴使」^-
+tagClassTempestSkillDescription09A=在你周围释放一道拍击而下的巨浪。被命中的敌人会被冰缓，并在 6 秒内降低其部分抗性与攻击能力。 {^n}{^n}{^y}低体温症 {^o}(技能等级 12 解锁){^n}^w倾泻使敌人的防御能力降低 25%。
+
+tagClassTempestSkillName10A=深海之力{^K} 「风暴使」^-
+tagClassTempestSkillDescription10A=以汪洋之力强化自身，治疗你自己，同时为攻击附加霜燃伤害，并提高你的攻击能力、元素抗性与生命回复。 {^n}{^n}{^y}潮汐护甲 {^o}(技能等级 12 解锁){^n}^w你的护甲提高 20%。
+
+tagClassTempestSkillName10B=流动{^K} 「风暴使」^-
+tagClassTempestSkillDescription10B=无形、无相，如水一般，是每一位风暴使在战斗中立于不败之地的秘诀。
+
+tagClassTempestSkillName10C=和风{^K} 「风暴使」^-
+tagClassTempestSkillDescription10C=每当你再次激活深海之力时，会召唤两个西风在你身旁作战数秒。西风会使用与你技能相似的能力，根据其技能等级造成原技能 30% 的伤害。此外，任何作用于你武器伤害的增益或被动所提供的属性，都会强化西风的能力。 ^o需要双持近战武器。西风随玩家伤害加成成长。
+
+tagClassTempestSkillName10D=和风{^K} 「风暴使」^-
+
+tagClassTempestSkillName11A=雾触{^K} 「风暴使」^-
+tagClassTempestSkillDescription11A=风暴使以双持舞刃者闻名，能够更快速地移动，并对敌人造成更高的伤害。 ^o这是近战双持奖励，同时启用双持近战武器的能力。{^n}{^n}{^y}烟步 {^o}(技能等级 12 解锁){^n}^w减速抗性提高 30%。
+
+tagClassTempestSkillName12A=西风突袭{^K} 「风暴使」^-
+tagClassTempestSkillDescription12A=在空中旋转，释放密集的斩击，对附近敌人造成穿刺与寒冷伤害。 {^n}{^n}{^y}寂静之刃 {^o}(技能等级 16 解锁){^n}^w西风突袭在 3 秒内使敌人的伤害降低 25%。 ^o需要双持近战武器。
+
+tagClassTempestSkillName12B=切割狂风{^K} 「风暴使」^-
+tagClassTempestSkillDescription12B=空气斩击变得如刀锋般锋利，使敌人流血 3 秒，并在 5 秒内降低其防御能力。
+
+tagClassTempestSkillName13A=寒岛之嗣{^K} 「风暴使」^-
+tagClassTempestSkillDescription13A=这片土地的子民，从心灵纯净者中被选中，风暴使自幼被培养来守护族人，并踏上危险的航程，去呼吸汪洋中的迷雾。 {^n}{^n}{^y}起锚 {^o}(技能等级 16 解锁){^n}^w获得 10% 冷却时间缩减。
+
+tagClassTempestSkillName14A=风暴之怒{^K} 「风暴使」^-
+tagClassTempestSkillDescription14A=在造成一次 ^o暴击^w 后，以风暴的狂怒充能自身，突破你攻击速度的极限。 {^n}{^n}{^y}血流奔涌 {^o}(技能等级 12 解锁){^n}^w生命回复提高 100%。
+
+tagTempestRune01=^c尘卷风{^K} 「风暴使」^-
+tagTempestRune01Desc=当 ^c风暴之怒 ^w处于激活状态时，你的攻击会释放一道追踪目标并弹射至其他敌人的龙卷风，对敌人造成穿刺与寒冷伤害，并在 5 秒内降低其对应伤害类型抗性 15%。 ^o{^n}{^n}{^y}符文词： {^c}YaxVex
+
+tagTempestRune01b=^c尘卷风（强化）{^K} 「风暴使」^-
+tagTempestRune01bDesc=当 ^c风暴之怒 ^w处于激活状态时，你的攻击会释放一道追踪目标并弹射至其他敌人的龙卷风，对敌人造成穿刺与寒冷伤害，并在 5 秒内降低其对应伤害类型抗性 20%。 ^o{^n}{^n}{^y}符文词： {^c}YaxVex（强化）
+
+
+tagTempestRune02=^c狂飑{^K} 「风暴使」^-
+tagTempestRune02Desc=你获得一个新技能，使你传送至指定位置，并在抵达时用风刃斩击敌人，造成穿刺、寒冷与霜燃伤害。{^n}{^n}在使用狂飑攻击敌人后，你会获得一层风之护盾，在 3 秒内使所受伤害降低 15%，并使最大攻击速度提高 10%。{^n}{^n}在护盾保护期间，你的攻击会在身周释放风刃，对敌人造成穿刺与寒冷伤害。{^n}{^n}然而，你将无法再使用闪避。{^n}{^n}^o狂飑是一个主动技能，必须绑定至按键或按钮。护盾拥有内置冷却时间，可被冷却缩减降低。 ^o{^n}{^n}{^y}符文词： {^c}AhuThul
+
+tagTempestRune02b=^c狂飑（强化）{^K} 「风暴使」^-
+tagTempestRune02bDesc=你获得一个新技能，使你传送至指定位置，并在抵达时用风刃斩击敌人，造成穿刺、寒冷与霜燃伤害。{^n}{^n}在使用狂飑攻击敌人后，你会获得一层风之护盾，在 3 秒内使所受伤害降低 20%，并使最大攻击速度提高 15%。{^n}{^n}在护盾保护期间，你的攻击会在身周释放风刃，对敌人造成穿刺与寒冷伤害。{^n}{^n}然而，你将无法再使用闪避。{^n}{^n}^o狂飑是一个主动技能，必须绑定至按键或按钮。护盾拥有内置冷却时间，可被冷却缩减降低。 ^o{^n}{^n}{^y}符文词： {^c}AhuThul（强化）
+
+tagTempestRune02C=^c风之护盾^b{^K} 「风暴使」^-
+tagTempestRune02CDesc=你的攻击速度当前提高，且所受伤害降低。
+
+tagTempestRune02D=^c风刃^b{^K} 「风暴使」^-
+
+tagTempestRune03=^c水龙卷{^K} 「风暴使」^-
+tagTempestRune03Desc=每当 ^t波刃 ^w造成一次暴击时，会在敌人位置召唤一道水龙卷。{^n}{^n}水龙卷造成寒冷伤害，并使敌人的总速度降低 20%。{^n}{^n}同时降低敌人 10% 的以太与元素抗性。{^n}{^n}当水龙卷结束时，会分裂成六道波浪，对敌人造成寒冷、物理与霜燃伤害。^o{^n}{^n}{^y}符文词： {^c}BacLum
+
+tagTempestRune03B=^c水龙卷（强化）{^K} 「风暴使」^-
+tagTempestRune03BDesc=每当 ^t波刃 ^w造成一次暴击时，会在敌人位置召唤一道水龙卷。{^n}{^n}水龙卷造成寒冷伤害，并使敌人的总速度降低 30%。{^n}{^n}同时降低敌人 15% 的以太与元素抗性。{^n}{^n}当水龙卷结束时，会分裂成六道波浪，对敌人造成寒冷、物理与霜燃伤害。^o{^n}{^n}{^y}符文词： {^c}BacLum（强化）
+
+tagTempestRune03C=旋涡风暴{^K} 「风暴使」^-
+tagTempestRune03D=破碎浪潮{^K} 「风暴使」^-
+
+tagTempestRune=^c符文效果^b{^K} 「风暴使」^-
+
+
+
