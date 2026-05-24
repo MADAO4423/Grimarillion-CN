@@ -9,12 +9,12 @@ tagSkillClassName0615=Beastmaster
 tagSkillClassName0715=Banisher
 tagSkillClassName0815=Deathlord
 tagSkillClassName0915=Dreadguard
-tagSkillClassName1015=Dark Ranger
+tagSkillClassName1015=Decimator
 tagSkillClassName1115=Resurrector
 tagSkillClassName1215=Death Priest
-tagSkillClassName1315=Dark Mage
+tagSkillClassName1315=Death Mage
 tagSkillClassName1415=Dark Cleric
-tagSkillClassName3715=Dark Ranger
+
 
 tagSkillClassDescriptionNecromancer=Necromancers are masters of the dark arts. They summon the dead to fight for them, draw on life force and use it to strengthen or heal themselves. They also debilitate enemies with curses and rend anyone who stands in their way with deadly bone spells. ^n^sAdapted by Grimer for the Diablo 3 Mod
 

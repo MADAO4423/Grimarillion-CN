@@ -3,15 +3,15 @@ tagSkillClassName12=Monk
 tagSkillClassName0112=Warpriest
 tagSkillClassName0212=Lightcarrier
 tagSkillClassName0312=Corrupter
-tagSkillClassName0412=Bladedancer
+tagSkillClassName0412=Soulblade
 tagSkillClassName0512=Prophet
 tagSkillClassName0612=Thunderlord
 tagSkillClassName0712=Runemaster
 tagSkillClassName0812=Soulbinder
 tagSkillClassName0912=Ascetic
-tagSkillClassName1012=Holy Hunter
+tagSkillClassName1012=Brawler
 tagSkillClassName1112=Channeler
-tagSkillClassName3712=Holy Hunter
+
 
 tagSkillClassDescriptionMonk=Monks are sacred warriors who channel divine power through sheer force of will. Healing waves, mantras of protection and attacks empowered with holy might are all within their purview. ^n^sAdapted by Grimer for the Diablo 3 Mod
 

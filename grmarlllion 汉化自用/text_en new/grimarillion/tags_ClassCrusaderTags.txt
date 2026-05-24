@@ -145,7 +145,7 @@ tagClassCrusaderSkillName21E=Rise Brothers
 tagClassCrusaderSkillName21F=Bodyguard's Protection
 
 tagClassCrusaderSkillName22A=Heaven's Fury
-tagClassCrusaderSkillDescription22A=Call down a furious ray of heavenly power that deals holy damage in the area, reducing fire and lightning resistances of all enemies it passes through.{^n}{^n}{^y}Blessed Ground {^o}(Unlocked at Skill Level 12){^n}^wHeavens Fury deals additional damage to Undead and Chthonics.
+tagClassCrusaderSkillDescription22A=Call down a furious ray of heavenly power that deals holy damage in the area, reducing fire and lightning resistances of all enemies it passes through. ^oHeaven's Fury scales with player damage bonuses.{^n}{^n}{^y}Blessed Ground {^o}(Unlocked at Skill Level 12){^n}^wHeavens Fury deals additional damage to Undead and Chthonics.
 
 tagHeavensFury=Ray of Holy Power
 tagHeavensFury02=Beam of Light

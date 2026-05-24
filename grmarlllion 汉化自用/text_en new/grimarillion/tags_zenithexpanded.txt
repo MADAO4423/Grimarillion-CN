@@ -1,0 +1,99 @@
+-- Items --
+
+tagZEExpD001Axe2h01Name=Restless Fragement of Erapesh
+tagZEExpD001Axe2h01Desc=As you pick up the scythe, visions of unfathomable worlds assail your psyche. The torment lasts an impossibly long moment, then the visions dissipate and all you have to remember them by are the newly formed brands on your palms.
+
+tagZEExpD002Necklace01Name=Pyrokinetic Presence
+
+tagZEExpD003Focus01Name=Codex of Earthen Storms
+tagZEExpD003Focus01Desc=Whispers of forgotten tribes spoke of artifacts that would let the wielder control the very earth beneath them, if only they offered their soul in return.
+
+tagZEExpD004Gun2h01Name=Widowmaker
+tagZEExpD004Gun2h01Desc=Measure multiple times - pull the trigger once.
+
+tagZEExpD005Shield01Name=Icon of the Marshall
+tagZEExpD005Shield01Desc=Descriptions of this shield are rare - presumably due to the very small number of survivors of events where the Marshall himself was present.
+
+tagZEExpD006Medal01Name=Decree of the Marshall
+
+tagZEExpD007Medal02Name=Deserter's Memento
+
+tagZEExpD008Melee2h01Name=Impossibility's Embodiment
+tagZEExpD008Melee2h01Desc=Before you even began to understand how this weapon breathes and pulses with Aether energy, you were already possessed, for you hold it in your hands and cannot imagine a life before it. Soon, you will understand.
+
+tagZEExpD009Shield02Name=Insanity's Crescendo
+tagZEExpD009Shield02Desc=Torn asunder be the conventional forms and frames, now for the blood of Heaven unlearn, and the cleansing comes...
+
+tagZEExpD010Caster01Name=Reaper's Eye
+tagZEExpD010Caster01Desc=You feel as if you can see what makes your enemies weaker than you - and how to destroy them from within.
+
+tagZEExpD011Melee2h02Name=Entropy's Messenger
+tagZEExpD011Melee2h02Desc=As inevitable as entropy itself, you shall also be.
+
+tagZEExpD012Medal03Name=Mark of Despondency
+
+tagZEExpD013Head01Name=Crown of the Forgotten
+tagZEExpD013Head01Desc=You feel as if the crown compels you to shape the Aether to enact revenge on all who would dare challenge its authority.
+
+tagZEExpD014Medal04Name=Signs of the Forgotten
+tagZEExpD014Medal04Desc=Portents of doom are sent through the rifts as cryptic writings, aether storms and whispers from shifting shadows that seem to speak directly to the power in your being.
+
+tagZEExpD015Axe2h02Name=Spear of Many Echoes
+tagZEExpD015Axe2h02Desc=Every swing of this weapon is followed by tortured wails of the souls trapped within.
+
+tagZEExpD016Axe2h03Name=Incorporeal Spire
+
+tagZEExpD017Torso01Name=Ghastly Drapes
+
+tagZEExpD018Head02Name=Ethereal Crown
+
+tagZEExpD019Medal05Name=Otherworldly Brand
+
+tagZEExpD020Caster02Name=Eternal Solitude
+tagZEExpD020Caster02Desc="I cannot believe, as i see the fading sun..."
+
+tagZEExpD021Focus02Name=Fading Sun
+tagZEExpD021Focus02Desc="...The child has turned and gone away, the future - now it is done."
+
+
+
+
+
+-- Skills --
+
+tagZEExpItemSkillD001Name=Grave Upheaval
+tagZEExpItemSkillD001Desc=Unearth. Unravel. Unmake.
+
+tagZEExpItemSkillD002Name=Combat Instinct
+tagZEExpItemSkillD002Desc=The Outrider must always be ready for anything. No exceptions.{^n}^oThis is a ranged passive bonus.
+
+tagZEExpItemSkillD003Name=Split Forth
+tagZEExpItemSkillD003Desc=The voices call for them all.
+
+tagZEExpItemSkillD004Name=Stare Into the Abyss
+tagZEExpItemSkillD004Desc=Your wounds become but eyes to see the void whose grasp you desperately try to escape.
+
+tagZEExpItemSkillD005Name=Withering Storm
+tagZEExpItemSkillD005Desc=Become a whirlwind of terror and madness, swallowing all in its path.{^n}^oAt 100% Attack Speed, Withering Storm deals damage and drains Energy every 0.16s.
+
+tagSpectralSetD01SkillName=Message from Beyond
+tagSpectralSetD01SkillDesc=Attempts to break your incorporeal form will be met with overwhelming Aetheric force.
+
+tagZEExpItemSkillD006Name=Grayish Dawn
+tagZEExpItemSkillD006Desc=Mysterious inscriptions appear at your enemies' feet, then disappear after your job is done.
+
+tagZEExpItemSkillD007Name=Vision Gone
+tagZEExpItemSkillD007Desc=Energy emanates from you - you know not its origins, but are grateful all the same.
+
+tagZEExpItemSkillD008Name=Nightmares have their Reign
+tagZEExpItemSkillD008Desc=You feel as if you can darken the sun and absorb its elemental energies to lay waste to your enemies.
+
+
+
+-- Sets --
+
+tagZEExpItemSet01Name=Spectral Form
+tagZEExpItemSet01Desc=Foolish mortals, ever too curious for their own good, would believe they could freely intrude upon the Aether and claim its power for themselves. You will become the very symbol of retribution for this intrusion.
+
+tagZEExpItemSet02Name=Crimson Horizon
+

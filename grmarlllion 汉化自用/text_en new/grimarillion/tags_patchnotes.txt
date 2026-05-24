@@ -1,0 +1,9 @@
+tagPatchNotes=Patch Notes 5.5
+tagPatchNotesDesc=^wPatch 5.5 is live!{^n}{^n}This update brings a brand new item supporting Aether builds for Witch Doctor and Occultist. Also, D3 classes are stronger than ever with the several damage buffs applied on this patch. Click on the button below to check more details.
+
+tagReturnMainMenu=Main Menu
+
+tagPatchNotesUndoPoints= 
+
+tagClassPatchSkillName00=Patch Notes 5.5
+tagClassPatchSkillName00Desc=TESTAÇO

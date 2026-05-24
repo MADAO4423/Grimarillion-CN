@@ -45,7 +45,9 @@ Valdaran, the Storm Scourge
 Rematch Valdaran, the Storm Scourge
 The Iron Maiden
 Rematch The Iron Maiden
+Rematch The Iron Maiden
 Zantarin the Immortal
+Rematch Zantarin the Immortal
 Rematch Zantarin the Immortal
 Back...
 
@@ -139,7 +141,7 @@ Back
 Back
 
 Increase Eternal difficulty level
-Reset your Eternal progress and increase the difficulty and the potential rewards of your trials
+Reset your Eternal progress and increase the difficulty and the potential rewards of your trials{^n}^oIncreased legendary chances from wave and boss chests{^n}^oIncreased iron, experience, and eternal shards from wave rewards.
 Accept
 Decline
 Increase Eternal difficulty level (DEBUG)

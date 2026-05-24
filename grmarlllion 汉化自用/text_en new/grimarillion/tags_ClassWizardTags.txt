@@ -9,10 +9,9 @@ tagSkillClassName0613=Spiritualist
 tagSkillClassName0713=Spellslinger
 tagSkillClassName0813=Necromage
 tagSkillClassName0913=Arcane Keeper
-tagSkillClassName1013=Magic Ranger
+tagSkillClassName1013=Metamorph
 tagSkillClassName1113=Spiritbinder
 tagSkillClassName1213=Mageseeker
-tagSkillClassName3713=Magic Ranger
 
 tagSkillClassDescriptionWizard=Wizards are supreme magic-users, defined and united as a class by the spells they cast.They have the power of elemental energy, protection from defensive auras and ability of space-time manipulation, distorting reality to trick enemies for their own delight. ^n^sAdapted by Grimer for the Diablo 3 Mod
 

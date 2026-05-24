@@ -566,7 +566,7 @@ tagClass06SkillName13A=Primal Bond
 tagClass06SkillDescription13A=^b[Exclusive] [Buff]^n^n^wEmbrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call.
 
 tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=^b[Weapon Pool Skill]^n^o[Two-Handed Melee] [Two-Handed Ranged] [On Crit]^n^n^wStrike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating in a shockwave that strikes the initial target and all those around them. ^oRequires a two-handed melee or two-handed ranged weapon and activates off of default weapon attacks.
+tagClass06SkillDescription14A=^b[Weapon Pool Skill]^n^o[Two-Handed Melee] [Two-Handed Ranged] ^n^n^wYour brutal strikes are imbued with the strength of the earth, sometimes reverberating in a shockwave that strikes the initial target and all those around them. ^oRequires a two-handed melee or two-handed ranged weapon and activates off of default weapon attacks.
 
 tagClass06SkillName15A=Devouring Swarm
 tagClass06SkillDescription15A=^b[Spell] [Projectile] [Debuff] [Penetrating]^n^n^wOut in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grievous wounds and exposing vulnerabilities.

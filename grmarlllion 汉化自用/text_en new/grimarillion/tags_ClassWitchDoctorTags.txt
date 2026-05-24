@@ -9,8 +9,8 @@ tagSkillClassName0611=Subjugator
 tagSkillClassName0711=Runepriest
 tagSkillClassName0811=Soulmaster
 tagSkillClassName0911=Daivrat
-tagSkillClassName1011=Mystic Hunter
-tagSkillClassName3711=Mystic Hunter
+tagSkillClassName1011=Skinwalker
+
 
 tagSkillClassDescriptionWitchDoctor=Witch doctors are spiritual warriors who summon dead souls and crawling creatures to do their bidding. By surrounding themselves with conjured zombies, witch doctors are free to assault their enemies with deadly projectiles, toxic totems, and wasting curses. ^n^sAdapted by Grimer for the Diablo 3 Mod
 
@@ -243,6 +243,9 @@ tagWitchDoctorRune06bDesc=The damage of you and your pets are currently reduced 
 
 tagWitchDoctorRuneXolNer=^cHead Hunters
 tagWitchDoctorRuneXolNerDesc=Zombie Dogs and Gargantuan now have 100% chance to perform critical attacks.
+
+
+
 
 
 

@@ -1,48 +1,6 @@
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-##Unnecessary stuff removed for Grimarillion##
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-//tagSkillClassName1617=Warmage
-//tagSkillClassName1618=[ms]Hell Hunter[fs]Hell Huntress
-//tagSkillClassName1619=Dreadnaught
-//tagSkillClassName1620=Desolator
-//tagSkillClassName1621=Void Knight
-//tagSkillClassName1622=DragoonX
-//tagSkillClassName1623=
-//tagSkillClassName1624=
-//tagSkillClassName1718=Gunmage
-//tagSkillClassName1719=Archmage
-//tagSkillClassName1720=Subverter
-//tagSkillClassName1721=Sinner
-//tagSkillClassName1722=MaelstromX
-//tagSkillClassName1723=
-//tagSkillClassName1724=
-//tagSkillClassName1819=Stalker
-//tagSkillClassName1820=Disruptor
-//tagSkillClassName1821=Vagabond
-//tagSkillClassName1822=AbaddonX
-//tagSkillClassName1823=
-//tagSkillClassName1824=
-//tagSkillClassName1920=Skirmisher
-//tagSkillClassName1921=Judicator
-//tagSkillClassName1922=VanguardX
-//tagSkillClassName1923=
-//tagSkillClassName1924=
-//tagSkillClassName2021=Pursuer
-//tagSkillClassName2022=VoidbringerX
-//tagSkillClassName2023=
-//tagSkillClassName2024=
-//tagSkillClassName2122=The AnomalyX
-//tagSkillClassName2123=
-//tagSkillClassName2124=
-//tagSkillClassName2223=
-//tagSkillClassName2224=
-//tagSkillClassName2324=
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class16 - Terror Knight
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassName16=Terror Knight
 tagSkillClassDescription16=Hailing from the Obsidian Forests of Enolis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -133,9 +91,9 @@ tagClass16SkillName1621X=Smother
 tagClass16SkillName1622=PLACEHOLDER
 tagClass16SkillDescription1622=PLACEHOLDER
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class17 - Evocator
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassName17=Evocator
 tagSkillClassDescription17=Traditionally, Evocators were persons of entertainment in Enolis, whose affinity for conjuration was most intriguing. With the occurrence of the Grim Dawn however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -243,9 +201,9 @@ tagClass17SkillName1721X=Eternal Vitriol
 tagClass17SkillName1722=PLACEHOLDER
 tagClass17SkillDescription1722=PLACEHOLDER
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class18 - Outrider
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassName18=Outrider
 tagSkillClassDescription18=Sharpshooters. Gunslingers. The assassins of the West carried knives and petty toxins to slay the enemies of the royal houses that had hired them. The assassins of the East deal in alchemically-enhanced lead with vicious muzzle velocities, and serve no order save for their own self-rightousness...or lack thereof. Outriders, they're called. They're not heroes, but their stock of lead and hawklike accuracy could prove precisely what mankind needs to take back its planet. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -391,9 +349,9 @@ tagClass18SkillDescription1821=^ZOutrider + the Necrotic{^n}^o[Modifier to Leech
 tagClass18SkillName1822=PLACEHOLDER
 tagClass18SkillDescription1822=PLACEHOLDER
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class19 - Champion
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassName19=Champion
 tagSkillClassDescription19=The greatest gladiators of Vallithell, Champions are no strangers to brutal combat, even though their opponents may be alien. Champions excel at surviving in the most ferocious of conditions, but they are generally not known for being able to create wanton destruction...that does not mean it is an impossibility for them, however. Many Champions went on to be royal guards of some of Vallithell's holier sects, and so were trained to utilize and combat arcane magics. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -500,9 +458,9 @@ tagClass19SkillName1921X=Judge's Decree
 tagClass19SkillName1922=PLACEHOLDER
 tagClass19SkillDescription1922=PLACEHOLDER
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class 20 - Riftstalker
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassName20=Riftstalker
 tagSkillClassDescription20=Of the many Arcanists who investigated and studied the world beyond Cairn, few were able to create and explore Rifts on their own. Those that could, however, were almost immediately abducted, indoctrinated, and studied as human experiments. Any that survived such experiments often fell into the Riftstalker Imperium Program (RIP), an elite and secretive tactical scouting force that operated all across the empire's holdings...and a bit beyond. The vast majority of Riftstalkers were immediately wiped off the face of Cairn during the Grim Dawn, primarily due to their inherent proximity to the Aetherial Rifts that created them in the first place. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -610,9 +568,9 @@ tagClass20SkillDescription2021=^ZRiftstalker + the Necrotic{^n}^o[Modifier to Un
 tagClass20SkillName2022=PLACEHOLDER
 tagClass20SkillDescription2022=PLACEHOLDER
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class 21 - Necrotic
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassName21=Necrotic
 tagSkillClassDescription21=We are at the end of the world. There are no longer tales of right and wrong. The Chthonians and Aetherials have robbed us of our humanity, but there were those of us before them that lacked such a trait already. I have told you of the horrific powers of the Terror Knights from the Obsidian Forests. I have described the magnificent displays put forth by Evocators throughout Enolis. You have learned of the Riftstalkers and their RIP program, of the gladitorial masters known to us as Champions of mankind. You have caught wind of the elusive Outriders, assassins not of blade, but of bullet. Now I will tell you the story not of a group of people, but of one creature composed purely of malevolence. The Grim Dawn killed many beasts, but could not remove The Necrotic from Cairn. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -737,9 +695,9 @@ tagClass21SkillDescription2120=^ZThe Necrotic + Riftstalker{^n}^o[Modifier to Ri
 tagClass21SkillName2122=Reaper's Fragment - Anomaly
 tagClass21SkillDescription2122=^ZThe Necrotic + the Incarnate{^n}^w
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #Class 22 - The Incarnate
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagSkillClassNameINCARNATE=
 tagSkillClassDescriptionINCARNATE=Ah, so you'd like to hear my tale, then, Taken?{^n}Then stay awhile, and listen. ^n^sCreated by Ceno for the Zenith Mod, updated by Asylum101
@@ -769,9 +727,9 @@ tagZEForgemaster001_DESC04={^n}The Incarnate cannot grant equipment bonuses.
 
 tagZE_RIPAgent001=Mysterious Agent
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 #New Zenith Relics
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+################
 
 tagCraftZEMaterial00=Zenitham
 tagCraftZEMaterial00DESC="An amalgamous shard of zenitham metal from a lost civilization, it seems to possess unearthly qualities as it shimmers and bends. With the right skills, someone might be able to extract something useful from this. Seek out the Incarnate in the Devil's Crossing Hideout."
@@ -1080,21 +1038,22 @@ tagZenith_Relic006_005=Reaper's Fragment - Pursuer
 tagZenith_Relic006_005DESC=
 
 
-~~~~~~~~~~~~~~~~~~~~~~~
+################
 Zenith Affix Crafting
-~~~~~~~~~~~~~~~~~~~~~~~
+################
+
 tagPrefixZE001=Terrorknight's
 tagPrefixZE002=Evocators
 tagPrefixZE003=Outrider's
 tagPrefixZE004=Champion's
 tagPrefixZE005=Riftstalker's
 tagPrefixZE006=Necrotic's
-tagPrefixZEB001=
-tagPrefixZEB002=
-tagPrefixZEB003=
-tagPrefixZEB004=
-tagPrefixZEB005=
-tagPrefixZEB006=
+tagPrefixZEB001=1
+tagPrefixZEB002=2
+tagPrefixZEB003=3
+tagPrefixZEB004=4
+tagPrefixZEB005=5
+tagPrefixZEB006=6
 
 tagCraftRandomZEStaff001=Zenith Acid Staff
 tagCraftRandomZEStaff002=Zenith Aether Staff
@@ -1138,5 +1097,3 @@ tagCraftRandomZEMelee1H001=Zenith One-Handed Melee Weapon
 tagCraftRandomZEMelee2H001=Zenith Two-Handed Melee Weapon
 
 tagZenithDescription=The blacksmith crafts an enchanted item appropriate to your level of magical or even rare quality, with a bonus chance of generating extremely rare items. Any Zenith item crafted has a guaranteed prefix of any random Zenith mastery.
-
-
