@@ -1,0 +1,9 @@
+tagPatchNotes=补丁说明 5.5
+tagPatchNotesDesc=^w补丁 5.5 已上线！{^n}{^n}本次更新带来了一个全新物品，支持 Witch Doctor 和 Occultist 的以太流派构筑。同时，由于本次补丁对多项伤害进行了增强，D3 职业比以往更加强势。点击下方按钮查看更多详情。
+
+tagReturnMainMenu=主菜单
+
+tagPatchNotesUndoPoints= 
+
+tagClassPatchSkillName00=补丁说明 5.5
+tagClassPatchSkillName00Desc=测试

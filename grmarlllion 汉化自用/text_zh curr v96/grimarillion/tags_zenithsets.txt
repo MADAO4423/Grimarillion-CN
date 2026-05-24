@@ -1,0 +1,60 @@
+tagZESetD001Full01Name=野兽之痛  
+tagZESetD001Full01Desc=死灵之痛弥漫于整个领域，清楚地知道野兽随时可能撕裂虚空。  
+tagZESetD001Axe01Name=(S) {^I}阵发性运动障碍  
+tagZESetD001Focus01Name=(S) {^I}亵渎之牙  
+tagZESetD001ItemSkill01Name=野兽的毒性  
+tagZESetD001ItemSkill01Desc=毒液在受害者脑海中制造出可怕的幻象，仿佛野兽亲自攻击他们。  
+tagZESetD001FocusSkill01Name=召唤受难野兽  
+tagZESetD001FocusSkill01Desc=^o受难野兽随玩家伤害加成成长。  
+tagZESetD001ItemSkill01Pet=受难野兽  
+tagZESetD001ItemSkill01Pet01=吞噬  
+tagZESetD001Hands01Name=(S) {^I}烦扰缚握  
+tagZESetD001Shoulders01Name=(S) {^I}恶意披肩  
+
+tagZESetD002Full01Name=卡布拉坎的威严  
+tagZESetD002Full01Desc=卡布拉坎的存在使群山平静。当他投入战斗时，群山会引发巨大的雪崩以保障他的安全。  
+tagZESetD002Blunt01Name=(S) {^I}泰特隆巨人  
+tagZESetD002ItemBluntSkill01Name=地震之举  
+tagZESetD002ItemBluntSkill01Desc=卡布拉坎的盾牌与山脉相通；战士感应地脉的运动，从而发起将敌人掩埋的打击。^o这是一种依赖基础武器攻击的近战技能，若使用盾牌，也会用盾牌进行攻击。  
+tagZESetD002Head01Name=(S) {^I}卡奎克斯的赐予  
+tagZESetD002Torso01Name=(S) {^I}支撑之塔卢伊兹特利  
+tagZESetD002Medal01Name=(S) {^I}接地之奇玛利
+tagZESetD002ItemSkill02Name=津纳坎特的支撑
+tagZESetD002ItemSkill02Desc=群山感知到卡布拉坎独特的动作，以湿润的土壤滋养其身躯与灵魂，使其得以恢复与振作。
+
+tagZESetD003Full01Name=必然的凯旋  
+tagZESetD003Full01Desc=守护者升起！我们的胜利铭刻于苍穹！  
+tagZESetD003Blunt02Name=(S) {^I}圣域尖塔  
+tagZESetD003Necklace01Name=(S) {^I}虔诚的慰藉  
+tagZESetD003Torso01Name=(S) {^I}坚定灯塔  
+tagZESetD003Shoulders01Name=(S) {^I}永眠宣告披肩
+
+tagZESetD004Full01Name=低温超充装  
+tagZESetD004Full01Desc=凭借边境骑手们完善的配方，即便是火山熔岩室也能让人感受到苔原的寒意。  
+tagZESetD004Head01Name=(S) {^I}佩特利冷却帽  
+tagZESetD004Shield01Name=(S) {^I}氙气压缩盾  
+tagZESetD004Torso01Name=(S) {^I}共晶背心  
+tagZESetD004Necklace01Name=(S) {^I}钆宝石  
+
+tagZESetD005Full01Name=凯德拉的分形领域  
+tagZESetD005Full01Desc=作为卓越的裂隙潜行者，凯德拉能够将虚空异常汇聚成一个独立的存在位面，以便在战斗中撤退至此。  
+tagZESetD005Gun02Name=(S) {^I}回声叠加  
+tagZESetD005Head01Name=(S) {^I}裂隙漂移者  
+tagZESetD005Torso01Name=(S) {^I}空洞星云  
+tagZESetD005Hands01Name=(S) {^I}旋涡手套  
+
+tagZESetD006Full01Name=因蒂安娜的光辉  
+tagZESetD006Full01Desc=因蒂安娜的烟花不仅是镇上平息人心的传统，更是强大的防御手段，用以阻止胆敢觊觎镇上财富的军团。  
+tagZESetD006Head01Name=(S) {^I}科里头饰  
+tagZESetD006Necklace01Name=(S) {^I}萨亚卡宝石  
+tagZESetD006Torso01Name=(S) {^I}奥凯帕塔光环  
+tagZESetD006Medal01Name=(S) {^I}雷米光辉勋章  
+tagZESetD006ItemSkill01Name=因蒂安娜的守护者  
+tagZESetD006ItemSkill01Desc=专为处理最危险的烟花作业而打造，因蒂安娜将她的奥术知识转移至此，使其成为忠诚守护者。^o随宠物伤害加成成长。  
+tagZESetD006ItemSkill01Pet=奥术构造体  
+tagZESetD006ItemSkill01Pet01=奥术起义  
+tagZESetD006ItemSkill01Pet02=烟火术  
+tagZESetD006ItemSkill01Pet03=菊花晶
+ 
+
+

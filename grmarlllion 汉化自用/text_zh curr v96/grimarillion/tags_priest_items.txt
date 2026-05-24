@@ -1,0 +1,103 @@
+SETs
+
+tagPriestSetName01=火花使者
+tagPriestSetDescription01=纳撒尼尔·埃弗哈特的祭服，他是一位学会了以精确无比的方式引导电流的神职人员，成为了天界能量的完美容器。
+
+tagPriestSetName02=高级议会
+tagPriestSetDescription02=高级议会成员的服饰，这个议会是阿科夫神职中最强大的组织。
+
+tagPriestSetName03=影刺者的踪迹
+tagPriestSetDescription03=影刺者是一位结合了刺杀技巧和阴影力量仪式的专家，是影子议会中最危险的成员之一。
+
+tagPriestSetName04=符文大师
+tagPriestSetDescription04=卢里斯·德拉里安的服饰，他是阿科夫的法术工匠导师，也是魔法师学院的创始人，在完成一个关于奥术能量链的项目后，迷恋上了符文法术。
+
+FOCUS
+
+tagPriestFocusName01={^I}玛德里拉的铭文
+tagPriestFocusDescription01=特蕾莎·玛德里拉是第一位也是唯一一位成为高级议会成员的女祭司。阿科夫人民认为她与守护者有着神圣的联系，并视她为愿意聆听女族长声音的人的指引。
+
+tagPriestFocusName02={^I}悲哀之泪
+tagPriestFocusDescription02=传说这颗珠子是由阿塔克·塞鲁的结晶化泪水所形成，她为她未能保护的人们的诅咒而哀悼。
+tagPriestFocusDescription02B=传说这颗珠子是由阿塔克·塞鲁的结晶化泪水所形成，她为她未能保护的人们的诅咒而哀悼。{^n}{^n}^o隐藏修正：^z潘尼提的复制导弹 ^e不再穿透敌人。
+
+tagPriestFocusName03={^I}历代行者的档案
+tagPriestFocusDescription03=沃尔达伦祭司的书籍，负责自帝国沦陷以来记录和保存阿科夫神职的历史信息。
+
+tagPriestFocusName04={^I}罗斯玛的召唤
+tagPriestFocusDescription04=罗斯玛祭司用于驱魔仪式的召唤书。
+
+tagPriestFocusName05={^I}沃拉瓦德里斯的法典
+tagPriestFocusDescription05=尼古拉斯·沃拉瓦德里斯的禁书，也被称为“血红枢机主教”。
+
+GUNS 2H
+
+tagPriestGun2hName01=(S) {^I}高级议会的权威
+
+SWORDS
+
+tagPriestSwordName01=(S) {^I}影刺者之刃
+tagPriestSwordName02={^I}和平使者
+tagPriestSwordDescription02="[...]然后巴西利乌斯带着他的军队向北前进，与熊王半路会合。那天，他手中的剑，唯一的武器是他的话语。一份和平条约签署了，鲜血未曾洒下，所有人都回家了。" - 《阿科夫：失落的章节》
+
+
+
+
+
+TORSO
+
+tagPriestTorsoName01=(S) {^I}火花使者的长袍
+tagPriestTorsoName02=(S) {^I}高级议会的礼服
+tagPriestTorsoName03=(S) {^I}影刺者的外衣
+tagPriestTorsoName04=(S) {^I}符文大师的外衣
+
+SHOULDERS
+
+tagPriestShouldersName01=(S) {^I}火花使者的披风
+tagPriestShouldersName02=(S) {^I}高级议会的披风
+tagPriestShouldersName03=(S) {^I}影刺者的护肩
+tagPriestShouldersName04=(S) {^I}符文大师的披风
+
+HELMS
+
+tagPriestHelmName01=(S) {^I}火花使者的面容
+tagPriestHelmName02=(S) {^I}高级议会的头巾
+tagPriestHelmName03=(S) {^I}影刺者的头罩
+
+tagPriestHelmName04={^I}悲伤女士的王冠
+tagPriestHelmDescription04=曾属于阿科夫的王后，她在罗万国王退位后经历了一段悲伤的死期。
+
+tagPriestHelmName05={^I}血红枢机主教的面容
+tagPriestHelmDescription05=曾属于血红枢机主教的头盔，他是一个被阿科夫高级议会流放的祭司，因为进行禁忌仪式。
+
+tagPriestHelmName06={^I}巴西利乌斯的王冠
+tagPriestHelmDescription06=阿科夫最年轻的国王巴西利乌斯的王冠。
+
+tagPriestHelmName07=(S) {^I}符文大师的面容
+
+GLOVES
+
+tagPriestGlovesName01={^I}永恒火花的掌握
+
+NECKLACES
+
+tagPriestNecklaceName01=(S) {^I}火花使者的宝石
+tagPriestNecklaceName02=(S) {^I}影刺者的护符
+
+tagPriestNecklaceName03={^B}诅咒王的吊坠
+tagPriestNecklaceDescription03=曾是阿科夫国王巴西利乌斯佩戴的护身符，他在统治阿科夫十多年后死于可怕的疾病。
+
+tagPriestNecklaceName04={^B}鲁达普拉斯的神圣蓝宝石
+tagPriestNecklaceDescription04=这颗宝石曾属于预言家鲁达普拉斯，他劝说大多数神职人员在灾难来临前离开了阿科夫。
+
+tagPriestNecklaceName05={^I}守护者的精华
+tagPriestNecklaceDescription05=由阿科夫的天界女族长们所祝福的精华。
+
+tagPriestNecklaceName06=(S) {^I}符文大师的护符
+
+MEDALS
+
+tagPriestMedalName01=(S) {^I}高级议会的徽章
+
+tagPriestMedalName02={^I}教长印记
+tagPriestMedalDescription02=赠与教长部成员的徽章，这个组织由一群选择原谅彼此过去罪行的死灵法师和神职人员组成，旨在团结力量，帮助人类战胜更大的邪恶。
